@@ -1,12 +1,12 @@
 {
   "slug": "the-elder-scrolls-iv-oblivion-remastered",
   "title": "The Elder Scrolls IV: Oblivion Remastered",
-  "heroUrl": "/assets/images/games/the-elder-scrolls-iv-oblivion-remastered/hero.webp",
+  "heroUrl": "/game_map/assets/images/games/the-elder-scrolls-iv-oblivion-remastered/hero.webp",
   "maps": [
     {
       "name": "Cyrodiil",
       "slug": "cyrodiil",
-      "thumbnailUrl": "/assets/images/games/the-elder-scrolls-iv-oblivion-remastered/cyrodiil.webp",
+      "thumbnailUrl": "/game_map/assets/images/games/the-elder-scrolls-iv-oblivion-remastered/cyrodiil.webp",
       "updatedAt": "2026-02-12T10:46:52Z",
       "markerCount": 1636,
       "categoryCount": 5,

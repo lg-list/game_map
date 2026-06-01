@@ -1,12 +1,12 @@
 {
   "slug": "tomb-raider",
   "title": "Tomb Raider",
-  "heroUrl": "/assets/images/games/tomb-raider/hero.webp",
+  "heroUrl": "/game_map/assets/images/games/tomb-raider/hero.webp",
   "maps": [
     {
       "name": "Yamatai",
       "slug": "yamatai",
-      "thumbnailUrl": "/assets/images/games/tomb-raider/yamatai.webp",
+      "thumbnailUrl": "/game_map/assets/images/games/tomb-raider/yamatai.webp",
       "updatedAt": "2026-05-18T02:32:03Z",
       "markerCount": 339,
       "categoryCount": 4,

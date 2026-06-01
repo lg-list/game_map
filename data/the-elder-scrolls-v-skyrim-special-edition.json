@@ -1,12 +1,12 @@
 {
   "slug": "the-elder-scrolls-v-skyrim-special-edition",
   "title": "The Elder Scrolls V: Skyrim Special Edition",
-  "heroUrl": "/assets/images/games/the-elder-scrolls-v-skyrim-special-edition/hero.webp",
+  "heroUrl": "/game_map/assets/images/games/the-elder-scrolls-v-skyrim-special-edition/hero.webp",
   "maps": [
     {
       "name": "Skyrim",
       "slug": "skyrim",
-      "thumbnailUrl": "/assets/images/games/the-elder-scrolls-v-skyrim-special-edition/skyrim.webp",
+      "thumbnailUrl": "/game_map/assets/images/games/the-elder-scrolls-v-skyrim-special-edition/skyrim.webp",
       "updatedAt": "2026-02-12T10:46:59Z",
       "markerCount": 4108,
       "categoryCount": 7,

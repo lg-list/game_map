@@ -1,12 +1,12 @@
 {
   "slug": "marvels-spider-man-remastered",
   "title": "Marvel's Spider-Man Remastered",
-  "heroUrl": "/assets/images/games/marvels-spider-man-remastered/hero.webp",
+  "heroUrl": "/game_map/assets/images/games/marvels-spider-man-remastered/hero.webp",
   "maps": [
     {
       "name": "Manhattan",
       "slug": "manhattan",
-      "thumbnailUrl": "/assets/images/games/marvels-spider-man-remastered/manhattan.webp",
+      "thumbnailUrl": "/game_map/assets/images/games/marvels-spider-man-remastered/manhattan.webp",
       "updatedAt": "2026-05-28T21:10:17Z",
       "markerCount": 382,
       "categoryCount": 5,

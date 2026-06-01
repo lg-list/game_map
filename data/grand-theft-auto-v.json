@@ -1,12 +1,12 @@
 {
   "slug": "grand-theft-auto-v",
   "title": "Grand Theft Auto V Legacy",
-  "heroUrl": "/assets/images/games/grand-theft-auto-v/hero.webp",
+  "heroUrl": "/game_map/assets/images/games/grand-theft-auto-v/hero.webp",
   "maps": [
     {
       "name": "Los Santos",
       "slug": "los-santos",
-      "thumbnailUrl": "/assets/images/games/grand-theft-auto-v/los-santos.webp",
+      "thumbnailUrl": "/game_map/assets/images/games/grand-theft-auto-v/los-santos.webp",
       "updatedAt": "2026-01-28T05:33:32Z",
       "markerCount": 528,
       "categoryCount": 4,

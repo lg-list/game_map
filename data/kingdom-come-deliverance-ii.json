@@ -1,12 +1,12 @@
 {
   "slug": "kingdom-come-deliverance-ii",
   "title": "Kingdom Come: Deliverance II",
-  "heroUrl": "/assets/images/games/kingdom-come-deliverance-ii/hero.webp",
+  "heroUrl": "/game_map/assets/images/games/kingdom-come-deliverance-ii/hero.webp",
   "maps": [
     {
       "name": "Kuttenberg",
       "slug": "kuttenberg",
-      "thumbnailUrl": "/assets/images/games/kingdom-come-deliverance-ii/kuttenberg.webp",
+      "thumbnailUrl": "/game_map/assets/images/games/kingdom-come-deliverance-ii/kuttenberg.webp",
       "updatedAt": "2026-02-19T02:50:21Z",
       "markerCount": 1607,
       "categoryCount": 7,

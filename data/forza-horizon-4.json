@@ -1,12 +1,12 @@
 {
   "slug": "forza-horizon-4",
   "title": "Forza Horizon 4",
-  "heroUrl": "/assets/images/games/forza-horizon-4/hero.webp",
+  "heroUrl": "/game_map/assets/images/games/forza-horizon-4/hero.webp",
   "maps": [
     {
       "name": "Britain",
       "slug": "britain",
-      "thumbnailUrl": "/assets/images/games/forza-horizon-4/britain.webp",
+      "thumbnailUrl": "/game_map/assets/images/games/forza-horizon-4/britain.webp",
       "updatedAt": "2026-05-11T06:39:24Z",
       "markerCount": 545,
       "categoryCount": 8,

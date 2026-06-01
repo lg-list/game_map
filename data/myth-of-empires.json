@@ -1,12 +1,12 @@
 {
   "slug": "myth-of-empires",
   "title": "Myth of Empires",
-  "heroUrl": "/assets/images/games/myth-of-empires/hero.webp",
+  "heroUrl": "/game_map/assets/images/games/myth-of-empires/hero.webp",
   "maps": [
     {
       "name": "Dongzhou",
       "slug": "dongzhou",
-      "thumbnailUrl": "/assets/images/games/myth-of-empires/dongzhou.webp",
+      "thumbnailUrl": "/game_map/assets/images/games/myth-of-empires/dongzhou.webp",
       "updatedAt": "2026-05-21T06:38:12Z",
       "markerCount": 602,
       "categoryCount": 10,

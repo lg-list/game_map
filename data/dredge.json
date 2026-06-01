@@ -1,12 +1,12 @@
 {
   "slug": "dredge",
   "title": "DREDGE",
-  "heroUrl": "/assets/images/games/dredge/hero.webp",
+  "heroUrl": "/game_map/assets/images/games/dredge/hero.webp",
   "maps": [
     {
       "name": "Dredge",
       "slug": "dredge",
-      "thumbnailUrl": "/assets/images/games/dredge/dredge.webp",
+      "thumbnailUrl": "/game_map/assets/images/games/dredge/dredge.webp",
       "updatedAt": "2026-02-05T08:10:35Z",
       "markerCount": 847,
       "categoryCount": 8,

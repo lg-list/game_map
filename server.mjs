@@ -99,10 +99,17 @@ function tileCachePath(tileKey, z, x, y) {
   return join(tileCacheRoot, safeKey, String(z), String(x), `${y}.webp`);
 }
 
+function stripProjectBase(pathname) {
+  return pathname === "/game_map" || pathname.startsWith("/game_map/")
+    ? pathname.slice("/game_map".length) || "/"
+    : pathname;
+}
+
 createServer(async (request, response) => {
   try {
     const url = new URL(request.url, "http://127.0.0.1");
-    const tileMatch = url.pathname.match(/^\/tiles\/(.+)\/(\d+)\/(\d+)\/(\d+)\.webp$/);
+    const pathname = stripProjectBase(url.pathname);
+    const tileMatch = pathname.match(/^\/tiles\/(.+)\/(\d+)\/(\d+)\/(\d+)\.webp$/);
     if (tileMatch) {
       const tileKey = decodeURIComponent(tileMatch[1]);
       const sources = await getTileSources();
@@ -159,7 +166,7 @@ createServer(async (request, response) => {
       response.end(body);
       return;
     }
-    const requestPath = url.pathname === "/" || extname(url.pathname) === "" ? `${url.pathname.replace(/\/?$/, "/")}index.html` : url.pathname;
+    const requestPath = pathname === "/" || extname(pathname) === "" ? `${pathname.replace(/\/?$/, "/")}index.html` : pathname;
     const path = requestPath.startsWith("/") ? requestPath : `/${requestPath}`;
     const decodedPath = decodeURIComponent(path);
     const candidates = [normalize(join(root, decodedPath))];

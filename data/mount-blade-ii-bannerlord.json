@@ -1,12 +1,12 @@
 {
   "slug": "mount-blade-ii-bannerlord",
   "title": "Mount & Blade II: Bannerlord",
-  "heroUrl": "/assets/images/games/mount-blade-ii-bannerlord/hero.webp",
+  "heroUrl": "/game_map/assets/images/games/mount-blade-ii-bannerlord/hero.webp",
   "maps": [
     {
       "name": "Calradia 1084 (Pre War Sails Update)",
       "slug": "calradia-1084",
-      "thumbnailUrl": "/assets/images/games/mount-blade-ii-bannerlord/calradia-1084.webp",
+      "thumbnailUrl": "/game_map/assets/images/games/mount-blade-ii-bannerlord/calradia-1084.webp",
       "updatedAt": "2026-04-28T07:53:32Z",
       "markerCount": 825,
       "categoryCount": 3,

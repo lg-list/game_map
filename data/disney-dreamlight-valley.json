@@ -1,12 +1,12 @@
 {
   "slug": "disney-dreamlight-valley",
   "title": "Disney Dreamlight Valley",
-  "heroUrl": "/assets/images/games/disney-dreamlight-valley/hero.webp",
+  "heroUrl": "/game_map/assets/images/games/disney-dreamlight-valley/hero.webp",
   "maps": [
     {
       "name": "Dreamlight Valley",
       "slug": "dreamlight-valley",
-      "thumbnailUrl": "/assets/images/games/disney-dreamlight-valley/dreamlight-valley.webp",
+      "thumbnailUrl": "/game_map/assets/images/games/disney-dreamlight-valley/dreamlight-valley.webp",
       "updatedAt": "2026-02-20T01:11:04Z",
       "markerCount": 165,
       "categoryCount": 3,

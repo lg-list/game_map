@@ -1,12 +1,12 @@
 {
   "slug": "grand-theft-auto-iv",
   "title": "Grand Theft Auto IV",
-  "heroUrl": "/assets/images/games/grand-theft-auto-iv/hero.webp",
+  "heroUrl": "/game_map/assets/images/games/grand-theft-auto-iv/hero.webp",
   "maps": [
     {
       "name": "Liberty City",
       "slug": "grand-theft-auto-iv",
-      "thumbnailUrl": "/assets/images/games/grand-theft-auto-iv/grand-theft-auto-iv.webp",
+      "thumbnailUrl": "/game_map/assets/images/games/grand-theft-auto-iv/grand-theft-auto-iv.webp",
       "updatedAt": "2026-01-30T06:15:05Z",
       "markerCount": 925,
       "categoryCount": 7,

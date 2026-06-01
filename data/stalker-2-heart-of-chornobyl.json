@@ -1,12 +1,12 @@
 {
   "slug": "stalker-2-heart-of-chornobyl",
   "title": "STALKER 2: Heart of Chornobyl",
-  "heroUrl": "/assets/images/games/stalker-2-heart-of-chornobyl/hero.webp",
+  "heroUrl": "/game_map/assets/images/games/stalker-2-heart-of-chornobyl/hero.webp",
   "maps": [
     {
       "name": "The Zone",
       "slug": "the-zone",
-      "thumbnailUrl": "/assets/images/games/stalker-2-heart-of-chornobyl/the-zone.webp",
+      "thumbnailUrl": "/game_map/assets/images/games/stalker-2-heart-of-chornobyl/the-zone.webp",
       "updatedAt": "2026-05-29T09:10:47Z",
       "markerCount": 2893,
       "categoryCount": 7,

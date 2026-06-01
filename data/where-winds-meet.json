@@ -1,12 +1,12 @@
 {
   "slug": "where-winds-meet",
   "title": "Where Winds Meet",
-  "heroUrl": "/assets/images/games/where-winds-meet/hero.webp",
+  "heroUrl": "/game_map/assets/images/games/where-winds-meet/hero.webp",
   "maps": [
     {
       "name": "Kaifeng",
       "slug": "kaifeng",
-      "thumbnailUrl": "/assets/images/games/where-winds-meet/kaifeng.webp",
+      "thumbnailUrl": "/game_map/assets/images/games/where-winds-meet/kaifeng.webp",
       "updatedAt": "2026-04-06T18:05:24Z",
       "markerCount": 3994,
       "categoryCount": 8,

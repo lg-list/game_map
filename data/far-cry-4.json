@@ -1,12 +1,12 @@
 {
   "slug": "far-cry-4",
   "title": "Far Cry 4",
-  "heroUrl": "/assets/images/games/far-cry-4/hero.webp",
+  "heroUrl": "/game_map/assets/images/games/far-cry-4/hero.webp",
   "maps": [
     {
       "name": "Kyrat",
       "slug": "kyrat",
-      "thumbnailUrl": "/assets/images/games/far-cry-4/kyrat.webp",
+      "thumbnailUrl": "/game_map/assets/images/games/far-cry-4/kyrat.webp",
       "updatedAt": "2026-04-28T07:39:52Z",
       "markerCount": 4597,
       "categoryCount": 7,

@@ -1,12 +1,12 @@
 {
   "slug": "7-days-to-die",
   "title": "7 Days to Die",
-  "heroUrl": "/assets/images/games/7-days-to-die/hero.webp",
+  "heroUrl": "/game_map/assets/images/games/7-days-to-die/hero.webp",
   "maps": [
     {
       "name": "Navezgane",
       "slug": "navezgane",
-      "thumbnailUrl": "/assets/images/games/7-days-to-die/navezgane.webp",
+      "thumbnailUrl": "/game_map/assets/images/games/7-days-to-die/navezgane.webp",
       "updatedAt": "2026-04-28T06:50:02Z",
       "markerCount": 606,
       "categoryCount": 7,

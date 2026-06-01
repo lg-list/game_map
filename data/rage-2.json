@@ -1,12 +1,12 @@
 {
   "slug": "rage-2",
   "title": "Rage 2",
-  "heroUrl": "/assets/images/games/rage-2/hero.webp",
+  "heroUrl": "/game_map/assets/images/games/rage-2/hero.webp",
   "maps": [
     {
       "name": "Rage 2",
       "slug": "rage-2",
-      "thumbnailUrl": "/assets/images/games/rage-2/rage-2.webp",
+      "thumbnailUrl": "/game_map/assets/images/games/rage-2/rage-2.webp",
       "updatedAt": "2026-02-19T02:23:24Z",
       "markerCount": 776,
       "categoryCount": 5,

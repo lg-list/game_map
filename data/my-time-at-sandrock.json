@@ -1,12 +1,12 @@
 {
   "slug": "my-time-at-sandrock",
   "title": "My Time at Sandrock",
-  "heroUrl": "/assets/images/games/my-time-at-sandrock/hero.webp",
+  "heroUrl": "/game_map/assets/images/games/my-time-at-sandrock/hero.webp",
   "maps": [
     {
       "name": "Eufaula Desert",
       "slug": "eufaula-desert",
-      "thumbnailUrl": "/assets/images/games/my-time-at-sandrock/eufaula-desert.webp",
+      "thumbnailUrl": "/game_map/assets/images/games/my-time-at-sandrock/eufaula-desert.webp",
       "updatedAt": "2026-05-29T17:32:10Z",
       "markerCount": 566,
       "categoryCount": 45,

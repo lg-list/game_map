@@ -1,12 +1,12 @@
 {
   "slug": "need-for-speed-payback",
   "title": "Need for Speed Payback",
-  "heroUrl": "/assets/images/games/need-for-speed-payback/hero.webp",
+  "heroUrl": "/game_map/assets/images/games/need-for-speed-payback/hero.webp",
   "maps": [
     {
       "name": "Fortune Valley",
       "slug": "fortune-valley",
-      "thumbnailUrl": "/assets/images/games/need-for-speed-payback/fortune-valley.webp",
+      "thumbnailUrl": "/game_map/assets/images/games/need-for-speed-payback/fortune-valley.webp",
       "updatedAt": "2026-04-28T07:54:51Z",
       "markerCount": 425,
       "categoryCount": 3,

@@ -1,12 +1,12 @@
 {
   "slug": "marvels-spider-man-2",
   "title": "Marvel's Spider-Man 2",
-  "heroUrl": "/assets/images/games/marvels-spider-man-2/hero.webp",
+  "heroUrl": "/game_map/assets/images/games/marvels-spider-man-2/hero.webp",
   "maps": [
     {
       "name": "New York",
       "slug": "new-york",
-      "thumbnailUrl": "/assets/images/games/marvels-spider-man-2/new-york.webp",
+      "thumbnailUrl": "/game_map/assets/images/games/marvels-spider-man-2/new-york.webp",
       "updatedAt": "2026-04-28T07:53:06Z",
       "markerCount": 591,
       "categoryCount": 4,

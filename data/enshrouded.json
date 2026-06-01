@@ -1,12 +1,12 @@
 {
   "slug": "enshrouded",
   "title": "Enshrouded",
-  "heroUrl": "/assets/images/games/enshrouded/hero.webp",
+  "heroUrl": "/game_map/assets/images/games/enshrouded/hero.webp",
   "maps": [
     {
       "name": "Embervale (2025)",
       "slug": "embervale-2025",
-      "thumbnailUrl": "/assets/images/games/enshrouded/embervale-2025.webp",
+      "thumbnailUrl": "/game_map/assets/images/games/enshrouded/embervale-2025.webp",
       "updatedAt": "2025-12-22T16:43:12Z",
       "markerCount": 1428,
       "categoryCount": 6,
