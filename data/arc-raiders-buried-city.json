@@ -1,0 +1,3665 @@
+{
+  "metadata": {
+    "externalId": "q8LMWUIHwj",
+    "name": "Buried City",
+    "slug": "buried-city",
+    "baseTilePath": "https://storage-cdn.wemod.com/maps/4d310079-3698-4e6e-929c-a37dfd74e73e/tiles",
+    "isChecklistPublished": true,
+    "isInActiveDevelopment": false,
+    "backgroundColor": "#090d19",
+    "minZoom": 1,
+    "maxZoom": 5,
+    "initialZoom": null,
+    "tmsEnabled": false,
+    "categories": [
+      {
+        "externalId": "IAtz4agrn2",
+        "gameMapExternalId": "q8LMWUIHwj",
+        "title": "采掘场",
+        "color": "#78909C",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "BRtpzYOIXI",
+        "gameMapExternalId": "q8LMWUIHwj",
+        "title": "兴趣点",
+        "color": "#37474F",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "ZH9Y6zaWUn",
+        "gameMapExternalId": "q8LMWUIHwj",
+        "title": "ARC战利品",
+        "color": "#F06292",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "dsyu6DkGli",
+        "gameMapExternalId": "q8LMWUIHwj",
+        "title": "战利品",
+        "color": "#0277BD",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "hGSodyqtBs",
+        "gameMapExternalId": "q8LMWUIHwj",
+        "title": "自然资源",
+        "color": "#66BB6A",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": ""
+      }
+    ],
+    "subcategories": [
+      {
+        "externalId": "OykIvR9JcV",
+        "categoryExternalId": "IAtz4agrn2",
+        "title": "突袭者舱口",
+        "icon": "material:arrow_circle_down",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "BzTHtLRr9u",
+        "categoryExternalId": "IAtz4agrn2",
+        "title": "地铁站",
+        "icon": "material:train",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "YPtWydDrN9",
+        "categoryExternalId": "BRtpzYOIXI",
+        "title": "玩家出生点",
+        "icon": "arrow-alt-square-up",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "f14Joe9tEF",
+        "categoryExternalId": "BRtpzYOIXI",
+        "title": "野外补给站",
+        "icon": "warehouse-alt",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "k7LxeH94kY",
+        "categoryExternalId": "BRtpzYOIXI",
+        "title": "补给呼叫站",
+        "icon": "material:cell_tower",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "2ysrs0JAVR",
+        "categoryExternalId": "BRtpzYOIXI",
+        "title": "野外箱子",
+        "icon": "material:business_center",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "Qy7yy2ELjs",
+        "categoryExternalId": "BRtpzYOIXI",
+        "title": "按钮",
+        "icon": "material:radio_button_checked",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "w3PWzBLeRW",
+        "categoryExternalId": "BRtpzYOIXI",
+        "title": "上锁的门",
+        "icon": "roundies:internet-security-tablet-lock",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "GgbuPjxUoL",
+        "categoryExternalId": "ZH9Y6zaWUn",
+        "title": "ARC 快递员",
+        "icon": "material:rocket",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "4XdHLGgDrK",
+        "categoryExternalId": "ZH9Y6zaWUn",
+        "title": "ARC探测器",
+        "icon": "roundies:world-monuments-tower-landmark",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "yZlORdGpN1",
+        "categoryExternalId": "ZH9Y6zaWUn",
+        "title": "ARC外壳",
+        "icon": "spaghetti-monster-flying",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "h5Z5SxJ8Ab",
+        "categoryExternalId": "dsyu6DkGli",
+        "title": "武器箱",
+        "icon": "roundies:airport-and-hotels-weapon-case",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "Yn6DYNBStb",
+        "categoryExternalId": "dsyu6DkGli",
+        "title": "弹药箱",
+        "icon": "roundies:business-and-finance-toolbox",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "EJvK5ueyLB",
+        "categoryExternalId": "dsyu6DkGli",
+        "title": "掠夺者宝箱",
+        "icon": "circle-r",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "bb5yQMWYXt",
+        "categoryExternalId": "dsyu6DkGli",
+        "title": "医疗包",
+        "icon": "material:medical_services",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "7LQuLGqUsP",
+        "categoryExternalId": "dsyu6DkGli",
+        "title": "载具",
+        "icon": "roundies:transportation-car-vehicle",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "Htcy2mkBBR",
+        "categoryExternalId": "dsyu6DkGli",
+        "title": "掠夺者宝箱",
+        "icon": "circle-r",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "ZvAitbsLSU",
+        "categoryExternalId": "hGSodyqtBs",
+        "title": "仙人掌果",
+        "icon": "roundies:food-pear",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "aZqNFfEqPG",
+        "categoryExternalId": "hGSodyqtBs",
+        "title": "杏子",
+        "icon": "acorn",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "iYhdxrvQm0",
+        "categoryExternalId": "hGSodyqtBs",
+        "title": "柠檬",
+        "icon": "lemon",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "6YKbyvDvWx",
+        "categoryExternalId": "hGSodyqtBs",
+        "title": "毛蕊花",
+        "icon": "wheat",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "5lDgvLXInv",
+        "categoryExternalId": "hGSodyqtBs",
+        "title": "龙舌兰",
+        "icon": "roundies:food-cauliflower",
+        "excludeFromChecklists": false,
+        "description": ""
+      }
+    ],
+    "playerLocationDeltas": null
+  },
+  "features": [
+    {
+      "coordinates": [
+        -30.491329479550615,
+        56.58883632513428
+      ],
+      "properties": {
+        "externalId": "7XQadqssp8",
+        "title": "",
+        "description": "*玩家可能的出生地点。*",
+        "subcategoryExternalId": "YPtWydDrN9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -2.3988439304019096,
+        63.43608611948059
+      ],
+      "properties": {
+        "externalId": "CBejCyjwDY",
+        "title": "",
+        "description": "*玩家可能的出生地点。*",
+        "subcategoryExternalId": "YPtWydDrN9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        34.42196531813431,
+        55.0299310141302
+      ],
+      "properties": {
+        "externalId": "XIUyFNl4cT",
+        "title": "",
+        "description": "*玩家可能的出生地点。*",
+        "subcategoryExternalId": "YPtWydDrN9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        56.90751445108023,
+        45.015020163252785
+      ],
+      "properties": {
+        "externalId": "AaOsqPFslO",
+        "title": "",
+        "description": "*玩家可能的出生地点。*",
+        "subcategoryExternalId": "YPtWydDrN9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        27.94797687885736,
+        35.56139112118794
+      ],
+      "properties": {
+        "externalId": "4bIAbWXcxC",
+        "title": "",
+        "description": "*玩家可能的出生地点。*",
+        "subcategoryExternalId": "YPtWydDrN9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -15.404624277287468,
+        36.49630727112098
+      ],
+      "properties": {
+        "externalId": "2tHvsLtUoy",
+        "title": "",
+        "description": "*玩家可能的出生地点。*",
+        "subcategoryExternalId": "YPtWydDrN9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        19.45086705227135,
+        -3.062125059073793
+      ],
+      "properties": {
+        "externalId": "8LA0YcAahi",
+        "title": "",
+        "description": "*玩家可能的出生地点。*",
+        "subcategoryExternalId": "YPtWydDrN9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        65.8092485549075,
+        -56.49615755889315
+      ],
+      "properties": {
+        "externalId": "r4b7j9WQcZ",
+        "title": "",
+        "description": "*玩家可能的出生地点。*",
+        "subcategoryExternalId": "YPtWydDrN9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        39.73988439303312,
+        -52.88792629190225
+      ],
+      "properties": {
+        "externalId": "h67ka5mPt0",
+        "title": "",
+        "description": "*玩家可能的出生地点。*",
+        "subcategoryExternalId": "YPtWydDrN9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        36.96531791926839,
+        -38.91962963784174
+      ],
+      "properties": {
+        "externalId": "gQEQPR0LrG",
+        "title": "",
+        "description": "*玩家可能的出生地点。*",
+        "subcategoryExternalId": "YPtWydDrN9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -5.520231213765243,
+        -29.725217397721593
+      ],
+      "properties": {
+        "externalId": "lbI8L0A4MD",
+        "title": "",
+        "description": "*玩家可能的出生地点。*",
+        "subcategoryExternalId": "YPtWydDrN9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -27.83236994209355,
+        -29.875696197410342
+      ],
+      "properties": {
+        "externalId": "zg10a5xTN7",
+        "title": "",
+        "description": "*玩家可能的出生地点。*",
+        "subcategoryExternalId": "YPtWydDrN9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -17.543352601152094,
+        -56.52512450320107
+      ],
+      "properties": {
+        "externalId": "iSgYN8XxQ2",
+        "title": "",
+        "description": "*玩家可能的出生地点。*",
+        "subcategoryExternalId": "YPtWydDrN9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -29.931467974529056,
+        -41.112111000243196
+      ],
+      "properties": {
+        "externalId": "IEOkEJmHQT",
+        "title": "旧城舱口",
+        "description": "一个备用的、更快的、非定时撤离点。\n\n*每次使用需要突袭者舱口钥匙。*\n\n*夜袭期间突袭者舱口不可用。*",
+        "subcategoryExternalId": "OykIvR9JcV",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        17.640816121529014,
+        -12.540096928040555
+      ],
+      "properties": {
+        "externalId": "uYOo598YsN",
+        "title": "高速公路立交桥舱口",
+        "description": "一个备用的、更快的、非定时撤离点。\n\n*每次使用需要突袭者舱口钥匙。*\n\n*夜袭期间突袭者舱口不可用。*",
+        "subcategoryExternalId": "OykIvR9JcV",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        8.563053446015346,
+        52.46808973988658
+      ],
+      "properties": {
+        "externalId": "3vJeLF0H0X",
+        "title": "倒塌超市舱口",
+        "description": "一个备用的、更快的、非定时撤离点。\n\n*每次使用需要突袭者舱口钥匙。*\n\n*夜袭期间突袭者舱口不可用。*",
+        "subcategoryExternalId": "OykIvR9JcV",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        13.035450303817214,
+        -48.651131205745045
+      ],
+      "properties": {
+        "externalId": "sGXek09aMn",
+        "title": "补给呼叫站",
+        "description": "通过信号弹呼叫补给空投，可能会警告附近的玩家。\n\n*可能的生成位置。*",
+        "subcategoryExternalId": "k7LxeH94kY",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -8.13135325263434,
+        -26.45282307979143
+      ],
+      "properties": {
+        "externalId": "6fCSuTqrRC",
+        "title": "补给呼叫站",
+        "description": "通过信号弹呼叫补给空投，可能会警告附近的玩家。\n\n*可能的生成位置。*",
+        "subcategoryExternalId": "k7LxeH94kY",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        14.332940368732295,
+        6.114460102159981
+      ],
+      "properties": {
+        "externalId": "WV99voRTth",
+        "title": "补给呼叫站",
+        "description": "通过信号弹呼叫补给空投，可能会警告附近的玩家。\n\n*可能的生成位置。*",
+        "subcategoryExternalId": "k7LxeH94kY",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -19.02143320319206,
+        26.771663126776858
+      ],
+      "properties": {
+        "externalId": "Q94kSW7q04",
+        "title": "补给呼叫站",
+        "description": "通过信号弹呼叫补给空投，可能会警告附近的玩家。\n\n*可能的生成位置。*",
+        "subcategoryExternalId": "k7LxeH94kY",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        13.13415200306494,
+        31.518132052604642
+      ],
+      "properties": {
+        "externalId": "A3ZESL9zbi",
+        "title": "补给呼叫站",
+        "description": "通过信号弹呼叫补给空投，可能会警告附近的玩家。\n\n*可能的生成位置。*",
+        "subcategoryExternalId": "k7LxeH94kY",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        28.217665371138793,
+        38.14478831452752
+      ],
+      "properties": {
+        "externalId": "eARwjZgcRc",
+        "title": "补给呼叫站",
+        "description": "通过信号弹呼叫补给空投，可能会警告附近的玩家。\n\n*可能的生成位置。*",
+        "subcategoryExternalId": "k7LxeH94kY",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -8.563840327112985,
+        55.814458894922495
+      ],
+      "properties": {
+        "externalId": "PTDElTx7bS",
+        "title": "补给呼叫站",
+        "description": "通过信号弹呼叫补给空投，可能会警告附近的玩家。\n\n*可能的生成位置。*",
+        "subcategoryExternalId": "k7LxeH94kY",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        51.9885219606241,
+        -37.06133984935443
+      ],
+      "properties": {
+        "externalId": "TUx3kjOxSH",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        38.374039516112504,
+        -33.472853738521586
+      ],
+      "properties": {
+        "externalId": "byODyldz3b",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        22.550655083667806,
+        -42.562617949624865
+      ],
+      "properties": {
+        "externalId": "7P8f9VjvND",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        21.817894328069684,
+        -41.6010640619056
+      ],
+      "properties": {
+        "externalId": "mZ1DgVhoSM",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        8.245890767854263,
+        -40.18018301296682
+      ],
+      "properties": {
+        "externalId": "pRpUDcBQQW",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        2.664724815579632,
+        -35.147563290897075
+      ],
+      "properties": {
+        "externalId": "jKWehmg4TC",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        1.2285389841347012,
+        -35.63899566233433
+      ],
+      "properties": {
+        "externalId": "Fxl07uiZaZ",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -1.838870260806857,
+        -35.53806336785511
+      ],
+      "properties": {
+        "externalId": "FBGgsW6Bpg",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        8.835004684008993,
+        -32.46667560514783
+      ],
+      "properties": {
+        "externalId": "59VjROFcoo",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -10.987905927805059,
+        -32.8696729751893
+      ],
+      "properties": {
+        "externalId": "n3hJeVwaPY",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -22.9915825684308,
+        -37.72894398548868
+      ],
+      "properties": {
+        "externalId": "FoWdY1OmQC",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -27.335601441324883,
+        -46.174556685763925
+      ],
+      "properties": {
+        "externalId": "q1NNODk8ko",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -27.637023159036175,
+        -45.02085693599416
+      ],
+      "properties": {
+        "externalId": "1OyZFc1SvT",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -50.84238672482286,
+        -39.79888609741796
+      ],
+      "properties": {
+        "externalId": "Rpq75NI2X7",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -43.9895111090716,
+        -31.82416644456375
+      ],
+      "properties": {
+        "externalId": "wKl9RnJAHS",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -48.499896333887875,
+        -30.842401707077627
+      ],
+      "properties": {
+        "externalId": "vmuIzO4QrR",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -43.55302221634753,
+        -29.077759789912747
+      ],
+      "properties": {
+        "externalId": "7bOyuvyObE",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -14.908914432246434,
+        -18.193920462691054
+      ],
+      "properties": {
+        "externalId": "z2BU9TdnP1",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -17.025826642927683,
+        -11.338797374091243
+      ],
+      "properties": {
+        "externalId": "CE04qbop9K",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -13.018237114318225,
+        -8.169947732512412
+      ],
+      "properties": {
+        "externalId": "FT7avUvwtH",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -33.30404383113097,
+        -9.60384040194046
+      ],
+      "properties": {
+        "externalId": "w33WuL6XQ9",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -34.837375387631084,
+        -7.410945821565704
+      ],
+      "properties": {
+        "externalId": "CGTRuMlP8V",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        11.223141378677099,
+        -12.092283559165367
+      ],
+      "properties": {
+        "externalId": "lKHobJMklB",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        7.999534831398222,
+        -12.103957672501934
+      ],
+      "properties": {
+        "externalId": "ZTnTWRvStL",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -3.774866366273102,
+        13.33352027656015
+      ],
+      "properties": {
+        "externalId": "7V74YEsifM",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -30.486562511748673,
+        23.828484506500715
+      ],
+      "properties": {
+        "externalId": "yMab5oYffl",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -42.94695574050024,
+        28.58887235482669
+      ],
+      "properties": {
+        "externalId": "PzQUYPpPB8",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -41.78003718032318,
+        38.5738348338177
+      ],
+      "properties": {
+        "externalId": "AvpC0zT3Ps",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -17.17936665864687,
+        37.509593630074875
+      ],
+      "properties": {
+        "externalId": "EPNKO1yIWx",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -26.109950722972457,
+        44.57608958235872
+      ],
+      "properties": {
+        "externalId": "ZLppws4GBN",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        13.389949696739961,
+        25.88510066076431
+      ],
+      "properties": {
+        "externalId": "izR8xQIKwW",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        11.986925018325394,
+        25.5160414702126
+      ],
+      "properties": {
+        "externalId": "WZ2Ynr9vsv",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        24.373482130199477,
+        34.56444528758752
+      ],
+      "properties": {
+        "externalId": "fPUTZzUMCB",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        2.243329299807101,
+        44.18943555630878
+      ],
+      "properties": {
+        "externalId": "48PbHIDYmg",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        30.87736748815672,
+        -41.08753325391679
+      ],
+      "properties": {
+        "externalId": "Ee7XdeqXsq",
+        "title": "医疗包",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成地点。*",
+        "subcategoryExternalId": "bb5yQMWYXt",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        25.136824361970156,
+        -26.748876059809653
+      ],
+      "properties": {
+        "externalId": "SvbK9cyh9O",
+        "title": "医疗包",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成地点。*",
+        "subcategoryExternalId": "bb5yQMWYXt",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        18.474995154972902,
+        -22.975067603122284
+      ],
+      "properties": {
+        "externalId": "xUfQLrQC3O",
+        "title": "医疗包",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成地点。*",
+        "subcategoryExternalId": "bb5yQMWYXt",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        46.71535809760505,
+        -24.337728075342298
+      ],
+      "properties": {
+        "externalId": "9RUM4J8g8u",
+        "title": "医疗包",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成地点。*",
+        "subcategoryExternalId": "bb5yQMWYXt",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        8.477432820322349,
+        -11.936421219530331
+      ],
+      "properties": {
+        "externalId": "ayvXJf9kBN",
+        "title": "医疗包",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成地点。*",
+        "subcategoryExternalId": "bb5yQMWYXt",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -36.715245862609464,
+        -6.960157738135081
+      ],
+      "properties": {
+        "externalId": "lotRndZa3F",
+        "title": "医疗包",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成地点。*",
+        "subcategoryExternalId": "bb5yQMWYXt",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        11.025748230144615,
+        26.566202336458176
+      ],
+      "properties": {
+        "externalId": "8UXiOZx712",
+        "title": "医疗包",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成地点。*",
+        "subcategoryExternalId": "bb5yQMWYXt",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -27.518132849566655,
+        -46.688742841109594
+      ],
+      "properties": {
+        "externalId": "vpIVZjq1yZ",
+        "title": "弹药箱",
+        "description": "包含各种武器弹药。\n\n*弹药箱可能生成的位置。*",
+        "subcategoryExternalId": "Yn6DYNBStb",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -28.01842832361055,
+        -42.28689153171528
+      ],
+      "properties": {
+        "externalId": "mDtlkOXCb4",
+        "title": "弹药箱",
+        "description": "包含各种武器弹药。\n\n*弹药箱可能生成的位置。*",
+        "subcategoryExternalId": "Yn6DYNBStb",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -43.56367579713208,
+        -27.084590523445335
+      ],
+      "properties": {
+        "externalId": "IKDzvB3VTV",
+        "title": "弹药箱",
+        "description": "包含各种武器弹药。\n\n*弹药箱可能生成的位置。*",
+        "subcategoryExternalId": "Yn6DYNBStb",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        1.5635027400160197,
+        -34.564286068286634
+      ],
+      "properties": {
+        "externalId": "In1B2E2eBP",
+        "title": "弹药箱",
+        "description": "包含各种武器弹药。\n\n*弹药箱可能生成的位置。*",
+        "subcategoryExternalId": "Yn6DYNBStb",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        10.585801202927655,
+        -35.18747669920392
+      ],
+      "properties": {
+        "externalId": "ZoBT7lfAmH",
+        "title": "弹药箱",
+        "description": "包含各种武器弹药。\n\n*弹药箱可能生成的位置。*",
+        "subcategoryExternalId": "Yn6DYNBStb",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        44.03722162194805,
+        -15.288805310557223
+      ],
+      "properties": {
+        "externalId": "S0rXCxbVYy",
+        "title": "弹药箱",
+        "description": "包含各种武器弹药。\n\n*弹药箱可能生成的位置。*",
+        "subcategoryExternalId": "Yn6DYNBStb",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        33.520258197005546,
+        -12.526957122892881
+      ],
+      "properties": {
+        "externalId": "gqxRRJHOCr",
+        "title": "弹药箱",
+        "description": "包含各种武器弹药。\n\n*弹药箱可能生成的位置。*",
+        "subcategoryExternalId": "Yn6DYNBStb",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        52.42027033599703,
+        12.94321443204015
+      ],
+      "properties": {
+        "externalId": "9n1GlFrUse",
+        "title": "弹药箱",
+        "description": "包含各种武器弹药。\n\n*弹药箱可能生成的位置。*",
+        "subcategoryExternalId": "Yn6DYNBStb",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -10.046929206124958,
+        60.780883907549764
+      ],
+      "properties": {
+        "externalId": "0qg2fS1HXz",
+        "title": "弹药箱",
+        "description": "包含各种武器弹药。\n\n*弹药箱可能生成的位置。*",
+        "subcategoryExternalId": "Yn6DYNBStb",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        2.4411763545031135,
+        -43.22520490310526
+      ],
+      "properties": {
+        "externalId": "GIpv15RWh6",
+        "title": "",
+        "description": "一种用于制作和工坊升级的稀有材料。\n\n*柠檬可能的刷新地点。*",
+        "subcategoryExternalId": "iYhdxrvQm0",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -44.956651478664014,
+        -39.4431861232741
+      ],
+      "properties": {
+        "externalId": "In0GCUIVlE",
+        "title": "",
+        "description": "一种用于制作和工坊升级的稀有材料。\n\n*柠檬可能的刷新地点。*",
+        "subcategoryExternalId": "iYhdxrvQm0",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -43.82272171799863,
+        -36.951456533529225
+      ],
+      "properties": {
+        "externalId": "2qDQQccl3P",
+        "title": "",
+        "description": "一种用于制作和工坊升级的稀有材料。\n\n*柠檬可能的刷新地点。*",
+        "subcategoryExternalId": "iYhdxrvQm0",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -34.98191341451758,
+        -32.304439043281135
+      ],
+      "properties": {
+        "externalId": "Pl6Qvf16sZ",
+        "title": "",
+        "description": "一种用于制作和工坊升级的稀有材料。\n\n*柠檬可能的刷新地点。*",
+        "subcategoryExternalId": "iYhdxrvQm0",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -35.3662963842346,
+        -32.741974317502105
+      ],
+      "properties": {
+        "externalId": "Hnqd9DDLdk",
+        "title": "",
+        "description": "一种用于制作和工坊升级的稀有材料。\n\n*柠檬可能的刷新地点。*",
+        "subcategoryExternalId": "iYhdxrvQm0",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -3.5279068675291683,
+        6.530679800925142
+      ],
+      "properties": {
+        "externalId": "9WMXgRW9Uj",
+        "title": "",
+        "description": "一种用于制作和工坊升级的稀有材料。\n\n*柠檬可能的刷新地点。*",
+        "subcategoryExternalId": "iYhdxrvQm0",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        4.734759376144154,
+        12.781123034938659
+      ],
+      "properties": {
+        "externalId": "RDG432PbS3",
+        "title": "",
+        "description": "一种用于制作和工坊升级的稀有材料。\n\n*柠檬可能的刷新地点。*",
+        "subcategoryExternalId": "iYhdxrvQm0",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -12.230047342911263,
+        21.70103757782296
+      ],
+      "properties": {
+        "externalId": "m3Xzf1szjC",
+        "title": "",
+        "description": "一种用于制作和工坊升级的稀有材料。\n\n*柠檬可能的刷新地点。*",
+        "subcategoryExternalId": "iYhdxrvQm0",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -3.223960441237608,
+        -68.47852253769767
+      ],
+      "properties": {
+        "externalId": "BoZOMa0ZTV",
+        "title": "仙人掌梨",
+        "description": "用于制作和工坊升级的常见材料，或消耗后可恢复一些体力。\n\n*仙人掌果可能的生成地点。*",
+        "subcategoryExternalId": "ZvAitbsLSU",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        57.32442392210953,
+        -61.6506075215801
+      ],
+      "properties": {
+        "externalId": "kVJ7WFklBD",
+        "title": "仙人掌梨",
+        "description": "用于制作和工坊升级的常见材料，或消耗后可恢复一些体力。\n\n*仙人掌果可能的生成地点。*",
+        "subcategoryExternalId": "ZvAitbsLSU",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        55.73710395069216,
+        -61.88950350845104
+      ],
+      "properties": {
+        "externalId": "yLH6z2aknv",
+        "title": "仙人掌梨",
+        "description": "用于制作和工坊升级的常见材料，或消耗后可恢复一些体力。\n\n*仙人掌果可能的生成地点。*",
+        "subcategoryExternalId": "ZvAitbsLSU",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        26.80458992616309,
+        -56.76655374615334
+      ],
+      "properties": {
+        "externalId": "u2sSOVZj4t",
+        "title": "仙人掌梨",
+        "description": "用于制作和工坊升级的常见材料，或消耗后可恢复一些体力。\n\n*仙人掌果可能的生成地点。*",
+        "subcategoryExternalId": "ZvAitbsLSU",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        68.82567426932223,
+        -38.70949395731747
+      ],
+      "properties": {
+        "externalId": "HoQMPS7P4G",
+        "title": "仙人掌梨",
+        "description": "用于制作和工坊升级的常见材料，或消耗后可恢复一些体力。\n\n*仙人掌果可能的生成地点。*",
+        "subcategoryExternalId": "ZvAitbsLSU",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        87.01693738269137,
+        -16.63368819573978
+      ],
+      "properties": {
+        "externalId": "p4plvsrAcp",
+        "title": "仙人掌梨",
+        "description": "用于制作和工坊升级的常见材料，或消耗后可恢复一些体力。\n\n*仙人掌果可能的生成地点。*",
+        "subcategoryExternalId": "ZvAitbsLSU",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        48.48582446375866,
+        41.546556805941606
+      ],
+      "properties": {
+        "externalId": "VDwPbgkNDt",
+        "title": "仙人掌梨",
+        "description": "用于制作和工坊升级的常见材料，或消耗后可恢复一些体力。\n\n*仙人掌果可能的生成地点。*",
+        "subcategoryExternalId": "ZvAitbsLSU",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        47.939626602776684,
+        43.370306360863395
+      ],
+      "properties": {
+        "externalId": "1NCTukFxuX",
+        "title": "仙人掌梨",
+        "description": "用于制作和工坊升级的常见材料，或消耗后可恢复一些体力。\n\n*仙人掌果可能的生成地点。*",
+        "subcategoryExternalId": "ZvAitbsLSU",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        2.412490967551463,
+        7.2546741619488415
+      ],
+      "properties": {
+        "externalId": "NSiPN0SO7a",
+        "title": "杏子城",
+        "description": "一种用于制作和工坊升级的稀有材料。\n\n*杏子可能的生成地点。*",
+        "subcategoryExternalId": "aZqNFfEqPG",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -2.1659636620211415,
+        17.608041487056525
+      ],
+      "properties": {
+        "externalId": "AGe0zp31B4",
+        "title": "杏子城",
+        "description": "一种用于制作和工坊升级的稀有材料。\n\n*杏子可能的生成地点。*",
+        "subcategoryExternalId": "aZqNFfEqPG",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -7.3317858262957145,
+        16.166962196465207
+      ],
+      "properties": {
+        "externalId": "mQPE97MPQf",
+        "title": "杏子城",
+        "description": "一种用于制作和工坊升级的稀有材料。\n\n*杏子可能的生成地点。*",
+        "subcategoryExternalId": "aZqNFfEqPG",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -10.750566092464084,
+        21.87365403256939
+      ],
+      "properties": {
+        "externalId": "7FItXCDmUK",
+        "title": "杏子城",
+        "description": "一种用于制作和工坊升级的稀有材料。\n\n*杏子可能的生成地点。*",
+        "subcategoryExternalId": "aZqNFfEqPG",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -16.710622664231067,
+        64.09597068236823
+      ],
+      "properties": {
+        "externalId": "gf6q108LXe",
+        "title": "杏子城",
+        "description": "一种用于制作和工坊升级的稀有材料。\n\n*杏子可能的生成地点。*",
+        "subcategoryExternalId": "aZqNFfEqPG",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -36.39862108073905,
+        -38.04201303098209
+      ],
+      "properties": {
+        "externalId": "fHVreYZZxc",
+        "title": "",
+        "description": "一种主要用于制作医疗用品的稀有材料。\n\n*大毛蕊花可能出现的位置。*",
+        "subcategoryExternalId": "6YKbyvDvWx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -35.635012199304555,
+        -35.44723560136055
+      ],
+      "properties": {
+        "externalId": "ohZLk4F9Zr",
+        "title": "",
+        "description": "一种主要用于制作医疗用品的稀有材料。\n\n*大毛蕊花可能出现的位置。*",
+        "subcategoryExternalId": "6YKbyvDvWx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -35.55601817708879,
+        -32.054687280535575
+      ],
+      "properties": {
+        "externalId": "DXEebQVf1T",
+        "title": "",
+        "description": "一种主要用于制作医疗用品的稀有材料。\n\n*大毛蕊花可能出现的位置。*",
+        "subcategoryExternalId": "6YKbyvDvWx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -4.454985064183717,
+        12.872778611037234
+      ],
+      "properties": {
+        "externalId": "vhlangSLZ2",
+        "title": "",
+        "description": "一种主要用于制作医疗用品的稀有材料。\n\n*大毛蕊花可能出现的位置。*",
+        "subcategoryExternalId": "6YKbyvDvWx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        10.196265684136193,
+        18.20756980603744
+      ],
+      "properties": {
+        "externalId": "WTQDoaPwye",
+        "title": "",
+        "description": "一种主要用于制作医疗用品的稀有材料。\n\n*大毛蕊花可能出现的位置。*",
+        "subcategoryExternalId": "6YKbyvDvWx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        30.612908780689793,
+        30.372030702151903
+      ],
+      "properties": {
+        "externalId": "8zQ7sxNZni",
+        "title": "",
+        "description": "一种主要用于制作医疗用品的稀有材料。\n\n*大毛蕊花可能出现的位置。*",
+        "subcategoryExternalId": "6YKbyvDvWx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        30.30163705859738,
+        30.237662086394337
+      ],
+      "properties": {
+        "externalId": "OsTMoureMR",
+        "title": "",
+        "description": "一种主要用于制作医疗用品的稀有材料。\n\n*大毛蕊花可能出现的位置。*",
+        "subcategoryExternalId": "6YKbyvDvWx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        27.928190177633553,
+        32.701401802239516
+      ],
+      "properties": {
+        "externalId": "Ofl11Nsh31",
+        "title": "",
+        "description": "一种主要用于制作医疗用品的稀有材料。\n\n*大毛蕊花可能出现的位置。*",
+        "subcategoryExternalId": "6YKbyvDvWx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        26.313468119297056,
+        33.91264708918946
+      ],
+      "properties": {
+        "externalId": "UrpKPdlLRI",
+        "title": "",
+        "description": "一种主要用于制作医疗用品的稀有材料。\n\n*大毛蕊花可能出现的位置。*",
+        "subcategoryExternalId": "6YKbyvDvWx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -1.477078586915809,
+        -68.29064171622873
+      ],
+      "properties": {
+        "externalId": "1GLy8NoH9f",
+        "title": "",
+        "description": "一种不常见的材料，主要用于制作龙舌兰汁或食用来恢复一些生命值。\n\n*龙舌兰可能生成的位置。*",
+        "subcategoryExternalId": "5lDgvLXInv",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        47.585942410825766,
+        -57.920509883920325
+      ],
+      "properties": {
+        "externalId": "8i3Jbxad7W",
+        "title": "",
+        "description": "一种不常见的材料，主要用于制作龙舌兰汁或食用来恢复一些生命值。\n\n*龙舌兰可能生成的位置。*",
+        "subcategoryExternalId": "5lDgvLXInv",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        69.23630682260688,
+        -38.48138321683541
+      ],
+      "properties": {
+        "externalId": "H8bSjPLSPo",
+        "title": "",
+        "description": "一种不常见的材料，主要用于制作龙舌兰汁或食用来恢复一些生命值。\n\n*龙舌兰可能生成的位置。*",
+        "subcategoryExternalId": "5lDgvLXInv",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        84.72305464943622,
+        -16.482847308165063
+      ],
+      "properties": {
+        "externalId": "Unp0rwkSWZ",
+        "title": "",
+        "description": "一种不常见的材料，主要用于制作龙舌兰汁或食用来恢复一些生命值。\n\n*龙舌兰可能生成的位置。*",
+        "subcategoryExternalId": "5lDgvLXInv",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        89.08580135572566,
+        -13.064006529503558
+      ],
+      "properties": {
+        "externalId": "rM7HHY7Fn0",
+        "title": "",
+        "description": "一种不常见的材料，主要用于制作龙舌兰汁或食用来恢复一些生命值。\n\n*龙舌兰可能生成的位置。*",
+        "subcategoryExternalId": "5lDgvLXInv",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        41.117294164290826,
+        -0.5903915185427877
+      ],
+      "properties": {
+        "externalId": "qbYdmwgpyd",
+        "title": "",
+        "description": "一种不常见的材料，主要用于制作龙舌兰汁或食用来恢复一些生命值。\n\n*龙舌兰可能生成的位置。*",
+        "subcategoryExternalId": "5lDgvLXInv",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        24.631641036448855,
+        -33.08417575338101
+      ],
+      "properties": {
+        "externalId": "hkjvLYy5WV",
+        "title": "东方车站",
+        "description": "一个免费使用的撤离点，带有激活的关闭倒计时。\n\n*使用时会发出巨大噪音，可能会吸引敌人。*",
+        "subcategoryExternalId": "BzTHtLRr9u",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -28.79514809918436,
+        -4.160563363401877
+      ],
+      "properties": {
+        "externalId": "k0BsMmxKv6",
+        "title": "西站",
+        "description": "一个免费使用的撤离点，带有激活的关闭倒计时。\n\n*使用时会发出巨大噪音，可能会吸引敌人。*",
+        "subcategoryExternalId": "BzTHtLRr9u",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -3.659719653475605,
+        31.551567712934656
+      ],
+      "properties": {
+        "externalId": "glW1ptVVZM",
+        "title": "北方站",
+        "description": "一个免费使用的撤离点，带有激活的关闭倒计时。\n\n*使用时会发出巨大噪音，可能会吸引敌人。*",
+        "subcategoryExternalId": "BzTHtLRr9u",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        3.101967866513519,
+        -52.789529480750176
+      ],
+      "properties": {
+        "externalId": "L4KrIvVq0f",
+        "title": "南方车站",
+        "description": "一个免费使用的撤离点，带有激活的关闭倒计时。\n\n*使用时会发出巨大噪音，可能会吸引敌人。*",
+        "subcategoryExternalId": "BzTHtLRr9u",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        22.1819241575771,
+        -38.60033701359313
+      ],
+      "properties": {
+        "externalId": "POanyUbdeg",
+        "title": "音乐谜题密室",
+        "description": "*玩家必须按照**特定的音乐顺序**按下散布在地图各处的**15个隐藏按钮**来解锁一个**秘密房间**。完成后，会播放一段旋律，烟花绽放，你将获得**传奇音乐器具，如吉他和沙锤**的使用权。*",
+        "subcategoryExternalId": "w3PWzBLeRW",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -87.77456647386768,
+        -32.788211771570424
+      ],
+      "properties": {
+        "externalId": "ZEfaKH4JFT",
+        "title": "",
+        "description": "*玩家可能的出生地点。*",
+        "subcategoryExternalId": "YPtWydDrN9",
+        "imageId": 1659898,
+        "imagePath": "/game_map_pin/1659898/{size}.webp",
+        "videoId": 1659899,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/f1871146d02a86fb8a1336a085597c33e8270663"
+      }
+    },
+    {
+      "coordinates": [
+        -50.6109994736712,
+        -22.463901508344406
+      ],
+      "properties": {
+        "externalId": "W5wx8R9vKi",
+        "title": "",
+        "description": "一种不常见的材料，主要用于制作龙舌兰汁或食用来恢复一些生命值。\n\n*龙舌兰可能生成的位置。*",
+        "subcategoryExternalId": "5lDgvLXInv",
+        "imageId": 1659909,
+        "imagePath": "/game_map_pin/1659909/{size}.webp",
+        "videoId": 1659910,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/22f04e59871244c7aa69ce6c771f1c7662f83ad5"
+      }
+    },
+    {
+      "coordinates": [
+        -42.11297193488264,
+        -27.29605441744794
+      ],
+      "properties": {
+        "externalId": "ucr2CIvTWl",
+        "title": "补给呼叫站",
+        "description": "通过信号弹呼叫补给空投，可能会警告附近的玩家。\n\n*可能的生成位置。*",
+        "subcategoryExternalId": "k7LxeH94kY",
+        "imageId": 1659913,
+        "imagePath": "/game_map_pin/1659913/{size}.webp",
+        "videoId": 1659914,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/24f583c628448e02cd70e83c97f29c5113a3645f"
+      }
+    },
+    {
+      "coordinates": [
+        -57.485549132878646,
+        -47.37518887316146
+      ],
+      "properties": {
+        "externalId": "WLJEStV4y5",
+        "title": "",
+        "description": "*玩家可能的出生地点。*",
+        "subcategoryExternalId": "YPtWydDrN9",
+        "imageId": 1659922,
+        "imagePath": "/game_map_pin/1659922/{size}.webp",
+        "videoId": 1659923,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/0475512f41105ebac924e3e0377cc9d30cc0144e"
+      }
+    },
+    {
+      "coordinates": [
+        -15.518230140124217,
+        -28.61371619972246
+      ],
+      "properties": {
+        "externalId": "K6O3Bra9Js",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "h5Z5SxJ8Ab",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        48.322046720916546,
+        -23.40831893718601
+      ],
+      "properties": {
+        "externalId": "h5p5g2H6zt",
+        "title": "补给呼叫站",
+        "description": "通过信号弹呼叫补给空投，可能会警告附近的玩家。\n\n*可能的生成位置。*",
+        "subcategoryExternalId": "k7LxeH94kY",
+        "imageId": 1659953,
+        "imagePath": "/game_map_pin/1659953/{size}.webp",
+        "videoId": 1659954,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/9f4b12fbe85f47ea00876466eccd408a8d04dc44"
+      }
+    },
+    {
+      "coordinates": [
+        21.820211779895686,
+        -66.81510005413364
+      ],
+      "properties": {
+        "externalId": "xT54KuDECf",
+        "title": "",
+        "description": "*玩家可能的出生地点。*",
+        "subcategoryExternalId": "YPtWydDrN9",
+        "imageId": 1659963,
+        "imagePath": "/game_map_pin/1659963/{size}.webp",
+        "videoId": 1659964,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/80295b6eaff2252f5822eb5ff5f82d99b019181d"
+      }
+    },
+    {
+      "coordinates": [
+        20.83863260661076,
+        -69.72704801653757
+      ],
+      "properties": {
+        "externalId": "dWl2PySHcF",
+        "title": "",
+        "description": "一种主要用于制作医疗用品的稀有材料。\n\n*大毛蕊花可能出现的位置。*",
+        "subcategoryExternalId": "6YKbyvDvWx",
+        "imageId": 1659967,
+        "imagePath": "/game_map_pin/1659967/{size}.webp",
+        "videoId": 1659968,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/a01ed280391763ec7e47ed4eddb995ef97af5bd9"
+      }
+    },
+    {
+      "coordinates": [
+        24.828324780801324,
+        -53.23819181470625
+      ],
+      "properties": {
+        "externalId": "k08PF3hfuc",
+        "title": "",
+        "description": "一种不常见的材料，主要用于制作龙舌兰汁或食用来恢复一些生命值。\n\n*龙舌兰可能生成的位置。*",
+        "subcategoryExternalId": "5lDgvLXInv",
+        "imageId": 1659975,
+        "imagePath": "/game_map_pin/1659975/{size}.webp",
+        "videoId": 1659976,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/dda4d980e7981d68676cb2eabc6211d157151b7d"
+      }
+    },
+    {
+      "coordinates": [
+        -79.68208092466394,
+        9.550834886501804
+      ],
+      "properties": {
+        "externalId": "TE0iHcBBQB",
+        "title": "",
+        "description": "*玩家可能的出生地点。*",
+        "subcategoryExternalId": "YPtWydDrN9",
+        "imageId": 1660190,
+        "imagePath": "/game_map_pin/1660190/{size}.webp",
+        "videoId": 1660191,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/734b3d1a1475552e1906fe95619ec63a0204540c"
+      }
+    },
+    {
+      "coordinates": [
+        -80.3468643588505,
+        -22.530022288777033
+      ],
+      "properties": {
+        "externalId": "zHgB0XPr5r",
+        "title": "",
+        "description": "一种主要用于制作医疗用品的稀有材料。\n\n*大毛蕊花可能出现的位置。*",
+        "subcategoryExternalId": "6YKbyvDvWx",
+        "imageId": 1660204,
+        "imagePath": "/game_map_pin/1660204/{size}.webp",
+        "videoId": 1660205,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/1772c7e24065453aa9d56a32ddd8653b400c4096"
+      }
+    },
+    {
+      "coordinates": [
+        -28.56436719766097,
+        6.328321166542608
+      ],
+      "properties": {
+        "externalId": "jGItPgAZ2P",
+        "title": "",
+        "description": "*玩家可能的出生地点。*",
+        "subcategoryExternalId": "YPtWydDrN9",
+        "imageId": 1660221,
+        "imagePath": "/game_map_pin/1660221/{size}.webp",
+        "videoId": 1660222,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/bff963d2b07b86a1b5972b693a798bbb214a59e4"
+      }
+    },
+    {
+      "coordinates": [
+        -31.395560264799514,
+        29.416576480887457
+      ],
+      "properties": {
+        "externalId": "lnjE3ELLJU",
+        "title": "仙人掌梨",
+        "description": "用于制作和工坊升级的常见材料，或消耗后可恢复一些体力。\n\n*仙人掌果可能的生成地点。*",
+        "subcategoryExternalId": "ZvAitbsLSU",
+        "imageId": 1660227,
+        "imagePath": "/game_map_pin/1660227/{size}.webp",
+        "videoId": 1660228,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/e9b1dfd6337bcf5f65dc7368ebdcf211854d372f"
+      }
+    },
+    {
+      "coordinates": [
+        -7.784091580687345,
+        13.162499962734316
+      ],
+      "properties": {
+        "externalId": "U0NqO3dffb",
+        "title": "",
+        "description": "一种主要用于制作医疗用品的稀有材料。\n\n*大毛蕊花可能出现的位置。*",
+        "subcategoryExternalId": "6YKbyvDvWx",
+        "imageId": 1660233,
+        "imagePath": "/game_map_pin/1660233/{size}.webp",
+        "videoId": 1660234,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/c91276545bcaeec13256c1e8abd3a95062ca7674"
+      }
+    },
+    {
+      "coordinates": [
+        -3.1273418203242045,
+        13.9336220616769
+      ],
+      "properties": {
+        "externalId": "syEqFJN7eg",
+        "title": "",
+        "description": "一种主要用于制作医疗用品的稀有材料。\n\n*大毛蕊花可能出现的位置。*",
+        "subcategoryExternalId": "6YKbyvDvWx",
+        "imageId": 1660236,
+        "imagePath": "/game_map_pin/1660236/{size}.webp",
+        "videoId": 1660237,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/8dda9079d84335d1050932e84451aeca38a784aa"
+      }
+    },
+    {
+      "coordinates": [
+        -26.506868716497593,
+        6.943845518316124
+      ],
+      "properties": {
+        "externalId": "IoIqoXCbe6",
+        "title": "补给呼叫站",
+        "description": "通过信号弹呼叫补给空投，可能会警告附近的玩家。\n\n*可能的生成位置。*",
+        "subcategoryExternalId": "k7LxeH94kY",
+        "imageId": 1660267,
+        "imagePath": "/game_map_pin/1660267/{size}.webp",
+        "videoId": 1660268,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/c31389a084d5ecee4c52b955cc0f84c99a97ccb5"
+      }
+    },
+    {
+      "coordinates": [
+        -42.547345900026926,
+        24.526130347939045
+      ],
+      "properties": {
+        "externalId": "DuDt8qqmnT",
+        "title": "火车站舱口",
+        "description": "一个备用的、更快的、非定时撤离点。\n\n*每次使用需要突袭者舱口钥匙。*\n\n*夜袭期间突袭者舱口不可用。*",
+        "subcategoryExternalId": "OykIvR9JcV",
+        "imageId": 1660270,
+        "imagePath": "/game_map_pin/1660270/{size}.webp",
+        "videoId": 1660271,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/eef1bfefe58ced56603ea6d3c817a45777d9adf1"
+      }
+    },
+    {
+      "coordinates": [
+        -17.426763264610457,
+        28.602747022091464
+      ],
+      "properties": {
+        "externalId": "Fh1kCkyvEI",
+        "title": "补给呼叫站",
+        "description": "通过信号弹呼叫补给空投，可能会警告附近的玩家。\n\n*可能的生成位置。*",
+        "subcategoryExternalId": "k7LxeH94kY",
+        "imageId": 1660274,
+        "imagePath": "/game_map_pin/1660274/{size}.webp",
+        "videoId": 1660275,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/f65e464a689d10ba8952481c34311e87cd23f473"
+      }
+    },
+    {
+      "coordinates": [
+        92.10982658978486,
+        -24.00511439369764
+      ],
+      "properties": {
+        "externalId": "LhMv7giBvL",
+        "title": "",
+        "description": "*玩家可能的出生地点。*",
+        "subcategoryExternalId": "YPtWydDrN9",
+        "imageId": 1660329,
+        "imagePath": "/game_map_pin/1660329/{size}.webp",
+        "videoId": 1660330,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/692ab80e233fb11409633007b90cf3104372c187"
+      }
+    },
+    {
+      "coordinates": [
+        78.08481322292886,
+        -12.275113040368055
+      ],
+      "properties": {
+        "externalId": "Tb7mnJA1Yj",
+        "title": "仙人掌梨",
+        "description": "用于制作和工坊升级的常见材料，或消耗后可恢复一些体力。\n\n*仙人掌果可能的生成地点。*",
+        "subcategoryExternalId": "ZvAitbsLSU",
+        "imageId": 1660335,
+        "imagePath": "/game_map_pin/1660335/{size}.webp",
+        "videoId": 1660336,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/ef9c3e3e4eba38179b778dcaf03c4adef4fe0f42"
+      }
+    },
+    {
+      "coordinates": [
+        75.84535229382413,
+        -14.65173613147121
+      ],
+      "properties": {
+        "externalId": "xZqfr1LXbI",
+        "title": "",
+        "description": "一种不常见的材料，主要用于制作龙舌兰汁或食用来恢复一些生命值。\n\n*龙舌兰可能生成的位置。*",
+        "subcategoryExternalId": "5lDgvLXInv",
+        "imageId": 1660337,
+        "imagePath": "/game_map_pin/1660337/{size}.webp",
+        "videoId": 1660338,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/00a7819e28c09b581b4b8c5e1690bfd72d253b15"
+      }
+    },
+    {
+      "coordinates": [
+        -4.637885521269311,
+        38.588093905967156
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "cqQEZ5Dqc2",
+        "title": "ARC信使",
+        "description": "包含各种ARC材料。\n\n*ARC信使可能的刷新地点。*",
+        "subcategoryExternalId": "GgbuPjxUoL",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -74.91663914837525,
+        4.4963006436738056
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "NuP249ICSZ",
+        "title": "ARC信使",
+        "description": "包含各种ARC材料。\n\n*ARC信使可能的刷新地点。*",
+        "subcategoryExternalId": "GgbuPjxUoL",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        41.55262777212903,
+        -21.12348302064767
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "HsdOX7QHeD",
+        "title": "ARC信使",
+        "description": "包含各种ARC材料。\n\n*ARC信使可能的刷新地点。*",
+        "subcategoryExternalId": "GgbuPjxUoL",
+        "imageId": 1659946,
+        "imagePath": "/game_map_pin/1659946/{size}.webp",
+        "videoId": 1659947,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/0b8bcfb4f95d0fe87bc5082052a8257d6bc52958"
+      }
+    },
+    {
+      "coordinates": [
+        71.47540305420347,
+        -39.97708312021726
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "ATAYZ5Zpb1",
+        "title": "ARC信使",
+        "description": "包含各种ARC材料。\n\n*ARC信使可能的刷新地点。*",
+        "subcategoryExternalId": "GgbuPjxUoL",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        32.24494839850598,
+        -61.349167981027236
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "VCmJufiHSi",
+        "title": "ARC信使",
+        "description": "包含各种ARC材料。\n\n*ARC信使可能的刷新地点。*",
+        "subcategoryExternalId": "GgbuPjxUoL",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -11.834355361678519,
+        -64.78061308620912
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "KPtvRLeIhu",
+        "title": "ARC信使",
+        "description": "包含各种ARC材料。\n\n*ARC信使可能的刷新地点。*",
+        "subcategoryExternalId": "GgbuPjxUoL",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -42.020196858953824,
+        32.7185228549269
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "KSwVWFyDvc",
+        "title": "ARC探测器",
+        "description": "包含各种方舟材料。\n\n*方舟探测器可能的生成地点。*",
+        "subcategoryExternalId": "4XdHLGgDrK",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -19.560879696190824,
+        46.04179161468912
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "BXvRhg4t2R",
+        "title": "ARC探测器",
+        "description": "包含各种方舟材料。\n\n*方舟探测器可能的生成地点。*",
+        "subcategoryExternalId": "4XdHLGgDrK",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        36.85124286187033,
+        -4.983210048696307
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "frH3gIpgcG",
+        "title": "ARC探测器",
+        "description": "包含各种方舟材料。\n\n*方舟探测器可能的生成地点。*",
+        "subcategoryExternalId": "4XdHLGgDrK",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -61.940001276362864,
+        -17.674857905543504
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "KRrONbNFjF",
+        "title": "ARC外壳",
+        "description": "包含各种常见的ARC材料。\n\n*可能生成ARC外壳的地点。*",
+        "subcategoryExternalId": "yZlORdGpN1",
+        "imageId": 1659903,
+        "imagePath": "/game_map_pin/1659903/{size}.webp",
+        "videoId": 1659904,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/0a6605c2f3cb18e9a7c342bc7dfbef982dc5864f"
+      }
+    },
+    {
+      "coordinates": [
+        -66.238215608463,
+        -38.55202582679075
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "55yyQLWaoT",
+        "title": "ARC外壳",
+        "description": "包含各种常见的ARC材料。\n\n*可能生成ARC外壳的地点。*",
+        "subcategoryExternalId": "yZlORdGpN1",
+        "imageId": 1660209,
+        "imagePath": "/game_map_pin/1660209/{size}.webp",
+        "videoId": 1660210,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/6b53f8ebc56065e56b6628e3400497b7d828ca5e"
+      }
+    },
+    {
+      "coordinates": [
+        -49.553938773181216,
+        -49.15191252758964
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "TUUp8ADHms",
+        "title": "ARC外壳",
+        "description": "包含各种常见的ARC材料。\n\n*可能生成ARC外壳的地点。*",
+        "subcategoryExternalId": "yZlORdGpN1",
+        "imageId": 1659924,
+        "imagePath": "/game_map_pin/1659924/{size}.webp",
+        "videoId": 1659925,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/944a2d86ff13c678bd0d561a3a19e4a22190aa33"
+      }
+    },
+    {
+      "coordinates": [
+        30.987531798066982,
+        -15.77647889326137
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "pz3DDwFjZf",
+        "title": "ARC外壳",
+        "description": "包含各种常见的ARC材料。\n\n*可能生成ARC外壳的地点。*",
+        "subcategoryExternalId": "yZlORdGpN1",
+        "imageId": 1659944,
+        "imagePath": "/game_map_pin/1659944/{size}.webp",
+        "videoId": 1659945,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/5d1c12ee824940909d0c788c9248ed5a8dccff1b"
+      }
+    },
+    {
+      "coordinates": [
+        37.685861473826435,
+        -20.91044862174732
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "2nJ70OLrvi",
+        "title": "ARC外壳",
+        "description": "包含各种常见的ARC材料。\n\n*可能生成ARC外壳的地点。*",
+        "subcategoryExternalId": "yZlORdGpN1",
+        "imageId": 1659951,
+        "imagePath": "/game_map_pin/1659951/{size}.webp",
+        "videoId": 1659952,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/27d0b4d18ee3fbc05324b4ffc986b46888510e48"
+      }
+    },
+    {
+      "coordinates": [
+        45.72625438335257,
+        -22.923401081558154
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "0APcjVVe8L",
+        "title": "ARC外壳",
+        "description": "包含各种常见的ARC材料。\n\n*可能生成ARC外壳的地点。*",
+        "subcategoryExternalId": "yZlORdGpN1",
+        "imageId": 1660349,
+        "imagePath": "/game_map_pin/1660349/{size}.webp",
+        "videoId": 1660350,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/706fcdc1aabcd725c32efc11b276840196d554a2"
+      }
+    },
+    {
+      "coordinates": [
+        30.54566917765834,
+        -56.88476431924226
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "CjuUuxDNlJ",
+        "title": "ARC外壳",
+        "description": "包含各种常见的ARC材料。\n\n*可能生成ARC外壳的地点。*",
+        "subcategoryExternalId": "yZlORdGpN1",
+        "imageId": 1659972,
+        "imagePath": "/game_map_pin/1659972/{size}.webp",
+        "videoId": 1659973,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/a5296337e395e7969b2bf5a1ba04c03c6f96a27d"
+      }
+    },
+    {
+      "coordinates": [
+        -42.173379514460265,
+        17.318654088665212
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "DXdODqGab8",
+        "title": "汽车",
+        "description": "可能从引擎盖或后备箱中搜刮到物品。\n\n*汽车可能装有警报陷阱并会警告附近的敌人；注意闪烁的红灯。*",
+        "subcategoryExternalId": "7LQuLGqUsP",
+        "imageId": 1660225,
+        "imagePath": "/game_map_pin/1660225/{size}.webp",
+        "videoId": 1660226,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/338f2fe0aa0057f334b0a831caa04ca76fb8c250"
+      }
+    },
+    {
+      "coordinates": [
+        -57.649705582109476,
+        -19.76480807059994
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "Y4Q0JddPAP",
+        "title": "汽车",
+        "description": "可能从引擎盖或后备箱中搜刮到物品。\n\n*汽车可能装有警报陷阱并会警告附近的敌人；注意闪烁的红灯。*",
+        "subcategoryExternalId": "7LQuLGqUsP",
+        "imageId": 1659907,
+        "imagePath": "/game_map_pin/1659907/{size}.webp",
+        "videoId": 1659908,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/7e5a3c6342c73e10de8882454907b1aafc5cc101"
+      }
+    },
+    {
+      "coordinates": [
+        -58.97923895814549,
+        -26.519439872701213
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "17dp3hTYDB",
+        "title": "巴士",
+        "description": "可能从引擎盖或后备箱中搜刮到物品。\n\n*汽车可能装有警报陷阱并会警告附近的敌人；注意闪烁的红灯。*",
+        "subcategoryExternalId": "7LQuLGqUsP",
+        "imageId": 1659905,
+        "imagePath": "/game_map_pin/1659905/{size}.webp",
+        "videoId": 1659906,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/154496440a8df1d76b30a06bc64acd52ba0ebadf"
+      }
+    },
+    {
+      "coordinates": [
+        -73.8384615046726,
+        -35.46550217210321
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "hoCzebJdop",
+        "title": "汽车",
+        "description": "可能从引擎盖或后备箱中搜刮到物品。\n\n*汽车可能装有警报陷阱并会警告附近的敌人；注意闪烁的红灯。*",
+        "subcategoryExternalId": "7LQuLGqUsP",
+        "imageId": 1660206,
+        "imagePath": "/game_map_pin/1660206/{size}.webp",
+        "videoId": 1660207,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/092f10b0c6bb3e230f6bafc30507fcf166438604"
+      }
+    },
+    {
+      "coordinates": [
+        -48.48288500500664,
+        -53.427234343524006
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "yCawjYTqiQ",
+        "title": "汽车",
+        "description": "可能从引擎盖或后备箱中搜刮到物品。\n\n*汽车可能装有警报陷阱并会警告附近的敌人；注意闪烁的红灯。*",
+        "subcategoryExternalId": "7LQuLGqUsP",
+        "imageId": 1659927,
+        "imagePath": "/game_map_pin/1659927/{size}.webp",
+        "videoId": 1659928,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/42a9a4ab8484243f1eb342597038f2466a03d66d"
+      }
+    },
+    {
+      "coordinates": [
+        -48.3043760436442,
+        -52.259286123220825
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "5OtF2BNkXf",
+        "title": "巴士",
+        "description": "可能从引擎盖或后备箱中搜刮到物品。\n\n*汽车可能装有警报陷阱并会警告附近的敌人；注意闪烁的红灯。*",
+        "subcategoryExternalId": "7LQuLGqUsP",
+        "imageId": 1659929,
+        "imagePath": "/game_map_pin/1659929/{size}.webp",
+        "videoId": 1659930,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/c9711ba525c7f181da19817e678a684c95fb34e6"
+      }
+    },
+    {
+      "coordinates": [
+        -36.6120390744064,
+        -42.04685159113076
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "1c0GHcLUzt",
+        "title": "汽车",
+        "description": "可能从引擎盖或后备箱中搜刮到物品。\n\n*汽车可能装有警报陷阱并会警告附近的敌人；注意闪烁的红灯。*",
+        "subcategoryExternalId": "7LQuLGqUsP",
+        "imageId": 1659933,
+        "imagePath": "/game_map_pin/1659933/{size}.webp",
+        "videoId": 1659934,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/8868c4c86c5a65e8e565f45079ac79119ddc3199"
+      }
+    },
+    {
+      "coordinates": [
+        -22.569334113919155,
+        -31.952840316348436
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "cry8ItKuaa",
+        "title": "汽车",
+        "description": "可能从引擎盖或后备箱中搜刮到物品。\n\n*汽车可能装有警报陷阱并会警告附近的敌人；注意闪烁的红灯。*",
+        "subcategoryExternalId": "7LQuLGqUsP",
+        "imageId": 1659935,
+        "imagePath": "/game_map_pin/1659935/{size}.webp",
+        "videoId": 1659936,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/5f4d860e4f4ce3799cd4a1b2c744eadb1d010640"
+      }
+    },
+    {
+      "coordinates": [
+        5.721481776163387,
+        -21.69386420552901
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "ETXRcfEGm8",
+        "title": "汽车",
+        "description": "可能从引擎盖或后备箱中搜刮到物品。\n\n*汽车可能装有警报陷阱并会警告附近的敌人；注意闪烁的红灯。*",
+        "subcategoryExternalId": "7LQuLGqUsP",
+        "imageId": 1659940,
+        "imagePath": "/game_map_pin/1659940/{size}.webp",
+        "videoId": 1659941,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/4717c568f611535fd1fde6d29086f0aa322129bf"
+      }
+    },
+    {
+      "coordinates": [
+        7.7771893175803655,
+        -20.198531219815266
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "Vegw4WiRY0",
+        "title": "汽车",
+        "description": "可能从引擎盖或后备箱中搜刮到物品。\n\n*汽车可能装有警报陷阱并会警告附近的敌人；注意闪烁的红灯。*",
+        "subcategoryExternalId": "7LQuLGqUsP",
+        "imageId": 1659938,
+        "imagePath": "/game_map_pin/1659938/{size}.webp",
+        "videoId": 1659939,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/000f69b30df6a908d1a97647ba9a2cc530381424"
+      }
+    },
+    {
+      "coordinates": [
+        14.320209449265064,
+        -20.117423576766967
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "UAkeheeR7v",
+        "title": "汽车",
+        "description": "可能从引擎盖或后备箱中搜刮到物品。\n\n*汽车可能装有警报陷阱并会警告附近的敌人；注意闪烁的红灯。*",
+        "subcategoryExternalId": "7LQuLGqUsP",
+        "imageId": 1659942,
+        "imagePath": "/game_map_pin/1659942/{size}.webp",
+        "videoId": 1659943,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/4954a8f21e2c7efdf10b836b297cd958bd020f68"
+      }
+    },
+    {
+      "coordinates": [
+        66.74341444857379,
+        -21.838520660668095
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "c5kykVCpo3",
+        "title": "汽车",
+        "description": "可能从引擎盖或后备箱中搜刮到物品。\n\n*汽车可能装有警报陷阱并会警告附近的敌人；注意闪烁的红灯。*",
+        "subcategoryExternalId": "7LQuLGqUsP",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        68.17485173759181,
+        -21.423593936228244
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "dHAMyMzk8o",
+        "title": "汽车",
+        "description": "可能从引擎盖或后备箱中搜刮到物品。\n\n*汽车可能装有警报陷阱并会警告附近的敌人；注意闪烁的红灯。*",
+        "subcategoryExternalId": "7LQuLGqUsP",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        87.32224945305052,
+        -24.133799716497677
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "QtsL83KAvE",
+        "title": "汽车",
+        "description": "可能从引擎盖或后备箱中搜刮到物品。\n\n*汽车可能装有警报陷阱并会警告附近的敌人；注意闪烁的红灯。*",
+        "subcategoryExternalId": "7LQuLGqUsP",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -68.89626201975493,
+        25.738873691828857
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "K6KPLwrTxU",
+        "title": "掠夺者宝库",
+        "description": "包含快速使用物品、弹药、武器和武器配件。\n\n*可能的掠夺者储藏点生成位置。*",
+        "subcategoryExternalId": "Htcy2mkBBR",
+        "imageId": 1660195,
+        "imagePath": "/game_map_pin/1660195/{size}.webp",
+        "videoId": 1660196,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/a21356348432d840d9472901bd1ef11b0465c396"
+      }
+    },
+    {
+      "coordinates": [
+        -80.85776250311163,
+        -5.088803553154165
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "X2nePsiNrP",
+        "title": "掠夺者宝库",
+        "description": "包含快速使用物品、弹药、武器和武器配件。\n\n*可能的掠夺者储藏点生成位置。*",
+        "subcategoryExternalId": "Htcy2mkBBR",
+        "imageId": 1660199,
+        "imagePath": "/game_map_pin/1660199/{size}.webp",
+        "videoId": 1660200,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/c2c9faf3467207e0a5d2056ee07867e10915f9c8"
+      }
+    },
+    {
+      "coordinates": [
+        -56.020252725112684,
+        -28.45040508370618
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "XffBpXGUWn",
+        "title": "掠夺者宝库",
+        "description": "包含快速使用物品、弹药、武器和武器配件。\n\n*可能的掠夺者储藏点生成位置。*",
+        "subcategoryExternalId": "Htcy2mkBBR",
+        "imageId": 1660211,
+        "imagePath": "/game_map_pin/1660211/{size}.webp",
+        "videoId": 1660212,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/537c9e250dad7eab6ea334be8f2843108216764e"
+      }
+    },
+    {
+      "coordinates": [
+        -11.97646972966362,
+        35.226170791199735
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "3c0mmvLHSL",
+        "title": "掠夺者宝库",
+        "description": "包含快速使用物品、弹药、武器和武器配件。\n\n*可能的掠夺者储藏点生成位置。*",
+        "subcategoryExternalId": "Htcy2mkBBR",
+        "imageId": 1660277,
+        "imagePath": "/game_map_pin/1660277/{size}.webp",
+        "videoId": 1660278,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/e43556d4e0f6ed2100c88cbb825ac0c3d500e365"
+      }
+    },
+    {
+      "coordinates": [
+        65.63299342646812,
+        -26.837671232071592
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "n2YuWzzl3w",
+        "title": "掠夺者宝库",
+        "description": "包含快速使用物品、弹药、武器和武器配件。\n\n*可能的掠夺者储藏点生成位置。*",
+        "subcategoryExternalId": "Htcy2mkBBR",
+        "imageId": 1660341,
+        "imagePath": "/game_map_pin/1660341/{size}.webp",
+        "videoId": 1660342,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/8075bc985f3c16f82ad2e53a9930047dd7e1fcab"
+      }
+    },
+    {
+      "coordinates": [
+        23.27053766500265,
+        -61.038636338375966
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "aWNhb9NqhD",
+        "title": "掠夺者宝库",
+        "description": "包含快速使用物品、弹药、武器和武器配件。\n\n*可能的掠夺者储藏点生成位置。*",
+        "subcategoryExternalId": "Htcy2mkBBR",
+        "imageId": 1659969,
+        "imagePath": "/game_map_pin/1659969/{size}.webp",
+        "videoId": 1659970,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/fa9f0fe7ce6733b16fbfc5413164a4712ca4e179"
+      }
+    },
+    {
+      "coordinates": [
+        -1.9742229873757537,
+        43.024653556194636
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "ArGJNWxPVE",
+        "title": "野外补给站",
+        "description": "为你交付的每个野外箱子提供战利品奖励。",
+        "subcategoryExternalId": "f14Joe9tEF",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        66.03172160833114,
+        -8.56534800580603
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "wck3mO9vFS",
+        "title": "野外补给站",
+        "description": "为你交付的每个野外箱子提供战利品奖励。",
+        "subcategoryExternalId": "f14Joe9tEF",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -12.308900786055688,
+        -49.01313055714854
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "TEbD7L7wX4",
+        "title": "野外补给站",
+        "description": "为你交付的每个野外箱子提供战利品奖励。",
+        "subcategoryExternalId": "f14Joe9tEF",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -22.29056777861544,
+        51.78929632930925
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "yvLwC3j1rl",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -7.3479636655407035,
+        56.758879022978306
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "JLvd1Cci5J",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -25.289171576235447,
+        40.969791426482914
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "BfRajCeL1Y",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        0.2742517375495197,
+        48.36983290932585
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "nCBtHuQQVN",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -21.723835559439834,
+        31.521660321981088
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "NWArpRRxLM",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -22.926100030216872,
+        31.91838789109606
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "I6QXXiBaVe",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -19.319306617873366,
+        27.270160308339314
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "y5ULv1PL0d",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        4.185470845171494,
+        40.09650032935917
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "FlggmCzgwX",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        12.0394511499116,
+        37.61613212299362
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "WyPMeP0B0t",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        41.003548290640936,
+        15.04266177435538
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "bnJbcZBYbP",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        38.75097380301253,
+        8.217454628777048
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "tMzVQRfEXo",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        54.18110904306218,
+        8.58210304103278
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "ZZ4kviSzZw",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        53.43366387217543,
+        2.7157083445448222
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "9sAAM0q8r1",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        38.93588576619902,
+        -1.8699908654169377
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "nkfuQ8xJPr",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        54.1343582767756,
+        -6.914589179587793
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "G3yN6NuH9h",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        74.94665745524051,
+        -11.594115288816411
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "SBcFuOS8cv",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        87.33273816073893,
+        -23.202932948627193
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "e5gXflFcNp",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": 1660332,
+        "imagePath": "/game_map_pin/1660332/{size}.webp",
+        "videoId": 1660333,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/715/3a2441f3551e77b7c0565d8bbd28b344248cee03"
+      }
+    },
+    {
+      "coordinates": [
+        49.29964275925809,
+        -15.399067875142492
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "D5oEEtS9aC",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        54.81352069429974,
+        -21.124254468935717
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "bfuGbYQzNk",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        67.52191576788047,
+        -22.375157621322614
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "xYnRpEPZzD",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        68.77663955683641,
+        -24.99965266853272
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "zfolAqVeah",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        61.00656104715483,
+        -26.224476532658116
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "WNqtv0lUsv",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        50.85365846112623,
+        -28.28122415030164
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "iT5MlMgNiV",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        49.8982265851123,
+        -28.037654853524316
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "njIt5hWnRr",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        48.03340774277558,
+        -24.183225588264563
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "N6Cj1nYzvK",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        22.405069147058725,
+        -43.2757821261604
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "VlEyxOkAob",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        25.056391601149016,
+        -47.57007034160237
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "WYcQvMPx5s",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        29.786081233258017,
+        -48.42703799638292
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "XYyZxPKY5O",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        29.033375282306537,
+        -49.25513196596653
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "58QGj3xoMk",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        27.97314808362222,
+        -52.06719522341247
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "sNwwsfc9AI",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        21.432033360635785,
+        -52.27966776941652
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "1iPgHOR45T",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        13.024330803095694,
+        -49.3576818181483
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "nHIjUdiTOI",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -11.685388105446862,
+        -47.003706343267375
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "lHxACgaWVS",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -14.16304218083971,
+        -43.167756654687636
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "XmfV6XHWGM",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -13.978142623007045,
+        -40.05363322497669
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "ReDjE94kdU",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -17.688460417483725,
+        -39.08444825680409
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "QgX1UViyrT",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -18.711571304302254,
+        -41.54651888552603
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "eSnJPljJxB",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -22.113723169012815,
+        -40.9999268193341
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "Pr0fHDszFS",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -23.2477737905821,
+        -44.07789776677442
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "ODtzaoTp5R",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -26.736212115622493,
+        -43.67806354522389
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "4lMGYIbaoQ",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -27.106011231360554,
+        -39.49467779819529
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "0rja85Xj6V",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -28.97966008437686,
+        -41.092891570788865
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "9chdPRhv2H",
+        "title": "野外板条箱",
+        "description": "大型重型集装箱，必须运输到附近的野战补给站才能打开其内容物。\n\n*携带野战箱会减慢你的速度并禁用装备使用。*",
+        "subcategoryExternalId": "2ysrs0JAVR",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -74.41131091435545,
+        18.918077624392495
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "JEGTir8D6H",
+        "title": "音乐谜题 #3",
+        "description": "Mechanisms that must be activated to unlock a locked door.",
+        "subcategoryExternalId": "Qy7yy2ELjs",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -29.547587427301323,
+        44.4021765583048
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "3tGp28JO1y",
+        "title": "音乐谜题 #7",
+        "description": "Mechanisms that must be activated to unlock a locked door.",
+        "subcategoryExternalId": "Qy7yy2ELjs",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -43.54740993847079,
+        6.322274567885501
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "WAOkx1InT8",
+        "title": "音乐谜题 #14",
+        "description": "Mechanisms that must be activated to unlock a locked door.",
+        "subcategoryExternalId": "Qy7yy2ELjs",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -49.220256982371666,
+        -39.020252301441936
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "TfiFW7PiSu",
+        "title": "音乐谜题 #5",
+        "description": "Mechanisms that must be activated to unlock a locked door.",
+        "subcategoryExternalId": "Qy7yy2ELjs",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -30.708291021256514,
+        -35.47276119351344
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "Av38StiAkf",
+        "title": "音乐谜题 #11",
+        "description": "Mechanisms that must be activated to unlock a locked door.",
+        "subcategoryExternalId": "Qy7yy2ELjs",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -16.523776969811962,
+        -17.560668189355113
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "J5EsvXFwL9",
+        "title": "音乐谜题 #8",
+        "description": "Mechanisms that must be activated to unlock a locked door.",
+        "subcategoryExternalId": "Qy7yy2ELjs",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -4.987412231524502,
+        -35.733599053763065
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "HqbPog4dfN",
+        "title": "音乐谜题 #13",
+        "description": "Mechanisms that must be activated to unlock a locked door.",
+        "subcategoryExternalId": "Qy7yy2ELjs",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -1.0678393866361944,
+        -48.08353746832627
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "ciT0Bx7y7T",
+        "title": "音乐谜题 #1",
+        "description": "Mechanisms that must be activated to unlock a locked door.",
+        "subcategoryExternalId": "Qy7yy2ELjs",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        22.578584816759047,
+        -38.35489118781394
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "1KtYrlMsob",
+        "title": "音乐谜题 #15",
+        "description": "*在地图上按照**特定的音乐顺序**按下散布的15个隐藏按钮来解锁[密室](wemod:\\/\\/maps\\/99703\\/715?location=POanyUbdeg)。*",
+        "subcategoryExternalId": "Qy7yy2ELjs",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        54.25866515814798,
+        -60.09367309512838
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "w2DS8PzNLY",
+        "title": "音乐谜题 #12",
+        "description": "Mechanisms that must be activated to unlock a locked door.",
+        "subcategoryExternalId": "Qy7yy2ELjs",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        45.980078846092226,
+        -24.90643721739663
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "lFYiOzUHvT",
+        "title": "音乐谜题 #6",
+        "description": "Mechanisms that must be activated to unlock a locked door.",
+        "subcategoryExternalId": "Qy7yy2ELjs",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        70.0023094101237,
+        -12.606750290824223
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "tEWDNT7y8V",
+        "title": "音乐谜题 #9",
+        "description": "Mechanisms that must be activated to unlock a locked door.",
+        "subcategoryExternalId": "Qy7yy2ELjs",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        32.044569969582454,
+        27.038407481905693
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "8O0CplWkWR",
+        "title": "音乐谜题 #2",
+        "description": "Mechanisms that must be activated to unlock a locked door.",
+        "subcategoryExternalId": "Qy7yy2ELjs",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        1.095593910184732,
+        9.939931739806681
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "C4SBaeaC0n",
+        "title": "音乐谜题#4",
+        "description": "Mechanisms that must be activated to unlock a locked door.",
+        "subcategoryExternalId": "Qy7yy2ELjs",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        0.9741528367688943,
+        45.42543919258728
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "76OtxUwmVr",
+        "title": "音乐谜题 #10",
+        "description": "Mechanisms that must be activated to unlock a locked door.",
+        "subcategoryExternalId": "Qy7yy2ELjs",
+        "imageId": null,
+        "imagePath": ""
+      }
+    }
+  ]
+}

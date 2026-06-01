@@ -1,0 +1,16 @@
+{
+  "slug": "hollow-knight",
+  "title": "Hollow Knight",
+  "heroUrl": "/assets/images/games/hollow-knight/hero.webp",
+  "maps": [
+    {
+      "name": "Hallownest",
+      "slug": "hallownest",
+      "thumbnailUrl": "/assets/images/games/hollow-knight/hallownest.webp",
+      "updatedAt": "2026-02-19T11:05:48Z",
+      "markerCount": 914,
+      "categoryCount": 7,
+      "subcategoryCount": 37
+    }
+  ]
+}

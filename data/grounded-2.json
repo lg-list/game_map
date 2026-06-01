@@ -1,0 +1,16 @@
+{
+  "slug": "grounded-2",
+  "title": "Grounded 2",
+  "heroUrl": "/assets/images/games/grounded-2/hero.webp",
+  "maps": [
+    {
+      "name": "Brookhollow Park",
+      "slug": "brookhollow-park",
+      "thumbnailUrl": "/assets/images/games/grounded-2/brookhollow-park.webp",
+      "updatedAt": "2026-02-10T07:15:33Z",
+      "markerCount": 1378,
+      "categoryCount": 6,
+      "subcategoryCount": 57
+    }
+  ]
+}

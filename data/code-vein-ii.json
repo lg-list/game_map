@@ -1,0 +1,15 @@
+{
+  "title": "CODE VEIN II",
+  "heroUrl": "/assets/images/games/code-vein-ii/hero.webp",
+  "maps": [
+    {
+      "name": "World",
+      "slug": "world",
+      "thumbnailUrl": "/assets/images/games/code-vein-ii/world.webp",
+      "updatedAt": "2026-02-26T11:12:16Z",
+      "markerCount": 1260,
+      "categoryCount": 8,
+      "subcategoryCount": 28
+    }
+  ]
+}

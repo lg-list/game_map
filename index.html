@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Game map locations library - resource and collectible marker pages</title>
+    <meta name="description" content="Browse low-competition game map pages for specific resource locations, collectible markers, area maps, and route notes." />
+    <meta name="keywords" content="game resource location maps, collectible marker pages, area map list, game map locations" />
+    <link rel="icon" href="/favicon.ico" sizes="32x32" type="image/x-icon" />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="/" aria-label="Game Map Hub home">
+        <img class="brand-logo" src="/logo.png" alt="Game Map Hub" />
+      </a>
+      <nav class="main-nav" aria-label="Primary navigation">
+        <a href="#library">Maps</a>
+        <a href="#features">Data</a>
+        
+        <a href="#news">Updates</a>
+      </nav>
+      <div class="header-actions">
+        <a href="#library" class="account-link">Map Library</a>
+        <a href="#news" class="download-button">Latest Maps</a>
+      </div>
+    </header>
+
+    <main class="home-page">
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Location Map Library</p>
+          <h1>Game map locations for resources and collectibles</h1>
+          <p class="hero-text">Open a game, choose an area, then search the local marker list for resources, collectibles, NPCs, loot, routes, and other location-specific details.</p>
+          <form class="search-panel" role="search">
+            <label for="game-search">Search game maps</label>
+            <div class="search-row">
+              <input id="game-search" type="search" placeholder="Search a game, e.g. ARC Raiders" />
+              <button type="submit">Search</button>
+            </div>
+          </form>
+        </div>
+        <div class="hero-media" aria-label="Featured map preview">
+          <img src="/assets/images/games/arc-raiders/hero.webp" alt="ARC Raiders map locations" />
+        </div>
+      </section>
+
+      <section class="filters" aria-label="Map filters">
+        <button class="filter-button is-active" data-filter="all">All</button>
+        <button class="filter-button" data-filter="az">A-Z</button>
+        <button class="filter-button" data-filter="updated">Recently Updated</button>
+      </section>
+
+      <section class="stats" id="features">
+        <article><strong>105</strong><span>Games</span></article>
+        <article><strong>112</strong><span>Area maps</span></article>
+        <article><strong>143,571</strong><span>Map markers</span></article>
+        <article><strong>112</strong><span>Area pages</span></article>
+      </section>
+
+      <section class="library-section" id="library">
+        <div class="section-heading">
+          <p class="eyebrow">Map Library</p>
+          <h2>Map sites</h2>
+        </div>
+        <div class="game-grid" id="maps"></div>
+      </section>
+
+      <section class="news-section" id="news">
+        <div class="section-heading">
+          <p class="eyebrow">Updates</p>
+          <h2>Latest game maps</h2>
+        </div>
+        <div class="news-list">
+          <a href="/maps/outbound/"><img src="/assets/images/games/outbound/hero.webp" alt="Outbound map locations" /><span>Outbound - 2 maps, 644 markers</span></a>
+          <a href="/maps/subnautica-2/"><img src="/assets/images/games/subnautica-2/hero.webp" alt="Subnautica 2 map locations" /><span>Subnautica 2 - 1 maps, 15,613 markers</span></a>
+          <a href="/maps/code-vein-ii/"><img src="/assets/images/games/code-vein-ii/hero.webp" alt="CODE VEIN II map locations" /><span>CODE VEIN II - 1 maps, 1,260 markers</span></a>
+          <a href="/maps/crimson-desert/"><img src="/assets/images/games/crimson-desert/pywel.webp" alt="Crimson Desert map locations" /><span>Crimson Desert - 1 maps, 5,878 markers</span></a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-brand"><img class="brand-logo" src="/logo.png" alt="Game Map Hub" /></div>
+      <div class="footer-links">
+        <a href="#library">Maps</a>
+        <a href="#features">Data</a>
+        
+        <a href="#news">Updates</a>
+      </div>
+    </footer>
+
+    <script src="/script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,16 @@
+{
+  "slug": "red-dead-redemption",
+  "title": "Red Dead Redemption",
+  "heroUrl": "/assets/images/games/red-dead-redemption/hero.webp",
+  "maps": [
+    {
+      "name": "World",
+      "slug": "red-dead-redemption",
+      "thumbnailUrl": "/assets/images/games/red-dead-redemption/red-dead-redemption.webp",
+      "updatedAt": "2026-04-28T08:08:50Z",
+      "markerCount": 355,
+      "categoryCount": 5,
+      "subcategoryCount": 27
+    }
+  ]
+}

@@ -1,0 +1,7126 @@
+{
+  "metadata": {
+    "externalId": "UrjnavS2A0",
+    "name": "Baghdad",
+    "slug": "baghdad",
+    "baseTilePath": "https://storage-cdn.wemod.com/maps/1f267a28-8364-4a31-b54a-c71c932ce24e/tiles",
+    "isChecklistPublished": true,
+    "isInActiveDevelopment": false,
+    "backgroundColor": "#cfb69c",
+    "minZoom": 1,
+    "maxZoom": 6,
+    "initialZoom": null,
+    "tmsEnabled": false,
+    "categories": [
+      {
+        "externalId": "2OWDWCKgJ8",
+        "gameMapExternalId": "UrjnavS2A0",
+        "title": "其它",
+        "color": "#a1a1a1",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "YHniRwUi4r",
+        "gameMapExternalId": "UrjnavS2A0",
+        "title": "未命名分类",
+        "color": "#064c44",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "FGp9XGbIbP",
+        "gameMapExternalId": "UrjnavS2A0",
+        "title": "装备",
+        "color": "#6ea0ab",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "rAT6V4wn9N",
+        "gameMapExternalId": "UrjnavS2A0",
+        "title": "战利品",
+        "color": "#8a84bf",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "8FrRr2EIHv",
+        "gameMapExternalId": "UrjnavS2A0",
+        "title": "服务",
+        "color": "#235e0d",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "RFo5mGJZXF",
+        "gameMapExternalId": "UrjnavS2A0",
+        "title": "地点",
+        "color": "#7e1535",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "subcategories": [
+      {
+        "externalId": "HhtnYCnCfE",
+        "categoryExternalId": "2OWDWCKgJ8",
+        "title": "谜题解决方案",
+        "icon": "toilet-paper-blank",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "J0oWhpwuSP",
+        "categoryExternalId": "2OWDWCKgJ8",
+        "title": "雇佣兵",
+        "icon": "roundies:games-and-sports-sword",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "fKAXP4Znw9",
+        "categoryExternalId": "2OWDWCKgJ8",
+        "title": "商人集团",
+        "icon": "roundies:utility-2-group",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "QWs4nLP5l3",
+        "categoryExternalId": "2OWDWCKgJ8",
+        "title": "未命名子类别",
+        "icon": "map-marker-question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "CDZhLStcVm",
+        "categoryExternalId": "2OWDWCKgJ8",
+        "title": "Munadi",
+        "icon": "roundies:business-and-finance-exchange-cash-bills",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "auQUkzXlKj",
+        "categoryExternalId": "2OWDWCKgJ8",
+        "title": "音乐家",
+        "icon": "music-alt",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "jNWNAS42t1",
+        "categoryExternalId": "YHniRwUi4r",
+        "title": "额外任务",
+        "icon": "star-octogram",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "5m593kJXtH",
+        "categoryExternalId": "YHniRwUi4r",
+        "title": "合同",
+        "icon": "dice-d4",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "VI2kr0uibl",
+        "categoryExternalId": "YHniRwUi4r",
+        "title": "未命名分类",
+        "icon": "star-octogram",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "mpj8f9xD5X",
+        "categoryExternalId": "YHniRwUi4r",
+        "title": "巴格达的故事",
+        "icon": "roundies:games-and-sports-throwing-star",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "fWsuGzT2AQ",
+        "categoryExternalId": "FGp9XGbIbP",
+        "title": "服装",
+        "icon": "hood-cloak",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "MLUMwFoMPF",
+        "categoryExternalId": "FGp9XGbIbP",
+        "title": "匕首",
+        "icon": "knife-kitchen",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "QHvWFbVlhP",
+        "categoryExternalId": "FGp9XGbIbP",
+        "title": "装备",
+        "icon": "uniform-martial-arts",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "liBovxWGjB",
+        "categoryExternalId": "FGp9XGbIbP",
+        "title": "服装染料",
+        "icon": "mortar-pestle",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "OnHOfgwmnx",
+        "categoryExternalId": "FGp9XGbIbP",
+        "title": "剑",
+        "icon": "sword",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "j9YTKaFM9N",
+        "categoryExternalId": "FGp9XGbIbP",
+        "title": "护身符",
+        "icon": "roundies:games-and-sports-first-place-medal",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "SNveRRunzW",
+        "categoryExternalId": "rAT6V4wn9N",
+        "title": "Dervis的遗物",
+        "icon": "hand-paper",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "0NieQRmZf5",
+        "categoryExternalId": "rAT6V4wn9N",
+        "title": "谜题",
+        "icon": "scroll-torah",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "ZdatPuHzoP",
+        "categoryExternalId": "rAT6V4wn9N",
+        "title": "装备宝箱",
+        "icon": "treasure-chest",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "mAR1LfGInN",
+        "categoryExternalId": "rAT6V4wn9N",
+        "title": "历史遗址",
+        "icon": "dice-d20",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "uWeHkdDAkP",
+        "categoryExternalId": "rAT6V4wn9N",
+        "title": "失落的书籍",
+        "icon": "book-open-cover",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "poSj06oWXq",
+        "categoryExternalId": "rAT6V4wn9N",
+        "title": "神秘碎片",
+        "icon": "roundies:utility-1-italic",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "uvxcqliX7K",
+        "categoryExternalId": "8FrRr2EIHv",
+        "title": "铁匠铺",
+        "icon": "cross",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "UDnIBvLIsW",
+        "categoryExternalId": "8FrRr2EIHv",
+        "title": "制图师",
+        "icon": "star-christmas",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "DG6eYegFRj",
+        "categoryExternalId": "8FrRr2EIHv",
+        "title": "马厩",
+        "icon": "chess-knight",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "jljsnomOt5",
+        "categoryExternalId": "8FrRr2EIHv",
+        "title": "裁缝",
+        "icon": "pen-swirl",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "j4qbUerViy",
+        "categoryExternalId": "8FrRr2EIHv",
+        "title": "商人",
+        "icon": "roundies:business-and-finance-money-bag",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "phk4g6r5FH",
+        "categoryExternalId": "RFo5mGJZXF",
+        "title": "书籍收藏家",
+        "icon": "book-copy",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "Brv5sJutJR",
+        "categoryExternalId": "RFo5mGJZXF",
+        "title": "Dervis的护栏",
+        "icon": "hand-sparkles",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "hlnkuDnPY7",
+        "categoryExternalId": "RFo5mGJZXF",
+        "title": "隐秘者机构",
+        "icon": "camping",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "STGNwrwiWv",
+        "categoryExternalId": "RFo5mGJZXF",
+        "title": "地标",
+        "icon": "roundies:energy-sun-science",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "TViba6HJqI",
+        "categoryExternalId": "RFo5mGJZXF",
+        "title": "观景点",
+        "icon": "roundies:animals-bird_1",
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "playerLocationDeltas": {
+      "deltas": {
+        "scaleX": 0.0001204278053824443,
+        "scaleY": 0.00011708663179542851,
+        "offsetX": -29.846305393522016,
+        "offsetY": 80.74023915727886,
+        "gameCoordsMap": {
+          "x": "x",
+          "y": "y",
+          "z": "z"
+        }
+      },
+      "referencePoints": [
+        {
+          "lngLat": {
+            "lat": 2.386572776514944,
+            "lng": 38.734897536148004
+          },
+          "gameCoords": {
+            "x": 488.8511962890625,
+            "y": 111.8210678100586,
+            "z": 237.9455108642578
+          }
+        },
+        {
+          "lngLat": {
+            "lat": -64.13936944203154,
+            "lng": 74.04785156250001
+          },
+          "gameCoords": {
+            "x": 961.7255859375,
+            "y": -1016.916748046875,
+            "z": 233.51451110839844
+          }
+        }
+      ]
+    }
+  },
+  "features": [
+    {
+      "coordinates": [
+        -159.19189453125003,
+        75.18578927942627
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "Jc1mvSY4ey",
+        "title": "安巴尔的侠盗大师",
+        "description": "*任务*\n#\n下一个任务：\n- 新的开始",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -159.06005859375006,
+        75.35895281581585
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "WAVzWWFDBr",
+        "title": "新的开始",
+        "description": "*任务*\n#\n前置任务：\n- 安巴尔的神偷大盗\n#\n奖励：\n- 技能点\n#\n后续任务：\n- 展翅高飞",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -158.9341467911341,
+        75.52548834389094
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "iDsDA9D3Kn",
+        "title": "起飞",
+        "description": "*任务*\n#\n前一个任务：\n- 新的开始\n#\n奖励：\n- 技能点数\n- 阿拉穆特新手服装\n#\n下一个任务：\n- 前往巴格达",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -54.98645920297926,
+        65.0664093968225
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "1xvdTpcmfy",
+        "title": "巴格达之旅",
+        "description": "*任务*\n#\n前一个任务：\n- 展翅高飞\n#\n奖励：\n- 获得哈尔比亚分部使用权\n- 骆驼坐骑\n- 恩奇都（鹰）\n#\n下一个任务：\n- 联系反抗军\n- 追随努尔的线索",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        2.1972656250000004,
+        47.10004469402523
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "GsNd8pfaqb",
+        "title": "联系叛军",
+        "description": "*任务*\n#\n前一个任务：\n- 前往巴格达\n#\n奖励：\n- 力量令牌\n#\n下一个任务：\n- 锁定目标",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -9.184570312500002,
+        41.29431726315238
+      ],
+      "properties": {
+        "subcategoryExternalId": "hlnkuDnPY7",
+        "imageId": null,
+        "externalId": "t6kX3MjMDK",
+        "title": "哈比亚局",
+        "description": "完成任务前往巴格达后可用\n#\n*完成任务\"锁定目标\"后可在此接取合约*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -8.767089843750002,
+        51.658926648800474
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "wtiZSh5Zxi",
+        "title": "跟随努尔的指引",
+        "description": "*任务*\n#\n前一个任务：\n- 前往巴格达\n#\n奖励：\n- 无\n#\n下一个任务：\n- 锁定目标",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        9.228515625000002,
+        49.61070993807422
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "imageId": 1268144,
+        "externalId": "3s1W37FXPO",
+        "title": "",
+        "description": "可以在任务\"联系叛军\"\n期间遇到\n#\n在船甲板后面的房间。解谜以访问箱子。",
+        "imagePath": "/game_map_pin/1268144/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        7.712402343750001,
+        47.36859434521344
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "ZIPieSvA1C",
+        "title": "上港",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -9.558105468750002,
+        40.66397287638682
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "XmgSGXGsbE",
+        "title": "锁定目标",
+        "description": "*任务*\n#\n前置任务：\n- 联系反叛军\n- 跟随努尔的线索\n#\n奖励：\n- 升级图纸：阿拉穆特剑术初学者\n- 工具强化\n- 哈尔比亚办事处 合同公告板\n#\n后续任务：\n- 越狱",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -28.80615234375,
+        38.99357205820945
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "brzn2gOhEZ",
+        "title": "越狱",
+        "description": "*任务*\n#\n前一个任务：\n- 锁定目标\n#\n奖励：\n- 2个技能点数\n#\n下一个任务：\n- 微妙的联盟",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -62.53375143597223,
+        48.87965958706041
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "u2s6Gdlz5n",
+        "title": "微妙的联盟",
+        "description": "*任务*\n#\n前置：\n- 越狱\n#\n奖励：\n- 无\n#\n后续：\n- 第一号命令",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -63.23730468750001,
+        48.09275716032724
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "pqh9ICJ2wA",
+        "title": "第一教团",
+        "description": "*任务*\n#\n前置任务：\n- 微妙的联盟\n#\n奖励：\n- 3 技能点\n#\n后续任务：\n- 旧伤",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -158.26904296875,
+        75.39223893869112
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "CIGEn7p6B3",
+        "title": "旧伤",
+        "description": "*任务*\n#\n前一个任务：\n- 第一道命令\n#\n奖励：\n- 无\n#\n下一个任务：\n- 召唤\n- 分支任务",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -33.46435546875001,
+        1.8893059628373123
+      ],
+      "properties": {
+        "subcategoryExternalId": "hlnkuDnPY7",
+        "imageId": null,
+        "externalId": "4SOtHL37PO",
+        "title": "阿巴西雅局",
+        "description": "完成任务分支任务后可用\n#\n*完成任务\"火焰与智慧\"后可在此接取合约*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -33.53027343750001,
+        0.7909904981540024
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "3zk4YdTq0J",
+        "title": "火与智慧",
+        "description": "*任务*\n#\n前一个任务：\n- 分支任务\n#\n奖励：\n- 技能点数\n#\n下一个任务：\n- 智慧之家",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -53.201062474429904,
+        6.835426234441815
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "lmWZ4iBLZ5",
+        "title": "智慧之家",
+        "description": "*任务*\n#\n前一个任务：\n- 火焰与智慧\n#\n奖励：\n- 无\n#\n下一个任务：\n- 追随火焰的踪迹\n- 寻找失踪的兄弟",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -58.0517578125,
+        9.275622176792112
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "ntZExY8FAg",
+        "title": "追随烈火之径",
+        "description": "*任务*\n#\n前置：\n- 智慧宫\n#\n奖励：\n- 2 技能点\n#\n后续：\n- 向拉菲克汇报",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -55.52490234375,
+        9.665738395188697
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "02Vwnr2oUy",
+        "title": "寻找失踪的兄弟",
+        "description": "*任务*\n#\n前置：\n- 智慧宫\n#\n奖励：\n- 2 技能点\n#\n后续：\n- 向拉菲克汇报",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -54.22851562500001,
+        11.609193407938989
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "rl03T14VDR",
+        "title": "历史遗址 - 科学方法",
+        "description": "**收集品：** 艺术与科学\n#\n进入艾哈迈德工作室后的左侧",
+        "imageId": 1270543,
+        "imagePath": "/game_map_pin/1270543/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -66.92871093750001,
+        -53.40953185308643
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "5GghXn7bXM",
+        "title": "挖掘现场",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -35.65740197460757,
+        2.005469653285914
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "fvIUu1U0kC",
+        "title": "向拉菲克报告",
+        "description": "*任务*\n#\n前置任务：\n- 追寻火焰踪迹\n- 寻找失踪的兄弟\n#\n奖励：\n- 无\n#\n后续任务：\n- 伟大的研讨会",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -57.21679687500001,
+        10.098670120603387
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "VUMqxJR2AF",
+        "title": "智慧之家",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -73.16894531250001,
+        74.04372259813249
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "83ReQtRNq1",
+        "title": "召唤",
+        "description": "*任务*\n#\n前一个任务：\n- 旧伤\n#\n奖励：\n- [米拉德的服装]()\n- [翡翠弯刀]()\n- [萨姆萨马]()",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        39.39697265625001,
+        9.145486056167272
+      ],
+      "properties": {
+        "subcategoryExternalId": "hlnkuDnPY7",
+        "imageId": null,
+        "externalId": "F5mrlfYxAv",
+        "title": "沙尔基亚据点",
+        "description": "完成任务 Branching Out 后可用\n#\n*完成任务\"Blood and Shadows\"后，您可以在此处获得契约*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        39.19921875000001,
+        7.7327650627298254
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "YcVZdFMjYA",
+        "title": "Blood and Shadows",
+        "description": "*任务*\n#\n前一个任务：\n- 分支任务\n#\n奖励：\n- 1个技能点数\n#\n下一个任务：\n- 猎人",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        50.31738281250001,
+        -10.293301000109068
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "cf3FxeLqZ5",
+        "title": "猎人",
+        "description": "*任务*\n#\n前置任务：\n- 血与阴影\n#\n奖励：\n- 2 技能点\n#\n后续任务：\n- 猛禽与恶魔",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        25.15073595967914,
+        5.727286600286676
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "PuJiFYqfxj",
+        "title": "《猛禽与恶魔》",
+        "description": "*任务*\n#\n前一个任务：\n- 猎人\n#\n奖励：\n- 无\n#\n下一个任务：\n- 狩猎",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        28.01513671875,
+        6.031310707125826
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "YJeKYbRME3",
+        "title": "军官俱乐部",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        38.75976562500001,
+        8.515835561202238
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "4MHoJD9MMH",
+        "title": "The Hunt",
+        "description": "*任务*\n#\n前一个任务：\n- 猛禽与恶魔\n#\n奖励：\n- 力量令牌\n#\n下一个任务：\n- 捕捉恶魔\n- 鸟陷",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        27.290039062500004,
+        21.637005211106327
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "tt8c6TX70s",
+        "title": "捕鸟陷阱",
+        "description": "*任务*\n#\n前置：\n- 狩猎\n#\n奖励：\n- 2 技能点\n#\n后续：\n- 追逐",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        42.36328125000001,
+        19.311143355064655
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "Phg3H0sXVJ",
+        "title": "捕捉恶魔",
+        "description": "*任务*\n#\n前置：\n- 狩猎\n#\n奖励：\n- 2 技能点\n#\n后续：\n- 追逐",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        44.714355468750014,
+        18.229351338386678
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "MnnOwn7gHX",
+        "title": "港口营地",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        39.94628906250001,
+        8.059229627200196
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "6xsNKMSOcB",
+        "title": "追逐",
+        "description": "*任务*\n#\n前一个任务：\n- 捕捉恶魔\n- 鸟陷\n#\n奖励：\n- 无\n#\n下一个任务：\n- 野兽之穴",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        45.70312500000001,
+        -0.2856433479945082
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "cnxr6fyOeS",
+        "title": "野兽之巢",
+        "description": "*任务*\n#\n前一个任务：\n- 追逐\n#\n奖励：\n- 3个技能点数\n#\n下一个任务：\n- 归来",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        40.17069583792374,
+        9.035019829994994
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "hLzNLwHO2q",
+        "title": "归来",
+        "description": "*任务*\n#\n前一个任务：\n- 野兽之穴\n#\n奖励：\n- 门徒护符\n- 蓝色阿拉穆特新手服装\n- 隐者等级提升（门徒）\n- 升级图纸：阿拉穆特新手服装\n#\n下一个任务：\n- 蛇首",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        5.690917968750002,
+        -11.71678838999847
+      ],
+      "properties": {
+        "subcategoryExternalId": "hlnkuDnPY7",
+        "imageId": null,
+        "externalId": "NtfxA2fomq",
+        "title": "卡尔赫办事处",
+        "description": "完成任务分支任务后可用\n#\n*完成任务\"金币与匕首\"后可在此接取合约*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        5.927479687914851,
+        -10.186554335699737
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "SzhvV5veWY",
+        "title": "金币与匕首",
+        "description": "*任务*\n#\n前置任务：\n- 分支发展\n#\n奖励：\n- 1 技能点\n#\n后续任务：\n- 劳作与税赋\n- 金币、腐败与茶叶",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        14.106445312500002,
+        -12.811801316582617
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "BrQWqjdsNo",
+        "title": "金币、腐败与茶",
+        "description": "*任务*\n#\n前置任务：\n- 金币与匕首\n#\n奖励：\n- 2 技能点\n#\n后续任务：\n- 无面羽毛",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        41.41845703125004,
+        -7.776308503776207
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "LsmkrFVGgd",
+        "title": "没收仓库",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        18.830566406250004,
+        -19.20742852680121
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "zCfdNkcVAz",
+        "title": "劳作与税收",
+        "description": "*任务*\n#\n前置任务：\n- 金币与匕首\n#\n奖励：\n- 2 技能点\n#\n后续任务：\n- 贪婪的代价",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        17.841796875000004,
+        -20.32402360342246
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "yS2ir2nvM2",
+        "title": "集市",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -7.316894531250001,
+        -16.741427547003582
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "iO6cbBMx3Y",
+        "title": "贪婪的代价",
+        "description": "*任务*\n#\n前一个任务：\n- 劳作与税收\n#\n奖励：\n- 无\n#\n下一个任务：\n- 无面之羽",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -6.335768819048697,
+        -17.414739066963904
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "jrQXCsqLrW",
+        "title": "税务官的宅邸",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        4.394531250000001,
+        -10.79014075032174
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "kzgkvLtbCH",
+        "title": "无面之羽",
+        "description": "*任务*\n#\n前置任务：\n- 贪婪的代价\n- 金钱、腐败与茶\n#\n奖励：\n- 无\n#\n后续任务：\n- 镀金蝴蝶",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        19.885253906250007,
+        -18.020527657852327
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "v3Br8dqqze",
+        "title": "镀金蝴蝶",
+        "description": "*任务*\n#\n前置任务：\n- 无面之羽\n#\n奖励：\n- 3个技能点\n#\n后续任务：\n- 盛大终结",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -34.82666015625001,
+        0.9887204566941818
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "NGDaAG5S63",
+        "title": "出色的工作",
+        "description": "*任务*\n#\n前置任务：\n- 伟大研讨会\n#\n奖励：\n- 无\n#\n后续任务：\n- 蛇首",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -56.35986328125001,
+        11.26461221250444
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "q0Ig2EuMAl",
+        "title": "伟大的研讨会",
+        "description": "*任务*\n\n#\n\n前置任务：\n- 向拉菲克报告\n\n#\n\n奖励：\n- 3 技能点\n- 白色耐心长袍服装\n- 无形者等级提升（新手）\n- 升级图纸：阿拉穆特新手匕首\n\n#\n\n后续任务：\n- 完成出色",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        5.141601562500002,
+        -10.358151400943655
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "k9jmX3B1fV",
+        "title": "盛大的终结",
+        "description": "*任务*\n#\n前置任务：\n- 镀金蝴蝶\n#\n奖励：\n- 刺客护符\n- 绿松石阿拉穆特新手\n- 无形者等级提升（刺客）\n- 升级图纸：阿拉穆特新手之剑\n#\n后续任务：\n- 蛇头",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -8.481445312500002,
+        41.244772343082076
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "PdvfgIuQLs",
+        "title": "蛇之首",
+        "description": "*任务*\n#\n前置任务：\n- 完成的工作\n- 归来\n- 盛大终结\n#\n奖励：\n- 无\n#\n后续任务：\n- 法官与执行者\n- 狐狸与猎人\n- 仆人与冒名者",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        3.6254882812500036,
+        34.28899186503752
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "qLhlQHsG2q",
+        "title": "法官与刽子手",
+        "description": "*任务*\n#\n前置任务：\n- 蛇首\n#\n奖励：\n- 2个技能点\n#\n后续任务：\n- 最后的建议",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -16.611328125000004,
+        8.624472107633935
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "5jzpHB96BE",
+        "title": "狐狸与猎人",
+        "description": "*任务*\n#\n前置任务：\n- 蛇首\n#\n奖励：\n- 2个技能点\n#\n后续任务：\n- 最后的建议",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -3.515625000000001,
+        4.696879026871429
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "UcZm4YlVfx",
+        "title": "仆人和冒名顶替者",
+        "description": "*任务*\n#\n前置任务：\n- 蛇首\n#\n奖励：\n- 2个技能点\n#\n后续任务：\n- 最后的建议",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -12.1728515625,
+        7.406047717076262
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "6g1DWxGd14",
+        "title": "最后的忠告",
+        "description": "*任务*\n#\n前置任务：\n- 法官与执行者\n- 狐狸与猎人\n- 仆人与冒名者\n#\n奖励：\n- 大师护符\n- 隐者等级提升（大师）\n- 升级图纸：阿拉穆特新手匕首\n#\n后续任务：\n- 蛇巢",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -158.42285156250003,
+        75.18017014726308
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "pQiOYniHz8",
+        "title": "追求真相",
+        "description": "*任务*\n#\n前置任务：\n- 最后的旅程\n#\n奖励：\n- 沙漠旅行者服装",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -1.8457031250000002,
+        19.082884369340164
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "PfBCNPzurJ",
+        "title": "最后的旅程",
+        "description": "*任务*\n#\n前置任务：\n- 蛇巢\n#\n奖励：\n- 无\n#\n后续任务：\n- 追寻真相",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -72.75146484375001,
+        73.7389045767394
+      ],
+      "properties": {
+        "subcategoryExternalId": "TViba6HJqI",
+        "imageId": 1270562,
+        "externalId": "QQtXwWjSFO",
+        "title": "",
+        "description": "*视点是快速旅行点，可以清除地图上的迷雾并显示收集品*",
+        "imagePath": "/game_map_pin/1270562/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -143.2002519223521,
+        75.7439772176412
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "dvH4rbd5An",
+        "title": "安巴尔",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -129.59472656250003,
+        75.25864871532573
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "N4tun7Rmmd",
+        "title": "冬宫",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -145.05266404166895,
+        75.58737708776263
+      ],
+      "properties": {
+        "subcategoryExternalId": "uvxcqliX7K",
+        "imageId": null,
+        "externalId": "IjWA0UyDvX",
+        "title": "",
+        "description": "*提高剑和匕首的属性并改变它们的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -146.64550781250003,
+        75.16892563137884
+      ],
+      "properties": {
+        "subcategoryExternalId": "jljsnomOt5",
+        "imageId": null,
+        "externalId": "WbT0SUTaMH",
+        "title": "",
+        "description": "*提高装备的福利加成*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -150.29296875000003,
+        74.74696664174382
+      ],
+      "properties": {
+        "subcategoryExternalId": "CDZhLStcVm",
+        "imageId": null,
+        "externalId": "ObNoSfnYNI",
+        "title": "",
+        "description": "*用一个力量代币来取消所有名声*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -136.51611328125003,
+        75.25864871532573
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "imageId": 1271834,
+        "externalId": "soiWEPoLn4",
+        "title": "历史遗迹 - 其他宫殿",
+        "description": "通往冬宫入口前方\n#\n收藏：宫廷生活",
+        "imagePath": "/game_map_pin/1271834/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -7.88818359375,
+        51.16556659836195
+      ],
+      "properties": {
+        "subcategoryExternalId": "Brv5sJutJR",
+        "imageId": null,
+        "externalId": "1kRrb5zqsM",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -125.63964843750001,
+        76.79572057075396
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "externalId": "W0gmHYc2qI",
+        "title": "",
+        "description": "在塔内，用飞刀割断系在悬挂罐子上的绳子以清理门口",
+        "imageId": 1271855,
+        "imagePath": "/game_map_pin/1271855/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -82.67350302654953,
+        74.67975137396198
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "NREFxDSeRo",
+        "title": "北方绿洲",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -79.84417786922226,
+        63.038371974448665
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "4b2DnYZfMy",
+        "title": "阿卡尔库夫沙丘",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -114.80712890625003,
+        60.60854176060914
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "oPpgVxPmBc",
+        "title": "Dur-Kurigalzu",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -113.68406593673298,
+        61.28651394034637
+      ],
+      "properties": {
+        "subcategoryExternalId": "TViba6HJqI",
+        "imageId": 1271861,
+        "externalId": "7AwoGTNHWE",
+        "title": "",
+        "description": "*视点是快速旅行点，可以清除地图上的迷雾并显示收集品*",
+        "imagePath": "/game_map_pin/1271861/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -117.53173828125,
+        61.047650586031125
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "externalId": "e7byxvRAin",
+        "title": "",
+        "description": "在杜尔-库里加尔祖的矿区下方",
+        "imageId": 1271898,
+        "imagePath": "/game_map_pin/1271898/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -115.29052734375001,
+        59.43390314475795
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "prRYSXSin3",
+        "title": "历史遗址 - 杜尔-库里加尔祖",
+        "description": "收藏品：政府",
+        "imageId": 1271899,
+        "imagePath": "/game_map_pin/1271899/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -80.24083025727856,
+        82.57771707043617
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "fPOFEcZr7O",
+        "title": "Ukbara",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -56.835426925799766,
+        64.66638740948378
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "Zx4WqkQziK",
+        "title": "历史遗迹 - 巴格达的建立",
+        "description": "收藏品：政府",
+        "imageId": 1272236,
+        "imagePath": "/game_map_pin/1272236/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -63.74267578125001,
+        49.837982453084834
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "we8iVx68M4",
+        "title": "水车磨坊",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -62.02880859375001,
+        47.20464238876693
+      ],
+      "properties": {
+        "subcategoryExternalId": "TViba6HJqI",
+        "externalId": "IY86rRGGdx",
+        "title": "",
+        "description": "*视点是快速旅行点，可以清除地图上的迷雾并显示收集品*",
+        "imageId": 1272245,
+        "imagePath": "/game_map_pin/1272245/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -143.2301028654619,
+        74.39671007661381
+      ],
+      "properties": {
+        "subcategoryExternalId": "TViba6HJqI",
+        "imageId": 1271798,
+        "externalId": "nn2WBTaISC",
+        "title": "",
+        "description": "*视点是快速旅行点，可以清除地图上的迷雾并显示收集品*",
+        "imagePath": "/game_map_pin/1271798/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -61.61132812500001,
+        50.38750780300319
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "adSGH6eM7n",
+        "title": "历史遗迹 - 农业",
+        "description": "收藏：信仰与日常生活",
+        "imageId": 1272257,
+        "imagePath": "/game_map_pin/1272257/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -62.20458984375001,
+        51.04139389812639
+      ],
+      "properties": {
+        "subcategoryExternalId": "QWs4nLP5l3",
+        "imageId": 1272271,
+        "externalId": "7CHT3QC9Zs",
+        "title": "水磨坊齿轮箱钥匙",
+        "description": "打开装备箱所需的钥匙\n#\n位于历史遗迹法典旁的小水池中",
+        "imagePath": "/game_map_pin/1272271/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -64.92919921875001,
+        50.736455137010665
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "imageId": 1272282,
+        "externalId": "7x1iC2wHqG",
+        "title": "",
+        "description": "在建筑物内部，移除挡住架子的铁砧并移动以打开门。\n#\n需要一把钥匙来打开箱子",
+        "imagePath": "/game_map_pin/1272282/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -106.7839520136035,
+        44.566233583604145
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "J6FlVRoRrz",
+        "title": "队商客栈",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -107.81982421874999,
+        44.46515101351966
+      ],
+      "properties": {
+        "subcategoryExternalId": "fKAXP4Znw9",
+        "imageId": null,
+        "externalId": "XZrJt1MBjT",
+        "title": "",
+        "description": "*允许以商人代币为代价不被看见地移动*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -109.05029296875001,
+        44.11914151643737
+      ],
+      "properties": {
+        "subcategoryExternalId": "auQUkzXlKj",
+        "imageId": null,
+        "externalId": "7cyh6Jomz8",
+        "title": "",
+        "description": "*吸引附近的守卫以交换学者令牌*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -129.04541015625003,
+        73.83705790733424
+      ],
+      "properties": {
+        "subcategoryExternalId": "auQUkzXlKj",
+        "imageId": null,
+        "externalId": "s8IbHxQ4ja",
+        "title": "",
+        "description": "*吸引附近的守卫以交换学者令牌*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -103.8129526120248,
+        43.98290593776713
+      ],
+      "properties": {
+        "subcategoryExternalId": "fKAXP4Znw9",
+        "imageId": null,
+        "externalId": "LFJrHb478E",
+        "title": "",
+        "description": "*允许以商人代币为代价不被看见地移动*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -106.60853685049567,
+        42.234813637354705
+      ],
+      "properties": {
+        "subcategoryExternalId": "DG6eYegFRj",
+        "imageId": null,
+        "externalId": "w7fA82tFNr",
+        "title": "",
+        "description": "*购买并更改你的坐骑和鹰的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -145.01953125000003,
+        72.79008827319021
+      ],
+      "properties": {
+        "subcategoryExternalId": "DG6eYegFRj",
+        "imageId": null,
+        "externalId": "GoIM9Gd9q2",
+        "title": "",
+        "description": "*购买并更改你的坐骑和鹰的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -102.37715431024903,
+        43.95061202209999
+      ],
+      "properties": {
+        "subcategoryExternalId": "uvxcqliX7K",
+        "imageId": null,
+        "externalId": "tUd3ZXJf0Q",
+        "title": "",
+        "description": "*提高剑和匕首的属性并改变它们的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -101.30030558391726,
+        43.93445848045948
+      ],
+      "properties": {
+        "subcategoryExternalId": "jljsnomOt5",
+        "imageId": null,
+        "externalId": "JWn2DOupSN",
+        "title": "",
+        "description": "*提高装备的福利加成*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -102.54638671875001,
+        42.37477836111421
+      ],
+      "properties": {
+        "subcategoryExternalId": "j4qbUerViy",
+        "imageId": null,
+        "externalId": "ZtFNgsX0OB",
+        "title": "",
+        "description": "*补充工具弹药，购买材料和物品，出售饰品*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -149.34814453125003,
+        74.0919743139109
+      ],
+      "properties": {
+        "subcategoryExternalId": "j4qbUerViy",
+        "imageId": null,
+        "externalId": "H0RoapsvA3",
+        "title": "",
+        "description": "*补充工具弹药，购买材料和物品，出售饰品*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -104.63378906250004,
+        43.882057303905356
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "TfPt9w5o1g",
+        "title": "历史遗址 - 商队驿站",
+        "description": "收藏：经济",
+        "imageId": 1272315,
+        "imagePath": "/game_map_pin/1272315/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -110.01708984375001,
+        42.61779143282362
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "rqHQJvhKFw",
+        "title": "历史遗址 - 骆驼",
+        "description": "收藏：经济",
+        "imageId": 1272344,
+        "imagePath": "/game_map_pin/1272344/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -25.510253906250007,
+        33.68778175843936
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m593kJXtH",
+        "imageId": null,
+        "externalId": "PAXF81gGJ1",
+        "title": "讽刺诗人",
+        "description": "第一组\n#\n奖励：\n- 2个学者徽记\n- 罗斯塔姆匕首\n- 45个零件\n#\n---\n承包要求：\n- 不受任何伤害\n#\n完成承包要求奖励：\n- 2个学者徽记\n- 65第纳尔\n#\n*完成特定任务后可在任何隐者分部接取合约*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        7.693524225303126,
+        3.8228823636256237
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m593kJXtH",
+        "imageId": null,
+        "externalId": "uO9NfpBJPV",
+        "title": "武器商人",
+        "description": "第一组\n#\n奖励：\n- 2个力量徽记\n- 罗斯塔姆剑\n- 45个零件\n#\n---\n承包要求：\n- 不受任何伤害\n#\n完成承包要求奖励：\n- 2个力量徽记\n- 65第纳尔\n#\n*完成特定任务后可在任何隐者分部接取合约*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -27.421875000000004,
+        -4.762572524280273
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m593kJXtH",
+        "imageId": null,
+        "externalId": "BbFjUEQDXF",
+        "title": "青铜镜劫案",
+        "description": "第一组\n#\n奖励：\n- 2个学者徽记\n- 2个技能点\n- 45个零件\n#\n---\n承包要求：\n- 不杀死任何人\n#\n完成承包要求奖励：\n- 2个学者徽记\n- 65第纳尔\n#\n*完成特定任务后可在任何隐者分部接取合约*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -28.344726562500007,
+        -2.7455307188019447
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "WYypuDFysm",
+        "title": "澡堂",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        25.45376324472239,
+        42.74340269786573
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "TRvAZYP8vu",
+        "title": "王子宫殿",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        24.719238281250025,
+        43.64402584769945
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m593kJXtH",
+        "imageId": null,
+        "externalId": "ZLsneaAFEF",
+        "title": "妃子",
+        "description": "第一组\n#\n奖励：\n- 2个力量徽记\n- 135个钢锭\n- 45个零件\n#\n---\n承包要求：\n- 不受任何伤害\n#\n完成承包要求奖励：\n- 2个力量徽记\n- 65第纳尔\n#\n*完成特定任务后可在任何隐者分部接取合约*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -3.515625000000001,
+        60.86631247462259
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m593kJXtH",
+        "imageId": null,
+        "externalId": "XMWKrbCgVY",
+        "title": "船只劫案",
+        "description": "第一组\n#\n奖励：\n- 2个商人徽记\n- 115个皮革\n- 45个零件\n#\n---\n承包要求：\n- 保持不被发现\n#\n完成承包要求奖励：\n- 2个商人徽记\n- 65第纳尔\n#\n*完成特定任务后可在任何隐者分部接取合约*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        7.3388671875,
+        48.69096039092554
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m593kJXtH",
+        "imageId": null,
+        "externalId": "HvkgvFd1qy",
+        "title": "奴隶商人",
+        "description": "第二组\n#\n奖励：\n- 2个力量徽记\n- 升级图纸：罗斯塔姆剑\n- 45个零件\n#\n---\n承包要求：\n- 用火杀死敌人\n#\n完成承包要求奖励：\n- 2个力量徽记\n- 65第纳尔\n#\n*完成特定任务后可在任何隐者分部接取合约*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -27.883300781250004,
+        44.51217617107105
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "LBaEvCT6z0",
+        "title": "大马士革门监狱",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -27.070312500000004,
+        45.274886437048906
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m593kJXtH",
+        "imageId": null,
+        "externalId": "jjdD6PyVmd",
+        "title": "国家官员",
+        "description": "第二套\n#\n奖励：\n- 2个力量令牌\n- 2个技能点\n- 45个组件\n#\n---\n承包商请求：\n- 解救囚犯\n#\n已完成承包商请求奖励：\n- 2个力量令牌\n- 65迪拉姆\n#\n*完成特定任务后可在任意隐者办事处接取合约*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -32.88972188609874,
+        33.10451367063012
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m593kJXtH",
+        "imageId": null,
+        "externalId": "8aNMwYTR4a",
+        "title": "标记硬币",
+        "description": "第二组\n#\n奖励：\n- 2个商人徽记\n- 罗斯塔姆套装\n- 45个零件\n#\n---\n承包要求：\n- 赢得比赛\n#\n完成承包要求奖励：\n- 2个商人徽记\n- 65第纳尔\n#\n*完成特定任务后可在任何隐者分部接取合约*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -32.49755859375001,
+        34.17999758688083
+      ],
+      "properties": {
+        "subcategoryExternalId": "uvxcqliX7K",
+        "imageId": null,
+        "externalId": "uMxGjpAifu",
+        "title": "",
+        "description": "*提高剑和匕首的属性并改变它们的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -31.574707031250004,
+        31.240985378021307
+      ],
+      "properties": {
+        "subcategoryExternalId": "jljsnomOt5",
+        "imageId": null,
+        "externalId": "oeKrnIfXVI",
+        "title": "",
+        "description": "*提高装备的福利加成*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -20.438045565378154,
+        -18.43148373881014
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "AujzLpWLLg",
+        "title": "海拉娜药房",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -19.88605500353967,
+        -18.866529867767667
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m593kJXtH",
+        "imageId": null,
+        "externalId": "1XO8hgrVHk",
+        "title": "植物学家",
+        "description": "第二组\n#\n奖励：\n- 2个学者徽记\n- 升级图纸：罗斯塔姆匕首\n- 45个零件\n#\n---\n承包要求：\n- 保持不被发现\n#\n完成承包要求奖励：\n- 2个学者徽记\n- 65第纳尔\n#\n*完成特定任务后可在任何隐者分部接取合约*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        1.6040039062500002,
+        -33.57801474614401
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "n4Op85VrbI",
+        "title": "圣女修道院",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        0.7250976562500001,
+        -34.43409789359463
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m593kJXtH",
+        "imageId": null,
+        "externalId": "evpFP30QS8",
+        "title": "加洛林硬币盗窃案",
+        "description": "第二组\n#\n奖励：\n- 2个学者徽记\n- 115个皮革\n- 45个零件\n#\n---\n承包要求：\n- 保持不被发现\n#\n完成承包要求奖励：\n- 2个学者徽记\n- 65第纳尔\n#\n*完成特定任务后可在任何隐者分部接取合约*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -88.78193914030997,
+        -7.1288698389353105
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "MfI8gPWrMF",
+        "title": "巴达拉亚沙滩营地",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -87.63778736858244,
+        -7.128869838935316
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m593kJXtH",
+        "imageId": null,
+        "externalId": "VdCGqcVYoq",
+        "title": "被绑架的学者",
+        "description": "第二组\n#\n奖励：\n- 2个学者徽记\n- 2个技能点\n- 45个零件\n#\n---\n承包要求：\n- 不杀死任何人\n#\n完成承包要求奖励：\n- 2个学者徽记\n- 65第纳尔\n#\n*完成特定任务后可在任何隐者分部接取合约*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -2.1752929687500004,
+        20.097206227083888
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "e2pdQ51o18",
+        "title": "绿色圆顶宫殿",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -5.668945312500001,
+        17.182779056431812
+      ],
+      "properties": {
+        "subcategoryExternalId": "fKAXP4Znw9",
+        "imageId": null,
+        "externalId": "8XPpQJ62im",
+        "title": "",
+        "description": "*允许以商人代币为代价不被看见地移动*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -3.845214843750001,
+        15.199386048559973
+      ],
+      "properties": {
+        "subcategoryExternalId": "fKAXP4Znw9",
+        "imageId": null,
+        "externalId": "X2PpWMxUVW",
+        "title": "",
+        "description": "*允许以商人代币为代价不被看见地移动*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -108.2773879566087,
+        43.67540496541261
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m593kJXtH",
+        "imageId": null,
+        "externalId": "u1Z5WT8Z9y",
+        "title": "线人",
+        "description": "第三组\n#\n奖励：\n- 2个力量徽记\n- 2个技能点\n- 45个零件\n#\n---\n承包要求：\n- 不杀死任何人\n#\n完成承包要求奖励：\n- 2个力量徽记\n- 65第纳尔\n#\n*完成特定任务后可在任何隐者分部接取合约*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        35.52678570561782,
+        -19.184661784960777
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m593kJXtH",
+        "imageId": null,
+        "externalId": "ickJaPWk8e",
+        "title": "香水商人",
+        "description": "第三组\n#\n奖励：\n- 2个商人代币\n- 2个技能点\n- 45个组件\n#\n---\n承包商请求：\n- 保持不被发现\n#\n完成承包商请求奖励：\n- 2个商人代币\n- 65迪拉姆\n#\n*完成特定任务后可在任何隐者据点接取契约*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        34.49707031250001,
+        -19.186677697957833
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "9xkG4bsO8A",
+        "title": "制油者区",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        44.143066406250014,
+        10.033766870069229
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m593kJXtH",
+        "imageId": null,
+        "externalId": "17vrq18ELY",
+        "title": "奴隶捕手",
+        "description": "第四套\n#\n奖励：\n- 2个力量令牌\n- 升级图纸：罗斯塔姆剑\n- 45个组件\n#\n---\n承包商要求：\n- 保持不被发现\n#\n完成承包商要求奖励：\n- 2个力量令牌\n- 65迪拉姆\n#\n*合约可以在完成特定任务后在任何无形者据点接取*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -25.11325819594198,
+        28.680388837005232
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m593kJXtH",
+        "imageId": null,
+        "externalId": "Q4K00Jay4P",
+        "title": "叛徒",
+        "description": "第三组\n#\n奖励：\n- 2个商人徽记\n- 升级图纸：罗斯塔姆套装\n- 45个零件\n#\n---\n承包要求：\n- 环境击杀\n#\n完成承包要求奖励：\n- 2个商人徽记\n- 65第纳尔\n#\n*完成特定任务后可在任何隐者分部接取合约*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        54.99755859375001,
+        -77.22536023894716
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m593kJXtH",
+        "imageId": null,
+        "externalId": "gWehp7lapp",
+        "title": "贸易代表",
+        "description": "第三组\n#\n奖励：\n- 2个商人徽记\n- 135个钢锭\n- 45个零件\n#\n---\n承包要求：\n- 不受任何伤害\n#\n完成承包要求奖励：\n- 2个商人徽记\n- 65第纳尔\n#\n*完成特定任务后可在任何隐者分部接取合约*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        24.916992187500014,
+        33.94335994657882
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m593kJXtH",
+        "imageId": null,
+        "externalId": "W1nVfTzgH3",
+        "title": "假消息",
+        "description": "第三组\n#\n奖励：\n- 2个商人徽记\n- 2个技能点\n- 45个零件\n#\n---\n承包要求：\n- 保持不被发现\n#\n完成承包要求奖励：\n- 2个商人徽记\n- 65第纳尔\n#\n*完成特定任务后可在任何隐者分部接取合约*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -4.438476562500001,
+        16.573022719182774
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m593kJXtH",
+        "imageId": null,
+        "externalId": "8C1vbbhe4P",
+        "title": "舞者",
+        "description": "第五组\n#\n奖励：\n- 2个学者徽记\n- 升级图纸：罗斯塔姆匕首\n- 45个零件\n#\n---\n承包要求：\n- 不受任何伤害\n#\n完成承包要求奖励：\n- 2个学者徽记\n- 65第纳尔\n#\n*完成特定任务后可在任何隐者分部接取合约*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        32.98095703125001,
+        25.145284610685067
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m593kJXtH",
+        "imageId": null,
+        "externalId": "h51pOxfIrw",
+        "title": "猎户座腰带",
+        "description": "第四组\n#\n奖励：\n- 2个商人徽记\n- 升级图纸：罗斯塔姆套装\n- 45个零件\n#\n---\n承包要求：\n- 环境击杀\n#\n完成承包要求奖励：\n- 2个商人徽记\n- 65第纳尔\n#\n*完成特定任务后可在任何隐者分部接取合约*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        0.17578125,
+        60.95177680956698
+      ],
+      "properties": {
+        "subcategoryExternalId": "DG6eYegFRj",
+        "imageId": null,
+        "externalId": "sYOODpPkSz",
+        "title": "",
+        "description": "*购买并更改你的坐骑和鹰的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -0.19775390625,
+        53.51418452077107
+      ],
+      "properties": {
+        "subcategoryExternalId": "DG6eYegFRj",
+        "imageId": null,
+        "externalId": "aD0DkgQ02U",
+        "title": "",
+        "description": "*购买并更改你的坐骑和鹰的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -24.411621093750007,
+        50.861444110589275
+      ],
+      "properties": {
+        "subcategoryExternalId": "DG6eYegFRj",
+        "imageId": null,
+        "externalId": "cF6yqdWnIa",
+        "title": "",
+        "description": "*购买并更改你的坐骑和鹰的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -13.996582031250002,
+        44.040218713141996
+      ],
+      "properties": {
+        "subcategoryExternalId": "j4qbUerViy",
+        "imageId": null,
+        "externalId": "7kkolkpFhF",
+        "title": "",
+        "description": "*补充工具弹药，购买材料和物品，出售饰品*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -11.733398437500002,
+        45.47554027158583
+      ],
+      "properties": {
+        "subcategoryExternalId": "jljsnomOt5",
+        "imageId": null,
+        "externalId": "dhD2f4jSZF",
+        "title": "",
+        "description": "*提高装备的福利加成*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -33.22265625000001,
+        43.117024121350426
+      ],
+      "properties": {
+        "subcategoryExternalId": "DG6eYegFRj",
+        "imageId": null,
+        "externalId": "brNl6m4yhN",
+        "title": "",
+        "description": "*购买并更改你的坐骑和鹰的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -22.390136718750004,
+        38.49659351894758
+      ],
+      "properties": {
+        "subcategoryExternalId": "j4qbUerViy",
+        "imageId": null,
+        "externalId": "H689qZ5A0B",
+        "title": "",
+        "description": "*补充工具弹药，购买材料和物品，出售饰品*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        9.755859375000002,
+        42.16340342422413
+      ],
+      "properties": {
+        "subcategoryExternalId": "jljsnomOt5",
+        "imageId": null,
+        "externalId": "7zMcYzkbYp",
+        "title": "",
+        "description": "*提高装备的福利加成*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        13.864746093750002,
+        40.19565909336467
+      ],
+      "properties": {
+        "subcategoryExternalId": "j4qbUerViy",
+        "imageId": null,
+        "externalId": "QHFccH3XzX",
+        "title": "",
+        "description": "*补充工具弹药，购买材料和物品，出售饰品*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        17.028808593750004,
+        41.72213058512591
+      ],
+      "properties": {
+        "subcategoryExternalId": "uvxcqliX7K",
+        "imageId": null,
+        "externalId": "kEY7PlogmL",
+        "title": "",
+        "description": "*提高剑和匕首的属性并改变它们的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -11.162109375,
+        42.5530802889559
+      ],
+      "properties": {
+        "subcategoryExternalId": "uvxcqliX7K",
+        "imageId": null,
+        "externalId": "75woih94hh",
+        "title": "",
+        "description": "*提高剑和匕首的属性并改变它们的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -1.0327148437500002,
+        35.90684930677121
+      ],
+      "properties": {
+        "subcategoryExternalId": "j4qbUerViy",
+        "imageId": null,
+        "externalId": "93t0JfGh9k",
+        "title": "",
+        "description": "*补充工具弹药，购买材料和物品，出售饰品*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        12.486709831810236,
+        32.08572148621444
+      ],
+      "properties": {
+        "subcategoryExternalId": "jljsnomOt5",
+        "imageId": null,
+        "externalId": "MLyL0YSmxh",
+        "title": "",
+        "description": "*提高装备的福利加成*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        11.909179687500002,
+        31.35363694150098
+      ],
+      "properties": {
+        "subcategoryExternalId": "uvxcqliX7K",
+        "imageId": null,
+        "externalId": "N52Z2ZJGye",
+        "title": "",
+        "description": "*提高剑和匕首的属性并改变它们的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        12.766113281250002,
+        28.63274679922587
+      ],
+      "properties": {
+        "subcategoryExternalId": "j4qbUerViy",
+        "imageId": null,
+        "externalId": "hr2DESJuCu",
+        "title": "",
+        "description": "*补充工具弹药，购买材料和物品，出售饰品*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -20.91796875,
+        26.2145910237943
+      ],
+      "properties": {
+        "subcategoryExternalId": "jljsnomOt5",
+        "imageId": null,
+        "externalId": "ob1LIDK5bJ",
+        "title": "",
+        "description": "*提高装备的福利加成*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -21.269531249999996,
+        12.87606995994652
+      ],
+      "properties": {
+        "subcategoryExternalId": "uvxcqliX7K",
+        "imageId": null,
+        "externalId": "XTNPIEP813",
+        "title": "",
+        "description": "*提高剑和匕首的属性并改变它们的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -13.029785156250004,
+        6.730075707109151
+      ],
+      "properties": {
+        "subcategoryExternalId": "uvxcqliX7K",
+        "imageId": null,
+        "externalId": "0MB3S2qEo6",
+        "title": "",
+        "description": "*提高剑和匕首的属性并改变它们的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -10.72265625,
+        5.878332109674318
+      ],
+      "properties": {
+        "subcategoryExternalId": "jljsnomOt5",
+        "imageId": null,
+        "externalId": "ZBCzx8xnNu",
+        "title": "",
+        "description": "*提高装备的福利加成*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -8.833007812500002,
+        7.602107874702924
+      ],
+      "properties": {
+        "subcategoryExternalId": "j4qbUerViy",
+        "imageId": null,
+        "externalId": "L1t3jpYOns",
+        "title": "",
+        "description": "*补充工具弹药，购买材料和物品，出售饰品*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        8.591308593750002,
+        9.925565912405503
+      ],
+      "properties": {
+        "subcategoryExternalId": "UDnIBvLIsW",
+        "imageId": null,
+        "externalId": "koTQVh6LEE",
+        "title": "",
+        "description": "*购买地图以揭示装备箱、谜题和失落的书籍的位置*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        10.876464843749998,
+        6.009459238059563
+      ],
+      "properties": {
+        "subcategoryExternalId": "DG6eYegFRj",
+        "imageId": null,
+        "externalId": "KBkN8Sd0gn",
+        "title": "",
+        "description": "*购买并更改你的坐骑和鹰的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -30.607910156250004,
+        17.916022703877687
+      ],
+      "properties": {
+        "subcategoryExternalId": "j4qbUerViy",
+        "imageId": null,
+        "externalId": "rhnWcVtX2O",
+        "title": "",
+        "description": "*补充工具弹药，购买材料和物品，出售饰品*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -34.80468750000001,
+        31.447410291428724
+      ],
+      "properties": {
+        "subcategoryExternalId": "j4qbUerViy",
+        "imageId": null,
+        "externalId": "HnZXlrvNel",
+        "title": "",
+        "description": "*补充工具弹药，购买材料和物品，出售饰品*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -33.50830078125001,
+        16.19357482669784
+      ],
+      "properties": {
+        "subcategoryExternalId": "DG6eYegFRj",
+        "imageId": null,
+        "externalId": "XpdFZoleLH",
+        "title": "",
+        "description": "*购买并更改你的坐骑和鹰的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -31.44287109375,
+        10.876464994816303
+      ],
+      "properties": {
+        "subcategoryExternalId": "jljsnomOt5",
+        "imageId": null,
+        "externalId": "6lswsTT9vw",
+        "title": "",
+        "description": "*提高装备的福利加成*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -46.99951171875001,
+        6.599130675207249
+      ],
+      "properties": {
+        "subcategoryExternalId": "j4qbUerViy",
+        "imageId": null,
+        "externalId": "eexi6FDZV4",
+        "title": "",
+        "description": "*补充工具弹药，购买材料和物品，出售饰品*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -32.12402343750001,
+        1.8234225930141577
+      ],
+      "properties": {
+        "subcategoryExternalId": "jljsnomOt5",
+        "imageId": null,
+        "externalId": "AebUE8ZjWL",
+        "title": "",
+        "description": "*提高装备的福利加成*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -34.84863281250001,
+        3.6669277409287275
+      ],
+      "properties": {
+        "subcategoryExternalId": "uvxcqliX7K",
+        "imageId": null,
+        "externalId": "P14F78qqQZ",
+        "title": "",
+        "description": "*提高剑和匕首的属性并改变它们的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -31.888431432446243,
+        -11.95042150869983
+      ],
+      "properties": {
+        "subcategoryExternalId": "DG6eYegFRj",
+        "imageId": null,
+        "externalId": "ogIAWq6U64",
+        "title": "",
+        "description": "*购买并更改你的坐骑和鹰的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -31.289062500000004,
+        -15.665354182093274
+      ],
+      "properties": {
+        "subcategoryExternalId": "j4qbUerViy",
+        "imageId": null,
+        "externalId": "akgLBPjxKj",
+        "title": "",
+        "description": "*补充工具弹药，购买材料和物品，出售饰品*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -15.645963143608185,
+        -14.070555658003046
+      ],
+      "properties": {
+        "subcategoryExternalId": "uvxcqliX7K",
+        "imageId": null,
+        "externalId": "uandtfpS3S",
+        "title": "",
+        "description": "*提高剑和匕首的属性并改变它们的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -15.051269531250004,
+        -15.347761924346955
+      ],
+      "properties": {
+        "subcategoryExternalId": "jljsnomOt5",
+        "imageId": null,
+        "externalId": "uvm55TscA7",
+        "title": "",
+        "description": "*提高装备的福利加成*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        34.47509765625001,
+        13.389619591747461
+      ],
+      "properties": {
+        "subcategoryExternalId": "j4qbUerViy",
+        "imageId": null,
+        "externalId": "MaPIIouLmX",
+        "title": "",
+        "description": "*补充工具弹药，购买材料和物品，出售饰品*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        37.30957031250001,
+        8.494104537551891
+      ],
+      "properties": {
+        "subcategoryExternalId": "jljsnomOt5",
+        "imageId": null,
+        "externalId": "jNduSz6SSU",
+        "title": "",
+        "description": "*提高装备的福利加成*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        39.902343750000014,
+        10.48781188205669
+      ],
+      "properties": {
+        "subcategoryExternalId": "uvxcqliX7K",
+        "imageId": null,
+        "externalId": "mxluGSh2VU",
+        "title": "",
+        "description": "*提高剑和匕首的属性并改变它们的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        23.57666015625,
+        -8.146242825034385
+      ],
+      "properties": {
+        "subcategoryExternalId": "uvxcqliX7K",
+        "imageId": null,
+        "externalId": "2jKIdgNJul",
+        "title": "",
+        "description": "*提高剑和匕首的属性并改变它们的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        11.5576171875,
+        -8.428904092875385
+      ],
+      "properties": {
+        "subcategoryExternalId": "uvxcqliX7K",
+        "imageId": null,
+        "externalId": "lttt37GNXd",
+        "title": "",
+        "description": "*提高剑和匕首的属性并改变它们的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        24.213867187500014,
+        -6.991859181483676
+      ],
+      "properties": {
+        "subcategoryExternalId": "jljsnomOt5",
+        "imageId": null,
+        "externalId": "XCaewh1bXJ",
+        "title": "",
+        "description": "*提高装备的福利加成*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        12.062988281250002,
+        -6.031310707125812
+      ],
+      "properties": {
+        "subcategoryExternalId": "jljsnomOt5",
+        "imageId": null,
+        "externalId": "MSH8DXK0Fo",
+        "title": "",
+        "description": "*提高装备的福利加成*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        26.982421875000004,
+        -11.93185232696058
+      ],
+      "properties": {
+        "subcategoryExternalId": "j4qbUerViy",
+        "imageId": null,
+        "externalId": "kck3L6gj8r",
+        "title": "",
+        "description": "*补充工具弹药，购买材料和物品，出售饰品*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        1.34033203125,
+        -7.885147283424331
+      ],
+      "properties": {
+        "subcategoryExternalId": "j4qbUerViy",
+        "imageId": null,
+        "externalId": "bpZWHkR4jN",
+        "title": "",
+        "description": "*补充工具弹药，购买材料和物品，出售饰品*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        8.942082774301362,
+        -33.727604869799585
+      ],
+      "properties": {
+        "subcategoryExternalId": "j4qbUerViy",
+        "imageId": null,
+        "externalId": "gnAR5SqaTN",
+        "title": "",
+        "description": "*补充工具弹药，购买材料和物品，出售饰品*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        10.634765624999998,
+        -35.56798045801207
+      ],
+      "properties": {
+        "subcategoryExternalId": "uvxcqliX7K",
+        "imageId": null,
+        "externalId": "Qo18WVqXyN",
+        "title": "",
+        "description": "*提高剑和匕首的属性并改变它们的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        11.293945312500002,
+        -35.19176696594744
+      ],
+      "properties": {
+        "subcategoryExternalId": "jljsnomOt5",
+        "imageId": null,
+        "externalId": "Q0WZAk8pKm",
+        "title": "",
+        "description": "*提高装备的福利加成*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        7.712402343750001,
+        -37.43997405227057
+      ],
+      "properties": {
+        "subcategoryExternalId": "DG6eYegFRj",
+        "imageId": null,
+        "externalId": "fdaHJYZKKk",
+        "title": "",
+        "description": "*购买并更改你的坐骑和鹰的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        24.76318359375,
+        -26.980828590472107
+      ],
+      "properties": {
+        "subcategoryExternalId": "DG6eYegFRj",
+        "imageId": null,
+        "externalId": "gb3XsQi0dt",
+        "title": "",
+        "description": "*购买并更改你的坐骑和鹰的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        42.33383808914592,
+        -15.23166341699328
+      ],
+      "properties": {
+        "subcategoryExternalId": "DG6eYegFRj",
+        "imageId": null,
+        "externalId": "nNLiWC0GBs",
+        "title": "",
+        "description": "*购买并更改你的坐骑和鹰的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        49.72412109375001,
+        -8.646195681181908
+      ],
+      "properties": {
+        "subcategoryExternalId": "DG6eYegFRj",
+        "imageId": null,
+        "externalId": "1ygLbdgg6y",
+        "title": "",
+        "description": "*购买并更改你的坐骑和鹰的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        66.00585937500001,
+        -62.694309593663185
+      ],
+      "properties": {
+        "subcategoryExternalId": "DG6eYegFRj",
+        "imageId": null,
+        "externalId": "VR020UbtvN",
+        "title": "",
+        "description": "*购买并更改你的坐骑和鹰的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        74.92675781250001,
+        -61.627286461474654
+      ],
+      "properties": {
+        "subcategoryExternalId": "uvxcqliX7K",
+        "imageId": null,
+        "externalId": "Ci9fLF6Sot",
+        "title": "",
+        "description": "*提高剑和匕首的属性并改变它们的外观*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        75.95947265625,
+        -64.05297838071345
+      ],
+      "properties": {
+        "subcategoryExternalId": "jljsnomOt5",
+        "imageId": null,
+        "externalId": "xKfmaKdWEY",
+        "title": "",
+        "description": "*提高装备的福利加成*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        73.01513671875001,
+        -62.06273325884645
+      ],
+      "properties": {
+        "subcategoryExternalId": "j4qbUerViy",
+        "imageId": null,
+        "externalId": "jGvhim9jGR",
+        "title": "",
+        "description": "*补充工具弹药，购买材料和物品，出售饰品*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -112.225833286492,
+        15.541534733515483
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "Oi9GLXiqRg",
+        "title": "废弃村庄",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -103.83538696049003,
+        -29.272654307432322
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "ECfudcsgwf",
+        "title": "被遗弃的驿站",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -86.81383982038956,
+        -22.1107695189715
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "vfjU2QFwm5",
+        "title": "Badaraya沙地",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -56.527764923059706,
+        -36.83093773085757
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "cuDa88FIQG",
+        "title": "绿洲",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        37.98620110816327,
+        -65.2055162876571
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "abyfdVwx2g",
+        "title": "棕榈林",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        70.33447265625001,
+        -63.34227272786891
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "w9GfSVrWtc",
+        "title": "贾尔贾拉亚",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        85.25390625000001,
+        -65.86574214713855
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "zFm2vtgy7q",
+        "title": "多根农场",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        73.63037109375001,
+        -79.11753822560124
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "IbRK8owGMY",
+        "title": "间谍头目营地",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        75.38818359375,
+        -22.492257220085193
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "TnjWjPO2Em",
+        "title": "南方营地",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        50.11962890625001,
+        -5.069057826784032
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "Dz2Tf6RNpk",
+        "title": "沙尔基耶门",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        53.613281250000014,
+        1.9991059831233287
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "DwblaFxzwg",
+        "title": "大驻军",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        40.23193359375001,
+        -14.498508149446195
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "wQ0zHfPfUi",
+        "title": "塔比克门",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        11.491985340289464,
+        -40.8371323011228
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "vCNvIMLVui",
+        "title": "周二市场",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        6.569824218750001,
+        -38.41055825094608
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "QVh25pvlqT",
+        "title": "石榴门",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        24.521484375,
+        -30.770159115784196
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "h2c2O2Ucoy",
+        "title": "磨坊门",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        14.819882072195806,
+        -32.373759764213524
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "iBoRspMOSv",
+        "title": "家禽店",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -38.10058593750001,
+        -24.266997288418167
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "kWQJlMGeza",
+        "title": "穆哈瓦尔门",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -31.157226562500004,
+        -27.371767300523032
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "ifxmaftjho",
+        "title": "大医院",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -35.26611328125001,
+        -12.039320557540577
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "kx8ktiigw9",
+        "title": "四市场门",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        0.9887695312500002,
+        -24.80668135385197
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "F6xdwbsRu3",
+        "title": "阿里巴巴庄园",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        31.00341796875,
+        -5.484768018141267
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "J8u4THrrqV",
+        "title": "厨师区",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        39.616699218750014,
+        2.8113711933311407
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "XXjobGUQHP",
+        "title": "阿尔-米达哈纳·阿提卡",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -41.639564200112765,
+        10.763800432752738
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "DjAwcYn0pj",
+        "title": "抄经室",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -50.43944588231386,
+        18.288009760426057
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "aGo7RXK5qQ",
+        "title": "天文台",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -45.932693154717434,
+        25.42451782126135
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "lJMow32Anf",
+        "title": "塔希尔门",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -48.64746093750001,
+        29.496987596535774
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "LFGJ7JDApU",
+        "title": "祖拜达陵墓",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -34.65087890625001,
+        44.0244215196594
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "yZz4Khxr6t",
+        "title": "铁门",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -36.01318359375001,
+        36.91476428895591
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "Op9dHFTVSK",
+        "title": "大清真寺",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -25.949707031250004,
+        29.993002284551082
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "8Odc4m3mSO",
+        "title": "肥皂煮锅区",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        7.382812500000001,
+        62.052437225615165
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "frsVzgNRVw",
+        "title": "景教修道院",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -1.7358398437500002,
+        61.63772622120811
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "pIlG7y1qyz",
+        "title": "希腊门",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -2.5268554687500004,
+        60.31606836555201
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "lpTNYp7htr",
+        "title": "领地的排水闸",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -25.43820605955107,
+        52.39699337143611
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "H2EKnmK7Jz",
+        "title": "Qutrabbul门",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -16.896972656250004,
+        50.28933925329184
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "lwZRt2MUKl",
+        "title": "金属工厂",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -7.098476378349467,
+        50.00282465730479
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "XcdhNBWvfE",
+        "title": "染色工厂",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        18.38395184457505,
+        34.42817560626856
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "ZghUAOcuUw",
+        "title": "呼罗珊门卫所",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -29.440559047660653,
+        20.0184340772819
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "eFPq3GTniS",
+        "title": "四大市集",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -27.355957031250004,
+        5.703447982149503
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "5J4jN3tsOR",
+        "title": "清真寺",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -18.391113281250004,
+        1.0106897682409084
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "PRun9SVfJV",
+        "title": "库法门",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -17.446289062500004,
+        -6.882800241767541
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "QVzykiLMtD",
+        "title": "学者庄园",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        16.501464843750004,
+        0.6371938961998893
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "4BWpGGbMux",
+        "title": "巴士拉门",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        22.719726562500004,
+        -0.241698501901638
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "QYFgKYVh5J",
+        "title": "卡迪区政府办公室",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        28.059082031250004,
+        28.998531814051802
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "LUPkH6DnOc",
+        "title": "王子门",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -17.873428028255905,
+        32.766798915306495
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "vjU167pEnk",
+        "title": "大马士革门",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -14.084472656250002,
+        22.958393318086266
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "oC2pY5SsEx",
+        "title": "邮局",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -12.056467389168835,
+        14.414604351837099
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "mSHV5fHOOv",
+        "title": "Al-Jahiz House",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -0.9448242187500001,
+        6.751896464843375
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "EgrTCvyjsz",
+        "title": "后宫",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        15.22705078125,
+        17.8323743295675
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "LNOr45w9LP",
+        "title": "警署总部",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        1.99951171875,
+        32.17561247849936
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "XbmWKlM6IC",
+        "title": "马扎里姆法庭",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        6.63134488238105,
+        61.97931452059228
+      ],
+      "properties": {
+        "subcategoryExternalId": "TViba6HJqI",
+        "imageId": 1275884,
+        "externalId": "BhWLHoahed",
+        "title": "",
+        "description": "*视点是快速旅行点，可以清除地图上的迷雾并显示收集品*",
+        "imagePath": "/game_map_pin/1275884/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -8.781052513242928,
+        44.641061153278315
+      ],
+      "properties": {
+        "subcategoryExternalId": "TViba6HJqI",
+        "imageId": 1267036,
+        "externalId": "aWbYd3sPke",
+        "title": "",
+        "description": "*视点是快速旅行点，可以清除地图上的迷雾并显示收集品*",
+        "imagePath": "/game_map_pin/1267036/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        17.4895695395601,
+        40.37690842214568
+      ],
+      "properties": {
+        "subcategoryExternalId": "TViba6HJqI",
+        "externalId": "4AlE0uxLKM",
+        "title": "",
+        "description": "*视点是快速旅行点，可以清除地图上的迷雾并显示收集品*",
+        "imageId": 1275890,
+        "imagePath": "/game_map_pin/1275890/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -5.967891685839368,
+        31.83765765354689
+      ],
+      "properties": {
+        "subcategoryExternalId": "TViba6HJqI",
+        "imageId": 1275893,
+        "externalId": "83K1WKUxQE",
+        "title": "",
+        "description": "*视点是快速旅行点，可以清除地图上的迷雾并显示收集品*",
+        "imagePath": "/game_map_pin/1275893/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        13.183593750000002,
+        25.1054973730147
+      ],
+      "properties": {
+        "subcategoryExternalId": "TViba6HJqI",
+        "externalId": "6KhWl2KNzl",
+        "title": "",
+        "description": "*视点是快速旅行点，可以清除地图上的迷雾并显示收集品*",
+        "imageId": 1275895,
+        "imagePath": "/game_map_pin/1275895/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -2.7246093750000004,
+        19.35261089437863
+      ],
+      "properties": {
+        "subcategoryExternalId": "TViba6HJqI",
+        "imageId": 1275896,
+        "externalId": "mzfGJlqAbU",
+        "title": "",
+        "description": "*视点是快速旅行点，可以清除地图上的迷雾并显示收集品*",
+        "imagePath": "/game_map_pin/1275896/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -49.526367187500036,
+        17.769612247142632
+      ],
+      "properties": {
+        "subcategoryExternalId": "TViba6HJqI",
+        "imageId": 1275899,
+        "externalId": "YJxnYV2ypb",
+        "title": "",
+        "description": "*视点是快速旅行点，可以清除地图上的迷雾并显示收集品*",
+        "imagePath": "/game_map_pin/1275899/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -33.94775390625001,
+        38.99357205820945
+      ],
+      "properties": {
+        "subcategoryExternalId": "TViba6HJqI",
+        "imageId": 1268892,
+        "externalId": "pJVNTrINVj",
+        "title": "",
+        "description": "*视点是快速旅行点，可以清除地图上的迷雾并显示收集品*",
+        "imagePath": "/game_map_pin/1268892/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -28.14697265625,
+        5.134714634014472
+      ],
+      "properties": {
+        "subcategoryExternalId": "TViba6HJqI",
+        "externalId": "sz7q6dMmrj",
+        "title": "",
+        "description": "*视点是快速旅行点，可以清除地图上的迷雾并显示收集品*",
+        "imageId": 1275906,
+        "imagePath": "/game_map_pin/1275906/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        3.3618164062500004,
+        0.2636709443366385
+      ],
+      "properties": {
+        "subcategoryExternalId": "TViba6HJqI",
+        "imageId": 1275908,
+        "externalId": "J2s1319J2L",
+        "title": "",
+        "description": "*视点是快速旅行点，可以清除地图上的迷雾并显示收集品*",
+        "imagePath": "/game_map_pin/1275908/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        21.132778518930635,
+        -0.6943267556560676
+      ],
+      "properties": {
+        "subcategoryExternalId": "TViba6HJqI",
+        "imageId": 1275912,
+        "externalId": "EERVYcf6dk",
+        "title": "",
+        "description": "*视点是快速旅行点，可以清除地图上的迷雾并显示收集品*",
+        "imagePath": "/game_map_pin/1275912/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -17.995605468750004,
+        -33.24787594792439
+      ],
+      "properties": {
+        "subcategoryExternalId": "TViba6HJqI",
+        "imageId": 1275918,
+        "externalId": "xZdrHNqFYj",
+        "title": "",
+        "description": "*视点是快速旅行点，可以清除地图上的迷雾并显示收集品*",
+        "imagePath": "/game_map_pin/1275918/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -0.38536858085308273,
+        -31.88984470017789
+      ],
+      "properties": {
+        "subcategoryExternalId": "TViba6HJqI",
+        "imageId": 1272676,
+        "externalId": "1qRi2Z0koe",
+        "title": "",
+        "description": "*视点是快速旅行点，可以清除地图上的迷雾并显示收集品*",
+        "imagePath": "/game_map_pin/1272676/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -57.91227565213154,
+        -36.24528920955049
+      ],
+      "properties": {
+        "subcategoryExternalId": "TViba6HJqI",
+        "imageId": 1275929,
+        "externalId": "ZDqUz1V2RX",
+        "title": "",
+        "description": "*视点是快速旅行点，可以清除地图上的迷雾并显示收集品*",
+        "imagePath": "/game_map_pin/1275929/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -4.350585937500001,
+        -64.73664139557683
+      ],
+      "properties": {
+        "subcategoryExternalId": "TViba6HJqI",
+        "imageId": 1275931,
+        "externalId": "e41Z5fmIh3",
+        "title": "",
+        "description": "*视点是快速旅行点，可以清除地图上的迷雾并显示收集品*",
+        "imagePath": "/game_map_pin/1275931/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -57.1710987482998,
+        -47.52029684132327
+      ],
+      "properties": {
+        "subcategoryExternalId": "SNveRRunzW",
+        "imageId": 1275937,
+        "externalId": "WWp4mUxL47",
+        "title": "Dervis 的工艺品 - Kissi Penny",
+        "description": "在营地周围的男人身上\n#\n*神器可以归还给德维斯的围栏以获得奖励*",
+        "imagePath": "/game_map_pin/1275937/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        69.38021753967396,
+        -64.19365750715846
+      ],
+      "properties": {
+        "subcategoryExternalId": "SNveRRunzW",
+        "imageId": 1275942,
+        "externalId": "tGtKkscR5h",
+        "title": "德尔维什的神器 - 拜占庭手镯",
+        "description": "*神器可以归还给德维斯的围栏以获得奖励*",
+        "imagePath": "/game_map_pin/1275942/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -4.899200123292877,
+        56.59877416231478
+      ],
+      "properties": {
+        "subcategoryExternalId": "SNveRRunzW",
+        "imageId": 1276331,
+        "externalId": "yv8xV9ohla",
+        "title": "德尔维斯的神器 - 斯堪的纳维亚胸针",
+        "description": "在桌子上揉面团的男人身上\n#\n*神器可以归还给德尔维斯的围栏以获得奖励*",
+        "imagePath": "/game_map_pin/1276331/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -133.63769531250003,
+        74.31329541362996
+      ],
+      "properties": {
+        "subcategoryExternalId": "SNveRRunzW",
+        "imageId": 1271852,
+        "externalId": "54KQIHogGf",
+        "title": "Dervis的文物 - Staurotheke",
+        "description": "在给植物浇水的男人身上\n#\n*神器可以归还给德维斯的围栏以获得奖励*",
+        "imagePath": "/game_map_pin/1271852/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        1.6040039062500002,
+        50.51342652633957
+      ],
+      "properties": {
+        "subcategoryExternalId": "SNveRRunzW",
+        "imageId": 1276335,
+        "externalId": "K5PwY1p1fY",
+        "title": "Dervis的文物 - 贝壳钱",
+        "description": "在铲干草的男人身上\n#\n*神器可以归还给德维斯的围栏以获得奖励*",
+        "imagePath": "/game_map_pin/1276335/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -8.481445312500002,
+        48.618385186884865
+      ],
+      "properties": {
+        "subcategoryExternalId": "SNveRRunzW",
+        "imageId": 1276341,
+        "externalId": "qp7QkVhH3K",
+        "title": "德尔维斯的神器 - 阿克苏姆护身符",
+        "description": "关于一个调配染料的女人\n#\n*神器可以归还给德尔维斯的围栏以获得奖励*",
+        "imagePath": "/game_map_pin/1276341/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -26.608886718750007,
+        38.27268853598099
+      ],
+      "properties": {
+        "subcategoryExternalId": "SNveRRunzW",
+        "imageId": 1276344,
+        "externalId": "2QGywLD8zW",
+        "title": "Dervis的文物 - 佛教奉献牌",
+        "description": "在扫地的男人身上\n#\n*神器可以归还给德维斯的围栏以获得奖励*",
+        "imagePath": "/game_map_pin/1276344/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -31.904296875000004,
+        20.632784250388028
+      ],
+      "properties": {
+        "subcategoryExternalId": "SNveRRunzW",
+        "imageId": 1276349,
+        "externalId": "y7MadpEH6O",
+        "title": "Dervis的文物 - 小中国盒",
+        "description": "在书店周围徘徊的女人身上\n#\n*神器可以归还给德维斯的围栏以获得奖励*",
+        "imagePath": "/game_map_pin/1276349/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -20.588378906250004,
+        22.91792293614604
+      ],
+      "properties": {
+        "subcategoryExternalId": "SNveRRunzW",
+        "imageId": 1276358,
+        "externalId": "EP0DePxLQL",
+        "title": "德尔维斯的神器 - 西兰基督教十字架",
+        "description": "在屋顶上的老人身边，靠近白花处\n#\n*文物可以归还给德尔维斯的围栏以获得奖励*",
+        "imagePath": "/game_map_pin/1276358/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -33.33251953125001,
+        -0.3076157096438976
+      ],
+      "properties": {
+        "subcategoryExternalId": "SNveRRunzW",
+        "imageId": 1276364,
+        "externalId": "Uw7JkblSyM",
+        "title": "德尔维斯的神器 - 圆月牌匾",
+        "description": "在一个女人看着网的地方\n#\n*文物可以归还给德维斯的围栏以获得奖励*",
+        "imagePath": "/game_map_pin/1276364/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -22.82958984375,
+        -9.990490803070287
+      ],
+      "properties": {
+        "subcategoryExternalId": "SNveRRunzW",
+        "imageId": 1276374,
+        "externalId": "JPY2ttFSDS",
+        "title": "Dervis的文物 - 唐代香炉",
+        "description": "在砖堆旁铲地的男人身上\n#\n*神器可以归还给德维斯的围栏以获得奖励*",
+        "imagePath": "/game_map_pin/1276374/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -24.697265625000004,
+        -29.53522956294845
+      ],
+      "properties": {
+        "subcategoryExternalId": "SNveRRunzW",
+        "imageId": 1276377,
+        "externalId": "M8aZpEjqk5",
+        "title": "德尔维斯的遗物 - 乳香",
+        "description": "在来回走动的大胡子男人身上\n#\n*神器可以归还给德维斯的围栏以获得奖励*",
+        "imagePath": "/game_map_pin/1276377/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        8.239746093750002,
+        -34.57895241036947
+      ],
+      "properties": {
+        "subcategoryExternalId": "SNveRRunzW",
+        "imageId": 1276463,
+        "externalId": "dNY9IID5n0",
+        "title": "德维斯的宝物 - 象牙棋子",
+        "description": "在穿亮绿色衣服的男人身上\n#\n*神器可以归还给德维斯的围栏以获得奖励*",
+        "imagePath": "/game_map_pin/1276463/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        22.178348368796506,
+        -11.335187540469745
+      ],
+      "properties": {
+        "subcategoryExternalId": "SNveRRunzW",
+        "externalId": "jMCHqGCj4Q",
+        "title": "德维斯的宝物 - 装饰贝壳",
+        "description": "在穿紫色和黄色长袍的女人身上\n#\n*神器可以归还给德维斯的围栏以获得奖励*",
+        "imageId": 1276473,
+        "imagePath": "/game_map_pin/1276473/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        33.13476562500001,
+        -0.46142079353060694
+      ],
+      "properties": {
+        "subcategoryExternalId": "SNveRRunzW",
+        "imageId": 1276475,
+        "externalId": "nlibRU4E2e",
+        "title": "德维斯的宝物 - 玻璃砝码",
+        "description": "在水中木甲板上的男人身上\n#\n*神器可以归还给德维斯的围栏以获得奖励*",
+        "imagePath": "/game_map_pin/1276475/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        48.09814453125001,
+        12.661777510388532
+      ],
+      "properties": {
+        "subcategoryExternalId": "SNveRRunzW",
+        "externalId": "wYCnTouV3X",
+        "title": "德维斯的宝物 - 玉梳",
+        "description": "在树根附近穿紫色衣服的男人身上\n#\n*神器可以归还给德维斯的围栏以获得奖励*",
+        "imageId": 1276477,
+        "imagePath": "/game_map_pin/1276477/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -1.2744140625000002,
+        -0.9887204566941844
+      ],
+      "properties": {
+        "subcategoryExternalId": "SNveRRunzW",
+        "imageId": 1276480,
+        "externalId": "MTb68sMSWf",
+        "title": "德维斯的宝物 - 科普特香炉",
+        "description": "*神器可以归还给德维斯的围栏以获得奖励*",
+        "imagePath": "/game_map_pin/1276480/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        20.104980468750004,
+        12.98314771679658
+      ],
+      "properties": {
+        "subcategoryExternalId": "SNveRRunzW",
+        "imageId": 1276482,
+        "externalId": "vMfHb7O9P7",
+        "title": "",
+        "description": "在一个切肉然后与人交谈的女人身上\n#\n*可以将文物归还给Dervis的围栏以获得奖励*",
+        "imagePath": "/game_map_pin/1276482/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -7.646484375000001,
+        51.71341605241773
+      ],
+      "properties": {
+        "subcategoryExternalId": "fWsuGzT2AQ",
+        "externalId": "Esf1JHs9gZ",
+        "title": "寻宝者服装",
+        "description": "归还所有德维斯的神器的奖励",
+        "imageId": 1276487,
+        "imagePath": "/game_map_pin/1276487/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -7.141113281250002,
+        51.34433866059925
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "BBKz8bAuNl",
+        "title": "Dervis的文物",
+        "description": "*任务*\n#\n将神器归还到德维斯的围栏以获得奖励\n#\n奖励：\n- 归还3件神器：\n  - 120个零件\n  - 70个皮革\n  - 70个钢锭\n- 归还6件神器：\n  - 180个零件\n  - 110个皮革\n  - 110个钢锭\n- 归还9件神器：\n  - 寻宝猎人服装",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -27.06504651241837,
+        50.24733442385219
+      ],
+      "properties": {
+        "subcategoryExternalId": "0NieQRmZf5",
+        "imageId": 1276491,
+        "externalId": "tkocjhx1HZ",
+        "title": "找到我偷的东西",
+        "description": "在河岸边棕榈树的角落\n#\n谜题解决方案\n#\n奖励：\n#\n服装染料 - 黑色赞吉起义",
+        "imagePath": "/game_map_pin/1276491/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -29.869340070574122,
+        26.19180857779595
+      ],
+      "properties": {
+        "subcategoryExternalId": "HhtnYCnCfE",
+        "imageId": 1276495,
+        "externalId": "xWbrRWYQ1g",
+        "title": "找到我偷的东西！- 解决方案",
+        "description": "寻找我偷的东西！谜题的解决方案\n#\n查看凉亭内部",
+        "imagePath": "/game_map_pin/1276495/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -29.443359375000007,
+        26.23430203240676
+      ],
+      "properties": {
+        "subcategoryExternalId": "liBovxWGjB",
+        "imageId": null,
+        "externalId": "nnZpzJEjEV",
+        "title": "黑色赞吉起义",
+        "description": "解决找到我偷的东西!谜题的奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -16.940917968750004,
+        46.24065195500168
+      ],
+      "properties": {
+        "subcategoryExternalId": "0NieQRmZf5",
+        "imageId": 1276503,
+        "externalId": "3BOPTQelP6",
+        "title": "遗留之物",
+        "description": "在建筑物上层尸体旁边，打破挡住窗户的架子以进入\n#\n谜题解决方案\n#\n奖励：有角狮子护身符",
+        "imagePath": "/game_map_pin/1276503/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -111.88476562500001,
+        7.776308503776207
+      ],
+      "properties": {
+        "subcategoryExternalId": "HhtnYCnCfE",
+        "imageId": 1276510,
+        "externalId": "iH2HAccQo5",
+        "title": "遗留之物 - 解决方案",
+        "description": "遗留物谜题的解决方案\n#\n在码头附近",
+        "imagePath": "/game_map_pin/1276510/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -111.15966796875,
+        7.710991655433219
+      ],
+      "properties": {
+        "subcategoryExternalId": "j9YTKaFM9N",
+        "imageId": null,
+        "externalId": "ig14OKBZlX",
+        "title": "角狮护符",
+        "description": "解决[Left Behind](wemod:\\/\\/maps\\/73881\\/266?location=3BOPTQelP6)谜题的奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -47.41699218750001,
+        33.008663494575615
+      ],
+      "properties": {
+        "subcategoryExternalId": "0NieQRmZf5",
+        "imageId": 1276519,
+        "externalId": "3wYTAYgWqX",
+        "title": "投降",
+        "description": "在坟墓顶部\n#\n谜题解决方案\n#\n奖励：叛军护身符",
+        "imagePath": "/game_map_pin/1276519/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -80.55212768792109,
+        83.4582468690457
+      ],
+      "properties": {
+        "subcategoryExternalId": "HhtnYCnCfE",
+        "imageId": 1276522,
+        "externalId": "LCZW1Di6wP",
+        "title": "投降 - 解谜",
+        "description": "投降谜题的解答\n#\n寻找地面上有圆顶屋顶的水下废墟建筑",
+        "imagePath": "/game_map_pin/1276522/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -79.82666015625,
+        83.45286510557185
+      ],
+      "properties": {
+        "subcategoryExternalId": "j9YTKaFM9N",
+        "imageId": null,
+        "externalId": "noOOD2efaY",
+        "title": "叛军护身符",
+        "description": "解决投降谜题的奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        23.26904296875,
+        26.902476886279842
+      ],
+      "properties": {
+        "subcategoryExternalId": "0NieQRmZf5",
+        "imageId": 1276526,
+        "externalId": "hJcfzrkeyj",
+        "title": "圣地宝藏",
+        "description": "在建筑物内的架子上\n#\n谜题解决方案\n#\n奖励：\n#\n服装染料 - 棕褐色阿巴斯骑士",
+        "imagePath": "/game_map_pin/1276526/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        10.826568045382034,
+        62.1789073385328
+      ],
+      "properties": {
+        "subcategoryExternalId": "HhtnYCnCfE",
+        "imageId": 1276528,
+        "externalId": "aed2DY6FKX",
+        "title": "神圣宝藏 - 解答",
+        "description": "神圣宝藏谜题的解答\n#\n在未完成船只旁边的树根处",
+        "imagePath": "/game_map_pin/1276528/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        11.513671875000002,
+        62.18601385719424
+      ],
+      "properties": {
+        "subcategoryExternalId": "liBovxWGjB",
+        "imageId": null,
+        "externalId": "MXoZo3zXEl",
+        "title": "褐色阿拔斯骑士",
+        "description": "解决神圣宝藏谜题的奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -43.04443359375001,
+        1.4939713066293194
+      ],
+      "properties": {
+        "subcategoryExternalId": "0NieQRmZf5",
+        "imageId": 1276531,
+        "externalId": "TNJiF01YXx",
+        "title": "一个挑战",
+        "description": "在喷泉附近建筑的阳台上\n#\n谜题解决方案\n#\n奖励：\n#\n服装染料 - 黑色罗斯塔姆",
+        "imagePath": "/game_map_pin/1276531/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -39.57275390625001,
+        19.435514339097807
+      ],
+      "properties": {
+        "subcategoryExternalId": "HhtnYCnCfE",
+        "imageId": 1276537,
+        "externalId": "gqkQdLyuQF",
+        "title": "一个挑战 - 解法",
+        "description": "挑战谜题的解决方案\n#\n在水磨坊建筑内，找到水车后面的窗户，然后用投掷刀破坏西侧的窗户",
+        "imagePath": "/game_map_pin/1276537/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -38.86962890625001,
+        19.456233596018023
+      ],
+      "properties": {
+        "subcategoryExternalId": "liBovxWGjB",
+        "imageId": null,
+        "externalId": "cBJdWVVQw6",
+        "title": "黑色罗斯塔姆",
+        "description": "解锁挑战谜题的奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -26.455078125000004,
+        5.0909441750334
+      ],
+      "properties": {
+        "subcategoryExternalId": "0NieQRmZf5",
+        "imageId": 1276541,
+        "externalId": "NftLtPFuiZ",
+        "title": "穹顶之乐",
+        "description": "在清真寺北侧，放着一些书的架子上\n#\n谜题解决方案\n#\n奖励：神秘护身符",
+        "imagePath": "/game_map_pin/1276541/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -19.39249933730425,
+        -28.407990115759397
+      ],
+      "properties": {
+        "subcategoryExternalId": "HhtnYCnCfE",
+        "imageId": 1276557,
+        "externalId": "fzPSm0c6Wh",
+        "title": "穹顶之乐 - 解法",
+        "description": "圆顶下的喜悦谜题的解决方案\n#\n在池塘中央",
+        "imagePath": "/game_map_pin/1276557/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -18.720703125000004,
+        -28.43971381702788
+      ],
+      "properties": {
+        "subcategoryExternalId": "j9YTKaFM9N",
+        "imageId": null,
+        "externalId": "5TXmyavMBf",
+        "title": "神秘护身符",
+        "description": "解决圆顶下的喜悦谜题的奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -29.577693540525914,
+        -15.415655916879759
+      ],
+      "properties": {
+        "subcategoryExternalId": "0NieQRmZf5",
+        "imageId": 1276561,
+        "externalId": "5MNwNnH7Rp",
+        "title": "礼物",
+        "description": "在屋顶凉亭下的小桌子上\n#\n谜题解决方案\n#\n奖励：骑士护身符",
+        "imagePath": "/game_map_pin/1276561/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -57.17285156250001,
+        -23.079731762449878
+      ],
+      "properties": {
+        "subcategoryExternalId": "HhtnYCnCfE",
+        "imageId": 1276564,
+        "externalId": "X8b736t84e",
+        "title": "礼物 - 解决方案",
+        "description": "礼物谜题的解决方案\n#\n在木桥附近的地面上",
+        "imagePath": "/game_map_pin/1276564/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -56.42578125000001,
+        -23.059516273509303
+      ],
+      "properties": {
+        "subcategoryExternalId": "j9YTKaFM9N",
+        "imageId": null,
+        "externalId": "y0YWDYejqM",
+        "title": "骑士的护符",
+        "description": "解决礼物谜题的奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -15.556640625,
+        8.79822545901635
+      ],
+      "properties": {
+        "subcategoryExternalId": "0NieQRmZf5",
+        "imageId": 1276572,
+        "externalId": "QSbRNZvdu6",
+        "title": "给你的礼物",
+        "description": "在建筑物内，通过这扇窗户使用飞刀来解除另一边窗户的门闩以进入\n#\n谜题解答\n#\n奖励：贝都因护身符",
+        "imagePath": "/game_map_pin/1276572/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -0.3955078125,
+        33.596318961132695
+      ],
+      "properties": {
+        "subcategoryExternalId": "HhtnYCnCfE",
+        "imageId": 1276587,
+        "externalId": "fRUsfEJCNo",
+        "title": "",
+        "description": "给你的一份礼物谜题的解决方案\n#\n在这个干枯喷泉的水池中",
+        "imagePath": "/game_map_pin/1276587/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        0.30761718750000006,
+        33.57801474614402
+      ],
+      "properties": {
+        "subcategoryExternalId": "j9YTKaFM9N",
+        "imageId": null,
+        "externalId": "eq2MpizNvj",
+        "title": "贝都因的护符",
+        "description": "解决给你的礼物谜题的奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        14.985351562500002,
+        2.9869273933348808
+      ],
+      "properties": {
+        "subcategoryExternalId": "0NieQRmZf5",
+        "imageId": 1276600,
+        "externalId": "6MNAhH1J9O",
+        "title": "应得之报",
+        "description": "在正门正上方室外露台的桌子上\n#\n谜题解答\n#\n奖励：\n#\n服装染料 - 黑色阿拔斯骑士",
+        "imagePath": "/game_map_pin/1276600/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        15.874296450062374,
+        16.7482846807808
+      ],
+      "properties": {
+        "subcategoryExternalId": "HhtnYCnCfE",
+        "imageId": 1276605,
+        "externalId": "DO5PPrbrgf",
+        "title": "应得奖赏 - 解答",
+        "description": "正当奖赏谜题的解决方案\n#\n在舒尔塔总部南侧建筑材料的顶部",
+        "imagePath": "/game_map_pin/1276605/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        16.633300781250004,
+        16.741427547003582
+      ],
+      "properties": {
+        "subcategoryExternalId": "liBovxWGjB",
+        "imageId": null,
+        "externalId": "5HKYlRdZGh",
+        "title": "黑色阿拔斯骑士",
+        "description": "解决 Just Rewards 谜题的奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        26.78466796875,
+        8.667918002363152
+      ],
+      "properties": {
+        "subcategoryExternalId": "0NieQRmZf5",
+        "imageId": 1276613,
+        "externalId": "6HlaBQWxCp",
+        "title": "快速为我解决这个问题",
+        "description": "凉亭下的长椅上\n#\n谜题解答\n#\n奖励：\n#\n服装染料 - 金色无形者",
+        "imagePath": "/game_map_pin/1276613/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        51.701660156250014,
+        -57.136239319177406
+      ],
+      "properties": {
+        "subcategoryExternalId": "HhtnYCnCfE",
+        "imageId": 1276615,
+        "externalId": "RB4moFJX9R",
+        "title": "帮我迅速解决这个问题 - 解决方案",
+        "description": "快点帮我解决这个问题谜题的解决方案\n#\n在废墟建筑的地面上",
+        "imagePath": "/game_map_pin/1276615/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        52.47070312500001,
+        -57.136239319177406
+      ],
+      "properties": {
+        "subcategoryExternalId": "liBovxWGjB",
+        "imageId": null,
+        "externalId": "LICYrqjQov",
+        "title": "黄金隐者",
+        "description": "解决快点帮我解决这个问题谜题的奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        21.617489657165354,
+        -33.820845887695604
+      ],
+      "properties": {
+        "subcategoryExternalId": "0NieQRmZf5",
+        "imageId": 1276642,
+        "externalId": "iaWYclg2FP",
+        "title": "泪椰树下的喜悦",
+        "description": "在坟墓的底部\n#\n谜题解答\n#\n奖励：\n#\n服装染料 - 绿色隐者",
+        "imagePath": "/game_map_pin/1276642/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        25.72998046875,
+        -60.20707506634909
+      ],
+      "properties": {
+        "subcategoryExternalId": "HhtnYCnCfE",
+        "imageId": 1276647,
+        "externalId": "u54D3x6x4b",
+        "title": "哭泣棕榈下的欢愉 - 解答",
+        "description": "泣泪棕榈下的欢乐的解答\n#\n在棕榈树下，红褐色布料旁边",
+        "imagePath": "/game_map_pin/1276647/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        26.47705078125,
+        -60.20707506634909
+      ],
+      "properties": {
+        "subcategoryExternalId": "liBovxWGjB",
+        "imageId": null,
+        "externalId": "ba0fWTWjDp",
+        "title": "绿色隐匿者",
+        "description": "解决棕榈泪下的欢乐的奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        71.43310546875001,
+        -64.80220413595876
+      ],
+      "properties": {
+        "subcategoryExternalId": "0NieQRmZf5",
+        "imageId": 1276650,
+        "externalId": "6Xmg6QnNON",
+        "title": "废墟中的收获",
+        "description": "在豪宅上层，尸体旁边\n#\n谜题解答\n#\n奖励：诡异护符",
+        "imagePath": "/game_map_pin/1276650/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        145.92041015625003,
+        -76.08495276695093
+      ],
+      "properties": {
+        "subcategoryExternalId": "HhtnYCnCfE",
+        "imageId": 1276653,
+        "externalId": "wC1HNvJLQv",
+        "title": "废墟中的收获 - 解决方案",
+        "description": "废墟收割谜题的解答\n#\n由蛇守卫的树根处",
+        "imagePath": "/game_map_pin/1276653/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        146.82128906250003,
+        -76.09023583317249
+      ],
+      "properties": {
+        "subcategoryExternalId": "j9YTKaFM9N",
+        "imageId": null,
+        "externalId": "eVvlp0SpRt",
+        "title": "埃尔德里奇护身符",
+        "description": "解决废墟收割谜题的奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        4.163566551204006,
+        60.633131790122285
+      ],
+      "properties": {
+        "subcategoryExternalId": "CDZhLStcVm",
+        "imageId": null,
+        "externalId": "LN1F1n1sC8",
+        "title": "",
+        "description": "*用一个力量代币来取消所有名声*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -100.0215477213982,
+        42.87506897251882
+      ],
+      "properties": {
+        "subcategoryExternalId": "CDZhLStcVm",
+        "imageId": null,
+        "externalId": "PBgyd3RaD8",
+        "title": "",
+        "description": "*用一个力量代币来取消所有名声*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        3.845214843750001,
+        47.82790816919325
+      ],
+      "properties": {
+        "subcategoryExternalId": "auQUkzXlKj",
+        "imageId": null,
+        "externalId": "Xgv8WDB7nL",
+        "title": "",
+        "description": "*吸引附近的守卫以交换学者令牌*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        10.217285156250004,
+        39.55488305992401
+      ],
+      "properties": {
+        "subcategoryExternalId": "CDZhLStcVm",
+        "imageId": null,
+        "externalId": "KeynhsA0G2",
+        "title": "",
+        "description": "*用一个力量代币来取消所有名声*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        21.379394531250004,
+        38.71980474264237
+      ],
+      "properties": {
+        "subcategoryExternalId": "fKAXP4Znw9",
+        "imageId": null,
+        "externalId": "kJwmU7OAZm",
+        "title": "",
+        "description": "*允许以商人代币为代价不被看见地移动*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -11.607780419863916,
+        47.88137366476583
+      ],
+      "properties": {
+        "subcategoryExternalId": "CDZhLStcVm",
+        "imageId": null,
+        "externalId": "FzDW1L0hqU",
+        "title": "",
+        "description": "*用一个力量代币来取消所有名声*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -17.26123623310589,
+        42.13080279321361
+      ],
+      "properties": {
+        "subcategoryExternalId": "J0oWhpwuSP",
+        "imageId": null,
+        "externalId": "c3V0Hsl7EF",
+        "title": "",
+        "description": "*攻击附近的敌人以获取一个能量代币*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -145.41503906250003,
+        74.74696664174382
+      ],
+      "properties": {
+        "subcategoryExternalId": "J0oWhpwuSP",
+        "imageId": null,
+        "externalId": "3z655ArZZD",
+        "title": "",
+        "description": "*攻击附近的敌人以获取一个能量代币*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -23.542853803374758,
+        34.6706002335541
+      ],
+      "properties": {
+        "subcategoryExternalId": "auQUkzXlKj",
+        "imageId": null,
+        "externalId": "aCpZXwNuoK",
+        "title": "",
+        "description": "*吸引附近的守卫以交换学者令牌*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -20.530856807155114,
+        35.99691730230159
+      ],
+      "properties": {
+        "subcategoryExternalId": "fKAXP4Znw9",
+        "imageId": null,
+        "externalId": "2wWLI1XvVL",
+        "title": "",
+        "description": "*允许以商人代币为代价不被看见地移动*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -23.950195312500004,
+        36.47430675509523
+      ],
+      "properties": {
+        "subcategoryExternalId": "CDZhLStcVm",
+        "imageId": null,
+        "externalId": "5oGsTql87q",
+        "title": "",
+        "description": "*用一个力量代币来取消所有名声*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -44.51896961837971,
+        19.265627374127423
+      ],
+      "properties": {
+        "subcategoryExternalId": "J0oWhpwuSP",
+        "imageId": null,
+        "externalId": "0FBqi5K6gv",
+        "title": "",
+        "description": "*攻击附近的敌人以获取一个能量代币*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -48.62445538751973,
+        14.892105065557203
+      ],
+      "properties": {
+        "subcategoryExternalId": "CDZhLStcVm",
+        "imageId": null,
+        "externalId": "zk41WpIfY2",
+        "title": "",
+        "description": "*用一个力量代币来取消所有名声*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -33.48632812500001,
+        32.379961464357294
+      ],
+      "properties": {
+        "subcategoryExternalId": "CDZhLStcVm",
+        "imageId": null,
+        "externalId": "VAZJ5gAVko",
+        "title": "",
+        "description": "*用一个力量代币来取消所有名声*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -43.93989361678142,
+        13.486403104011417
+      ],
+      "properties": {
+        "subcategoryExternalId": "auQUkzXlKj",
+        "imageId": null,
+        "externalId": "e9LKhlU7Uj",
+        "title": "",
+        "description": "*吸引附近的守卫以交换学者令牌*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -36.47460937500001,
+        10.854886268472455
+      ],
+      "properties": {
+        "subcategoryExternalId": "CDZhLStcVm",
+        "imageId": null,
+        "externalId": "7I4Pve2RHp",
+        "title": "",
+        "description": "*用一个力量代币来取消所有名声*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -40.20996093750001,
+        6.686431252651985
+      ],
+      "properties": {
+        "subcategoryExternalId": "J0oWhpwuSP",
+        "imageId": null,
+        "externalId": "UtnhynlB8k",
+        "title": "",
+        "description": "*攻击附近的敌人以获取一个能量代币*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -33.35449218750001,
+        -3.0088699788481392
+      ],
+      "properties": {
+        "subcategoryExternalId": "auQUkzXlKj",
+        "imageId": null,
+        "externalId": "anBNThI0L3",
+        "title": "",
+        "description": "*吸引附近的守卫以交换学者令牌*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -22.376267683181975,
+        4.8715955325538935
+      ],
+      "properties": {
+        "subcategoryExternalId": "J0oWhpwuSP",
+        "imageId": null,
+        "externalId": "HMj9feEE2S",
+        "title": "",
+        "description": "*攻击附近的敌人以获取一个能量代币*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -18.874511718750004,
+        -3.798483975036962
+      ],
+      "properties": {
+        "subcategoryExternalId": "auQUkzXlKj",
+        "imageId": null,
+        "externalId": "EmPr8mPM74",
+        "title": "",
+        "description": "*吸引附近的守卫以交换学者令牌*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -16.431165339891788,
+        -10.45399669893147
+      ],
+      "properties": {
+        "subcategoryExternalId": "J0oWhpwuSP",
+        "imageId": null,
+        "externalId": "D4zMuwTAn5",
+        "title": "",
+        "description": "*攻击附近的敌人以获取一个能量代币*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -8.175325104681276,
+        -7.573867501247057
+      ],
+      "properties": {
+        "subcategoryExternalId": "J0oWhpwuSP",
+        "imageId": null,
+        "externalId": "ujM45gJMHk",
+        "title": "",
+        "description": "*攻击附近的敌人以获取一个能量代币*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -25.96576343762132,
+        -14.440195212474423
+      ],
+      "properties": {
+        "subcategoryExternalId": "J0oWhpwuSP",
+        "imageId": null,
+        "externalId": "LR6blgf7Yk",
+        "title": "",
+        "description": "*攻击附近的敌人以获取一个能量代币*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -29.223632812500007,
+        -17.832374329567514
+      ],
+      "properties": {
+        "subcategoryExternalId": "J0oWhpwuSP",
+        "imageId": null,
+        "externalId": "h6BuHkTk9d",
+        "title": "",
+        "description": "*攻击附近的敌人以获取一个能量代币*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -31.44287109375,
+        -16.930705098765557
+      ],
+      "properties": {
+        "subcategoryExternalId": "auQUkzXlKj",
+        "imageId": null,
+        "externalId": "1CdBDJFHlv",
+        "title": "",
+        "description": "*吸引附近的守卫以交换学者令牌*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -20.961914062500004,
+        -21.596150576461426
+      ],
+      "properties": {
+        "subcategoryExternalId": "auQUkzXlKj",
+        "imageId": null,
+        "externalId": "fdgRcBXAxJ",
+        "title": "",
+        "description": "*吸引附近的守卫以交换学者令牌*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -23.203125000000004,
+        -22.59372606392931
+      ],
+      "properties": {
+        "subcategoryExternalId": "J0oWhpwuSP",
+        "imageId": null,
+        "externalId": "SBIBqH8Iid",
+        "title": "",
+        "description": "*攻击附近的敌人以获取一个能量代币*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -24.169921875,
+        -23.019076187293038
+      ],
+      "properties": {
+        "subcategoryExternalId": "CDZhLStcVm",
+        "imageId": null,
+        "externalId": "SUSvz8xPM8",
+        "title": "",
+        "description": "*用一个力量代币来取消所有名声*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -3.6474609375000004,
+        -32.008075959291006
+      ],
+      "properties": {
+        "subcategoryExternalId": "auQUkzXlKj",
+        "imageId": null,
+        "externalId": "z44IJRo15c",
+        "title": "",
+        "description": "*吸引附近的守卫以交换学者令牌*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        6.767578125000001,
+        -36.10237644873643
+      ],
+      "properties": {
+        "subcategoryExternalId": "J0oWhpwuSP",
+        "imageId": null,
+        "externalId": "gCuG6x35G0",
+        "title": "",
+        "description": "*攻击附近的敌人以获取一个能量代币*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        11.381835937500004,
+        -32.9164853473144
+      ],
+      "properties": {
+        "subcategoryExternalId": "J0oWhpwuSP",
+        "imageId": null,
+        "externalId": "CsaqVYqXba",
+        "title": "",
+        "description": "*攻击附近的敌人以获取一个能量代币*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -8.942871093750002,
+        -22.69512018496573
+      ],
+      "properties": {
+        "subcategoryExternalId": "J0oWhpwuSP",
+        "imageId": null,
+        "externalId": "ij4Jn1JQUH",
+        "title": "",
+        "description": "*攻击附近的敌人以获取一个能量代币*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -2.3730468750000027,
+        -18.10408701577387
+      ],
+      "properties": {
+        "subcategoryExternalId": "J0oWhpwuSP",
+        "imageId": null,
+        "externalId": "cdgLDvhP2z",
+        "title": "",
+        "description": "*攻击附近的敌人以获取一个能量代币*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -5.6250000000000036,
+        -23.624394569716955
+      ],
+      "properties": {
+        "subcategoryExternalId": "auQUkzXlKj",
+        "imageId": null,
+        "externalId": "bW3B93sthA",
+        "title": "",
+        "description": "*吸引附近的守卫以交换学者令牌*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        3.3618164062500004,
+        -18.583775688370963
+      ],
+      "properties": {
+        "subcategoryExternalId": "auQUkzXlKj",
+        "imageId": null,
+        "externalId": "d9mw9iKLvU",
+        "title": "",
+        "description": "*吸引附近的守卫以交换学者令牌*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        6.6796875,
+        -7.122696277518287
+      ],
+      "properties": {
+        "subcategoryExternalId": "J0oWhpwuSP",
+        "imageId": null,
+        "externalId": "ySprg284Uj",
+        "title": "",
+        "description": "*攻击附近的敌人以获取一个能量代币*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        17.622070312500004,
+        -0.9447814006873896
+      ],
+      "properties": {
+        "subcategoryExternalId": "J0oWhpwuSP",
+        "imageId": null,
+        "externalId": "p3bTXLBaGq",
+        "title": "",
+        "description": "*攻击附近的敌人以获取一个能量代币*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        0.3955078125,
+        -10.07703715440472
+      ],
+      "properties": {
+        "subcategoryExternalId": "CDZhLStcVm",
+        "imageId": null,
+        "externalId": "y0b7Tntq9s",
+        "title": "",
+        "description": "*用一个力量代币来取消所有名声*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        23.905793200620433,
+        -18.143205518578952
+      ],
+      "properties": {
+        "subcategoryExternalId": "J0oWhpwuSP",
+        "imageId": null,
+        "externalId": "Tv7eHFaoLB",
+        "title": "",
+        "description": "*攻击附近的敌人以获取一个能量代币*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        25.378417968750007,
+        -13.539200668930732
+      ],
+      "properties": {
+        "subcategoryExternalId": "CDZhLStcVm",
+        "imageId": null,
+        "externalId": "hegDWLeGql",
+        "title": "",
+        "description": "*用一个力量代币来取消所有名声*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        28.916015625,
+        -5.134714634014429
+      ],
+      "properties": {
+        "subcategoryExternalId": "J0oWhpwuSP",
+        "imageId": null,
+        "externalId": "P3jAa9hevH",
+        "title": "",
+        "description": "*攻击附近的敌人以获取一个能量代币*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        38.29833984375003,
+        -10.422988388338155
+      ],
+      "properties": {
+        "subcategoryExternalId": "J0oWhpwuSP",
+        "imageId": null,
+        "externalId": "lCIDgVQAtV",
+        "title": "",
+        "description": "*攻击附近的敌人以获取一个能量代币*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        32.34375000000001,
+        -5.94389957942559
+      ],
+      "properties": {
+        "subcategoryExternalId": "auQUkzXlKj",
+        "imageId": null,
+        "externalId": "91OYncTLLy",
+        "title": "",
+        "description": "*吸引附近的守卫以交换学者令牌*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        51.06445312500001,
+        -6.42448354618071
+      ],
+      "properties": {
+        "subcategoryExternalId": "J0oWhpwuSP",
+        "imageId": null,
+        "externalId": "hILbYJszgI",
+        "title": "",
+        "description": "*攻击附近的敌人以获取一个能量代币*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        48.49365234375,
+        -4.017699464336857
+      ],
+      "properties": {
+        "subcategoryExternalId": "auQUkzXlKj",
+        "imageId": null,
+        "externalId": "1Nvr0JRLQk",
+        "title": "",
+        "description": "*吸引附近的守卫以交换学者令牌*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        42.20947265625,
+        18.271086109608888
+      ],
+      "properties": {
+        "subcategoryExternalId": "J0oWhpwuSP",
+        "imageId": null,
+        "externalId": "yzjrsUtVgP",
+        "title": "",
+        "description": "*攻击附近的敌人以获取一个能量代币*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        39.39697265625001,
+        11.759814674441955
+      ],
+      "properties": {
+        "subcategoryExternalId": "CDZhLStcVm",
+        "imageId": null,
+        "externalId": "nWZMvzxeAq",
+        "title": "",
+        "description": "*用一个力量代币来取消所有名声*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        30.78369140625,
+        15.771109173575297
+      ],
+      "properties": {
+        "subcategoryExternalId": "J0oWhpwuSP",
+        "imageId": null,
+        "externalId": "0ihiPsdLi0",
+        "title": "",
+        "description": "*攻击附近的敌人以获取一个能量代币*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        36.56250000000001,
+        18.479609055831986
+      ],
+      "properties": {
+        "subcategoryExternalId": "auQUkzXlKj",
+        "imageId": null,
+        "externalId": "Rkhop2hDcn",
+        "title": "",
+        "description": "*吸引附近的守卫以交换学者令牌*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -15.713266189003921,
+        32.237655660664075
+      ],
+      "properties": {
+        "subcategoryExternalId": "fKAXP4Znw9",
+        "imageId": null,
+        "externalId": "HoJNpxRsl0",
+        "title": "",
+        "description": "*允许以商人代币为代价不被看见地移动*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -14.765625000000002,
+        30.713503990354965
+      ],
+      "properties": {
+        "subcategoryExternalId": "CDZhLStcVm",
+        "imageId": null,
+        "externalId": "Xc72mKv1kN",
+        "title": "",
+        "description": "*用一个力量代币来取消所有名声*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -15.974121093750002,
+        4.3245014930191985
+      ],
+      "properties": {
+        "subcategoryExternalId": "CDZhLStcVm",
+        "imageId": null,
+        "externalId": "yGcM4mPLZS",
+        "title": "",
+        "description": "*用一个力量代币来取消所有名声*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        16.90627647946369,
+        21.223015001337558
+      ],
+      "properties": {
+        "subcategoryExternalId": "CDZhLStcVm",
+        "imageId": null,
+        "externalId": "ymHmVVi9UE",
+        "title": "",
+        "description": "*用一个力量代币来取消所有名声*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        11.030273437500002,
+        18.02052765785234
+      ],
+      "properties": {
+        "subcategoryExternalId": "J0oWhpwuSP",
+        "imageId": null,
+        "externalId": "MLqp1Lmm7R",
+        "title": "",
+        "description": "*攻击附近的敌人以获取一个能量代币*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        71.84799587085102,
+        -64.00747416360902
+      ],
+      "properties": {
+        "subcategoryExternalId": "CDZhLStcVm",
+        "imageId": null,
+        "externalId": "V5PD7ChCX5",
+        "title": "",
+        "description": "*用一个力量代币来取消所有名声*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        74.06982421875001,
+        -61.85614879566795
+      ],
+      "properties": {
+        "subcategoryExternalId": "fKAXP4Znw9",
+        "imageId": null,
+        "externalId": "f3gWKkVNAT",
+        "title": "",
+        "description": "*允许以商人代币为代价不被看见地移动*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        74.26757812500001,
+        -60.73768583450926
+      ],
+      "properties": {
+        "subcategoryExternalId": "fKAXP4Znw9",
+        "imageId": null,
+        "externalId": "CwATLyHv5s",
+        "title": "",
+        "description": "*允许以商人代币为代价不被看见地移动*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -17.490234375000004,
+        49.282140159759905
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "externalId": "IN6WXI0SDD",
+        "title": "",
+        "description": "在这栋建筑的上层，在金属工厂\n#\n你可以选择潜行绕过守卫然后使用梯子进入，或者通过东边的窗户使用飞刀打开门",
+        "imageId": 1277007,
+        "imagePath": "/game_map_pin/1277007/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -29.267578125000004,
+        43.229195113965005
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "externalId": "DgIs1IvWna",
+        "title": "",
+        "description": "在大马士革门监狱正门下面的一个房间\n#\n你可以从房间另一侧投掷刀具来打开门",
+        "imageId": 1277011,
+        "imagePath": "/game_map_pin/1277011/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -27.114257812500004,
+        29.726222319395504
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "externalId": "L2gSTogE81",
+        "title": "",
+        "description": "在肥皂锅区中间建筑的上层楼\n#\n你可以在底层的天花板上投掷刀具，覆盖上层楼，然后爬上梯子",
+        "imageId": 1277014,
+        "imagePath": "/game_map_pin/1277014/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -27.883300781250004,
+        22.004174972902007
+      ],
+      "properties": {
+        "subcategoryExternalId": "QWs4nLP5l3",
+        "imageId": 1277021,
+        "externalId": "a2j830eG3p",
+        "title": "四市场储藏室钥匙",
+        "description": "在建筑上层掠夺这个人以获得储物钥匙，用来打开装备箱",
+        "imagePath": "/game_map_pin/1277021/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -32.58544921875001,
+        14.200488387358348
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "imageId": 1277025,
+        "externalId": "ej0bSAIPG6",
+        "title": "",
+        "description": "在建筑物的上层楼\n#\n你需要储物箱钥匙在房间外面有紫色遮篷的地方才能获取破坏底层和上层楼墙壁所需的爆炸物，然后使用可移动架子爬上去",
+        "imagePath": "/game_map_pin/1277025/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -39.66337684958088,
+        11.79265491746619
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "externalId": "REZpJ8Z7d6",
+        "title": "",
+        "description": "在建筑物的上层，在抄写室\n#\n*注意：守卫由一个号角持有者*",
+        "imageId": 1277027,
+        "imagePath": "/game_map_pin/1277027/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -55.1953125,
+        12.918906574180426
+      ],
+      "properties": {
+        "subcategoryExternalId": "QWs4nLP5l3",
+        "imageId": 1277029,
+        "externalId": "78ceoSohOn",
+        "title": "天文图书馆钥匙",
+        "description": "偷取这个人的钥匙以进入塔楼底部的装备箱所在处",
+        "imagePath": "/game_map_pin/1277029/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -58.86474609375001,
+        12.40438894466979
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "imageId": 1277032,
+        "externalId": "G0wDnqarrV",
+        "title": "",
+        "description": "在智慧之家的最高塔的上层\n#\n打碎塔外的吊灯以进入上层，你需要天文图书馆钥匙才能进入下层",
+        "imagePath": "/game_map_pin/1277032/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -27.446430436327553,
+        -5.612800375295272
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "externalId": "6t9O64OCPH",
+        "title": "",
+        "description": "在浴室的地面层，入口被石堆阻挡。\n#\n使用鹰眼寻找附近的炸药将其摧毁",
+        "imageId": 1277054,
+        "imagePath": "/game_map_pin/1277054/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        26.662242609037907,
+        43.21640382645052
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "externalId": "jGuFVON7Pn",
+        "title": "",
+        "description": "在王子的宫殿内的地面层，绕过守卫进入",
+        "imageId": 1277058,
+        "imagePath": "/game_map_pin/1277058/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        17.248535156250004,
+        32.69486597787511
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "imageId": 1277062,
+        "externalId": "xqDuOKYxdZ",
+        "title": "",
+        "description": "在赫拉桑门卫兵室顶部的储藏区，打破罐子以移动架子以进入内部",
+        "imagePath": "/game_map_pin/1277062/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -17.468261718750004,
+        -4.915832801313158
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "imageId": 1277066,
+        "externalId": "Kk4iBVf1O5",
+        "title": "",
+        "description": "在学者庄园的上房间，被书架阻挡，移动它以发现箱子\n#\n使用学者庄园的箱子钥匙打开它",
+        "imagePath": "/game_map_pin/1277066/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -15.249023437500002,
+        -7.100892668623642
+      ],
+      "properties": {
+        "subcategoryExternalId": "QWs4nLP5l3",
+        "imageId": 1277071,
+        "externalId": "nLIrxdNQ43",
+        "title": "学者庄园宝箱钥匙",
+        "description": "在建筑的上层，使用附近的齿轮宝箱",
+        "imagePath": "/game_map_pin/1277071/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -29.377441406250004,
+        -28.536274512989927
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "externalId": "mNmKzYyUUt",
+        "title": "",
+        "description": "在大医院屋顶的房间内，被一个可移动的书架遮挡\n#\n通过北侧的窗户使用飞刀解除对面门的门闩",
+        "imageId": 1277081,
+        "imagePath": "/game_map_pin/1277081/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -104.39208984375001,
+        -28.748396571187392
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "externalId": "0HHKUGr3v5",
+        "title": "",
+        "description": "在中间建筑的地面层，由外面的3名强盗守卫\n#\n要进入，通过二楼进入，然后站在房间中央。使用飞刀解除下面门的门闩",
+        "imageId": 1277085,
+        "imagePath": "/game_map_pin/1277085/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -7.906112923098329,
+        -17.48108255990188
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "externalId": "LBoalv9MLm",
+        "title": "",
+        "description": "在税务官府邸的主建筑的上层\n#\n通过正门上方的两扇门进入",
+        "imageId": 1277088,
+        "imagePath": "/game_map_pin/1277088/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        1.000323417604334,
+        -32.297938197337785
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "externalId": "X2WPzfpYRR",
+        "title": "",
+        "description": "在处女修道院内，通过移动书架挡住的密室中\n#\n从中央广场进入",
+        "imageId": 1277091,
+        "imagePath": "/game_map_pin/1277091/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        18.237304687500004,
+        -15.411319377981002
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "externalId": "LFKkfo4ceJ",
+        "title": "",
+        "description": "在集市的特殊房间内，可以在主线任务中对抗财务官时进入",
+        "imageId": 1277107,
+        "imagePath": "/game_map_pin/1277107/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        29.065693347627,
+        5.407853006740489
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "externalId": "FAy3ATuMrw",
+        "title": "",
+        "description": "在军官俱乐部的后面，你可以通过河流进入该区域",
+        "imageId": 1277121,
+        "imagePath": "/game_map_pin/1277121/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        27.114257812500004,
+        23.1605633090483
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "externalId": "hxpKZ4RceF",
+        "title": "",
+        "description": "在Qasr Salih的最高房间，使用炸药在顶部摧毁障碍物",
+        "imageId": 1277134,
+        "imagePath": "/game_map_pin/1277134/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        29.069824218750004,
+        23.42292845506526
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "42foocfmFu",
+        "title": "萨利赫宫",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        50.20751953125,
+        1.8453839885731895
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "imageId": 1277138,
+        "externalId": "Q6buV0FH9J",
+        "title": "",
+        "description": "在大军营正门正上方的被封锁的房间内，向左移动架子以进入房间的小洞",
+        "imagePath": "/game_map_pin/1277138/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        72.13964240089922,
+        -21.602672825205993
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "externalId": "uykcxpwMPo",
+        "title": "",
+        "description": "在南部营地的主建筑后面",
+        "imageId": 1277143,
+        "imagePath": "/game_map_pin/1277143/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        71.80664062500001,
+        -79.00077065896227
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "externalId": "YiJTnJopjx",
+        "title": "",
+        "description": "在间谍大师营地的树屋顶部",
+        "imageId": 1277146,
+        "imagePath": "/game_map_pin/1277146/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -12.32666015625,
+        12.683214911818666
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "imageId": 1277156,
+        "externalId": "SyYsbr2iSo",
+        "title": "",
+        "description": "在Al-Jahiz的房子内的一楼。使用炸药在屋顶进入内部",
+        "imagePath": "/game_map_pin/1277156/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        13.732910156250004,
+        18.8543103618898
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "externalId": "h8ug55lhe4",
+        "title": "",
+        "description": "在Shurta总部的屋顶，当心巡逻区域的守卫",
+        "imageId": 1277165,
+        "imagePath": "/game_map_pin/1277165/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        9.031820168162357,
+        44.047441096178034
+      ],
+      "properties": {
+        "subcategoryExternalId": "poSj06oWXq",
+        "imageId": 1277220,
+        "externalId": "KAwug7tGHT",
+        "title": "",
+        "description": "在整个Khlud区巡逻，由两名守卫保护。使用Enkidu可以轻松定位Tha'abeen成员",
+        "imagePath": "/game_map_pin/1277220/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        49.79503132951426,
+        4.938652087000026
+      ],
+      "properties": {
+        "subcategoryExternalId": "poSj06oWXq",
+        "imageId": 1277225,
+        "externalId": "RJCtaduBUF",
+        "title": "",
+        "description": "独自在Karkh的一半区域徘徊，使用Enkidu可以轻松定位Tha'abeen成员",
+        "imagePath": "/game_map_pin/1277225/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        61.68523601609463,
+        -65.98819185789965
+      ],
+      "properties": {
+        "subcategoryExternalId": "poSj06oWXq",
+        "imageId": 1277227,
+        "externalId": "nmAhMI0AnG",
+        "title": "",
+        "description": "在Jarjarayah西部的乡村巡逻，由两名重装甲守卫保护。使用Enkidu可以轻松定位Tha'abeen成员",
+        "imagePath": "/game_map_pin/1277227/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -151.962890625,
+        72.6399309448702
+      ],
+      "properties": {
+        "subcategoryExternalId": "poSj06oWXq",
+        "imageId": 1271831,
+        "externalId": "73PJUhJHpn",
+        "title": "",
+        "description": "在该区域循环然后过桥，有时也会前往城市墙外的农场。\n#\n使用Enkidu可以轻松定位Tha'abeen成员",
+        "imagePath": "/game_map_pin/1271831/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        6.6796875,
+        -27.702983735525848
+      ],
+      "properties": {
+        "subcategoryExternalId": "poSj06oWXq",
+        "imageId": 1277252,
+        "externalId": "XS35ltabjg",
+        "title": "",
+        "description": "在巴扎西南方向的这个区域漫步，由一名守卫保护。使用Enkidu可以轻松找到Tha'abeen成员",
+        "imagePath": "/game_map_pin/1277252/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -14.875488281250002,
+        -20.076570104545127
+      ],
+      "properties": {
+        "subcategoryExternalId": "poSj06oWXq",
+        "imageId": 1277257,
+        "externalId": "XssIRBkhXm",
+        "title": "",
+        "description": "在城市西南方向的这个区域游荡，由一名守卫保护。使用Enkidu可以轻松找到Tha'abeen成员",
+        "imagePath": "/game_map_pin/1277257/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -48.40011190286727,
+        3.9097610898112896
+      ],
+      "properties": {
+        "subcategoryExternalId": "poSj06oWXq",
+        "imageId": 1277264,
+        "externalId": "5GqC5B90Rm",
+        "title": "",
+        "description": "独自在四个市场周围徘徊，经过抄写室前往智慧之家。使用Enkidu可以轻松找到Tha'abeen成员",
+        "imagePath": "/game_map_pin/1277264/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -30.071093707649762,
+        28.379097964918316
+      ],
+      "properties": {
+        "subcategoryExternalId": "poSj06oWXq",
+        "imageId": 1277269,
+        "externalId": "wzmLzuc86N",
+        "title": "",
+        "description": "由一名护卫陪同，这名Tha'abeen成员在香皂锅炉区绕行，前往大清真寺并返回。使用Enkidu轻松定位Tha'abeen成员",
+        "imagePath": "/game_map_pin/1277269/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -6.941435939092755,
+        2.184824387598624
+      ],
+      "properties": {
+        "subcategoryExternalId": "poSj06oWXq",
+        "externalId": "pKrH6e4R2h",
+        "title": "",
+        "description": "围绕此区域循环，经过外侧宫殿区、巴士拉门和库法门。由2名守卫保护\n#\n使用恩基都轻松定位Tha'abeen成员",
+        "imageId": 1277280,
+        "imagePath": "/game_map_pin/1277280/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -11.04692170823276,
+        28.503102242982937
+      ],
+      "properties": {
+        "subcategoryExternalId": "poSj06oWXq",
+        "externalId": "yq5f3VOsdn",
+        "title": "",
+        "description": "围绕着前往邮局的观景点巡逻，伴随一名守卫。使用Enkidu可以轻松找到Tha'abeen成员。",
+        "imageId": 1277285,
+        "imagePath": "/game_map_pin/1277285/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -81.40103849524407,
+        73.99345300873301
+      ],
+      "properties": {
+        "subcategoryExternalId": "QWs4nLP5l3",
+        "imageId": null,
+        "externalId": "PWkVpxvvHT",
+        "title": "水下洞穴入口",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -75.3662109375,
+        72.34246439054994
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "imageId": 1277288,
+        "externalId": "3dXlzvXqfo",
+        "title": "",
+        "description": "在Isu洞穴内，可通过水下洞穴入口进入\n#\n需要3个神秘碎片",
+        "imagePath": "/game_map_pin/1277288/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -73.45458984375001,
+        72.88087095711504
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "imageId": 1277290,
+        "externalId": "hKtTHuVljj",
+        "title": "",
+        "description": "在伊苏洞穴内，可以通过水下洞穴入口进入\n#\n需要2个神秘碎片",
+        "imagePath": "/game_map_pin/1277290/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -73.41064453125001,
+        72.36244812858172
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "externalId": "vgdKbz80Da",
+        "title": "",
+        "description": "在Isu洞穴内，通过水下洞穴入口进入\n#\n需要5个神秘碎片",
+        "imageId": 1277292,
+        "imagePath": "/game_map_pin/1277292/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -72.70751953125001,
+        72.87440191350686
+      ],
+      "properties": {
+        "subcategoryExternalId": "MLUMwFoMPF",
+        "externalId": "3XEoxfQvS9",
+        "title": "萨姆萨玛",
+        "description": "在装备箱内找到",
+        "imageId": 1277295,
+        "imagePath": "/game_map_pin/1277295/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -72.77343750000001,
+        72.21539079680869
+      ],
+      "properties": {
+        "subcategoryExternalId": "QHvWFbVlhP",
+        "externalId": "fKH3TIWZmv",
+        "title": "Milad的装束",
+        "description": "在装备箱内找到",
+        "imageId": 1277300,
+        "imagePath": "/game_map_pin/1277300/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -75.78369140625001,
+        72.14141785103794
+      ],
+      "properties": {
+        "subcategoryExternalId": "OnHOfgwmnx",
+        "externalId": "zCclDbx9J1",
+        "title": "翡翠断剑",
+        "description": "在装备箱内找到",
+        "imageId": 1277298,
+        "imagePath": "/game_map_pin/1277298/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        3.7573242187500004,
+        62.31900278603098
+      ],
+      "properties": {
+        "subcategoryExternalId": "uWeHkdDAkP",
+        "imageId": 1277308,
+        "externalId": "aDYaFg8PsA",
+        "title": "塔巴里经注",
+        "description": "在聂斯托利安修道院下方的酒窖中，进入附近的秘密入口以进入该区域。解开移动书架谜题进入有书的房间\n\n#\n\n奖励：\n- 1 技能点\n- 1 学者令牌\n\n#\n\n*将丢失的书籍归还给贾希兹以获得奖励*",
+        "imagePath": "/game_map_pin/1277308/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -57.63427734375001,
+        15.792253570362448
+      ],
+      "properties": {
+        "subcategoryExternalId": "phk4g6r5FH",
+        "imageId": null,
+        "externalId": "0sUZLxw4k7",
+        "title": "阿尔-贾希兹",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -41.3332921363148,
+        34.873310361150686
+      ],
+      "properties": {
+        "subcategoryExternalId": "uWeHkdDAkP",
+        "imageId": 1277330,
+        "externalId": "GZNOoIcmsU",
+        "title": "卡利拉和笛木那",
+        "description": "在建筑一层，爬上楼上的窗户，然后用投掷刀引爆下方的炸药以解除门闩\n#\n奖励：\n- 1个技能点\n- 1个学者令牌\n#\n*将失落的书籍交还给贾希兹以获得奖励*",
+        "imagePath": "/game_map_pin/1277330/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -56.70082083500828,
+        20.047319404114607
+      ],
+      "properties": {
+        "subcategoryExternalId": "uWeHkdDAkP",
+        "imageId": 1277337,
+        "externalId": "e280haGTYS",
+        "title": "Al-Kwarizmi: Al-Jabr",
+        "description": "破坏前门，然后移动通往上层的书架以接近书籍\n#\n奖励：\n- 1个技能点\n- 1个学者令牌\n#\n*将失落的书籍交还给贾希兹以获得奖励*",
+        "imagePath": "/game_map_pin/1277337/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        40.82129194341589,
+        20.6782868311753
+      ],
+      "properties": {
+        "subcategoryExternalId": "uWeHkdDAkP",
+        "imageId": 1277342,
+        "externalId": "K4D5phmraS",
+        "title": "巴努·穆萨：精巧装置之书",
+        "description": "在建筑的上层，通过东边的窗户使用飞刀来解除另一边窗户的门闩\n#\n奖励：\n- 1 技能点\n- 1 学者令牌\n#\n*将失落之书归还给 Al-Jahiz 以获得奖励*",
+        "imagePath": "/game_map_pin/1277342/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        0.4394647059731798,
+        19.392646057677922
+      ],
+      "properties": {
+        "subcategoryExternalId": "uWeHkdDAkP",
+        "imageId": 1277349,
+        "externalId": "pm86RoPAUT",
+        "title": "Al-Sikkit: 迪万·阿布·努阿斯",
+        "description": "卡比哈图书馆内部，可通过东侧的开放窗口进入。只能在完成或之后完成任务蛇巢时获得。\n#\n奖励:\n- 1 技能点\n- 1 学者代币\n#\n*归还丢失的书籍给阿尔-贾希兹以获得奖励*",
+        "imagePath": "/game_map_pin/1277349/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -11.535644531250002,
+        8.059229627200196
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "hchrnNZ1p6",
+        "title": "蛇巢",
+        "description": "*任务*\n#\n前置：\n- 最后的忠告\n#\n奖励：\n- 3 技能点\n#\n后续：\n- 最后的旅程",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        12.10532590790107,
+        -40.17455934976605
+      ],
+      "properties": {
+        "subcategoryExternalId": "uWeHkdDAkP",
+        "imageId": 1277364,
+        "externalId": "Kyca9Tsjud",
+        "title": "苏莱曼·塔吉尔：中国与印度见闻录",
+        "description": "在周二市场中央建筑的上层。\n#\n奖励：\n- 1 技能点\n- 1 学者令牌\n#\n*将遗失的书籍归还给 Al-Jahiz 以获得奖励*",
+        "imagePath": "/game_map_pin/1277364/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        139.50585356270486,
+        -76.15036622697407
+      ],
+      "properties": {
+        "subcategoryExternalId": "uWeHkdDAkP",
+        "imageId": 1277436,
+        "externalId": "z7ax1WO7I4",
+        "title": "阿齐夫之书",
+        "description": "在被石堆阻挡的废墟中央，在梯子顶部使用炸药将其摧毁\n\n#\n\n奖励：\n- 怪物护身符\n- 1 技能点\n\n#\n\n*将失落的书籍归还给 Al-Jahiz 以获得奖励*",
+        "imagePath": "/game_map_pin/1277436/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -56.93115234374999,
+        15.771109173575297
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "z2r0AZji37",
+        "title": "Al-Jahiz的遗失书籍",
+        "description": "*任务*\n#\n奖励：\n- 每返还一本书（除了禁忌之书）：\n  - 1个技能点\n  - 1个学者令牌\n- 返还所有失落的书籍：\n  - 学者服装",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -58.383396969901725,
+        15.757561578767252
+      ],
+      "properties": {
+        "subcategoryExternalId": "fWsuGzT2AQ",
+        "imageId": 1277439,
+        "externalId": "u31mc0pMzU",
+        "title": "学者服装",
+        "description": "收集全部6本失落的书籍的奖励",
+        "imagePath": "/game_map_pin/1277439/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -8.986816406250002,
+        40.66397287638682
+      ],
+      "properties": {
+        "subcategoryExternalId": "VI2kr0uibl",
+        "imageId": null,
+        "externalId": "YHWx08SceJ",
+        "title": "分支",
+        "description": "*任务*\n#\n前置：\n- 旧伤\n#\n奖励：\n- 新工具\n- 学徒护符\n- 阿拉穆特服装升级图纸\n#\n后续：\n- 火与智慧\n- 金币与匕首\n- 血与暗影\n- 预购任务：\n  - 与盗贼共舞",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        0.21972656250000006,
+        -24.78673454198885
+      ],
+      "properties": {
+        "subcategoryExternalId": "jNWNAS42t1",
+        "imageId": null,
+        "externalId": "AHzQ1P6Z1M",
+        "title": "秘密，言说与未言说",
+        "description": "*额外任务*\n#\n前置：\n- 与盗贼共舞\n#\n奖励：\n- 无\n#\n后续：\n- 觐见国王",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -8.349609375000002,
+        40.73060847779658
+      ],
+      "properties": {
+        "subcategoryExternalId": "jNWNAS42t1",
+        "imageId": null,
+        "externalId": "53hlIwHMwC",
+        "title": "与盗贼共舞",
+        "description": "*额外任务*\n#\n前置：\n- 分支扩展\n#\n奖励：\n- 无\n#\n后续：\n- 说出与未说的秘密",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -24.92812791003539,
+        -70.4631785519165
+      ],
+      "properties": {
+        "subcategoryExternalId": "jNWNAS42t1",
+        "imageId": null,
+        "externalId": "908GK789kN",
+        "title": "会见国王",
+        "description": "*额外任务*\n#\n前置：\n- 说出与未说的秘密\n#\n奖励：\n- 盗贼之王服装",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -23.943181011975053,
+        -69.53894850544
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "URZLN3ud4t",
+        "title": "四十盗贼藏身处",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -25.7080078125,
+        -70.45885925640691
+      ],
+      "properties": {
+        "subcategoryExternalId": "fWsuGzT2AQ",
+        "imageId": 1278014,
+        "externalId": "aVWRo9xrWV",
+        "title": "盗贼之王服装",
+        "description": "*预购服装*\n#\n完成预购额外任务觐见国王的奖励",
+        "imagePath": "/game_map_pin/1278014/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -83.45214843750001,
+        83.32384373663479
+      ],
+      "properties": {
+        "subcategoryExternalId": "mpj8f9xD5X",
+        "imageId": null,
+        "externalId": "TkXiE8OpXy",
+        "title": "寻宝游戏",
+        "description": "与女子对话以开始\n#\n奖励：\n- 交出陶罐\n   - 100第纳尔\n- 打破陶罐\n   - 50第纳尔",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        1.669921875,
+        62.593340830120155
+      ],
+      "properties": {
+        "subcategoryExternalId": "mpj8f9xD5X",
+        "imageId": null,
+        "externalId": "G4DO18bWLj",
+        "title": "神圣任务",
+        "description": "与搜索坟墓的僧侣对话\n#\n奖励：\n- 100第纳尔",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -49.00583931142891,
+        16.490318750788393
+      ],
+      "properties": {
+        "subcategoryExternalId": "mpj8f9xD5X",
+        "imageId": null,
+        "externalId": "fmk47diqsl",
+        "title": "一生的工作",
+        "description": "与坐在长凳上的男子交谈\n#\n奖励：\n- 技能点",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -15.183105468750002,
+        -23.644524198573734
+      ],
+      "properties": {
+        "subcategoryExternalId": "mpj8f9xD5X",
+        "imageId": null,
+        "externalId": "4g0k2SxAsD",
+        "title": "人群中的利刃，棚屋中的工具",
+        "description": "与纳吉对话开始\n#\n奖励：\n- 无",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        39.26513671875001,
+        4.587376153449711
+      ],
+      "properties": {
+        "subcategoryExternalId": "mpj8f9xD5X",
+        "imageId": null,
+        "externalId": "4EjLx3SKqR",
+        "title": "信徒之跃",
+        "description": "与瞭望塔顶部的孩子交谈以开始\n#\n奖励：\n- 技能点",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -111.01437846936872,
+        14.718588997957747
+      ],
+      "properties": {
+        "subcategoryExternalId": "mpj8f9xD5X",
+        "imageId": null,
+        "externalId": "dkzAdP2jCD",
+        "title": "西拉的诅咒",
+        "description": "与树下惊恐的男人交谈以开始\n#\n奖励：\n- 技能点",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -14.427980759892872,
+        59.37090881913018
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "BYUbpKJ3Iu",
+        "title": "历史遗址 - 巴格达的运河",
+        "description": "收藏：信仰与日常生活",
+        "imageId": 1278032,
+        "imagePath": "/game_map_pin/1278032/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -6.5600520151835715,
+        55.238315931848
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "5igrTUYvdP",
+        "title": "历史遗址 - 酒精生产和消费",
+        "description": "收藏：信仰与日常生活",
+        "imageId": 1278050,
+        "imagePath": "/game_map_pin/1278050/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -23.68506759414923,
+        51.62024412683206
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "xE5MwXh2PT",
+        "title": "历史遗址 - 世界商城",
+        "description": "收藏：经济",
+        "imageId": 1278053,
+        "imagePath": "/game_map_pin/1278053/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -18.522949218750004,
+        50.99992885585968
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "6Ghky26LMD",
+        "title": "历史遗迹 - 陶瓷和光泽器皿",
+        "description": "收藏：经济",
+        "imageId": 1278055,
+        "imagePath": "/game_map_pin/1278055/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -7.580566549835485,
+        40.53050192853024
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "55DZmhxILL",
+        "title": "历史遗址 - 巴努·穆萨兄弟",
+        "description": "收藏品：艺术与科学\n#\n在哈比亚分部的上层",
+        "imageId": 1278059,
+        "imagePath": "/game_map_pin/1278059/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        3.3618162626645365,
+        51.138001614191694
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "4MlYi3bNsj",
+        "title": "历史遗址 - 海上贸易",
+        "description": "收藏：经济",
+        "imageId": 1278062,
+        "imagePath": "/game_map_pin/1278062/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        16.259765625000004,
+        41.343824581185714
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "imageId": 1278065,
+        "externalId": "1e8ivq2j2J",
+        "title": "历史遗址 - 通过贸易扩展伊斯兰教",
+        "description": "收藏：经济",
+        "imagePath": "/game_map_pin/1278065/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        22.456054687500004,
+        38.462191723068344
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "brIWt80fWk",
+        "title": "历史遗址 - 困难的继任",
+        "description": "收藏品：政府",
+        "imageId": 1278067,
+        "imagePath": "/game_map_pin/1278067/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        20.720214843750004,
+        36.650792525034745
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "imageId": 1278070,
+        "externalId": "ZTKdIvlWeS",
+        "title": "历史遗迹 - 希腊人的礼物",
+        "description": "收藏品：政府",
+        "imagePath": "/game_map_pin/1278070/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -38.693847656250014,
+        44.52784279845551
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "zgzlk3nhRa",
+        "title": "历史遗址 - 巴格达之门",
+        "description": "收藏品：政府",
+        "imageId": 1278072,
+        "imagePath": "/game_map_pin/1278072/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -30.981445312500007,
+        41.59079685105601
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "En0DH5IZR8",
+        "title": "历史遗迹 - 监狱",
+        "description": "收藏品：政府",
+        "imageId": 1278085,
+        "imagePath": "/game_map_pin/1278085/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -19.379882812500004,
+        34.34343606848293
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "YyBQsReSd5",
+        "title": "历史遗址 - 阿拔斯革命",
+        "description": "收藏品：政府",
+        "imageId": 1278091,
+        "imagePath": "/game_map_pin/1278091/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -35.37597656250001,
+        38.44498466889473
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "FPFrkUoPNl",
+        "title": "历史遗迹 - 伊斯兰支柱",
+        "description": "收藏：信仰与日常生活",
+        "imageId": 1278093,
+        "imagePath": "/game_map_pin/1278093/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -36.65039062500001,
+        35.38904996691166
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "TxGTuUeejo",
+        "title": "历史遗址 - 朝觐（麦加之旅）",
+        "description": "收藏：信仰与日常生活",
+        "imageId": 1278095,
+        "imagePath": "/game_map_pin/1278095/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -40.83973647007939,
+        34.28222844865875
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "4MFMjk2Qnr",
+        "title": "历史遗址 - 卡莉娜和帝玛纳",
+        "description": "收藏：艺术与科学",
+        "imageId": 1278097,
+        "imagePath": "/game_map_pin/1278097/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -49.35058593750003,
+        28.940861769405572
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "6PvaAnBYnf",
+        "title": "历史遗址 - 祖拜达·本特·贾法尔",
+        "description": "收藏品：宫廷生活",
+        "imageId": 1278100,
+        "imagePath": "/game_map_pin/1278100/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -50.339355468750014,
+        17.30868788677003
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "uAKgQ8H2dV",
+        "title": "历史遗迹 - 天文仪器",
+        "description": "收藏：艺术与科学",
+        "imageId": 1278103,
+        "imagePath": "/game_map_pin/1278103/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -49.68017578125003,
+        16.277960306212478
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "7l1q06Bfft",
+        "title": "历史遗址 - 天文学与占星术",
+        "description": "收藏：艺术与科学",
+        "imageId": 1278105,
+        "imagePath": "/game_map_pin/1278105/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -59.85351562500001,
+        13.453737213419231
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "UAElH6PCg3",
+        "title": "历史遗址 - 计算地球周长",
+        "description": "收藏：艺术与科学",
+        "imageId": 1278107,
+        "imagePath": "/game_map_pin/1278107/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -56.33789062500001,
+        13.539200668930818
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "8Pi4beupbz",
+        "title": "历史遗址 - 马吉利斯（知识沙龙）",
+        "description": "收藏：宫廷生活",
+        "imageId": 1278109,
+        "imagePath": "/game_map_pin/1278109/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -52.16308593750001,
+        6.2279339302686765
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "uS8gMaJqhn",
+        "title": "历史遗址 - 智慧之家",
+        "description": "收藏：艺术与科学",
+        "imageId": 1278111,
+        "imagePath": "/game_map_pin/1278111/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -39.96826171875001,
+        8.189742344383703
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "aHmT8ZsyyC",
+        "title": "历史遗址 - 翻译运动",
+        "description": "收藏：艺术与科学",
+        "imageId": 1278114,
+        "imagePath": "/game_map_pin/1278114/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -33.46435546875001,
+        3.820408083194934
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "L5jvmDwT7O",
+        "title": "历史遗址 - 阿拉伯语作为文化统一体",
+        "description": "收藏：艺术与科学",
+        "imageId": 1278116,
+        "imagePath": "/game_map_pin/1278116/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -32.49755859375001,
+        19.394067895396617
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "kwRRZn3HBa",
+        "title": "历史遗址 - 造纸术",
+        "description": "收藏：艺术与科学",
+        "imageId": 1278120,
+        "imagePath": "/game_map_pin/1278120/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -28.36669921875,
+        17.11979250078707
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "1MaDmkNzWD",
+        "title": "历史遗址 - 奴隶制",
+        "description": "收藏：经济",
+        "imageId": 1278122,
+        "imagePath": "/game_map_pin/1278122/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -29.926757812500004,
+        14.689881366618792
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "29DmlsX5k7",
+        "title": "历史遗址 - Muhtasib（市场监察官）",
+        "description": "收藏：经济",
+        "imageId": 1278124,
+        "imagePath": "/game_map_pin/1278124/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -27.685546875000007,
+        -3.6669277409287275
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "hj7820EZjN",
+        "title": "历史遗迹 - 土耳其浴室",
+        "description": "收藏：信仰与日常生活",
+        "imageId": 1278128,
+        "imagePath": "/game_map_pin/1278128/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -26.674804687500007,
+        -5.7034479821495125
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "vPQUYGjKHk",
+        "title": "历史遗址 - \"阿拔斯风格\"",
+        "description": "收藏：宫廷生活",
+        "imageId": 1278126,
+        "imagePath": "/game_map_pin/1278126/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -33.53027343750001,
+        -28.767659105691237
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "eINSoSW3Nl",
+        "title": "历史遗址 - 医疗保健",
+        "description": "收藏：艺术与科学",
+        "imageId": 1278131,
+        "imagePath": "/game_map_pin/1278131/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -16.984863281250004,
+        -34.415973384481866
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "dktAoK2BMh",
+        "title": "历史遗迹 - 驴穹顶",
+        "description": "收藏：信仰与日常生活",
+        "imageId": 1278133,
+        "imagePath": "/game_map_pin/1278133/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -16.699218750000004,
+        -33.815666308702774
+      ],
+      "properties": {
+        "subcategoryExternalId": "STGNwrwiWv",
+        "imageId": null,
+        "externalId": "xI7obu7I6Z",
+        "title": "屁股圆顶",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -1.7142327466904386,
+        -33.465990949339066
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "EIesgog2FB",
+        "title": "历史遗迹 - 齐米（非穆斯林）",
+        "description": "收藏：信仰与日常生活",
+        "imageId": 1278136,
+        "imagePath": "/game_map_pin/1278136/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -3.9770507812500004,
+        -17.560246503294906
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "OnZJEq9MN1",
+        "title": "历史遗迹 - 税收",
+        "description": "收藏：经济",
+        "imageId": 1278138,
+        "imagePath": "/game_map_pin/1278138/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        13.139648437500002,
+        -22.634292693793526
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "xJPtNp2uBa",
+        "title": "历史遗址 - 世界的中心",
+        "description": "收藏：经济",
+        "imageId": 1278140,
+        "imagePath": "/game_map_pin/1278140/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        19.33593750000001,
+        -18.625424540701232
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "sOma0UTJvv",
+        "title": "历史遗址 - 市集",
+        "description": "收藏：经济",
+        "imageId": 1278142,
+        "imagePath": "/game_map_pin/1278142/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        23.62060546875002,
+        -11.609193407938946
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "n8iRQl53VH",
+        "title": "历史遗址 - 纺织品",
+        "description": "收藏：信仰与日常生活",
+        "imageId": 1278144,
+        "imagePath": "/game_map_pin/1278144/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        34.87060546875001,
+        -16.86763361680383
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "BzngOuGPbi",
+        "title": "历史遗址 - 香水",
+        "description": "收藏：宫廷生活",
+        "imageId": 1278146,
+        "imagePath": "/game_map_pin/1278146/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        31.486816406250004,
+        -4.806364708500013
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "2wbN741cON",
+        "title": "历史遗址 - 餐桌礼仪",
+        "description": "收藏：宫廷生活",
+        "imageId": 1278148,
+        "imagePath": "/game_map_pin/1278148/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        47.1533203125,
+        1.9771465537125579
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "6fUMf9PQkt",
+        "title": "历史遗迹 - 阿拔斯军队",
+        "description": "收藏品：政府",
+        "imageId": 1278150,
+        "imagePath": "/game_map_pin/1278150/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        23.334960937500004,
+        9.188870084473407
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "TpBoPpZqKg",
+        "title": "历史遗迹 - 古拉姆（仆从士兵）",
+        "description": "收藏品：政府",
+        "imageId": 1278152,
+        "imagePath": "/game_map_pin/1278152/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        29.091796875,
+        18.417078658661282
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "2TThoXxen8",
+        "title": "历史遗址 - 阿巴斯王朝……及其对手",
+        "description": "收藏品：政府",
+        "imageId": 1278154,
+        "imagePath": "/game_map_pin/1278154/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        31.267089843750004,
+        30.562260950499436
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "yCI9uSwo8q",
+        "title": "历史遗址 - 巴格达出口",
+        "description": "收藏：经济",
+        "imageId": 1278157,
+        "imagePath": "/game_map_pin/1278157/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -14.479980468750002,
+        22.044913300245696
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "y3MurGE2NL",
+        "title": "历史遗址 - 巴里德（邮政系统）",
+        "description": "收藏品：政府",
+        "imageId": 1278159,
+        "imagePath": "/game_map_pin/1278159/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -11.645507812500002,
+        17.685895196738684
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "h1GEjFVODn",
+        "title": "历史遗迹 - 歌唱与诗歌",
+        "description": "收藏：艺术与科学",
+        "imageId": 1278161,
+        "imagePath": "/game_map_pin/1278161/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -17.753906250000004,
+        12.103780891645812
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "nPO4WE5EG3",
+        "title": "历史遗址 - 婚姻与离婚",
+        "description": "收藏：信仰与日常生活",
+        "imageId": 1278166,
+        "imagePath": "/game_map_pin/1278166/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -16.171875000000004,
+        9.384032109601677
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "AygI6GoLFK",
+        "title": "历史遗址 - 奇彦（歌妓）",
+        "description": "收藏：宫廷生活",
+        "imageId": 1278169,
+        "imagePath": "/game_map_pin/1278169/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -11.755371093750002,
+        13.38961959174759
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "A2QSZWOuZO",
+        "title": "历史遗址 - 阿尔-贾希兹",
+        "description": "收藏：艺术与科学",
+        "imageId": 1278163,
+        "imagePath": "/game_map_pin/1278163/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -8.217773437500002,
+        9.687398430760624
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "mpM1BkbZ9G",
+        "title": "历史遗迹 - 哈里发的权力",
+        "description": "收藏品：政府",
+        "imageId": 1278171,
+        "imagePath": "/game_map_pin/1278171/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -5.866699218750001,
+        8.167993177231878
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "oRlFLhnxxq",
+        "title": "历史遗址 - 花园与权力",
+        "description": "收藏：宫廷生活",
+        "imageId": 1278173,
+        "imagePath": "/game_map_pin/1278173/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -3.735351562500001,
+        6.293458760394003
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "J31FEGT07N",
+        "title": "历史遗址 - 后宫",
+        "description": "收藏：宫廷生活",
+        "imageId": 1278175,
+        "imagePath": "/game_map_pin/1278175/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -1.0766601562500002,
+        4.915832801313144
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "xATWP7bjQP",
+        "title": "历史遗址 - 太监",
+        "description": "收藏：宫廷生活",
+        "imageId": 1278177,
+        "imagePath": "/game_map_pin/1278177/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        1.5380859375000002,
+        7.4496242601978935
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "OFB3WPUPxy",
+        "title": "历史遗迹 - 哈里发之母",
+        "description": "收藏：宫廷生活",
+        "imageId": 1278179,
+        "imagePath": "/game_map_pin/1278179/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        9.667968750000004,
+        17.47643219719552
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "q1NGUExkAV",
+        "title": "历史遗址 - 宫廷动物",
+        "description": "收藏：宫廷生活",
+        "imageId": 1278182,
+        "imagePath": "/game_map_pin/1278182/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        11.865234375,
+        19.062117883514652
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "wy1OjxTyme",
+        "title": "历史遗址 - 舒尔塔（警察）",
+        "description": "收藏品：政府",
+        "imageId": 1278184,
+        "imagePath": "/game_map_pin/1278184/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        0.0439453125,
+        32.7872745269555
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZdatPuHzoP",
+        "imageId": 1277178,
+        "externalId": "sAkTXR5tNQ",
+        "title": "",
+        "description": "在Mazalim法庭顶层的房间中，用飞刀打破窗户进入内部",
+        "imagePath": "/game_map_pin/1277178/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        9.492187500000002,
+        34.161818161230386
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "Z6Gm2DtlrH",
+        "title": "历史遗址 - 教育系统",
+        "description": "收藏：信仰与日常生活",
+        "imageId": 1278187,
+        "imagePath": "/game_map_pin/1278187/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        2.1093750000000004,
+        33.77914733128651
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "FyTzefOdgX",
+        "title": "历史遗迹 - 法官与司法体系",
+        "description": "收藏品：政府",
+        "imageId": 1278189,
+        "imagePath": "/game_map_pin/1278189/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        20.039062500000004,
+        -35.72867704485162
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "JuLSx9WguO",
+        "title": "历史遗址 - 死亡与来世",
+        "description": "收藏：信仰与日常生活",
+        "imageId": 1278191,
+        "imagePath": "/game_map_pin/1278191/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -23.161469879465574,
+        -70.05714848851605
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "RNXiyfaUCb",
+        "title": "历史遗址 - 一千零一夜",
+        "description": "收藏：艺术与科学",
+        "imageId": 1278193,
+        "imagePath": "/game_map_pin/1278193/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        71.56494140625001,
+        -62.59334083012024
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "ZTQinuY2bW",
+        "title": "历史遗迹 - 丝绸之路",
+        "description": "收藏：经济",
+        "imageId": 1278195,
+        "imagePath": "/game_map_pin/1278195/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        140.14160156250003,
+        -75.94690063571743
+      ],
+      "properties": {
+        "subcategoryExternalId": "mAR1LfGInN",
+        "externalId": "d1bFF4ic09",
+        "title": "历史遗址 - 底格里斯河畔的塞琉西亚",
+        "description": "收藏品：政府",
+        "imageId": 1278198,
+        "imagePath": "/game_map_pin/1278198/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        38.734897536148004,
+        2.386572776514944
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 488.8511962890625,
+          "y": 111.8210678100586,
+          "z": 237.9455108642578
+        },
+        "externalId": "kVGxCHV1jj",
+        "title": "",
+        "description": "*视点是快速旅行点，可以清除地图上的迷雾并显示收集品*",
+        "subcategoryExternalId": "TViba6HJqI",
+        "imageId": 1275913,
+        "imagePath": "/game_map_pin/1275913/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        74.04785156250001,
+        -64.13936944203154
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 961.7255859375,
+          "y": -1016.916748046875,
+          "z": 233.51451110839844
+        },
+        "externalId": "r74C2IzLGE",
+        "title": "",
+        "description": "*视点是快速旅行点，可以清除地图上的迷雾并显示收集品*",
+        "subcategoryExternalId": "TViba6HJqI",
+        "imageId": 1275934,
+        "imagePath": "/game_map_pin/1275934/{size}.webp"
+      }
+    }
+  ]
+}

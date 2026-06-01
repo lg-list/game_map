@@ -1,0 +1,24 @@
+{
+  "title": "Outbound",
+  "heroUrl": "/assets/images/games/outbound/hero.webp",
+  "maps": [
+    {
+      "name": "The Outdoors",
+      "slug": "the-outdoors",
+      "thumbnailUrl": "/assets/images/games/outbound/the-outdoors.webp",
+      "updatedAt": "2026-05-28T07:17:17Z",
+      "markerCount": 413,
+      "categoryCount": 5,
+      "subcategoryCount": 24
+    },
+    {
+      "name": "The Coast",
+      "slug": "the-coast",
+      "thumbnailUrl": "/assets/images/games/outbound/the-coast.webp",
+      "updatedAt": "2026-05-28T07:17:17Z",
+      "markerCount": 231,
+      "categoryCount": 5,
+      "subcategoryCount": 29
+    }
+  ]
+}

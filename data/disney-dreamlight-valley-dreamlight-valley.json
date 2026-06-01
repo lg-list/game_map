@@ -1,0 +1,2874 @@
+{
+  "metadata": {
+    "externalId": "9bP6fQT2LL",
+    "name": "Dreamlight Valley",
+    "slug": "dreamlight-valley",
+    "baseTilePath": "https://storage-cdn.wemod.com/maps/018c45b7-4ed2-7f93-b6a6-26b4c9d3575a",
+    "isChecklistPublished": true,
+    "isInActiveDevelopment": false,
+    "backgroundColor": "#8FAEDD",
+    "minZoom": 1,
+    "maxZoom": 5,
+    "initialZoom": 3,
+    "tmsEnabled": true,
+    "categories": [
+      {
+        "externalId": "nIXk6hybsn",
+        "gameMapExternalId": "9bP6fQT2LL",
+        "title": "收藏品",
+        "color": "#d58cb8",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "NFU6CQvKc5",
+        "gameMapExternalId": "9bP6fQT2LL",
+        "title": "兴趣点",
+        "color": "#5d8fd5",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "HmRJWfTCt8",
+        "gameMapExternalId": "9bP6fQT2LL",
+        "title": "资源",
+        "color": "#8ea856",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "subcategories": [
+      {
+        "externalId": "PqdlzVHbWf",
+        "categoryExternalId": "nIXk6hybsn",
+        "title": "宝箱",
+        "icon": "treasure-chest",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "lQZs3ZyWqP",
+        "categoryExternalId": "nIXk6hybsn",
+        "title": "服装",
+        "icon": "roundies:home-interior-clothing-hanger",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "2tDJtphC8L",
+        "categoryExternalId": "nIXk6hybsn",
+        "title": "回忆",
+        "icon": "notebook",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "xorxtoG4au",
+        "categoryExternalId": "nIXk6hybsn",
+        "title": "任务物品",
+        "icon": "exclamation",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "KcjzFgbJda",
+        "categoryExternalId": "nIXk6hybsn",
+        "title": "食谱",
+        "icon": "note-medical",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "WABuQ6CNwZ",
+        "categoryExternalId": "nIXk6hybsn",
+        "title": "工具",
+        "icon": "roundies:architecture-pick-axe",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "Sv8en6P4rK",
+        "categoryExternalId": "NFU6CQvKc5",
+        "title": "高飞的摊位",
+        "icon": "store-alt",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "nPZths7c50",
+        "categoryExternalId": "HmRJWfTCt8",
+        "title": "苹果树",
+        "icon": "apple-whole",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "tyw3V4IrFy",
+        "categoryExternalId": "HmRJWfTCt8",
+        "title": "香蕉树",
+        "icon": "roundies:food-banana",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "Qr0lsZz3us",
+        "categoryExternalId": "HmRJWfTCt8",
+        "title": "蓝莓丛",
+        "icon": "roundies:food-strawberry",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "tg8nG23DXX",
+        "categoryExternalId": "HmRJWfTCt8",
+        "title": "樱桃树",
+        "icon": "cherry",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "sw614nyLhV",
+        "categoryExternalId": "HmRJWfTCt8",
+        "title": "可可树",
+        "icon": "chocolate",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "RI5r7VLAPC",
+        "categoryExternalId": "HmRJWfTCt8",
+        "title": "醋栗丛",
+        "icon": "strawberry",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "YLhVaUBOe5",
+        "categoryExternalId": "HmRJWfTCt8",
+        "title": "柠檬树",
+        "icon": "lemon",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "B1TokSjGW2",
+        "categoryExternalId": "HmRJWfTCt8",
+        "title": "覆盆子丛",
+        "icon": "roundies:maternity-fruit",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "CDZ6ylp6L9",
+        "categoryExternalId": "HmRJWfTCt8",
+        "title": "石头",
+        "icon": "roundies:world-monuments-stonehenge",
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "playerLocationDeltas": {
+      "deltas": {
+        "scaleX": 0.000008280390322465225,
+        "scaleY": 6.413162161867754e-7,
+        "offsetX": -16.04667318953949,
+        "offsetY": 10.356772794895367,
+        "gameCoordsMap": {
+          "x": "x",
+          "y": "y",
+          "z": "z"
+        }
+      },
+      "referencePoints": [
+        {
+          "lngLat": {
+            "lat": 54.41892996865827,
+            "lng": 137.37304687500003
+          },
+          "gameCoords": {
+            "x": 110.43782806396484,
+            "y": 15.00104808807373,
+            "z": 111.77235412597656
+          }
+        },
+        {
+          "lngLat": {
+            "lat": -71.23022052382078,
+            "lng": -56.42578125000001
+          },
+          "gameCoords": {
+            "x": -68,
+            "y": 3.00177001953125,
+            "z": -53
+          }
+        }
+      ]
+    }
+  },
+  "features": [
+    {
+      "coordinates": [
+        1.5820312500000002,
+        -10.790140750321738
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "lQZs3ZyWqP",
+        "externalId": "z9P412R7dc",
+        "title": "普通绿松石T恤",
+        "description": "在起始房屋后面的绿色箱子里找到。",
+        "subcategoryExternalId": "lQZs3ZyWqP",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        7.338867187500001,
+        -10.876464994816283
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "WABuQ6CNwZ",
+        "externalId": "oSuPEsb1wc",
+        "title": "浇水壶",
+        "description": "在起始房屋右侧后面找到。",
+        "subcategoryExternalId": "WABuQ6CNwZ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -6.591796875000001,
+        -28.14950321154457
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "PqdlzVHbWf",
+        "externalId": "rP3TIbL5Pi",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "PqdlzVHbWf",
+        "imageId": 892665,
+        "imagePath": "/game_map_pin/892665/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        13.666992187500002,
+        -43.10098287618853
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "PqdlzVHbWf",
+        "externalId": "SHKHFEoXFS",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "PqdlzVHbWf",
+        "imageId": 892667,
+        "imagePath": "/game_map_pin/892667/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        4.306640625000001,
+        -11.350796722383592
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "lQZs3ZyWqP",
+        "externalId": "L0DluLQoED",
+        "title": "",
+        "description": "在起始房屋内的箱子里找到。\n\n- 黑色Polo衫\n- 红色背包",
+        "subcategoryExternalId": "lQZs3ZyWqP",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        4.3505859375,
+        -10.22843726615585
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "2tDJtphC8L",
+        "externalId": "LHgsubj4j9",
+        "title": "梦光谷 #1",
+        "description": "在房子里摧毁小夜刺后找到。",
+        "subcategoryExternalId": "2tDJtphC8L",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        9.140625000000002,
+        -40.4803814290817
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "2tDJtphC8L",
+        "externalId": "5NRtK6AxFA",
+        "title": "梦幻之谷 #2",
+        "description": "在米奇的房子里找到。",
+        "subcategoryExternalId": "2tDJtphC8L",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        9.1845703125,
+        -41.64007838467891
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "2tDJtphC8L",
+        "externalId": "vDiUT3Zkax",
+        "title": "故统治者遗失的日记 #18",
+        "description": "在米奇的房子里找到。",
+        "subcategoryExternalId": "2tDJtphC8L",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        9.140625000000004,
+        -42.779275360241876
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "KcjzFgbJda",
+        "externalId": "hygHv4QVdL",
+        "title": "甜椒泡芙",
+        "description": "在米奇的房子的书架上搜索找到。",
+        "subcategoryExternalId": "KcjzFgbJda",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        10.458984375,
+        -41.27780646738181
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "lQZs3ZyWqP",
+        "externalId": "HSII5ufCiw",
+        "title": "黑色米妮背包",
+        "description": "在米奇的房子内的绿色箱子里找到。",
+        "subcategoryExternalId": "lQZs3ZyWqP",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        10.502929687500002,
+        -42.520699529149624
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "lQZs3ZyWqP",
+        "externalId": "WJfA6XQWd3",
+        "title": "红色米奇耳朵头带",
+        "description": "在米奇的房子里沙发后面的绿色箱子内找到。",
+        "subcategoryExternalId": "lQZs3ZyWqP",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        38.05664062500001,
+        -17.014767530557823
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "WABuQ6CNwZ",
+        "externalId": "yotkCdmc4L",
+        "title": "铁锹",
+        "description": "在雷米餐厅前面找到。",
+        "subcategoryExternalId": "WABuQ6CNwZ",
+        "imageId": 892681,
+        "imagePath": "/game_map_pin/892681/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        37.79296875000001,
+        -14.944784875088372
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "KcjzFgbJda",
+        "externalId": "pH1aUlCVw2",
+        "title": "水果沙拉",
+        "description": "在获得铲子后在一个洞里找到。",
+        "subcategoryExternalId": "KcjzFgbJda",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        47.1533203125,
+        -33.174341551002065
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "lQZs3ZyWqP",
+        "externalId": "L9fWlZahGC",
+        "title": "黄色米奇高帮鞋",
+        "description": "在绿色箱子里找到。",
+        "subcategoryExternalId": "lQZs3ZyWqP",
+        "imageId": 892684,
+        "imagePath": "/game_map_pin/892684/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        41.30859375000001,
+        -44.5278427984555
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "WABuQ6CNwZ",
+        "externalId": "hKo5pm7s2N",
+        "title": "镐",
+        "description": "",
+        "subcategoryExternalId": "WABuQ6CNwZ",
+        "imageId": 892903,
+        "imagePath": "/game_map_pin/892903/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        39.77050781250001,
+        -48.312427904071775
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "PqdlzVHbWf",
+        "externalId": "RihSdDZdvv",
+        "title": "星币宝箱",
+        "description": "",
+        "subcategoryExternalId": "PqdlzVHbWf",
+        "imageId": 892904,
+        "imagePath": "/game_map_pin/892904/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        30.498046875000004,
+        -62.26792262941753
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "2tDJtphC8L",
+        "externalId": "4h7Xk9EWVZ",
+        "title": "失落的老统治者日记 #10",
+        "description": "位于高飞家床后。",
+        "subcategoryExternalId": "2tDJtphC8L",
+        "imageId": 892905,
+        "imagePath": "/game_map_pin/892905/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        30.498046875000068,
+        -61.50173428973223
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "lQZs3ZyWqP",
+        "externalId": "7AZqIChGOi",
+        "title": "红色运动眼镜",
+        "description": "在高飞的房子内的绿色箱子里找到。",
+        "subcategoryExternalId": "lQZs3ZyWqP",
+        "imageId": 892907,
+        "imagePath": "/game_map_pin/892907/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        31.94824218750003,
+        -61.50173428973217
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "KcjzFgbJda",
+        "externalId": "wOnzchKKlj",
+        "title": "鱼汤",
+        "description": "在高飞的房子内的冰箱搜寻找到。",
+        "subcategoryExternalId": "KcjzFgbJda",
+        "imageId": 892908,
+        "imagePath": "/game_map_pin/892908/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        5.449218750000001,
+        -62.97519757003264
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "WABuQ6CNwZ",
+        "externalId": "IKkwn6GCc2",
+        "title": "钓鱼竿",
+        "description": "",
+        "subcategoryExternalId": "WABuQ6CNwZ",
+        "imageId": 892916,
+        "imagePath": "/game_map_pin/892916/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        7.338867187500001,
+        -55.02802211299251
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "2tDJtphC8L",
+        "externalId": "Tj8JcL7tem",
+        "title": "前统治者失落的日记 #26",
+        "description": "在高飞摊位左边找到。",
+        "subcategoryExternalId": "2tDJtphC8L",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        7.250976562500001,
+        -53.51418452077112
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "PqdlzVHbWf",
+        "externalId": "y72z7Hkpfn",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "PqdlzVHbWf",
+        "imageId": 892920,
+        "imagePath": "/game_map_pin/892920/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        8.173828125000002,
+        -57.70414723434192
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "PqdlzVHbWf",
+        "externalId": "KpwdyQ6Fhz",
+        "title": "",
+        "description": "发现在高飞摊位附近的石堆中。",
+        "subcategoryExternalId": "PqdlzVHbWf",
+        "imageId": 892921,
+        "imagePath": "/game_map_pin/892921/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        9.404296875000002,
+        -53.5403073915002
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "2tDJtphC8L",
+        "externalId": "gPqjt4ki5q",
+        "title": "无敌金刚 #1",
+        "description": "",
+        "subcategoryExternalId": "2tDJtphC8L",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -9.624023437500002,
+        -63.860035895395306
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "2tDJtphC8L",
+        "externalId": "kByQxnjDZ7",
+        "title": "失落的老统治者日记 #15",
+        "description": "",
+        "subcategoryExternalId": "2tDJtphC8L",
+        "imageId": 892926,
+        "imagePath": "/game_map_pin/892926/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        57.568359375,
+        -40.613952441166596
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "2tDJtphC8L",
+        "externalId": "93une4Megs",
+        "title": "旧统治者的遗失日记",
+        "description": "",
+        "subcategoryExternalId": "2tDJtphC8L",
+        "imageId": 892928,
+        "imagePath": "/game_map_pin/892928/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        41.57226562500001,
+        -35.67514743608468
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "2tDJtphC8L",
+        "externalId": "gtud4W8n5T",
+        "title": "旧统治者的遗失日记",
+        "description": "",
+        "subcategoryExternalId": "2tDJtphC8L",
+        "imageId": 892929,
+        "imagePath": "/game_map_pin/892929/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -0.8789062500000001,
+        -8.754794702435618
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "PqdlzVHbWf",
+        "externalId": "PKIZIgo7gW",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "PqdlzVHbWf",
+        "imageId": 892935,
+        "imagePath": "/game_map_pin/892935/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        37.00195312500001,
+        -8.841651120809145
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "lQZs3ZyWqP",
+        "externalId": "YLqNrHeae4",
+        "title": "舒适黑色连帽衫",
+        "description": "在雷米餐厅后面挖掘出的箱子里找到。",
+        "subcategoryExternalId": "lQZs3ZyWqP",
+        "imageId": 892937,
+        "imagePath": "/game_map_pin/892937/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -9.931640625000002,
+        -30.600093873550016
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "9iKBhrPblg",
+        "title": "宝石石头",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -10.371093750000002,
+        -38.13455657705413
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "tNR5P5jeYT",
+        "title": "宝石石头",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -4.394531250000003,
+        -46.980252355218816
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "y13knfkRYl",
+        "title": "宝石石头",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        10.283203125000002,
+        -45.82879925192133
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "uH0xy55BbQ",
+        "title": "宝石石头",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        43.76953125,
+        -46.07323062540835
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "gGzTQ0dUSf",
+        "title": "宝石石头",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        50.27343750000001,
+        -45.644768217751924
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "pu3dzuSJfT",
+        "title": "宝石石头",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        57.04101562500001,
+        -56.559482483762245
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "xorxtoG4au",
+        "externalId": "R9kTJT60h5",
+        "title": "金色门把手",
+        "description": "",
+        "subcategoryExternalId": "xorxtoG4au",
+        "imageId": 892950,
+        "imagePath": "/game_map_pin/892950/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        54.58007812500001,
+        -58.72259882804338
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "KcjzFgbJda",
+        "externalId": "XkyIWXCqRK",
+        "title": "素食派",
+        "description": "",
+        "subcategoryExternalId": "KcjzFgbJda",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        51.24023437500001,
+        -66.12496236487968
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "2tDJtphC8L",
+        "externalId": "xU7jsO0aKV",
+        "title": "旧统治者的遗失日记",
+        "description": "",
+        "subcategoryExternalId": "2tDJtphC8L",
+        "imageId": 892952,
+        "imagePath": "/game_map_pin/892952/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        52.51464843750001,
+        -65.98227002980873
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "lQZs3ZyWqP",
+        "externalId": "KamwGazFZx",
+        "title": "红色紧身牛仔裤",
+        "description": "位于箱子中。",
+        "subcategoryExternalId": "lQZs3ZyWqP",
+        "imageId": 892953,
+        "imagePath": "/game_map_pin/892953/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        32.38769531250001,
+        -62.593340830120255
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "PqdlzVHbWf",
+        "externalId": "c8CGPjW46x",
+        "title": "",
+        "description": "在高飞家后面的石堆下发现。",
+        "subcategoryExternalId": "PqdlzVHbWf",
+        "imageId": 892954,
+        "imagePath": "/game_map_pin/892954/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -4.7900390625,
+        -10.660607953624762
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "QJNjeSZLjU",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": 894939,
+        "imagePath": "/game_map_pin/894939/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -24.916992187500004,
+        15.496032414238634
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "PqdlzVHbWf",
+        "externalId": "dq90XmoAqT",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "PqdlzVHbWf",
+        "imageId": 894966,
+        "imagePath": "/game_map_pin/894966/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -49.74609375000001,
+        -47.694974341862824
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "PqdlzVHbWf",
+        "externalId": "VmGaprCNah",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "PqdlzVHbWf",
+        "imageId": 894969,
+        "imagePath": "/game_map_pin/894969/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -54.18457033106425,
+        -10.833306557994726
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "1wrHpgJsoC",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": 894970,
+        "imagePath": "/game_map_pin/894970/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -29.487304687500004,
+        -3.337953961416472
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "2tDJtphC8L",
+        "externalId": "xxP0Qo6Rfw",
+        "title": "旧统治者的遗失日记",
+        "description": "",
+        "subcategoryExternalId": "2tDJtphC8L",
+        "imageId": 894971,
+        "imagePath": "/game_map_pin/894971/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        13.447265625000002,
+        -75.82365950624265
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "2tDJtphC8L",
+        "externalId": "1vZ1tXTjda",
+        "title": "旧统治者的遗失日记",
+        "description": "在唐老鸭的房子里找到",
+        "subcategoryExternalId": "2tDJtphC8L",
+        "imageId": 894973,
+        "imagePath": "/game_map_pin/894973/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        14.94140625,
+        -75.88809074612948
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "lQZs3ZyWqP",
+        "externalId": "rutprMbqRq",
+        "title": "黑黄色运动短裤",
+        "description": "在唐纳德家的绿色箱子中找到。",
+        "subcategoryExternalId": "lQZs3ZyWqP",
+        "imageId": 894974,
+        "imagePath": "/game_map_pin/894974/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        1.40625,
+        -75.60680105154306
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "2tDJtphC8L",
+        "externalId": "9KPWCFR1VI",
+        "title": "旧统治者的遗失日记",
+        "description": "",
+        "subcategoryExternalId": "2tDJtphC8L",
+        "imageId": 894975,
+        "imagePath": "/game_map_pin/894975/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -10.72265625,
+        -72.47527631092942
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "PqdlzVHbWf",
+        "externalId": "v8URjqaTn0",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "PqdlzVHbWf",
+        "imageId": 894977,
+        "imagePath": "/game_map_pin/894977/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        35.771484375000036,
+        -70.43679881854635
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "lQZs3ZyWqP",
+        "externalId": "OskjFv84DI",
+        "title": "棕褐色斜纹软呢短裤",
+        "description": "位于楼梯旁绿色箱子里。",
+        "subcategoryExternalId": "lQZs3ZyWqP",
+        "imageId": 894978,
+        "imagePath": "/game_map_pin/894978/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        35.85937500000001,
+        -70.17020068549206
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "BBM8zLIyMe",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": 894980,
+        "imagePath": "/game_map_pin/894980/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        97.3828125,
+        -47.69497434186286
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "PqdlzVHbWf",
+        "externalId": "AkRSIwMLIj",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "PqdlzVHbWf",
+        "imageId": 894982,
+        "imagePath": "/game_map_pin/894982/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        102.216796875,
+        -41.902277040963696
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "m1L0nFdxJE",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": 894983,
+        "imagePath": "/game_map_pin/894983/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        126.38671875000001,
+        -38.13455657705413
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "2tDJtphC8L",
+        "externalId": "rdyXqOc2qL",
+        "title": "旧统治者的遗失日记",
+        "description": "",
+        "subcategoryExternalId": "2tDJtphC8L",
+        "imageId": 894984,
+        "imagePath": "/game_map_pin/894984/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        103.00760511505307,
+        -70.3177007607111
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "PqdlzVHbWf",
+        "externalId": "lI2K4yLSuB",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "PqdlzVHbWf",
+        "imageId": 894986,
+        "imagePath": "/game_map_pin/894986/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        76.28906250000001,
+        -77.3703011778519
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "lQZs3ZyWqP",
+        "externalId": "cI3ApSed4Q",
+        "title": "深绿色像素迷彩裤",
+        "description": "在码头附近的绿色箱子里找到。",
+        "subcategoryExternalId": "lQZs3ZyWqP",
+        "imageId": 894987,
+        "imagePath": "/game_map_pin/894987/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -21.621093750000004,
+        -50.95842672335993
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "YvaqEL94of",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": 894988,
+        "imagePath": "/game_map_pin/894988/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -37.79296875000001,
+        -51.0690166596039
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "4B2ytufdIc",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": 894989,
+        "imagePath": "/game_map_pin/894989/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -39.02343750000001,
+        -63.50937540117512
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "jtFk88p5jq",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": 894991,
+        "imagePath": "/game_map_pin/894991/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -14.853515625000002,
+        -69.79413569863111
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "9WVY5sYEW7",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": 894992,
+        "imagePath": "/game_map_pin/894992/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        1.8457031250000002,
+        -70.12542991464234
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "YvMsn8Gdzg",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": 894994,
+        "imagePath": "/game_map_pin/894994/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        57.34015753612366,
+        -26.68637104115533
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "icyktKIZih",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": 894995,
+        "imagePath": "/game_map_pin/894995/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        67.62336066112366,
+        -27.780416670320964
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "2tDJtphC8L",
+        "externalId": "wx9GpgfceN",
+        "title": "旧统治者的遗失日记",
+        "description": "",
+        "subcategoryExternalId": "2tDJtphC8L",
+        "imageId": 894997,
+        "imagePath": "/game_map_pin/894997/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        7.690429687500001,
+        -69.39578308847753
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "lQZs3ZyWqP",
+        "externalId": "lWaaeMIzqS",
+        "title": "红色表演运动鞋",
+        "description": "在绿色箱子里找到。",
+        "subcategoryExternalId": "lQZs3ZyWqP",
+        "imageId": 894998,
+        "imagePath": "/game_map_pin/894998/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        117.24609375000001,
+        -38.13455657705413
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "lQZs3ZyWqP",
+        "externalId": "MsimNKsUKf",
+        "title": "黑色和红色长袖礼服",
+        "description": "在被诅咒的洞穴里找到。",
+        "subcategoryExternalId": "lQZs3ZyWqP",
+        "imageId": 895000,
+        "imagePath": "/game_map_pin/895000/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        116.67480468750001,
+        -38.34165619279593
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "2tDJtphC8L",
+        "externalId": "XgMuZKWqIJ",
+        "title": "旧统治者的遗失日记",
+        "description": "在被诅咒的洞穴入口附近找到。",
+        "subcategoryExternalId": "2tDJtphC8L",
+        "imageId": 895001,
+        "imagePath": "/game_map_pin/895001/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        63.29509858909397,
+        -68.79441633306163
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "4n0xiJi69U",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": 895002,
+        "imagePath": "/game_map_pin/895002/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -33.35405100987589,
+        -7.754511769013888
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "yZXe0IGdJo",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": 895424,
+        "imagePath": "/game_map_pin/895424/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -30.10209788487589,
+        5.528536219201704
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "ucf5ilyEOi",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": 895425,
+        "imagePath": "/game_map_pin/895425/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -105.99609375000001,
+        11.480024648555816
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "PqdlzVHbWf",
+        "externalId": "0wS4M5wgwo",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "PqdlzVHbWf",
+        "imageId": 895428,
+        "imagePath": "/game_map_pin/895428/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -111.00585937500001,
+        12.511665400971031
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "1Q80DAidxS",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": 895429,
+        "imagePath": "/game_map_pin/895429/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -110.8740234375,
+        29.036960648558267
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "hmKO1Uz34L",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": 895430,
+        "imagePath": "/game_map_pin/895430/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -105.07324218750001,
+        35.209721645221386
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "gVJPXy38ew",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": 895431,
+        "imagePath": "/game_map_pin/895431/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -80.59570312500001,
+        29.954934549656144
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "PqdlzVHbWf",
+        "externalId": "wa5UzGPkSj",
+        "title": "未命名地点",
+        "description": "",
+        "subcategoryExternalId": "PqdlzVHbWf",
+        "imageId": 895433,
+        "imagePath": "/game_map_pin/895433/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -66.70898437500001,
+        36.1733569352216
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "txNn2o5orh",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -62.22656250000001,
+        23.60426184707018
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "AuUlUJLNL8",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": 895434,
+        "imagePath": "/game_map_pin/895434/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -56.68945312500001,
+        16.29905101458183
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "tKEbexTmqw",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": 895435,
+        "imagePath": "/game_map_pin/895435/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -81.43066406250001,
+        9.709057068618208
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "PqdlzVHbWf",
+        "externalId": "HQz5YGFm87",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "PqdlzVHbWf",
+        "imageId": 895436,
+        "imagePath": "/game_map_pin/895436/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -38.0126953125,
+        -82.32064619349379
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "Cil5jMQuWo",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": 895452,
+        "imagePath": "/game_map_pin/895452/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        62.66601562500001,
+        -44.21370990970205
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "PqdlzVHbWf",
+        "externalId": "NniteCsiEI",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "PqdlzVHbWf",
+        "imageId": 895454,
+        "imagePath": "/game_map_pin/895454/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        85.95703125000001,
+        -42.00032514831622
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "OMYoaHeuO6",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        134.0298142805498,
+        -24.966557295322872
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "lQZs3ZyWqP",
+        "externalId": "LFLMg5J7v5",
+        "title": "棕色软底鞋",
+        "description": "",
+        "subcategoryExternalId": "lQZs3ZyWqP",
+        "imageId": 895456,
+        "imagePath": "/game_map_pin/895456/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        132.6675095930498,
+        -12.12571408479483
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "2tDJtphC8L",
+        "externalId": "WLKfZNXw9e",
+        "title": "旧统治者的遗失日记",
+        "description": "",
+        "subcategoryExternalId": "2tDJtphC8L",
+        "imageId": 895457,
+        "imagePath": "/game_map_pin/895457/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        156.18164062500003,
+        52.32191088594773
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "pFtRbgmTmz",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": 895460,
+        "imagePath": "/game_map_pin/895460/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        132.71484375000003,
+        51.754240074033525
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "lQZs3ZyWqP",
+        "externalId": "uoXpz8rivF",
+        "title": "红色冬帽",
+        "description": "",
+        "subcategoryExternalId": "lQZs3ZyWqP",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        150.95214843750003,
+        28.92163128242129
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "2tDJtphC8L",
+        "externalId": "tIDu5GRmTN",
+        "title": "旧统治者的遗失日记",
+        "description": "",
+        "subcategoryExternalId": "2tDJtphC8L",
+        "imageId": 895461,
+        "imagePath": "/game_map_pin/895461/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -0.21972656250000003,
+        -68.49604022839505
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "KcjzFgbJda",
+        "externalId": "HZJA1HmLkw",
+        "title": "土豆韭菜汤",
+        "description": "",
+        "subcategoryExternalId": "KcjzFgbJda",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        96.37207031250001,
+        -69.2249968541159
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "2tDJtphC8L",
+        "externalId": "6lGRNak3Yl",
+        "title": "旧统治者的遗失日记",
+        "description": "",
+        "subcategoryExternalId": "2tDJtphC8L",
+        "imageId": 895490,
+        "imagePath": "/game_map_pin/895490/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        106.61132812500001,
+        -79.1299761714803
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "xorxtoG4au",
+        "externalId": "4LLeX5cg3p",
+        "title": "神秘桨",
+        "description": "",
+        "subcategoryExternalId": "xorxtoG4au",
+        "imageId": 895491,
+        "imagePath": "/game_map_pin/895491/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        39.11132812500001,
+        -14.732386081418454
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "2tDJtphC8L",
+        "externalId": "dDFgfiR3VD",
+        "title": "旧统治者的遗失日记",
+        "description": "在雷米餐厅找到",
+        "subcategoryExternalId": "2tDJtphC8L",
+        "imageId": 895497,
+        "imagePath": "/game_map_pin/895497/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        39.287109375,
+        -15.876809064146755
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "lQZs3ZyWqP",
+        "externalId": "qNVmiwfDEg",
+        "title": "灰白色晚礼手套",
+        "description": "在雷米餐厅的绿色箱子里找到。",
+        "subcategoryExternalId": "lQZs3ZyWqP",
+        "imageId": 895498,
+        "imagePath": "/game_map_pin/895498/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -78.83789062500001,
+        -10.660607953624762
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "etZxYuljRE",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": 895574,
+        "imagePath": "/game_map_pin/895574/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -70.13671875000001,
+        -10.746969318459989
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "5sCv7piU4p",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": 895575,
+        "imagePath": "/game_map_pin/895575/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -95.14160156250001,
+        -45.70617928533085
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "PqdlzVHbWf",
+        "externalId": "RpEbe21V1j",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "PqdlzVHbWf",
+        "imageId": 895577,
+        "imagePath": "/game_map_pin/895577/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -103.57910156250001,
+        -14.392118083661728
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "PqdlzVHbWf",
+        "externalId": "xzuR0SnZfk",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "PqdlzVHbWf",
+        "imageId": 895602,
+        "imagePath": "/game_map_pin/895602/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -108.06152343750001,
+        -9.275622176792098
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "R3bbPC5bIY",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": 895603,
+        "imagePath": "/game_map_pin/895603/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        124.54101562500001,
+        27.059125784374068
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "lQZs3ZyWqP",
+        "externalId": "5yvp8Mk3Gx",
+        "title": "粉红色针织冬季手套",
+        "description": "在摊位后面的绿色箱子里找到。",
+        "subcategoryExternalId": "lQZs3ZyWqP",
+        "imageId": 896127,
+        "imagePath": "/game_map_pin/896127/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -66.88476562500001,
+        -40.380028402511826
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "2tDJtphC8L",
+        "externalId": "jLir6ck0vw",
+        "title": "旧统治者的遗失日记",
+        "description": "",
+        "subcategoryExternalId": "2tDJtphC8L",
+        "imageId": 896128,
+        "imagePath": "/game_map_pin/896128/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -26.894531250000004,
+        -68.2042121888185
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "YLhVaUBOe5",
+        "externalId": "eCbnz6Wz7X",
+        "title": "",
+        "description": "这是默认出生点，可通过自定义菜单（F键）移动。",
+        "subcategoryExternalId": "YLhVaUBOe5",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -58.09570312500001,
+        -70.64176873584623
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "YLhVaUBOe5",
+        "externalId": "x4FkCvGH0B",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "YLhVaUBOe5",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -14.853515625000002,
+        -77.33180918521349
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "sw614nyLhV",
+        "externalId": "VEZCqnDOvh",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "sw614nyLhV",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        2.2851562500000004,
+        -60.37042901631508
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "B1TokSjGW2",
+        "externalId": "HYf5qOTnxY",
+        "title": "",
+        "description": "这是默认出生点，可通过自定义菜单（F键）移动。",
+        "subcategoryExternalId": "B1TokSjGW2",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        1.6699218750000002,
+        -31.728167146023935
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "B1TokSjGW2",
+        "externalId": "2AQiCV2pGb",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "B1TokSjGW2",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        1.5380859375000002,
+        -13.368243250897287
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "nPZths7c50",
+        "externalId": "wtgl38LrLg",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "nPZths7c50",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        48.86841114375273,
+        -16.783622713870635
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "B1TokSjGW2",
+        "externalId": "J64wpBGR5F",
+        "title": "",
+        "description": "这是默认出生点，可通过自定义菜单（F键）移动。",
+        "subcategoryExternalId": "B1TokSjGW2",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        66.09497364375272,
+        -27.508379944191063
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Qr0lsZz3us",
+        "externalId": "pN8nV5hADx",
+        "title": "未命名地点",
+        "description": "这是一个默认出生点，可以通过游戏内自定义菜单（F键）进行移动。",
+        "subcategoryExternalId": "Qr0lsZz3us",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        73.74145801875272,
+        -21.105114431769817
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Qr0lsZz3us",
+        "externalId": "PNVdS2am8M",
+        "title": "",
+        "description": "这是一个默认出生点，可以通过游戏内自定义菜单（F键）进行移动。",
+        "subcategoryExternalId": "Qr0lsZz3us",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        153.41308593595062,
+        19.72534224954493
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "tg8nG23DXX",
+        "externalId": "LMxiO6BQP9",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "tg8nG23DXX",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        137.54882812345062,
+        28.844673682155562
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "tg8nG23DXX",
+        "externalId": "gQnarMgHWm",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "tg8nG23DXX",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        147.91992187345062,
+        39.470125123577674
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "RI5r7VLAPC",
+        "externalId": "192G6UZEkS",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "RI5r7VLAPC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        8.745117187500007,
+        -55.028022112992495
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Sv8en6P4rK",
+        "externalId": "eg1FHb09cP",
+        "title": "",
+        "description": "|物品|价格|\n|---|---|---|\n|生菜种子|3|\n|小麦种子|1|\n|胡萝卜种子|10|\n|苹果|50|\n|胡萝卜|66|\n|覆盆子|42|\n|小麦|3|\n\n某些物品在您升级摊位之前将无法购买。非种子类物品会轮换，您最多只能购买10个。",
+        "subcategoryExternalId": "Sv8en6P4rK",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -30.415493016256896,
+        -72.40700809575368
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Sv8en6P4rK",
+        "externalId": "JYQULbConR",
+        "title": "",
+        "description": "|物品|价格|\n|---|---|---|\n|稻米种子|35|\n|菠菜种子|45|\n|秋葵种子|135|\n|柠檬|67|\n|秋葵|171|\n|稻米|92|\n|菠菜|62|\n\n某些物品在您升级摊位之前将无法购买。非种子类物品会轮换，您最多只能购买10个。",
+        "subcategoryExternalId": "Sv8en6P4rK",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -47.54882812500001,
+        -22.14670778001263
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Sv8en6P4rK",
+        "externalId": "PN8eMGXIHJ",
+        "title": "",
+        "description": "|物品|价格|\n|---|---|---|\n|辣椒种子|20|\n|棉籽|42|\n|西葫芦种子|30|\n|大豆种子|60|\n|辣椒|117|\n|可可豆|75|\n|大豆|104|\n|西葫芦|78|\n\n部分物品需升级摊位后方可购买。非种子类物品会轮换，您最多只能购买10件。",
+        "subcategoryExternalId": "Sv8en6P4rK",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -63.017578125000036,
+        8.711358875426399
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Sv8en6P4rK",
+        "externalId": "kBnHcTjsKX",
+        "title": "",
+        "description": "|物品|价格|\n|---|---|---|\n|南瓜种子|275|\n|土豆种子|55|\n|韭菜种子|120|\n|醋栗|100|\n|韭菜|464|\n|土豆|189|\n|南瓜|996|\n\n有些物品直到你升级摊位后才能买到。非种子物品会轮换，你最多只能购买10个。",
+        "subcategoryExternalId": "Sv8en6P4rK",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -18.525292656775534,
+        -18.519029930697442
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "sw614nyLhV",
+        "externalId": "F5qsp3pkbL",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "sw614nyLhV",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -12.48046875,
+        -31.01527898171125
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "sw614nyLhV",
+        "externalId": "AJGhTRRev3",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "sw614nyLhV",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -42.1307322060206,
+        -47.06294745395191
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "sw614nyLhV",
+        "externalId": "cFVuLNmrT2",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "sw614nyLhV",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -43.28613281250001,
+        -2.152813583128846
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "RI5r7VLAPC",
+        "externalId": "jL4x2ppkne",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "RI5r7VLAPC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -65.52246093750001,
+        10.098670120603392
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "RI5r7VLAPC",
+        "externalId": "WJG0UYjjZT",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "RI5r7VLAPC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -95.88867187500001,
+        -2.8991526985043006
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "RI5r7VLAPC",
+        "externalId": "qrKAhfU9Mj",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "RI5r7VLAPC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -102.78808593750001,
+        9.405710041600036
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "nPZths7c50",
+        "externalId": "DAlObOIv65",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "nPZths7c50",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -74.79492187500001,
+        28.65203063036226
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "nPZths7c50",
+        "externalId": "G1WGOn8ppx",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "nPZths7c50",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -88.2421875,
+        23.725011735951796
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "RI5r7VLAPC",
+        "externalId": "KovQTMy0L2",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "RI5r7VLAPC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -38.89160156250002,
+        -81.6085350540247
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "xorxtoG4au",
+        "externalId": "bLKlXMjza5",
+        "title": "飞瀑",
+        "description": "任务：最终试炼\n\n与闪光的水互动。",
+        "subcategoryExternalId": "xorxtoG4au",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        0.087890625,
+        -73.47848507889991
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Qr0lsZz3us",
+        "externalId": "FGrkLLMN0k",
+        "title": "",
+        "description": "这是一个默认出生点，可以通过游戏内自定义菜单（F键）进行移动。",
+        "subcategoryExternalId": "Qr0lsZz3us",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        6.372070312500001,
+        -72.73800301833364
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "tyw3V4IrFy",
+        "externalId": "mAyvhscLWR",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "tyw3V4IrFy",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -3.9111328125000004,
+        -69.00567519658819
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "tyw3V4IrFy",
+        "externalId": "YCDUfW3FVQ",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "tyw3V4IrFy",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -34.23339843750001,
+        -70.22974449563027
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "PqdlzVHbWf",
+        "externalId": "x7VBr2NLWY",
+        "title": "",
+        "description": "摧毁周围蘑菇需要升级为皇家浇水罐。",
+        "subcategoryExternalId": "PqdlzVHbWf",
+        "imageId": 896159,
+        "imagePath": "/game_map_pin/896159/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        45.13183593750005,
+        -68.97416358340672
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "tyw3V4IrFy",
+        "externalId": "bZCUuBsiLZ",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "tyw3V4IrFy",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        44.73632812499999,
+        -68.3019045300156
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "B1TokSjGW2",
+        "externalId": "1oXOMxjaq3",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "B1TokSjGW2",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        76.80150062608614,
+        -76.53982796245394
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Sv8en6P4rK",
+        "externalId": "8won4KfTHS",
+        "title": "",
+        "description": "|物品|价格|\n|---|---|---|\n|甘蔗种子|5|\n|番茄种子|8|\n|玉米种子|15|\n|香蕉|58|\n|玉米|24|\n|甘蔗|29|\n|番茄|33|\n\n某些物品在您升级摊位前将不可用。非种子物品会轮换，您最多只能购买10个。",
+        "subcategoryExternalId": "Sv8en6P4rK",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        63.14941406250001,
+        -65.18303007291381
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "2tDJtphC8L",
+        "externalId": "h3li0cCXer",
+        "title": "旧统治者的遗失日记",
+        "description": "在任务**拥有巨大力量...**的第三个挑战完成后可以找到。",
+        "subcategoryExternalId": "2tDJtphC8L",
+        "imageId": 896162,
+        "imagePath": "/game_map_pin/896162/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        63.281250000000014,
+        -65.5493666881153
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "lQZs3ZyWqP",
+        "externalId": "cQh5k7kajJ",
+        "title": "白色米奇鼠补丁牛仔夹克",
+        "description": "在任务中**拥有巨大力量...**的第二个挑战下的一堆岩石中找到。",
+        "subcategoryExternalId": "lQZs3ZyWqP",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -85.23775001870537,
+        -65.97468238858129
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "PqdlzVHbWf",
+        "externalId": "tHURkwJPgN",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "PqdlzVHbWf",
+        "imageId": 896170,
+        "imagePath": "/game_map_pin/896170/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -79.6728515625,
+        -74.06786624952264
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "sw614nyLhV",
+        "externalId": "z2WLk0SUlQ",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "sw614nyLhV",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -77.65136718750001,
+        -81.55707352166367
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "YLhVaUBOe5",
+        "externalId": "x7joxDfPf3",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "YLhVaUBOe5",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -81.07910156250001,
+        -82.24392695897082
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "PqdlzVHbWf",
+        "externalId": "TiexdaIxvA",
+        "title": "宝箱 x2",
+        "description": "",
+        "subcategoryExternalId": "PqdlzVHbWf",
+        "imageId": 896171,
+        "imagePath": "/game_map_pin/896171/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -53.48144531250001,
+        -80.07321244890504
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "YLhVaUBOe5",
+        "externalId": "Zx49VJNr3d",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "YLhVaUBOe5",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        132.27539062500003,
+        -30.372875188118016
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Qr0lsZz3us",
+        "externalId": "VVIhp5CuDt",
+        "title": "",
+        "description": "这是一个默认出生点，可以通过游戏内自定义菜单（F键）进行移动。",
+        "subcategoryExternalId": "Qr0lsZz3us",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        146.42578125000003,
+        54.316523240258284
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "2tDJtphC8L",
+        "externalId": "Tvu0fMsUic",
+        "title": "古代统治者遗失的日记 x6",
+        "description": "必须拥有任务**大暴风雪**才能收集这些日记页。",
+        "subcategoryExternalId": "2tDJtphC8L",
+        "imageId": 896205,
+        "imagePath": "/game_map_pin/896205/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        104.1064453125,
+        42.84375132629023
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "tg8nG23DXX",
+        "externalId": "xdsKudxox2",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "tg8nG23DXX",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        106.25976562500001,
+        46.042735653846506
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "RI5r7VLAPC",
+        "externalId": "Kq33aiCBnC",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "RI5r7VLAPC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        93.16406250000001,
+        45.1510532655634
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "tg8nG23DXX",
+        "externalId": "oEqTRkFAWr",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "tg8nG23DXX",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        101.29394531250001,
+        51.72702815704777
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "2tDJtphC8L",
+        "externalId": "nzxKI2riS0",
+        "title": "旧统治者的遗失日记",
+        "description": "",
+        "subcategoryExternalId": "2tDJtphC8L",
+        "imageId": 896823,
+        "imagePath": "/game_map_pin/896823/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        103.62304687499997,
+        51.672555148396754
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "PqdlzVHbWf",
+        "externalId": "WTr6iQ39y1",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "PqdlzVHbWf",
+        "imageId": 896825,
+        "imagePath": "/game_map_pin/896825/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        123.48632812500001,
+        54.16243396806781
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "ccyz5bVjCF",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        115.31250000000001,
+        53.67068019347264
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "LLfApy1Pes",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        108.76464843750001,
+        53.77468884583577
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "7Sr177mKSv",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        103.4912109375,
+        54.03358633521085
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "2G6zjUb6Kn",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        92.90039062500001,
+        35.17380831799959
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "P9ZZdWrtaI",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        84.33105468750001,
+        36.10237644873644
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "cqZXRY03Hk",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        75.80566406250001,
+        37.96152331396614
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "CDZ6ylp6L9",
+        "externalId": "U3g8wXlvJ1",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        68.77441406250001,
+        34.23451236236987
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "lQZs3ZyWqP",
+        "externalId": "mqvwNH3JR5",
+        "title": "棕色正装裤",
+        "description": "在绿色箱子里找到。",
+        "subcategoryExternalId": "lQZs3ZyWqP",
+        "imageId": 896830,
+        "imagePath": "/game_map_pin/896830/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        80.68359375000001,
+        32.99023555965106
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "xorxtoG4au",
+        "externalId": "skip2kXECD",
+        "title": "艾尔莎的隐藏宝箱",
+        "description": "",
+        "subcategoryExternalId": "xorxtoG4au",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        76.50878906250001,
+        17.518344187852218
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "2tDJtphC8L",
+        "externalId": "MOPhxxJ9jJ",
+        "title": "旧统治者的遗失日记",
+        "description": "",
+        "subcategoryExternalId": "2tDJtphC8L",
+        "imageId": 896831,
+        "imagePath": "/game_map_pin/896831/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        98.21777343750001,
+        14.43468021529728
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "YLhVaUBOe5",
+        "externalId": "LjSK8v4CKC",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "YLhVaUBOe5",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        76.46484375000004,
+        3.864254615721464
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "YLhVaUBOe5",
+        "externalId": "qIHQAuo8Oo",
+        "title": "",
+        "description": "这是默认出生点，可通过游戏内自定义菜单（F键）移动。",
+        "subcategoryExternalId": "YLhVaUBOe5",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        66.00585937500001,
+        13.025965926333539
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "PqdlzVHbWf",
+        "externalId": "E8PbWJPGfb",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "PqdlzVHbWf",
+        "imageId": 896833,
+        "imagePath": "/game_map_pin/896833/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -15.292968750000002,
+        -81.63414891575125
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -38.69274139404297,
+          "y": 3.00177001953125,
+          "z": -98.0890121459961
+        },
+        "externalId": "9VWY1tAQqK",
+        "title": "旧统治者的遗失日记",
+        "description": "",
+        "subcategoryExternalId": "2tDJtphC8L",
+        "imageId": 896133,
+        "imagePath": "/game_map_pin/896133/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        93.91113281250001,
+        -12.768946439455943
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 61.820316314697266,
+          "y": 12.003019332885742,
+          "z": 33.716712951660156
+        },
+        "externalId": "ReRpS6A9mB",
+        "title": "",
+        "description": "|物品|价格|\n|---|---|---|\n|甜椒种子|12|\n|油菜种子|25|\n|洋葱种子|50|\n|甜椒|50|\n|油菜|164|\n|蓝莓|58|\n|洋葱|255|\n\n某些物品需要升级摊位后才能购买。非种子物品会轮换供应，每种只能购买10个。",
+        "subcategoryExternalId": "Sv8en6P4rK",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        124.5849609375,
+        26.23430203240673
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 98.78925323486328,
+          "y": 15.019269943237305,
+          "z": 73.31500244140625
+        },
+        "externalId": "1zSZq5UW1Q",
+        "title": "",
+        "description": "|物品|价格|\n|---|---|---|\n|黄瓜种子|40|\n|茄子种子|95|\n|芦笋种子|150|\n|芦笋|200|\n|樱桃|83|\n|黄瓜|239|\n|茄子|462|\n\n某些物品需要升级摊位后才能购买。非种子物品会轮换，每种只能购买10个。",
+        "subcategoryExternalId": "Sv8en6P4rK",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        137.37304687500003,
+        54.41892996865827
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 110.43782806396484,
+          "y": 15.00104808807373,
+          "z": 111.77235412597656
+        },
+        "externalId": "mPuLkFc5q9",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "CDZ6ylp6L9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -56.42578125000001,
+        -71.23022052382078
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -68,
+          "y": 3.00177001953125,
+          "z": -53
+        },
+        "externalId": "KuQpZey06i",
+        "title": "",
+        "description": "需要皇家洒水壶升级才能清除周围的蘑菇。",
+        "subcategoryExternalId": "PqdlzVHbWf",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        42.41103441037797,
+        -71.96609547864068
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 15.701766014099121,
+          "y": 0.00926971435546875,
+          "z": -56.095237731933594
+        },
+        "externalId": "danmPO9ngi",
+        "title": "",
+        "description": "这是一个默认出生点，可以通过游戏内自定义菜单（F键）进行移动。",
+        "subcategoryExternalId": "Qr0lsZz3us",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        23.862287949842067,
+        17.727753000329237
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 0.032851964235305786,
+          "y": 11.669886589050293,
+          "z": 60.773014068603516
+        },
+        "externalId": "4cOpeWB8fX",
+        "title": "梦想白宫T恤",
+        "description": "- 梦想白宫T恤\n- 优雅紫色正装鞋\n- 橙色复古米奇T恤",
+        "subcategoryExternalId": "lQZs3ZyWqP",
+        "imageId": null,
+        "imagePath": ""
+      }
+    }
+  ]
+}

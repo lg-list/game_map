@@ -1,0 +1,562 @@
+{
+  "outbound/the-outdoors": {
+    "base": "https://storage-cdn.wemod.com/maps/ccd13118-a433-4455-848b-d0dfad5a4d5a/tiles",
+    "maxZoom": 3,
+    "tmsEnabled": false
+  },
+  "outbound/the-coast": {
+    "base": "https://storage-cdn.wemod.com/maps/ae8fc0b7-dbd8-4a84-a8d8-0c46c284b51e/tiles",
+    "maxZoom": 3,
+    "tmsEnabled": false
+  },
+  "subnautica-2/proteus": {
+    "base": "https://storage-cdn.wemod.com/maps/1a53e038-3dfb-430f-a1c1-abe712e3be1e/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "code-vein-ii/world": {
+    "base": "https://storage-cdn.wemod.com/maps/07c9afb0-8fdf-4b71-85d2-8417e8059deb/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "crimson-desert/pywel": {
+    "base": "https://storage-cdn.wemod.com/maps/d30aa9d1-76bd-4c20-9382-441c0ea36505/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "arc-raiders/buried-city": {
+    "base": "https://storage-cdn.wemod.com/maps/4d310079-3698-4e6e-929c-a37dfd74e73e/tiles",
+    "maxZoom": 5,
+    "tmsEnabled": false
+  },
+  "arc-raiders/dam-batlegrounds": {
+    "base": "https://storage-cdn.wemod.com/maps/23684952-d53d-41e6-87ae-fc8a6589bc3f/tiles",
+    "maxZoom": 5,
+    "tmsEnabled": false
+  },
+  "arc-raiders/stella-montis-upper": {
+    "base": "https://storage-cdn.wemod.com/maps/d2a7f0db-7741-46d3-933f-63f895a5386d/tiles",
+    "maxZoom": 5,
+    "tmsEnabled": false
+  },
+  "arc-raiders/stella-montis-lower": {
+    "base": "https://storage-cdn.wemod.com/maps/27010cc6-50de-4671-8c34-a851d64ae3f1/tiles",
+    "maxZoom": 4,
+    "tmsEnabled": false
+  },
+  "arc-raiders/the-blue-gate": {
+    "base": "https://storage-cdn.wemod.com/maps/b69854b4-10ed-44bb-9763-2f4c7ff9b23c/tiles",
+    "maxZoom": 4,
+    "tmsEnabled": false
+  },
+  "arc-raiders/the-spaceport": {
+    "base": "https://storage-cdn.wemod.com/maps/e20774a6-25ff-4f12-a7be-5d9eb2acdc6f/tiles",
+    "maxZoom": 4,
+    "tmsEnabled": false
+  },
+  "arc-raiders/riven-tides": {
+    "base": "https://storage-cdn.wemod.com/maps/5459715a-2ca5-4001-bdd6-cb334763dcc9/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "grand-theft-auto-v/los-santos": {
+    "base": "https://storage-cdn.wemod.com/maps/018a41c5-f986-727f-81fc-d06e582bb8aa",
+    "maxZoom": 6,
+    "tmsEnabled": true
+  },
+  "red-dead-redemption-2/red-dead-redemption-2": {
+    "base": "https://storage-cdn.wemod.com/maps/018b85f3-dce8-722c-90e0-1c24bde6607c",
+    "maxZoom": 6,
+    "tmsEnabled": true
+  },
+  "sons-of-the-forest/sons-of-the-forest": {
+    "base": "https://storage-cdn.wemod.com/maps/018a286a-eeaf-72b8-b885-3794ea3b3d58",
+    "maxZoom": 6,
+    "tmsEnabled": true
+  },
+  "v-rising/vardoran": {
+    "base": "https://storage-cdn.wemod.com/maps/018a899d-feb0-7278-893b-3a72e1ed121e",
+    "maxZoom": 6,
+    "tmsEnabled": true
+  },
+  "my-time-at-sandrock/eufaula-desert": {
+    "base": "https://storage-cdn.wemod.com/maps/018a286b-8dfd-7141-9847-9ec441b18a8c",
+    "maxZoom": 6,
+    "tmsEnabled": true
+  },
+  "cyberpunk-2077/night-city": {
+    "base": "https://storage-cdn.wemod.com/maps/ccafbb71-5e4f-40ab-ba9f-8cc802c27f04/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "disney-dreamlight-valley/dreamlight-valley": {
+    "base": "https://storage-cdn.wemod.com/maps/018c45b7-4ed2-7f93-b6a6-26b4c9d3575a",
+    "maxZoom": 5,
+    "tmsEnabled": true
+  },
+  "medieval-dynasty/the-valley": {
+    "base": "https://storage-cdn.wemod.com/maps/018c8330-1a06-77db-95e5-2b0edc769bbc",
+    "maxZoom": 6,
+    "tmsEnabled": true
+  },
+  "just-cause-3/medici": {
+    "base": "https://storage-cdn.wemod.com/maps/018cf3b2-0c34-71a3-aed4-7ad3b7edef77",
+    "maxZoom": 7,
+    "tmsEnabled": true
+  },
+  "generation-zero/ostertorn": {
+    "base": "https://storage-cdn.wemod.com/maps/018cf3b1-ff08-7162-ac5d-71e50980cfec",
+    "maxZoom": 7,
+    "tmsEnabled": true
+  },
+  "dredge/dredge": {
+    "base": "https://storage-cdn.wemod.com/maps/018cf3b1-f3a6-713e-bf4b-7c492a42c739",
+    "maxZoom": 6,
+    "tmsEnabled": true
+  },
+  "death-stranding-directors-cut/eastern-region": {
+    "base": "https://storage-cdn.wemod.com/maps/018cf3b1-e3db-7986-bfd8-6e649a88e3e6",
+    "maxZoom": 7,
+    "tmsEnabled": true
+  },
+  "far-cry-6/yara": {
+    "base": "https://storage-cdn.wemod.com/maps/018d32bc-d655-78dd-9ae6-78e0be9d8ac4",
+    "maxZoom": 7,
+    "tmsEnabled": true
+  },
+  "far-cry-3/rock-island": {
+    "base": "https://storage-cdn.wemod.com/maps/018d32bb-c92d-7071-a98f-edc9acbd0903",
+    "maxZoom": 7,
+    "tmsEnabled": true
+  },
+  "far-cry-4/kyrat": {
+    "base": "https://storage-cdn.wemod.com/maps/018d3691-2351-7abf-ae6e-0ee5cacafa67",
+    "maxZoom": 7,
+    "tmsEnabled": true
+  },
+  "far-cry-new-dawn/hope-county": {
+    "base": "https://storage-cdn.wemod.com/maps/018d7f40-fa42-76d1-9a3e-5bb9fa884f90",
+    "maxZoom": 7,
+    "tmsEnabled": true
+  },
+  "dragons-dogma-2/dragons-dogma-2": {
+    "base": "https://storage-cdn.wemod.com/maps/018e85a5-7f86-7ec1-abab-7c648e24792b/tiles",
+    "maxZoom": 7,
+    "tmsEnabled": false
+  },
+  "rage-2/rage-2": {
+    "base": "https://storage-cdn.wemod.com/maps/ecd1e1bb-0d56-438f-bc90-50969d4c8ac7/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "just-cause-4/solis": {
+    "base": "https://storage-cdn.wemod.com/maps/0e8780f5-ba33-4152-bead-febf329e82b4/tiles",
+    "maxZoom": 7,
+    "tmsEnabled": false
+  },
+  "kenshi/world": {
+    "base": "https://storage-cdn.wemod.com/maps/962c008b-23b9-4ba3-961b-9afcc4ec5092/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "mafia-iii-definitive-edition/new-bordeaux": {
+    "base": "https://storage-cdn.wemod.com/maps/9e6aeb70-1aca-4869-abc2-ad5a26b878eb/tiles",
+    "maxZoom": 5,
+    "tmsEnabled": false
+  },
+  "mafia-ii-definitive-edition/empire-bay": {
+    "base": "https://storage-cdn.wemod.com/maps/9d9b0fa2-9e04-4242-944e-5bf554102cad/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "mafia-definitive-edition/lost-heaven": {
+    "base": "https://storage-cdn.wemod.com/maps/393d4ca3-4438-4119-a82d-ffbba9c98413/tiles",
+    "maxZoom": 7,
+    "tmsEnabled": false
+  },
+  "days-gone/world": {
+    "base": "https://storage-cdn.wemod.com/maps/7966a054-38f6-4ae2-baf9-e0f278ea1771/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "grand-theft-auto-iv/grand-theft-auto-iv": {
+    "base": "https://storage-cdn.wemod.com/maps/b7572cb8-bd03-48a7-9a53-962434f7a960/tiles",
+    "maxZoom": 7,
+    "tmsEnabled": false
+  },
+  "ghost-of-tsushima-directors-cut/tsushima": {
+    "base": "https://storage-cdn.wemod.com/maps/19a9c34f-2ae3-458d-b3c9-e193bd12129a/tiles",
+    "maxZoom": 7,
+    "tmsEnabled": false
+  },
+  "watch-dogs-2/san-francisco": {
+    "base": "https://storage-cdn.wemod.com/maps/4b7c020f-5ddb-4fae-aeac-2a55a4802691/tiles",
+    "maxZoom": 7,
+    "tmsEnabled": false
+  },
+  "vampyr/london": {
+    "base": "https://storage-cdn.wemod.com/maps/e547c0f1-ecd6-46d4-a337-02d0d7a50ee5/tiles",
+    "maxZoom": 5,
+    "tmsEnabled": false
+  },
+  "mount-blade-ii-bannerlord/calradia-1084": {
+    "base": "https://storage-cdn.wemod.com/maps/1b8d02a5-be07-460c-8140-84e9549ca3f5/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "watch-dogs-legion/london": {
+    "base": "https://storage-cdn.wemod.com/maps/d26c88a2-3851-4361-98ae-c542d6a1877a/tiles",
+    "maxZoom": 5,
+    "tmsEnabled": false
+  },
+  "kingdom-come-deliverance/world": {
+    "base": "https://storage-cdn.wemod.com/maps/efc5c197-a509-430b-b441-c11a7d8de00d/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "need-for-speed-heat/palm-city": {
+    "base": "https://storage-cdn.wemod.com/maps/25897e58-f37d-48b6-8ecb-98a07e1cf30e/tiles",
+    "maxZoom": 7,
+    "tmsEnabled": false
+  },
+  "need-for-speed-payback/fortune-valley": {
+    "base": "https://storage-cdn.wemod.com/maps/b4b45f55-3f2d-4360-8a95-af247481cbb8/tiles",
+    "maxZoom": 5,
+    "tmsEnabled": false
+  },
+  "need-for-speed-unbound/lakeshore-city": {
+    "base": "https://storage-cdn.wemod.com/maps/e9a22726-05e5-4ad6-8d97-51dd99bbbd88/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "octopath-traveler/orsterra": {
+    "base": "https://storage-cdn.wemod.com/maps/36e3ba46-11e8-4ca7-baa8-cef06206d624/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "octopath-traveler-ii/solistia": {
+    "base": "https://storage-cdn.wemod.com/maps/4f728368-bcb9-472b-9614-7f3494e3abc7/tiles",
+    "maxZoom": 7,
+    "tmsEnabled": false
+  },
+  "soulmask/soulmask": {
+    "base": "https://storage-cdn.wemod.com/maps/e3123cb5-23db-4754-9557-99fc70ac7a22/tiles",
+    "maxZoom": 7,
+    "tmsEnabled": false
+  },
+  "the-forest/the-forest": {
+    "base": "https://storage-cdn.wemod.com/maps/1d5f3dcf-f098-42ee-bdf3-a55227b3e06e/tiles",
+    "maxZoom": 7,
+    "tmsEnabled": false
+  },
+  "assassins-creed-brotherhood/rome": {
+    "base": "https://storage-cdn.wemod.com/maps/072fb1cb-aef3-422c-8c51-d3907c71c701/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "bully-scholarship-edition/bullworth": {
+    "base": "https://storage-cdn.wemod.com/maps/e56ddf67-ee1e-4d6a-8d97-23c9ba81117f/tiles",
+    "maxZoom": 8,
+    "tmsEnabled": false
+  },
+  "saints-row-the-third-remastered/steelport": {
+    "base": "https://storage-cdn.wemod.com/maps/66647653-e4f4-455a-96b5-8893218f1ee1/tiles",
+    "maxZoom": 7,
+    "tmsEnabled": false
+  },
+  "red-dead-redemption/red-dead-redemption": {
+    "base": "https://storage-cdn.wemod.com/maps/961e3428-18a2-46ae-8b2b-a4b8db2f39ca/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "stalker-2-heart-of-chornobyl/the-zone": {
+    "base": "https://storage-cdn.wemod.com/maps/c6c2b7b4-bca9-4df9-8c45-0f51c2d1e95b/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "slime-rancher/far-far-range": {
+    "base": "https://storage-cdn.wemod.com/maps/468eef71-114d-4990-a6f3-86768cd33f7f/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "slime-rancher-2/rainbow-island": {
+    "base": "https://storage-cdn.wemod.com/maps/3853eb1c-93ec-4e82-8e2c-279d96088ac9/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "the-elder-scrolls-v-skyrim-special-edition/skyrim": {
+    "base": "https://storage-cdn.wemod.com/maps/0993a1b5-9629-4fd0-9f09-5a5a3e2504fe/tiles",
+    "maxZoom": 7,
+    "tmsEnabled": false
+  },
+  "tomb-raider/yamatai": {
+    "base": "https://storage-cdn.wemod.com/maps/8c70ba4d-eb8b-495b-b5ff-e36aa861b6ae/tiles",
+    "maxZoom": 5,
+    "tmsEnabled": false
+  },
+  "far-cry-primal/oros": {
+    "base": "https://storage-cdn.wemod.com/maps/5adb6029-06d9-4be5-bcb4-ebeb2e0095e6/tiles",
+    "maxZoom": 7,
+    "tmsEnabled": false
+  },
+  "yakuza-0-directors-cut/kamurocho": {
+    "base": "https://storage-cdn.wemod.com/maps/cd9621cb-e890-47e3-bde5-3b6ed6fcd7ef/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "assassins-creed-mirage/baghdad": {
+    "base": "https://storage-cdn.wemod.com/maps/1f267a28-8364-4a31-b54a-c71c932ce24e/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "grand-theft-auto-san-andreas-the-definitive-edition/san-andreas": {
+    "base": "https://storage-cdn.wemod.com/maps/2cbebe8b-f038-4408-ab62-bae533f97b37/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "grand-theft-auto-vice-city-the-definitive-edition/vice-city": {
+    "base": "https://storage-cdn.wemod.com/maps/f7f62c53-0103-47c1-98d8-c57f1cda1d08/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "grand-theft-auto-iii-the-definitive-edition/liberty-city": {
+    "base": "https://storage-cdn.wemod.com/maps/497199e0-a0e0-47dc-aadb-6dd04973e9b0/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "euro-truck-simulator-2/europe": {
+    "base": "https://storage-cdn.wemod.com/maps/6dc6b814-053a-41d7-ac4a-69f943baff09/tiles",
+    "maxZoom": 7,
+    "tmsEnabled": false
+  },
+  "american-truck-simulator/world": {
+    "base": "https://storage-cdn.wemod.com/maps/0bbbb6fa-0fb8-4169-b20c-56104f8da00f/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "fallout-new-vegas-ultimate-edition/mojave-wasteland": {
+    "base": "https://storage-cdn.wemod.com/maps/93b8289c-e839-46c3-87c1-7b8670ad16e5/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "conan-exiles/isle-of-siptah": {
+    "base": "https://storage-cdn.wemod.com/maps/47f442ae-d98a-4d56-96fd-1eea93b6a35f/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "kingdom-come-deliverance-ii/kuttenberg": {
+    "base": "https://storage-cdn.wemod.com/maps/b298cafc-78f3-4be8-a411-f121daff6ce6/tiles",
+    "maxZoom": 5,
+    "tmsEnabled": false
+  },
+  "sleeping-dogs-definitive-edition/sleeping-dogs-hong-kong": {
+    "base": "https://storage-cdn.wemod.com/maps/f560e485-cd47-4d43-a065-6d7a7004967f/tiles",
+    "maxZoom": 5,
+    "tmsEnabled": false
+  },
+  "dynasty-warriors-origins/ancient-china": {
+    "base": "https://storage-cdn.wemod.com/maps/acbb9f3b-b238-4d34-aef4-7289dbec4920/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "marvels-spider-man-2/new-york": {
+    "base": "https://storage-cdn.wemod.com/maps/7a6e2dfc-67a3-44d4-9d61-c92aa4ad1f74/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "hello-kitty-island-adventure/friendship-island": {
+    "base": "https://storage-cdn.wemod.com/maps/91042b81-be6a-448d-88b7-17549b22bc98/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "ranch-simulator/world": {
+    "base": "https://storage-cdn.wemod.com/maps/47ac57bf-6c2f-4c21-8e2e-a86aa7827434/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "assassins-creed-shadows/japan": {
+    "base": "https://storage-cdn.wemod.com/maps/74212f05-7736-49dc-837b-b873f7b67616/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "marvels-spider-man-miles-morales/new-york-city": {
+    "base": "https://storage-cdn.wemod.com/maps/b4e611d0-e8f5-4ca4-a858-19365de0fff0/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "assassins-creed-syndicate/london": {
+    "base": "https://storage-cdn.wemod.com/maps/5d296faa-11fd-46af-8059-f17709f91b10/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "the-elder-scrolls-iv-oblivion-remastered/cyrodiil": {
+    "base": "https://storage-cdn.wemod.com/maps/a915d6de-6de0-407c-b102-e896375286ed/tiles",
+    "maxZoom": 5,
+    "tmsEnabled": false
+  },
+  "schedule-i/hyland-point": {
+    "base": "https://storage-cdn.wemod.com/maps/f399d63f-d158-4e26-a6d3-efca8b9dcaa3/tiles",
+    "maxZoom": 5,
+    "tmsEnabled": false
+  },
+  "runescape-dragonwilds/ashenfall": {
+    "base": "https://storage-cdn.wemod.com/maps/cba4c1d9-410f-4fff-9afa-b96a3693da25/tiles",
+    "maxZoom": 7,
+    "tmsEnabled": false
+  },
+  "clair-obscur-expedition-33/the-continent": {
+    "base": "https://storage-cdn.wemod.com/maps/51d27cea-0f00-4f6e-a856-3e85ae8a0d40/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "elden-ring-nightreign/limveld": {
+    "base": "https://storage-cdn.wemod.com/maps/cef93408-f2f7-43df-8405-5216e81f82d0/tiles",
+    "maxZoom": 4,
+    "tmsEnabled": false
+  },
+  "fantasy-life-i-the-girl-who-steals-time/world-map": {
+    "base": "https://storage-cdn.wemod.com/maps/d1df1163-1241-4244-a848-1e8983ff2804/tiles",
+    "maxZoom": 4,
+    "tmsEnabled": false
+  },
+  "myth-of-empires/dongzhou": {
+    "base": "https://storage-cdn.wemod.com/maps/1f67e659-6a40-4e77-ac2d-a7b5184ff3ca/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "stalker-clear-sky-enhanced-edition/the-zone": {
+    "base": "https://storage-cdn.wemod.com/maps/de3b520b-c8b3-44eb-899a-ce6dd22a5d0e/tiles",
+    "maxZoom": 7,
+    "tmsEnabled": false
+  },
+  "marvels-spider-man-remastered/manhattan": {
+    "base": "https://storage-cdn.wemod.com/maps/75dd3aa4-dfd3-4a63-9391-68131b57efc9/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "grounded/yard": {
+    "base": "https://storage-cdn.wemod.com/maps/03c6b00c-26ab-43ee-8d29-253721550632/tiles",
+    "maxZoom": 5,
+    "tmsEnabled": false
+  },
+  "resident-evil-village/village": {
+    "base": "https://storage-cdn.wemod.com/maps/a8c17894-f3ac-448b-889d-b871e937ebc7/tiles",
+    "maxZoom": 5,
+    "tmsEnabled": false
+  },
+  "tales-of-the-shire-a-the-lord-of-the-rings-game/bywater": {
+    "base": "https://storage-cdn.wemod.com/maps/72e7b557-80b9-49b7-8e32-678bec0e57a1/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "grounded-2/brookhollow-park": {
+    "base": "https://storage-cdn.wemod.com/maps/4760eb6a-7bc4-45de-8b09-bc5a690d14c9/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "mafia-the-old-country/sicily": {
+    "base": "https://storage-cdn.wemod.com/maps/246ee89a-2dfb-4d1b-ab6b-da037a181503/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "enshrouded/embervale-2025": {
+    "base": "https://storage-cdn.wemod.com/maps/6c76be87-9479-4601-b462-70afba28346b/tiles",
+    "maxZoom": 5,
+    "tmsEnabled": false
+  },
+  "forza-horizon-4/britain": {
+    "base": "https://storage-cdn.wemod.com/maps/531299fb-a295-4532-9362-5773f7e1642f/tiles",
+    "maxZoom": 5,
+    "tmsEnabled": false
+  },
+  "hollow-knight/hallownest": {
+    "base": "https://storage-cdn.wemod.com/maps/3f2d6297-8ccf-45e7-a19c-3be85d2a0125/tiles",
+    "maxZoom": 4,
+    "tmsEnabled": false
+  },
+  "hollow-knight-silksong/pharloom": {
+    "base": "https://storage-cdn.wemod.com/maps/efa718b8-ec24-4ef9-8a04-63368c3eb580/tiles",
+    "maxZoom": 5,
+    "tmsEnabled": false
+  },
+  "metal-gear-solid-v-tpp/afghanistan": {
+    "base": "https://storage-cdn.wemod.com/maps/47d6b3af-b7c9-4a42-ac58-1296bf2ce98b/tiles",
+    "maxZoom": 5,
+    "tmsEnabled": false
+  },
+  "borderlands-4/kairos": {
+    "base": "https://storage-cdn.wemod.com/maps/6b41498c-2ecd-403b-950c-789cf10789d9/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "dying-light-the-beast/castor-woods": {
+    "base": "https://storage-cdn.wemod.com/maps/bf474939-4434-4bce-b65e-9d23ba916018/tiles",
+    "maxZoom": 5,
+    "tmsEnabled": false
+  },
+  "stardew-valley/pelican-town-and-farm": {
+    "base": "https://storage-cdn.wemod.com/maps/d168a581-a5f6-4339-8729-fce56a52a5a2/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "grand-theft-auto-v-enhanced/los-santos": {
+    "base": "https://storage-cdn.wemod.com/maps/f1dac4f8-ec81-4ce9-9041-f16434fe8347/tiles",
+    "maxZoom": 5,
+    "tmsEnabled": false
+  },
+  "7-days-to-die/navezgane": {
+    "base": "https://storage-cdn.wemod.com/maps/d79c25cf-0c0d-4676-b312-c4c21564b1ae/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "vampire-the-masquerade-bloodlines-2/seattle": {
+    "base": "https://storage-cdn.wemod.com/maps/5fe8c427-e444-42c4-9e30-57e878f9243b/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "surroundead/longdown-valley": {
+    "base": "https://storage-cdn.wemod.com/maps/b706cc03-4124-43e4-90f1-18b6115355ad/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "where-winds-meet/kaifeng": {
+    "base": "https://storage-cdn.wemod.com/maps/3b57d21f-9447-4390-b778-58cb8c352aed/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "octopath-traveler-0/orsterra": {
+    "base": "https://storage-cdn.wemod.com/maps/e1ef7ab9-d2af-4f5c-94d7-5b57d15c7c6c/tiles",
+    "maxZoom": 5,
+    "tmsEnabled": false
+  },
+  "diablo-iv/sanctuary": {
+    "base": "https://storage-cdn.wemod.com/maps/cd4d2455-5772-42ec-8ee2-e44955cfbf9f/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "starrupture/starrupture": {
+    "base": "https://storage-cdn.wemod.com/maps/8be80f47-c7e2-40ed-ae06-2808f1bc0c8d/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "arknights-endfield/valley-iv": {
+    "base": "https://storage-cdn.wemod.com/maps/8fd70ecf-a9cb-4654-9ec7-f333597b4a90/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "maneater/port-clovis": {
+    "base": "https://storage-cdn.wemod.com/maps/1c9ecc6c-ffc2-4ca3-8025-fa2ddf5b70bd/tiles",
+    "maxZoom": 7,
+    "tmsEnabled": false
+  },
+  "no-rest-for-the-wicked/isola-sacra": {
+    "base": "https://storage-cdn.wemod.com/maps/deb851ea-1247-42ae-80ab-0e64650d26fe/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  },
+  "ark-survival-ascended/the-island": {
+    "base": "https://storage-cdn.wemod.com/maps/4a826c2b-5c29-4cc1-b2e2-9a07e85a9046/tiles",
+    "maxZoom": 6,
+    "tmsEnabled": false
+  }
+}

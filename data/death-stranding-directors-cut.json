@@ -1,0 +1,16 @@
+{
+  "slug": "death-stranding-directors-cut",
+  "title": "DEATH STRANDING DIRECTOR'S CUT",
+  "heroUrl": "/assets/images/games/death-stranding-directors-cut/hero.webp",
+  "maps": [
+    {
+      "name": "Eastern Region",
+      "slug": "eastern-region",
+      "thumbnailUrl": "/assets/images/games/death-stranding-directors-cut/eastern-region.webp",
+      "updatedAt": "2026-01-29T08:20:51Z",
+      "markerCount": 29,
+      "categoryCount": 4,
+      "subcategoryCount": 7
+    }
+  ]
+}

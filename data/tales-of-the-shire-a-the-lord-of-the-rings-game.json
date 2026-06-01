@@ -1,0 +1,16 @@
+{
+  "slug": "tales-of-the-shire-a-the-lord-of-the-rings-game",
+  "title": "Tales of the Shire: A The Lord of The Rings Game",
+  "heroUrl": "/assets/images/games/tales-of-the-shire-a-the-lord-of-the-rings-game/hero.webp",
+  "maps": [
+    {
+      "name": "Bywater",
+      "slug": "bywater",
+      "thumbnailUrl": "/assets/images/games/tales-of-the-shire-a-the-lord-of-the-rings-game/bywater.webp",
+      "updatedAt": "2026-02-19T15:52:01Z",
+      "markerCount": 250,
+      "categoryCount": 5,
+      "subcategoryCount": 31
+    }
+  ]
+}

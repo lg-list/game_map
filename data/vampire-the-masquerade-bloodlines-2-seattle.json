@@ -1,0 +1,4371 @@
+{
+  "metadata": {
+    "externalId": "z8MdZCsT0h",
+    "name": "Seattle",
+    "slug": "seattle",
+    "baseTilePath": "https://storage-cdn.wemod.com/maps/5fe8c427-e444-42c4-9e30-57e878f9243b/tiles",
+    "isChecklistPublished": true,
+    "isInActiveDevelopment": false,
+    "backgroundColor": null,
+    "minZoom": 1,
+    "maxZoom": 6,
+    "initialZoom": null,
+    "tmsEnabled": false,
+    "categories": [
+      {
+        "externalId": "DMrZQouLd0",
+        "gameMapExternalId": "z8MdZCsT0h",
+        "title": "收藏品",
+        "color": "#6A1B9A",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "Uzjs9xVxix",
+        "gameMapExternalId": "z8MdZCsT0h",
+        "title": "位置",
+        "color": "#78909C",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "z2x9AjxMWK",
+        "gameMapExternalId": "z8MdZCsT0h",
+        "title": "任务",
+        "color": "#FB8C00",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "YJjYBG5ZMX",
+        "gameMapExternalId": "z8MdZCsT0h",
+        "title": "物品",
+        "color": "#A1887F",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "9VpPiQ2BdX",
+        "gameMapExternalId": "z8MdZCsT0h",
+        "title": "其他",
+        "color": "#1565C0",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "subcategories": [
+      {
+        "externalId": "8UBsbxE9bu",
+        "categoryExternalId": "DMrZQouLd0",
+        "title": "菲尔之血印记",
+        "icon": "ruble-sign",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "LgUDjb7NCj",
+        "categoryExternalId": "DMrZQouLd0",
+        "title": "无政府主义者标签",
+        "icon": "dong-sign",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "XeMmCvC1oP",
+        "categoryExternalId": "DMrZQouLd0",
+        "title": "圣雅各十字架",
+        "icon": "cross-religion",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "htPwiETz7v",
+        "categoryExternalId": "DMrZQouLd0",
+        "title": "I.A.O 监控摄像头",
+        "icon": "camera-cctv",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "VvVhVmWlPb",
+        "categoryExternalId": "Uzjs9xVxix",
+        "title": "地标",
+        "icon": "building",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "w4SmH82hTG",
+        "categoryExternalId": "Uzjs9xVxix",
+        "title": "氏族联络人",
+        "icon": "material:pentagon",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "c6XCfOv3re",
+        "categoryExternalId": "Uzjs9xVxix",
+        "title": "血液共鸣",
+        "icon": "eye",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "qhJBagZsKx",
+        "categoryExternalId": "z2x9AjxMWK",
+        "title": "主线任务",
+        "icon": "material:question_mark",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "Yt6vyQNLxM",
+        "categoryExternalId": "z2x9AjxMWK",
+        "title": "支线任务",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "0lnCOcIGfv",
+        "categoryExternalId": "YJjYBG5ZMX",
+        "title": "线索与谜团",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "XN3ZXEBE3T",
+        "categoryExternalId": "YJjYBG5ZMX",
+        "title": "确凿证据",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "cP9A7SHlV8",
+        "categoryExternalId": "YJjYBG5ZMX",
+        "title": "消耗品",
+        "icon": "flask-potion",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "1UZBN2XGK9",
+        "categoryExternalId": "9VpPiQ2BdX",
+        "title": "杂项",
+        "icon": "material:mobile_question",
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "playerLocationDeltas": null
+  },
+  "features": [
+    {
+      "coordinates": [
+        59.108743079736485,
+        32.8218964463873
+      ],
+      "properties": {
+        "externalId": "pRX9uQU78m",
+        "title": "温室",
+        "description": "",
+        "subcategoryExternalId": "VvVhVmWlPb",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        44.346817825231994,
+        -15.515139107977106
+      ],
+      "properties": {
+        "externalId": "8f6fVWt11F",
+        "title": "中庭",
+        "description": "",
+        "subcategoryExternalId": "VvVhVmWlPb",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -5.769298164849602,
+        -25.826885463043638
+      ],
+      "properties": {
+        "externalId": "cuI9fOyPvI",
+        "title": "冰川酒店",
+        "description": "",
+        "subcategoryExternalId": "VvVhVmWlPb",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        0.5572412299380005,
+        -17.536747964629228
+      ],
+      "properties": {
+        "externalId": "QatrT4ARYn",
+        "title": "马科姆酒吧",
+        "description": "",
+        "subcategoryExternalId": "VvVhVmWlPb",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        12.962220435403566,
+        1.9064136860558563
+      ],
+      "properties": {
+        "externalId": "Q5OYEajD2z",
+        "title": "圣斯蒂芬斯",
+        "description": "",
+        "subcategoryExternalId": "VvVhVmWlPb",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -28.35766025216671,
+        -28.333418198640004
+      ],
+      "properties": {
+        "externalId": "26V2IF4Aoi",
+        "title": "墙洞",
+        "description": "",
+        "subcategoryExternalId": "VvVhVmWlPb",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -19.84515484185107,
+        -13.791250107359147
+      ],
+      "properties": {
+        "externalId": "cFXMJ8CPdN",
+        "title": "汽车修理厂",
+        "description": "",
+        "subcategoryExternalId": "VvVhVmWlPb",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -16.062490393841074,
+        -2.129914761993703
+      ],
+      "properties": {
+        "externalId": "H656Q8CTZ4",
+        "title": "唤醒死者",
+        "description": "",
+        "subcategoryExternalId": "VvVhVmWlPb",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -35.33213313914092,
+        -7.9346898760204425
+      ],
+      "properties": {
+        "externalId": "mlGYGTOZEk",
+        "title": "极光当铺",
+        "description": "",
+        "subcategoryExternalId": "VvVhVmWlPb",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -20.817579147731635,
+        21.71937032910563
+      ],
+      "properties": {
+        "externalId": "jENYTmgvNA",
+        "title": "警察局",
+        "description": "",
+        "subcategoryExternalId": "VvVhVmWlPb",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -41.86743990417017,
+        23.262861960660132
+      ],
+      "properties": {
+        "externalId": "J6LVMYEgAL",
+        "title": "荷兰人号",
+        "description": "",
+        "subcategoryExternalId": "VvVhVmWlPb",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        0.5615086515578582,
+        18.354015773244726
+      ],
+      "properties": {
+        "externalId": "Pfx9WBNhZB",
+        "title": "避风港",
+        "description": "",
+        "subcategoryExternalId": "VvVhVmWlPb",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        2.9077590045820045,
+        19.184272551011944
+      ],
+      "properties": {
+        "externalId": "0EKwgJhVYP",
+        "title": "使用频繁的神社",
+        "description": "| 位置 |\n|--------|\n| 在门旁发现，位于 *港湾* |\n\n> 一张照片，照片中有一群人和一支香草味蜡烛。烛芯发黑，蜡烛呈隧道状熔化，表明这支蜡烛经常被点燃，但每次时间都很短。无法知道照片中的哪个人值得如此虔诚的纪念，但相框上有一些磨损痕迹，表明它经常被拿起来看。与公寓的其他地方相比，整个区域异常干净，没有灰尘。",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1561262,
+        "imagePath": "/game_map_pin/1561262/{size}.webp",
+        "videoId": 1561263,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/ef4f35c42890d71dd7af5baf05cae7383a6354a6"
+      }
+    },
+    {
+      "coordinates": [
+        2.201798780930062,
+        17.601545118510487
+      ],
+      "properties": {
+        "externalId": "V0IldS9gvU",
+        "title": "白板",
+        "description": "",
+        "subcategoryExternalId": "1UZBN2XGK9",
+        "imageId": 1561278,
+        "imagePath": "/game_map_pin/1561278/{size}.webp",
+        "videoId": 1561279,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/6f5acf84a9f6b47031e01e3e33d3d3f7a0442a32"
+      }
+    },
+    {
+      "coordinates": [
+        3.9356881613702512,
+        18.16566638096674
+      ],
+      "properties": {
+        "externalId": "tZuFzaPYA2",
+        "title": "小黑笔记本",
+        "description": "| 位置 |\n|--------|\n| 在流浪者当前*避风港*中，位于灯旁边的小抽屉里发现。 |\n\n> 一本小小的黑色笔记本，带有仿皮封面和圆角。象牙色的纸张。闻起来有陈旧的甜味和古龙水味，仿佛被一个使用香水但洗澡不够勤快的人贴身携带过。它出现在这么多旧VHS录像带旁边的原因不明\n>\n> 页面上写满了整齐的手写栏目。第一页写着：\n>\n> - KS - 5mil\n> - TM - 5mil\n> - GL - 0.5g\n> - DD - 7.5mil\n> - PP - 5mil\n> - DW - 10mil + 2g\n> - LM - 7.5mil",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1561282,
+        "imagePath": "/game_map_pin/1561282/{size}.webp",
+        "videoId": 1561283,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/ba31732e5171351878354c8926d4df2fd31fcffa"
+      }
+    },
+    {
+      "coordinates": [
+        3.4370725734175664,
+        17.447492206329372
+      ],
+      "properties": {
+        "externalId": "gnHGvzfVyc",
+        "title": "死猫",
+        "description": "| 位置 |\n|--------|\n| 在厨房中发现，位于游牧者当前的*避风港*。|\n\n> 一只死猫的尸体。\n>\n> 尸僵已经消失，尸体嘴部传来安静而湿润的蠕动声，表明有蝇蛆的存在。",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1561297,
+        "imagePath": "/game_map_pin/1561297/{size}.webp",
+        "videoId": 1561298,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/074748192d0cda8d0ddbb92dcd6d983cdbae8049"
+      }
+    },
+    {
+      "coordinates": [
+        2.733896744249847,
+        18.22639479559909
+      ],
+      "properties": {
+        "externalId": "pGIMixjOnv",
+        "title": "点唱机",
+        "description": "",
+        "subcategoryExternalId": "1UZBN2XGK9",
+        "imageId": 1561317,
+        "imagePath": "/game_map_pin/1561317/{size}.webp",
+        "videoId": 1561318,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/d1b8f380e5cac1b3bd1bc10d52e18ce805c7cc1b"
+      }
+    },
+    {
+      "coordinates": [
+        -7.486135556521646,
+        38.408602770091534
+      ],
+      "properties": {
+        "externalId": "0zoQHarOUj",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -1.5153462185115245,
+        20.589830784835655
+      ],
+      "properties": {
+        "externalId": "oY0UsnDlgi",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于*避风港*三楼圣诞树旁边。 |\n\n> **注意：** 收集所有圣雅各十字架将解锁\"钉十字架\"成就。",
+        "subcategoryExternalId": "XeMmCvC1oP",
+        "imageId": 1561329,
+        "imagePath": "/game_map_pin/1561329/{size}.webp",
+        "videoId": 1561330,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/002060cfab742f5769830f0934417f118cf53b5c"
+      }
+    },
+    {
+      "coordinates": [
+        5.8211094658407205,
+        3.622997518470953
+      ],
+      "properties": {
+        "externalId": "4QTGockAmc",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于墓地顶部，坐落在*圣斯蒂芬教堂*外面。 |\n\n> 收集菲尔的血印会为你提供增加的生命值和100经验值。\n>\n>> **注意：** 激活强化感官会高亮显示印记，将准星指向印记位置时，随着距离越来越近，准星会变成圆圈形状。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1562279,
+        "imagePath": "/game_map_pin/1562279/{size}.webp",
+        "videoId": 1562280,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/a8e694a192785772f4753e49f5d55cab47095cc3"
+      }
+    },
+    {
+      "coordinates": [
+        0.21621972037326032,
+        -3.1337151147021842
+      ],
+      "properties": {
+        "externalId": "GDN1xQal0x",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在建筑物侧面，靠近第一次遭遇本尼的地方。 |\n\n> 收集菲尔的血迹标记可以增加生命值并获得100经验值。\n>\n>> **注意：**激活强化感官会高亮显示标记，将准星指向标记位置时，越接近标记准星就会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1562286,
+        "imagePath": "/game_map_pin/1562286/{size}.webp",
+        "videoId": 1562287,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/dca204d07c8f63e38da8a74882aa4e5fe2064ae5"
+      }
+    },
+    {
+      "coordinates": [
+        -2.7428035826976895,
+        -15.221155007945498
+      ],
+      "properties": {
+        "externalId": "EJpGxgd6px",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于 *Makom Bar* 北部。 |\n\n> 收集费尔的血印会给你增加生命值和100经验值。\n>\n>> **注意：** 激活强化感官会突出显示血印，将准星指向血印位置时，越靠近准星就会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1562296,
+        "imagePath": "/game_map_pin/1562296/{size}.webp",
+        "videoId": 1562297,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/590187e884e37439dabc110447fcd5f063c83e47"
+      }
+    },
+    {
+      "coordinates": [
+        -17.5737259677268,
+        -33.422602674369244
+      ],
+      "properties": {
+        "externalId": "GjQjV1ZHkH",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在小巷中发现，位于*墙洞*的东侧。|\n\n> 收集菲尔的血迹标记会为你提供增加的生命值和100经验值。\n>\n>> **注意：** 激活增强感官将会高亮显示标记，将准星指向标记位置时，越接近标记准星就会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1562300,
+        "imagePath": "/game_map_pin/1562300/{size}.webp",
+        "videoId": 1562301,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/725cbc7b7d91a6d7d5022514ac1680cf666176b5"
+      }
+    },
+    {
+      "coordinates": [
+        -24.19779978622401,
+        -35.83413650950968
+      ],
+      "properties": {
+        "externalId": "YeEZRxCMY6",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在车库内找到，位于*墙洞*。 |\n\n> 收集Phyre的血印会为你提供增加的生命值和100经验值。\n>\n>> **注意：**激活敏锐感知会高亮显示血印，将准星指向血印位置时，随着距离的接近，你的准星会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1562302,
+        "imagePath": "/game_map_pin/1562302/{size}.webp",
+        "videoId": 1562303,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/75161189799fac1c7e38b24c04e42cb5907f5c8a"
+      }
+    },
+    {
+      "coordinates": [
+        -30.266072596841667,
+        -31.805188691721945
+      ],
+      "properties": {
+        "externalId": "auZxWMun5z",
+        "title": "鲜血药剂",
+        "description": "| 位置 |\n|--------|\n| 在桶子旁边的椅子上找到，位于*墙洞*内。 |\n\n> 血液药剂可立即恢复吸血鬼能力的血液点数。",
+        "subcategoryExternalId": "cP9A7SHlV8",
+        "imageId": 1561353,
+        "imagePath": "/game_map_pin/1561353/{size}.webp",
+        "videoId": 1561354,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/ada0c4d2b14fa86a0806cc4d353918d9ff237d4b"
+      }
+    },
+    {
+      "coordinates": [
+        -27.438011372014017,
+        -29.11651848011148
+      ],
+      "properties": {
+        "externalId": "RokcPSxkpY",
+        "title": "修复药剂",
+        "description": "| 位置 |\n|--------|\n| 在酒吧找到，位于*墙洞酒吧*内。 |\n\n> 修复药剂可立即恢复生命值。",
+        "subcategoryExternalId": "cP9A7SHlV8",
+        "imageId": 1562305,
+        "imagePath": "/game_map_pin/1562305/{size}.webp",
+        "videoId": 1562306,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/068ef6f9b494e3c89d0b807e6b3572c50e7984f4"
+      }
+    },
+    {
+      "coordinates": [
+        -44.424756769247665,
+        -20.293454138327945
+      ],
+      "properties": {
+        "externalId": "cmSSM9AQ4N",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于屋顶，在*Aurora Pawn*南侧。 |\n\n> 收集Phyre的血迹印记可为你增加生命值和100经验值。\n>\n>> **注意：** 激活敏锐感官会突出显示印记，将准星指向印记位置时，越接近印记，准星会变成圆圈。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1562311,
+        "imagePath": "/game_map_pin/1562311/{size}.webp",
+        "videoId": 1562312,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/21141e6859b5caa7ebdde34e902f8e18bf2f4f12"
+      }
+    },
+    {
+      "coordinates": [
+        -55.54087101910841,
+        -14.915774277702823
+      ],
+      "properties": {
+        "externalId": "PIhZW2krDM",
+        "title": "效力药剂",
+        "description": "| 位置 |\n|--------|\n| 在梯子上找到，位于发现法比安尸体的仓库内。 |\n\n> 力量药剂可暂时增加攻击伤害。",
+        "subcategoryExternalId": "cP9A7SHlV8",
+        "imageId": 1562317,
+        "imagePath": "/game_map_pin/1562317/{size}.webp",
+        "videoId": 1562318,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/aa745a60681b85dd56f80cbad645669f20492aec"
+      }
+    },
+    {
+      "coordinates": [
+        -59.781032903748795,
+        -16.26741594379598
+      ],
+      "properties": {
+        "externalId": "tpipwvhOyC",
+        "title": "鲜血药剂",
+        "description": "| 位置 |\n|--------| \n| 在仓库内找到。|\n\n> 血液药剂可立即恢复吸血鬼能力的血液点数。",
+        "subcategoryExternalId": "cP9A7SHlV8",
+        "imageId": 1562380,
+        "imagePath": "/game_map_pin/1562380/{size}.webp",
+        "videoId": 1562381,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/d0f63f95c067705fc44304ee417ed3dcf0299dda"
+      }
+    },
+    {
+      "coordinates": [
+        -5.753662458720385,
+        -30.74488870541115
+      ],
+      "properties": {
+        "externalId": "VGRRxZ2ga7",
+        "title": "修复药剂",
+        "description": "| 位置 |\n|--------|\n| 在前往见Lou Graham的路上，位于壁炉前的桌子上，就在*冰川酒店*内。 |\n\n> 修复药剂可以立即恢复生命值。",
+        "subcategoryExternalId": "cP9A7SHlV8",
+        "imageId": 1562393,
+        "imagePath": "/game_map_pin/1562393/{size}.webp",
+        "videoId": 1562394,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/5a52fd9fa15a9cfe84ec107be5f2a680d20c32c0"
+      }
+    },
+    {
+      "coordinates": [
+        -7.134263886728206,
+        -32.002676639285134
+      ],
+      "properties": {
+        "externalId": "9l6ZJkYobs",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在顶层公寓第二层的画作上发现，位于 *[冰川酒店](wemod:\\/\\/maps\\/99688\\/661?location=cuI9fOyPvI)* 内。 |\n\n> **注意：** 收集所有圣雅各布十字架将解锁\"钉十字架\"成就。",
+        "subcategoryExternalId": "XeMmCvC1oP",
+        "imageId": 1562405,
+        "imagePath": "/game_map_pin/1562405/{size}.webp",
+        "videoId": 1562406,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/961f1a5da3bd4bf9888576e7e0a9700f15a6d537"
+      }
+    },
+    {
+      "coordinates": [
+        -8.37679304497297,
+        -28.157972180230026
+      ],
+      "properties": {
+        "externalId": "y3FjDx6OjZ",
+        "title": "不幸尸体",
+        "description": "| 位置 |\n|--------|\n| 位于顶层公寓的第二层，坐落在*[冰川酒店](wemod:\\/\\/maps\\/99688\\/661?location=cuI9fOyPvI)*。 |\n\n> 在卢·格雷厄姆的顶层公寓中发现：\n> \n> 一具尸体。由于显而易见的原因，散发着强烈的烧焦肉味。\n>\n> 实际死因不明，也没有头部可能在哪里的迹象。",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1562412,
+        "imagePath": "/game_map_pin/1562412/{size}.webp",
+        "videoId": 1562413,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/8b6f0c65560d18b35edc9ffe69c32a347652e23a"
+      }
+    },
+    {
+      "coordinates": [
+        53.51146554721399,
+        0.7658873288563086
+      ],
+      "properties": {
+        "externalId": "6xtIryCDT8",
+        "title": "工业之火",
+        "description": "| 上一个 | 下一个 |\n|--------|--------|\n| *铅金锁链* | *香烟女郎* |",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        2.088060587495278,
+        20.291242582437235
+      ],
+      "properties": {
+        "externalId": "gq4YyDU2VX",
+        "title": "铅金锁链之地",
+        "description": "| 上一个 | 下一个 |\n|--------|--------|\n| *品尝异物* | *工业之火* |",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -30.96304900231644,
+        -30.514435446722835
+      ],
+      "properties": {
+        "externalId": "JF9SzLQni1",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在飞镖靶上找到，位于*墙洞*内。 |\n\n> **注意：** 收集所有圣詹姆斯十字架将解锁\"钉十字架\"成就。",
+        "subcategoryExternalId": "XeMmCvC1oP",
+        "imageId": 1562459,
+        "imagePath": "/game_map_pin/1562459/{size}.webp",
+        "videoId": 1562460,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/f15e40b87cd385154438b432f422a2c242ff8f6f"
+      }
+    },
+    {
+      "coordinates": [
+        57.275684539575224,
+        5.686730854268546
+      ],
+      "properties": {
+        "externalId": "JdpY7mREU1",
+        "title": "修复药剂",
+        "description": "| 位置 |\n|--------|\n| 在水桶旁边找到，位于*织工塔*的第一层。 |\n\n> 修复药剂能立即恢复生命值。",
+        "subcategoryExternalId": "cP9A7SHlV8",
+        "imageId": 1562466,
+        "imagePath": "/game_map_pin/1562466/{size}.webp",
+        "videoId": 1562467,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/d519c30a639a9632c05c2861a2b51581f8aa09d3"
+      }
+    },
+    {
+      "coordinates": [
+        61.8391626864817,
+        -3.4239328220817526
+      ],
+      "properties": {
+        "externalId": "1RXEGpKTNF",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在遇到龙王子的路上，位于通风管道内，具体位置在*织工塔*。 |\n\n> 收集菲尔的血印会为你增加生命值和100经验值。\n>\n>> **注意：** 激活强化感知会高亮显示血印，将准星指向血印位置时，越靠近准星就会变成圆圈形状。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1562470,
+        "imagePath": "/game_map_pin/1562470/{size}.webp",
+        "videoId": 1562471,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/d4a58c62fbb9cc72bf0723b736c12afea670d145"
+      }
+    },
+    {
+      "coordinates": [
+        61.071466121892,
+        0.3079591565944497
+      ],
+      "properties": {
+        "externalId": "FmPZ3xmFUr",
+        "title": "修复药剂",
+        "description": "| 位置 |\n|--------|\n| 在你遇到龙王子的路上，位于通风管道内，具体位置在*织工塔*。 |\n\n> 修复药剂可立即恢复生命值。",
+        "subcategoryExternalId": "cP9A7SHlV8",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        63.122677460460835,
+        -5.0129917787231335
+      ],
+      "properties": {
+        "externalId": "0I5ASObSpN",
+        "title": "修复药剂",
+        "description": "| 位置 |\n|--------|\n| 在你遇到托利后，位于服务器房间右侧，坐落在*[织工塔](wemod:\\/\\/maps\\/99688\\/661?location=3GvySM04oa)*。 |\n\n> 修复药剂可立即恢复生命值。",
+        "subcategoryExternalId": "cP9A7SHlV8",
+        "imageId": 1562478,
+        "imagePath": "/game_map_pin/1562478/{size}.webp",
+        "videoId": 1562479,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/100dffcd38b896771185a360cfe929fbd52a30a0"
+      }
+    },
+    {
+      "coordinates": [
+        64.20571211149536,
+        -4.281946678507609
+      ],
+      "properties": {
+        "externalId": "FjGnfAa7gG",
+        "title": "DotGEO无线网络说明",
+        "description": "| 位置 |\n|--------| \n| 在服务器机房内发现，位于*韦弗大厦*。 |\n\n> 在韦弗大厦发现：\n> \n> 一张用圆珠笔写着wifi说明的便利贴。\n>\n> \"访客Wifi：DotGEOGuest 密码：EatSleepWinRepeat123 员工Wifi：无限期维护中。\"",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1562487,
+        "imagePath": "/game_map_pin/1562487/{size}.webp",
+        "videoId": 1562488,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/d9bcf1963e7027288cb8ca59fe3b110270db3688"
+      }
+    },
+    {
+      "coordinates": [
+        62.72221885553412,
+        2.4851093988758635
+      ],
+      "properties": {
+        "externalId": "qNxrYBFyAV",
+        "title": "罪恶快感手机店",
+        "description": "| 位置 |\n|--------|\n| 在通风管道下方发现，位于*韦弗塔*。 |\n\n> 在韦弗塔中发现：\n>\n> 一部智能手机，上面有多人触摸的气味，仿佛是公共财产。有一个它放置的小凹痕。\n>\n> 它没有信号，也没有保存任何号码，但确实有一个叫做贪吃蛇的游戏，最高分是552分。",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1562495,
+        "imagePath": "/game_map_pin/1562495/{size}.webp",
+        "videoId": 1562496,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/17aaf3e2f55024a6c352fb6bc0625977e48bcf81"
+      }
+    },
+    {
+      "coordinates": [
+        61.44880521425307,
+        2.68215896833442
+      ],
+      "properties": {
+        "externalId": "Jo9dDxm7eE",
+        "title": "效力药剂",
+        "description": "| 位置 |\n|--------|\n| 位于纸巾卷旁边的货架顶部，在*韦弗大厦*中。|\n\n> 力量药剂可暂时增加攻击伤害。",
+        "subcategoryExternalId": "cP9A7SHlV8",
+        "imageId": 1562503,
+        "imagePath": "/game_map_pin/1562503/{size}.webp",
+        "videoId": 1562504,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/5114134d4245f056748726dedede319e2cd1a408"
+      }
+    },
+    {
+      "coordinates": [
+        57.291249716189725,
+        1.0958530852181951
+      ],
+      "properties": {
+        "externalId": "3GvySM04oa",
+        "title": "织工塔",
+        "description": "",
+        "subcategoryExternalId": "VvVhVmWlPb",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        59.51564279684192,
+        2.7044353109141923
+      ],
+      "properties": {
+        "externalId": "SKOT9lMaL7",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在电梯井中发现，位于*韦弗塔*。|\n\n> 收集菲尔的血印会为你增加生命值和100经验值。\n>\n>> **注意：**激活敏锐感官会高亮显示血印，将准星指向血印位置时，随着距离越来越近，准星会变成圆圈形状。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1562505,
+        "imagePath": "/game_map_pin/1562505/{size}.webp",
+        "videoId": 1562506,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/d8d40d2c442c1dbda763ee9a5385e4563f11d676"
+      }
+    },
+    {
+      "coordinates": [
+        59.526161339844805,
+        1.8746082133707773
+      ],
+      "properties": {
+        "externalId": "5kfbAz8Y5H",
+        "title": "坚韧药剂",
+        "description": "| 位置 |\n|--------|\n| 位于电梯井末端通风口前方，地点在*韦弗大厦*。 |\n\n> 坚韧药剂可以暂时减少流浪者受到攻击时的伤害。",
+        "subcategoryExternalId": "cP9A7SHlV8",
+        "imageId": 1562515,
+        "imagePath": "/game_map_pin/1562515/{size}.webp",
+        "videoId": 1562516,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/f01b88eb27eb4a5165521e692695bb72c1db6960"
+      }
+    },
+    {
+      "coordinates": [
+        60.675933174474636,
+        4.569909287924489
+      ],
+      "properties": {
+        "externalId": "75xyEMRdvV",
+        "title": "未送达血袋",
+        "description": "| 位置 |\n|--------|\n| 在你遇见索菲亚的实验室内发现，位于*织工塔*。 |\n\n> 在织工塔中发现：\n>\n> 几袋血液和一张手写纸条：\"阿克塞尔配送。\"\n> \n> 血液已经开始变质了。",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1562519,
+        "imagePath": "/game_map_pin/1562519/{size}.webp",
+        "videoId": 1562520,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/e6661d047ca1c8d3864b90c531b495d5266b90a0"
+      }
+    },
+    {
+      "coordinates": [
+        61.29663304424679,
+        6.234411378687156
+      ],
+      "properties": {
+        "externalId": "1Wq74ZoIEs",
+        "title": "潦草笔记",
+        "description": "| 位置 |\n|--------|\n| 在*织工塔*中，索菲亚左侧桌子上发现。 |\n\n> 在织工塔中发现：\n> \n> 记事本上潦草的笔记，可能是更大规模科学研究的一部分。\n>\n> \"……一旦服用，受试者立即表现出对物理创伤更强的抵抗力。沿腓动脉切开后仅产生4.5毫升的失血量。需要进一步分析，但这些发现很有希望。\"",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1562538,
+        "imagePath": "/game_map_pin/1562538/{size}.webp",
+        "videoId": 1562539,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/61514396359c9192c296a961d91998eb35692cf5"
+      }
+    },
+    {
+      "coordinates": [
+        60.33252152532549,
+        5.774977212453408
+      ],
+      "properties": {
+        "externalId": "EUj8oVVrT0",
+        "title": "使用频繁的记录设备",
+        "description": "| 位置 |\n|--------|\n| 在索菲亚的实验室内发现，位于*织工塔*。|\n\n> 在织工塔发现：\n> \n> 一个用于语音记录的设备。虽然看起来是现代型号，但按钮上印刷的图标因长期使用而磨损。",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1562550,
+        "imagePath": "/game_map_pin/1562550/{size}.webp",
+        "videoId": 1562551,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/27c7d642eb6b7555a6bb377fc9f5a5f707ae04c6"
+      }
+    },
+    {
+      "coordinates": [
+        55.759850485770755,
+        1.3270384769101753
+      ],
+      "properties": {
+        "externalId": "8dLxL1IiMb",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在沙发上找到，位于索菲亚实验室外右侧走廊，地点在*韦弗塔*。 |\n\n> **注意：** 收集所有圣詹姆斯十字架将解锁\"十字受难\"成就。",
+        "subcategoryExternalId": "XeMmCvC1oP",
+        "imageId": 1562567,
+        "imagePath": "/game_map_pin/1562567/{size}.webp",
+        "videoId": 1562568,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/56b8667a1896e8b3c2a54c5cfc6e9c0f20400a43"
+      }
+    },
+    {
+      "coordinates": [
+        58.94269812803594,
+        0.3190834545001451
+      ],
+      "properties": {
+        "externalId": "C8JkpbHVjy",
+        "title": "精选金融期刊",
+        "description": "| 位置 |\n|--------|\n| 在黑色沙发上发现，位于*韦弗大厦*。 |\n\n> 在韦弗大厦发现：\n>\n> 一堆几乎没有翻动过的文章，被随意堆放在沙发一边。\n>\n> \"《权利周刊》。史上50位最大胆的商业大亨。\"\n>\n> \"《资本家通讯》。采访白手起家的大亨坎贝尔：'我从零开始建立了自己的帝国。我所拥有的只是勇气、毅力，以及几百万美元的小额贷款...'\"\n>\n> \"《企业家特刊》：'睡眠是死人的事' ——DotGEO期货公司创始人的建议。\"",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1562584,
+        "imagePath": "/game_map_pin/1562584/{size}.webp",
+        "videoId": 1562585,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/114340965e66b1ca98acbdddd5e8b1ddb793936d"
+      }
+    },
+    {
+      "coordinates": [
+        -5.181651840163852,
+        3.0173888392949095
+      ],
+      "properties": {
+        "externalId": "OX1bcWcj3Z",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于屋顶，在*圣斯蒂芬斯*西侧。 |\n\n> 收集菲尔的血痕标记可以获得增加的生命值和100经验值。\n>\n>> **注意：** 激活强化感官会高亮显示标记，将准星指向标记位置时，越接近标记，准星就会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1562637,
+        "imagePath": "/game_map_pin/1562637/{size}.webp",
+        "videoId": 1562638,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/2c52e6ff16235547a8b9a69f2c9d053c17bead67"
+      }
+    },
+    {
+      "coordinates": [
+        9.654289971842246,
+        8.059689470766884
+      ],
+      "properties": {
+        "externalId": "fS0ib4vA88",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于屋顶，在*圣史蒂芬*北侧。|\n\n> 收集菲尔的血印可以为你增加生命值和100经验值。\n>\n>> **注意：**激活敏锐感官会高亮显示血印，将准星指向血印位置时，距离越近准星会变成圆圈。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1562649,
+        "imagePath": "/game_map_pin/1562649/{size}.webp",
+        "videoId": 1562650,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/cd4205f95abc0795c74121bdb73d6d5e6b88ddd5"
+      }
+    },
+    {
+      "coordinates": [
+        -2.6867008381948096,
+        20.863914171764392
+      ],
+      "properties": {
+        "externalId": "hyeSTl8yX6",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于顶层，在*[避风港](wemod:\\/\\/maps\\/99688\\/661?location=Pfx9WBNhZB)*。 |\n\n> 血液灵药能立即恢复吸血鬼能力的血液点数。",
+        "subcategoryExternalId": "cP9A7SHlV8",
+        "imageId": 1562658,
+        "imagePath": "/game_map_pin/1562658/{size}.webp",
+        "videoId": 1562659,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/1b6e3619bf54246aeeb96dddd048a4512c56a1ba"
+      }
+    },
+    {
+      "coordinates": [
+        1.6064032734621208,
+        18.056284336301303
+      ],
+      "properties": {
+        "externalId": "e2Cy9TBS3E",
+        "title": "犯罪现场通知",
+        "description": "| 位置 |\n|--------|\n| 在前门发现。 |\n\n> 在游牧者避难所外发现：\n>\n> 一段被撕下的警戒胶带和一张印有西雅图警察局标志的通知。\n>\n> 通知内容为：\n>\n> \"寻找目击者 如果您看到或听到任何异常情况，请致电警察局 555-2482 联系穆尔顿警长。\"",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1562664,
+        "imagePath": "/game_map_pin/1562664/{size}.webp",
+        "videoId": 1562665,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/07f545e96fc62df226d3ab15bb16171ec7029d24"
+      }
+    },
+    {
+      "coordinates": [
+        1.4656184792819147,
+        19.361002821933283
+      ],
+      "properties": {
+        "externalId": "jaymvUB2lV",
+        "title": "电脑",
+        "description": "",
+        "subcategoryExternalId": "1UZBN2XGK9",
+        "imageId": 1562669,
+        "imagePath": "/game_map_pin/1562669/{size}.webp",
+        "videoId": 1562670,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/61593c03d569ba0ef1ac2dbb1b96b47c58c8a742"
+      }
+    },
+    {
+      "coordinates": [
+        0.9004021355324596,
+        19.703445870516106
+      ],
+      "properties": {
+        "externalId": "phE1BDw7VD",
+        "title": "留声机",
+        "description": "",
+        "subcategoryExternalId": "1UZBN2XGK9",
+        "imageId": 1562672,
+        "imagePath": "/game_map_pin/1562672/{size}.webp",
+        "videoId": 1562673,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/717daf4de6eee7445994fdd61f37c851d44cf83f"
+      }
+    },
+    {
+      "coordinates": [
+        -22.38555471095617,
+        18.44598501909806
+      ],
+      "properties": {
+        "externalId": "FCRuz3miXY",
+        "title": "班尼的便条",
+        "description": "| 地点 |\n|--------|\n| 与惠勒警官对话后获得。 |\n\n> 马尔登队长一贯潦草的字迹：\n>\n> \"法比恩 - 下去马科姆。弗莱彻有个问题。处理一下。\"\n>\n>> **注意：** 硬证据只能在法比恩的记忆梦境中获得。",
+        "subcategoryExternalId": "XN3ZXEBE3T",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -1.8461104671981445,
+        -34.05396985419166
+      ],
+      "properties": {
+        "externalId": "Sz6jWOppeH",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于*冰川酒店*南部。|\n\n> 收集菲尔的血印可以为你增加生命值并获得100经验值。\n>\n>> **注意：**激活增强感官会高亮显示血印，将准星指向血印位置时，距离越近准星会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1562732,
+        "imagePath": "/game_map_pin/1562732/{size}.webp",
+        "videoId": 1562733,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/af2dedf3e05acc8224c0d5ffd88dcd81b17012fe"
+      }
+    },
+    {
+      "coordinates": [
+        -3.9894061234439278,
+        -22.415735530290604
+      ],
+      "properties": {
+        "externalId": "ZRxxfl9Myg",
+        "title": "西雅图太阳 #19471",
+        "description": "| 位置 |\n|--------|\n| 在*冰川酒店*外发现。 |",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1562796,
+        "imagePath": "/game_map_pin/1562796/{size}.webp",
+        "videoId": 1562797,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/378864af53d43a58824adbc2a38eed99122f3319"
+      }
+    },
+    {
+      "coordinates": [
+        -5.545772542589418,
+        -32.59345090640427
+      ],
+      "properties": {
+        "externalId": "naGIPplCE1",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于屋顶，*[冰川酒店](wemod:\\/\\/maps\\/99688\\/661?location=cuI9fOyPvI)*南侧。 |\n\n> 药力灵药可暂时增加攻击伤害。",
+        "subcategoryExternalId": "cP9A7SHlV8",
+        "imageId": 1562798,
+        "imagePath": "/game_map_pin/1562798/{size}.webp",
+        "videoId": 1562799,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/667f6045f9a793825515f84059a4b321a12a9b71"
+      }
+    },
+    {
+      "coordinates": [
+        4.884217835330986,
+        -16.39923349068502
+      ],
+      "properties": {
+        "externalId": "N779rUuiBt",
+        "title": "",
+        "description": "| 位置 |\n|-----------|\n| 在储藏室内找到，位于 *[Makom Bar](wemod:\\/\\/maps\\/99688\\/661?location=QatrT4ARYn)*。 |\n\n> **注意：** 收集所有圣詹姆斯十字架将解锁\"钉十字架\"成就。",
+        "subcategoryExternalId": "XeMmCvC1oP",
+        "imageId": 1562800,
+        "imagePath": "/game_map_pin/1562800/{size}.webp",
+        "videoId": 1562801,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/95cfdfb945d4e2e6f2dee9d93477cb4fd3c59a4f"
+      }
+    },
+    {
+      "coordinates": [
+        -15.860291400095747,
+        -21.12563869826056
+      ],
+      "properties": {
+        "externalId": "ieqSzSR7Cx",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在小巷中发现，位于*[汽车修理店](wemod:\\/\\/maps\\/99688\\/661?location=cFXMJ8CPdN)*南侧。 |\n\n> 收集菲尔的血印会为你增加生命值和100经验值。\n>\n>> **注意：** 激活敏锐感知会突出显示血印，将准星对准血印位置时，随着距离的接近，准星会变成圆圈形状。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1562831,
+        "imagePath": "/game_map_pin/1562831/{size}.webp",
+        "videoId": 1562832,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/ed20c3415eae5ecad0c998d3caacfcc7ed3de69f"
+      }
+    },
+    {
+      "coordinates": [
+        -22.32786433689799,
+        -15.763762429552585
+      ],
+      "properties": {
+        "externalId": "y0kWN4rFEu",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 就在*汽车修理店*旁边。 |\n\n> 收集Phyre的血印会为你提供增加的生命值和100经验值。\n>\n>> **注意：** 激活强化感知会突出显示血印，将准星指向血印位置时，越接近准星就会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1562835,
+        "imagePath": "/game_map_pin/1562835/{size}.webp",
+        "videoId": 1562836,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/8948fa5eacfae01da9e5a41b63d668f52183c4b1"
+      }
+    },
+    {
+      "coordinates": [
+        -20.88904259633938,
+        -20.015217659414247
+      ],
+      "properties": {
+        "externalId": "4eDtWHq0xg",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 就在*汽车修理店*正前方。 |\n\n> 收集菲尔的血印会为你提供额外生命值和100经验值。\n>\n>> **注意：** 激活强化感官会突出显示血印，将准星指向血印位置时，越接近准星就会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1562841,
+        "imagePath": "/game_map_pin/1562841/{size}.webp",
+        "videoId": 1562842,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/eedeab4df0694032aa78b0ed2ef497369493f1da"
+      }
+    },
+    {
+      "coordinates": [
+        -18.369136127137722,
+        -16.248374575751896
+      ],
+      "properties": {
+        "externalId": "2kRm0MN0od",
+        "title": "",
+        "description": "| 地点 |\n|--------|\n| 在桌子上发现，位于*[汽车修理厂](wemod:\\/\\/maps\\/99688\\/661?location=cFXMJ8CPdN)*内。 |\n\n> 在汽车修理店发现：\n> \n> 在汽车修理厂的牌桌上发现的一张纸条，写在修理厂内部沟通用的同类订单上。\n> 纸条的第一部分用铅笔以稳定的笔迹写成：\n>\n> \"我，阿德里安·马丁，是个撒谎的混蛋骗子，我欠本尼·马尔顿234美元。必须在他来拿我其他手指之前还清。\"\n>\n> 签名\"-AM\"的笔迹明显不稳，很可能是同一作者用非惯用手写的。",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1562850,
+        "imagePath": "/game_map_pin/1562850/{size}.webp",
+        "videoId": 1562851,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/95aa96dec8f88ee98c5f48ae95e31bf201924162"
+      }
+    },
+    {
+      "coordinates": [
+        -18.31718528617003,
+        -15.434325212634931
+      ],
+      "properties": {
+        "externalId": "N6UqFjYBU9",
+        "title": "修复药剂",
+        "description": "| 位置 |\n|--------|\n| 位于*汽车维修店内部，在右侧*。 |\n\n> 修复药剂能立即恢复生命值。",
+        "subcategoryExternalId": "cP9A7SHlV8",
+        "imageId": 1562861,
+        "imagePath": "/game_map_pin/1562861/{size}.webp",
+        "videoId": 1562862,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/1becb182dbd0e7879e6691649c2e06fa43d47a8a"
+      }
+    },
+    {
+      "coordinates": [
+        -18.33020337404841,
+        -14.959219928597875
+      ],
+      "properties": {
+        "externalId": "S0qSHcFiKo",
+        "title": "鲜血药剂",
+        "description": "| 位置 |\n|--------|\n| 在轮子之间的架子上找到，就在*修复药剂*旁边，位于*汽车修理厂*内。 |\n\n> 鲜血药剂能立即恢复吸血鬼能力的血液点数。",
+        "subcategoryExternalId": "cP9A7SHlV8",
+        "imageId": 1562870,
+        "imagePath": "/game_map_pin/1562870/{size}.webp",
+        "videoId": 1562871,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/f359a1fe711f7a84623ecc04fe076f08dd60489d"
+      }
+    },
+    {
+      "coordinates": [
+        -20.9110304011337,
+        -15.978935821616943
+      ],
+      "properties": {
+        "externalId": "MqdZeS26nq",
+        "title": "摩托车保养说明",
+        "description": "| 位置 |\n|--------|\n| 在黄色工具箱旁边找到，位于*汽车修理厂*内。 |\n\n> 在汽车修理厂发现：\n>\n> 在汽车修理厂一辆摩托车上发现的纸条，写在工单底部。字迹用力，几乎要把纸张撕破。\n>\n> \"她只用高级汽油。\n> 记住她是经典车型 - 要像对待女士一样对待她。\n> 别他妈搞砸了。\n> -Silky\"",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1562878,
+        "imagePath": "/game_map_pin/1562878/{size}.webp",
+        "videoId": 1562879,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/4070793e1cdd65f0ce1978bac09631613c8a8851"
+      }
+    },
+    {
+      "coordinates": [
+        -17.680450767960508,
+        -14.604880897270249
+      ],
+      "properties": {
+        "externalId": "PXDi5Hw8qF",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在钉板上找到，位于*汽车修理厂*内。 |\n\n> **注意：** 收集所有圣雅各十字架将解锁\"十字受难\"成就。",
+        "subcategoryExternalId": "XeMmCvC1oP",
+        "imageId": 1562892,
+        "imagePath": "/game_map_pin/1562892/{size}.webp",
+        "videoId": 1562893,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/704cad67f04aa549ae4d3c3b8aeeed469b79deb9"
+      }
+    },
+    {
+      "coordinates": [
+        -18.023687706674366,
+        -14.564725878300962
+      ],
+      "properties": {
+        "externalId": "oTdDpjdr1J",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在房间内的桌子上找到，位于*汽车修理店*。 |\n\n> 力量药剂可以暂时增加攻击伤害。",
+        "subcategoryExternalId": "cP9A7SHlV8",
+        "imageId": 1562898,
+        "imagePath": "/game_map_pin/1562898/{size}.webp",
+        "videoId": 1562899,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/ffb0e0eade54e767dc5876892d72b060b2753f41"
+      }
+    },
+    {
+      "coordinates": [
+        -17.245689997368515,
+        -2.7756445109369565
+      ],
+      "properties": {
+        "externalId": "B2SYcbWJJa",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在书架上发现，放置在靠近消防出口的开放书籍中，位于*Wake the Dead*内部。 |\n\n> **注意：** 收集所有圣詹姆斯十字架将解锁\"十字受难\"成就。",
+        "subcategoryExternalId": "XeMmCvC1oP",
+        "imageId": 1562908,
+        "imagePath": "/game_map_pin/1562908/{size}.webp",
+        "videoId": 1562909,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/f3f83c3463ae578f244242ec1f4f85edf7541d47"
+      }
+    },
+    {
+      "coordinates": [
+        -40.494076130168054,
+        19.35755892268469
+      ],
+      "properties": {
+        "externalId": "JhJEopvR1v",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在*[荷兰人号](wemod:\\/\\/maps\\/99688\\/661?location=J6LVMYEgAL)*内部洗手间的镜子中找到。 |\n\n> **注意：** 收集所有圣雅各十字架将解锁\"钉十字架\"成就。",
+        "subcategoryExternalId": "XeMmCvC1oP",
+        "imageId": 1562910,
+        "imagePath": "/game_map_pin/1562910/{size}.webp",
+        "videoId": 1562911,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/5e51c32d399d6e27f3cac06dbbe8904eb99b85ac"
+      }
+    },
+    {
+      "coordinates": [
+        -33.43054979088686,
+        -6.651634432753312
+      ],
+      "properties": {
+        "externalId": "45i1tYzb9V",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在房间外面撕破的海报上发现，位于 *Aurora 当铺* 内部。 |\n\n> **注意：** 收集所有圣詹姆斯十字架将解锁\"钉十字架\"成就。",
+        "subcategoryExternalId": "XeMmCvC1oP",
+        "imageId": 1562914,
+        "imagePath": "/game_map_pin/1562914/{size}.webp",
+        "videoId": 1562915,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/26820addf43e6a11dc97f9febe9626f3ca7be94f"
+      }
+    },
+    {
+      "coordinates": [
+        -36.64207769352768,
+        10.018961986137668
+      ],
+      "properties": {
+        "externalId": "sJh07CMFmY",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在容器上发现。 |\n\n> 收集菲尔的血印会为你增加生命值和100经验值。\n>\n>> **注意：** 激活增强感知会高亮显示血印，将准星指向血印位置时，距离越近准星会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1562931,
+        "imagePath": "/game_map_pin/1562931/{size}.webp",
+        "videoId": 1562932,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/91ad306bc46ca08082cb6584198cd6d0fbef6ac8"
+      }
+    },
+    {
+      "coordinates": [
+        -32.921393921442814,
+        13.770916931657297
+      ],
+      "properties": {
+        "externalId": "X04rDn0lMC",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在开启的容器上找到。 |\n\n> 收集菲尔的血印会为你增加生命值和100经验值。\n>\n>> **注意：** 激活敏锐感知会突出显示血印，将准星指向血印位置时，越接近准星就会变成圆圈。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1562935,
+        "imagePath": "/game_map_pin/1562935/{size}.webp",
+        "videoId": 1562936,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/6e9f9124600828f5f57cd0dc9d979d3f8977bd8c"
+      }
+    },
+    {
+      "coordinates": [
+        -29.879078084098353,
+        10.342897957095033
+      ],
+      "properties": {
+        "externalId": "xjkZnpUQp5",
+        "title": "艺术展传单",
+        "description": "| 位置 |\n|--------|\n| 在薄血族据点内发现。 |\n\n> 在薄血族据点中发现：\n>\n> 一张中庭艺术展的传单。它承诺一个\"在崇高中狂欢的难忘夜晚\"。\n>\n> 新鲜的尸体和血迹遮挡了大部分文字，所以不知道活动应该在什么时候举行。",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1562949,
+        "imagePath": "/game_map_pin/1562949/{size}.webp",
+        "videoId": 1562950,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/4b12ce795c7f98fd8fc52745c38ba5b71f2a524c"
+      }
+    },
+    {
+      "coordinates": [
+        -28.84609562855593,
+        9.567322799817148
+      ],
+      "properties": {
+        "externalId": "ViN60R2GHm",
+        "title": "坚韧药剂",
+        "description": "| 位置 |\n|--------|\n| 在瘦血族据点内的便携式厕所里找到。 |\n\n> 坚韧药剂可以暂时减少游牧者受到攻击时受到的伤害。",
+        "subcategoryExternalId": "cP9A7SHlV8",
+        "imageId": 1562953,
+        "imagePath": "/game_map_pin/1562953/{size}.webp",
+        "videoId": 1562954,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/e519305b29a58cc06081def786e2bb4d483ed82d"
+      }
+    },
+    {
+      "coordinates": [
+        -28.933397083372654,
+        10.98112590333831
+      ],
+      "properties": {
+        "externalId": "ujcQZsaw0B",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在薄血族据点内的墙上发现。 |\n\n> 收集菲尔的血印会为你提供增加的生命值和100经验值。\n>\n>> **注意：** 激活强化感知会高亮显示血印，将准星指向血印位置时，越靠近准星就会变成圆圈。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1562957,
+        "imagePath": "/game_map_pin/1562957/{size}.webp",
+        "videoId": 1562958,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/aee034c2626bb14d4d93d80eedf8bca3e044997b"
+      }
+    },
+    {
+      "coordinates": [
+        -28.274461672155894,
+        11.795671567830155
+      ],
+      "properties": {
+        "externalId": "HYnRckFfO2",
+        "title": "未完成的明信片",
+        "description": "| 位置 |\n|--------|\n| 在床架旁边发现，位于薄血族据点内。 |\n\n> 在薄血族据点中发现：\n>\n> 一张描绘城市天际线的明信片，上面写着\"来自纽约市的问候\"。\n>\n> 有人开始写留言但没有写完：\n>\n> \"嗨，妈妈，\n> 抱歉没有告诉你。手机弄丢了。\n> 我开始实习了！这里的一切都很棒！每个人都超级友好，\n> 我很长时间都不能回家看望了。现在工作真的很忙，而且\"",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1562963,
+        "imagePath": "/game_map_pin/1562963/{size}.webp",
+        "videoId": 1562964,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/3b79bc90a161177e9052820ebf1a91c8fe5662c2"
+      }
+    },
+    {
+      "coordinates": [
+        -29.19013873480455,
+        11.885290947084073
+      ],
+      "properties": {
+        "externalId": "pAghAMt1Xs",
+        "title": "给胜美的信",
+        "description": "| 位置 |\n|--------| \n| 在容器下方发现，位于稀血据点内部。|\n\n> 在稀血据点中发现：\n>\n> 一封用圆珠笔潦草写成的信件。\n>\n> \"胜美，\n> 抱歉把这事推给你，但我又有一个迷途羔羊要送到你那里。这孩子不能留在这里，她也没有其他安全的地方可去。\n> 我会送一些补给品过去作为补偿。\n> 提前谢谢你。我欠你一个人情。\n> 奈因斯。\"\n>\n> 页面边缘还有另一个人写的简短留言：\n>\n> \"留意那个孩子，找到她时告诉我。我会欠你和你的团队人情，保证 -K\"",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1562965,
+        "imagePath": "/game_map_pin/1562965/{size}.webp",
+        "videoId": 1562966,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/0d12643056d0276aa6916344e31df35392b04b9d"
+      }
+    },
+    {
+      "coordinates": [
+        -1.8088125198560192,
+        7.310994400994943
+      ],
+      "properties": {
+        "externalId": "diQlQePEWF",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于*圣史蒂芬斯*东北方。 |\n\n> 找到所有30个无政府主义者标记将解锁\"清理街道\"成就。\n>\n>> **注意：**激活强化感官将高亮显示标记，将准星指向标记位置时，准星会随着距离接近而变成圆圈。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1562806,
+        "imagePath": "/game_map_pin/1562806/{size}.webp",
+        "videoId": 1562807,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/f52364b2885d8a4e806ad82b8b776c2d5d7af1ba"
+      }
+    },
+    {
+      "coordinates": [
+        2.3443697854025913,
+        -18.81634565100211
+      ],
+      "properties": {
+        "externalId": "jUqwp6BV3k",
+        "title": "清理城镇",
+        "description": "| 前置条件 | 奖励 |\n|--------|--------|\n| *寒冷面相之星* | 2,000 XP |",
+        "subcategoryExternalId": "Yt6vyQNLxM",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        55.86895158154621,
+        -18.426389934066165
+      ],
+      "properties": {
+        "externalId": "dO8o6pIy0R",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于建筑物屋顶，建筑物位于*中庭*东侧。 |\n\n> 找到所有30个无政府主义者标记将解锁\"清理街道\"成就。\n>\n>> **注意：**激活强化感知会突出显示标记，将准星指向标记位置时，距离越近准星会变成圆圈。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563337,
+        "imagePath": "/game_map_pin/1563337/{size}.webp",
+        "videoId": 1563338,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/3b824f6bc362179cd96b61825b78ac91ddf19056"
+      }
+    },
+    {
+      "coordinates": [
+        54.71980990825119,
+        -3.9023584631432158
+      ],
+      "properties": {
+        "externalId": "N5ye0HbGLL",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于*织工塔*南侧。|\n\n> 找到全部30个无政府主义者标记将解锁\"清理街道\"成就。\n>\n>> **注意：**激活增强感知将高亮显示标记，将准星指向标记位置时，越接近标记准星会变成圆形。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563339,
+        "imagePath": "/game_map_pin/1563339/{size}.webp",
+        "videoId": 1563340,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/f8df095ad67211ae05f0cb16cc3d1912512584d4"
+      }
+    },
+    {
+      "coordinates": [
+        45.82695973826958,
+        -15.70057285307881
+      ],
+      "properties": {
+        "externalId": "MTq6YsJSCz",
+        "title": "空酒瓶",
+        "description": "| 位置 |\n|--------|\n| 位于屋顶酒吧，坐落在*中庭*。 |\n\n> 在中庭夜总会外发现：\n>\n> 一些酒瓶，全部都是空的。\n>\n> 一瓶2017年勃艮第夏布利酒。一瓶2009年卢瓦尔河谷年份红酒。一瓶2016年波尔多巴萨克酒。",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1563342,
+        "imagePath": "/game_map_pin/1563342/{size}.webp",
+        "videoId": 1563343,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/43e4aa71d45fed3d7c76370e016fc3726809261d"
+      }
+    },
+    {
+      "coordinates": [
+        45.085396058275734,
+        -14.714127624860737
+      ],
+      "properties": {
+        "externalId": "DuNTX6Vg2F",
+        "title": "诗歌笔记本",
+        "description": "| 位置 |\n|--------|\n| 在*[中庭](wemod:\\/\\/maps\\/99688\\/661?location=8f6fVWt11F)*的屋顶酒吧桌子上发现。 |\n\n> 在中庭夜总会外发现：\n>\n> 笔记本中的所有诗歌似乎都围绕着同一个主题。笔迹娟秀圆润，i字母上都用心形符号做标点。\n>\n> 从前几页摘取的简短例子：\n>\n> \"贝拉，我的贝拉，我午夜的拥抱，\n> 你的唇尝起来像黄昏，你的眼睛如太空般深邃。\n> 你在阴影中优雅地舞蹈，如此神圣，\n> 黑暗中的生灵，我希望你属于我。\"",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1563344,
+        "imagePath": "/game_map_pin/1563344/{size}.webp",
+        "videoId": 1563345,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/a9e2a20a79548d3ab25a9fa0b2ed9d0cb078fa15"
+      }
+    },
+    {
+      "coordinates": [
+        44.449097490779195,
+        -14.688244964209602
+      ],
+      "properties": {
+        "externalId": "EFbEDZknvg",
+        "title": "香氛睡袋",
+        "description": "| 位置 |\n|--------|\n| 位于屋顶酒吧，坐落在*中庭*。 |\n\n> 在中庭夜总会外发现：\n>\n> 一个睡袋。散发着浓烈的昂贵香水味；大花茉莉、藏红花、苦杏仁和龙涎香，还夹杂着凡人汗水的气息。",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1563347,
+        "imagePath": "/game_map_pin/1563347/{size}.webp",
+        "videoId": 1563348,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/9677cc625ea191259f193d2d2f529513294e6624"
+      }
+    },
+    {
+      "coordinates": [
+        44.09222813078091,
+        -14.716201660396564
+      ],
+      "properties": {
+        "externalId": "VkMyfwwuaS",
+        "title": "爸爸的信",
+        "description": "| 地点 |\n|--------|\n| 在位于*中庭*的屋顶酒吧，*香水睡袋*旁边发现。 |\n\n> 在中庭夜总会外发现：\n>\n> 一封丢弃的信件，在地上发现。边缘粗糙地撕裂，上面有一个脏脚印。",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1563350,
+        "imagePath": "/game_map_pin/1563350/{size}.webp",
+        "videoId": 1563351,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/31fdd8f200437f0dd2a30a450c3c2fbb2cc4b38f"
+      }
+    },
+    {
+      "coordinates": [
+        27.200929411689316,
+        -18.81035302540674
+      ],
+      "properties": {
+        "externalId": "VCwg9zJ0cy",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于*中庭*的西区。|\n\n> 找到所有30个无政府主义者标记将解锁\"清理街道\"成就。\n>\n>> **注意：**激活强化感官将突出显示标记，将准星指向标记位置时，越接近标记，准星就会变成圆圈。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563355,
+        "imagePath": "/game_map_pin/1563355/{size}.webp",
+        "videoId": 1563356,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/2063dfa9fdfbda85ab97cc2f4f144369562ae1c3"
+      }
+    },
+    {
+      "coordinates": [
+        29.508400278339593,
+        -10.542062563331854
+      ],
+      "properties": {
+        "externalId": "VesKvcGrnI",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于Singhstrom广告牌正下方，*中庭*西北方向。 |\n\n> 找到全部30个无政府主义者标记将解锁\"清理街道\"成就。\n>\n>> **注意：** 激活强化感知会高亮显示标记，将准星指向标记位置时，越靠近准星就会变成圆圈形状。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563357,
+        "imagePath": "/game_map_pin/1563357/{size}.webp",
+        "videoId": 1563358,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/c691d94c9355adbd7840960b444459931dc7d4fa"
+      }
+    },
+    {
+      "coordinates": [
+        23.278147319962926,
+        4.933198846848256
+      ],
+      "properties": {
+        "externalId": "a7ndjOtcug",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在 *圣斯蒂芬教堂* 西边找到。 |\n\n> 找到全部30个无政府主义者标记将解锁\"清理街道\"成就。\n>\n>> **注意：** 激活强化感官会高亮显示标记，将准星对准标记位置时，靠近时准星会变成圆圈。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563359,
+        "imagePath": "/game_map_pin/1563359/{size}.webp",
+        "videoId": 1563360,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/13bfac02bafd521252121d62f0f483ce1b88fc26"
+      }
+    },
+    {
+      "coordinates": [
+        5.485429215817135,
+        -16.43180366064348
+      ],
+      "properties": {
+        "externalId": "9BFhtMN65F",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在小巷中发现，位于*Makom酒吧*东北方。|\n\n> 找到所有30个无政府主义者标记将解锁\"清理街道\"成就。\n>\n>> **注意：**激活强化感官将突出显示标记，将准星指向标记位置时，随着距离越来越近，准星会变成圆圈。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563361,
+        "imagePath": "/game_map_pin/1563361/{size}.webp",
+        "videoId": 1563362,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/8720e46b9ed011ee239d1c9aedb3e2f609bd4bc3"
+      }
+    },
+    {
+      "coordinates": [
+        12.329210738663079,
+        -24.618531534324077
+      ],
+      "properties": {
+        "externalId": "kRdgOrwoXc",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于通风口附近的屋顶，*冰川酒店*以东。 |\n\n> 找到所有30个无政府主义者标记将解锁\"清理街道\"成就。\n>\n>> **注意：** 激活增强感官会突出显示标记，将准星对准标记位置时，越接近标记准星会变成圆形。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563363,
+        "imagePath": "/game_map_pin/1563363/{size}.webp",
+        "videoId": 1563364,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/fbc85b14cdd7e14602e2b86c42eeea1b05258def"
+      }
+    },
+    {
+      "coordinates": [
+        -14.829520330576855,
+        -35.713624830223964
+      ],
+      "properties": {
+        "externalId": "p3jmXM4Vdt",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于屋顶，坐落在*墙洞*的东南方。|\n\n> 找到全部30个无政府主义标记将解锁\"清理街道\"成就。\n>\n>> **注意：**激活强化感知会高亮显示标记，将准星指向标记位置时，越接近标记，准星会变成圆圈形状。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563367,
+        "imagePath": "/game_map_pin/1563367/{size}.webp",
+        "videoId": 1563368,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/3328704241cd4a8158944ba2b7ada006b9f89f85"
+      }
+    },
+    {
+      "coordinates": [
+        -30.158086660263308,
+        -33.11665711923298
+      ],
+      "properties": {
+        "externalId": "JcObBD77S2",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于 *[墙洞](wemod:\\/\\/maps\\/99688\\/661?location=26V2IF4Aoi)* 的屋顶。 |\n\n> 找到所有30个无政府主义者标记将解锁\"清理街道\"成就。\n>\n>> **注意：**激活增强感官会突出显示标记，将准星指向标记位置时，越接近标记，准星就会变成圆圈。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563369,
+        "imagePath": "/game_map_pin/1563369/{size}.webp",
+        "videoId": 1563370,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/60e1833e5933875b896aafa7e50aa589544ef430"
+      }
+    },
+    {
+      "coordinates": [
+        -32.63602144880443,
+        -24.372308421063224
+      ],
+      "properties": {
+        "externalId": "XD8RU700Ka",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于 *[墙洞](wemod:\\/\\/maps\\/99688\\/661?location=26V2IF4Aoi)* 西侧。 |\n\n> 找到所有30个无政府主义者标记将解锁\"清理街道\"成就。\n>\n>> **注意：** 激活强化感知会高亮显示标记，将准星指向标记位置时，准星会变成圆圈，距离越近变化越明显。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563378,
+        "imagePath": "/game_map_pin/1563378/{size}.webp",
+        "videoId": 1563379,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/0788429da0a51690f94366f5d9f09dc2fe0ed850"
+      }
+    },
+    {
+      "coordinates": [
+        -26.05174547913981,
+        -15.565493597239467
+      ],
+      "properties": {
+        "externalId": "3kY1Vjuuiq",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在屋顶找到，位于*汽车修理厂*西侧。 |\n\n> 找到全部30个无政府主义标签标记将解锁\"清理街道\"成就。\n>\n>> **注意：**激活增强感官会高亮显示标记，将准星指向标记位置时，当你越来越接近时准星会变成圆圈。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563380,
+        "imagePath": "/game_map_pin/1563380/{size}.webp",
+        "videoId": 1563381,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/73e5d1f9f9a83653d48aacc5c23839010e9a148f"
+      }
+    },
+    {
+      "coordinates": [
+        -17.844146562013606,
+        -9.706271095529885
+      ],
+      "properties": {
+        "externalId": "aeR68ZOot3",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在阳台找到，位于*汽车修理厂*北侧和*唤醒死者*南侧。 |\n\n> 找到全部30个无政府主义者标记将解锁\"清理街道\"成就。\n>\n>> **注意：** 激活强化感官会突出显示标记，将准星指向标记位置时，越接近准星就会变成圆圈。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563382,
+        "imagePath": "/game_map_pin/1563382/{size}.webp",
+        "videoId": 1563383,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/27b28c4b5ef42881f282b1aa6b0067a21db66e11"
+      }
+    },
+    {
+      "coordinates": [
+        -24.822308724984282,
+        -4.371016801630006
+      ],
+      "properties": {
+        "externalId": "8kOwAGDIO5",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于建筑物窗户之间，位置在*Aurora Pawn*的东北方。 |\n\n> 找到所有30个无政府主义者标记将解锁\"清理街道\"成就。\n>\n>> **注意：**激活强化感官将高亮显示标记，将准星指向标记位置时，越接近标记，准星就会变成圆形。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563384,
+        "imagePath": "/game_map_pin/1563384/{size}.webp",
+        "videoId": 1563385,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/931899ba320b389d61f959e58c516610f02e2f6a"
+      }
+    },
+    {
+      "coordinates": [
+        -42.25019286146073,
+        -7.064443120167155
+      ],
+      "properties": {
+        "externalId": "J0mqFYXbUw",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在屋顶找到，位于 *Aurora Pawn* 的西侧。 |\n\n> 找到全部30个无政府主义标记将解锁\"清理街道\"成就。\n>\n>> **注意：** 激活强化感官会高亮显示标记，将准星指向标记位置时，越接近标记，准星就会变成圆形。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563386,
+        "imagePath": "/game_map_pin/1563386/{size}.webp",
+        "videoId": 1563387,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/eeca19a0d8fd4bf2ecfefbe1ce6c03e408e85f72"
+      }
+    },
+    {
+      "coordinates": [
+        -46.875677549724884,
+        -25.36149018501449
+      ],
+      "properties": {
+        "externalId": "M8ydcAXjKQ",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于屋顶，在*Aurora Pawn*南侧。 |\n\n> 找到所有30个无政府主义者标签将解锁\"清理街道\"成就。\n>\n>> **注意：** 激活超感知觉会突出显示标记，将准星对准标记位置时，越接近准星就会变成圆形。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563388,
+        "imagePath": "/game_map_pin/1563388/{size}.webp",
+        "videoId": 1563389,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/be58d42723020d9047327ed65345e5c2a91aab06"
+      }
+    },
+    {
+      "coordinates": [
+        -59.83424078533203,
+        -12.891301700285112
+      ],
+      "properties": {
+        "externalId": "CqtP7ekD92",
+        "title": "",
+        "description": "| 位置 |\n|-----------|\n| 在仓库西侧的屋顶上找到。 |\n\n> 找到所有30个无政府主义者标记将解锁\"清理街道\"成就。\n>\n>> **注意：**激活敏锐感官会高亮显示标记，将准星对准标记位置时，距离越近准星就会变成圆形。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563390,
+        "imagePath": "/game_map_pin/1563390/{size}.webp",
+        "videoId": 1563391,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/e65021e42ee7b76f54a8fa5d0ce05e6461a4bcbb"
+      }
+    },
+    {
+      "coordinates": [
+        -50.72195524484516,
+        -2.578867152904664
+      ],
+      "properties": {
+        "externalId": "mSEYlBedfR",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在 *极光典当行* 西北方向发现。 |\n\n> 找到所有30个无政府主义者标记将解锁\"清理街道\"成就。\n>\n>> **注意：** 激活强化感官将突出显示标记，将准星指向标记位置时，越接近标记，准星会变成圆圈。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563395,
+        "imagePath": "/game_map_pin/1563395/{size}.webp",
+        "videoId": 1563396,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/78fef2718d71d75c1ed63148f323dd62aac9be6e"
+      }
+    },
+    {
+      "coordinates": [
+        -52.861216193005916,
+        17.976322650975163
+      ],
+      "properties": {
+        "externalId": "e3DkgoOuYx",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在 *[荷兰人](wemod:\\/\\/maps\\/99688\\/661?location=J6LVMYEgAL)* 西南方发现。 |\n\n> 找到全部30个无政府主义标记将解锁\"清理街道\"成就。\n>\n>> **注意：** 激活强化感官会高亮显示标记，将准星指向标记位置时，准星会变成圆圈，越接近标记圆圈越明显。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563397,
+        "imagePath": "/game_map_pin/1563397/{size}.webp",
+        "videoId": 1563398,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/949c9070baa034e60651b871df9772776886e587"
+      }
+    },
+    {
+      "coordinates": [
+        -37.20623501409332,
+        14.996285379136012
+      ],
+      "properties": {
+        "externalId": "hXx1StSBRs",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在建筑物墙上发现，位于*荷兰人*的东南方。 |\n\n> 找到所有30个无政府主义者标记将解锁\"清理街道\"成就。\n>\n>> **注意：** 激活强化感官将高亮显示标记，将准星指向标记位置时，越靠近准星会变成圆圈。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563400,
+        "imagePath": "/game_map_pin/1563400/{size}.webp",
+        "videoId": 1563401,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/bb02346a40ee73e2a8fb4febffe44eb4447a7231"
+      }
+    },
+    {
+      "coordinates": [
+        -39.58251767231067,
+        5.972613057219988
+      ],
+      "properties": {
+        "externalId": "K53yqas2aq",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于薄血据点南侧。 |\n\n> 找到全部30个无政府主义者标记将解锁\"净化街道\"成就。\n>\n>> **注意：** 激活强化感官会高亮显示标记，将准星指向标记位置时，准星会随着距离的接近变成圆形。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563405,
+        "imagePath": "/game_map_pin/1563405/{size}.webp",
+        "videoId": 1563406,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/b9c10de2abc3114e4449554dbb54e64e3ca84c72"
+      }
+    },
+    {
+      "coordinates": [
+        -20.006528947503085,
+        26.58672766472887
+      ],
+      "properties": {
+        "externalId": "AA4BvELKx1",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于标识下方，在*[警察局](wemod:\\/\\/maps\\/99688\\/661?location=jENYTmgvNA)*北侧。|\n\n> 找到所有30个无政府主义标签涂鸦将解锁\"清理街道\"成就。\n>\n>> **注意：** 激活强化感官将会突出显示标记，将准星指向标记位置时，准星会变成圆圈，越靠近变化越明显。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563407,
+        "imagePath": "/game_map_pin/1563407/{size}.webp",
+        "videoId": 1563408,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/5091e1c5389eae751bf38488f8acf44a2c710124"
+      }
+    },
+    {
+      "coordinates": [
+        -28.7608775731249,
+        40.06083957034579
+      ],
+      "properties": {
+        "externalId": "TRLGIUQyCV",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在*[警察局](wemod:\\/\\/maps\\/99688\\/661?location=jENYTmgvNA)*西北区块发现。 |\n\n> 找到全部30个无政府主义标签标记将解锁\"清理街道\"成就。\n>\n>> **注意：**激活强化感知会高亮显示标记，将准星指向标记位置时，距离越近准星会变成圆形。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563409,
+        "imagePath": "/game_map_pin/1563409/{size}.webp",
+        "videoId": 1563410,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/093d7b7c99bec470c9bf34203bdd0ad52e488331"
+      }
+    },
+    {
+      "coordinates": [
+        -9.45415151074181,
+        32.99589405551562
+      ],
+      "properties": {
+        "externalId": "wp1TUVxCQe",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在 *避风港* 西北方向找到。|\n\n> 找到所有30个无政府主义者标记将解锁\"清理街道\"成就。\n>\n>> **注意：** 激活强化感官会突出显示标记，将准星指向标记位置时，准星会变成圆圈，越接近越明显。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563413,
+        "imagePath": "/game_map_pin/1563413/{size}.webp",
+        "videoId": 1563414,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/759faf3e82344a766c3c7e2405fb39f123c46ded"
+      }
+    },
+    {
+      "coordinates": [
+        -6.100493539374611,
+        22.589174515027324
+      ],
+      "properties": {
+        "externalId": "TswAlj77QM",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于烟囱上，在*避风港*西侧。 |\n\n> 找到全部30个无政府主义者标记将解锁\"清理街道\"成就。\n>\n>> **注意：** 激活强化感官会高亮显示标记，将准星指向标记位置时，越靠近准星会变成圆圈形状。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563416,
+        "imagePath": "/game_map_pin/1563416/{size}.webp",
+        "videoId": 1563417,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/297419da81c832067940f62de348281c1a61eb53"
+      }
+    },
+    {
+      "coordinates": [
+        16.423930764267368,
+        21.659188977207762
+      ],
+      "properties": {
+        "externalId": "KjkI7wx8qa",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在 *避风港* 东面发现。|\n\n> 找到所有30个无政府标记将解锁\"清理街道\"成就。\n>\n>> **注意：** 激活强化感官会突出显示标记，将准星指向标记位置时，越靠近标记，准星会变成圆圈。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563419,
+        "imagePath": "/game_map_pin/1563419/{size}.webp",
+        "videoId": 1563420,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/897e910e900e9c82b159a67efe442ee9a38eb5b1"
+      }
+    },
+    {
+      "coordinates": [
+        11.257767315444937,
+        32.82344244326079
+      ],
+      "properties": {
+        "externalId": "hfv9QTZo5E",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于*避风港*东北方。|\n\n> 找到所有30个无政府主义者标记将解锁\"净化街道\"成就。\n>\n>> **注意：**激活强化感官会高亮显示标记，将准星指向标记位置时，准星会随着距离的接近变成圆圈。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563421,
+        "imagePath": "/game_map_pin/1563421/{size}.webp",
+        "videoId": 1563422,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/c7aeb2beb31a30cb3d7ca7a4bfcbf7e92ea718bb"
+      }
+    },
+    {
+      "coordinates": [
+        40.88691975194371,
+        33.672085031936405
+      ],
+      "properties": {
+        "externalId": "hMpMnLvHtQ",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于喷泉附近酒吧后面，*温室* 以西。|\n\n> 找到全部30个无政府主义者标记将解锁\"清理街道\"成就。\n>\n>> **注意：** 激活敏锐感知会高亮显示标记，将准星指向标记位置时，距离越近准星会变成圆圈。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563423,
+        "imagePath": "/game_map_pin/1563423/{size}.webp",
+        "videoId": 1563424,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/cf6795f8ea2886cf9a8e9671eb314b9d0ce0df8d"
+      }
+    },
+    {
+      "coordinates": [
+        49.669780010627846,
+        31.494897093113593
+      ],
+      "properties": {
+        "externalId": "M8cZhoGOBh",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在雕像上发现，位于*温室*西侧。 |\n\n> 找到所有30个无政府主义标签标记将解锁\"清理街道\"成就。\n>\n>> **注意：** 激活增强感知会突出显示标记，将准星指向标记位置时，越靠近准星就会变成圆圈。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563425,
+        "imagePath": "/game_map_pin/1563425/{size}.webp",
+        "videoId": 1563426,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/dbbae24bc7924195f9c6f733b58e902c8b7f2ff3"
+      }
+    },
+    {
+      "coordinates": [
+        53.55665026603563,
+        36.611959775542104
+      ],
+      "properties": {
+        "externalId": "Ee8peEHTrq",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在门上发现，位于*音乐学院*的东北方。 |\n\n> 找到所有30个无政府主义者标记将解锁\"清理街道\"成就。\n>\n>> **注意：** 激活强化感官会突出显示标记，将准星指向标记位置时，越靠近准星就会变成圆形。",
+        "subcategoryExternalId": "LgUDjb7NCj",
+        "imageId": 1563428,
+        "imagePath": "/game_map_pin/1563428/{size}.webp",
+        "videoId": 1563429,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/4636fc042afcb8f10dcaf7d3cdd25965c5954827"
+      }
+    },
+    {
+      "coordinates": [
+        -46.352890778776356,
+        15.183913283879548
+      ],
+      "properties": {
+        "externalId": "8YFwfNTAxJ",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在*荷兰人号*南边发现。 |\n\n> 收集菲尔的血印会为你增加生命值和100经验值。\n>\n>> **注意：**激活增强感知会突出显示血印，将准星指向血印位置时，越靠近准星就会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1563444,
+        "imagePath": "/game_map_pin/1563444/{size}.webp",
+        "videoId": 1563445,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/ba5636ce6cecb7342e568dbe8b9f04418035b7ee"
+      }
+    },
+    {
+      "coordinates": [
+        -38.07454794607236,
+        -29.254419881798142
+      ],
+      "properties": {
+        "externalId": "uuYqSmGEXZ",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在小巷中发现，紧挨着烟斗，位于*[破墙洞](wemod:\\/\\/maps\\/99688\\/661?location=26V2IF4Aoi)*西侧。 |\n\n> 收集菲尔的血迹标记会为你增加生命值和100经验值。\n>\n>> **注意：** 激活强化感官会突出显示标记，将准星指向标记位置时，越接近标记，准星就会变成圆圈。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1563450,
+        "imagePath": "/game_map_pin/1563450/{size}.webp",
+        "videoId": 1563452,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/ea1b68b7fd706df9c7dc5de5263c8cabe2d135b9"
+      }
+    },
+    {
+      "coordinates": [
+        -63.91638958873851,
+        -13.982648293147093
+      ],
+      "properties": {
+        "externalId": "DprXOcXGCI",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在车库内找到，位于仓库西侧。 |\n\n> 收集菲尔的血印会为你增加生命值和100经验值。\n>\n>> **注意：** 激活强化感官会高亮显示血印，将准星指向血印位置时，越靠近准星就会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1563459,
+        "imagePath": "/game_map_pin/1563459/{size}.webp",
+        "videoId": 1563460,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/845a98e2b6ec1d354be44203012de6ded1c85ce9"
+      }
+    },
+    {
+      "coordinates": [
+        -33.88513068110905,
+        37.26096366391047
+      ],
+      "properties": {
+        "externalId": "6bu983UfqK",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在 *荷兰人* 北面发现。|\n\n> 收集菲尔的血印会为你增加生命值和100经验值。\n>\n>> **注意：** 激活增强感官会高亮显示血印，将准星指向血印位置时，随着距离越来越近，准星会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1563462,
+        "imagePath": "/game_map_pin/1563462/{size}.webp",
+        "videoId": 1563463,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/97f1b7bdb97fe1381365926a92622781d9b75e86"
+      }
+    },
+    {
+      "coordinates": [
+        -39.475109587135535,
+        44.0625228238367
+      ],
+      "properties": {
+        "externalId": "PNsLo6Qe3C",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在工厂北面更远处发现。 |\n\n> 收集菲尔的血印会为你提供增加的生命值和100经验值。\n>\n>> **注意：** 激活强化感官将突出显示血印，将准星指向血印位置时，越靠近准星就会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1563467,
+        "imagePath": "/game_map_pin/1563467/{size}.webp",
+        "videoId": 1563468,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/6126baf840395745962f94774c57a8f5f214bdb2"
+      }
+    },
+    {
+      "coordinates": [
+        -66.01987753096384,
+        -22.396702386187698
+      ],
+      "properties": {
+        "externalId": "JVitYJcYTU",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在卡车后面找到。 |\n\n> 收集菲尔的血迹标记可获得增加的生命值和100经验值。\n>\n>> **注意：** 激活增强感知会高亮显示标记，将准星指向标记位置时，越接近准星就会变成圆圈。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1563470,
+        "imagePath": "/game_map_pin/1563470/{size}.webp",
+        "videoId": 1563471,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/4deeff60eae6417fbc6a60c9af28b6e69bb99870"
+      }
+    },
+    {
+      "coordinates": [
+        -36.56737468040842,
+        -28.895995429354933
+      ],
+      "properties": {
+        "externalId": "GX0KSS9z8v",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在*墙洞*西侧发现。 |\n\n> 收集菲尔的血印将为你增加生命值和100点经验值。\n>\n>> **注意：**激活强化感官将高亮显示血印，将十字准星指向血印位置时，你越接近，十字准星会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1563472,
+        "imagePath": "/game_map_pin/1563472/{size}.webp",
+        "videoId": 1563473,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/28872f7dd795a9c970f3c19a1eb34b23a41b4546"
+      }
+    },
+    {
+      "coordinates": [
+        -48.23011638801995,
+        -14.643425418308794
+      ],
+      "properties": {
+        "externalId": "tT0BcxeCB3",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于*Aurora当铺*西南方向的好运威士忌广告牌后面。 |\n\n> 收集Phyre的血印会为你增加生命值和100经验值。\n>\n>> **注意：** 激活强化感官会突出显示血印，将准星指向血印位置时，你越靠近，准星就会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1563475,
+        "imagePath": "/game_map_pin/1563475/{size}.webp",
+        "videoId": 1563476,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/29799c6bcdd5d868cf2b9d53b7dc3b8e61394089"
+      }
+    },
+    {
+      "coordinates": [
+        -29.371795260317413,
+        -28.090131184645657
+      ],
+      "properties": {
+        "externalId": "pMbdSOEiNF",
+        "title": "降低热度",
+        "description": "| 上一个 | 下一个 |\n|--------|--------|\n| *冷漠之星* | *忠诚的爱人* |",
+        "subcategoryExternalId": "Yt6vyQNLxM",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -29.37193485082119,
+        -30.022290607992048
+      ],
+      "properties": {
+        "externalId": "ex3Z2Nq6vD",
+        "title": "纪念卡片",
+        "description": "| 位置 |\n|--------|\n| 在桌子上发现，位于*墙洞*内。 |\n\n> 在搜索西雅图时发现：\n>\n> 这束花束质量不高，花朵大多已经枯萎，尽管灰尘不多，表明它在这里最多不超过一天。\n>\n> 花束中夹着一张小卡片，上面有白色羽毛在蓝天中飘浮的图片，还有这样的字：\"安息吧，巴兹和贾兹。逝者已去，但不会被遗忘。警察局不管，但我们会解决这件事。为了你们。\"",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1563532,
+        "imagePath": "/game_map_pin/1563532/{size}.webp",
+        "videoId": 1563533,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/3e4546677b6e7dea308bd400b1c0b98002c8881b"
+      }
+    },
+    {
+      "coordinates": [
+        33.147526443531746,
+        27.699634564318657
+      ],
+      "properties": {
+        "externalId": "WVqlwrXtd3",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于*温室*西侧的柱子上。 |\n\n> 收集菲尔的血印可以为你增加生命值和100经验值。\n>\n>> **注意：** 激活增强感官会高亮显示血印，将准星指向血印位置时，越接近血印，准星会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1563552,
+        "imagePath": "/game_map_pin/1563552/{size}.webp",
+        "videoId": 1563553,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/a6dd0f175df189574756de4a3925172dd8131bb7"
+      }
+    },
+    {
+      "coordinates": [
+        -5.1737653121070935,
+        -28.137620376190647
+      ],
+      "properties": {
+        "externalId": "DHaFv36eJb",
+        "title": "伊兹的糟糕决定",
+        "description": "| 前置条件 | 奖励 |\n|--------|--------|\n| *寒冷星象* | 1,500 经验值 |",
+        "subcategoryExternalId": "Yt6vyQNLxM",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -17.060928090286694,
+        -4.370207428551822
+      ],
+      "properties": {
+        "externalId": "H0GPPQHx2c",
+        "title": "行政快递",
+        "description": "| 前置条件 | 奖励 |\n|--------|--------|\n| *寒冷星相* | 1,000 经验值 |",
+        "subcategoryExternalId": "Yt6vyQNLxM",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        2.3607121125418473,
+        -19.41832100091382
+      ],
+      "properties": {
+        "externalId": "YbwohhONdu",
+        "title": "梵卓氏族联系人：弗莱彻",
+        "description": "",
+        "subcategoryExternalId": "w4SmH82hTG",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -5.143808761517846,
+        -28.638687942952913
+      ],
+      "properties": {
+        "externalId": "l444PyLIoB",
+        "title": "拉桑布拉氏族联络人：翁达",
+        "description": "",
+        "subcategoryExternalId": "w4SmH82hTG",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -17.044580297185917,
+        -4.880208668299318
+      ],
+      "properties": {
+        "externalId": "TAqeadDw68",
+        "title": "Tremere氏族联络人：索恩夫人",
+        "description": "",
+        "subcategoryExternalId": "w4SmH82hTG",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -43.63779318528614,
+        19.50553497594352
+      ],
+      "properties": {
+        "externalId": "2jfinEr0JU",
+        "title": "布鲁赫氏族联络人：丝琪",
+        "description": "",
+        "subcategoryExternalId": "w4SmH82hTG",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -33.95620234422421,
+        -8.732507310988638
+      ],
+      "properties": {
+        "externalId": "TPjFCaU9GV",
+        "title": "杀戮之表",
+        "description": "| 前置条件 | 奖励 |\n|--------|--------|\n| *寒冷星相* | 1,000 经验值 |",
+        "subcategoryExternalId": "Yt6vyQNLxM",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        6.930991148436647,
+        5.582865264180938
+      ],
+      "properties": {
+        "externalId": "ySrBj59U1i",
+        "title": "无名纪念碑",
+        "description": "| 位置 |\n|--------|\n| 在树旁发现，位于*圣斯蒂芬斯*。 |\n\n> 在搜索西雅图时发现：\n>\n> 一块纪念石。它没有标记，但有人精心清理它并保持周围区域整洁。\n>\n> 它有种特别的感觉...像是似曾相识，或者像是醒来时试图回忆起被遗忘的梦境。",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1563584,
+        "imagePath": "/game_map_pin/1563584/{size}.webp",
+        "videoId": 1563585,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/49c0215a3a8c7d86c3e6cc43a6359fef576ebf3b"
+      }
+    },
+    {
+      "coordinates": [
+        -34.37914920547567,
+        -8.53259275722391
+      ],
+      "properties": {
+        "externalId": "Kdyk9rNLKQ",
+        "title": "班努·哈基姆氏族联络人：尼科",
+        "description": "",
+        "subcategoryExternalId": "w4SmH82hTG",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -36.32906266783061,
+        -7.273792649958509
+      ],
+      "properties": {
+        "externalId": "IzBymOpgCV",
+        "title": "十字架重负",
+        "description": "| 前置条件 | 奖励 |\n|--------|--------|\n| *寒冷星相* | 2,000 经验值 |",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -36.625609257679486,
+        -7.755042871647561
+      ],
+      "properties": {
+        "externalId": "50umn9Gr2X",
+        "title": "斗牛士氏族联络人：佩欣丝",
+        "description": "",
+        "subcategoryExternalId": "w4SmH82hTG",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -35.62862548277616,
+        -7.254219709021555
+      ],
+      "properties": {
+        "externalId": "5j6COhN9rB",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在*极光当铺*内找到。 |\n\n> 鲜血灵药可以立即恢复吸血鬼能力的血点。",
+        "subcategoryExternalId": "cP9A7SHlV8",
+        "imageId": 1563588,
+        "imagePath": "/game_map_pin/1563588/{size}.webp",
+        "videoId": 1563589,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/a1ef3b8df5401c6bfb9f7748e739de8729f3261f"
+      }
+    },
+    {
+      "coordinates": [
+        -33.78424152827168,
+        -8.441187676716623
+      ],
+      "properties": {
+        "externalId": "uDlDDq04eg",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在柜台处找到，位于 *[极光当铺](wemod:\\/\\/maps\\/99688\\/661?location=mlGYGTOZEk)* 内。 |\n\n> 力量药剂可以暂时增加攻击伤害。",
+        "subcategoryExternalId": "cP9A7SHlV8",
+        "imageId": 1563592,
+        "imagePath": "/game_map_pin/1563592/{size}.webp",
+        "videoId": 1563593,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/48947b10a91554542e1169d8acfcd6fbfd17e2a8"
+      }
+    },
+    {
+      "coordinates": [
+        -0.9563223986112916,
+        -17.375517763064153
+      ],
+      "properties": {
+        "externalId": "SpvaqYF6K3",
+        "title": "冷星之地",
+        "description": "| 上一个 | 下一个 |\n|--------|--------|\n| *香烟女孩* | *降温* |",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -17.133113954414824,
+        -1.7753525678059106
+      ],
+      "properties": {
+        "externalId": "4dP2qQ9mZd",
+        "title": "忠诚的挚爱者",
+        "description": "| 上一个 | 下一个 |\n|--------|--------|\n| *调低温度* | *品味与谨慎* |",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -16.587954588935276,
+        36.19999017512666
+      ],
+      "properties": {
+        "externalId": "l9Dm0ECigk",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在桌子上发现。 |\n\n> 修复药剂可立即恢复生命值。",
+        "subcategoryExternalId": "cP9A7SHlV8",
+        "imageId": 1563611,
+        "imagePath": "/game_map_pin/1563611/{size}.webp",
+        "videoId": 1563612,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/180196662959fb0990f564c5659c056e7a021e96"
+      }
+    },
+    {
+      "coordinates": [
+        -8.170542687430299,
+        37.400419387913956
+      ],
+      "properties": {
+        "externalId": "uHmv1ymc2G",
+        "title": "汽车警报提示",
+        "description": "| 地点 |\n|--------|\n| 在汽车窗户上发现。 |\n\n> 搜索西雅图时发现：\n>\n> 一张写在购物收据背面并放在汽车上的纸条，全部大写，字迹匆忙：\n>\n> \"修好你他妈的汽车警报器，混蛋！每天晚上都响！\"",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1563617,
+        "imagePath": "/game_map_pin/1563617/{size}.webp",
+        "videoId": 1563618,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/185f8d61f4c76001ad10922620a66a62837ffcb6"
+      }
+    },
+    {
+      "coordinates": [
+        -5.48164131187886,
+        -23.632434590599175
+      ],
+      "properties": {
+        "externalId": "uoICKWtsig",
+        "title": "品味与谨慎",
+        "description": "| 上一个 | 下一个 |\n|--------|--------|\n| *忠诚的爱人* | *维护和平* |",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        4.440178737476458,
+        -16.63421057246414
+      ],
+      "properties": {
+        "externalId": "NriIsXKSl8",
+        "title": "钢筋",
+        "description": "| 位置 |\n|--------|\n| 在储藏室内发现，位于 *Makom Bar* 。 |\n\n> 钢筋，被强行插入地面，凶手用来刺穿受害者。\n>\n>> **注意：** 硬证据只能在法比安的记忆梦境中获得。",
+        "subcategoryExternalId": "XN3ZXEBE3T",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -22.113199727427116,
+        18.96467850735995
+      ],
+      "properties": {
+        "externalId": "GZKZpDt2Vl",
+        "title": "圣詹姆斯十字架",
+        "description": "| 位置 |\n|--------|\n| 在法比安的桌子上发现，位于*警察局*。|\n\n> 一个装饰性的金属十字架，已经风化，一端有尖锐的顶点。这种形状有时被称为圣雅各十字架。\n>\n>> **注意：** 确凿证据只能在法比安的记忆梦境中获得。",
+        "subcategoryExternalId": "XN3ZXEBE3T",
+        "imageId": 1563647,
+        "imagePath": "/game_map_pin/1563647/{size}.webp",
+        "videoId": 1563648,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/8a7bba618833c84b95e2412e9ff189bfb5f88ec8"
+      }
+    },
+    {
+      "coordinates": [
+        -21.723545500969692,
+        18.703884527187526
+      ],
+      "properties": {
+        "externalId": "YVSzgBQB0I",
+        "title": "死亡威胁",
+        "description": "",
+        "subcategoryExternalId": "XN3ZXEBE3T",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -30.825708000867934,
+        -31.577783141217097
+      ],
+      "properties": {
+        "externalId": "6yeTEd1y00",
+        "title": "鲜血药剂",
+        "description": "| 位置 |\n|--------|\n| 在桌子上发现，位于*墙洞*内。 |\n\n> 鲜血药剂可立即恢复吸血鬼能力的血液点数。\n>\n>> **注意：** 这个消耗品是在法比安的梦境中发现的。",
+        "subcategoryExternalId": "cP9A7SHlV8",
+        "imageId": 1563663,
+        "imagePath": "/game_map_pin/1563663/{size}.webp",
+        "videoId": 1563664,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/84bed661767e0086d0b52a3d8c6251757f9bf94f"
+      }
+    },
+    {
+      "coordinates": [
+        -23.92337097343929,
+        21.760376215182973
+      ],
+      "properties": {
+        "externalId": "cPXuSKxoAm",
+        "title": "冷静",
+        "description": "",
+        "subcategoryExternalId": "c6XCfOv3re",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -44.54223135775402,
+        19.647958328045505
+      ],
+      "properties": {
+        "externalId": "zyVKT6iFFS",
+        "title": "冷静",
+        "description": "",
+        "subcategoryExternalId": "c6XCfOv3re",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -39.85504627844199,
+        -6.999210783572664
+      ],
+      "properties": {
+        "externalId": "oMhPBCUutv",
+        "title": "冷静",
+        "description": "",
+        "subcategoryExternalId": "c6XCfOv3re",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -5.637547144438059,
+        -20.58469542361935
+      ],
+      "properties": {
+        "externalId": "zG7zC1Spqs",
+        "title": "冷静",
+        "description": "",
+        "subcategoryExternalId": "c6XCfOv3re",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        1.495989721050364,
+        11.065481057352102
+      ],
+      "properties": {
+        "externalId": "mNwZVqyIgw",
+        "title": "冷静",
+        "description": "",
+        "subcategoryExternalId": "c6XCfOv3re",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        49.0140596193109,
+        -16.619237264030744
+      ],
+      "properties": {
+        "externalId": "2jaX9Yo7xr",
+        "title": "冷静",
+        "description": "",
+        "subcategoryExternalId": "c6XCfOv3re",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -34.14310219197381,
+        8.059464064434067
+      ],
+      "properties": {
+        "externalId": "82WC7iTje3",
+        "title": "维罗纳照片",
+        "description": "| 位置 |\n|--------|\n| 在薄血族据点内的一个小藏身处中发现。 |\n\n> 在一个食尸鬼的临时住所中发现的维罗娜照片。照片有褶皱且略有损坏。\n>\n> 看起来是在远距离拍摄的，被拍摄者并不知情。\n>\n>> **注意：** 确凿证据只能在法比安的记忆梦境中获得。",
+        "subcategoryExternalId": "XN3ZXEBE3T",
+        "imageId": 1563670,
+        "imagePath": "/game_map_pin/1563670/{size}.webp",
+        "videoId": 1563671,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/9ddb6ca4eb87ae7256fa49a4f4b0ee73f3f3ac60"
+      }
+    },
+    {
+      "coordinates": [
+        -33.84815964819114,
+        7.8170051479955305
+      ],
+      "properties": {
+        "externalId": "13NG6RgH6j",
+        "title": "手机",
+        "description": "| 位置 |\n|--------|\n| 在瘦血鬼据点中的一个小藏身处找到。 |\n\n> 在一个食尸鬼巢穴中发现的手机。这是一部较旧的型号，斯堪的纳维亚制造——坚固耐用。\n>\n> 然而，它的电池现在已经没电了。\n> \n> 在没电之前，它播放了一段失真的语音信息，向那个给维罗娜送信的人下达命令，告诉他要把信息交给她，而且不要被人发现。\n>\n>> **注意：** 确凿证据只能在法比安的记忆梦境中获得。",
+        "subcategoryExternalId": "XN3ZXEBE3T",
+        "imageId": 1563675,
+        "imagePath": "/game_map_pin/1563675/{size}.webp",
+        "videoId": 1563676,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/cc73dab7d53176185815b6cdca387de9b0ffd5de"
+      }
+    },
+    {
+      "coordinates": [
+        -33.67119787519252,
+        8.200332859139337
+      ],
+      "properties": {
+        "externalId": "QTdjgujP8c",
+        "title": "鲜血药剂",
+        "description": "| 位置 |\n|--------|\n| 在瘦血族据点内的临时搭建处找到。 |\n\n> 血液灵药可立即恢复吸血鬼能力的血液点数。\n>\n>> **注意：** 这个消耗品是在法比安的梦境中发现的。",
+        "subcategoryExternalId": "cP9A7SHlV8",
+        "imageId": 1563678,
+        "imagePath": "/game_map_pin/1563678/{size}.webp",
+        "videoId": 1563679,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/0a5903f5a512f0648e108e78179260293dbb05bd"
+      }
+    },
+    {
+      "coordinates": [
+        -36.09551904824306,
+        -6.743094055171255
+      ],
+      "properties": {
+        "externalId": "aSYrC5zVEU",
+        "title": "拉文纳的挂坠盒",
+        "description": "| 位置 |\n|--------|\n| 在*血姐妹 - 夜出*期间由尼科给予。 |\n\n> 它是银质的，略有划痕，光泽已经磨损，散发着微弱的广藿香油味。\n> 背面刻着两个字母 - DL，采用精美的字体。\n>\n> 里面有同一个女孩的两张照片 - 黑发，大约十岁左右。她看起来并不开心。\n>\n> 在极光典当行，尼科用典当票跟我交换得到。\n>> **注意：** 确凿证据只能在法比恩的记忆梦境中获得。",
+        "subcategoryExternalId": "XN3ZXEBE3T",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -40.467517613842716,
+        23.4126623397958
+      ],
+      "properties": {
+        "externalId": "I5Pxer37hT",
+        "title": "当票",
+        "description": "",
+        "subcategoryExternalId": "XN3ZXEBE3T",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        1.7494010755762872,
+        19.69529621106618
+      ],
+      "properties": {
+        "externalId": "rR1u5MjgYG",
+        "title": "法比恩的回忆",
+        "description": "| 位置 |\n|--------|\n| 完成任务*维持和平*后获得。 |",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        1.4489567610019662,
+        19.800789440336757
+      ],
+      "properties": {
+        "externalId": "I6rKEsAA8a",
+        "title": "皮尔斯小姐的包裹",
+        "description": "| 位置 |\n|--------|\n| 完成任务*维持和平*后获得。 |",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -18.560081463888764,
+        18.755999798520605
+      ],
+      "properties": {
+        "externalId": "DFe49S3rKv",
+        "title": "血姐妹 - 夜出",
+        "description": "| 上一个 | 下一个 |\n|--------|--------|\n| *Keep the Peace* | *A Work of Holy Innocents*. |\n|  | *A Grave Errand* |\n|  | *The Violent Glove* |\n|  | *Arjun's Violation* |\n\n> **注意：** 在此任务中你将扮演法比安。",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        2.184162887035768,
+        19.350875922571547
+      ],
+      "properties": {
+        "externalId": "JgXUvzorQ2",
+        "title": "圣婴之作",
+        "description": "| 上一个 | 下一个 |\n|--------|--------|\n| *血姐妹 - 夜出* | *在忘川河上发现* |\n|  | *快餐* |\n|  | *棺材乔的坟墓* |\n|  | *通奸之戒* |",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        1.1302023713859342,
+        18.54310246243284
+      ],
+      "properties": {
+        "externalId": "K8nd0D4fco",
+        "title": "香烟女郎",
+        "description": "| 上一个 | 下一个 |\n|--------|--------|\n| *工业之火* | *冷峻之星* |",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": 1562674,
+        "imagePath": "/game_map_pin/1562674/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -17.059921832884754,
+        -3.9418324509089473
+      ],
+      "properties": {
+        "externalId": "04uvQLcF2b",
+        "title": "严肃的差事",
+        "description": "| 前置条件 | 奖励 |\n|--------|--------|\n| *血姐妹 - 夜出* | 1,000 经验值 |",
+        "subcategoryExternalId": "Yt6vyQNLxM",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -13.738443057715443,
+        -7.970066569929003
+      ],
+      "properties": {
+        "externalId": "CSqVBtsxjO",
+        "title": "西雅图太阳 #19472",
+        "description": "| 位置 |\n|--------|\n| 在街对面发现，位于 *Wake the Dead* 前方。 |\n\n> 在探索西雅图时发现：\n> \n> 西雅图当地人又多了一个害怕夜间上街的理由，目击者报告说看到有人被强行推进一辆面包车。",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1566398,
+        "imagePath": "/game_map_pin/1566398/{size}.webp",
+        "videoId": 1566399,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/89ca8edc08e7bd398a13b4a6001cf94dff4ac5a6"
+      }
+    },
+    {
+      "coordinates": [
+        -34.0578938150183,
+        -8.415861448079923
+      ],
+      "properties": {
+        "externalId": "CG4oX6bo7r",
+        "title": "暴力手套",
+        "description": "| 前置条件 | 奖励 |\n|--------|--------|\n| *血姐妹 - 夜出* | 1,000 经验值 |",
+        "subcategoryExternalId": "Yt6vyQNLxM",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -2.468960104449735,
+        18.308596422646502
+      ],
+      "properties": {
+        "externalId": "i8xJS7RXvR",
+        "title": "维护和平",
+        "description": "| 上一个 | 下一个 |\n|--------|--------|\n| *品味与谨慎* | *血姐妹 - 夜出* |",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -5.1320055380695635,
+        -27.63417434440978
+      ],
+      "properties": {
+        "externalId": "Up9qqBflv0",
+        "title": "阿琼的违规行为",
+        "description": "| 前置条件 | 奖励 |\n|--------|--------|\n| *血姐妹 - 夜出* | 1,000 经验值 |",
+        "subcategoryExternalId": "Yt6vyQNLxM",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        48.32836510221671,
+        -21.219257247755408
+      ],
+      "properties": {
+        "externalId": "wx1ng6BGgk",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在 *中庭* 的车库内找到，位于 *神圣无辜者的工作* 任务期间。|\n\n> 收集法尔的血印会为你增加生命值和100经验值。\n>\n>> **注意：** 激活增强感官会突出显示血印，将准星指向血印位置时，准星会变成圆形，距离越近圆形越明显。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1566401,
+        "imagePath": "/game_map_pin/1566401/{size}.webp",
+        "videoId": 1566402,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/37f1bc59c62321b4c58d52c69bbae16fad9563ff"
+      }
+    },
+    {
+      "coordinates": [
+        48.32329515761131,
+        -20.75964199283814
+      ],
+      "properties": {
+        "externalId": "8lU6cMIwYl",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在*[中庭](wemod:\\/\\/maps\\/99688\\/661?location=8f6fVWt11F)*的电梯井中发现，在*[神圣无辜者的作品](wemod:\\/\\/maps\\/99688\\/661?location=JgXUvzorQ2)*任务期间找到。|\n\n> 收集菲尔的血印会为你增加生命值和100经验值。\n>\n>> **注意：**激活强化感官会突出显示血印，将准星指向血印位置时，越接近准星就会变成圆圈。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1566403,
+        "imagePath": "/game_map_pin/1566403/{size}.webp",
+        "videoId": 1566404,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/7242112d9bf28279bc2ea462fa50c5400be52752"
+      }
+    },
+    {
+      "coordinates": [
+        48.32329515761131,
+        -20.298341194474574
+      ],
+      "properties": {
+        "externalId": "30JtVeaGJ3",
+        "title": "效力药剂",
+        "description": "| 位置 |\n|--------|\n| 在烤箱内发现，位于 *[圣洁无辜者的作品](wemod:\\/\\/maps\\/99688\\/661?location=JgXUvzorQ2)* 期间。 |\n\n> 力量药剂可以暂时增加攻击伤害。",
+        "subcategoryExternalId": "cP9A7SHlV8",
+        "imageId": 1566406,
+        "imagePath": "/game_map_pin/1566406/{size}.webp",
+        "videoId": 1566407,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/cf680d0be77fcaa5f522b7821602c231a12b1192"
+      }
+    },
+    {
+      "coordinates": [
+        48.02370027930189,
+        -21.25445967149041
+      ],
+      "properties": {
+        "externalId": "tcr5y45yjo",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在*中庭*的公寓内找到，位于*神圣无辜者的工作*任务期间。 |\n\n> 收集菲尔的血印标记会为你增加生命值和100经验值。\n>\n>> **注意：** 激活增强感官会高亮显示标记，将准星指向标记位置时，准星会变成圆形，距离越近圆形越明显。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1566413,
+        "imagePath": "/game_map_pin/1566413/{size}.webp",
+        "videoId": 1566414,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/f899cfe5c661151149800cb6445be62ffb1fba5c"
+      }
+    },
+    {
+      "coordinates": [
+        48.33533173620057,
+        -19.879194551983034
+      ],
+      "properties": {
+        "externalId": "9MB0BkJkCZ",
+        "title": "失血尸体",
+        "description": "| 位置 |\n|--------|\n| 在*中庭*内发现。 |\n\n> 在寻找进入中庭的路径时发现：\n>\n> 这些派对参与者的血液完全被抽干了。他们的血管上有多处针孔痕迹。这些伤口并不新鲜，散发着药物而非血族的气味。这些尸体上的痕迹表明，无论这些人生前是什么身份，无论他们是如何死亡的，都没有血族从他们身上吸血。他们是通过其他方式被抽干血液的。",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1566416,
+        "imagePath": "/game_map_pin/1566416/{size}.webp",
+        "videoId": 1566417,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/ea382d556bf8d65cdf05cf0fa109dbd9a6873f9a"
+      }
+    },
+    {
+      "coordinates": [
+        48.31883196431096,
+        -19.481315902395252
+      ],
+      "properties": {
+        "externalId": "sTbDgo0ne2",
+        "title": "录音室",
+        "description": "",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1566420,
+        "imagePath": "/game_map_pin/1566420/{size}.webp",
+        "videoId": 1566421,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/dd02ee04e1cc5badd8776b0a8ceca7bafc407e82"
+      }
+    },
+    {
+      "coordinates": [
+        47.98805649372568,
+        -20.779506135130404
+      ],
+      "properties": {
+        "externalId": "3zD4FfMfJe",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在*中庭*内发现，位于*神圣无辜者的工作*期间。 |\n\n> 收集菲尔的血印会为你提供增加的生命值和100经验值。\n>\n>> **注意：** 激活增强感官会突出显示血印，将准星指向血印位置时，越靠近准星就会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1566422,
+        "imagePath": "/game_map_pin/1566422/{size}.webp",
+        "videoId": 1566423,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/940bf6297998667d4e86bd571143de34b82947b8"
+      }
+    },
+    {
+      "coordinates": [
+        47.99052154463271,
+        -20.330780382837432
+      ],
+      "properties": {
+        "externalId": "2IbqRzknBY",
+        "title": "修复药剂",
+        "description": "| 位置 |\n|--------| \n| 在扬声器上找到，位于*中庭*内部。|\n\n> 修复药剂可立即恢复生命值。",
+        "subcategoryExternalId": "cP9A7SHlV8",
+        "imageId": 1566430,
+        "imagePath": "/game_map_pin/1566430/{size}.webp",
+        "videoId": 1566431,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/8ae006e7be1e705ec3ebab4d3f96565841336260"
+      }
+    },
+    {
+      "coordinates": [
+        -55.18670577792801,
+        12.961860221864029
+      ],
+      "properties": {
+        "externalId": "HN72uRrN0A",
+        "title": "建立在忘川河上",
+        "description": "| 上一个 | 下一个 |\n|--------|--------|\n| *圣洁无辜者的作品* | *纪念* |",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -17.079643948031247,
+        -3.5027988455642287
+      ],
+      "properties": {
+        "externalId": "kS3oKsg2FZ",
+        "title": "快餐店",
+        "description": "| 前置条件 | 奖励 |\n|--------|--------|\n| *圣洁无辜者的工作* | 1,000 经验值 |",
+        "subcategoryExternalId": "Yt6vyQNLxM",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -5.151845064822879,
+        -27.168128550135826
+      ],
+      "properties": {
+        "externalId": "szFpSr67vt",
+        "title": "棺材乔的坟墓",
+        "description": "| 前置条件 | 奖励 |\n|--------|--------|\n| *圣洁无辜者的工作* | 1,000 经验值 |",
+        "subcategoryExternalId": "Yt6vyQNLxM",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -34.05694058337207,
+        -7.927428835261836
+      ],
+      "properties": {
+        "externalId": "udweNZSmZS",
+        "title": "通奸者之环",
+        "description": "| 前置条件 | 奖励 |\n|--------|--------|\n| *神圣纯真者的工作* | 1,000 XP |",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -51.488401262135625,
+        9.03581014175532
+      ],
+      "properties": {
+        "externalId": "PjnISvzPto",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在房车中发现，位于 *在忘川河上发现* 任务期间。 |\n\n> 收集菲尔的血痕会为你提供增加的生命值和100点经验值。\n>\n>> **注意：** 激活强化感官会突出显示血痕，将准星指向血痕位置时，准星会在你越来越接近时变成圆圈。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1566543,
+        "imagePath": "/game_map_pin/1566543/{size}.webp",
+        "videoId": 1566544,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/0233ae96f4527948e4a3fccc3e5348dbac7e07f9"
+      }
+    },
+    {
+      "coordinates": [
+        -51.10504240229386,
+        9.440808993717809
+      ],
+      "properties": {
+        "externalId": "vQpCqiVyKX",
+        "title": "修复药剂",
+        "description": "| 位置 |\n|--------|\n| 在停车场的轮胎中找到。 |\n\n> 修复药剂可立即恢复生命值。",
+        "subcategoryExternalId": "cP9A7SHlV8",
+        "imageId": 1566545,
+        "imagePath": "/game_map_pin/1566545/{size}.webp",
+        "videoId": 1566546,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/77615280f2e0df0f507beb262cb2e634c0d5454b"
+      }
+    },
+    {
+      "coordinates": [
+        -47.026260759738875,
+        8.398981351863242
+      ],
+      "properties": {
+        "externalId": "fF7VUAYZMX",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在消防出口找到，在*在忘川河上找到*任务期间定位。 |\n\n> 收集菲尔的血印会给你增加生命值和100经验值。\n>\n>> **注意：**激活增强感官会突出显示标记，将准星指向标记位置时，越接近标记准星会变成圆圈。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1566549,
+        "imagePath": "/game_map_pin/1566549/{size}.webp",
+        "videoId": 1566550,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/d13730eaeb97da9fd0902292b2ca47e6bb8f7c90"
+      }
+    },
+    {
+      "coordinates": [
+        -47.58560642468407,
+        10.620471622445436
+      ],
+      "properties": {
+        "externalId": "2VgikPC2Dz",
+        "title": "鲜血药剂",
+        "description": "| 位置 |\n|--------|\n| 在停车场内发现。 |\n\n> 血液灵药能立即恢复吸血鬼能力的血液点数。",
+        "subcategoryExternalId": "cP9A7SHlV8",
+        "imageId": 1566555,
+        "imagePath": "/game_map_pin/1566555/{size}.webp",
+        "videoId": 1566556,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/1ab364ead4ea13550c4639b1b6d36d3d6f90fc9e"
+      }
+    },
+    {
+      "coordinates": [
+        -54.65887552998174,
+        8.716212875908255
+      ],
+      "properties": {
+        "externalId": "Rts5ls0uMq",
+        "title": "耸人听闻的一周前头条新闻",
+        "description": "| 位置 |\n|--------|\n| 在 *在冥河上发现* 期间找到。 |\n\n> 在搜索威廉港时发现",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1566560,
+        "imagePath": "/game_map_pin/1566560/{size}.webp",
+        "videoId": 1566561,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/1e5742ae64e71503243eddc760527f58828e387e"
+      }
+    },
+    {
+      "coordinates": [
+        -54.299850643934434,
+        8.175720353103856
+      ],
+      "properties": {
+        "externalId": "KvlxLCqNQN",
+        "title": "坚韧药剂",
+        "description": "| 位置 |\n|--------|\n| 在电视旁边发现，在*在忘川河畔寻获*期间找到。 |\n\n> 坚韧药剂可暂时减少游牧者受到攻击时承受的伤害。",
+        "subcategoryExternalId": "cP9A7SHlV8",
+        "imageId": 1566564,
+        "imagePath": "/game_map_pin/1566564/{size}.webp",
+        "videoId": 1566565,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/c1695858a08657dc1ecd727a9ed79fc89b118bfc"
+      }
+    },
+    {
+      "coordinates": [
+        -54.81738831902324,
+        7.3363692023328895
+      ],
+      "properties": {
+        "externalId": "e407hGJSL2",
+        "title": "女人的照片",
+        "description": "",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1566568,
+        "imagePath": "/game_map_pin/1566568/{size}.webp",
+        "videoId": 1566569,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/38e9791984a7ebbbb6c729309c0e1e14d1a38907"
+      }
+    },
+    {
+      "coordinates": [
+        -53.39375457678739,
+        7.525997302947701
+      ],
+      "properties": {
+        "externalId": "Ni7QqrfIuX",
+        "title": "未寄信件之书",
+        "description": "",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1566570,
+        "imagePath": "/game_map_pin/1566570/{size}.webp",
+        "videoId": 1566571,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/b743168dbdfcda797e09f72312673a802a3e13eb"
+      }
+    },
+    {
+      "coordinates": [
+        -69.98949004917606,
+        -27.392668780221285
+      ],
+      "properties": {
+        "externalId": "O1AjpVYGT1",
+        "title": "鲜血药剂",
+        "description": "| 位置 |\n|--------|\n| 在容器内发现。 |\n\n> 血液灵药能立即恢复吸血鬼能力的血液点数。",
+        "subcategoryExternalId": "cP9A7SHlV8",
+        "imageId": 1566580,
+        "imagePath": "/game_map_pin/1566580/{size}.webp",
+        "videoId": 1566581,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/cc251a2d060067df945b2d7c8a0583bda1a767e2"
+      }
+    },
+    {
+      "coordinates": [
+        7.122119056000315,
+        0.9021948356862453
+      ],
+      "properties": {
+        "externalId": "Z9EI8G3fC9",
+        "title": "幽灵猎人\"名片\"",
+        "description": "| 位置 |\n|--------|\n| 在 *圣史蒂芬教堂* 内发现。 |\n\n> 在圣史蒂芬教堂内发现：\n> \n> 一张临时制作的名片，本质上就是一张便利贴，有人在正反两面都贴了邮票。",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1567065,
+        "imagePath": "/game_map_pin/1567065/{size}.webp",
+        "videoId": 1567066,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/4781f5640ea0e13d3c17f4cb46e9fae3d9f598c3"
+      }
+    },
+    {
+      "coordinates": [
+        6.670321795574154,
+        1.820621588703517
+      ],
+      "properties": {
+        "externalId": "bOSsyw7l5M",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于*圣斯蒂芬教堂*内部。 |\n\n> 在圣斯蒂芬教堂内发现：\n> \n> 一份来自西雅图燃气电力公司信纸抬头的安全检查报告。",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1567071,
+        "imagePath": "/game_map_pin/1567071/{size}.webp",
+        "videoId": 1567072,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/8d71f344362a60cf680601b0d83d2cbb4e3da972"
+      }
+    },
+    {
+      "coordinates": [
+        6.170026321530997,
+        -2.680752604732376
+      ],
+      "properties": {
+        "externalId": "3Ytu5I6VAo",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于*圣史蒂芬斯*地下室内发现。 |\n\n> 在圣史蒂芬斯内发现：\n> \n> 一张印有空白栏目的卡片，被蓝色钢笔匆忙地涂写了多次。",
+        "subcategoryExternalId": "0lnCOcIGfv",
+        "imageId": 1567077,
+        "imagePath": "/game_map_pin/1567077/{size}.webp",
+        "videoId": 1567078,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/7401d200613fd3e8ba699a467bc1187b0e479548"
+      }
+    },
+    {
+      "coordinates": [
+        -16.722782223167087,
+        -4.419805448708146
+      ],
+      "properties": {
+        "externalId": "ZOtOT2nz6U",
+        "title": "天香阁",
+        "description": "| 前置条件 | 奖励 |\n|--------|--------|\n| *悼念* | 1,000 XP |",
+        "subcategoryExternalId": "Yt6vyQNLxM",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -4.796443832889992,
+        -28.124241571904896
+      ],
+      "properties": {
+        "externalId": "i7KzRF08l4",
+        "title": "亨利的最后一程",
+        "description": "",
+        "subcategoryExternalId": "Yt6vyQNLxM",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -33.676131590995595,
+        -8.007980659981428
+      ],
+      "properties": {
+        "externalId": "vetUQqWOoD",
+        "title": "背叛手镯",
+        "description": "",
+        "subcategoryExternalId": "Yt6vyQNLxM",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -29.74303134390874,
+        -27.8423348593235
+      ],
+      "properties": {
+        "externalId": "j3kAx8mLed",
+        "title": "被丢弃的玩物",
+        "description": "| 上一个 | 下一个 |\n|--------|--------|\n| *纪念* | *证明自己* |",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -2.22903077937238,
+        18.899173545139504
+      ],
+      "properties": {
+        "externalId": "LCf2tkIrDA",
+        "title": "证明自己",
+        "description": "| 上一个 | 下一个 |\n|--------|--------|\n| *悼念* | *母亲* |",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -39.974861220135864,
+        22.986695364008213
+      ],
+      "properties": {
+        "externalId": "JxOIKjPcw4",
+        "title": "勒索小册子",
+        "description": "| 上一个 | 下一个 |\n|--------|--------|\n| *纪念* | *证明自己* |",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        53.49443523919393,
+        1.7928652066467237
+      ],
+      "properties": {
+        "externalId": "S4tYgJ6kM3",
+        "title": "纪念园",
+        "description": "| 上一个 | 下一个 |\n|--------|--------|\n| *To Found on the Lethe* | *Tome Alone* |\n|  | *Little Book of Blackmail* |\n\n> **注意：** 在这个任务中你将扮演法比安。",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        54.27253266852327,
+        0.6458118948518603
+      ],
+      "properties": {
+        "externalId": "VlYkCF7hrC",
+        "title": "独自之书",
+        "description": "| 上一个 | 下一个 |\n|--------|--------|\n| *纪念* | *证明自己* |",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -21.240391842773448,
+        -17.12882127099988
+      ],
+      "properties": {
+        "externalId": "gIZrv9F3f2",
+        "title": "母亲号",
+        "description": "| 上一个 | 下一个 |\n|--------|--------|\n| *证明自己* | *天人合一* |",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -0.9672220768108559,
+        -16.899919075495646
+      ],
+      "properties": {
+        "externalId": "kgw6G9sNdD",
+        "title": "如上，如下",
+        "description": "| 上一个 | 下一个 |\n|--------|--------|\n| *母亲* | *赫斯珀里得斯之径* |",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -4.800840323697798,
+        -27.71092031357845
+      ],
+      "properties": {
+        "externalId": "CKnaY3PPEx",
+        "title": "卡斯的夜晚狂欢",
+        "description": "",
+        "subcategoryExternalId": "Yt6vyQNLxM",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -16.720881585964207,
+        -3.932955062123341
+      ],
+      "properties": {
+        "externalId": "QhsYVRn07q",
+        "title": "绅士在等候",
+        "description": "",
+        "subcategoryExternalId": "Yt6vyQNLxM",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -33.68157816100435,
+        -7.582596969392142
+      ],
+      "properties": {
+        "externalId": "vQpJdqs1Rw",
+        "title": "废弃的画作",
+        "description": "",
+        "subcategoryExternalId": "Yt6vyQNLxM",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -3.18898859630562,
+        13.968326245521808
+      ],
+      "properties": {
+        "externalId": "SMfs7q8VO2",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于地下，当你掉落到旧西雅图时可以找到。 |\n\n> 收集菲尔的血印会为你增加生命值和100经验值。\n>\n>> **注意：** 激活强化感官会高亮显示血印，将准星指向血印位置时，距离越近准星会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1574745,
+        "imagePath": "/game_map_pin/1574745/{size}.webp",
+        "videoId": 1574746,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/edc97de1a552b8d1174bb1401eef11a97f64600e"
+      }
+    },
+    {
+      "coordinates": [
+        -3.162923689454118,
+        13.18455559394738
+      ],
+      "properties": {
+        "externalId": "N8AN8Tfb0R",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于地下，当你掉落到旧西雅图时可以找到。 |\n\n> 收集菲尔的血印会为你增加生命值和100经验值。\n>\n>> **注意：** 激活强化感官会高亮显示血印，将准星指向血印位置时，距离越近准星会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1574747,
+        "imagePath": "/game_map_pin/1574747/{size}.webp",
+        "videoId": 1574748,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/d0f937c7f629dcb50e320bf50fb8f078f1ef610d"
+      }
+    },
+    {
+      "coordinates": [
+        -3.1392273908899995,
+        12.296076582910516
+      ],
+      "properties": {
+        "externalId": "50qtV6gO1q",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于地下，当你掉落到旧西雅图时可以找到。 |\n\n> 收集菲尔的血印会为你增加生命值和100经验值。\n>\n>> **注意：** 激活强化感官会高亮显示血印，将准星指向血印位置时，距离越近准星会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1574750,
+        "imagePath": "/game_map_pin/1574750/{size}.webp",
+        "videoId": 1574751,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/f073bf0bb785c31953aef5c5fe928d9712594063"
+      }
+    },
+    {
+      "coordinates": [
+        -2.381805433286246,
+        13.321127763025686
+      ],
+      "properties": {
+        "externalId": "SU01al28fV",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于地下，当你掉落到旧西雅图时可以找到。 |\n\n> 收集菲尔的血印会为你增加生命值和100经验值。\n>\n>> **注意：** 激活强化感官会高亮显示血印，将准星指向血印位置时，距离越近准星会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1574761,
+        "imagePath": "/game_map_pin/1574761/{size}.webp",
+        "videoId": 1574762,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/966acc758c9cf808665b4dcad400b3a7e97d5791"
+      }
+    },
+    {
+      "coordinates": [
+        -2.395285304826814,
+        12.335360201589523
+      ],
+      "properties": {
+        "externalId": "7KdIAEX2ki",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于地下，当你掉落到旧西雅图时可以找到。 |\n\n> 收集菲尔的血印会为你增加生命值和100经验值。\n>\n>> **注意：** 激活强化感官会高亮显示血印，将准星指向血印位置时，距离越近准星会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1574764,
+        "imagePath": "/game_map_pin/1574764/{size}.webp",
+        "videoId": 1574765,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/3e1669db8c60f9ed62a9c5e8f8d1cf726d3a6c8e"
+      }
+    },
+    {
+      "coordinates": [
+        -4.941573073444744,
+        -23.66000412572383
+      ],
+      "properties": {
+        "externalId": "A1AgpPD0CT",
+        "title": "赫斯珀里得斯之径",
+        "description": "| 上一个 | 下一个 |\n|--------|--------|\n| *如上，如下* | *我们不讲鬼故事* |",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -3.7556753921032,
+        -29.109474729383912
+      ],
+      "properties": {
+        "externalId": "Au9j0kF6vx",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在地下发现，位于 *冰川酒店* 。 |\n\n> 收集菲尔的血印会为你提供增加的生命值和100经验值。\n>\n>> **注意：** 激活敏锐感知会突出显示血印，将准星指向血印位置时，随着你的接近，准星会变成圆圈。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1574769,
+        "imagePath": "/game_map_pin/1574769/{size}.webp",
+        "videoId": 1574770,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/3501c6ad0b5c053ed09aede8836e73431c3acded"
+      }
+    },
+    {
+      "coordinates": [
+        -3.333577828599914,
+        -29.12686232690384
+      ],
+      "properties": {
+        "externalId": "xAjJLDEn6z",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在地下发现，位于 *冰川酒店* 。 |\n\n> 收集菲尔的血印会为你提供增加的生命值和100经验值。\n>\n>> **注意：** 激活敏锐感知会突出显示血印，将准星指向血印位置时，随着你的接近，准星会变成圆圈。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1574772,
+        "imagePath": "/game_map_pin/1574772/{size}.webp",
+        "videoId": 1574773,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/aab869b747d338da862da48f8eed588186ffd211"
+      }
+    },
+    {
+      "coordinates": [
+        -3.767318317202694,
+        -28.673645879107205
+      ],
+      "properties": {
+        "externalId": "Ez2hYtmKlp",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -3.319586199935884,
+        -28.710466782637624
+      ],
+      "properties": {
+        "externalId": "vSfOQ5D1kP",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -49.030785737744964,
+        -1.4745696154282513
+      ],
+      "properties": {
+        "externalId": "JqcXwzjOGB",
+        "title": "我们不讲鬼故事",
+        "description": "| 上一个 | 下一个 |\n|--------|--------|\n| *赫斯珀里得斯之路* | *西雅图王子* |",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -4.774890429909647,
+        -27.300361987161644
+      ],
+      "properties": {
+        "externalId": "ascKWMLgx9",
+        "title": "湖景教派",
+        "description": "",
+        "subcategoryExternalId": "Yt6vyQNLxM",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -16.727394624295044,
+        -3.5281231836899565
+      ],
+      "properties": {
+        "externalId": "6FU5u0xU5y",
+        "title": "冷淡的接待",
+        "description": "",
+        "subcategoryExternalId": "Yt6vyQNLxM",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -33.35340438143007,
+        -7.999287174750066
+      ],
+      "properties": {
+        "externalId": "AgDEAhLHfq",
+        "title": "屠戮手机",
+        "description": "",
+        "subcategoryExternalId": "Yt6vyQNLxM",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -39.54730453635787,
+        22.709126270109465
+      ],
+      "properties": {
+        "externalId": "gc7LasCY1i",
+        "title": "阿古斯之眼",
+        "description": "",
+        "subcategoryExternalId": "Yt6vyQNLxM",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -56.69784123289439,
+        1.5600134519376354
+      ],
+      "properties": {
+        "externalId": "hQ0KWylQ7F",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于 *The Dutchman* 南侧。 |\n\n> 激活增强感官将会高亮标记，将准星指向标记位置时，随着距离的接近，准星会变成圆形。\n>\n>> 注意：此收集品在完成 *The Pathways of Hesperides* 任务后才可获得。\n>\n> 摄像头大多位于屋顶或建筑墙壁附近。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1574778,
+        "imagePath": "/game_map_pin/1574778/{size}.webp",
+        "videoId": 1574779,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/4339a80a50acef9c3811ab261f5f372bc2fa5507"
+      }
+    },
+    {
+      "coordinates": [
+        -4.29286542024866,
+        -23.68060781261879
+      ],
+      "properties": {
+        "externalId": "F6CCzianB6",
+        "title": "西雅图王子",
+        "description": "| 上一个 | 下一个 |\n|--------|--------|\n| *We Don't Do Ghost Stories* | *Seattle's New Normal* |",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -1.9743736882190888,
+        17.818312924553084
+      ],
+      "properties": {
+        "externalId": "dVGQP05Pek",
+        "title": "西雅图的新常态",
+        "description": "| 上一个 | 下一个 |\n|--------|--------|\n| *西雅图王子* | *清理垃圾* |",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -24.514996879270313,
+        20.57334616421673
+      ],
+      "properties": {
+        "externalId": "5zMYeDGxuU",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于*[警察局](wemod:\\/\\/maps\\/99688\\/661?location=jENYTmgvNA)*外的柱子上，在西侧。 |\n\n> 激活增强感官会突出显示标记，将准星指向标记位置时，越接近标记，准星会变成圆形。\n>\n>> 注意：此收集品在完成*[赫斯珀里得斯之路](wemod:\\/\\/maps\\/99688\\/661?location=A1AgpPD0CT)*任务后才可获得。\n>\n> 摄像头通常位于屋顶或建筑物的墙壁周围。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1574995,
+        "imagePath": "/game_map_pin/1574995/{size}.webp",
+        "videoId": 1574996,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/1edc4693b971eb44ebdcac0be4aefe745f0166fb"
+      }
+    },
+    {
+      "coordinates": [
+        -34.51486291543091,
+        14.330849236173933
+      ],
+      "properties": {
+        "externalId": "PCmT8dyjHa",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于*The Dutchman*东南方。|\n\n> 激活强化感官将会高亮显示标记，将准星指向标记位置时，准星会变成圆圈，距离越近圆圈越明显。\n>\n>> 注意：此收集品需要在完成*赫斯珀里得斯之路*任务后才可获得。\n>\n> 摄像头大多位于屋顶或建筑物墙壁周围。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1574998,
+        "imagePath": "/game_map_pin/1574998/{size}.webp",
+        "videoId": 1574999,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/ae497d98094b5a679357301700ebbfe73bd449bd"
+      }
+    },
+    {
+      "coordinates": [
+        -18.37865609200199,
+        5.070982705904129
+      ],
+      "properties": {
+        "externalId": "PrOQuvtoCe",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在小巷中发现，位于*Wake the Dead*北侧。 |\n\n> 激活敏锐感知将会高亮显示标记，将十字准星指向标记位置时，越接近目标，十字准星会变成圆形。\n>\n>> 注意：此收藏品在完成*The Pathways of Hesperides*任务后才可获得。\n>\n> 摄像头主要分布在屋顶或建筑物墙面附近。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1575000,
+        "imagePath": "/game_map_pin/1575000/{size}.webp",
+        "videoId": 1575001,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/9c740a54cc035de7f402e099ec0a8ef00121a81a"
+      }
+    },
+    {
+      "coordinates": [
+        -44.26926332630413,
+        20.822027724507677
+      ],
+      "properties": {
+        "externalId": "6GfbkrSHF9",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于*荷兰人号*的后方。 |\n\n> 激活增强感官会高亮显示标记，将准星指向标记位置时，准星会变成圆圈，距离越近圆圈越明显。\n>\n>> 注意：这个收集品在完成*赫斯珀里得斯的路径*任务后才可获得。\n>\n> 摄像头大多位于屋顶或建筑物墙壁周围。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1575003,
+        "imagePath": "/game_map_pin/1575003/{size}.webp",
+        "videoId": 1575004,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/a3a52a6e82f002d8dfadb725c1c65a2bdc93c388"
+      }
+    },
+    {
+      "coordinates": [
+        -29.749201783333746,
+        34.746047937998796
+      ],
+      "properties": {
+        "externalId": "KEwSoh8Eve",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在*警察局*西北方向找到。 |\n\n> 激活强化感官将会高亮标记，将准星指向标记位置时，越接近目标准星就会变成圆圈。\n>\n>> 注意：此收集品需要在完成*赫斯珀里得斯之路*任务后才可获得。\n>\n> 摄像头大多位于屋顶或建筑物墙壁周围。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1575008,
+        "imagePath": "/game_map_pin/1575008/{size}.webp",
+        "videoId": 1575009,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/fc9e1ff926bc46c3ea5bbcad5ad3a5efb83050aa"
+      }
+    },
+    {
+      "coordinates": [
+        2.729145456228622,
+        20.57091727933441
+      ],
+      "properties": {
+        "externalId": "jno2RL3dKl",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在*Haven*北侧找到。 |\n\n> 激活增强感知将会高亮标记，将准星指向标记位置时，随着距离越来越近，准星会变成圆圈。\n>\n>> 注意：此收集品在完成*赫斯珀里得斯之路*任务后才会出现。\n>\n> 摄像头通常在屋顶或建筑墙壁附近找到。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1575010,
+        "imagePath": "/game_map_pin/1575010/{size}.webp",
+        "videoId": 1575011,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/c16bf4fbb2829691dd8661085fc580f9999f5683"
+      }
+    },
+    {
+      "coordinates": [
+        13.309887470186311,
+        17.795358222737562
+      ],
+      "properties": {
+        "externalId": "13xIv5Ie8E",
+        "title": "",
+        "description": "| 位置 |\n|-----------|\n| 在*避风港*东侧发现。 |\n\n> 激活强化感知会高亮显示标记，将准星指向标记位置时，越靠近标记，准星就会变成圆形。\n>\n>> 注意：这个收集品在完成*赫斯珀里得斯之路*任务后才会出现。\n>\n> 摄像头大多位于屋顶或建筑物墙壁周围。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1575012,
+        "imagePath": "/game_map_pin/1575012/{size}.webp",
+        "videoId": 1575013,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/e0b9f36e03cd462773b4758d6a0264a8a13fbc2c"
+      }
+    },
+    {
+      "coordinates": [
+        39.55525544230085,
+        8.484927174780822
+      ],
+      "properties": {
+        "externalId": "bSSZXiKjtn",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于*织工塔*以西。 |\n\n> 激活增强感知将会高亮显示标记，将准星指向标记位置时，越接近标记准星就会变成圆圈。\n>\n>> 注意：此收集品在完成*赫斯珀里得斯的道路*任务后才可获得。\n>\n> 摄像头大多位于屋顶或建筑物墙壁周围。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1575014,
+        "imagePath": "/game_map_pin/1575014/{size}.webp",
+        "videoId": 1575015,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/8f64079fb992e7982497fe3e0c755fce9f1ac597"
+      }
+    },
+    {
+      "coordinates": [
+        35.3797572216848,
+        -4.483139265679412
+      ],
+      "properties": {
+        "externalId": "06TjCli2iJ",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于*织工塔*以西。 |\n\n> 激活增强感知将会高亮显示标记，将准星指向标记位置时，越接近标记准星就会变成圆圈。\n>\n>> 注意：此收集品在完成*赫斯珀里得斯的道路*任务后才可获得。\n>\n> 摄像头大多位于屋顶或建筑物墙壁周围。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1575017,
+        "imagePath": "/game_map_pin/1575017/{size}.webp",
+        "videoId": 1575018,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/0f8a28082365022f873b3242a04275767b890f5f"
+      }
+    },
+    {
+      "coordinates": [
+        45.63497037482256,
+        -17.000029868170017
+      ],
+      "properties": {
+        "externalId": "QZOgnbW5f4",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于 *中庭* 的屋顶。 |\n\n> 激活增强感官会高亮显示标记，将准星指向标记位置时，越接近标记，准星会变成圆形。\n>\n>> 注意：完成 *赫斯珀里得斯之路* 任务后，此收集品才会出现。\n>\n> 摄像头大多位于屋顶或建筑物墙壁周围。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1575019,
+        "imagePath": "/game_map_pin/1575019/{size}.webp",
+        "videoId": 1575020,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/4605868aa9ae3d8a6de6053ef258145cded87f97"
+      }
+    },
+    {
+      "coordinates": [
+        9.078869482871141,
+        -11.588831890546729
+      ],
+      "properties": {
+        "externalId": "2OwkzNTN3q",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在*Makom Bar*东北方向找到。 |\n\n> 激活强化感官将会突出显示标记，将准星指向标记位置时，准星会变成圆圈，越接近目标圆圈越明显。\n>\n>> 注意：此收集品在完成*赫斯珀里得斯之路*任务后才能获得。\n>\n> 摄像头大多位于屋顶或建筑物墙壁周围。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1575021,
+        "imagePath": "/game_map_pin/1575021/{size}.webp",
+        "videoId": 1575022,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/ed655552a14b7d7f5880c570a05a0dacef860a8f"
+      }
+    },
+    {
+      "coordinates": [
+        -4.958966142627844,
+        -16.444923354962597
+      ],
+      "properties": {
+        "externalId": "wLQFB448mN",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于屋顶上，在 *Makom酒吧* 的西北方。 |\n\n> 激活强化感知会突出显示标记，将准星指向标记位置时，越接近标记，准星会变成圆形。\n>\n>> 注意：此收集品在完成 *赫斯佩里得斯之路* 任务后才可获得。\n>\n> 摄像头大多位于屋顶或建筑物的墙壁周围。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1575023,
+        "imagePath": "/game_map_pin/1575023/{size}.webp",
+        "videoId": 1575024,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/8200f6bde4120a5e2fff585a4383fad3a555ab7e"
+      }
+    },
+    {
+      "coordinates": [
+        1.5024492571109533,
+        -25.17788486682926
+      ],
+      "properties": {
+        "externalId": "zjleUPWQn3",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于*冰川酒店*东侧的屋顶。 |\n\n> 激活增强感官会突出显示标记，将准星指向标记位置时，距离越近准星会变成圆形。\n>\n>> 注意：此收集品在完成*赫斯珀里得斯之径*任务后才可获得。\n>\n> 摄像头主要分布在屋顶或建筑物的墙壁周围。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1575025,
+        "imagePath": "/game_map_pin/1575025/{size}.webp",
+        "videoId": 1575026,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/efa2f35670e0500421d34f8d4d4f7e4055fb494f"
+      }
+    },
+    {
+      "coordinates": [
+        34.60040435021418,
+        -25.394781895629905
+      ],
+      "properties": {
+        "externalId": "vI0Yt1rgBn",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于屋顶，在*中庭*的西侧。 |\n\n> 激活强化感官会高亮显示标记，将准星指向标记位置时，准星会变成圆圈，越接近目标圆圈越明显。\n>\n>> 注意：此收集品在完成*赫斯珀里得斯之路*任务后才可获得。\n>\n> 摄像头大多位于屋顶或建筑物墙壁周围。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1575030,
+        "imagePath": "/game_map_pin/1575030/{size}.webp",
+        "videoId": 1575031,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/91d02aeeb52f5faf8b3a4077034a58e7d36db68e"
+      }
+    },
+    {
+      "coordinates": [
+        55.10924888595224,
+        -23.793042788451174
+      ],
+      "properties": {
+        "externalId": "ZqQNG9eVJk",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在*中庭*东侧发现。 |\n\n> 激活强化感官将突出显示标记，将准星指向标记位置时，越靠近准星就会变成圆圈。\n>\n>> 注意：此收藏品在完成*赫斯珀里得斯之路*任务后才会出现。\n>\n> 摄像头主要分布在屋顶或建筑物墙壁周围。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1575033,
+        "imagePath": "/game_map_pin/1575033/{size}.webp",
+        "videoId": 1575034,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/2982eb2fa65b51642c1c2c5c1edb54d0f5df1afd"
+      }
+    },
+    {
+      "coordinates": [
+        -6.251113670859553,
+        -2.6137857301591794
+      ],
+      "properties": {
+        "externalId": "Ku4x0wLO5V",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于*圣斯蒂芬斯*西侧。 |\n\n> 激活增强感官将会高亮显示标记，将准星指向标记位置时，越靠近标记，准星就会变成圆形。\n>\n>> 注意：此收集品在完成*赫斯珀里得斯之路*任务后才会开放。\n>\n> 摄像头通常位于屋顶或建筑物的墙壁周围。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1575037,
+        "imagePath": "/game_map_pin/1575037/{size}.webp",
+        "videoId": 1575038,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/62467235e8ee460af0ac636b4e727cd68077b222"
+      }
+    },
+    {
+      "coordinates": [
+        8.375167624533134,
+        -32.80642735926877
+      ],
+      "properties": {
+        "externalId": "JtWE1KQwe1",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于*冰川酒店*东南方向。 |\n\n> 激活强化感官会突出显示标记，将准星指向标记位置时，准星会变成圆圈，距离越近圆圈越明显。\n>\n>> 注意：此收集品在完成*赫斯珀里得斯之路*任务后才可获得。\n>\n> 摄像头主要分布在屋顶或建筑物墙壁周围。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1575039,
+        "imagePath": "/game_map_pin/1575039/{size}.webp",
+        "videoId": 1575040,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/72cf4c62cfe1c3052595e0c97320d0d47d140cc7"
+      }
+    },
+    {
+      "coordinates": [
+        11.91262173529006,
+        5.287561577624103
+      ],
+      "properties": {
+        "externalId": "QRTqW2KqWE",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在位于 *圣史蒂芬* 北面的小巷中找到。 |\n\n> 激活强化感官将高亮显示标记，将准星指向标记位置时，越靠近准星就会变成圆形。\n>\n>> 注意：此收集品在完成 *赫斯珀里得斯之路* 任务后才可获得。\n>\n> 摄像头大多位于屋顶或建筑物墙壁周围。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1575041,
+        "imagePath": "/game_map_pin/1575041/{size}.webp",
+        "videoId": 1575042,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/a63c14c785e56b671815a00ee2ae966ba69ef89f"
+      }
+    },
+    {
+      "coordinates": [
+        -6.023525424674716,
+        6.174538704126718
+      ],
+      "properties": {
+        "externalId": "C4E4KC1EGz",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于小巷中，在*圣史蒂芬*西北方向。 |\n\n> 激活强化感官将会突出显示标记，将准星指向标记位置时，距离越近准星会变成圆圈。\n>\n>> 注意：此收藏品在完成*赫斯珀里得斯之路*任务后才可获得。\n>\n> 摄像头主要分布在屋顶或建筑物墙壁附近。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1575043,
+        "imagePath": "/game_map_pin/1575043/{size}.webp",
+        "videoId": 1575044,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/d01a582103d49d1c247bb451a01d5d5bdc227b09"
+      }
+    },
+    {
+      "coordinates": [
+        -20.167056004407186,
+        -20.01503184391413
+      ],
+      "properties": {
+        "externalId": "0DAxd3bPxB",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在*汽车修理厂*南面找到。|\n\n> 激活增强感官会高亮显示标记，将准星指向标记位置时，越靠近准星就会变成圆圈。\n>\n>> 注意：此收藏品在完成*赫斯珀里得斯之径*任务后才可获得。\n>\n> 摄像头大多在屋顶或建筑物墙壁周围找到。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1575045,
+        "imagePath": "/game_map_pin/1575045/{size}.webp",
+        "videoId": 1575046,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/e8cc3d5d14cda4aec99e031fdbdaf6ae66ba8b3f"
+      }
+    },
+    {
+      "coordinates": [
+        -32.292995074090015,
+        -1.5461633084967872
+      ],
+      "properties": {
+        "externalId": "P1s8lIdLNR",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于屋顶，在*极光当铺*北侧。 |\n\n> 收集菲尔的血印可以为你增加生命值和100经验值。\n>\n>> **注意：** 激活强化感官会突出显示血印，将准星指向血印位置时，越接近准星就会变成圆圈形状。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1575047,
+        "imagePath": "/game_map_pin/1575047/{size}.webp",
+        "videoId": 1575048,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/ea35eec153fe6dfba80868b8cfc9ee9c15b68abe"
+      }
+    },
+    {
+      "coordinates": [
+        -30.69785154681503,
+        -0.8676622005356904
+      ],
+      "properties": {
+        "externalId": "wyBZAtEfvr",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在屋顶找到，位于 *Aurora Pawn* 的北侧。 |\n\n> 激活增强感官会突出显示标记，将准星指向标记位置时，越接近标记，准星会变成圆圈。\n>\n>> 注意：此收藏品在完成 *The Pathways of Hesperides* 任务后才会出现。\n>\n> 摄像头主要分布在屋顶或建筑物墙壁周围。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1575050,
+        "imagePath": "/game_map_pin/1575050/{size}.webp",
+        "videoId": 1575051,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/b95f38c2780281dbe95de80cc7e5c817119653a7"
+      }
+    },
+    {
+      "coordinates": [
+        -25.21923016363877,
+        -27.149925240063048
+      ],
+      "properties": {
+        "externalId": "wOFlZcZoGY",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 位于屋顶，坐落在*Hole in the Wall*东北方向。 |\n\n> 激活增强感官将突出显示标记，将准星指向标记位置时，越接近目标准星就会变成圆形。\n>\n>> 注意：此收集品在完成*The Pathways of Hesperides*任务后才可获得。\n>\n> 摄像头主要分布在屋顶或建筑物墙壁周围。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1575052,
+        "imagePath": "/game_map_pin/1575052/{size}.webp",
+        "videoId": 1575053,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/0b54fac04e83197e704416346159e264828910bd"
+      }
+    },
+    {
+      "coordinates": [
+        -36.0420588072858,
+        -21.336282111264637
+      ],
+      "properties": {
+        "externalId": "MYl4IROA4K",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在屋顶的神殿中发现，位于*[墙洞](wemod:\\/\\/maps\\/99688\\/661?location=26V2IF4Aoi)*的西北方。 |\n\n> 激活强化感官将会高亮显示标记，将准星指向标记位置时，距离越近准星会变成圆形。\n>\n>> 注意：此收藏品在完成*[赫斯珀里得斯之路](wemod:\\/\\/maps\\/99688\\/661?location=A1AgpPD0CT)*任务后才可获得。\n>\n> 摄像头大多位于屋顶或建筑物墙壁周围。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1575054,
+        "imagePath": "/game_map_pin/1575054/{size}.webp",
+        "videoId": 1575055,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/b92ac947b2aee6a552e8dac40f652d11823b39cf"
+      }
+    },
+    {
+      "coordinates": [
+        34.6717498177249,
+        39.29928473684217
+      ],
+      "properties": {
+        "externalId": "Vi1b0XxnGt",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在桥下找到，位于*音乐学院*西侧。 |\n\n> 激活增强感官会突出显示标记，将准星指向标记位置时，距离越近准星会变成圆圈。\n>\n>> 注意：此收集品在完成*赫斯珀里得斯之路*任务后才可获得。\n>\n> 摄像头大多位于屋顶或建筑物墙壁附近。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1575056,
+        "imagePath": "/game_map_pin/1575056/{size}.webp",
+        "videoId": 1575057,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/06439798d3611231ccefd48930b1aa0c30a3817f"
+      }
+    },
+    {
+      "coordinates": [
+        7.226927847473121,
+        38.95636198634068
+      ],
+      "properties": {
+        "externalId": "jSgCKxUkUf",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在屋顶找到。 |\n\n> 激活增强感官将突出显示标记，将准星指向标记位置时，越接近标记，准星就会变成圆形。\n>\n>> 注意：此收藏品在完成*赫斯珀里得斯之路*任务后才可获得。\n>\n> 摄像头大多位于屋顶或建筑物墙壁周围。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1575058,
+        "imagePath": "/game_map_pin/1575058/{size}.webp",
+        "videoId": 1575059,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/fc39311bfc9f2445d086872a6b366bc9e41c1e53"
+      }
+    },
+    {
+      "coordinates": [
+        -45.055697002510215,
+        -22.524264488217142
+      ],
+      "properties": {
+        "externalId": "hqoaYHWWVY",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在小巷中找到。 |\n\n> 激活强化感官将会高亮标记，将准星指向标记位置时，越靠近准星就会变成圆圈。\n>\n>> 注意：此收藏品在完成 *[赫斯珀里得斯之路](wemod:\\/\\/maps\\/99688\\/661?location=A1AgpPD0CT)* 任务后才可获得。\n>\n> 摄像头主要分布在屋顶或建筑物墙壁周围。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1575061,
+        "imagePath": "/game_map_pin/1575061/{size}.webp",
+        "videoId": 1575062,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/900bd8075e1cfdc95cdf2e36a2242b646de4691a"
+      }
+    },
+    {
+      "coordinates": [
+        -41.53246037145436,
+        -10.827610554921122
+      ],
+      "properties": {
+        "externalId": "LbmNHJk90U",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在屋顶上发现，位于*Aurora Pawn*的西南方。 |\n\n> 激活增强感官会突出显示标记，将准星指向标记位置时，随着距离的接近，准星会变成圆圈。\n>\n>> 注意：此收藏品在完成*The Pathways of Hesperides*任务后才会可用。\n>\n> 摄像头大多分布在屋顶或建筑物墙壁周围。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1575063,
+        "imagePath": "/game_map_pin/1575063/{size}.webp",
+        "videoId": 1575064,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/ff25b4cdd6ca649ccff3cb94411b6f966ac09431"
+      }
+    },
+    {
+      "coordinates": [
+        -65.91484824608207,
+        -12.748243616656694
+      ],
+      "properties": {
+        "externalId": "53sQLLpEhV",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在工厂找到。|\n\n> 激活增强感官将突出显示标记，将准星指向标记位置时，越靠近准星就会变成圆圈。\n>\n>> 注意：完成*赫斯珀里德斯之路*任务后，此收集品才可获得。\n>\n> 摄像头主要分布在屋顶或建筑物墙壁周围。",
+        "subcategoryExternalId": "htPwiETz7v",
+        "imageId": 1575065,
+        "imagePath": "/game_map_pin/1575065/{size}.webp",
+        "videoId": 1575066,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/0f6616b496adcef7c36212e6f42f33dc2a03218c"
+      }
+    },
+    {
+      "coordinates": [
+        -38.9828145394784,
+        22.2437452178805
+      ],
+      "properties": {
+        "externalId": "dOLaRz37D7",
+        "title": "阿耳戈斯之眼",
+        "description": "",
+        "subcategoryExternalId": "Yt6vyQNLxM",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -33.272502791394146,
+        -7.584611235517357
+      ],
+      "properties": {
+        "externalId": "GzRXpEyakc",
+        "title": "诱捕耳环",
+        "description": "",
+        "subcategoryExternalId": "Yt6vyQNLxM",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -16.35217754165643,
+        -4.352737010174053
+      ],
+      "properties": {
+        "externalId": "5LJBg43Xo4",
+        "title": "凌驾于法律之上",
+        "description": "",
+        "subcategoryExternalId": "Yt6vyQNLxM",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -4.371876858844672,
+        -28.238417680159493
+      ],
+      "properties": {
+        "externalId": "Opv6QXkwdQ",
+        "title": "与鲨鱼共游",
+        "description": "",
+        "subcategoryExternalId": "Yt6vyQNLxM",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -38.030876365318136,
+        -24.53546315273877
+      ],
+      "properties": {
+        "externalId": "irar8cKLeN",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在屋顶找到。 |\n\n> 收集菲尔的血印会为你增加生命值和100经验值。\n>\n>> **注意：** 激活强化感官会高亮显示血印，将准星指向血印位置时，越接近准星就会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1575072,
+        "imagePath": "/game_map_pin/1575072/{size}.webp",
+        "videoId": 1575073,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/1860c42db9f8f5d70541734c49ece21b50577c35"
+      }
+    },
+    {
+      "coordinates": [
+        55.26095749697606,
+        30.705493062660025
+      ],
+      "properties": {
+        "externalId": "IKjaaRDnRe",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在温室内发现。 |\n\n> 收集菲尔的血印可获得增加的生命值和100经验值。\n>\n>> **注意：** 激活强化感知将会突出显示血印，将准星指向血印位置时，越接近血印准星就会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1575078,
+        "imagePath": "/game_map_pin/1575078/{size}.webp",
+        "videoId": 1575079,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/62ae98821b03164b5806a97ad3b78c3924f0a345"
+      }
+    },
+    {
+      "coordinates": [
+        55.18320283870679,
+        31.84226882440936
+      ],
+      "properties": {
+        "externalId": "e2LeYO7NEN",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在温室内发现。 |\n\n> 收集菲尔的血印可获得增加的生命值和100经验值。\n>\n>> **注意：** 激活强化感知将会突出显示血印，将准星指向血印位置时，越接近血印准星就会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1575080,
+        "imagePath": "/game_map_pin/1575080/{size}.webp",
+        "videoId": 1575081,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/2ef720cff1408a2dd8c5f91a4c8af439a6f4a15c"
+      }
+    },
+    {
+      "coordinates": [
+        55.21772971504245,
+        32.74770084905252
+      ],
+      "properties": {
+        "externalId": "BZeMJFr2Zg",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在温室内发现。 |\n\n> 收集菲尔的血印可获得增加的生命值和100经验值。\n>\n>> **注意：** 激活强化感知将会突出显示血印，将准星指向血印位置时，越接近血印准星就会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1575083,
+        "imagePath": "/game_map_pin/1575083/{size}.webp",
+        "videoId": 1575084,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/9761175a43e611f4e9bff0eaf93af766ec2cf3b6"
+      }
+    },
+    {
+      "coordinates": [
+        55.21591033713406,
+        33.60641613423111
+      ],
+      "properties": {
+        "externalId": "c8eJgyizRM",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在温室内发现。 |\n\n> 收集菲尔的血印可获得增加的生命值和100经验值。\n>\n>> **注意：** 激活强化感知将会突出显示血印，将准星指向血印位置时，越接近血印准星就会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1575087,
+        "imagePath": "/game_map_pin/1575087/{size}.webp",
+        "videoId": 1575088,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/85cb39d242029b55e536b30c861b5a23017b09d1"
+      }
+    },
+    {
+      "coordinates": [
+        55.225109736163205,
+        34.49563285603388
+      ],
+      "properties": {
+        "externalId": "yg3JP8R6oZ",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在温室内发现。 |\n\n> 收集菲尔的血印可获得增加的生命值和100经验值。\n>\n>> **注意：** 激活强化感知将会突出显示血印，将准星指向血印位置时，越接近血印准星就会变成圆形。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1575090,
+        "imagePath": "/game_map_pin/1575090/{size}.webp",
+        "videoId": 1575091,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/d8c13c00790b539fe411dddf3764555fb28d3b04"
+      }
+    },
+    {
+      "coordinates": [
+        -0.9644394046961793,
+        -16.23875679945715
+      ],
+      "properties": {
+        "externalId": "8g3ytLcVPZ",
+        "title": "倒垃圾",
+        "description": "| 上一个 | 下一个 |\n|--------|--------|\n| *西雅图的新常态* | *今日特色菜* |",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -3.737301642577222,
+        -23.664922879546012
+      ],
+      "properties": {
+        "externalId": "uuvJpO9j9a",
+        "title": "每日特色菜",
+        "description": "| 上一个 | 下一个 |\n|--------|--------|\n| *倒垃圾* |  *普洛斯彼罗的吻* |",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        54.26862935513006,
+        1.4643302676547592
+      ],
+      "properties": {
+        "externalId": "RmPBmrNGF8",
+        "title": "普洛斯彼罗之吻",
+        "description": "| 上一个 | 下一个 |\n|--------|--------|\n| *今日特色菜* | *追逐老鼠* |",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -29.272065194383913,
+        -27.11317554991377
+      ],
+      "properties": {
+        "externalId": "QlN6pInLKE",
+        "title": "鼠群奔行之地",
+        "description": "| 上一个 | 下一个 |\n|--------|--------|\n| *来自普洛斯彼罗的吻* | *服务、荣誉与奉献* |",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -4.35933734700518,
+        -27.77095778996444
+      ],
+      "properties": {
+        "externalId": "Dkq88mNwVy",
+        "title": "雷吉那一边",
+        "description": "",
+        "subcategoryExternalId": "Yt6vyQNLxM",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -16.341392729336434,
+        -3.8514394992803034
+      ],
+      "properties": {
+        "externalId": "dfKkHE01wa",
+        "title": "契约时间表",
+        "description": "",
+        "subcategoryExternalId": "Yt6vyQNLxM",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -32.98311989050433,
+        -8.157424241557266
+      ],
+      "properties": {
+        "externalId": "yMQxQ13AZh",
+        "title": "腐化圣像",
+        "description": "",
+        "subcategoryExternalId": "Yt6vyQNLxM",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -38.76362251855011,
+        -30.586755775499064
+      ],
+      "properties": {
+        "externalId": "alpclTdq1n",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在 *[The Coursing of the Rats](wemod:\\/\\/maps\\/99688\\/661?location=QlN6pInLKE)* 任务中发现。 |\n\n> 收集 Phyre 的血印会增加你的生命值并获得 100 经验值。\n>\n>> **注意：** 激活强化感知会突出显示血印，将准星指向血印位置时，距离越近准星会变成圆圈形状。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1575101,
+        "imagePath": "/game_map_pin/1575101/{size}.webp",
+        "videoId": 1575102,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/312d7696fc6b80dd0e5400b019cb73bed3b782bd"
+      }
+    },
+    {
+      "coordinates": [
+        -39.24039149061869,
+        -30.43091982134083
+      ],
+      "properties": {
+        "externalId": "Ld7HvacSLj",
+        "title": "",
+        "description": "| 位置 |\n|--------|\n| 在 *[The Coursing of the Rats](wemod:\\/\\/maps\\/99688\\/661?location=QlN6pInLKE)* 任务中发现。 |\n\n> 收集 Phyre 的血印会增加你的生命值并获得 100 经验值。\n>\n>> **注意：** 激活强化感知会突出显示血印，将准星指向血印位置时，距离越近准星会变成圆圈形状。",
+        "subcategoryExternalId": "8UBsbxE9bu",
+        "imageId": 1575104,
+        "imagePath": "/game_map_pin/1575104/{size}.webp",
+        "videoId": 1575105,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/661/628ccdd72f600feb17184ba1c2acdda63b7f6afe"
+      }
+    },
+    {
+      "coordinates": [
+        11.878910032951552,
+        3.8919162640426492
+      ],
+      "properties": {
+        "externalId": "xBlPKlBBgE",
+        "title": "服务、荣耀与奉献",
+        "description": "| 前一个 | 下一个 |\n|--------|--------|\n| *鼠群奔袭* | *血色街道* |",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        11.724472412098748,
+        -1.7909668531019207
+      ],
+      "properties": {
+        "externalId": "bWpAWLflir",
+        "title": "血色街区",
+        "description": "| 上一个 |\n|--------|\n| *服务、荣誉与奉献* |",
+        "subcategoryExternalId": "qhJBagZsKx",
+        "imageId": null,
+        "imagePath": ""
+      }
+    }
+  ]
+}

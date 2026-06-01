@@ -1,0 +1,16 @@
+{
+  "slug": "octopath-traveler-0",
+  "title": "OCTOPATH TRAVELER 0",
+  "heroUrl": "/assets/images/games/octopath-traveler-0/hero.webp",
+  "maps": [
+    {
+      "name": "Orsterra",
+      "slug": "orsterra",
+      "thumbnailUrl": "/assets/images/games/octopath-traveler-0/orsterra.webp",
+      "updatedAt": "2026-02-20T01:34:04Z",
+      "markerCount": 1909,
+      "categoryCount": 6,
+      "subcategoryCount": 31
+    }
+  ]
+}

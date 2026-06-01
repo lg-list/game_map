@@ -1,0 +1,3600 @@
+{
+  "metadata": {
+    "externalId": "fuv5FqiK7a",
+    "name": "World Map",
+    "slug": "world-map",
+    "baseTilePath": "https://storage-cdn.wemod.com/maps/d1df1163-1241-4244-a848-1e8983ff2804/tiles",
+    "isChecklistPublished": true,
+    "isInActiveDevelopment": false,
+    "backgroundColor": "#7c5434",
+    "minZoom": 1,
+    "maxZoom": 4,
+    "initialZoom": null,
+    "tmsEnabled": false,
+    "categories": [
+      {
+        "externalId": "pqOBXQofiX",
+        "gameMapExternalId": "fuv5FqiK7a",
+        "title": "Location",
+        "color": "#7788a1",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "imauawEcaB",
+        "gameMapExternalId": "fuv5FqiK7a",
+        "title": "Collectibles",
+        "color": "#7063bf",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "zFHPlM8ZRF",
+        "gameMapExternalId": "fuv5FqiK7a",
+        "title": "Quest",
+        "color": "#a1a1a1",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "subcategories": [
+      {
+        "externalId": "oWn3HOlDEA",
+        "categoryExternalId": "pqOBXQofiX",
+        "title": "Campfire",
+        "icon": "campfire",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "uVMFgG7f8r",
+        "categoryExternalId": "pqOBXQofiX",
+        "title": "Cave",
+        "icon": "roundies:food-sushi-triangle",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "uKQ17UkDO6",
+        "categoryExternalId": "pqOBXQofiX",
+        "title": "Base",
+        "icon": "roundies:architecture-tent",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "RhIwndJ9xG",
+        "categoryExternalId": "pqOBXQofiX",
+        "title": "Shrine",
+        "icon": "roundies:architecture-temple",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "A3BZJHCqTe",
+        "categoryExternalId": "pqOBXQofiX",
+        "title": "Tower",
+        "icon": "roundies:airport-and-hotels-airport-tower",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "iFBDzSSj7k",
+        "categoryExternalId": "pqOBXQofiX",
+        "title": "Evershops",
+        "icon": "roundies:architecture-shop",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "7WyRgwqsnN",
+        "categoryExternalId": "imauawEcaB",
+        "title": "Leafe",
+        "icon": "leaf-heart",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "o7AyInAQOb",
+        "categoryExternalId": "imauawEcaB",
+        "title": "Legendary Recipe",
+        "icon": "book-alt",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "NShcoaoJOU",
+        "categoryExternalId": "imauawEcaB",
+        "title": "Strangeling",
+        "icon": "ghost",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "MZPaPO4RUp",
+        "categoryExternalId": "zFHPlM8ZRF",
+        "title": "Personal Request",
+        "icon": "roundies:utility-2-text-message",
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "playerLocationDeltas": null
+  },
+  "features": [
+    {
+      "coordinates": [
+        -27.454364090063166,
+        -45.56404885187105
+      ],
+      "properties": {
+        "subcategoryExternalId": "A3BZJHCqTe",
+        "imageId": 1395684,
+        "videoId": 1395685,
+        "externalId": "dfICTqu6lj",
+        "title": "West Dryridge Dessert - Googlina's Tower",
+        "description": "$35",
+        "imagePath": "/game_map_pin/1395684/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/b909e081a932f12eb26ed03d320548ccb73bb694"
+      }
+    },
+    {
+      "coordinates": [
+        -39.899004503818276,
+        -37.20376429595842
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1395840,
+        "videoId": 1395841,
+        "externalId": "AdRA0VeZOw",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found near the shore. | Cashnut |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1395840/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/1a5c870ac9030741682621e570c476edd1fd2689"
+      }
+    },
+    {
+      "coordinates": [
+        -24.228452563563422,
+        -49.867244833003944
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1396651,
+        "videoId": 1396652,
+        "externalId": "Y4VLCkfMja",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found in a small island. | Millstone (Recipe) |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1396651/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/b66825342a21fd52f8481bca154240335b82563d"
+      }
+    },
+    {
+      "coordinates": [
+        -21.056839894791636,
+        -49.50532564758616
+      ],
+      "properties": {
+        "subcategoryExternalId": "oWn3HOlDEA",
+        "imageId": 1396653,
+        "videoId": 1396654,
+        "externalId": "ek9MUKkBme",
+        "title": "",
+        "description": "***\n#\n*\"Rest at campfires, found either in villages or next to tents scattered around Ginormosia to restore your strength.\"*",
+        "imagePath": "/game_map_pin/1396653/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/427ca5a997d5c8f9a7c9b5748e6b15d32e60734f"
+      }
+    },
+    {
+      "coordinates": [
+        -29.05980162351142,
+        -54.256267411307135
+      ],
+      "properties": {
+        "subcategoryExternalId": "o7AyInAQOb",
+        "imageId": 1396692,
+        "videoId": 1396693,
+        "externalId": "tBbYQeqJ7I",
+        "title": "Bow of Time",
+        "description": "***\n#\n|Location|\n| :-----------: |\n| Found at the peak of the mountain. |\n#\n*\"By taking part in **Legendary Challenges**, you can obtain the materials needed to craft legendary equipment.\"*\n#\n**NOTE:**\n- There's a small chance for this events to spawn at **Area Rank 3** or above.",
+        "imagePath": "/game_map_pin/1396692/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/753195698ff42f3a07f2ffcc7ed5c3f56ad66bc5"
+      }
+    },
+    {
+      "coordinates": [
+        -14.998475387444955,
+        -58.59352310396132
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1396729,
+        "videoId": 1396730,
+        "externalId": "KyTjP9e0YA",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found the peak of the mountain. | Desert Cactus (Outdoor Furniture) |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1396729/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/7c2773ff690c004cf0f67d479e5edac6f8549d3f"
+      }
+    },
+    {
+      "coordinates": [
+        -9.812928512443733,
+        -59.27381020886959
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1396732,
+        "videoId": 1396733,
+        "externalId": "WAZyPeGwqw",
+        "title": "Witch's Broom",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found South of the *West Dryridge Dessert*. | Magician |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1396732/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/1f11dcda2f2f246a8b5625e84a46e2e96251b333"
+      }
+    },
+    {
+      "coordinates": [
+        3.4294846994274053,
+        -50.642294375447854
+      ],
+      "properties": {
+        "subcategoryExternalId": "RhIwndJ9xG",
+        "imageId": 1396736,
+        "videoId": 1396737,
+        "externalId": "LCou8xqFrc",
+        "title": "Jo'ee Shrine",
+        "description": "***\n#\n*\"Solving the puzzles contained within the various shrines around Ginormosia may lead to mysterious encounters.\"*",
+        "imagePath": "/game_map_pin/1396736/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/d27949a7e68277d07a4904b9ac0e6d442f790a4e"
+      }
+    },
+    {
+      "coordinates": [
+        3.4294846994274053,
+        -49.85549043544829
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "pRX2Q2LaRu",
+        "title": "Odd Dresser",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found in *Jo'ee Shrine*. | Miner |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        5.011515949428144,
+        -50.362783934596116
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1396738,
+        "videoId": 1396739,
+        "externalId": "AiLZIc7rLF",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found behind the *Jo'ee Shrine*. | Mini Bomb |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1396738/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/07b99ccbab5440e5613810d83578731d9d3130c4"
+      }
+    },
+    {
+      "coordinates": [
+        -6.287239506854405,
+        -44.93473374688091
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1396740,
+        "videoId": 1396741,
+        "externalId": "92BPvg8GSn",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found on the ground. Located near the cliff. | Magical Omelet |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1396740/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/7c8cffc5082adbec1aae6944c1367caedb56aa4a"
+      }
+    },
+    {
+      "coordinates": [
+        4.124303834698992,
+        -40.25801203205723
+      ],
+      "properties": {
+        "subcategoryExternalId": "A3BZJHCqTe",
+        "imageId": 1396748,
+        "videoId": 1396749,
+        "externalId": "xz3k0rzD5t",
+        "title": "East Dryridge Desert - Googlbert's Tower",
+        "description": "$36",
+        "imagePath": "/game_map_pin/1396748/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/58db61149584e3c6547b3ce75cff3f9bfc680595"
+      }
+    },
+    {
+      "coordinates": [
+        7.945378877045556,
+        -35.968194515224546
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1396762,
+        "videoId": 1396763,
+        "externalId": "uMKIvteJHF",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found at the edge of the mountain. | Grilled Catfish |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1396762/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/192a9b011225e3ed855084325e7a3af9bdd1ee60"
+      }
+    },
+    {
+      "coordinates": [
+        13.746160127046267,
+        -35.96819451522438
+      ],
+      "properties": {
+        "subcategoryExternalId": "uVMFgG7f8r",
+        "imageId": 1396765,
+        "videoId": 1396766,
+        "externalId": "pDAegibz1A",
+        "title": "Wyrmtail Cave",
+        "description": "",
+        "imagePath": "/game_map_pin/1396765/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/00c7cf2aadf4a4eeeb3c048adf062065edb47ecd"
+      }
+    },
+    {
+      "coordinates": [
+        14.009832002045641,
+        -34.46033946749247
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1396771,
+        "videoId": 1396772,
+        "externalId": "IJRmfIwX5K",
+        "title": "Black Wolf Doll",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found in the blue chest. Located inside the *Wyrmtail Cave*. | Mercenary |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1396771/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/902f84234201d9c709265bcb2c663373fd753355"
+      }
+    },
+    {
+      "coordinates": [
+        9.191293719932645,
+        -49.555797056436624
+      ],
+      "properties": {
+        "subcategoryExternalId": "MZPaPO4RUp",
+        "imageId": 1396778,
+        "videoId": 1396779,
+        "externalId": "gQjv3NwV0J",
+        "title": "Essential Swimming Secrets",
+        "description": "***\n#\n|Request|Rewards|\n| :-----------: | :-----------: |\n| Gather 5x Cashnuts | Swimmer's Pride |\n|  | 500 Dosh |",
+        "imagePath": "/game_map_pin/1396778/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/2fc6e00ad4820b3264632c9350e799329c3c8f75"
+      }
+    },
+    {
+      "coordinates": [
+        13.589823462347368,
+        -50.823546546263486
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1396787,
+        "videoId": 1396788,
+        "externalId": "brMoxYTupj",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found near the lake. | Mini Bomb |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1396787/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/b2b44f347b87d34b44b3b2a44149454a5aa0bb31"
+      }
+    },
+    {
+      "coordinates": [
+        21.0328815683838,
+        -47.580855986907444
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1396791,
+        "videoId": 1396792,
+        "externalId": "7Soye5Skqr",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found on the ground. Surrounded by bushes. | Sack of Copper |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1396791/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/92cf21c4da1ef690d224dac5eb275eca8850bd18"
+      }
+    },
+    {
+      "coordinates": [
+        6.492605984129085,
+        -54.598005327639
+      ],
+      "properties": {
+        "subcategoryExternalId": "oWn3HOlDEA",
+        "imageId": 1396799,
+        "videoId": 1396800,
+        "externalId": "qj5ECHy3tl",
+        "title": "",
+        "description": "***\n#\n*\"Rest at campfires, found either in villages or next to tents scattered around Ginormosia to restore your strength.\"*",
+        "imagePath": "/game_map_pin/1396799/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/374267f9981b099a87e80032a1e3cb391b4ce3f0"
+      }
+    },
+    {
+      "coordinates": [
+        7.986746609128801,
+        -55.304606891567666
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1396805,
+        "videoId": 1396806,
+        "externalId": "22WPX7dAfn",
+        "title": "Cash Cat",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found in *Haniwa Hamlet*. |  |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1396805/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/9d753acc3dafc1bcdaadad74e0c89e0f3dfd48b1"
+      }
+    },
+    {
+      "coordinates": [
+        9.480887234128573,
+        -55.702819526330835
+      ],
+      "properties": {
+        "subcategoryExternalId": "MZPaPO4RUp",
+        "imageId": 1396816,
+        "videoId": 1396817,
+        "externalId": "uwLz03fgOW",
+        "title": "For My Golden Guy",
+        "description": "***\n#\n|Unlocks|\n| :-----------: |\n| *Seeking a Connection* |\n#\n|Request|Rewards|\n| :-----------: | :-----------: |\n| HP Potion + (4x) | SP Potion |\n|  | 500 Dosh |",
+        "imagePath": "/game_map_pin/1396816/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/37aaffc76fcbbe1b5a753c9327d7d095eae1c2d2"
+      }
+    },
+    {
+      "coordinates": [
+        6.31682473412701,
+        -55.9496613186554
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKQ17UkDO6",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "PeFkGFrCb2",
+        "title": "Haniwa Hamlet",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        16.898589528878375,
+        -42.112057493882034
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "x1D7x076qA",
+        "title": "Easy-Going Shield",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found by killing the roving mimic. | Paladin |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        28.236480153878347,
+        -50.3573591336298
+      ],
+      "properties": {
+        "subcategoryExternalId": "RhIwndJ9xG",
+        "imageId": 1396887,
+        "videoId": 1396888,
+        "externalId": "0EfzyOtBbo",
+        "title": "Sed'nas Shrine",
+        "description": "***\n#\n*\"Solving the puzzles contained within the various shrines around Ginormosia may lead to mysterious encounters.\"*",
+        "imagePath": "/game_map_pin/1396887/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/b205682e64be0dc1c3c454df989508717ae01993"
+      }
+    },
+    {
+      "coordinates": [
+        29.203277028878432,
+        -49.50878461803247
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1396895,
+        "videoId": 1396896,
+        "externalId": "ZZfW1Nay2x",
+        "title": "Free-Spirited Cap",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found in *Sed'nas Shrine* | Paladin |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1396895/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/a36a21fb46018801c24eb97db65145910b8517f5"
+      }
+    },
+    {
+      "coordinates": [
+        42.00383424425951,
+        -40.58096091576183
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1396897,
+        "videoId": 1396898,
+        "externalId": "xI6jT1Tv53",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found at the valley. | Cashnut |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1396897/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/c34ae1cefb1108f0b4327e7f26f09a2d480194be"
+      }
+    },
+    {
+      "coordinates": [
+        46.47223043943055,
+        -36.42261349399502
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1396915,
+        "videoId": 1396916,
+        "externalId": "ohjWmvVNmz",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found on the cliff side. | Rustic Standing Torch |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1396915/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/9b7e5265f168adbc14bd20c28565531ad099b7e9"
+      }
+    },
+    {
+      "coordinates": [
+        47.878480439429154,
+        -34.85123251404142
+      ],
+      "properties": {
+        "subcategoryExternalId": "o7AyInAQOb",
+        "imageId": 1396917,
+        "videoId": 1396918,
+        "externalId": "X7cmqIFNbg",
+        "title": "Needle of Time",
+        "description": "***\n#\n|Location|\n| :-----------: |\n| Found at the peak of the mountain. |\n#\n*\"By taking part in **Legendary Challenges**, you can obtain the materials needed to craft legendary equipment.\"*\n#\n**NOTE:**\n- There's a small chance for this events to spawn at **Area Rank 3** or above.",
+        "imagePath": "/game_map_pin/1396917/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/4e43006ae9363d274e61819d2b7fdbcc7c4528e6"
+      }
+    },
+    {
+      "coordinates": [
+        41.191675089140574,
+        -16.772626032047853
+      ],
+      "properties": {
+        "subcategoryExternalId": "A3BZJHCqTe",
+        "imageId": 1396927,
+        "videoId": 1396928,
+        "externalId": "L4sfN1cRUj",
+        "title": "Viridia Plateau - Googlilocks's Tower",
+        "description": "$37",
+        "imagePath": "/game_map_pin/1396927/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/e2a72596b8da14fa59c389eaea2e4cc0a23f4a98"
+      }
+    },
+    {
+      "coordinates": [
+        42.38840920207622,
+        -16.30516627360157
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1396932,
+        "videoId": 1396933,
+        "externalId": "R1nKGKIcN7",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found behind the *Viridia Plateau - Googlilocks's Tower*. | Leafe Topiary |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1396932/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/ed4261ab279b308e12f1c462078e639a3ad15b0d"
+      }
+    },
+    {
+      "coordinates": [
+        42.38181408018099,
+        -3.1994584204779386
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1396934,
+        "videoId": 1396935,
+        "externalId": "rGbc9ofi5g",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found in the small lake. | Cashnut |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1396934/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/1c3fe22275cf0f3adb31da74c6565fd63d81b306"
+      }
+    },
+    {
+      "coordinates": [
+        43.25920769557891,
+        -10.740475385848825
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1396940,
+        "videoId": 1396941,
+        "externalId": "w5lK3Yk1wx",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found near the *Angar Shrine*. | Sack of Gold |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1396940/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/1c7aef9a95badaa7a209565e373a2662140121eb"
+      }
+    },
+    {
+      "coordinates": [
+        44.401785820578255,
+        -9.702541881668878
+      ],
+      "properties": {
+        "subcategoryExternalId": "RhIwndJ9xG",
+        "imageId": 1396943,
+        "videoId": 1396944,
+        "externalId": "SqQJXU6eEP",
+        "title": "Angar Shrine",
+        "description": "***\n#\n*\"Solving the puzzles contained within the various shrines around Ginormosia may lead to mysterious encounters.\"*",
+        "imagePath": "/game_map_pin/1396943/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/bc204a3e2b411c6e3df33028100ac25d393fe470"
+      }
+    },
+    {
+      "coordinates": [
+        44.6233069527656,
+        -8.169697547072118
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1396951,
+        "videoId": 1396952,
+        "externalId": "sFVz2OvtlQ",
+        "title": "Fortune Cat Doll",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found in *Angar Shrine*. | Magician |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1396951/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/409df96953728ee7e3a212621a34135ecc87d7b5"
+      }
+    },
+    {
+      "coordinates": [
+        35.05607138951805,
+        -24.421248149814573
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1396956,
+        "videoId": 1396957,
+        "externalId": "bG0QiY4wce",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found next to the tree. Located beside the wooden fence. | Bullion Beetle |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1396956/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/3173a751637d6c3533f2a49dc708ff573451bb91"
+      }
+    },
+    {
+      "coordinates": [
+        20.554312592830456,
+        -23.841522371496865
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1396964,
+        "videoId": 1396965,
+        "externalId": "ZR5EN8GYcJ",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found near the *Campsite*. | Woven Sack |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1396964/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/747d2077fe154a85b382809d2074fb53aa7fe35b"
+      }
+    },
+    {
+      "coordinates": [
+        17.538804130819244,
+        -21.77950520878015
+      ],
+      "properties": {
+        "subcategoryExternalId": "oWn3HOlDEA",
+        "imageId": 1396972,
+        "videoId": 1396973,
+        "externalId": "8L4VhEN7Ou",
+        "title": "",
+        "description": "***\n#\n*\"Rest at campfires, found either in villages or next to tents scattered around Ginormosia to restore your strength.\"*",
+        "imagePath": "/game_map_pin/1396972/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/b3e4c56fce539128876bf368eee8173fd11b0eec"
+      }
+    },
+    {
+      "coordinates": [
+        17.78229958742753,
+        -11.538322926736953
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1396974,
+        "videoId": 1396975,
+        "externalId": "6jIEEBRRvC",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found on the ground. | Campfire Fish |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1396974/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/c7acda52b1f51c6538dd9fdf2ccf781a21657192"
+      }
+    },
+    {
+      "coordinates": [
+        11.273605832784938,
+        -19.473814723057288
+      ],
+      "properties": {
+        "subcategoryExternalId": "RhIwndJ9xG",
+        "imageId": 1396976,
+        "videoId": 1396977,
+        "externalId": "DLbwA1ruwS",
+        "title": "Sker'ri Shrine",
+        "description": "***\n#\n*\"Solving the puzzles contained within the various shrines around Ginormosia may lead to mysterious encounters.\"*",
+        "imagePath": "/game_map_pin/1396976/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/80e3fd567749995844998899cf1a02ecd6937911"
+      }
+    },
+    {
+      "coordinates": [
+        9.835080185125975,
+        -20.25680109676324
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1397029,
+        "videoId": 1397030,
+        "externalId": "XZIeC3Hy81",
+        "title": "Black Knight's Sword",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found in *Sker'ri Shrine*. | Paladin |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1397029/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/6cc0e99cd9bccb54bb2e812b8bc68ca2fa31282d"
+      }
+    },
+    {
+      "coordinates": [
+        30.734043196051005,
+        -7.644744094313225
+      ],
+      "properties": {
+        "subcategoryExternalId": "o7AyInAQOb",
+        "imageId": 1397048,
+        "videoId": 1397049,
+        "externalId": "6Pot6RSJU4",
+        "title": "Hoe of Time",
+        "description": "***\n#\n|Location|\n| :-----------: |\n| Found next to the wind mill. |\n#\n*\"By taking part in **Legendary Challenges**, you can obtain the materials needed to craft legendary equipment.\"*\n#\n**NOTE:**\n- There's a small chance for this events to spawn at **Area Rank 3** or above.",
+        "imagePath": "/game_map_pin/1397048/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/7a97e560791ea18ac2f44390284cef5451387014"
+      }
+    },
+    {
+      "coordinates": [
+        29.855136946051005,
+        -9.72979878222884
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1397059,
+        "videoId": 1397060,
+        "externalId": "WQNpaStE8Z",
+        "title": "Cook O'Latern",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found on the farm. Located near the *Hoe of Time*. | Cook |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1397059/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/b16205a7b9afa5a1d68be2d1d79efc084f9750cd"
+      }
+    },
+    {
+      "coordinates": [
+        -16.18596095007848,
+        -15.956433992498674
+      ],
+      "properties": {
+        "subcategoryExternalId": "A3BZJHCqTe",
+        "imageId": 1397411,
+        "videoId": 1397412,
+        "externalId": "lMbv9EsgF6",
+        "title": "South Greatgut Plains - Googlierre's Tower",
+        "description": "$38",
+        "imagePath": "/game_map_pin/1397411/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/b5efb3af6da00d8a91b2b498727b941c9305897c"
+      }
+    },
+    {
+      "coordinates": [
+        -3.6473392296335305,
+        -16.367093787043174
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1397416,
+        "videoId": 1397417,
+        "externalId": "bfdzybiTVA",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found behind the trees. Located in the lake east of *South Greatgut Plains - Googlierre's Tower*. | Great Bomb |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1397416/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/9cb6db5396eda38dfda9b18feeca78a0a7f3b401"
+      }
+    },
+    {
+      "coordinates": [
+        4.1656337569108075,
+        -25.24899294797264
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1397418,
+        "videoId": 1397419,
+        "externalId": "Nl5OICvl8K",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found below the cliff. | Cashnut |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1397418/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/ca4662a9c5ce164ad6388f8b1fd8ef6398a12964"
+      }
+    },
+    {
+      "coordinates": [
+        -6.996475618088937,
+        -21.865907820059235
+      ],
+      "properties": {
+        "subcategoryExternalId": "RhIwndJ9xG",
+        "imageId": 1397425,
+        "videoId": 1397426,
+        "externalId": "fNOdR9kMKj",
+        "title": "Fan'ni Shrine",
+        "description": "***\n#\n*\"Solving the puzzles contained within the various shrines around Ginormosia may lead to mysterious encounters.\"*",
+        "imagePath": "/game_map_pin/1397425/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/608803b67889c0fa923baa3fba8f24aa08bda1f3"
+      }
+    },
+    {
+      "coordinates": [
+        -7.699600618088766,
+        -20.3902785659227
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1397433,
+        "videoId": 1397434,
+        "externalId": "goAE70L1EV",
+        "title": "Angler's Hood",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found in *Fan'ni Shrine*. | Angler |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1397433/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/f37c9cc761fd94651ec0f1681f363835d88b0560"
+      }
+    },
+    {
+      "coordinates": [
+        -19.16131480995358,
+        -31.34136482658711
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1397436,
+        "videoId": 1397437,
+        "externalId": "5A4V2EwY1U",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found near the water falls. | Sack of Treasure |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1397436/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/7723132f4bf6b7f95718aa37bfc0083b3a37adeb"
+      }
+    },
+    {
+      "coordinates": [
+        -25.271403147759997,
+        -30.187794884881605
+      ],
+      "properties": {
+        "subcategoryExternalId": "RhIwndJ9xG",
+        "imageId": 1397438,
+        "videoId": 1397439,
+        "externalId": "jO9C1Z4mx5",
+        "title": "Ba'reng Shrine",
+        "description": "***\n#\n*\"Solving the puzzles contained within the various shrines around Ginormosia may lead to mysterious encounters.\"*",
+        "imagePath": "/game_map_pin/1397438/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/02d6eb5eb965e8f79001fcdefcc3607b4753cb5f"
+      }
+    },
+    {
+      "coordinates": [
+        -24.568278147760168,
+        -28.115517039492367
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1397443,
+        "videoId": 1397444,
+        "externalId": "wdRQ6woOki",
+        "title": "Soothing Basket",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found in *Ba'reng Shrine*. | Woodcutter |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1397443/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/9a28bc130f04c76ce05d6bddeb8992e2e3edb430"
+      }
+    },
+    {
+      "coordinates": [
+        -29.483958163137828,
+        -25.6361409987491
+      ],
+      "properties": {
+        "subcategoryExternalId": "uVMFgG7f8r",
+        "imageId": 1397447,
+        "videoId": 1397448,
+        "externalId": "zpw1EbYQ3h",
+        "title": "Great Nayvel Cave",
+        "description": "",
+        "imagePath": "/game_map_pin/1397447/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/685e89eead41f11ce4b0488ec2ccb60abd0cb604"
+      }
+    },
+    {
+      "coordinates": [
+        -28.25348941313743,
+        -24.441711507486517
+      ],
+      "properties": {
+        "subcategoryExternalId": "o7AyInAQOb",
+        "imageId": 1397452,
+        "videoId": 1397453,
+        "externalId": "JVwlUx9FkD",
+        "title": "Pickaxe of Time",
+        "description": "***\n#\n|Location|\n| :-----------: |\n| Found inside the *Great Nayvel Cave*. |\n#\n*\"By taking part in **Legendary Challenges**, you can obtain the materials needed to craft legendary equipment.\"*\n#\n**NOTE:**\n- There's a small chance for this events to spawn at **Area Rank 3** or above.",
+        "imagePath": "/game_map_pin/1397452/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/c0141f90959431ab713c36efde1ef8b98ef5370a"
+      }
+    },
+    {
+      "coordinates": [
+        -30.091789835848374,
+        -20.68243837757801
+      ],
+      "properties": {
+        "subcategoryExternalId": "oWn3HOlDEA",
+        "imageId": 1397457,
+        "videoId": 1397458,
+        "externalId": "sIl8U7uYai",
+        "title": "",
+        "description": "***\n#\n*\"Rest at campfires, found either in villages or next to tents scattered around Ginormosia to restore your strength.\"*",
+        "imagePath": "/game_map_pin/1397457/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/f219b3547c357b980806e9089117253f4d3afd5e"
+      }
+    },
+    {
+      "coordinates": [
+        -31.197239751392146,
+        -22.486965223064004
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1397459,
+        "videoId": 1397460,
+        "externalId": "3igf9QzzZY",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found behind the *Campfire*. | Courtship Fireworks |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1397459/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/0ba3ee4a7cb4862627f7c3381169c99b76e90517"
+      }
+    },
+    {
+      "coordinates": [
+        -25.861629997783723,
+        -10.741726352504827
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1397462,
+        "videoId": 1397463,
+        "externalId": "xZOhWc6KXO",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found on the ground. Located next to the rock. | Magical Flan |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1397462/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/de56d0996ed2eeacdd174176efeeadfb8ac993d1"
+      }
+    },
+    {
+      "coordinates": [
+        -35.779021469312625,
+        -8.20247690341894
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1397473,
+        "videoId": 1397474,
+        "externalId": "ByMkIWKjYg",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found in the cliff. Located near the shore. | Swabbie's Pants |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1397473/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/2471e5dfc16ab695dde151c7fa4016022509662f"
+      }
+    },
+    {
+      "coordinates": [
+        4.721117120478226,
+        6.742800704420063
+      ],
+      "properties": {
+        "subcategoryExternalId": "A3BZJHCqTe",
+        "imageId": 1397482,
+        "videoId": 1397483,
+        "externalId": "qCQiS7o1FF",
+        "title": "West Greatgut Plains - Googlelot's Tower",
+        "description": "$39",
+        "imagePath": "/game_map_pin/1397482/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/835dbf2f3c7b96ae9d3d36851dc984e11b95f60d"
+      }
+    },
+    {
+      "coordinates": [
+        -2.477575943137083,
+        -0.8794307513652626
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKQ17UkDO6",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "TetqQ3eq08",
+        "title": "Buffalo Base",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -5.91570190185854,
+        -2.619815479760362
+      ],
+      "properties": {
+        "subcategoryExternalId": "oWn3HOlDEA",
+        "imageId": 1397661,
+        "videoId": 1397662,
+        "externalId": "0SPN7DNuSQ",
+        "title": "",
+        "description": "***\n#\n*\"Rest at campfires, found either in villages or next to tents scattered around Ginormosia to restore your strength.\"*",
+        "imagePath": "/game_map_pin/1397661/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/14bc620786a9cbe77cd9f32f574634ae469b5348"
+      }
+    },
+    {
+      "coordinates": [
+        -8.803436593113105,
+        -2.54403399283305
+      ],
+      "properties": {
+        "subcategoryExternalId": "iFBDzSSj7k",
+        "imageId": 1397664,
+        "videoId": 1397665,
+        "externalId": "CkX8LAtSM6",
+        "title": "Evershop - Buffalo Base",
+        "description": "***\n#\n**NOTE:**\n- You can sell vegetables at the Evershop. Selling produce will earn you items as well as currency to be used in Ginormosia.",
+        "imagePath": "/game_map_pin/1397664/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/ba3fd41ffd5fb702f6c0386b287bdb411ae1f996"
+      }
+    },
+    {
+      "coordinates": [
+        10.849120909084547,
+        -54.93785172546933
+      ],
+      "properties": {
+        "subcategoryExternalId": "MZPaPO4RUp",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "oyLNmuGug1",
+        "title": "Seeking a Connection",
+        "description": "***\n#\n|Requirement|Unlocks|\n| :-----------: | :-----------: |\n| *For My Golden Guy* | *Selfish Self-Improvement* |\n#\n|Request|Rewards|\n| :-----------: | :-----------: |\n| Magic Aid + (4x) | Healing Powder |\n|  | 1000 Dosh |",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -18.141525920936374,
+        -1.9373678356721342
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1397696,
+        "videoId": 1397697,
+        "externalId": "mKBGN2ofWo",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found in between the trees. Located beside the river. | Hi-SP Potion |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1397696/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/dd2f2c066d57c77743d75f42a5854d30fea0f3dc"
+      }
+    },
+    {
+      "coordinates": [
+        -31.442643525362286,
+        8.731247633851822
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1397698,
+        "videoId": 1397699,
+        "externalId": "4Ag292VsAw",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found next to the Palm Tree. | Paralyzing Bomb |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1397698/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/26394e8d47e220501923620b44b1489cd59ab531"
+      }
+    },
+    {
+      "coordinates": [
+        -19.826598449153238,
+        12.426510390482392
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1397702,
+        "videoId": 1397703,
+        "externalId": "NIVGWr2NdP",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found next to the small pond. | Great Prairie Stew |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1397702/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/9d6878b8d41136f0029457e7940cd4ed2c0221c1"
+      }
+    },
+    {
+      "coordinates": [
+        -1.1709009177199903,
+        11.792489640948588
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1397704,
+        "videoId": 1397705,
+        "externalId": "c1D4zv4HeK",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found East of the Castle. | Dried Leaf Art |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1397704/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/16c459bfdcdbc2a873d0aac4873638dbbe95d446"
+      }
+    },
+    {
+      "coordinates": [
+        -2.8108900312279843,
+        21.525680812352334
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1397706,
+        "videoId": 1397707,
+        "externalId": "wRFttmE04T",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found next to the river. | Cashnut |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1397706/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/6937d9714846a2f2b3831dee0b3463f7fab6ac35"
+      }
+    },
+    {
+      "coordinates": [
+        -16.11062950515506,
+        26.23892691015216
+      ],
+      "properties": {
+        "subcategoryExternalId": "o7AyInAQOb",
+        "imageId": 1397708,
+        "videoId": 1397709,
+        "externalId": "dk3MVkOtho",
+        "title": "Shield of Time",
+        "description": "***\n#\n|Location|\n| :-----------: |\n| Found next to the small pond. |\n#\n*\"By taking part in **Legendary Challenges**, you can obtain the materials needed to craft legendary equipment.\"*\n#\n**NOTE:**\n- There's a small chance for this events to spawn at **Area Rank 3** or above.",
+        "imagePath": "/game_map_pin/1397708/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/6ee5547c416a92fc214f3bcc2751326d4e920204"
+      }
+    },
+    {
+      "coordinates": [
+        -11.38406256585688,
+        29.945294121386596
+      ],
+      "properties": {
+        "subcategoryExternalId": "RhIwndJ9xG",
+        "imageId": 1397710,
+        "videoId": 1397711,
+        "externalId": "wlGpujcwS5",
+        "title": "Eag'ah Shrine",
+        "description": "***\n#\n*\"Solving the puzzles contained within the various shrines around Ginormosia may lead to mysterious encounters.\"*",
+        "imagePath": "/game_map_pin/1397710/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/51440726dfb4a811e4104587672a08ebf561210f"
+      }
+    },
+    {
+      "coordinates": [
+        -10.234396559606381,
+        30.967873638233527
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1397714,
+        "videoId": 1397715,
+        "externalId": "vbIYEwW3Oj",
+        "title": "Snowy Idol",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found in *Eag'ah Shrine*. | Mercenary |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1397714/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/c47c0cf15817923bc370e6482b9815ca53e4eedc"
+      }
+    },
+    {
+      "coordinates": [
+        -13.625301489861954,
+        22.005564614488705
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "JG6Qrpj0ay",
+        "title": "Snacky Pie",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found by killing the roving mimic. | Cook |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        11.994573630762773,
+        -54.0491654606988
+      ],
+      "properties": {
+        "subcategoryExternalId": "MZPaPO4RUp",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "mwqmJUakgX",
+        "title": "Selfish Self-Improvement",
+        "description": "***\n#\n|Requirement|Unlocks|\n| :-----------: | :-----------: |\n| *Seeking a Connection* | *Cash Cat* |\n#\n|Request|Rewards|\n| :-----------: | :-----------: |\n| Resistance Spray + (2x) | Cash Cat |\n|  | 2500 Dosh |",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -12.143864290375262,
+        39.60080296463812
+      ],
+      "properties": {
+        "subcategoryExternalId": "A3BZJHCqTe",
+        "imageId": 1397949,
+        "videoId": 1397950,
+        "externalId": "WEOAEFTnJ0",
+        "title": "Crickneck Canyon - Googlenette's Tower",
+        "description": "$3a",
+        "imagePath": "/game_map_pin/1397949/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/1af6b97b9a2fec17d3586153dc165308aca44aa5"
+      }
+    },
+    {
+      "coordinates": [
+        -16.370391767867005,
+        41.77655969596091
+      ],
+      "properties": {
+        "subcategoryExternalId": "o7AyInAQOb",
+        "imageId": 1397954,
+        "videoId": 1397955,
+        "externalId": "AiwlkajysH",
+        "title": "Hammer of Time",
+        "description": "***\n#\n|Location|\n| :-----------: |\n| Found near the small pond. Located North West of the *Crickneck Canyon - Googlenette's Tower*. |\n#\n*\"By taking part in **Legendary Challenges**, you can obtain the materials needed to craft legendary equipment.\"*\n#\n**NOTE:**\n- There's a small chance for this events to spawn at **Area Rank 3** or above.",
+        "imagePath": "/game_map_pin/1397954/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/9002e6a67fdcee1a3f7f43d0c0d3d5d512ee2579"
+      }
+    },
+    {
+      "coordinates": [
+        -19.560460389585586,
+        38.84577450937667
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1397962,
+        "videoId": 1397963,
+        "externalId": "V2xFZk1weZ",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found on the ground. Located next to the small pond. | Barrel |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1397962/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/1f73e993943518865f0247ca5181beaea554f76d"
+      }
+    },
+    {
+      "coordinates": [
+        -15.434905054317454,
+        33.50225275076242
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1397981,
+        "videoId": 1397982,
+        "externalId": "zqIdyXFKWs",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found on the ground. Located near the cliff. | Pile of Corn |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1397981/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/568623328acd45a3702072bc30b0fad5e6257869"
+      }
+    },
+    {
+      "coordinates": [
+        -26.77357767652032,
+        28.824983151122225
+      ],
+      "properties": {
+        "subcategoryExternalId": "RhIwndJ9xG",
+        "imageId": 1398008,
+        "videoId": 1398009,
+        "externalId": "uHj0ASkHmN",
+        "title": "Faan Shrine",
+        "description": "***\n#\n*\"Solving the puzzles contained within the various shrines around Ginormosia may lead to mysterious encounters.\"*",
+        "imagePath": "/game_map_pin/1398008/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/e74e8a213e15230523a3bf343d1c5a478276abfd"
+      }
+    },
+    {
+      "coordinates": [
+        -26.667812961949778,
+        30.5133943832289
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1398026,
+        "videoId": 1398027,
+        "externalId": "IXeFHBzDFN",
+        "title": "Hefty Bear Carving",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found in *Faan Shrine*. | Woodcutter |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1398026/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/32925624e3dd229cbc08c666be07e9d840657185"
+      }
+    },
+    {
+      "coordinates": [
+        -31.892078351795675,
+        26.386954670848226
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398110,
+        "videoId": 1398111,
+        "externalId": "5JYn0lBsgC",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found next to the stone. Located near the small pond. | Hi-SP Potion |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398110/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/80a8a99a37066818f2b25e80296eca0826204755"
+      }
+    },
+    {
+      "coordinates": [
+        -32.37566435563198,
+        38.82468926444707
+      ],
+      "properties": {
+        "subcategoryExternalId": "RhIwndJ9xG",
+        "imageId": 1398126,
+        "videoId": 1398127,
+        "externalId": "x2Wg6xTlOG",
+        "title": "Dahl Shrine",
+        "description": "***\n#\n*\"Solving the puzzles contained within the various shrines around Ginormosia may lead to mysterious encounters.\"*",
+        "imagePath": "/game_map_pin/1398126/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/3ff89ea58797da19118318e4596613d504ad3b99"
+      }
+    },
+    {
+      "coordinates": [
+        -32.2877737306319,
+        40.31509686960331
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1398137,
+        "videoId": 1398138,
+        "externalId": "TQuNVdQFJv",
+        "title": "Fluffy Beaver Doll",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found in *Dahl Shrine* | Carpenter |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1398137/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/71f2c5889026b9aee19a32f2f3a053459be98af3"
+      }
+    },
+    {
+      "coordinates": [
+        -43.04278756961466,
+        39.95799242650003
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398141,
+        "videoId": 1398142,
+        "externalId": "JqIZiQz4Hh",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found on the cliffside. | Cashnut |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398141/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/d2c104f04fd22850d541c34c14e98ff9e61de8f7"
+      }
+    },
+    {
+      "coordinates": [
+        -50.76369431232308,
+        38.83064785881359
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398149,
+        "videoId": 1398150,
+        "externalId": "UvaSAB87si",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found below the cliff. | Vegetable Stew |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398149/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/4cde43cce14e247c8b18aadd7c8b614174e3d944"
+      }
+    },
+    {
+      "coordinates": [
+        -43.029319312325356,
+        33.7148586724208
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKQ17UkDO6",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "igQ5PMctrt",
+        "title": "Beetle Borough",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -41.579479914811714,
+        33.91865932105131
+      ],
+      "properties": {
+        "subcategoryExternalId": "oWn3HOlDEA",
+        "imageId": 1398174,
+        "videoId": 1398175,
+        "externalId": "xGSuBeYahc",
+        "title": "",
+        "description": "***\n#\n*\"Rest at campfires, found either in villages or next to tents scattered around Ginormosia to restore your strength.\"*",
+        "imagePath": "/game_map_pin/1398174/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/3a6a005d091cc889c66d04a0d2a111149384de60"
+      }
+    },
+    {
+      "coordinates": [
+        -45.15851947138023,
+        33.01994604180541
+      ],
+      "properties": {
+        "subcategoryExternalId": "iFBDzSSj7k",
+        "imageId": 1398192,
+        "videoId": 1398194,
+        "externalId": "NtJtjkjBnh",
+        "title": "Evershop - Beetle Borough",
+        "description": "***\n#\n**NOTE:**\n- You can sell vegetables at the Evershop. Selling produce will earn you items as well as currency to be used in Ginormosia.",
+        "imagePath": "/game_map_pin/1398192/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/181c547c4fd9e4229cc5b894d803093bff4607f0"
+      }
+    },
+    {
+      "coordinates": [
+        -81.36092639908486,
+        30.033143612116632
+      ],
+      "properties": {
+        "subcategoryExternalId": "A3BZJHCqTe",
+        "imageId": 1398286,
+        "videoId": 1398287,
+        "externalId": "IQOlTKe6Q5",
+        "title": "Drakeseye Valley - Googlonardo's Tower",
+        "description": "$3b",
+        "imagePath": "/game_map_pin/1398286/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/2d410827936eec154340342c5a36b31e09040b1c"
+      }
+    },
+    {
+      "coordinates": [
+        -71.60557794943516,
+        48.284287207448045
+      ],
+      "properties": {
+        "subcategoryExternalId": "RhIwndJ9xG",
+        "imageId": 1398296,
+        "videoId": 1398297,
+        "externalId": "cChtIhzKDP",
+        "title": "Bit'ah Shrine",
+        "description": "***\n#\n*\"Solving the puzzles contained within the various shrines around Ginormosia may lead to mysterious encounters.\"*",
+        "imagePath": "/game_map_pin/1398296/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/ce8bdb8ccfcd8625caafd9f0ef58c35e4489c748"
+      }
+    },
+    {
+      "coordinates": [
+        -70.3751091994348,
+        48.86579655900067
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1398313,
+        "videoId": 1398314,
+        "externalId": "VuuhbEuFZo",
+        "title": "Dandy Bat Hat",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found in *Bit'ah Shrine*. | Tailor |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1398313/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/8c6eb4205c5d06dd44c9300666880813ee73e2ce"
+      }
+    },
+    {
+      "coordinates": [
+        -72.35485065246687,
+        50.71336996324055
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398342,
+        "videoId": 1398343,
+        "externalId": "KGQYP7Ugza",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found down the cliff. Located North of *Bit'ah Shrine* | Cashnut |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398342/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/57a548fdafc445636ffe7c7b1d3cb3b25bc8a7a1"
+      }
+    },
+    {
+      "coordinates": [
+        -68.36054920912106,
+        44.69729823795899
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1398353,
+        "videoId": 1398354,
+        "externalId": "L1jmJ4f9Tq",
+        "title": "Graceful Carp Banner",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found in a small island. | Angler |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1398353/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/bd513c58c0721a96354215384ca7a8bfd6cdc2f2"
+      }
+    },
+    {
+      "coordinates": [
+        -60.132866921526315,
+        38.16992610947713
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398391,
+        "videoId": 1398392,
+        "externalId": "lzFpsvq6Mq",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found near the cliff. | Mountaineer's Stew |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398391/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/41ab5c724b8a89774ccd1368ee465aff73029e2a"
+      }
+    },
+    {
+      "coordinates": [
+        -86.02528247433398,
+        21.68339437991783
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398399,
+        "videoId": 1398400,
+        "externalId": "xuesBCjmwh",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found on the cliff. Located near the shore. | Paralyzing Bomb |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398399/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/69963afd9de5a4f099553189b0e0b4c7fc258add"
+      }
+    },
+    {
+      "coordinates": [
+        -81.64405061104125,
+        23.840795345340638
+      ],
+      "properties": {
+        "subcategoryExternalId": "o7AyInAQOb",
+        "imageId": 1398407,
+        "videoId": 1398408,
+        "externalId": "spJlsP5MSZ",
+        "title": "Flask of Time",
+        "description": "***\n#\n|Location|\n| :-----------: |\n| Found south of *Drakeseye Valley - Googlonardo's Tower*. |\n#\n*\"By taking part in **Legendary Challenges**, you can obtain the materials needed to craft legendary equipment.\"*\n#\n**NOTE:**\n- There's a small chance for this events to spawn at **Area Rank 3** or above.",
+        "imagePath": "/game_map_pin/1398407/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/8c55f942907f6514780d94edd4e961421cbdba37"
+      }
+    },
+    {
+      "coordinates": [
+        -70.36212223327853,
+        23.721854886885424
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398420,
+        "videoId": 1398421,
+        "externalId": "82TsTp6k1X",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found behind the wind mill. |  Yellow Butterfly |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398420/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/9e9ee3d87974aa5a5e2f7194f06ef121a53a2328"
+      }
+    },
+    {
+      "coordinates": [
+        -68.64007903356085,
+        13.187422778139506
+      ],
+      "properties": {
+        "subcategoryExternalId": "oWn3HOlDEA",
+        "imageId": 1398435,
+        "videoId": 1398436,
+        "externalId": "WxN41ybPjI",
+        "title": "",
+        "description": "***\n#\n*\"Rest at campfires, found either in villages or next to tents scattered around Ginormosia to restore your strength.\"*",
+        "imagePath": "/game_map_pin/1398435/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/fde78626d554a110c261943eb8a7fd1dccb2f03c"
+      }
+    },
+    {
+      "coordinates": [
+        -58.085119477219635,
+        17.51999040551067
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398450,
+        "videoId": 1398451,
+        "externalId": "s2eoK0lB4B",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found on the cliff. Located near the shore. | Potted Coconut |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398450/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/acec496b55915b1ea0075a6bb63976ef0afbd760"
+      }
+    },
+    {
+      "coordinates": [
+        -52.49994490550746,
+        25.37351926756881
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398457,
+        "videoId": 1398459,
+        "externalId": "GhDtJfUQvT",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found in the shore. | Blue-Rimmed Glasses (Recipe) |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398457/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/86aee036611a54c43c3483ed5343534cd18a4c9d"
+      }
+    },
+    {
+      "coordinates": [
+        -55.570343628760966,
+        26.11819176020478
+      ],
+      "properties": {
+        "subcategoryExternalId": "RhIwndJ9xG",
+        "imageId": 1398477,
+        "videoId": 1398478,
+        "externalId": "4lGwRRIFnL",
+        "title": "Happi Shrine",
+        "description": "***\n#\n*\"Solving the puzzles contained within the various shrines around Ginormosia may lead to mysterious encounters.\"*",
+        "imagePath": "/game_map_pin/1398477/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/3ff51fe53680200862371ccb5b73e0214cad04b4"
+      }
+    },
+    {
+      "coordinates": [
+        -55.16768052333197,
+        27.62779816202392
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1398499,
+        "videoId": 1398500,
+        "externalId": "P6SBZLMfZ5",
+        "title": "Blue Demon's Tile",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found in *Happi Shrine*. | Blacksmith |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1398499/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/69efb270c6b61588498c70bcb64d993e01e072df"
+      }
+    },
+    {
+      "coordinates": [
+        -75.86360080091367,
+        5.599223167212941
+      ],
+      "properties": {
+        "subcategoryExternalId": "A3BZJHCqTe",
+        "imageId": 1398562,
+        "videoId": 1398563,
+        "externalId": "akuhrpbo8f",
+        "title": "Drakesnout Range - Googlizabeth's Tower",
+        "description": "$3c",
+        "imagePath": "/game_map_pin/1398562/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/89395fef9f22465b331b67e787f4e6953719d64e"
+      }
+    },
+    {
+      "coordinates": [
+        -71.78231200241771,
+        -10.447140670262328
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398564,
+        "videoId": 1398565,
+        "externalId": "nGICqlJs0v",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found behind the tree. | Tea Table |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398564/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/19df25170d82901a7cf1df4a1942b6f9537e888c"
+      }
+    },
+    {
+      "coordinates": [
+        -76.67269694862195,
+        -19.173261713126294
+      ],
+      "properties": {
+        "subcategoryExternalId": "oWn3HOlDEA",
+        "imageId": 1398566,
+        "videoId": 1398567,
+        "externalId": "UH1i6JOQea",
+        "title": "",
+        "description": "***\n#\n*\"Rest at campfires, found either in villages or next to tents scattered around Ginormosia to restore your strength.\"*",
+        "imagePath": "/game_map_pin/1398566/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/587b547ad5e107dede8060e3a8e00c951d89fddc"
+      }
+    },
+    {
+      "coordinates": [
+        -75.26044527050888,
+        -18.801091564541707
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398568,
+        "videoId": 1398569,
+        "externalId": "MOyVhER11R",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found in the shore. Located near the *Campfire*. | Plum Blossom Fireworks |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398568/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/57313cb7024302eeb0c2023ab42bf61dba5a124c"
+      }
+    },
+    {
+      "coordinates": [
+        -77.8971640205089,
+        -18.21768533444323
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1398572,
+        "videoId": 1398573,
+        "externalId": "8wHdxVMl9m",
+        "title": "Country Wood Pot",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found next to the *Campfire*. | Woodcutter |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1398572/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/19e5a5eafe471f14198a81e6cfc627080c12df08"
+      }
+    },
+    {
+      "coordinates": [
+        -85.72288973348245,
+        -17.784802806940462
+      ],
+      "properties": {
+        "subcategoryExternalId": "uVMFgG7f8r",
+        "imageId": 1398574,
+        "videoId": 1398575,
+        "externalId": "7QgnHZebqP",
+        "title": "Nostruul Cave",
+        "description": "",
+        "imagePath": "/game_map_pin/1398574/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/0d11d332e69a5b7acae93abf6abdb457968b4c03"
+      }
+    },
+    {
+      "coordinates": [
+        -85.08953485845421,
+        -15.911246524714159
+      ],
+      "properties": {
+        "subcategoryExternalId": "o7AyInAQOb",
+        "imageId": 1398578,
+        "videoId": 1398579,
+        "externalId": "mPPRq2jIi5",
+        "title": "Legendary Feast",
+        "description": "***\n#\n|Location|\n| :-----------: |\n| Found in *Nostruul Cave*. |\n#\n*\"By taking part in **Legendary Challenges**, you can obtain the materials needed to craft legendary equipment.\"*\n#\n**NOTE:**\n- There's a small chance for this events to spawn at **Area Rank 3** or above.",
+        "imagePath": "/game_map_pin/1398578/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/03615bd82c8342f4f6e9552030ed4fcc8d52d775"
+      }
+    },
+    {
+      "coordinates": [
+        -88.98266350553504,
+        -13.635703727210668
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398582,
+        "videoId": 1398583,
+        "externalId": "WqRymkwzWY",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found below the cliff. | Swabbie's Top (Recipe) |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398582/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/db1782b55f8fd240de8f9ae3b77ce31121ccc611"
+      }
+    },
+    {
+      "coordinates": [
+        -83.13912164722835,
+        -9.982168835443488
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398586,
+        "videoId": 1398587,
+        "externalId": "Qk6h47yCMU",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found at the peak of the mountain. | Baked Potato |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398586/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/011faba46862b0ba157e02f80b355e93aacac8f2"
+      }
+    },
+    {
+      "coordinates": [
+        -90.11387295846717,
+        -5.816066149808236
+      ],
+      "properties": {
+        "subcategoryExternalId": "RhIwndJ9xG",
+        "imageId": 1398601,
+        "videoId": 1398602,
+        "externalId": "1oUzB5XHId",
+        "title": "Thril'ah Shrine",
+        "description": "***\n#\n*\"Solving the puzzles contained within the various shrines around Ginormosia may lead to mysterious encounters.\"*",
+        "imagePath": "/game_map_pin/1398601/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/94a61d61e87a32ac4631b31ea294609353dbbb13"
+      }
+    },
+    {
+      "coordinates": [
+        -90.11847849204763,
+        -3.8946762931792023
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1398605,
+        "videoId": 1398606,
+        "externalId": "oeU3wEcOG6",
+        "title": "Royal Yummy Stew",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found in *Thril'ah Shrine*. | Cook |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1398605/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/ff4faeb83586d97385aa43b87d607e2759ed2c3c"
+      }
+    },
+    {
+      "coordinates": [
+        -85.4322198750492,
+        -0.39234465825569487
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398609,
+        "videoId": 1398610,
+        "externalId": "2hJ6p3jf6K",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found next to the pillar. | Cashnut |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398609/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/c57944d5bc417cd03c39bb3af49cef0c3ea5d726"
+      }
+    },
+    {
+      "coordinates": [
+        -52.93012393124184,
+        8.414605320420918
+      ],
+      "properties": {
+        "subcategoryExternalId": "A3BZJHCqTe",
+        "imageId": 1398616,
+        "videoId": 1398617,
+        "externalId": "OUmawluRCs",
+        "title": "Fangshore Isles - Googleph's Tower",
+        "description": "$3d",
+        "imagePath": "/game_map_pin/1398616/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/ef455bd8c8e01c5e5ac88ba162faf4d3eb20b275"
+      }
+    },
+    {
+      "coordinates": [
+        -64.9042667083233,
+        1.6768304730652233
+      ],
+      "properties": {
+        "subcategoryExternalId": "RhIwndJ9xG",
+        "imageId": 1398624,
+        "videoId": 1398625,
+        "externalId": "Lghg23Eiug",
+        "title": "Wur'ii Shrine",
+        "description": "***\n#\n*\"Solving the puzzles contained within the various shrines around Ginormosia may lead to mysterious encounters.\"*",
+        "imagePath": "/game_map_pin/1398624/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/93cc47d77a7de7c2601705c193d053ddc437f846"
+      }
+    },
+    {
+      "coordinates": [
+        -65.08004795832349,
+        3.4328267452702192
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1398626,
+        "videoId": 1398627,
+        "externalId": "4r8YRgRVny",
+        "title": "Lovey-Dovey Lamp",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found in *Wur'ii Shrine*. | Alchemist |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1398626/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/6b5f91823b2f533a4fa4c2c10d411fc1a3e6fe03"
+      }
+    },
+    {
+      "coordinates": [
+        -52.7830889239676,
+        -2.791283611372478
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398628,
+        "videoId": 1398629,
+        "externalId": "gwUq9LT05H",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found in the shore. | Plushling Tree Pot |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398628/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/9d9f8ad7e790d1295847e30f1833518fbfaef85a"
+      }
+    },
+    {
+      "coordinates": [
+        -50.41545189655409,
+        -12.14719239700294
+      ],
+      "properties": {
+        "subcategoryExternalId": "uVMFgG7f8r",
+        "imageId": 1398631,
+        "videoId": 1398632,
+        "externalId": "3G64tPIZ3u",
+        "title": "Wyrm Maw Cave",
+        "description": "",
+        "imagePath": "/game_map_pin/1398631/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/bac22044c59be9926df6649b5a1cebbb63291770"
+      }
+    },
+    {
+      "coordinates": [
+        -49.18498314655369,
+        -10.682649493380907
+      ],
+      "properties": {
+        "subcategoryExternalId": "o7AyInAQOb",
+        "imageId": 1398633,
+        "videoId": 1398634,
+        "externalId": "Gqrzk64r0Q",
+        "title": "Rod of Time",
+        "description": "***\n#\n|Location|\n| :-----------: |\n| Found in *Wyrm Maw Cave*. |\n#\n*\"By taking part in **Legendary Challenges**, you can obtain the materials needed to craft legendary equipment.\"*\n#\n**NOTE:**\n- There's a small chance for this events to spawn at **Area Rank 3** or above.",
+        "imagePath": "/game_map_pin/1398633/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/1116feaa914c35b4162409aea2e4562d5d2a9304"
+      }
+    },
+    {
+      "coordinates": [
+        -45.28546670285195,
+        6.997438735923254
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398638,
+        "videoId": 1398639,
+        "externalId": "XyhNH2jQtN",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found in the grass. | Rhino Beetle |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398638/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/c418db2d91a523b87a837d953a9ee89511433106"
+      }
+    },
+    {
+      "coordinates": [
+        -46.20867542976217,
+        17.436975907078406
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKQ17UkDO6",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "XbtWkMILXr",
+        "title": "Tortortoise Town",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -46.91180042976288,
+        19.60362848129664
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398640,
+        "videoId": 1398641,
+        "externalId": "fink2RE5XL",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found behind the *Tortortoise Town*. | Summer Nectar |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398640/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/c3f3cc8916454c7b96830505b953b1b326b4c2bb"
+      }
+    },
+    {
+      "coordinates": [
+        -44.538753554762195,
+        17.855749744578034
+      ],
+      "properties": {
+        "subcategoryExternalId": "oWn3HOlDEA",
+        "imageId": 1398642,
+        "videoId": 1398643,
+        "externalId": "aTatrs4i9L",
+        "title": "",
+        "description": "***\n#\n*\"Rest at campfires, found either in villages or next to tents scattered around Ginormosia to restore your strength.\"*",
+        "imagePath": "/game_map_pin/1398642/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/66f8587acfb81a325c3318b4c5324dc4dd9679c2"
+      }
+    },
+    {
+      "coordinates": [
+        -49.15976405989363,
+        16.324231077487383
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398647,
+        "videoId": 1398648,
+        "externalId": "imIW2jQ1RQ",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found in the shore. | Fresh Fish (Recipe) |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398647/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/ffd93bb993dae3d2b6b460465b2731483c55744c"
+      }
+    },
+    {
+      "coordinates": [
+        -44.69635111776731,
+        26.29943656786469
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398649,
+        "videoId": 1398650,
+        "externalId": "5MtCXQAnqH",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found near the shore. | Cashnut |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398649/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/367d27b314864821227706c5540e7b602c5dc241"
+      }
+    },
+    {
+      "coordinates": [
+        5.568894910793148,
+        28.8658178128358
+      ],
+      "properties": {
+        "subcategoryExternalId": "A3BZJHCqTe",
+        "imageId": 1398660,
+        "videoId": 1398661,
+        "externalId": "eRT0lj7J4N",
+        "title": "East Greatgut Plains - Googlius's Tower",
+        "description": "$3e",
+        "imagePath": "/game_map_pin/1398660/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/868712e92cec7ba7f8f9ce1b5e1b3011582e917b"
+      }
+    },
+    {
+      "coordinates": [
+        1.808915747801393,
+        30.078263788809096
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398662,
+        "videoId": 1398663,
+        "externalId": "sv8hnDNacp",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found west of *East Greatgut Plains - Googlius's Tower*. | Wooden Fence |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398662/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/59bd3812829334b0e51ba98b21397ad5b5c73bad"
+      }
+    },
+    {
+      "coordinates": [
+        -2.406039028267486,
+        35.67817552412295
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398664,
+        "videoId": 1398666,
+        "externalId": "K2c1Ezbq30",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found near the water falls. | Flower Basket (Recipe) |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398664/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/68ac4c11ed1e58a98a21a19d70fbf58ee79908f8"
+      }
+    },
+    {
+      "coordinates": [
+        9.379441449207775,
+        40.900153001805194
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398668,
+        "videoId": 1398669,
+        "externalId": "BmbXeCAodr",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found near the river. | Cashnut |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398668/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/09ab79d966979e31c1f4abb753fc9229e74f3042"
+      }
+    },
+    {
+      "coordinates": [
+        10.891620349496577,
+        21.374456338459808
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1398684,
+        "videoId": 1398685,
+        "externalId": "zYVORsOlwq",
+        "title": "Wooly Chair",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found in the swamp. | Tailor |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1398684/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/1516627fe488708c7f66f44be434bf5afe9910ab"
+      }
+    },
+    {
+      "coordinates": [
+        21.28575703945964,
+        19.729913949998007
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398686,
+        "videoId": 1398687,
+        "externalId": "Us5SXePEuh",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found in the lake. Located next to the stone.| Sack of Silver |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398686/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/498f8be9ee7ed34e0d9a9938bfc514b1f4b76cc7"
+      }
+    },
+    {
+      "coordinates": [
+        26.3732913555813,
+        13.136413256108852
+      ],
+      "properties": {
+        "subcategoryExternalId": "RhIwndJ9xG",
+        "imageId": 1398690,
+        "videoId": 1398691,
+        "externalId": "LPUiYsMDQO",
+        "title": "Besh'fal Shrine",
+        "description": "***\n#\n*\"Solving the puzzles contained within the various shrines around Ginormosia may lead to mysterious encounters.\"*",
+        "imagePath": "/game_map_pin/1398690/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/4492a37bf3d34b36980988913ea709139ea67024"
+      }
+    },
+    {
+      "coordinates": [
+        27.09325355306578,
+        15.016448701125938
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1398693,
+        "videoId": 1398694,
+        "externalId": "OHCGIj55ig",
+        "title": "Mustachioed Helmet",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found in *Besh'fal Shrine*. | Paladin |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1398693/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/c065a6d90ba7e3586fbed9de27a5596adc1bfd71"
+      }
+    },
+    {
+      "coordinates": [
+        28.02810996247706,
+        7.881180165211205
+      ],
+      "properties": {
+        "subcategoryExternalId": "oWn3HOlDEA",
+        "imageId": 1398695,
+        "videoId": 1398696,
+        "externalId": "Zu9TFwtiHI",
+        "title": "",
+        "description": "***\n#\n*\"Rest at campfires, found either in villages or next to tents scattered around Ginormosia to restore your strength.\"*",
+        "imagePath": "/game_map_pin/1398695/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/64c795d6f4abb6e3bdc9478cc25788abd42069c4"
+      }
+    },
+    {
+      "coordinates": [
+        36.31698009615897,
+        7.440664487064794
+      ],
+      "properties": {
+        "subcategoryExternalId": "o7AyInAQOb",
+        "imageId": 1398697,
+        "videoId": 1398698,
+        "externalId": "B4B17qH99f",
+        "title": "Frying Pan of Time",
+        "description": "***\n#\n|Location|\n| :-----------: |\n| Found in the forest. |\n#\n*\"By taking part in **Legendary Challenges**, you can obtain the materials needed to craft legendary equipment.\"*\n#\n**NOTE:**\n- There's a small chance for this events to spawn at **Area Rank 3** or above.",
+        "imagePath": "/game_map_pin/1398697/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/54b88193aa841b940471b2385041cdd8cd6161cc"
+      }
+    },
+    {
+      "coordinates": [
+        37.57727037997401,
+        5.749852936431267
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398699,
+        "videoId": 1398700,
+        "externalId": "cGDwUVXxjI",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found just in front of the *Frying Pan of Time*. | Bruiser Beetle |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398699/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/d982cc63b91f18e250f1ed90683aa2991c809448"
+      }
+    },
+    {
+      "coordinates": [
+        27.335129571889354,
+        -5.472275120592144
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398701,
+        "videoId": 1398702,
+        "externalId": "okDGWQkAfX",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found behind the tree. | Hi-HP Potion |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398701/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/8af7d461e73a6eeb3f645474d9fa205812d35cf7"
+      }
+    },
+    {
+      "coordinates": [
+        56.19366403414696,
+        20.221703647729782
+      ],
+      "properties": {
+        "subcategoryExternalId": "A3BZJHCqTe",
+        "imageId": 1398707,
+        "videoId": 1398708,
+        "externalId": "HDxBjah5VF",
+        "title": "Pettlewing Woods - Googlancia's Tower",
+        "description": "$3f",
+        "imagePath": "/game_map_pin/1398707/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/32f96be763b301cf15f6d1b0684c81fcc4d6470a"
+      }
+    },
+    {
+      "coordinates": [
+        60.83595771359822,
+        20.091290951682623
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398709,
+        "videoId": 1398710,
+        "externalId": "R8J050jnMC",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found next to a tree. Located near the fence. | Royal Hopper |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398709/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/d64a408497537b7fd57ca44f3ee056c2063571d4"
+      }
+    },
+    {
+      "coordinates": [
+        67.7591919985197,
+        8.203427509746987
+      ],
+      "properties": {
+        "subcategoryExternalId": "oWn3HOlDEA",
+        "imageId": 1398712,
+        "videoId": 1398713,
+        "externalId": "RNeAV6huey",
+        "title": "",
+        "description": "***\n#\n*\"Rest at campfires, found either in villages or next to tents scattered around Ginormosia to restore your strength.\"*",
+        "imagePath": "/game_map_pin/1398712/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/d80ac4d8367dc0147b83515f54edd0144a0eb714"
+      }
+    },
+    {
+      "coordinates": [
+        69.86517522510633,
+        5.893325855940944
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398716,
+        "videoId": 1398717,
+        "externalId": "wwbG4Ymm9L",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found next to the stones. Located near the shores. | Swabbie's Boots (Recipe) |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398716/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/2092845f92fb59e076874c69e188a1fa46fdb2f5"
+      }
+    },
+    {
+      "coordinates": [
+        38.94393711616121,
+        18.319840226649035
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398718,
+        "videoId": 1398719,
+        "externalId": "Tm0Oa0gaxm",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found on the side of the road. | Forest Quiche |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398718/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/355c5af6485874b6a6dbc70e5f71aa42294a8ed3"
+      }
+    },
+    {
+      "coordinates": [
+        26.35022160858273,
+        31.728436424914463
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398722,
+        "videoId": 1398723,
+        "externalId": "3CMJxpcVfi",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found behind the tree. Located near the small pond. | Corn on the Cob |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398722/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/50760815e845d6403d66b319326e181da28e842e"
+      }
+    },
+    {
+      "coordinates": [
+        52.58117784027297,
+        34.32907260145497
+      ],
+      "properties": {
+        "subcategoryExternalId": "uVMFgG7f8r",
+        "imageId": 1398728,
+        "videoId": 1398729,
+        "externalId": "3pc0n2Tigo",
+        "title": "Pettlewing Forest",
+        "description": "",
+        "imagePath": "/game_map_pin/1398728/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/835a3e1e200d570dad7706eb37b0afb09f3222b6"
+      }
+    },
+    {
+      "coordinates": [
+        52.58117784027297,
+        32.19808273324509
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398726,
+        "videoId": 1398727,
+        "externalId": "4GQ9hrHNvk",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found in the entrance of *Pettlewing Forest*. | Plum Blossom Fireworks |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398726/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/7a18d32bac2c2fc539e4964d0ed845eb95bcdedd"
+      }
+    },
+    {
+      "coordinates": [
+        51.43859971527377,
+        35.98171082927665
+      ],
+      "properties": {
+        "subcategoryExternalId": "RhIwndJ9xG",
+        "imageId": 1398732,
+        "videoId": 1398733,
+        "externalId": "Pm7aaxlQw3",
+        "title": "Glehd Shrine",
+        "description": "***\n#\n*\"Solving the puzzles contained within the various shrines around Ginormosia may lead to mysterious encounters.\"*\n#\n**NOTE:**\n- This is found inside the *Pettlewing Forest*.",
+        "imagePath": "/game_map_pin/1398732/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/cc3cfec3b33c67d3ccaa78ab57ecdc44b4a83494"
+      }
+    },
+    {
+      "coordinates": [
+        51.952652740733924,
+        37.84021882038468
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1398735,
+        "videoId": 1398736,
+        "externalId": "pZxGro9nKz",
+        "title": "Little Brother Bust",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found in *Glehd Shrine*. | Farmer |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1398735/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/b549aa6e6561fbfdbda6a87b45254331c4486dc2"
+      }
+    },
+    {
+      "coordinates": [
+        50.4972835133311,
+        37.204019849454895
+      ],
+      "properties": {
+        "subcategoryExternalId": "o7AyInAQOb",
+        "imageId": 1398739,
+        "videoId": 1398741,
+        "externalId": "n79V5sb7oS",
+        "title": "Axe of Time",
+        "description": "***\n#\n|Location|\n| :-----------: |\n| Found at the back of *Glehd Shrine*. |\n#\n*\"By taking part in **Legendary Challenges**, you can obtain the materials needed to craft legendary equipment.\"*\n#\n**NOTE:**\n- There's a small chance for this events to spawn at **Area Rank 3** or above.",
+        "imagePath": "/game_map_pin/1398739/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/2147f4f7fd18972201f98fdf3b842409a42f47ce"
+      }
+    },
+    {
+      "coordinates": [
+        81.54570661319843,
+        39.002627808976456
+      ],
+      "properties": {
+        "subcategoryExternalId": "A3BZJHCqTe",
+        "imageId": 1398746,
+        "videoId": 1398747,
+        "externalId": "4OVFoK2x3H",
+        "title": "Shroomhaven - Googlithy's Tower",
+        "description": "$40",
+        "imagePath": "/game_map_pin/1398746/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/2a63a6d369aab27a19568e38703ec3ca4a87da91"
+      }
+    },
+    {
+      "coordinates": [
+        86.41971815712253,
+        39.804819566117516
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398748,
+        "videoId": 1398749,
+        "externalId": "juXiSralu1",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found near the cliff side. | Courtship Fireworks |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398748/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/445e7610ddcc00493736cde496efda8cb8865cea"
+      }
+    },
+    {
+      "coordinates": [
+        90.72239819164463,
+        28.157402520167636
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398750,
+        "videoId": 1398751,
+        "externalId": "pAdLXYiJMS",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found in the shore. | Poison Bomb |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398750/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/aed524270a2eaf9883ac3376c799a26591747e12"
+      }
+    },
+    {
+      "coordinates": [
+        72.27118323699005,
+        32.5397025115782
+      ],
+      "properties": {
+        "subcategoryExternalId": "RhIwndJ9xG",
+        "imageId": 1398753,
+        "videoId": 1398754,
+        "externalId": "2eUNSdvh1k",
+        "title": "Het'rud Shrine",
+        "description": "***\n#\n*\"Solving the puzzles contained within the various shrines around Ginormosia may lead to mysterious encounters.\"*",
+        "imagePath": "/game_map_pin/1398753/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/3797f291e206b80bd87cd43e7240b93acf9d282d"
+      }
+    },
+    {
+      "coordinates": [
+        71.88470763019859,
+        34.033008166352886
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1398759,
+        "videoId": 1398760,
+        "externalId": "Nf6mzXCKuT",
+        "title": "Breezy Weathervane",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found in *Het'rud Shrine*. | Hunter |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1398759/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/58aab65d9a3530a63bb233b55216ccd5317c9904"
+      }
+    },
+    {
+      "coordinates": [
+        63.40671361107684,
+        37.331681172770686
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398762,
+        "videoId": 1398763,
+        "externalId": "mBwsmOl3lF",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found near the cliff. | Woodcutter's Stump |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398762/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/4189ef638540cc7d2cc2f5632ad1aeb7904cffaa"
+      }
+    },
+    {
+      "coordinates": [
+        58.04538548607624,
+        38.303683728080756
+      ],
+      "properties": {
+        "subcategoryExternalId": "o7AyInAQOb",
+        "imageId": 1398764,
+        "videoId": 1398765,
+        "externalId": "QWLDOKvimV",
+        "title": "Staff of Time",
+        "description": "***\n#\n|Location|\n| :-----------: |\n| Found near the waterfalls. Located next to the Pine Tree. |\n#\n*\"By taking part in **Legendary Challenges**, you can obtain the materials needed to craft legendary equipment.\"*\n#\n**NOTE:**\n- There's a small chance for this events to spawn at **Area Rank 3** or above.",
+        "imagePath": "/game_map_pin/1398764/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/fcd2fd55294f6e30d05f8cca270091fd1a8b5af4"
+      }
+    },
+    {
+      "coordinates": [
+        63.19355919977818,
+        42.76173100898677
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1398766,
+        "videoId": 1398767,
+        "externalId": "jbkM5OHRtB",
+        "title": "Homely Flower Basket",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found in the lake. Located next to a pink tree. | Hunter |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1398766/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/e4a8c0408652878cbc0dd6f49143cc415452d1a3"
+      }
+    },
+    {
+      "coordinates": [
+        65.85029424962065,
+        46.996405861464325
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398768,
+        "videoId": 1398769,
+        "externalId": "AbTREbb9EP",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found next to the picnic carpet. | Swabbie's Hat (Recipe) |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398768/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/039536d2713fa7cb32ef44d47355aea7f63d8069"
+      }
+    },
+    {
+      "coordinates": [
+        58.47067572308276,
+        50.903107730211076
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKQ17UkDO6",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "TkSZGlfYqg",
+        "title": "Simian Settlement",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        60.316378848082735,
+        50.68087240137251
+      ],
+      "properties": {
+        "subcategoryExternalId": "oWn3HOlDEA",
+        "imageId": 1398771,
+        "videoId": 1398772,
+        "externalId": "sjLGWo0u4v",
+        "title": "",
+        "description": "***\n#\n*\"Rest at campfires, found either in villages or next to tents scattered around Ginormosia to restore your strength.\"*",
+        "imagePath": "/game_map_pin/1398771/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/87449e33f8c42d69171d7d9f0fdc57f57f68e52c"
+      }
+    },
+    {
+      "coordinates": [
+        54.905376561394974,
+        48.30025283433335
+      ],
+      "properties": {
+        "subcategoryExternalId": "iFBDzSSj7k",
+        "imageId": 1398773,
+        "videoId": 1398774,
+        "externalId": "onKoFSWUeB",
+        "title": "Evershop - Simian Settlement",
+        "description": "***\n#\n**NOTE:**\n- You can sell vegetables at the Evershop. Selling produce will earn you items as well as currency to be used in Ginormosia.",
+        "imagePath": "/game_map_pin/1398773/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/298e5571c1307de0b590c35a3f6c46cf370d5308"
+      }
+    },
+    {
+      "coordinates": [
+        48.853150279570485,
+        52.02302708577997
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398776,
+        "videoId": 1398777,
+        "externalId": "wTFTV7fm8A",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found on the side of the river. Located near the wooden bridge. | Cashnut |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398776/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/ed682799653b1f2fa2855b7cfdd8727b2f473bc3"
+      }
+    },
+    {
+      "coordinates": [
+        58.75506316443307,
+        63.58109243611776
+      ],
+      "properties": {
+        "subcategoryExternalId": "A3BZJHCqTe",
+        "imageId": 1398780,
+        "videoId": 1398781,
+        "externalId": "tBTkYLAN3H",
+        "title": "Wingtip Valley - Googloria's Tower",
+        "description": "$41",
+        "imagePath": "/game_map_pin/1398780/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/d9c5f541f0a0a0871582574486660d905d8fe478"
+      }
+    },
+    {
+      "coordinates": [
+        58.139828789433096,
+        64.3905427703398
+      ],
+      "properties": {
+        "subcategoryExternalId": "o7AyInAQOb",
+        "imageId": 1398783,
+        "videoId": 1398784,
+        "externalId": "Naszx31O7V",
+        "title": "Saw of Time",
+        "description": "***\n#\n|Location|\n| :-----------: |\n| Found north of *Wingtip Valley - Googloria's Tower*. |\n#\n*\"By taking part in **Legendary Challenges**, you can obtain the materials needed to craft legendary equipment.\"*\n#\n**NOTE:**\n- There's a small chance for this events to spawn at **Area Rank 3** or above.",
+        "imagePath": "/game_map_pin/1398783/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/7f3a6e2dbabb019c95d1aeaed58f1436f4c87192"
+      }
+    },
+    {
+      "coordinates": [
+        61.78579527541439,
+        66.69032426085113
+      ],
+      "properties": {
+        "subcategoryExternalId": "RhIwndJ9xG",
+        "imageId": 1398785,
+        "videoId": 1398786,
+        "externalId": "fjHdwD1o85",
+        "title": "Ree'lif Shrine",
+        "description": "***\n#\n*\"Solving the puzzles contained within the various shrines around Ginormosia may lead to mysterious encounters.\"*",
+        "imagePath": "/game_map_pin/1398785/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/892e3c58ec68d68884f6bef0008f7c41a384916f"
+      }
+    },
+    {
+      "coordinates": [
+        61.961576525413534,
+        67.40995339525594
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1398791,
+        "videoId": 1398792,
+        "externalId": "rAJ8PhQRUo",
+        "title": "Big Brother Bust",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found in *Ree'lif Shrine*. | Farmer |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1398791/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/b68d7797821d80b28db14f5fafd6bf14ee914056"
+      }
+    },
+    {
+      "coordinates": [
+        63.4642689724397,
+        65.23647532104886
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398794,
+        "videoId": 1398795,
+        "externalId": "VkS3trgMaZ",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found in the shore. Located behind the tree. | Cashnut |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398794/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/917468cfc19a96d9ffbf3ef80109f9f79e1027b8"
+      }
+    },
+    {
+      "coordinates": [
+        62.511898577167756,
+        63.50557036519629
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398796,
+        "videoId": 1398797,
+        "externalId": "asariIhoVS",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found in the shore. Located behind the Palm Tree | Trout Meuniere |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398796/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/57bbd2ff5ae3407294a2f4ad6be9517ec6018744"
+      }
+    },
+    {
+      "coordinates": [
+        55.39136862783445,
+        59.7548977724868
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398798,
+        "videoId": 1398799,
+        "externalId": "PHJrVW60lo",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found in the shore. Located behind the tree. | Leafe Ornament |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398798/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/86a7631698a285f0069b21741937f1a506d672f4"
+      }
+    },
+    {
+      "coordinates": [
+        57.863605838654735,
+        57.897593356661645
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1398802,
+        "videoId": 1398803,
+        "externalId": "v98fZWEkL7",
+        "title": "Scarecorn",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found in the small island. | Farmer |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1398802/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/0fbdb94f9c009c854c6ccb32570de8163242c5d2"
+      }
+    },
+    {
+      "coordinates": [
+        49.536304221848894,
+        59.635303272335534
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398804,
+        "videoId": 1398805,
+        "externalId": "ZzEzg7Pb32",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found behind the trees. | Great Bomb |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398804/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/4cd791f8ba2da4c2547d775e9c655b76dd77ed09"
+      }
+    },
+    {
+      "coordinates": [
+        43.89618748245468,
+        59.81986015698757
+      ],
+      "properties": {
+        "subcategoryExternalId": "oWn3HOlDEA",
+        "imageId": 1398806,
+        "videoId": 1398807,
+        "externalId": "Pdh3nHJb9v",
+        "title": "",
+        "description": "***\n#\n*\"Rest at campfires, found either in villages or next to tents scattered around Ginormosia to restore your strength.\"*",
+        "imagePath": "/game_map_pin/1398806/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/ba59940ed5d708d404fd3c3f34e2ef372db89828"
+      }
+    },
+    {
+      "coordinates": [
+        39.32310486049258,
+        61.006205450935596
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398808,
+        "videoId": 1398809,
+        "externalId": "wQdb6nLXik",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found below the cliff. | Colorful Cloth |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398808/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/7551ff7b3493b72dfe70a0206083b3abdae942c0"
+      }
+    },
+    {
+      "coordinates": [
+        35.57326494175689,
+        59.47955732699813
+      ],
+      "properties": {
+        "subcategoryExternalId": "RhIwndJ9xG",
+        "imageId": 1398810,
+        "videoId": 1398811,
+        "externalId": "CXNCPPICG1",
+        "title": "Gela'shi Shrine",
+        "description": "***\n#\n*\"Solving the puzzles contained within the various shrines around Ginormosia may lead to mysterious encounters.\"*",
+        "imagePath": "/game_map_pin/1398810/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/337c5ce37976b4fc235a9cb972e1bf9bdf0f9f88"
+      }
+    },
+    {
+      "coordinates": [
+        35.04592119175649,
+        60.18620057208372
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1398813,
+        "videoId": 1398814,
+        "externalId": "iDaCA9WOkz",
+        "title": "Bereted Target",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found in *Gela'shi Shrine*. | Hunter |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1398813/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/bb3e97b42e25bb4759385b0e5a2edc224d7d14cc"
+      }
+    },
+    {
+      "coordinates": [
+        16.71035644388533,
+        48.19130983255383
+      ],
+      "properties": {
+        "subcategoryExternalId": "A3BZJHCqTe",
+        "imageId": 1398815,
+        "videoId": 1398816,
+        "externalId": "ukd4WvU5Wq",
+        "title": "Moltana Wastes - Googlisha's Tower",
+        "description": "$42",
+        "imagePath": "/game_map_pin/1398815/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/6a4c5f0ec1442395ce927c2ea8472824209707e4"
+      }
+    },
+    {
+      "coordinates": [
+        15.080288120406038,
+        46.19856838427407
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398818,
+        "videoId": 1398819,
+        "externalId": "LcN3cMPuRO",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found on the cliffside. Located near the waterfalls. | Poison Bomb |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398818/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/48b2783c8ef3964e7c184d8f30b218e988920be1"
+      }
+    },
+    {
+      "coordinates": [
+        28.26131175841968,
+        40.01757793046477
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398821,
+        "videoId": 1398822,
+        "externalId": "9OOBzLxvYm",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found next to the pine trees. | Cashnut |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398821/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/4c940965179e8759f851ebfc4fd4a19af7112a8e"
+      }
+    },
+    {
+      "coordinates": [
+        27.271384506955314,
+        47.02811375530436
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKQ17UkDO6",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "aydYkt4MmO",
+        "title": "Panther Preserve",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        29.117087631955286,
+        46.66744476090943
+      ],
+      "properties": {
+        "subcategoryExternalId": "oWn3HOlDEA",
+        "imageId": 1398824,
+        "videoId": 1398825,
+        "externalId": "wIrFdLtuwY",
+        "title": "",
+        "description": "***\n#\n*\"Rest at campfires, found either in villages or next to tents scattered around Ginormosia to restore your strength.\"*",
+        "imagePath": "/game_map_pin/1398824/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/c0217724dda9a30cbe12f5195e497ec487658849"
+      }
+    },
+    {
+      "coordinates": [
+        32.78892799552864,
+        48.160998511755054
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398827,
+        "videoId": 1398828,
+        "externalId": "YXDElTbQT2",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found beside the waterfalls. | White Flower Vase |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398827/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/ae0fc9982a6b6416d63f93a21afee12128607f73"
+      }
+    },
+    {
+      "coordinates": [
+        30.76744362052858,
+        46.79483852054116
+      ],
+      "properties": {
+        "subcategoryExternalId": "iFBDzSSj7k",
+        "imageId": 1398829,
+        "videoId": 1398830,
+        "externalId": "CVEUjgur5J",
+        "title": "Evershop - Panther Preserve",
+        "description": "***\n#\n**NOTE:**\n- You can sell vegetables at the Evershop. Selling produce will earn you items as well as currency to be used in Ginormosia.",
+        "imagePath": "/game_map_pin/1398829/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/0c0728a7ac95515fd163ae7609e4385c1633e35d"
+      }
+    },
+    {
+      "coordinates": [
+        32.69003444722114,
+        52.2430198750078
+      ],
+      "properties": {
+        "subcategoryExternalId": "RhIwndJ9xG",
+        "imageId": 1398831,
+        "videoId": 1398832,
+        "externalId": "6KtkVQJIxl",
+        "title": "Wav'yu Shrine",
+        "description": "***\n#\n*\"Solving the puzzles contained within the various shrines around Ginormosia may lead to mysterious encounters.\"*",
+        "imagePath": "/game_map_pin/1398831/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/f7926d26b145a85b82f42be0f4e85c837b929ea8"
+      }
+    },
+    {
+      "coordinates": [
+        32.95370632222085,
+        53.30634223624193
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1398835,
+        "videoId": 1398836,
+        "externalId": "ZORBMoQt32",
+        "title": "Elegant Icewolf Statue",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found in *Wav'yu Shrine*. | Magician |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1398835/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/a5fc56ae8010f6ca089d2dc44eca8c6d1a71fcb9"
+      }
+    },
+    {
+      "coordinates": [
+        25.60404488416293,
+        57.61460537510027
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398838,
+        "videoId": 1398839,
+        "externalId": "O9XhJHqzUi",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found at the peak of the volcano. | Misplaced Hammer (Recipe) |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398838/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/8b63508898b05e9bd337b5a0db2a7bb09373f676"
+      }
+    },
+    {
+      "coordinates": [
+        18.748576134162704,
+        58.452127012618064
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398842,
+        "videoId": 1398843,
+        "externalId": "Lj3uzqEQyo",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found at the cliff. | Cashnut |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398842/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/9d3c99193519a7551ca5cc0b37d8ca65bd54bbe5"
+      }
+    },
+    {
+      "coordinates": [
+        24.549357384163102,
+        59.937207668246856
+      ],
+      "properties": {
+        "subcategoryExternalId": "o7AyInAQOb",
+        "externalId": "2W5MYA913P",
+        "title": "Sword of Time",
+        "description": "***\n#\n|Location|\n| :-----------: |\n| Found below the cliff. |\n#\n*\"By taking part in **Legendary Challenges**, you can obtain the materials needed to craft legendary equipment.\"*\n#\n**NOTE:**\n- There's a small chance for this events to spawn at **Area Rank 3** or above.",
+        "imageId": 1398849,
+        "imagePath": "/game_map_pin/1398849/{size}.webp",
+        "videoId": 1398850,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/80da0fc5efb7e58c695a6f20b164c555313c2443"
+      }
+    },
+    {
+      "coordinates": [
+        14.367370749032915,
+        52.86626791011818
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398846,
+        "videoId": 1398847,
+        "externalId": "nFOFJRsUJe",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found on the pathway. | Demonic Hopper |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398846/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/37336c6a571cf0632ed5fabafd880dff44060c46"
+      }
+    },
+    {
+      "coordinates": [
+        -17.061374576355746,
+        54.36333858885024
+      ],
+      "properties": {
+        "subcategoryExternalId": "A3BZJHCqTe",
+        "imageId": 1398856,
+        "videoId": 1398857,
+        "externalId": "3wIiEdy65X",
+        "title": "Scorchrock Mountain - Googlolly's Tower",
+        "description": "$43",
+        "imagePath": "/game_map_pin/1398856/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/569775d01fc4d2dc5b1d8754de54abd77bb5cce3"
+      }
+    },
+    {
+      "coordinates": [
+        -28.665765465781988,
+        54.40449884260582
+      ],
+      "properties": {
+        "subcategoryExternalId": "RhIwndJ9xG",
+        "imageId": 1398858,
+        "videoId": 1398859,
+        "externalId": "xjjlbekgK2",
+        "title": "Lun'li Shrine",
+        "description": "***\n#\n*\"Solving the puzzles contained within the various shrines around Ginormosia may lead to mysterious encounters.\"*",
+        "imagePath": "/game_map_pin/1398858/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/d038e5717f508d71ab701ed5a831ae29831b3518"
+      }
+    },
+    {
+      "coordinates": [
+        -28.665765465781988,
+        55.46479790414713
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1398860,
+        "videoId": 1398861,
+        "externalId": "v5xOlXY2HT",
+        "title": "Cold Crystal",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found in *Lun'li Shrine*. | Miner |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1398860/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/d885d750fef5b97ac941c3390f02b213f42832cd"
+      }
+    },
+    {
+      "coordinates": [
+        -30.400702778536868,
+        52.66270255948638
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398862,
+        "videoId": 1398863,
+        "externalId": "Pd8ncZvB9L",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found behind the stone. Located outside the *Lun'li Shrine*. | Red Flower Ornament (Recipe) |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398862/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/8cf505452ad04ac6955e8dcac20dc8f169790975"
+      }
+    },
+    {
+      "coordinates": [
+        -10.16850225867995,
+        57.74433476685178
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398865,
+        "videoId": 1398866,
+        "externalId": "dLXlMQLRIQ",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found on the cliffside. Located behind the tree. | Cashnut |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398865/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/b5b406887d783f71567c768ead626eb0610768d3"
+      }
+    },
+    {
+      "coordinates": [
+        0.24852463417624904,
+        57.35371976225019
+      ],
+      "properties": {
+        "subcategoryExternalId": "o7AyInAQOb",
+        "imageId": 1398867,
+        "videoId": 1398868,
+        "externalId": "QHj8zptjBp",
+        "title": "Brush of Time",
+        "description": "***\n#\n|Location|\n| :-----------: |\n| Found near the small lake. Located at the peak of the mountain. |\n#\n*\"By taking part in **Legendary Challenges**, you can obtain the materials needed to craft legendary equipment.\"*\n#\n**NOTE:**\n- There's a small chance for this events to spawn at **Area Rank 3** or above.",
+        "imagePath": "/game_map_pin/1398867/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/9333c55476e3e4647e5be77eed0225e983036d82"
+      }
+    },
+    {
+      "coordinates": [
+        -4.870584343829449,
+        55.09162231780263
+      ],
+      "properties": {
+        "subcategoryExternalId": "oWn3HOlDEA",
+        "imageId": 1398869,
+        "videoId": 1398870,
+        "externalId": "Ik2NoXrxUK",
+        "title": "",
+        "description": "***\n#\n*\"Rest at campfires, found either in villages or next to tents scattered around Ginormosia to restore your strength.\"*",
+        "imagePath": "/game_map_pin/1398869/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/9908b36df4a22cafd7f488b3aeddfedd30c1c446"
+      }
+    },
+    {
+      "coordinates": [
+        -5.423718976475556,
+        56.02659883315974
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398871,
+        "videoId": 1398872,
+        "externalId": "oaVLsGewCD",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found in front of the *Campfire* | Bagna Cauda |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398871/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/c5a987d28b4a42945025fc5808c740a99b88b38e"
+      }
+    },
+    {
+      "coordinates": [
+        -8.777941794102816,
+        52.29194774174465
+      ],
+      "properties": {
+        "subcategoryExternalId": "uVMFgG7f8r",
+        "imageId": 1398875,
+        "videoId": 1398876,
+        "externalId": "225AXG3HBb",
+        "title": "Agekara Cave",
+        "description": "",
+        "imagePath": "/game_map_pin/1398875/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/bcb0de9d617057692214cd3a3b1e95f5017a664c"
+      }
+    },
+    {
+      "coordinates": [
+        -10.535754294103157,
+        51.31371807457066
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398873,
+        "videoId": 1398874,
+        "externalId": "6j0VPWt4n3",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found on the cliff. Located beside the entrance of *Agekara Cave*. | Tropical Flower Wreath |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398873/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/0ff721dfd8f5cca45e7ffc005513453aec53d405"
+      }
+    },
+    {
+      "coordinates": [
+        -8.42637929410256,
+        53.511175849662294
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": 1398877,
+        "videoId": 1398878,
+        "externalId": "c6GtjECyva",
+        "title": "Quirky Hammer",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found in a diamond chest. Located inside the *Agekara Cave*. | Blacksmith |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": "/game_map_pin/1398877/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/800dfd5027151ce6fb3c2bb3898f4634e3d00be9"
+      }
+    },
+    {
+      "coordinates": [
+        1.2483701723215006,
+        42.40051212579425
+      ],
+      "properties": {
+        "subcategoryExternalId": "7WyRgwqsnN",
+        "imageId": 1398880,
+        "videoId": 1398881,
+        "externalId": "f1l6en1z67",
+        "title": "",
+        "description": "***\n#\n|Location|Reward|\n| :-----------: | :-----------: |\n| Found behind the tall tree. | Bird Cage |\n#\n*\"Rescue the Leafe buried across the land and they'll reward you with items.\"*\n#\n**NOTE:**\n- Once you've rescued all the **Leafe** in the given area, talk to the area's tower to claim your reward.",
+        "imagePath": "/game_map_pin/1398880/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/430/7db96cfdf8de77c1f59e09808caebbbe31bcaab9"
+      }
+    },
+    {
+      "coordinates": [
+        -7.642141418521078,
+        8.164368554994425
+      ],
+      "properties": {
+        "subcategoryExternalId": "uVMFgG7f8r",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "RCNHVkWwMn",
+        "title": "Fort Gardhart",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -7.730032043521618,
+        10.332933742155916
+      ],
+      "properties": {
+        "subcategoryExternalId": "o7AyInAQOb",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "K2yTWjmCdO",
+        "title": "Greatsword of Time",
+        "description": "***\n#\n|Location|\n| :-----------: |\n| Found in *Fort Gardhart*. |\n#\n*\"By taking part in **Legendary Challenges**, you can obtain the materials needed to craft legendary equipment.\"*\n#\n**NOTE:**\n- There's a small chance for this events to spawn at **Area Rank 3** or above.",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -5.55198467837306,
+        -0.5213454199884922
+      ],
+      "properties": {
+        "subcategoryExternalId": "MZPaPO4RUp",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "4DMaKLMCW8",
+        "title": "Terrible Turf War: Wolves",
+        "description": "***\n#\n|Unlocks|\n| :-----------: |\n| *Terrible Turf War: Monkeys* |\n#\n|Request|Rewards|\n| :-----------: | :-----------: |\n| Red Wolves (5x) | Stacks of Copper  |\n|  | 500 Dosh |",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -4.3109554179937675,
+        0.7650951087342435
+      ],
+      "properties": {
+        "subcategoryExternalId": "MZPaPO4RUp",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "rkMrzxhj3t",
+        "title": "Terrible Turf War: Monkeys",
+        "description": "***\n#\n|Requirement|Unlocks|\n| :-----------: | :-----------: |\n| *Terrible Turf War: Wolves* | *Terrible Turf War: Bears* |\n#\n|Request|Rewards|\n| :-----------: | :-----------: |\n| Applejack Apes (5x) | Stacks of Silver |\n|  | 1000 Dosh |",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -6.025718926696129,
+        1.851558824704469
+      ],
+      "properties": {
+        "subcategoryExternalId": "MZPaPO4RUp",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "AVMwAHYWyO",
+        "title": "Terrible Turf War: Bears",
+        "description": "***\n#\n|Requirement|\n| :-----------: |\n| *Terrible Turf War: Monkeys* |\n#\n|Request|Rewards|\n| :-----------: | :-----------: |\n| Killer Bears (2x) | *Shaman's Painting* |\n|  | 2500 Dosh |",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -3.9618805440895812,
+        -2.4009394739472896
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "oOdsaKPKpK",
+        "title": "Shaman's Painting",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found by completing the personal request in *Buffalo Base*. | Artist |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -45.547170087850844,
+        19.260842289538886
+      ],
+      "properties": {
+        "subcategoryExternalId": "MZPaPO4RUp",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "8ZcCNhWplv",
+        "title": "A Sparkling Shell",
+        "description": "***\n#\n|Unlocks|\n| :-----------: |\n| *A High-Quality Handkerchief* |\n#\n|Request|Rewards|\n| :-----------: | :-----------: |\n| Dandelion Cotton (9x) | Mysteria Mineral Waters  |\n|  | 500 Dosh |",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -44.10337659598193,
+        19.77776973754267
+      ],
+      "properties": {
+        "subcategoryExternalId": "MZPaPO4RUp",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "g4eakWRFuO",
+        "title": "A High-Quality Handkerchief",
+        "description": "***\n#\n|Requirement|Unlocks|\n| :-----------: | :-----------: |\n| *A Sparkling Shell* | *A Cozy Shell Cover* |\n#\n|Request|Rewards|\n| :-----------: | :-----------: |\n| Silk (9x) | Faraway Spring Waters |\n|  | 1000 Dosh |",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -42.78501722098238,
+        21.177449569080196
+      ],
+      "properties": {
+        "subcategoryExternalId": "MZPaPO4RUp",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "6V72k4HwjL",
+        "title": "A Cozy Shell Cover",
+        "description": "***\n#\n|Requirement|\n| :-----------: |\n| *A High-Quality Handkerchief* |\n#\n|Request|Rewards|\n| :-----------: | :-----------: |\n|  | *Old Man Anchor* |\n|  | 2500 Dosh |",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -42.50694612498995,
+        18.11526395763312
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "4QQILhw3nu",
+        "title": "Old Man Anchor",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found by completing the personal request in *Tortortoise Town* | Angler |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -44.04448823389092,
+        35.246929577942424
+      ],
+      "properties": {
+        "subcategoryExternalId": "MZPaPO4RUp",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "WLxKuRzPNf",
+        "title": "Bit by Bit in Bronze",
+        "description": "***\n#\n|Unlocks|\n| :-----------: |\n| *Interim Iterations in Iron* |\n#\n|Request|Rewards|\n| :-----------: | :-----------: |\n| Bronze Pickaxe | Topaz |\n|  | 500 Dosh |",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -42.7261288588914,
+        36.103672939440216
+      ],
+      "properties": {
+        "subcategoryExternalId": "MZPaPO4RUp",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "StbKZdfSFd",
+        "title": "Interim Iterations in Iron",
+        "description": "***\n#\n|Requirement|Unlocks|\n| :-----------: | :-----------: |\n| *Bit by Bit in Bronze* | *Glorious Glint of Gold* |\n#\n|Request|Rewards|\n| :-----------: | :-----------: |\n| Iron Pickaxe | Aquamarines |\n|  | 1000 Dosh |",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -44.22026948389106,
+        36.81056942874636
+      ],
+      "properties": {
+        "subcategoryExternalId": "MZPaPO4RUp",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "NiWtWeDTwP",
+        "title": "Glorious Glint of Gold",
+        "description": "***\n#\n|Requirement|\n| :-----------: | :-----------: |\n| *Interim Iterations in Iron* |\n#\n|Request|Rewards|\n| :-----------: | :-----------: |\n| Gold Pickaxe | *Maajik Daemon Statue* |\n|  | 2500 Dosh |",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -43.86740857978924,
+        32.02476433136644
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "0YDpCKq6HW",
+        "title": "Maajik Daemon Statue",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found by completing a personal request in *Beetle Borough* | Magician |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        27.429386510277652,
+        45.093935732757075
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "ZxHlYTAFyh",
+        "title": "Big Ol' Bomb",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found by completing a personal request in *Panther Preserve*. | Alchemist |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        28.39618338527785,
+        48.11206571889761
+      ],
+      "properties": {
+        "subcategoryExternalId": "MZPaPO4RUp",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "FCn2GuyVzH",
+        "title": "Bombs for Warmth",
+        "description": "***\n#\n|Unlocks|\n| :-----------: |\n| *Bombs for Moving Mountains* |\n#\n|Request|Rewards|\n| :-----------: | :-----------: |\n| Flame Serpents (5x) | Beef |\n|  | 500 Dosh |",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        30.097817350154372,
+        48.42494989758035
+      ],
+      "properties": {
+        "subcategoryExternalId": "MZPaPO4RUp",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "GhArpJPGLT",
+        "title": "Bombs for Moving Mountains",
+        "description": "***\n#\n|Requirement|Unlocks|\n| :-----------: | :-----------: |\n| *Bombs for Warmth* | *Bombs for You* |\n#\n|Request|Rewards|\n| :-----------: | :-----------: |\n| Rock Serpents (3x) | Chicken |\n|  | 1000 Dosh |",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        28.579119269435353,
+        49.58479894172581
+      ],
+      "properties": {
+        "subcategoryExternalId": "MZPaPO4RUp",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "GEkgoa2ujT",
+        "title": "Bombs for You",
+        "description": "***\n#\n|Requirement|\n| :-----------: | :-----------: |\n| *Bombs for Moving Mountains* |\n#\n|Request|Rewards|\n| :-----------: | :-----------: |\n| Greater Rock Serpents (2x) | *Big Ol' Bomb* |\n|  | 2500 Dosh |",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        58.79078113708468,
+        49.01015883735127
+      ],
+      "properties": {
+        "subcategoryExternalId": "NShcoaoJOU",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "ia5FIZbc9x",
+        "title": "Knight Flan",
+        "description": "***\n#\n|Location|Life|\n| :-----------: | :-----------: |\n| Found by completing a personal request in *Simian Settlement* | Paladin |\n#\n*\"To return Stranglings to their original form. offer Celestia's Gift to the Goddess Statue. Restored Strangelings may join your island.\"*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        60.65443153067403,
+        49.51534191320741
+      ],
+      "properties": {
+        "subcategoryExternalId": "MZPaPO4RUp",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "m1AkHG3vmZ",
+        "title": "Cheeky Cherries",
+        "description": "***\n#\n|Unlocks|\n| :-----------: |\n| *Barbarous Bees* |\n#\n|Request|Rewards|\n| :-----------: | :-----------: |\n| Pseudo Cherry (2x) | Prairie Honey |\n|  | 500 Dosh |",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        61.93950010567872,
+        50.49577152442561
+      ],
+      "properties": {
+        "subcategoryExternalId": "MZPaPO4RUp",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "yUa2gUkTp8",
+        "title": "Barbarous Bees",
+        "description": "***\n#\n|Requirement|Unlocks|\n| :-----------: | :-----------: |\n| *Cheeky Cherries* | *Flan Fixation* |\n#\n|Request|Rewards|\n| :-----------: | :-----------: |\n| Peach Bees (5x) | Cherry Honey |\n|  | 1000 Dosh |",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        61.32426573067872,
+        51.87291874767459
+      ],
+      "properties": {
+        "subcategoryExternalId": "MZPaPO4RUp",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "VAG5JoQHfu",
+        "title": "Flan Fixation",
+        "description": "***\n#\n|Requirement|\n| :-----------: | :-----------: |\n| *Barbarous Bees* |\n#\n|Request|Rewards|\n| :-----------: | :-----------: |\n| Black Panthers (2x) | *Knight Flan* |\n|  | 2500 Dosh |",
+        "imagePath": ""
+      }
+    }
+  ]
+}

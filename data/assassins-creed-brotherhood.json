@@ -1,0 +1,16 @@
+{
+  "slug": "assassins-creed-brotherhood",
+  "title": "Assassin's Creed Brotherhood",
+  "heroUrl": "/assets/images/games/assassins-creed-brotherhood/hero.webp",
+  "maps": [
+    {
+      "name": "Rome",
+      "slug": "rome",
+      "thumbnailUrl": "/assets/images/games/assassins-creed-brotherhood/rome.webp",
+      "updatedAt": "2026-02-19T02:23:40Z",
+      "markerCount": 546,
+      "categoryCount": 4,
+      "subcategoryCount": 31
+    }
+  ]
+}

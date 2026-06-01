@@ -1,0 +1,1179 @@
+{
+  "metadata": {
+    "externalId": "kRkA0vNuOp",
+    "name": "Stella Montis Lower",
+    "slug": "stella-montis-lower",
+    "baseTilePath": "https://storage-cdn.wemod.com/maps/27010cc6-50de-4671-8c34-a851d64ae3f1/tiles",
+    "isChecklistPublished": true,
+    "isInActiveDevelopment": false,
+    "backgroundColor": null,
+    "minZoom": 1,
+    "maxZoom": 4,
+    "initialZoom": null,
+    "tmsEnabled": false,
+    "categories": [
+      {
+        "externalId": "tDyNHhl8rr",
+        "gameMapExternalId": "kRkA0vNuOp",
+        "title": "提取区",
+        "color": "#78909C",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "5fEstbFgO2",
+        "gameMapExternalId": "kRkA0vNuOp",
+        "title": "兴趣点",
+        "color": "#37474F",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "XA9P3kDJnq",
+        "gameMapExternalId": "kRkA0vNuOp",
+        "title": "弧形区",
+        "color": "#C62828",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "8WzDfXpkuS",
+        "gameMapExternalId": "kRkA0vNuOp",
+        "title": "战利品",
+        "color": "#0277BD",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "uRbGZsygTZ",
+        "gameMapExternalId": "kRkA0vNuOp",
+        "title": "任务",
+        "color": "#FFD54F",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": ""
+      }
+    ],
+    "subcategories": [
+      {
+        "externalId": "e2NGrsRMzd",
+        "categoryExternalId": "tDyNHhl8rr",
+        "title": "突袭者舱口",
+        "icon": "material:arrow_circle_down",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "okM9XvgmY8",
+        "categoryExternalId": "tDyNHhl8rr",
+        "title": "地铁站",
+        "icon": "material:train",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "9MMJhPrerd",
+        "categoryExternalId": "tDyNHhl8rr",
+        "title": "提取点",
+        "icon": "material:text_select_move_down",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "hCZTS1rpMD",
+        "categoryExternalId": "5fEstbFgO2",
+        "title": "玩家出生点",
+        "icon": "arrow-alt-square-up",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "M1xBKF5Pjh",
+        "categoryExternalId": "5fEstbFgO2",
+        "title": "燃料电池",
+        "icon": "roundies:transportation-car-battery",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "DqToqsjo98",
+        "categoryExternalId": "5fEstbFgO2",
+        "title": "补给呼叫站",
+        "icon": "material:cell_tower",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "qV5MXXPrIw",
+        "categoryExternalId": "XA9P3kDJnq",
+        "title": "小型ARC",
+        "icon": "roundies:animals-ant",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "WurrZS85l1",
+        "categoryExternalId": "XA9P3kDJnq",
+        "title": "中等方舟",
+        "icon": "roundies:animals-beetle",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "BwkGjfMXSn",
+        "categoryExternalId": "8WzDfXpkuS",
+        "title": "武器箱",
+        "icon": "roundies:airport-and-hotels-weapon-case",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "AgzJHXvNZP",
+        "categoryExternalId": "8WzDfXpkuS",
+        "title": "弹药箱",
+        "icon": "roundies:business-and-finance-toolbox",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "zIWejhHBCv",
+        "categoryExternalId": "8WzDfXpkuS",
+        "title": "医疗包",
+        "icon": "material:medical_services",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "7W7lSq2PL1",
+        "categoryExternalId": "8WzDfXpkuS",
+        "title": "战利品容器",
+        "icon": "material:home_storage",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "oYxjtuDtRn",
+        "categoryExternalId": "8WzDfXpkuS",
+        "title": "机器人",
+        "icon": "user-robot",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "fR6yqkMHEO",
+        "categoryExternalId": "8WzDfXpkuS",
+        "title": "安全储物柜",
+        "icon": "material:water_lock",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "LUYis1p5vH",
+        "categoryExternalId": "uRbGZsygTZ",
+        "title": "目标",
+        "icon": "diamond-exclamation",
+        "excludeFromChecklists": false,
+        "description": ""
+      }
+    ],
+    "playerLocationDeltas": null
+  },
+  "features": [
+    {
+      "coordinates": [
+        -136.41618497103275,
+        -51.00584257163199
+      ],
+      "properties": {
+        "externalId": "Swi9XSB9vP",
+        "title": "",
+        "description": "*玩家可能的重生位置。*",
+        "subcategoryExternalId": "hCZTS1rpMD",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -96.53667448776795,
+        75.71091900226264
+      ],
+      "properties": {
+        "externalId": "P8MVtBs4Wj",
+        "title": "集合舱口",
+        "description": "一个备选的、更快的、非定时撤离点。\n\n*每次使用需要掠夺者舱口钥匙。*\n\n*夜间突袭期间掠夺者舱口不可用。*",
+        "subcategoryExternalId": "e2NGrsRMzd",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        22.086920775455013,
+        -66.51313149293613
+      ],
+      "properties": {
+        "externalId": "yhU0AFDGSD",
+        "title": "种子保险库通风井",
+        "description": "一个免费使用的撤离点，带有主动关闭计时器。\n\n*使用时会发出巨大声响，可能会吸引敌人。*",
+        "subcategoryExternalId": "9MMJhPrerd",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        80.34801012092055,
+        -2.6260199696857995
+      ],
+      "properties": {
+        "externalId": "VUMDdfN5Ii",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "oYxjtuDtRn",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        92.62252933876675,
+        -77.12210863529899
+      ],
+      "properties": {
+        "externalId": "5MePMJD2it",
+        "title": "",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能生成的位置。*",
+        "subcategoryExternalId": "BwkGjfMXSn",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        94.22734180358304,
+        -72.40261458739967
+      ],
+      "properties": {
+        "externalId": "rsFm0hn0Vn",
+        "title": "",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能生成的位置。*",
+        "subcategoryExternalId": "BwkGjfMXSn",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        77.46122046434255,
+        -72.56858818167042
+      ],
+      "properties": {
+        "externalId": "mVykT8WFkH",
+        "title": "",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能生成的位置。*",
+        "subcategoryExternalId": "BwkGjfMXSn",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        80.75076508953441,
+        -70.4318679859405
+      ],
+      "properties": {
+        "externalId": "7l7Ur4VEgv",
+        "title": "",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能生成的位置。*",
+        "subcategoryExternalId": "BwkGjfMXSn",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        66.16650797220535,
+        -70.48381837613633
+      ],
+      "properties": {
+        "externalId": "soTXQdiN3z",
+        "title": "",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能生成的位置。*",
+        "subcategoryExternalId": "BwkGjfMXSn",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -42.69478544514541,
+        16.57716701160247
+      ],
+      "properties": {
+        "externalId": "9XtjgRrdxB",
+        "title": "",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能生成的位置。*",
+        "subcategoryExternalId": "BwkGjfMXSn",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -55.90837888533868,
+        19.348577829158685
+      ],
+      "properties": {
+        "externalId": "xh6ZYo8hUF",
+        "title": "",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能生成的位置。*",
+        "subcategoryExternalId": "BwkGjfMXSn",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -41.74152819381732,
+        55.35232425959771
+      ],
+      "properties": {
+        "externalId": "67qg5vN7xv",
+        "title": "",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能生成的位置。*",
+        "subcategoryExternalId": "BwkGjfMXSn",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        40.94678724277506,
+        66.71829010237914
+      ],
+      "properties": {
+        "externalId": "NsVASXqAFO",
+        "title": "",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能生成的位置。*",
+        "subcategoryExternalId": "BwkGjfMXSn",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -63.43476621310751,
+        -9.846873597985862
+      ],
+      "properties": {
+        "externalId": "3fwUOcG7ol",
+        "title": "",
+        "description": "包含各种武器弹药。\n\n*弹药箱可能的生成位置。*",
+        "subcategoryExternalId": "AgzJHXvNZP",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        78.91936386303615,
+        -8.269995869273686
+      ],
+      "properties": {
+        "externalId": "igmuCmRzd7",
+        "title": "",
+        "description": "包含各种武器弹药。\n\n*弹药箱可能的生成位置。*",
+        "subcategoryExternalId": "AgzJHXvNZP",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        87.20948415752031,
+        -45.31211439216719
+      ],
+      "properties": {
+        "externalId": "HzLYzFPTGT",
+        "title": "",
+        "description": "包含各种武器弹药。\n\n*弹药箱可能的生成位置。*",
+        "subcategoryExternalId": "AgzJHXvNZP",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        74.73875580177861,
+        -72.1229219371468
+      ],
+      "properties": {
+        "externalId": "dBSXCSDRdj",
+        "title": "",
+        "description": "包含各种武器弹药。\n\n*弹药箱可能的生成位置。*",
+        "subcategoryExternalId": "AgzJHXvNZP",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        20.302844155740672,
+        62.84436042022426
+      ],
+      "properties": {
+        "externalId": "AiB7KwjdLh",
+        "title": "",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成位置。*",
+        "subcategoryExternalId": "zIWejhHBCv",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        94.31575897750838,
+        29.917259436720258
+      ],
+      "properties": {
+        "externalId": "FnMCh5Xuse",
+        "title": "",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成位置。*",
+        "subcategoryExternalId": "zIWejhHBCv",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        95.45929114725578,
+        -72.86446890391277
+      ],
+      "properties": {
+        "externalId": "c3MxS2AUwC",
+        "title": "",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成位置。*",
+        "subcategoryExternalId": "zIWejhHBCv",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        65.63578195075115,
+        -69.79901935906437
+      ],
+      "properties": {
+        "externalId": "lDGNymywkR",
+        "title": "",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成位置。*",
+        "subcategoryExternalId": "zIWejhHBCv",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        49.70965826753488,
+        -76.98017143254808
+      ],
+      "properties": {
+        "externalId": "NmtkqvjYD6",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "7W7lSq2PL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        49.357955487640965,
+        -70.63916881222202
+      ],
+      "properties": {
+        "externalId": "aH8vOs7Smz",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "7W7lSq2PL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        62.344411601085596,
+        -66.53875197254803
+      ],
+      "properties": {
+        "externalId": "iVYc9B4naq",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "7W7lSq2PL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        51.580373168753994,
+        -63.24980564631659
+      ],
+      "properties": {
+        "externalId": "C4l1Dv1JdL",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "7W7lSq2PL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        91.50217028407377,
+        -59.66258266202813
+      ],
+      "properties": {
+        "externalId": "YxjK7b5xZK",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "7W7lSq2PL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        83.00058141004695,
+        -53.3617638531244
+      ],
+      "properties": {
+        "externalId": "pBTrOuRp3b",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "7W7lSq2PL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        50.80290263852157,
+        -54.627598838761145
+      ],
+      "properties": {
+        "externalId": "W0DkiAOWKN",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "7W7lSq2PL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        30.29140181629333,
+        -55.72716895418004
+      ],
+      "properties": {
+        "externalId": "BajgKfY98j",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "7W7lSq2PL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        48.71280439956962,
+        -37.92048019295748
+      ],
+      "properties": {
+        "externalId": "4Jq9X5BZLh",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "7W7lSq2PL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        62.012651783071334,
+        62.90802288642888
+      ],
+      "properties": {
+        "externalId": "cSaUp3GxvC",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "7W7lSq2PL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        51.2789088997296,
+        63.18742329550639
+      ],
+      "properties": {
+        "externalId": "jNVjQ1WNrn",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "7W7lSq2PL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        49.065893776634624,
+        72.54491194575209
+      ],
+      "properties": {
+        "externalId": "bbvPBgNxLu",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "7W7lSq2PL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -70.71838370928013,
+        -44.94364027117843
+      ],
+      "properties": {
+        "externalId": "sZiydtMN55",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "7W7lSq2PL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -82.95171449674379,
+        -51.86017806871373
+      ],
+      "properties": {
+        "externalId": "VQcnMeKXf5",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "7W7lSq2PL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -38.01701775876069,
+        -64.9941300644632
+      ],
+      "properties": {
+        "externalId": "x4EVczvHYK",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "7W7lSq2PL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -46.00082290125309,
+        -66.23995574583282
+      ],
+      "properties": {
+        "externalId": "pJQOohrV7E",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "7W7lSq2PL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        23.698908697007028,
+        -58.87087573435416
+      ],
+      "properties": {
+        "externalId": "T9Hu5MQwRi",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "M1xBKF5Pjh",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        82.14621598696118,
+        -42.7876410934214
+      ],
+      "properties": {
+        "externalId": "K53j6GE4pc",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "M1xBKF5Pjh",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -23.14161214279045,
+        26.178530788653305
+      ],
+      "properties": {
+        "externalId": "Irm50KbjEP",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "M1xBKF5Pjh",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -37.61103085267564,
+        51.280260857656685
+      ],
+      "properties": {
+        "externalId": "3XbPPOSPAM",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "M1xBKF5Pjh",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -74.18331044590713,
+        44.590370034559385
+      ],
+      "properties": {
+        "externalId": "ju0rsbbAxO",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "M1xBKF5Pjh",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        85.65700742501508,
+        -10.762560694734503
+      ],
+      "properties": {
+        "externalId": "1yDFYDFyJB",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "oYxjtuDtRn",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        65.23416528679172,
+        -60.8310309056487
+      ],
+      "properties": {
+        "externalId": "jUJTLE57kB",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "oYxjtuDtRn",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        75.24337003332059,
+        -73.12554245575225
+      ],
+      "properties": {
+        "externalId": "1rzFHBRW7n",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "oYxjtuDtRn",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -40.90174864342586,
+        -40.697472288316774
+      ],
+      "properties": {
+        "externalId": "qyIDgo0Yeb",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "oYxjtuDtRn",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -27.945800573252683,
+        52.56621698119636
+      ],
+      "properties": {
+        "externalId": "T2eRdNoaHa",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "oYxjtuDtRn",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        55.95924556029496,
+        -57.39118490776183
+      ],
+      "properties": {
+        "externalId": "RDaGxyaVQg",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "DqToqsjo98",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -61.94974326294172,
+        -25.20622590254402
+      ],
+      "properties": {
+        "externalId": "nZ9kB8Gl8n",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "oYxjtuDtRn",
+        "imageId": 1660694,
+        "imagePath": "/game_map_pin/1660694/{size}.webp",
+        "videoId": 1660695,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/718/99886fc0dd8cb76f519c2afe8de036d05f426f34"
+      }
+    },
+    {
+      "coordinates": [
+        -30.121536980538593,
+        -23.496729888597187
+      ],
+      "properties": {
+        "externalId": "TpqbKmUbDW",
+        "title": "",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能生成的位置。*",
+        "subcategoryExternalId": "BwkGjfMXSn",
+        "imageId": 1660701,
+        "imagePath": "/game_map_pin/1660701/{size}.webp",
+        "videoId": 1660703,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/718/ed2ea8cfe295a7e21f2dbe97a41765e93c45caf2"
+      }
+    },
+    {
+      "coordinates": [
+        -53.17041460663657,
+        -63.19106241303656
+      ],
+      "properties": {
+        "externalId": "0GyxsiZhNw",
+        "title": "沙盒孵化舱",
+        "description": "一个备选的、更快的、非定时撤离点。\n\n*每次使用需要掠夺者舱口钥匙。*\n\n*夜间突袭期间掠夺者舱口不可用。*",
+        "subcategoryExternalId": "e2NGrsRMzd",
+        "imageId": 1660710,
+        "imagePath": "/game_map_pin/1660710/{size}.webp",
+        "videoId": 1660711,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/718/6b6db5df77cb05cea77d1fcd081adf66799ad7b9"
+      }
+    },
+    {
+      "coordinates": [
+        -17.165495853255607,
+        -40.89934421106872
+      ],
+      "properties": {
+        "externalId": "RPBEGnto8m",
+        "title": "粉碎机",
+        "description": "",
+        "subcategoryExternalId": "qV5MXXPrIw",
+        "imageId": 1660718,
+        "imagePath": "/game_map_pin/1660718/{size}.webp",
+        "videoId": 1660719,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/718/7d7f03c91961eead3f8d7ad6ab63b355499c253c"
+      }
+    },
+    {
+      "coordinates": [
+        -47.38609060148397,
+        -27.367346168363213
+      ],
+      "properties": {
+        "externalId": "cssl9qRAqc",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "oYxjtuDtRn",
+        "imageId": 1660731,
+        "imagePath": "/game_map_pin/1660731/{size}.webp",
+        "videoId": 1660732,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/718/91835f32a4be76bfe31029fc5bc29feacf34266c"
+      }
+    },
+    {
+      "coordinates": [
+        -46.236993828162895,
+        -21.147929885802995
+      ],
+      "properties": {
+        "externalId": "T3dpfmbjDj",
+        "title": "",
+        "description": "安全保险柜是需要特定技能树天赋才能打开的上锁容器，通常包含高级战利品或武器。\n\n**要求：**\n\n- 安全破解天赋\n\n*安全保险柜可能刷新的位置。*",
+        "subcategoryExternalId": "fR6yqkMHEO",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -48.921506021343646,
+        18.546675770219196
+      ],
+      "properties": {
+        "externalId": "lZ5heNbQZy",
+        "title": "火球与汽水",
+        "description": "**火球兽和爆破兽**是体型小但速度快的ARC敌人，经常成对出现并冲向目标。其中一个在接近时会引爆，另一个则使用短程火焰喷射器攻击。\n\n**弱点：**\n\n- 重型弹药\n\n**可能的战利品池：**\n\n- ARC合金\n- ARC能量电池\n- 粗制炸药\n- 火球燃烧器\n- 爆破触发器",
+        "subcategoryExternalId": "qV5MXXPrIw",
+        "imageId": 1660733,
+        "imagePath": "/game_map_pin/1660733/{size}.webp",
+        "videoId": 1660734,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/718/d1620ad8d66dc979eb840dbbead87e770cf76bec"
+      }
+    },
+    {
+      "coordinates": [
+        92.2157997082146,
+        -50.19882623523048
+      ],
+      "properties": {
+        "externalId": "vlwklIxGrk",
+        "title": "",
+        "description": "*玩家可能的重生位置。*",
+        "subcategoryExternalId": "hCZTS1rpMD",
+        "imageId": 1660758,
+        "imagePath": "/game_map_pin/1660758/{size}.webp",
+        "videoId": 1660759,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/718/135fd7071d256f028e25c8770e9b8569d0123b4a"
+      }
+    },
+    {
+      "coordinates": [
+        74.848742558812,
+        -39.973093812116886
+      ],
+      "properties": {
+        "externalId": "qR4P5ODV64",
+        "title": "东部隧道舱口",
+        "description": "一个备选的、更快的、非定时撤离点。\n\n*每次使用需要掠夺者舱口钥匙。*\n\n*夜间突袭期间掠夺者舱口不可用。*",
+        "subcategoryExternalId": "e2NGrsRMzd",
+        "imageId": 1660762,
+        "imagePath": "/game_map_pin/1660762/{size}.webp",
+        "videoId": 1660763,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/718/eff3565e5e00a74358997b3afb83181287904a96"
+      }
+    },
+    {
+      "coordinates": [
+        5.935230879193995,
+        73.90123529854606
+      ],
+      "properties": {
+        "externalId": "rbufeEB493",
+        "title": "大厅地铁站",
+        "description": "一个免费使用的撤离点，带有激活的关闭计时器。\n\n*使用时会发出巨大噪音，可能会吸引敌人。*",
+        "subcategoryExternalId": "okM9XvgmY8",
+        "imageId": 1660772,
+        "imagePath": "/game_map_pin/1660772/{size}.webp",
+        "videoId": 1660773,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/718/63bd9022416bfca2e646c067ecc9bac65840a2e1"
+      }
+    },
+    {
+      "coordinates": [
+        -164.45086705193143,
+        5.012884828919425
+      ],
+      "properties": {
+        "externalId": "xBxRd7EGdA",
+        "title": "",
+        "description": "*玩家可能的重生位置。*",
+        "subcategoryExternalId": "hCZTS1rpMD",
+        "imageId": 1660790,
+        "imagePath": "/game_map_pin/1660790/{size}.webp",
+        "videoId": 1660791,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/718/2d81e2ac6f145426368c8adc7cb87d8ac2cb4b49"
+      }
+    },
+    {
+      "coordinates": [
+        -158.24210841907788,
+        16.96959974643157
+      ],
+      "properties": {
+        "externalId": "ZO6fm8U2JA",
+        "title": "",
+        "description": "包含各种武器弹药。\n\n*弹药箱可能的生成位置。*",
+        "subcategoryExternalId": "AgzJHXvNZP",
+        "imageId": 1660794,
+        "imagePath": "/game_map_pin/1660794/{size}.webp",
+        "videoId": 1660795,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/718/3d1e7f016396532a1a4662171352cc10f5f2def3"
+      }
+    },
+    {
+      "coordinates": [
+        -151.92156937880097,
+        17.811840818174986
+      ],
+      "properties": {
+        "externalId": "94EOMQXD0Q",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "oYxjtuDtRn",
+        "imageId": 1660796,
+        "imagePath": "/game_map_pin/1660796/{size}.webp",
+        "videoId": 1660797,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/718/6813f9cb5a55fd8b0a5167b492ba50ff5b3b01e0"
+      }
+    },
+    {
+      "coordinates": [
+        -140.4149127799834,
+        15.185561879311834
+      ],
+      "properties": {
+        "externalId": "c4QAZQ6juT",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "7W7lSq2PL1",
+        "imageId": 1660798,
+        "imagePath": "/game_map_pin/1660798/{size}.webp",
+        "videoId": 1660799,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/718/1e8d6e4d58cc24d7e630fd8817e51dafc9259f8f"
+      }
+    },
+    {
+      "coordinates": [
+        -129.50604189955214,
+        -34.74884163548176
+      ],
+      "properties": {
+        "externalId": "YhuA0xVj1M",
+        "title": "装卸站地铁站",
+        "description": "一个免费使用的撤离点，带有激活的关闭计时器。\n\n*使用时会发出巨大噪音，可能会吸引敌人。*",
+        "subcategoryExternalId": "okM9XvgmY8",
+        "imageId": 1660800,
+        "imagePath": "/game_map_pin/1660800/{size}.webp",
+        "videoId": 1660801,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/718/6563695e656ded0a67e146ccfbd013320f8ebad0"
+      }
+    },
+    {
+      "coordinates": [
+        72.37702681196282,
+        -49.953130097374405
+      ],
+      "properties": {
+        "externalId": "XeRX72f5IF",
+        "title": "",
+        "description": "*玩家可能的重生位置。*",
+        "subcategoryExternalId": "hCZTS1rpMD",
+        "imageId": 1660835,
+        "imagePath": "/game_map_pin/1660835/{size}.webp",
+        "videoId": 1660836,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/718/5167313f9776e4d59a11cfbdd83b46765ef3f5e6"
+      }
+    },
+    {
+      "coordinates": [
+        92.60115606904873,
+        60.21440922839221
+      ],
+      "properties": {
+        "externalId": "MgAeZoVifb",
+        "title": "",
+        "description": "*玩家可能的重生位置。*",
+        "subcategoryExternalId": "hCZTS1rpMD",
+        "imageId": 1660908,
+        "imagePath": "/game_map_pin/1660908/{size}.webp",
+        "videoId": 1660909,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/718/bc2ea29bf71b45507a7ef93cafbf193be3611f6e"
+      }
+    },
+    {
+      "coordinates": [
+        -68.2652425380154,
+        36.4351666467595
+      ],
+      "properties": {
+        "externalId": "PXd2ubxy42",
+        "title": "",
+        "description": "*玩家可能的重生位置。*",
+        "subcategoryExternalId": "hCZTS1rpMD",
+        "imageId": 1660911,
+        "imagePath": "/game_map_pin/1660911/{size}.webp",
+        "videoId": 1660912,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/718/c64a38d198fe00156f6158988a64e8cbc59fa389"
+      }
+    },
+    {
+      "coordinates": [
+        -46.94611196295551,
+        12.641504650766336
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "wizdT4gvHJ",
+        "title": "抢夺与回收",
+        "description": "- **在沙盒中为任意一台漫游车拍照**\n- 搜索大厅旁安检室内的文件\n- 向田文交付一个流量控制器\n- 向田文交付一个磁控管\n\n| 上一个 |\n|--------|\n| [冷藏室]() |",
+        "subcategoryExternalId": "LUYis1p5vH",
+        "imageId": 1660735,
+        "imagePath": "/game_map_pin/1660735/{size}.webp",
+        "videoId": 1660736,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/718/b73ae4ce7ed6f7ce367fadbbb7c7b761b66d259b"
+      }
+    },
+    {
+      "coordinates": [
+        -49.593458744315654,
+        -49.68817135404585
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "LV7Xqj4bnR",
+        "title": "抢夺与回收",
+        "description": "- **在沙盒中为任意一台漫游车拍照**\n- 搜索大厅旁安检室内的文件\n- 向田文交付一个流量控制器\n- 向田文交付一个磁控管\n\n| 上一个 |\n|--------|\n| [冷藏室]() |",
+        "subcategoryExternalId": "LUYis1p5vH",
+        "imageId": 1660714,
+        "imagePath": "/game_map_pin/1660714/{size}.webp",
+        "videoId": 1660715,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/718/a0f0c04e8edbf526c645b1bdad979a704716a830"
+      }
+    }
+  ]
+}

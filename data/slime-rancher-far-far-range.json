@@ -1,0 +1,4130 @@
+{
+  "metadata": {
+    "externalId": "FHzDWXMZHN",
+    "name": "Far, Far Range",
+    "slug": "far-far-range",
+    "baseTilePath": "https://storage-cdn.wemod.com/maps/468eef71-114d-4990-a6f3-86768cd33f7f/tiles",
+    "isChecklistPublished": true,
+    "isInActiveDevelopment": false,
+    "backgroundColor": "#006087",
+    "minZoom": 1,
+    "maxZoom": 6,
+    "initialZoom": null,
+    "tmsEnabled": false,
+    "categories": [
+      {
+        "externalId": "rgZhrfjzVj",
+        "gameMapExternalId": "FHzDWXMZHN",
+        "title": "战利品",
+        "color": "#a9b8af",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "iKCIX1hkvs",
+        "gameMapExternalId": "FHzDWXMZHN",
+        "title": "地点",
+        "color": "#c46c97",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "i1Rr6nz522",
+        "gameMapExternalId": "FHzDWXMZHN",
+        "title": "未命名分类",
+        "color": "#5d8fd5",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "IGbwUpL7ie",
+        "gameMapExternalId": "FHzDWXMZHN",
+        "title": "未命名子类别",
+        "color": "#609b94",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "subcategories": [
+      {
+        "externalId": "kXDDzfYVlF",
+        "categoryExternalId": "rgZhrfjzVj",
+        "title": "Gilded Ginger Spawn",
+        "icon": "roundies:home-equipment-plant-seven",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "1AAu6OPzgT",
+        "categoryExternalId": "rgZhrfjzVj",
+        "title": "Map Data Node",
+        "icon": "map-marker-check",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "4CCRvw53DN",
+        "categoryExternalId": "rgZhrfjzVj",
+        "title": "Treasure Pod",
+        "icon": "treasure-chest",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "eDsPwYADRk",
+        "categoryExternalId": "iKCIX1hkvs",
+        "title": "喷泉",
+        "icon": "water-rise",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "MBngaZlCfD",
+        "categoryExternalId": "iKCIX1hkvs",
+        "title": "Gordo Slime",
+        "icon": "roundies:emoji-eyes-closed-smile",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "ZPXmlzjJtK",
+        "categoryExternalId": "iKCIX1hkvs",
+        "title": "史莱姆雕像",
+        "icon": "roundies:roundies-freebie-lady-liberty",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "PU3OLmkyYb",
+        "categoryExternalId": "iKCIX1hkvs",
+        "title": "史莱姆门",
+        "icon": "roundies:world-monuments-bradenburg-gate",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "3RJ71CRj6B",
+        "categoryExternalId": "iKCIX1hkvs",
+        "title": "传送装置",
+        "icon": "portal-enter",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "Vrk2Sh5Mrm",
+        "categoryExternalId": "iKCIX1hkvs",
+        "title": "避难所",
+        "icon": "vault",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "wAIzB0ZROO",
+        "categoryExternalId": "iKCIX1hkvs",
+        "title": "史莱姆玩具",
+        "icon": "roundies:maternity-rubber-duck",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "DQ80L3BSz3",
+        "categoryExternalId": "iKCIX1hkvs",
+        "title": "绿洲芽",
+        "icon": "flower-daffodil",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "IMZF5XnmKr",
+        "categoryExternalId": "i1Rr6nz522",
+        "title": "Hobson's Note",
+        "icon": "note",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "GCUoTaGxuD",
+        "categoryExternalId": "IGbwUpL7ie",
+        "title": "销入口",
+        "icon": "question",
+        "excludeFromChecklists": true,
+        "description": ""
+      }
+    ],
+    "playerLocationDeltas": null
+  },
+  "features": [
+    {
+      "coordinates": [
+        103.68233634303502,
+        -64.06640355482052
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "VJBCR0adKF",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        103.43555850991731,
+        -63.36104564284667
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "ky8VRGzBXK",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        100.85560843641403,
+        -55.91272739616898
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "M5qI93PTjF",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        94.79003906250001,
+        -55.99838095535963
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "Hta5GuTex4",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        96.6796875,
+        -53.44880683542758
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "JjVEq0TZdd",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        98.63525390625,
+        -51.6180165487737
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "QcLIops7RG",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        91.56005859375001,
+        -47.783634635263766
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "WT1JCxUx1c",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        94.17480468750001,
+        -46.25584681848032
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "mtqmzamnw8",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        108.03343142372316,
+        -46.131160686749396
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "xuOdSkl2KD",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        124.54983541045394,
+        -41.59045143008606
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "VilGwnffgu",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        116.11952335893272,
+        -40.654695071763385
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "fDjazD4TlP",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        109.2610714303726,
+        -39.956734469886264
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "3AA3OskGUb",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        105.16113281250001,
+        -38.97649248553941
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "TMdVhuw6Yw",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        93.09814453125,
+        -36.703659597194545
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "jraVzTbrKE",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        93.95507812500001,
+        -37.31775185163688
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "9IHqabpY1s",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        102.04101562500001,
+        -33.74261277734688
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "h8HAbjGTlj",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        108.25927734375001,
+        -36.932330061503144
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "zftW25au2M",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        110.36865234375001,
+        -37.31775185163688
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "kvwkT5bQ0s",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        124.73876953125001,
+        -36.597889133070204
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "CjFx18Ora3",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        115.92773437500001,
+        -33.85216970140741
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "sIpFxaYNdR",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        108.30322265625001,
+        -31.353636941500987
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "u1qia18yHH",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        105.53466796875001,
+        -29.286398892934763
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "GA2iLQBJ6w",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        120.10427941959506,
+        -27.117666682516273
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "FoqzMQ5ab3",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        114.96093750000001,
+        -24.006326198751115
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "su9OYUaTGL",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        110.2556004433521,
+        -20.744972197046977
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "nua27Fsi86",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        138.0558214753865,
+        -23.08947191308866
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "UGUBHwIchE",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        134.03320312500003,
+        -22.14670778001263
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "n6GMqI2E6Z",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        100.99021452720552,
+        -18.930204910746895
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "kfnjxNuE3m",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        83.27636718750001,
+        -19.43551433909781
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "mgNNmDwVnq",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        97.91015625,
+        -13.688687769784968
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "PKCef0uv5p",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        97.294921875,
+        -9.42738661503235
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "lqjv6EGW67",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        112.72337877452914,
+        -15.329129044930784
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "OrNK0GtzZi",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        119.43564197005728,
+        -14.482100388271808
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "IGwExtqsjw",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        127.79926094317445,
+        -8.218291690087781
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "bckMaTFJf2",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        129.00146484375003,
+        -10.725381285457912
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "87qMmhct2E",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        141.87816589684346,
+        -11.634455775721852
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "gw3qWllXxz",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        96.14439525871242,
+        1.1308662555810873
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "gpWjzUmTnH",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        103.25799856562236,
+        3.3703710782876213
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "GejdfpY0z6",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        120.82160525859189,
+        0.31627260665016804
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "MpGjLxhKj2",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        114.06085709426706,
+        1.245853669340952
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "o0KxLRtnsJ",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        112.0166015625,
+        3.908098881894123
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "85J3llgSQn",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        134.51335389312595,
+        1.1035719701621833
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "r7K0fZHeqN",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        141.13511469960577,
+        5.592189777412702
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "7HjwQ7ZI9L",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        135.18565162837385,
+        9.225769366074719
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "8JyafUi3P6",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        117.99316406250001,
+        6.751896464843375
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "ON6fvJnq24",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        120.34423828125001,
+        7.18810087117902
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "emAuPZ2tPx",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        107.59537090767532,
+        9.470515986266747
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "95AgBO3EC6",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        100.19058575142532,
+        10.422769339864159
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "LaRY6fg72Z",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        149.95536345750696,
+        6.827518593654071
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "8NuQLNk7FH",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        148.66699218750003,
+        8.494104537551882
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "OILI749aZp",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        147.26074218750003,
+        9.838979375579344
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "vOcaraFJZ1",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        144.32500644022147,
+        15.14279173073846
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "NLgQ6B9yqS",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        123.23589683631988,
+        14.600834633127752
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "rdVE5Ifo3T",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        121.64062500000001,
+        15.517205256329813
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "wlYNrNqPEe",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        124.52502076804119,
+        18.217500147906478
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "1cEERwgIDD",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        136.97753906250003,
+        19.12440952808487
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "JATjDSo5NT",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        115.86709076078361,
+        21.62493508382305
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "sx57Nx0sgu",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        120.56396484375001,
+        26.62781822639305
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "RH7wnYeUT2",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        134.03758368956883,
+        30.932889292459237
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "mmESIUpAt0",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        111.22558593750001,
+        31.44741029142872
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "uQHHFlG7Jw",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        128.58426098024475,
+        38.086714244689546
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "tLF9up226X",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        132.53906250000003,
+        37.45741810262938
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "qqzLVJLBX0",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        132.60498046875003,
+        39.14710270770074
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "7HV8NEM921",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        106.72996771656283,
+        46.15862230183314
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "a00g6qMMpo",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        103.75488281250001,
+        47.54687159892238
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "Z5madb9PSB",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        111.77490234375001,
+        48.63290858589535
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "s5xmwKifGk",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        105.03441356979175,
+        55.51979263036894
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "xTa9u1K2jz",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        106.47949218750001,
+        59.153403092050375
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "q56Qbk0CGt",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        111.70898437500001,
+        59.877911874831156
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "W0D3FAsWrQ",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        94.65356009313258,
+        -34.43353481403877
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "Ww9y8BoPld",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        96.3911730918301,
+        -38.350906068193574
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "h99YkqjLWJ",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        122.18994140625001,
+        7.558546606093156
+      ],
+      "properties": {
+        "subcategoryExternalId": "kXDDzfYVlF",
+        "imageId": null,
+        "externalId": "O3BHyXspfc",
+        "title": "",
+        "description": "***\n#\n*一种稀有且有价值的资源，可用于吸引金史莱姆，也可用于戈尔多陷阱。当存在时，会发出闪烁的声音，指示其位置。*\n#\n***注意：***\n- *这是一个可能的刷新点。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        115.70714369492461,
+        -12.323293488426984
+      ],
+      "properties": {
+        "subcategoryExternalId": "3RJ71CRj6B",
+        "imageId": null,
+        "externalId": "Gs9gKhmOHY",
+        "title": "玻璃沙漠传送门",
+        "description": "***\n#\n继续喂食缠绕戈尔多直到它爆裂以解锁传送门。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -33.817785400457396,
+        -39.34677840191229
+      ],
+      "properties": {
+        "subcategoryExternalId": "3RJ71CRj6B",
+        "imageId": null,
+        "externalId": "VMrJTO5YFa",
+        "title": "靛蓝采石场传送门",
+        "description": "***\n#\n继续喂食石头戈尔多直到它爆裂以解锁传送门。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -109.25822791866601,
+        -37.3811905365059
+      ],
+      "properties": {
+        "subcategoryExternalId": "3RJ71CRj6B",
+        "imageId": null,
+        "externalId": "aRanM4hvXN",
+        "title": "",
+        "description": "***\n#\n继续喂食虎斑戈尔多直到它爆裂以解锁传送门。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -5.424640577753644,
+        -4.3136866748244636
+      ],
+      "properties": {
+        "subcategoryExternalId": "3RJ71CRj6B",
+        "imageId": null,
+        "externalId": "bwL5OuxFRa",
+        "title": "靛蓝采石场传送门",
+        "description": "***\n#\n继续喂食石头戈尔多直到它爆裂以解锁传送门。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -58.72006580566616,
+        -64.05669159714242
+      ],
+      "properties": {
+        "subcategoryExternalId": "wAIzB0ZROO",
+        "imageId": null,
+        "externalId": "GPVCsJl8G5",
+        "title": "",
+        "description": "***\n#\n*史莱姆玩具是用来娱乐和保持史莱姆开心的特殊物品。每种史莱姆都有其喜欢的玩具，当放在它们的围栏中时会增加它们的快乐度。快乐的史莱姆会产生更多的结晶，这是游戏中的重要资源。玩具色彩缤纷、独特，专门设计用来配合不同史莱姆类型的个性。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -38.86551380513773,
+        -74.28272790243591
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "externalId": "401AHJaZ1Y",
+        "title": "",
+        "description": "***\n#\n可以在霍布的工作室内找到。\n#\n***奖励：***\n- *奇异钻石 (x1)*\n- *六角蜂巢 (x3)*\n- *深层盐水 (x5)*",
+        "imageId": 1283631,
+        "imagePath": "/game_map_pin/1283631/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -63.16182316235216,
+        -65.49225429721295
+      ],
+      "properties": {
+        "subcategoryExternalId": "3RJ71CRj6B",
+        "externalId": "9myE4reRBs",
+        "title": "牧场传送器",
+        "description": "***\n#\n从其他传送门退出。",
+        "imageId": 1283633,
+        "imagePath": "/game_map_pin/1283633/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -81.17669501059162,
+        -68.64145895948486
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "rnXXCsZFyv",
+        "title": "",
+        "description": "***\n#\n可以在火把旁边找到。",
+        "imageId": 1283634,
+        "imagePath": "/game_map_pin/1283634/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -78.27308922175843,
+        -70.3084121396681
+      ],
+      "properties": {
+        "subcategoryExternalId": "3RJ71CRj6B",
+        "externalId": "EU4KtAg4f0",
+        "title": "过度生长区传送门",
+        "description": "***\n#\n继续喂食虎斑戈尔多直到它爆裂以解锁传送门。",
+        "imageId": 1283635,
+        "imagePath": "/game_map_pin/1283635/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -87.55701699506079,
+        -72.4429882458385
+      ],
+      "properties": {
+        "subcategoryExternalId": "wAIzB0ZROO",
+        "externalId": "Ep0k7G7Ghm",
+        "title": "",
+        "description": "***\n#\n*史莱姆玩具是用来娱乐和保持史莱姆开心的特殊物品。每种史莱姆都有其喜欢的玩具，当放在它们的围栏中时会增加它们的快乐度。快乐的史莱姆会产生更多的结晶，这是游戏中的重要资源。玩具色彩缤纷、独特，专门设计用来配合不同史莱姆类型的个性。*",
+        "imageId": 1283636,
+        "imagePath": "/game_map_pin/1283636/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -84.0034229172126,
+        -77.10625413101084
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "tH1pYMuTH3",
+        "title": "",
+        "description": "***\n#\n可以在码头上找到。",
+        "imageId": 1283637,
+        "imagePath": "/game_map_pin/1283637/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -89.20819176114966,
+        -62.41022787091726
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "externalId": "GwRn8kZKNO",
+        "title": "",
+        "description": "***\n#\n可以在农作物附近的ledge上找到。\n#\n***奖励：***\n- *螺旋蒸汽 (x3)*",
+        "imageId": 1283638,
+        "imagePath": "/game_map_pin/1283638/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -107.22297357874216,
+        -67.6221859121867
+      ],
+      "properties": {
+        "subcategoryExternalId": "MBngaZlCfD",
+        "externalId": "H7yy9VJB23",
+        "title": "虎斑戈尔多",
+        "description": "***\n#\n可以在小岛上的木质平台附近找到。\n#\n***奖励：***\n- *虎斑史莱姆 (x7)*\n- *箱子 (x2)*\n- *干礁传送门*\n#\n***需求：***\n- *肉类 (x50)*",
+        "imageId": 1283639,
+        "imagePath": "/game_map_pin/1283639/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -106.6472687977732,
+        -68.14968139903213
+      ],
+      "properties": {
+        "subcategoryExternalId": "3RJ71CRj6B",
+        "imageId": null,
+        "externalId": "r6dbfA4ovi",
+        "title": "干礁传送门",
+        "description": "***\n#\n继续喂食虎斑戈尔多直到它爆裂以解锁传送门。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -115.94993513172284,
+        -63.057692699123095
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "MfX3dHiwzV",
+        "title": "",
+        "description": "***\n#\n可以在水体附近的ledge上找到。",
+        "imageId": 1283640,
+        "imagePath": "/game_map_pin/1283640/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -109.93752974303693,
+        -53.26193293723257
+      ],
+      "properties": {
+        "subcategoryExternalId": "PU3OLmkyYb",
+        "externalId": "99xDwltSEj",
+        "title": "",
+        "description": "***\n#\n为了打开史莱姆之门，玩家需要从胖胖史莱姆那里获得史莱姆钥匙。",
+        "imageId": 1283642,
+        "imagePath": "/game_map_pin/1283642/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -111.70883320521969,
+        -52.558686130599234
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283643,
+        "externalId": "3W8JGXrT8x",
+        "title": "",
+        "description": "***\n#\n可以在入口处的史莱姆门附近找到。\n#\n***奖励：***\n- *螺旋流 (x3)*",
+        "imagePath": "/game_map_pin/1283643/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -115.32177337469597,
+        -40.805834586678245
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "EBmpGunPXA",
+        "title": "",
+        "description": "***\n#\n可以在俯瞰水体的ledge上找到。",
+        "imageId": 1283645,
+        "imagePath": "/game_map_pin/1283645/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -112.78375331306789,
+        -42.95733717475776
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283647,
+        "externalId": "m9w2mSXpUw",
+        "title": "",
+        "description": "***\n#\n可以在海绵树附近的ledge上找到。\n#\n***奖励：***\n- *海绵树蓝图*",
+        "imagePath": "/game_map_pin/1283647/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -111.10411586322971,
+        -37.287620374883375
+      ],
+      "properties": {
+        "subcategoryExternalId": "MBngaZlCfD",
+        "externalId": "aFMHzpgcQc",
+        "title": "虎斑戈尔多",
+        "description": "***\n#\n可以在一个小凹室内找到。\n#\n***奖励：***\n- *箱子 (x2)*\n- *虎斑史莱姆 (x11)*\n- *干礁传送门*\n#\n***需求：***\n- *肉类 (x50)*",
+        "imageId": 1283648,
+        "imagePath": "/game_map_pin/1283648/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -107.64404296875001,
+        -36.879620605026766
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283649,
+        "externalId": "lk9UrZpYxA",
+        "title": "",
+        "description": "***\n#\n可以在ledge上找到。\n#\n***奖励：***\n- *珊瑚草地补丁蓝图*",
+        "imagePath": "/game_map_pin/1283649/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -89.5820034833716,
+        -43.242763941624375
+      ],
+      "properties": {
+        "subcategoryExternalId": "1AAu6OPzgT",
+        "externalId": "Vei9EvDmJo",
+        "title": "干礁地图节点",
+        "description": "***\n#\n*可以在悬崖之间找到。*",
+        "imageId": 1283650,
+        "imagePath": "/game_map_pin/1283650/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -98.81103515625001,
+        -41.327326320366225
+      ],
+      "properties": {
+        "subcategoryExternalId": "MBngaZlCfD",
+        "externalId": "ySb1lGCXq4",
+        "title": "磷光戈尔多",
+        "description": "***\n#\n可以通过进入水边的较低ledge找到。\n#\n***奖励：***\n- *史莱姆钥匙 (x1)*\n- *箱子 (x2)*\n- *磷光史莱姆 (x10)*\n#\n***需求：***\n- *水果 (x50)*",
+        "imageId": 1283651,
+        "imagePath": "/game_map_pin/1283651/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -97.35186025403392,
+        -41.666216895700245
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283652,
+        "externalId": "7qyR9G5TRS",
+        "title": "",
+        "description": "***\n#\n可以在地下找到。\n#\n***奖励：***\n- *紫色史莱姆灯蓝图*",
+        "imagePath": "/game_map_pin/1283652/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -98.43650834247397,
+        -42.04143827067122
+      ],
+      "properties": {
+        "subcategoryExternalId": "GCUoTaGxuD",
+        "imageId": 1283653,
+        "externalId": "ze5LA8FAif",
+        "title": "",
+        "description": "前往史莱姆戈尔多的入口",
+        "imagePath": "/game_map_pin/1283653/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -87.62441928419565,
+        -52.75389578682536
+      ],
+      "properties": {
+        "subcategoryExternalId": "MBngaZlCfD",
+        "externalId": "ndfO5bGO5d",
+        "title": "粉红戈尔多",
+        "description": "***\n#\n可以在岛屿尽头找到。\n#\n***奖励：***\n- *史莱姆钥匙 (x1)*\n- *箱子 (x2)*\n- *粉红史莱姆 (x10)*\n#\n***需求：***\n- *任意食物 (x30)*",
+        "imageId": 1283654,
+        "imagePath": "/game_map_pin/1283654/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -76.57765357521617,
+        -58.73323760118178
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283656,
+        "externalId": "LgjaCKDHfG",
+        "title": "",
+        "description": "***\n#\n可以在水体中间高地的ledge上找到。\n#\n***奖励：***\n- *紫色传送门蓝图*",
+        "imagePath": "/game_map_pin/1283656/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -84.5134714541198,
+        -36.0234380361368
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283657,
+        "externalId": "rlXe44G9Do",
+        "title": "",
+        "description": "***\n#\n可以在ledge上的一片草地中找到。\n#\n***奖励：***\n- *粉红珊瑚柱蓝图*",
+        "imagePath": "/game_map_pin/1283657/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -78.61917928555357,
+        -36.027870071929605
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "WbpAYvhGj2",
+        "title": "",
+        "description": "***\n#\n可以在隧道入口附近找到。",
+        "imageId": 1283658,
+        "imagePath": "/game_map_pin/1283658/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -67.73852027990928,
+        -34.65542940116687
+      ],
+      "properties": {
+        "subcategoryExternalId": "PU3OLmkyYb",
+        "externalId": "6oGB25JZf9",
+        "title": "",
+        "description": "***\n#\n为了打开史莱姆之门，玩家需要从胖胖史莱姆那里获得史莱姆钥匙。",
+        "imageId": 1283659,
+        "imagePath": "/game_map_pin/1283659/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -54.66796875000001,
+        -33.46810795527895
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "vtExibf09h",
+        "title": "",
+        "description": "***\n#\n可以在墙边找到。",
+        "imageId": 1283660,
+        "imagePath": "/game_map_pin/1283660/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -51.73175593315843,
+        -32.62081488085515
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283661,
+        "externalId": "eWA7T69Ora",
+        "title": "",
+        "description": "***\n#\n可以在大型岩石构造旁边找到。\n#\n***奖励：***\n- *史莱姆化石 (x3)*",
+        "imagePath": "/game_map_pin/1283661/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -53.363281971135386,
+        -27.737869049150106
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283663,
+        "externalId": "gOSE5ulxSk",
+        "title": "",
+        "description": "***\n#\n可以在水晶旁边的ledge上找到。\n#\n***奖励：***\n- *六边形构造蓝图*",
+        "imagePath": "/game_map_pin/1283663/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -38.730907714346266,
+        -32.26000360438914
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283665,
+        "externalId": "uyZohtGbTH",
+        "title": "",
+        "description": "***\n#\n可以在洞穴内的洞壁上找到。\n#\n***奖励：***\n- *皇家时尚舱蓝图*",
+        "imagePath": "/game_map_pin/1283665/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -35.32088674762888,
+        -39.34677840191229
+      ],
+      "properties": {
+        "subcategoryExternalId": "MBngaZlCfD",
+        "externalId": "AfpywEokua",
+        "title": "岩石胖胖史莱姆",
+        "description": "***\n#\n可以在洞穴内找到。\n#\n***奖励：***\n- *箱子 (x3)*\n- *岩石史莱姆 (x10)*\n#\n***需求：***\n- *蔬菜 (x50)*",
+        "imageId": 1283666,
+        "imagePath": "/game_map_pin/1283666/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -32.560330593274315,
+        -35.17934522907945
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283667,
+        "externalId": "eD5eqtp4OL",
+        "title": "",
+        "description": "***\n#\n可以在草地中间的一个洞穴内找到。\n#\n***奖励：***\n- *薄荷草地补丁蓝图*",
+        "imagePath": "/game_map_pin/1283667/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -27.40581286215157,
+        -35.20128171059027
+      ],
+      "properties": {
+        "subcategoryExternalId": "1AAu6OPzgT",
+        "externalId": "HgGPLopCeW",
+        "title": "靛蓝采石场地图节点",
+        "description": "***\n#\n*可以在隧道入口附近找到。*",
+        "imageId": 1283668,
+        "imagePath": "/game_map_pin/1283668/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -38.910650806135756,
+        -21.572433879767477
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283669,
+        "externalId": "G0oCrzTElh",
+        "title": "",
+        "description": "***\n#\n可以在木制平台下方找到。\n#\n***奖励：***\n- *绿色史莱姆灯蓝图*",
+        "imagePath": "/game_map_pin/1283669/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -25.629248210642636,
+        -29.44862826901463
+      ],
+      "properties": {
+        "subcategoryExternalId": "MBngaZlCfD",
+        "externalId": "ELVXXqi9vs",
+        "title": "辐射戈尔多",
+        "description": "***\n#\n可以在洞穴房间中央找到。\n#\n***奖励：***\n- *史莱姆钥匙 (x1)*\n- *箱子 (x2)*\n- *辐射史莱姆 (x10)*\n#\n***需求：***\n- *蔬菜 (x50)*",
+        "imageId": 1283691,
+        "imagePath": "/game_map_pin/1283691/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -23.977806621601882,
+        -30.585672084971907
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283692,
+        "externalId": "wK45Ly4ci1",
+        "title": "",
+        "description": "***\n#\n可以在史莱姆果冻后面的洞穴中找到。\n#\n***奖励：***\n- *绿色传送器蓝图*",
+        "imagePath": "/game_map_pin/1283692/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -21.370426998391917,
+        -19.70150725787384
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283693,
+        "externalId": "29jbDDcFhC",
+        "title": "",
+        "description": "***\n#\n可以在隧道前的高台上找到。\n#\n***奖励：***\n- *绿色传送站蓝图*",
+        "imagePath": "/game_map_pin/1283693/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -9.79059819417898,
+        -26.05439210988587
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "d82MytjqW9",
+        "title": "",
+        "description": "***\n#\n可以在池塘附近找到。",
+        "imageId": 1283695,
+        "imagePath": "/game_map_pin/1283695/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -3.975667881502365,
+        -31.875702436051785
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283696,
+        "externalId": "Oo5CKxMyRt",
+        "title": "",
+        "description": "***\n#\n可以在台阶上找到。\n#\n***奖励：***\n- *奇异钻石 (x1)*\n- *靛蓝矿石 (x2)*",
+        "imagePath": "/game_map_pin/1283696/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -7.345254211467174,
+        -27.017781210870115
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283697,
+        "externalId": "8Ops89Vg6g",
+        "title": "",
+        "description": "***\n#\n可以在池塘角落找到。\n#\n***奖励：***\n- *奇异钻石 (x1)*\n- *靛蓝矿石 (x2)*",
+        "imagePath": "/game_map_pin/1283697/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -8.147517632482774,
+        -40.02258470968775
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283698,
+        "externalId": "dqoMR1gYAg",
+        "title": "",
+        "description": "***\n#\n可以在蓝珊瑚柱附近找到。\n#\n***奖励：***\n- *蓝珊瑚柱蓝图*",
+        "imagePath": "/game_map_pin/1283698/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        3.8671875000000004,
+        -38.06539235133248
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283699,
+        "externalId": "eKbVPlJibC",
+        "title": "",
+        "description": "***\n#\n可以在洞穴入口附近的台阶上找到。\n#\n***奖励：***\n- *水晶簇蓝图*",
+        "imagePath": "/game_map_pin/1283699/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -21.164812866058686,
+        -22.227065622397138
+      ],
+      "properties": {
+        "subcategoryExternalId": "GCUoTaGxuD",
+        "imageId": 1283700,
+        "externalId": "Qb8C7rXA8k",
+        "title": "",
+        "description": "史莱姆果冻入口",
+        "imagePath": "/game_map_pin/1283700/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        3.7597482788295853,
+        -42.100479139066515
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "iEjWiIrgbr",
+        "title": "",
+        "description": "***\n#\n可以在入口下方的石拱门内找到。",
+        "imageId": 1283701,
+        "imagePath": "/game_map_pin/1283701/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -6.3805772274616,
+        -3.64511516604335
+      ],
+      "properties": {
+        "subcategoryExternalId": "MBngaZlCfD",
+        "externalId": "buBkQYrQRW",
+        "title": "岩石胖胖史莱姆",
+        "description": "***\n#\n可以在木楼梯附近的台阶上找到。\n#\n***奖励：***\n- *箱子 (x3)*\n- *石头史莱姆 (x10)*\n#\n***需求：***\n- *蔬菜 (x50)*",
+        "imageId": 1283703,
+        "imagePath": "/game_map_pin/1283703/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -1.4001518681769933,
+        -4.227029864584529
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283704,
+        "externalId": "EPIiuwg7jk",
+        "title": "",
+        "description": "***\n#\n可以在大水晶旁边找到。同时在史莱姆果冻旁边。\n#\n***奖励：***\n- *奇异钻石 (x1)*\n- *靛蓝矿石 (x2)*",
+        "imagePath": "/game_map_pin/1283704/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -21.725671577689837,
+        0.9962833864086273
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283706,
+        "externalId": "a7V0iM1KQt",
+        "title": "",
+        "description": "***\n#\n可以在小石拱门上找到。\n#\n***奖励：***\n- *严肃时尚舱蓝图*",
+        "imagePath": "/game_map_pin/1283706/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -53.64974944373483,
+        -8.750821356105849
+      ],
+      "properties": {
+        "subcategoryExternalId": "3RJ71CRj6B",
+        "externalId": "4qPHAlLqYx",
+        "title": "靛蓝采石场传送门",
+        "description": "***\n#\n从靛蓝采石场传送到牧场的唯一方式。",
+        "imageId": 1283710,
+        "imagePath": "/game_map_pin/1283710/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -52.775381423341194,
+        -12.760514185831966
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283711,
+        "externalId": "UvpSXItnfe",
+        "title": "",
+        "description": "***\n#\n可以在大水晶附近找到。靠近传送器。\n#\n***奖励：***\n- *史莱姆化石 (x3)",
+        "imagePath": "/game_map_pin/1283711/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -65.42857928543795,
+        -3.7975502150882923
+      ],
+      "properties": {
+        "subcategoryExternalId": "PU3OLmkyYb",
+        "externalId": "10dHuERkI3",
+        "title": "",
+        "description": "***\n#\n为了打开史莱姆之门，玩家需要从胖胖史莱姆那里获得史莱姆钥匙。",
+        "imageId": 1283714,
+        "imagePath": "/game_map_pin/1283714/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -58.11981853787696,
+        1.4864767963152272
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZPXmlzjJtK",
+        "externalId": "BrzukDJF5u",
+        "title": "岩石史莱姆雕像",
+        "description": "***\n#\n可以在洞穴顶部找到。\n#\n- *岩石便便*",
+        "imageId": 1283716,
+        "imagePath": "/game_map_pin/1283716/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -65.92019420215523,
+        16.35719258595437
+      ],
+      "properties": {
+        "subcategoryExternalId": "PU3OLmkyYb",
+        "externalId": "uweDwAtsuL",
+        "title": "",
+        "description": "***\n#\n激活区域内的所有雕像以继续。",
+        "imageId": 1283829,
+        "imagePath": "/game_map_pin/1283829/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -67.80582332530501,
+        2.767570280336573
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZPXmlzjJtK",
+        "externalId": "Wpwm8rUF1Z",
+        "title": "辐射史莱姆雕像",
+        "description": "***\n#\n可以在墙顶找到。\n#\n- *辐射球*",
+        "imageId": 1283726,
+        "imagePath": "/game_map_pin/1283726/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -66.86731837147893,
+        6.918137534396888
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZPXmlzjJtK",
+        "externalId": "zBSojZAZ0A",
+        "title": "爆炸史莱姆雕像",
+        "description": "***\n#\n可以在草地上找到。\n#\n- *爆炸结晶*",
+        "imageId": 1283727,
+        "imagePath": "/game_map_pin/1283727/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -72.28662588425419,
+        5.8932785884791015
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZPXmlzjJtK",
+        "externalId": "Bm7NHk6LFj",
+        "title": "蜂蜜史莱姆雕像",
+        "description": "***\n#\n可以在小石台上找到。\n#\n- *蜂蜜结晶*",
+        "imageId": 1283728,
+        "imagePath": "/game_map_pin/1283728/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -63.17138671875001,
+        8.928487062665504
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZPXmlzjJtK",
+        "externalId": "qqylEaXt0K",
+        "title": "磷光史莱姆雕像",
+        "description": "***\n#\n可以在废墟地基旁找到。\n#\n- *磷光结晶*",
+        "imageId": 1283729,
+        "imagePath": "/game_map_pin/1283729/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -70.13671875000001,
+        13.410994034321702
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZPXmlzjJtK",
+        "imageId": 1283825,
+        "externalId": "fIBnFD7nhB",
+        "title": "虎斑史莱姆雕像",
+        "description": "***\n#\n可以在小石台上找到。\n#\n- *虎斑结晶*",
+        "imagePath": "/game_map_pin/1283825/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -76.44287109375001,
+        1.911266535096585
+      ],
+      "properties": {
+        "subcategoryExternalId": "PU3OLmkyYb",
+        "externalId": "jpgWri8f9V",
+        "title": "",
+        "description": "***\n#\n为了打开史莱姆之门，玩家需要从胖胖史莱姆那里获得史莱姆钥匙。",
+        "imageId": 1283736,
+        "imagePath": "/game_map_pin/1283736/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -89.25439654517392,
+        3.1608093200589376
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283737,
+        "externalId": "t9OrHHS7jC",
+        "title": "",
+        "description": "***\n#\n可以在树旁找到。\n#\n***奖励：***\n- *优雅时尚舱蓝图*",
+        "imagePath": "/game_map_pin/1283737/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -123.46544186758022,
+        6.144422442299986
+      ],
+      "properties": {
+        "subcategoryExternalId": "1AAu6OPzgT",
+        "externalId": "JCjVpjHYOf",
+        "title": "苔藓毯地图节点",
+        "description": "***\n#\n*可以在巨树附近找到。*",
+        "imageId": 1283760,
+        "imagePath": "/game_map_pin/1283760/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -97.95758766259557,
+        -3.174829302529302
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "9m5BfBLBe1",
+        "title": "",
+        "description": "***\n#\n可以在树旁找到。",
+        "imageId": 1283761,
+        "imagePath": "/game_map_pin/1283761/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -97.8809098290013,
+        -13.296959946432452
+      ],
+      "properties": {
+        "subcategoryExternalId": "PU3OLmkyYb",
+        "externalId": "VrtP6aTCsC",
+        "title": "",
+        "description": "***\n#\n为了打开史莱姆之门，玩家需要从胖胖史莱姆那里获得史莱姆钥匙。",
+        "imageId": 1283763,
+        "imagePath": "/game_map_pin/1283763/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -106.662114867111,
+        6.300537630541074
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283765,
+        "externalId": "GbSCNi4h0q",
+        "title": "",
+        "description": "***\n#\n可以在巨树根部找到。\n#\n***奖励：***\n- *优雅时尚舱蓝图*",
+        "imagePath": "/game_map_pin/1283765/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -116.69026863107595,
+        -1.8525058130357979
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "oybWKdjWRq",
+        "title": "",
+        "description": "***\n#\n可以在区域中央找到。",
+        "imageId": 1283766,
+        "imagePath": "/game_map_pin/1283766/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -114.20005595143364,
+        -9.769338572257631
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283767,
+        "externalId": "K5OBCmHbEE",
+        "title": "",
+        "description": "***\n#\n可以在巨树旁找到。\n#\n***奖励：***\n- *苔藓树蓝图*",
+        "imagePath": "/game_map_pin/1283767/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -119.09074391685725,
+        9.67695772892994
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283769,
+        "externalId": "E3cSYUrSHh",
+        "title": "",
+        "description": "***\n#\n可以在巨树根部找到。\n#\n***奖励：***\n- *野生蜂蜜 (x2)*\n- *蜂王浆 (x1)*",
+        "imagePath": "/game_map_pin/1283769/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -140.3809406103757,
+        -4.316517954272704
+      ],
+      "properties": {
+        "subcategoryExternalId": "MBngaZlCfD",
+        "externalId": "7Q12G6LxVM",
+        "title": "蜂蜜果冻",
+        "description": "***\n#\n可以在花丛中找到。\n#\n***奖励：***\n- *史莱姆钥匙 (x1)*\n- *箱子 (x2)*\n- *蜂蜜史莱姆 (x10)*\n#\n***需求：***\n- *水果 (x50)*",
+        "imageId": 1283770,
+        "imagePath": "/game_map_pin/1283770/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -152.31352892822358,
+        -12.868238460163065
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283771,
+        "externalId": "zGY6ZLJqIz",
+        "title": "",
+        "description": "***\n#\n可以在水体附近的台阶上找到。\n#\n***奖励：***\n- *聪明时尚舱蓝图*",
+        "imagePath": "/game_map_pin/1283771/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -139.39382927790484,
+        -29.44862826901463
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283774,
+        "externalId": "zNf12WEKu1",
+        "title": "",
+        "description": "***\n#\n可以在台阶上找到。\n#\n***奖励：***\n- *红色史莱姆灯蓝图*",
+        "imagePath": "/game_map_pin/1283774/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -150.79833984375003,
+        26.941659545381516
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283777,
+        "externalId": "GWFPeNbCYd",
+        "title": "",
+        "description": "***\n#\n可以在水体附近的台阶上找到。\n#\n***奖励：***\n- *蜂巢 (x3)*",
+        "imagePath": "/game_map_pin/1283777/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -138.22209881105627,
+        23.032359279703698
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283778,
+        "externalId": "Irs2OYBNep",
+        "title": "",
+        "description": "***\n#\n可以在水下找到。\n#\n***奖励：***\n- *巨型蘑菇蓝图*",
+        "imagePath": "/game_map_pin/1283778/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -112.67452025579692,
+        15.455060344938484
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283783,
+        "externalId": "ApEMgmZm1V",
+        "title": "",
+        "description": "***\n#\n可以在树后找到。\n#\n***奖励：***\n- *野生蜂蜜 (x2)*\n- *蜂王浆 (x1)*",
+        "imagePath": "/game_map_pin/1283783/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -123.23963990889213,
+        18.998271574655657
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283784,
+        "externalId": "qrccvUomes",
+        "title": "",
+        "description": "***\n#\n可以在木楼梯下找到。\n#\n***奖励：***\n- *发光锥蓝图*",
+        "imagePath": "/game_map_pin/1283784/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -109.4592029280454,
+        26.454330500628778
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283785,
+        "externalId": "S8Tu1VfVoS",
+        "title": "",
+        "description": "***\n#\n可以在粉色史莱姆附近找到。\n#\n***奖励：***\n- *琥珀史莱姆灯蓝图*",
+        "imagePath": "/game_map_pin/1283785/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -117.45530582239999,
+        32.62928817952775
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283789,
+        "externalId": "7wUfuF9fY6",
+        "title": "",
+        "description": "***\n#\n可以在原木下方的小块陆地上找到。\n#\n***奖励：***\n- *阴影时尚舱蓝图*",
+        "imagePath": "/game_map_pin/1283789/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -128.40099852993433,
+        38.69880833826375
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "MKkRGd5z1D",
+        "title": "",
+        "description": "***\n#\n可以在水体旁的台阶上找到。",
+        "imageId": 1283794,
+        "imagePath": "/game_map_pin/1283794/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -103.76190600336282,
+        38.8384070022121
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283795,
+        "externalId": "mND4BuGPGz",
+        "title": "",
+        "description": "***\n#\n可以在水下找到。\n#\n***奖励：***\n- *琥珀传送站蓝图*",
+        "imagePath": "/game_map_pin/1283795/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -93.35854622722016,
+        42.92437156002104
+      ],
+      "properties": {
+        "subcategoryExternalId": "3RJ71CRj6B",
+        "externalId": "xoy0kbsK3s",
+        "title": "",
+        "description": "***\n#\n从苔藓毯传送到牧场的唯一方式。",
+        "imageId": 1283796,
+        "imagePath": "/game_map_pin/1283796/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -101.25543688698673,
+        46.47862200667075
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283797,
+        "externalId": "OPkjZL9PRd",
+        "title": "",
+        "description": "***\n#\n可以在小凹室中找到。\n#\n***奖励：***\n- *红色传送站蓝图*",
+        "imagePath": "/game_map_pin/1283797/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -99.41582031283657,
+        53.593732661920676
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283798,
+        "externalId": "0M4B5XcUJ7",
+        "title": "",
+        "description": "***\n#\n可以在水体旁的台阶上找到。\n#\n***奖励：***\n- *蜂巢 (x3)*",
+        "imagePath": "/game_map_pin/1283798/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -112.31557068035298,
+        56.78073484715881
+      ],
+      "properties": {
+        "subcategoryExternalId": "Vrk2Sh5Mrm",
+        "externalId": "ZKGqd20Ou6",
+        "title": "",
+        "description": "***\n#\n这仅在完成游戏后才会出现。",
+        "imageId": 1283799,
+        "imagePath": "/game_map_pin/1283799/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -125.5967049717786,
+        50.689993533648426
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": null,
+        "externalId": "DWozbN5hMQ",
+        "title": "",
+        "description": "***\n#\n可以在水体旁的台阶上找到。\n#\n***奖励：***\n- *蜂巢 (x3)*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -135.5126869934173,
+        58.39182995598661
+      ],
+      "properties": {
+        "subcategoryExternalId": "MBngaZlCfD",
+        "externalId": "lcJLnZ9DNv",
+        "title": "猎手史莱姆巨兽",
+        "description": "***\n#\n可以在蘑菇附近找到。\n#\n***奖励：***\n- *史莱姆钥匙 (x1)*\n- *板条箱 (x3)*\n- *猎手史莱姆 (x9)*\n#\n***需求：***\n- *肉类 (x50)*",
+        "imageId": 1283801,
+        "imagePath": "/game_map_pin/1283801/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -149.91553870810523,
+        52.15866000026153
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283803,
+        "externalId": "fgry6Qa0li",
+        "title": "",
+        "description": "***\n#\n可以在巨大树桩顶部找到。\n#\n***奖励：***\n- *琥珀传送器蓝图*",
+        "imagePath": "/game_map_pin/1283803/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -61.322296618848945,
+        -54.71271283652583
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "WzFGH0AUBd",
+        "title": "",
+        "description": "***\n#\n可以在平台上找到。",
+        "imageId": 1283805,
+        "imagePath": "/game_map_pin/1283805/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -70.87552379544881,
+        -53.16108968293117
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": null,
+        "externalId": "ALqTtX2pGd",
+        "title": "",
+        "description": "***\n#\n可以在墙边岩石旁找到。\n#\n***奖励：***\n- *海绵灌木蓝图*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -70.52037948959978,
+        -56.38758104838447
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "externalId": "filllyp9N5",
+        "title": "",
+        "description": "***\n#\n可以在平台上的小凹处找到。\n#\n***奖励：***\n- *深层盐水 (x2)*\n- *熔岩尘 (x1)*",
+        "imageId": 1283808,
+        "imagePath": "/game_map_pin/1283808/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -48.377677554402034,
+        -53.662619121557356
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283809,
+        "externalId": "13DniAtGM9",
+        "title": "",
+        "description": "***\n#\n可以在水体附近的平台上找到。\n#\n***奖励：***\n- *深层盐水 (x2)*\n- *熔岩尘 (x1)*",
+        "imagePath": "/game_map_pin/1283809/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -46.22721488335316,
+        -46.88543625754427
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "V22HnTIOGA",
+        "title": "",
+        "description": "***\n#\n可以在平台上找到。",
+        "imageId": 1283810,
+        "imagePath": "/game_map_pin/1283810/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -31.14809793309314,
+        -48.645677959206296
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283811,
+        "externalId": "EfwX9ZUSoi",
+        "title": "",
+        "description": "***\n#\n可以在木桥下找到。\n#\n***奖励：***\n- *弹簧垫蓝图*",
+        "imagePath": "/game_map_pin/1283811/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -39.04498859285971,
+        -62.93545879248841
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "0Xhramtzml",
+        "title": "",
+        "description": "***\n#\n可以在入口附近的墙壁旁找到。",
+        "imageId": 1283815,
+        "imagePath": "/game_map_pin/1283815/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -16.672804251392076,
+        -63.453898636907404
+      ],
+      "properties": {
+        "subcategoryExternalId": "3RJ71CRj6B",
+        "imageId": null,
+        "externalId": "vXIMfGzNFW",
+        "title": "",
+        "description": "***\n#\n继续喂食石头戈尔多直到它爆裂以解锁传送门。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -69.64915424563445,
+        9.410370904788369
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZPXmlzjJtK",
+        "externalId": "1wX1L4Wjqu",
+        "title": "粉色史莱姆",
+        "description": "***\n#\n可以在石头史莱姆顶部找到。\n#\n- *粉色结晶*",
+        "imageId": 1283828,
+        "imagePath": "/game_map_pin/1283828/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -54.626602134535936,
+        38.06502212170203
+      ],
+      "properties": {
+        "subcategoryExternalId": "1AAu6OPzgT",
+        "externalId": "VoJDNJRc2H",
+        "title": "远古遗迹地图节点",
+        "description": "***\n#\n*可以在树木旁边找到。*",
+        "imageId": 1283836,
+        "imagePath": "/game_map_pin/1283836/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -60.559528771030585,
+        31.4563258295895
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "pnkMjxPch2",
+        "title": "",
+        "description": "***\n#\n可以在入口旁的石台上找到。",
+        "imageId": 1283837,
+        "imagePath": "/game_map_pin/1283837/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -70.56524818653027,
+        37.19514498495197
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "dnh8EBkyUj",
+        "title": "",
+        "description": "***\n#\n可以在石拱门附近找到。",
+        "imageId": 1283838,
+        "imagePath": "/game_map_pin/1283838/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -67.95248430804472,
+        32.47052116526146
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283839,
+        "externalId": "tbn3VIEXD1",
+        "title": "",
+        "description": "***\n#\n可以在平台上找到。\n#\n***奖励：***\n- *熔岩尘 (x1)*\n- *深层盐水 (x2)*",
+        "imagePath": "/game_map_pin/1283839/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -62.89707024188428,
+        39.84003106620906
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283840,
+        "externalId": "3a0GujkT5n",
+        "title": "",
+        "description": "***\n#\n可以在遗迹下层房间的角落找到。\n#\n***奖励：***\n- *螺旋蒸汽 (x3)*",
+        "imagePath": "/game_map_pin/1283840/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -45.01917289689711,
+        37.23455908886972
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283841,
+        "externalId": "ypjSfAF7dS",
+        "title": "",
+        "description": "***\n#\n可以在遗迹的较低平台上找到。\n#\n***奖励：***\n- *破损石柱蓝图*",
+        "imagePath": "/game_map_pin/1283841/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -40.458352546170204,
+        32.97469058233285
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283843,
+        "externalId": "IjRgWftaE2",
+        "title": "",
+        "description": "***\n#\n可以在平台上找到。\n#\n***奖励：***\n- *荧光棒蓝图*",
+        "imagePath": "/game_map_pin/1283843/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -52.43848131980345,
+        43.73463802465787
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283844,
+        "externalId": "sYxhZ5D3s0",
+        "title": "",
+        "description": "***\n#\n可以在小果树旁的平台上找到。\n#\n***奖励：***\n- *蜂巢 (x3)*",
+        "imagePath": "/game_map_pin/1283844/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -66.91530802770195,
+        45.010853600285564
+      ],
+      "properties": {
+        "subcategoryExternalId": "MBngaZlCfD",
+        "externalId": "pFGkxs9PZN",
+        "title": "胖胖史莱姆",
+        "description": "***\n#\n可以在废墟中的房间里找到。\n#\n***奖励:***\n- *史莱姆钥匙 (x1)*\n- *箱子 (x2)*\n- *爆炸史莱姆 (x10)*\n#\n***要求:***\n- *肉类 (x50)*",
+        "imageId": 1283850,
+        "imagePath": "/game_map_pin/1283850/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -69.55561431969076,
+        44.840898963008854
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283852,
+        "externalId": "YMZfdoJB9P",
+        "title": "",
+        "description": "***\n#\n可以在史莱姆巨兽附近房间的角落找到。\n#\n***奖励：***\n- *史莱姆化石 (x3)*",
+        "imagePath": "/game_map_pin/1283852/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -55.87646484375001,
+        43.6599240747891
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283855,
+        "externalId": "mInAqktzEF",
+        "title": "",
+        "description": "***\n#\n可以在树木旁边找到。\n#\n***奖励：***\n- *阳光树蓝图*",
+        "imagePath": "/game_map_pin/1283855/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -49.61228409285433,
+        46.69559442840347
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283858,
+        "externalId": "TwpOsanhI3",
+        "title": "",
+        "description": "***\n#\n可以在瀑布附近较低的平台上找到。\n#\n***奖励：***\n- *翠绿草地蓝图*",
+        "imagePath": "/game_map_pin/1283858/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -53.04199218750001,
+        47.945786463687185
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283859,
+        "externalId": "23jlwFsyTh",
+        "title": "",
+        "description": "***\n#\n可以在被藤蔓覆盖的隐藏房间内找到。\n#\n***奖励：***\n- *回声网蓝图*",
+        "imagePath": "/game_map_pin/1283859/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -52.9064563015057,
+        46.769972861088064
+      ],
+      "properties": {
+        "subcategoryExternalId": "GCUoTaGxuD",
+        "imageId": 1283860,
+        "externalId": "BpPoRbExDg",
+        "title": "",
+        "description": "宝藏舱入口",
+        "imagePath": "/game_map_pin/1283860/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -53.30566406250001,
+        49.32512199104003
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283861,
+        "externalId": "xCZNmbfJfj",
+        "title": "",
+        "description": "***\n#\n可以在遗迹顶部找到。\n#\n***奖励：***\n- *奇异钻石 (x1)*\n- *靛青矿 (x2)*",
+        "imagePath": "/game_map_pin/1283861/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -58.00201304599255,
+        52.03462096863344
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283862,
+        "externalId": "mjXIdqeUUT",
+        "title": "",
+        "description": "***\n#\n可以在入口附近墙角找到。\n#\n***奖励：***\n- *星花地块蓝图*",
+        "imagePath": "/game_map_pin/1283862/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -64.6201458432401,
+        53.01730311398544
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "01aRklHNzZ",
+        "title": "",
+        "description": "***\n#\n可以在凹处找到。",
+        "imageId": 1283863,
+        "imagePath": "/game_map_pin/1283863/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -47.27839447960496,
+        55.135854088371254
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283864,
+        "externalId": "BfRwlmfjbs",
+        "title": "",
+        "description": "***\n#\n可以在建筑顶部找到。\n#\n***奖励：***\n- *水晶壁灯蓝图*",
+        "imagePath": "/game_map_pin/1283864/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -41.04164560626659,
+        57.37815280875151
+      ],
+      "properties": {
+        "subcategoryExternalId": "MBngaZlCfD",
+        "externalId": "r4QgWlBBKp",
+        "title": "量子史莱姆巨兽",
+        "description": "***\n#\n可以在凹处找到。\n#\n***奖励：***\n- *史莱姆钥匙 (x1)*\n- *板条箱 (x2)*\n- *量子史莱姆 (x10)*\n#\n***需求：***\n- *水果 (x50)*",
+        "imageId": 1283865,
+        "imagePath": "/game_map_pin/1283865/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -66.81022078213206,
+        59.864792132762695
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283868,
+        "externalId": "5HtjWr73cM",
+        "title": "",
+        "description": "***\n#\n可以在水体附近的小平台上找到。\n#\n***奖励：***\n- *蜂王浆 (x1)*\n- *野生蜂蜜 (x2)*",
+        "imagePath": "/game_map_pin/1283868/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -66.12324719041158,
+        63.05588488232002
+      ],
+      "properties": {
+        "subcategoryExternalId": "3RJ71CRj6B",
+        "externalId": "cEyavskiMM",
+        "title": "",
+        "description": "***\n#\n从远古遗迹传送到牧场的唯一方式。",
+        "imageId": 1283869,
+        "imagePath": "/game_map_pin/1283869/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -7.911558621568951,
+        35.25096248410061
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "YA90wPGF1T",
+        "title": "",
+        "description": "***\n#\n可以在通往传送器的路径附近轻易找到。",
+        "imageId": 1283870,
+        "imagePath": "/game_map_pin/1283870/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -12.015791012711748,
+        29.961089806598107
+      ],
+      "properties": {
+        "subcategoryExternalId": "3RJ71CRj6B",
+        "externalId": "rXrRh26ryM",
+        "title": "灰岛传送器",
+        "description": "***\n#\n继续喂食石头戈尔多直到它爆裂以解锁传送门。",
+        "imageId": 1283871,
+        "imagePath": "/game_map_pin/1283871/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        5.206223291588873,
+        37.56950239259024
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283872,
+        "externalId": "XmuqtA5ufq",
+        "title": "",
+        "description": "***\n#\n可以在悬崖顶部的花丛中找到。\n#\n***奖励：***\n- *火焰花地块蓝图*",
+        "imagePath": "/game_map_pin/1283872/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -4.162336378809136,
+        40.04496036914413
+      ],
+      "properties": {
+        "subcategoryExternalId": "MBngaZlCfD",
+        "externalId": "YsRufH4PRm",
+        "title": "水晶史莱姆巨兽",
+        "description": "***\n#\n可以在岩壁群中间找到。\n#\n***奖励：***\n- *史莱姆钥匙 (x1)*\n- *板条箱 (x3)*\n- *水晶史莱姆 (x9)*\n#\n***需求：***\n- *蔬菜 (x50)*",
+        "imageId": 1283873,
+        "imagePath": "/game_map_pin/1283873/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        2.0294838974102447,
+        47.16883772714039
+      ],
+      "properties": {
+        "subcategoryExternalId": "Vrk2Sh5Mrm",
+        "externalId": "rrGz747ojO",
+        "title": "",
+        "description": "***\n#\n这仅在完成游戏后才会出现。",
+        "imageId": 1283874,
+        "imagePath": "/game_map_pin/1283874/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        5.080631368018613,
+        52.012155236103126
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283875,
+        "externalId": "OrEGLC7DNa",
+        "title": "",
+        "description": "***\n#\n可以在平台上找到。\n#\n***奖励：***\n- *红色传送器蓝图*",
+        "imagePath": "/game_map_pin/1283875/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -60.18310546875001,
+        64.39693778132846
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283877,
+        "externalId": "qJG4odyWtG",
+        "title": "",
+        "description": "***\n#\n可以在史莱姆门附近房间的角落找到。\n#\n***奖励：***\n- *高级史莱姆巨兽陷阱蓝图*",
+        "imagePath": "/game_map_pin/1283877/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -64.23876191933091,
+        71.1217282530452
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "qDUqwnsEUi",
+        "title": "",
+        "description": "***\n#\n可以在史莱姆雕像附近找到。",
+        "imageId": 1283879,
+        "imagePath": "/game_map_pin/1283879/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -64.97314453125001,
+        71.79454673720774
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZPXmlzjJtK",
+        "externalId": "JTaazoUO5U",
+        "title": "量子史莱姆雕像",
+        "description": "***\n#\n可以在古代遗迹传送器所在的房间中找到。\n#\n- *量子波波*",
+        "imageId": 1283880,
+        "imagePath": "/game_map_pin/1283880/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -64.53369140625001,
+        72.48189144841274
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZPXmlzjJtK",
+        "externalId": "7Mb9ERFcm7",
+        "title": "量子史莱姆雕像",
+        "description": "***\n#\n可以在古代遗迹传送器所在的房间中找到。\n#\n- *量子波波*",
+        "imageId": 1283881,
+        "imagePath": "/game_map_pin/1283881/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -61.52343750000001,
+        72.83553782734063
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZPXmlzjJtK",
+        "externalId": "oj4d73wRi1",
+        "title": "量子史莱姆雕像",
+        "description": "***\n#\n可以在古代遗迹传送器所在的房间中找到。\n#\n- *量子波波*",
+        "imageId": 1283882,
+        "imagePath": "/game_map_pin/1283882/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -59.08447265625,
+        72.28238157105726
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZPXmlzjJtK",
+        "externalId": "8myQkTqt5c",
+        "title": "量子史莱姆雕像",
+        "description": "***\n#\n可以在古代遗迹传送器所在的房间中找到。\n#\n- *量子波波*",
+        "imageId": 1283883,
+        "imagePath": "/game_map_pin/1283883/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -58.78721524227614,
+        71.58082374552023
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZPXmlzjJtK",
+        "externalId": "kJFPfvIGKd",
+        "title": "量子史莱姆雕像",
+        "description": "***\n#\n可以在古代遗迹传送器所在的房间中找到。\n#\n- *量子波波*",
+        "imageId": 1283884,
+        "imagePath": "/game_map_pin/1283884/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -61.37711137967439,
+        71.88799566061724
+      ],
+      "properties": {
+        "subcategoryExternalId": "3RJ71CRj6B",
+        "externalId": "aJAAxDlTTS",
+        "title": "远古遗迹传送器",
+        "description": "***\n#\n通过向传送器周围的每个量子史莱姆雕像提供量子结晶来解锁此传送器。",
+        "imageId": 1283885,
+        "imagePath": "/game_map_pin/1283885/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        97.36629901545345,
+        -64.16669296318751
+      ],
+      "properties": {
+        "subcategoryExternalId": "3RJ71CRj6B",
+        "externalId": "ttA5YK1Ufl",
+        "title": "玻璃沙漠传送门",
+        "description": "***\n#\n要解锁此传送器，玩家必须先解锁远古遗迹传送器。",
+        "imageId": 1283886,
+        "imagePath": "/game_map_pin/1283886/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        99.39690265181855,
+        -64.68818706969233
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283887,
+        "externalId": "UujGMb9weB",
+        "title": "",
+        "description": "***\n#\n可以在传送点附近的一座雕像中找到。\n#\n***奖励：***\n- *奶油焦糖史莱姆灯蓝图*",
+        "imagePath": "/game_map_pin/1283887/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        101.81759661664698,
+        -66.00875005749647
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283888,
+        "externalId": "QOeFDuZSCf",
+        "title": "",
+        "description": "***\n#\n可以在塔边的悬崖边上找到。\n#\n***奖励：***\n- *浆果传送器蓝图*",
+        "imagePath": "/game_map_pin/1283888/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        113.57848791421618,
+        -8.629257919789772
+      ],
+      "properties": {
+        "subcategoryExternalId": "1AAu6OPzgT",
+        "externalId": "QlQo6wifMc",
+        "title": "玻璃沙漠地图节点",
+        "description": "***\n#\n*可以在两根石柱下找到。*",
+        "imageId": 1283889,
+        "imagePath": "/game_map_pin/1283889/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        100.43701171875,
+        -40.02761443748664
+      ],
+      "properties": {
+        "subcategoryExternalId": "DQ80L3BSz3",
+        "externalId": "OUDel8UT56",
+        "title": "",
+        "description": "***\n#\n远古之水让它们生长。",
+        "imageId": 1283890,
+        "imagePath": "/game_map_pin/1283890/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        107.23111954821803,
+        -41.029923262627825
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZPXmlzjJtK",
+        "externalId": "WzfJ278n2I",
+        "title": "缠结史莱姆雕像",
+        "description": "***\n#\n可以在一个开放式天花板的房间里找到。\n#\n- *缠绕结晶*",
+        "imageId": 1283891,
+        "imagePath": "/game_map_pin/1283891/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        107.7653877637098,
+        -39.468115811563244
+      ],
+      "properties": {
+        "subcategoryExternalId": "eDsPwYADRk",
+        "externalId": "5qaRoor98Z",
+        "title": "",
+        "description": "***\n#\n*通过激活喷泉周围的雕像可以解锁*。\n#\n***雕像：***\n- *缠绕史莱姆雕像 (1)*\n- *缠绕史莱姆雕像 (2)*\n- *缠绕史莱姆雕像 (3)*",
+        "imageId": 1283892,
+        "imagePath": "/game_map_pin/1283892/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        106.24285321784956,
+        -38.33718238609803
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283894,
+        "externalId": "ZCqm47kiKX",
+        "title": "",
+        "description": "***\n#\n可以在悬崖顶部找到。\n#\n***奖励：***\n- *金结晶 (x3)*",
+        "imagePath": "/game_map_pin/1283894/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        104.56787109375001,
+        -37.70120736474139
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZPXmlzjJtK",
+        "externalId": "lDKJOHx7fu",
+        "title": "缠结史莱姆雕像",
+        "description": "***\n#\n可以在巨型岩石史莱姆旁边找到。\n#\n- *缠结史莱姆球*",
+        "imageId": 1283895,
+        "imagePath": "/game_map_pin/1283895/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        110.05369130716487,
+        -34.13710496064113
+      ],
+      "properties": {
+        "subcategoryExternalId": "DQ80L3BSz3",
+        "externalId": "fIjwd9RJWl",
+        "title": "",
+        "description": "***\n#\n远古之水让它们生长。",
+        "imageId": 1283897,
+        "imagePath": "/game_map_pin/1283897/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        108.45703125000001,
+        -32.52828936482525
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZPXmlzjJtK",
+        "externalId": "I6y5rInXIy",
+        "title": "缠结史莱姆雕像",
+        "description": "***\n#\n可以在墙壁旁边找到。\n#\n- *缠结水晶*",
+        "imageId": 1283898,
+        "imagePath": "/game_map_pin/1283898/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        106.67724609375001,
+        -31.615965936476076
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283899,
+        "externalId": "T84INvXSa5",
+        "title": "",
+        "description": "***\n#\n可以在史莱姆雕像后面找到。\n#\n***奖励：***\n- *破旧沙漠方块蓝图*",
+        "imagePath": "/game_map_pin/1283899/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        114.10891782257482,
+        -34.69449246748299
+      ],
+      "properties": {
+        "subcategoryExternalId": "MBngaZlCfD",
+        "externalId": "L2jMk4UOiO",
+        "title": "德维什胖胖史莱姆",
+        "description": "***\n#\n可以在悬崖顶部找到。\n#\n***奖励：***\n- *史莱姆钥匙 (x1)*\n- *箱子 (x3)*\n- *托钵僧史莱姆 (x9)*\n#\n***要求：***\n- *水果 (x50)*",
+        "imageId": 1283900,
+        "imagePath": "/game_map_pin/1283900/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        121.48681640625001,
+        -36.615527631349245
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283901,
+        "externalId": "ROVgM0OuJC",
+        "title": "",
+        "description": "***\n#\n可以在小高原顶部找到。\n#\n***奖励：***\n- *破旧沙漠方块蓝图*",
+        "imagePath": "/game_map_pin/1283901/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        123.80594691636067,
+        -38.29810607867945
+      ],
+      "properties": {
+        "subcategoryExternalId": "DQ80L3BSz3",
+        "externalId": "J2e5tKLrNk",
+        "title": "",
+        "description": "***\n#\n远古之水让它们生长。",
+        "imageId": 1283902,
+        "imagePath": "/game_map_pin/1283902/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        121.20117187500001,
+        -33.57801474614399
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "8rzXajWYp3",
+        "title": "",
+        "description": "***\n#\n可以在墙边找到。",
+        "imageId": 1283903,
+        "imagePath": "/game_map_pin/1283903/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        122.10152150385902,
+        -17.64703972293599
+      ],
+      "properties": {
+        "subcategoryExternalId": "DQ80L3BSz3",
+        "externalId": "HuuArP8nAI",
+        "title": "",
+        "description": "***\n#\n远古之水让它们生长。",
+        "imageId": 1283904,
+        "imagePath": "/game_map_pin/1283904/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        116.23607016719852,
+        -25.517382827370533
+      ],
+      "properties": {
+        "subcategoryExternalId": "DQ80L3BSz3",
+        "externalId": "vaiNb01ZbH",
+        "title": "",
+        "description": "***\n#\n远古之水让它们生长。",
+        "imageId": 1283905,
+        "imagePath": "/game_map_pin/1283905/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        117.92724609375001,
+        -27.313213898568247
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283909,
+        "externalId": "Q2KCLwQ3gY",
+        "title": "",
+        "description": "***\n#\n可以在悬崖顶部找到。\n#\n***奖励：***\n- *高级养蜂场蓝图*",
+        "imagePath": "/game_map_pin/1283909/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        123.876889198907,
+        -12.02210067109434
+      ],
+      "properties": {
+        "subcategoryExternalId": "DQ80L3BSz3",
+        "externalId": "cekXPb6wWc",
+        "title": "",
+        "description": "***\n#\n远古之水让它们生长。",
+        "imageId": 1283910,
+        "imagePath": "/game_map_pin/1283910/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        116.80664062500001,
+        -13.047372256948787
+      ],
+      "properties": {
+        "subcategoryExternalId": "MBngaZlCfD",
+        "externalId": "bWlN1U6SDG",
+        "title": "缠绕戈尔多",
+        "description": "***\n#\n可以在中心柱上找到。\n#\n***奖励：***\n- *缠绕史莱姆 (x10)*\n- *箱子 (x3)*\n- *玻璃沙漠传送器*\n#\n***需求：***\n- *肉类 (x50)*",
+        "imageId": 1283913,
+        "imagePath": "/game_map_pin/1283913/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        117.61406673995278,
+        -12.147882254107609
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283914,
+        "externalId": "rzXO1Htm4n",
+        "title": "",
+        "description": "***\n#\n可以在中央塔附近的悬崖上找到。\n#\n***奖励：***\n- *高耸玻璃雕塑蓝图*",
+        "imagePath": "/game_map_pin/1283914/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        128.92097836643674,
+        -8.772993892746946
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283917,
+        "externalId": "We3X0nqJBj",
+        "title": "",
+        "description": "***\n#\n可以在悬崖边的ledge上找到。\n#\n***奖励：***\n- *浆果传送站蓝图*",
+        "imagePath": "/game_map_pin/1283917/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        131.0522414706351,
+        -23.137817182620445
+      ],
+      "properties": {
+        "subcategoryExternalId": "DQ80L3BSz3",
+        "externalId": "KnTHmkChPU",
+        "title": "",
+        "description": "***\n#\n远古之水让它们生长。",
+        "imageId": 1283920,
+        "imagePath": "/game_map_pin/1283920/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        130.79814686183448,
+        -18.04555094785772
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283921,
+        "externalId": "89damN4nSh",
+        "title": "",
+        "description": "***\n#\n可以在悬崖壁上的平台上找到。\n#\n***奖励：***\n- *破旧沙漠柱子蓝图*",
+        "imagePath": "/game_map_pin/1283921/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        131.23171625835707,
+        -26.83776355488408
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZPXmlzjJtK",
+        "externalId": "CdnvXaUyb5",
+        "title": "岩石史莱姆雕像",
+        "description": "***\n#\n可以在小径的左侧找到。\n#\n- *岩石球*",
+        "imageId": 1283924,
+        "imagePath": "/game_map_pin/1283924/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        135.22665405475976,
+        -25.147581907177948
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "7v9VQa3Juh",
+        "title": "",
+        "description": "***\n#\n可以在喷泉附近找到。",
+        "imageId": 1283925,
+        "imagePath": "/game_map_pin/1283925/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        137.1297152902276,
+        -23.43118665605257
+      ],
+      "properties": {
+        "subcategoryExternalId": "eDsPwYADRk",
+        "externalId": "FviKHzspUy",
+        "title": "",
+        "description": "***\n#\n*通过激活喷泉周围的雕像可以解锁*。\n#\n***雕像：***\n- *岩石史莱姆雕像 (1)*\n- *岩石史莱姆雕像 (2)*\n- *岩石史莱姆雕像 (3)*",
+        "imageId": 1283926,
+        "imagePath": "/game_map_pin/1283926/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        135.71283423327705,
+        -21.667024124472587
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZPXmlzjJtK",
+        "externalId": "28iv0JUD0e",
+        "title": "岩石史莱姆雕像",
+        "description": "***\n#\n可以在墙边找到。\n#\n- *岩石结晶*",
+        "imageId": 1283929,
+        "imagePath": "/game_map_pin/1283929/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        140.18554687500003,
+        -21.04349121680354
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZPXmlzjJtK",
+        "externalId": "FpH9XeR7Zl",
+        "title": "岩石史莱姆雕像",
+        "description": "***\n#\n可以在一个小ledge上找到。\n#\n- *岩石Plort*",
+        "imageId": 1283930,
+        "imagePath": "/game_map_pin/1283930/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        140.11571825059445,
+        -17.15982726185694
+      ],
+      "properties": {
+        "subcategoryExternalId": "PU3OLmkyYb",
+        "imageId": 1283933,
+        "externalId": "XMUrBJCSHN",
+        "title": "",
+        "description": "***\n#\n为了打开史莱姆之门，玩家需要从胖胖史莱姆那里获得史莱姆钥匙。",
+        "imagePath": "/game_map_pin/1283933/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        144.19876967126925,
+        -11.181169013905405
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283943,
+        "externalId": "HKS5QGvHWl",
+        "title": "",
+        "description": "***\n#\n可以在废墟下方找到。\n#\n***奖励：***\n- *高级钻机蓝图*",
+        "imagePath": "/game_map_pin/1283943/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        150.74959942312108,
+        5.519515106646572
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283945,
+        "externalId": "Mt2MdCNvPM",
+        "title": "",
+        "description": "***\n#\n可以在流沙区域附近的悬崖上找到。\n#\n***奖励：***\n- *金结晶 (x3)*",
+        "imagePath": "/game_map_pin/1283945/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        119.94723898033835,
+        5.18446741383791
+      ],
+      "properties": {
+        "subcategoryExternalId": "MBngaZlCfD",
+        "externalId": "XgwzFMROVG",
+        "title": "马赛克戈尔多",
+        "description": "***\n#\n可以在堵住入口的悬崖上找到。\n#\n***奖励：***\n- *史莱姆钥匙 (x1)*\n- *箱子 (x3)*\n- *马赛克史莱姆 (x9)*\n#\n***需求：***\n- *蔬菜 (x50)*",
+        "imageId": 1283946,
+        "imagePath": "/game_map_pin/1283946/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        119.00642452777652,
+        8.641519540877406
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283947,
+        "externalId": "8bIDuIHtV2",
+        "title": "",
+        "description": "***\n#\n可以在废墟下方找到。\n#\n***奖励：***\n- *可可史莱姆灯蓝图*",
+        "imagePath": "/game_map_pin/1283947/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        106.9524593471466,
+        4.769193086162115
+      ],
+      "properties": {
+        "subcategoryExternalId": "DQ80L3BSz3",
+        "externalId": "2ot1vKHd3d",
+        "title": "",
+        "description": "***\n#\n远古之水让它们生长。",
+        "imageId": 1283948,
+        "imagePath": "/game_map_pin/1283948/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        122.66606798301225,
+        18.402388876571063
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "AkvrfTs7FX",
+        "title": "",
+        "description": "***\n#\n可以在平台上找到。",
+        "imageId": 1283949,
+        "imagePath": "/game_map_pin/1283949/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        119.28613424828136,
+        12.304090006858269
+      ],
+      "properties": {
+        "subcategoryExternalId": "DQ80L3BSz3",
+        "externalId": "bk2kGzwPfo",
+        "title": "",
+        "description": "***\n#\n远古之水让它们生长。",
+        "imageId": 1283950,
+        "imagePath": "/game_map_pin/1283950/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        109.24605476241604,
+        41.79717599748138
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "eDHtX0CA0t",
+        "title": "",
+        "description": "***\n#\n可以在开关附近找到。",
+        "imageId": 1283955,
+        "imagePath": "/game_map_pin/1283955/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        109.57763671875,
+        46.87521339672271
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "0Fi3Ro3LN9",
+        "title": "",
+        "description": "***\n#\n可以在形状像史莱姆的石墙前面找到。",
+        "imageId": 1283956,
+        "imagePath": "/game_map_pin/1283956/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        120.91552734375001,
+        1.252341676699629
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283964,
+        "externalId": "jA7H7YloWh",
+        "title": "",
+        "description": "***\n#\n可以在石桥下方找到。\n#\n***奖励：***\n- *高级水泵蓝图*",
+        "imagePath": "/game_map_pin/1283964/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        112.8579848653206,
+        4.759819787748263
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283969,
+        "externalId": "DiJFb7lxvO",
+        "title": "",
+        "description": "***\n#\n可以在门道上方找到。\n#\n***奖励：***\n- *超级水炮蓝图*",
+        "imagePath": "/game_map_pin/1283969/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        109.38291766400857,
+        -9.979530437027629
+      ],
+      "properties": {
+        "subcategoryExternalId": "PU3OLmkyYb",
+        "externalId": "z4u3v1kuxt",
+        "title": "",
+        "description": "***\n#\n为了打开史莱姆之门，玩家需要从胖胖史莱姆那里获得史莱姆钥匙。",
+        "imageId": 1283970,
+        "imagePath": "/game_map_pin/1283970/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        102.76252805595998,
+        -16.68764756229114
+      ],
+      "properties": {
+        "subcategoryExternalId": "DQ80L3BSz3",
+        "externalId": "XgvnLfWc24",
+        "title": "",
+        "description": "***\n#\n远古之水让它们生长。",
+        "imageId": 1283973,
+        "imagePath": "/game_map_pin/1283973/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        99.31640625000001,
+        -19.2489223284628
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283974,
+        "externalId": "qcbPSNa9iR",
+        "title": "",
+        "description": "***\n#\n可以在史莱姆雕像旁边的悬崖上找到。\n#\n***奖励：***\n- *棕榈树苗蓝图*",
+        "imagePath": "/game_map_pin/1283974/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        97.22900390625001,
+        -19.35261089437863
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZPXmlzjJtK",
+        "externalId": "6pY0w2CkQv",
+        "title": "马赛克史莱姆雕像",
+        "description": "***\n#\n可以在岩架上找到。\n#\n- *马赛克大便球*",
+        "imageId": 1283975,
+        "imagePath": "/game_map_pin/1283975/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        96.2790013495039,
+        -19.354081869096767
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZPXmlzjJtK",
+        "externalId": "ut6P3gGFHi",
+        "title": "马赛克史莱姆雕像",
+        "description": "***\n#\n可以在废墟地基顶部找到。\n#\n- *马赛克结晶*",
+        "imageId": 1283978,
+        "imagePath": "/game_map_pin/1283978/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        96.7236328125,
+        -16.383391123608387
+      ],
+      "properties": {
+        "subcategoryExternalId": "DQ80L3BSz3",
+        "externalId": "04Cgb2WGwf",
+        "title": "",
+        "description": "***\n#\n远古之水让它们生长。",
+        "imageId": 1283979,
+        "imagePath": "/game_map_pin/1283979/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        98.85498046875001,
+        -15.60187487673981
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZPXmlzjJtK",
+        "externalId": "XlKu2LnOxj",
+        "title": "马赛克史莱姆雕像",
+        "description": "***\n#\n可以在有开放天花板的房间中找到。\n#\n- *马赛克水晶*",
+        "imageId": 1283982,
+        "imagePath": "/game_map_pin/1283982/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        96.3911730918301,
+        -14.39673974815646
+      ],
+      "properties": {
+        "subcategoryExternalId": "eDsPwYADRk",
+        "externalId": "SqnBBci4va",
+        "title": "",
+        "description": "***\n#\n*通过激活喷泉周围的雕像可以解锁*。\n#\n***雕像：***\n- *马赛克史莱姆雕像 (1)*\n- *马赛克史莱姆雕像 (2)*\n- *马赛克史莱姆雕像 (3)*",
+        "imageId": 1283984,
+        "imagePath": "/game_map_pin/1283984/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        81.67236328125001,
+        -17.769612247142668
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283986,
+        "externalId": "pDMJu88CmB",
+        "title": "",
+        "description": "***\n#\n可以在悬崖边上找到。\n#\n***奖励：***\n- *棕榈树蓝图*",
+        "imagePath": "/game_map_pin/1283986/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        92.05109907041246,
+        1.5572486087921733
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283988,
+        "externalId": "l2CqsfqwCa",
+        "title": "",
+        "description": "***\n#\n可以在高悬崖的悬崖上找到。\n#\n***奖励：***\n- *可可传送站蓝图*",
+        "imagePath": "/game_map_pin/1283988/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        136.03271484375003,
+        16.46769474828897
+      ],
+      "properties": {
+        "subcategoryExternalId": "DQ80L3BSz3",
+        "externalId": "ch1oCSTbTX",
+        "title": "",
+        "description": "***\n#\n远古之水让它们生长。",
+        "imageId": 1283991,
+        "imagePath": "/game_map_pin/1283991/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        135.0006868005184,
+        20.615306539630062
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1283992,
+        "externalId": "Gsrys1Yzli",
+        "title": "",
+        "description": "***\n#\n可以在悬崖边的平台上找到。\n#\n***奖励：***\n- *卷曲草蓝图*",
+        "imagePath": "/game_map_pin/1283992/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        144.6982145499015,
+        16.888363654896395
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1284002,
+        "externalId": "dMxDDzHB2p",
+        "title": "",
+        "description": "***\n#\n可以在玻璃雕塑附近的悬崖上找到。\n#\n***奖励：***\n- *火焰玻璃雕塑蓝图*",
+        "imagePath": "/game_map_pin/1284002/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        124.14550781250001,
+        22.350075806124867
+      ],
+      "properties": {
+        "subcategoryExternalId": "DQ80L3BSz3",
+        "externalId": "9ICmZa7MbU",
+        "title": "",
+        "description": "***\n#\n远古之水让它们生长。",
+        "imageId": 1284005,
+        "imagePath": "/game_map_pin/1284005/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        133.79150390625003,
+        30.41078179084589
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1284007,
+        "externalId": "1SE3L2ddez",
+        "title": "",
+        "description": "***\n#\n可以在流沙附近的岩架上找到。\n#\n***奖励：***\n- *浆果史莱姆灯蓝图*",
+        "imagePath": "/game_map_pin/1284007/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        130.3343423197472,
+        26.513455141754015
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZPXmlzjJtK",
+        "externalId": "9tBM7y58DQ",
+        "title": "德维什史莱姆雕像",
+        "description": "***\n#\n可以在岩架附近找到。\n#\n- *沙尘史莱姆结晶*",
+        "imageId": 1284009,
+        "imagePath": "/game_map_pin/1284009/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        125.81542968750001,
+        28.92163128242129
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZPXmlzjJtK",
+        "externalId": "A6Ari7puOb",
+        "title": "德维什史莱姆雕像",
+        "description": "***\n#\n可以在一个天花板开放的小房间里找到。\n#\n- *德尔维什泥团*",
+        "imageId": 1284012,
+        "imagePath": "/game_map_pin/1284012/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        121.71955250909276,
+        27.59233681877532
+      ],
+      "properties": {
+        "subcategoryExternalId": "eDsPwYADRk",
+        "externalId": "uPZrO954NN",
+        "title": "",
+        "description": "***\n#\n*通过激活喷泉周围的雕像来解锁*。\n#\n***雕像：***\n- *沙尘史莱姆雕像 (1)*\n- *沙尘史莱姆雕像 (2)*\n- *沙尘史莱姆雕像 (3)*",
+        "imageId": 1284013,
+        "imagePath": "/game_map_pin/1284013/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        120.23888551038655,
+        29.5818166684401
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1284025,
+        "externalId": "TuELU4MShG",
+        "title": "",
+        "description": "***\n#\n可以在史莱姆雕像附近的废墟顶部找到。\n#\n***奖励：***\n- *雷鸣玻璃雕塑蓝图*",
+        "imagePath": "/game_map_pin/1284025/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        119.44335937500001,
+        29.49698759653577
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZPXmlzjJtK",
+        "externalId": "vv1oRJEZnd",
+        "title": "德维什史莱姆雕像",
+        "description": "***\n#\n可以在塔顶找到。\n#\n- *沙尘史莱姆结晶*",
+        "imageId": 1284026,
+        "imagePath": "/game_map_pin/1284026/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        114.35887396270309,
+        31.0960259831619
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "zHxDwqx1qp",
+        "title": "",
+        "description": "***\n#\n可以在平台上找到。",
+        "imageId": 1284028,
+        "imagePath": "/game_map_pin/1284028/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        131.33188171299307,
+        38.87093788605876
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1284033,
+        "externalId": "JdWkPODZxi",
+        "title": "",
+        "description": "***\n#\n可以在废墟顶部找到。\n#\n***奖励：***\n- *可可传送器蓝图*",
+        "imagePath": "/game_map_pin/1284033/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        108.30322265625001,
+        53.70971358510174
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "2AyM0O5UC0",
+        "title": "",
+        "description": "***\n#\n可以在石拱门旁边找到。",
+        "imageId": 1284034,
+        "imagePath": "/game_map_pin/1284034/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        109.57763671875,
+        59.05185617891852
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "JZADbI6KZe",
+        "title": "",
+        "description": "***\n#\n可以在废墟中间找到。",
+        "imageId": 1284035,
+        "imagePath": "/game_map_pin/1284035/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -147.58236646771962,
+        -65.34110196026712
+      ],
+      "properties": {
+        "subcategoryExternalId": "3RJ71CRj6B",
+        "externalId": "avP7GMXYzJ",
+        "title": "",
+        "description": "***\n#\n继续喂食虎斑戈尔多直到它爆裂以解锁传送门。",
+        "imageId": 1284094,
+        "imagePath": "/game_map_pin/1284094/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -159.76421768434818,
+        -67.45934703031651
+      ],
+      "properties": {
+        "subcategoryExternalId": "MBngaZlCfD",
+        "externalId": "BJnG0LN4M7",
+        "title": "粉红戈尔多",
+        "description": "***\n#\n可以在靠近树的悬崖顶上找到。\n#\n***奖励：***\n- *史莱姆钥匙 (x1)*\n- *箱子 (x2)*\n- *粉色史莱姆 (x10)*\n#\n***需求：***\n- *任意食物 (x30)*",
+        "imageId": 1284095,
+        "imagePath": "/game_map_pin/1284095/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -147.11124514994947,
+        -69.23799165500907
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1284097,
+        "externalId": "azv4uMvlGC",
+        "title": "",
+        "description": "***\n#\n可以在悬崖上的花丛中找到。\n#\n***奖励：***\n- *紫色传送站蓝图*",
+        "imagePath": "/game_map_pin/1284097/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -151.62573062190555,
+        -70.31460999880264
+      ],
+      "properties": {
+        "subcategoryExternalId": "Vrk2Sh5Mrm",
+        "externalId": "YfiCcFG0im",
+        "title": "",
+        "description": "***\n#\n这仅在完成游戏后才会出现。",
+        "imageId": 1284098,
+        "imagePath": "/game_map_pin/1284098/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -151.80055498330796,
+        -67.74080334738937
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1284099,
+        "externalId": "cNFFja6lYr",
+        "title": "",
+        "description": "***\n#\n可以在悬崖边缘找到。\n#\n***奖励：***\n- *深层盐水 (x2)*\n- *熔岩尘 (x1)*",
+        "imagePath": "/game_map_pin/1284099/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -159.53987419969573,
+        -75.40261421274509
+      ],
+      "properties": {
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "externalId": "juGEVXNbJ9",
+        "title": "",
+        "description": "***\n#\n可以在一个小岛上找到。",
+        "imageId": 1284102,
+        "imagePath": "/game_map_pin/1284102/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -160.32393197399486,
+        -72.42669322071859
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": 1284105,
+        "externalId": "ahXePxcNbD",
+        "title": "",
+        "description": "***\n#\n可以在悬崖较低处找到。\n#\n***奖励：***\n- *可爱时尚胶囊蓝图*",
+        "imagePath": "/game_map_pin/1284105/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -88.58920751543751,
+        -5.784442301565136
+      ],
+      "properties": {
+        "subcategoryExternalId": "4CCRvw53DN",
+        "imageId": null,
+        "externalId": "s7PD9UV9vY",
+        "title": "",
+        "description": "***\n#\n可以在木楼梯下面找到。\n#\n***奖励：***\n- *野生蜂蜜 (x2)*\n- *蜂王浆 (x1)*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -42.09605998413316,
+        -73.98836619528247
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 191.06187438964844,
+          "y": 15.083650588989258,
+          "z": -301.8334655761719
+        },
+        "externalId": "OLjzcY7aWm",
+        "title": "",
+        "description": "***\n#\n可以在储物柜附近的区域找到。",
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "imageId": 1283630,
+        "imagePath": "/game_map_pin/1283630/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -61.546640103501396,
+        65.13269758679252
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 59.492164611816406,
+          "y": 18.040878295898438,
+          "z": 950.0745239257812
+        },
+        "externalId": "w2yMZogAOK",
+        "title": "",
+        "description": "***\n#\n为了打开史莱姆之门，玩家需要从胖胖史莱姆那里获得史莱姆钥匙。",
+        "subcategoryExternalId": "PU3OLmkyYb",
+        "imageId": 1283878,
+        "imagePath": "/game_map_pin/1283878/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -151.8673270245816,
+        21.744902965245412
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -517.7625122070312,
+          "y": 1.7900023460388184,
+          "z": 560.1564331054688
+        },
+        "externalId": "SVooO9WfTP",
+        "title": "",
+        "description": "***\n#\n可以在水体附近的枯树旁找到。",
+        "subcategoryExternalId": "IMZF5XnmKr",
+        "imageId": 1283776,
+        "imagePath": "/game_map_pin/1283776/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        143.63791095963808,
+        -9.349005625806779
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -198.04896545410156,
+          "y": 1024.359130859375,
+          "z": 392.4428405761719
+        },
+        "externalId": "H8XsnHOSde",
+        "title": "",
+        "description": "***\n#\n远古之水让它们生长。",
+        "subcategoryExternalId": "DQ80L3BSz3",
+        "imageId": 1283934,
+        "imagePath": "/game_map_pin/1283934/{size}.webp"
+      }
+    }
+  ]
+}

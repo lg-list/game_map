@@ -1,0 +1,16 @@
+{
+  "slug": "far-cry-new-dawn",
+  "title": "Far Cry New Dawn",
+  "heroUrl": "/assets/images/games/far-cry-new-dawn/hero.webp",
+  "maps": [
+    {
+      "name": "Hope County",
+      "slug": "hope-county",
+      "thumbnailUrl": "/assets/images/games/far-cry-new-dawn/hope-county.webp",
+      "updatedAt": "2026-01-28T05:34:49Z",
+      "markerCount": 245,
+      "categoryCount": 5,
+      "subcategoryCount": 14
+    }
+  ]
+}

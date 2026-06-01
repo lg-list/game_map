@@ -1,0 +1,730 @@
+{
+  "metadata": {
+    "externalId": "ruxZ1vhP3Z",
+    "name": "Eastern Region",
+    "slug": "eastern-region",
+    "baseTilePath": "https://storage-cdn.wemod.com/maps/018cf3b1-e3db-7986-bfd8-6e649a88e3e6",
+    "isChecklistPublished": true,
+    "isInActiveDevelopment": false,
+    "backgroundColor": "#12212F",
+    "minZoom": 1,
+    "maxZoom": 7,
+    "initialZoom": 3,
+    "tmsEnabled": true,
+    "categories": [
+      {
+        "externalId": "ZDO3pcC9YZ",
+        "gameMapExternalId": "ruxZ1vhP3Z",
+        "title": "收藏品",
+        "color": "#636363",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "esLCvl2Bq5",
+        "gameMapExternalId": "ruxZ1vhP3Z",
+        "title": "敌方位置",
+        "color": "#ff0000",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "srXkQQaYJ1",
+        "gameMapExternalId": "ruxZ1vhP3Z",
+        "title": "设施位置",
+        "color": "#323cfa",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "npMHsDzKe3",
+        "gameMapExternalId": "ruxZ1vhP3Z",
+        "title": "物资",
+        "color": "#3c8c46",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "subcategories": [
+      {
+        "externalId": "1KuM0z93GD",
+        "categoryExternalId": "ZDO3pcC9YZ",
+        "title": "记忆芯片",
+        "icon": "microchip",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "e50SBwj59O",
+        "categoryExternalId": "esLCvl2Bq5",
+        "title": "BT领地",
+        "icon": "skull",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "UQAS7KXmL6",
+        "categoryExternalId": "esLCvl2Bq5",
+        "title": "慕勒营地",
+        "icon": "campfire",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "oEKgGCyu7V",
+        "categoryExternalId": "srXkQQaYJ1",
+        "title": "兴趣点",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "4qKOlxo8W9",
+        "categoryExternalId": "srXkQQaYJ1",
+        "title": "末日避难所",
+        "icon": "roundies:architecture-apartments-building",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "G9JDJSugyg",
+        "categoryExternalId": "srXkQQaYJ1",
+        "title": "UCA设施",
+        "icon": "house-blank",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "vTiKKWFHnu",
+        "categoryExternalId": "npMHsDzKe3",
+        "title": "手性晶体",
+        "icon": "diamond",
+        "excludeFromChecklists": true,
+        "description": ""
+      }
+    ],
+    "playerLocationDeltas": {
+      "deltas": {
+        "scaleX": 0.0001224565001491246,
+        "scaleY": 0.00012228312411278106,
+        "offsetX": 143.94328210034064,
+        "offsetY": 1.324558721827998,
+        "gameCoordsMap": {
+          "x": "x",
+          "y": "y",
+          "z": "z"
+        }
+      },
+      "referencePoints": [
+        {
+          "lngLat": {
+            "lat": -35.26217466880542,
+            "lng": -150.4988317682016
+          },
+          "gameCoords": {
+            "x": -1907.6259765625,
+            "y": -512.2116088867188,
+            "z": 150.2908477783203
+          }
+        },
+        {
+          "lngLat": {
+            "lat": 61.356493654793766,
+            "lng": 104.82648811476258
+          },
+          "gameCoords": {
+            "x": 1572.91650390625,
+            "y": 1066.1834716796875,
+            "z": 141.64981079101562
+          }
+        }
+      ]
+    }
+  },
+  "features": [
+    {
+      "coordinates": [
+        -96.064453125,
+        -2.7235830833483856
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1172.76611328125,
+          "y": -40.412471771240234,
+          "z": 241.87640380859375
+        },
+        "subcategoryId": "e50SBwj59O",
+        "externalId": "M0Ua4mUdDj",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "e50SBwj59O",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        11.315917968750004,
+        62.431074232920935
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 303.718017578125,
+          "y": 1107.45947265625,
+          "z": 158.30738830566406
+        },
+        "subcategoryId": "1KuM0z93GD",
+        "externalId": "c4E1gSMSRh",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "1KuM0z93GD",
+        "imageId": 931959,
+        "imagePath": "/game_map_pin/931959/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -15.952148437500002,
+        42.39100860920499
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -72.55419921875,
+          "y": 656.0592041015625,
+          "z": 196.3164825439453
+        },
+        "subcategoryId": "vTiKKWFHnu",
+        "externalId": "aEx7dmICGz",
+        "title": "手性结晶",
+        "description": "",
+        "subcategoryExternalId": "vTiKKWFHnu",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        7.9760742187500036,
+        34.97600151317589
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 248.06915283203125,
+          "y": 527.5111083984375,
+          "z": 304.9743957519531
+        },
+        "subcategoryId": "UQAS7KXmL6",
+        "externalId": "98p0cSu7gv",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "UQAS7KXmL6",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -3.0102539062500018,
+        36.66841891894788
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 101.9307632446289,
+          "y": 538.95263671875,
+          "z": 207.09605407714844
+        },
+        "subcategoryId": "4qKOlxo8W9",
+        "externalId": "pzw0zvGJf1",
+        "title": "Ludens粉丝",
+        "description": "",
+        "subcategoryExternalId": "4qKOlxo8W9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        95.18554687500004,
+        47.27922900257087
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1432.9154052734375,
+          "y": 701.4512329101562,
+          "z": 137.3023223876953
+        },
+        "subcategoryId": "G9JDJSugyg",
+        "externalId": "iEMAjQEnLH",
+        "title": "首都节点城",
+        "description": "",
+        "subcategoryExternalId": "G9JDJSugyg",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -49.35058593750001,
+        -4.258768357307995
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -522.2508544921875,
+          "y": -62.553367614746094,
+          "z": 248.10035705566406
+        },
+        "subcategoryId": "1KuM0z93GD",
+        "externalId": "3qXBIR7sLc",
+        "title": "",
+        "description": "记忆芯片 #18\n- *七武士*\n\n位置：在一个洞穴内的岩架上。\n要求：不适用",
+        "subcategoryExternalId": "1KuM0z93GD",
+        "imageId": 931970,
+        "imagePath": "/game_map_pin/931970/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -86.121826171875,
+        31.090574094954192
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1029.1185302734375,
+          "y": 445.9090576171875,
+          "z": 246.59555053710938
+        },
+        "subcategoryId": "1KuM0z93GD",
+        "externalId": "WUDUPbMQNi",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "1KuM0z93GD",
+        "imageId": 931963,
+        "imagePath": "/game_map_pin/931963/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -122.62939453125001,
+        42.8115217450979
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1526.080322265625,
+          "y": 648.825439453125,
+          "z": 207.13392639160156
+        },
+        "subcategoryId": "1KuM0z93GD",
+        "externalId": "WPOMkUIXw4",
+        "title": "",
+        "description": "记忆芯片 #2\n- *机甲少女：白虎*\n\n位置：设施上层的角落。\n要求：不适用",
+        "subcategoryExternalId": "1KuM0z93GD",
+        "imageId": 931962,
+        "imagePath": "/game_map_pin/931962/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -161.97143554687509,
+        -42.18782901059077
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -2060.587158203125,
+          "y": -633.0276489257812,
+          "z": 156.33724975585938
+        },
+        "subcategoryId": "1KuM0z93GD",
+        "externalId": "ORjA6a9Vp0",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "1KuM0z93GD",
+        "imageId": 931966,
+        "imagePath": "/game_map_pin/931966/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -138.18603515625003,
+        -35.62158189955967
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1733.8514404296875,
+          "y": -520.14990234375,
+          "z": 146.640869140625
+        },
+        "subcategoryId": "1KuM0z93GD",
+        "externalId": "WlTHMIbxlW",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "1KuM0z93GD",
+        "imageId": 931965,
+        "imagePath": "/game_map_pin/931965/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -109.20410156250001,
+        -1.625758360412755
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1377.0487060546875,
+          "y": 42.534542083740234,
+          "z": 311.3255310058594
+        },
+        "subcategoryId": "1KuM0z93GD",
+        "externalId": "Z5aCaaEoBB",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "1KuM0z93GD",
+        "imageId": 931964,
+        "imagePath": "/game_map_pin/931964/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -82.70507812500003,
+        -9.123792057073999
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -981.3297119140625,
+          "y": -120.54220581054688,
+          "z": 184.5492706298828
+        },
+        "subcategoryId": "4qKOlxo8W9",
+        "externalId": "yg8uBz2fDt",
+        "title": "音乐家",
+        "description": "",
+        "subcategoryExternalId": "4qKOlxo8W9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        106.56738281197252,
+        59.215311590168604
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1597.52001953125,
+          "y": 1010.6698608398438,
+          "z": 149.88694763183594
+        },
+        "subcategoryId": "1KuM0z93GD",
+        "externalId": "mtXJcDULET",
+        "title": "",
+        "description": "记忆芯片 #43\n- *深红色原声带*\n\n位置：在一栋建筑的屋顶上。（需要梯子才能到达）\n要求：提升Capital Knot City等级。阅读“Capital Knot City中的一个奇怪发光物体”邮件。",
+        "subcategoryExternalId": "1KuM0z93GD",
+        "imageId": 931957,
+        "imagePath": "/game_map_pin/931957/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -92.55860713320433,
+        38.10431358857035
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1115.4083251953125,
+          "y": 539.0678100585938,
+          "z": 267.0050048828125
+        },
+        "subcategoryId": "vTiKKWFHnu",
+        "externalId": "lt9gArv5aG",
+        "title": "手性晶体",
+        "description": "",
+        "subcategoryExternalId": "vTiKKWFHnu",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        11.755371093750007,
+        64.65211223878973
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 305.3785705566406,
+          "y": 1157.4478759765625,
+          "z": 162.9700164794922
+        },
+        "subcategoryId": "G9JDJSugyg",
+        "externalId": "MmlFQWr7o7",
+        "title": "首都节点城西边的服务站",
+        "description": "",
+        "subcategoryExternalId": "G9JDJSugyg",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -42.1530221941827,
+        22.92036735409969
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -440.21820068359375,
+          "y": 264.4737854003906,
+          "z": 137.37388610839844
+        },
+        "subcategoryId": "G9JDJSugyg",
+        "externalId": "ski1Kw6qu0",
+        "title": "首都结点城西部配送中心",
+        "description": "",
+        "subcategoryExternalId": "G9JDJSugyg",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -119.92675781250006,
+        43.51668853502915
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1492.3529052734375,
+          "y": 666.1535034179688,
+          "z": 205.64356994628906
+        },
+        "subcategoryId": "G9JDJSugyg",
+        "externalId": "uoOM45Uao4",
+        "title": "风力发电场",
+        "description": "",
+        "subcategoryExternalId": "G9JDJSugyg",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -152.49023437500006,
+        -34.84987503195417
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1986.26416015625,
+          "y": -477.33404541015625,
+          "z": 139.47732543945312
+        },
+        "subcategoryId": "G9JDJSugyg",
+        "externalId": "f0Ngu3M7pP",
+        "title": "港口节点城",
+        "description": "",
+        "subcategoryExternalId": "G9JDJSugyg",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -131.9897460937501,
+        4.127285323245388
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1643.431640625,
+          "y": 52.252403259277344,
+          "z": 367.42657470703125
+        },
+        "subcategoryId": "vTiKKWFHnu",
+        "externalId": "B0kl9HUsjc",
+        "title": "",
+        "description": "一簇手性晶体。",
+        "subcategoryExternalId": "vTiKKWFHnu",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        23.906250000000004,
+        20.3034175184893
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 525.5993041992188,
+          "y": 331.7637939453125,
+          "z": 238.34011840820312
+        },
+        "subcategoryId": "oEKgGCyu7V",
+        "externalId": "zFoYlSjE94",
+        "title": "首都节点城西边的焚化炉",
+        "description": "",
+        "subcategoryExternalId": "oEKgGCyu7V",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        23.323974609375004,
+        16.99375545289456
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 464.0936584472656,
+          "y": 232.51962280273438,
+          "z": 249.94029235839844
+        },
+        "subcategoryId": "1KuM0z93GD",
+        "externalId": "fnXltHdpqm",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "1KuM0z93GD",
+        "imageId": 931960,
+        "imagePath": "/game_map_pin/931960/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        55.1953125,
+        64.84893726357939
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 906.1640625,
+          "y": 1236.37646484375,
+          "z": 136.42689514160156
+        },
+        "subcategoryId": "e50SBwj59O",
+        "externalId": "BFFN0I5hQa",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "e50SBwj59O",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        27.421874999999996,
+        29.228890030194236
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 523.7593383789062,
+          "y": 408.0113220214844,
+          "z": 237.8369598388672
+        },
+        "subcategoryId": "e50SBwj59O",
+        "externalId": "5w9kbQFgaM",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "e50SBwj59O",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -28.872070312500018,
+        41.64007838467879
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -387.34619140625,
+          "y": 596.7305908203125,
+          "z": 146.46572875976562
+        },
+        "subcategoryId": "e50SBwj59O",
+        "externalId": "4zipOAEMWB",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "e50SBwj59O",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -104.677734375,
+        35.17380831799959
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1253.5303955078125,
+          "y": 518.52294921875,
+          "z": 194.43959045410156
+        },
+        "subcategoryId": "e50SBwj59O",
+        "externalId": "OSGk6GlshE",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "e50SBwj59O",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        13.326416015625012,
+        50.31740811261881
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 337.45343017578125,
+          "y": 813.5817260742188,
+          "z": 165.6197509765625
+        },
+        "subcategoryId": "UQAS7KXmL6",
+        "externalId": "UHt0LqdxtQ",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "UQAS7KXmL6",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -56.95312500000003,
+        -6.937332868878457
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -634.107421875,
+          "y": -94.77302551269531,
+          "z": 222.9874725341797
+        },
+        "subcategoryId": "UQAS7KXmL6",
+        "externalId": "6tZzffz92E",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "UQAS7KXmL6",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        14.501953125000004,
+        40.078071427450084
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 344.620849609375,
+          "y": 593.0108642578125,
+          "z": 291.88934326171875
+        },
+        "subcategoryId": "oEKgGCyu7V",
+        "externalId": "mocjQEAxJU",
+        "title": "废弃工厂",
+        "description": "",
+        "subcategoryExternalId": "oEKgGCyu7V",
+        "imageId": null,
+        "imagePath": ""
+      }
+    }
+  ]
+}

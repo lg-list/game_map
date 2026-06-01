@@ -1,0 +1,1046 @@
+{
+  "metadata": {
+    "externalId": "CWwQYWcgUp",
+    "name": "Stella Montis Upper",
+    "slug": "stella-montis-upper",
+    "baseTilePath": "https://storage-cdn.wemod.com/maps/d2a7f0db-7741-46d3-933f-63f895a5386d/tiles",
+    "isChecklistPublished": true,
+    "isInActiveDevelopment": false,
+    "backgroundColor": null,
+    "minZoom": 1,
+    "maxZoom": 5,
+    "initialZoom": null,
+    "tmsEnabled": false,
+    "categories": [
+      {
+        "externalId": "7Gba1BJb16",
+        "gameMapExternalId": "CWwQYWcgUp",
+        "title": "提取",
+        "color": "#78909C",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "zOezWVl0a6",
+        "gameMapExternalId": "CWwQYWcgUp",
+        "title": "景点",
+        "color": "#37474F",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "PJknPFF2Jj",
+        "gameMapExternalId": "CWwQYWcgUp",
+        "title": "自然资源",
+        "color": "#66BB6A",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "feP58UsgWm",
+        "gameMapExternalId": "CWwQYWcgUp",
+        "title": "战利品",
+        "color": "#0277BD",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": ""
+      }
+    ],
+    "subcategories": [
+      {
+        "externalId": "Umd510iz9r",
+        "categoryExternalId": "7Gba1BJb16",
+        "title": "突袭者舱门",
+        "icon": "material:arrow_circle_down",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "xzni0AdY1n",
+        "categoryExternalId": "zOezWVl0a6",
+        "title": "玩家出生点",
+        "icon": "arrow-alt-square-up",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "PMAzkIBFLZ",
+        "categoryExternalId": "zOezWVl0a6",
+        "title": "补给呼叫站",
+        "icon": "material:cell_tower",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "HuD9QMzFJs",
+        "categoryExternalId": "PJknPFF2Jj",
+        "title": "毛蕊花",
+        "icon": "wheat",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "ghBhz7uzGB",
+        "categoryExternalId": "feP58UsgWm",
+        "title": "武器箱",
+        "icon": "roundies:airport-and-hotels-weapon-case",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "sjKyiGejW6",
+        "categoryExternalId": "feP58UsgWm",
+        "title": "弹药箱",
+        "icon": "roundies:business-and-finance-toolbox",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "nRsFiJdkxW",
+        "categoryExternalId": "feP58UsgWm",
+        "title": "医疗包",
+        "icon": "material:medical_services",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "ZEQivv8Ipg",
+        "categoryExternalId": "feP58UsgWm",
+        "title": "战利品容器",
+        "icon": "material:home_storage",
+        "excludeFromChecklists": false,
+        "description": ""
+      }
+    ],
+    "playerLocationDeltas": null
+  },
+  "features": [
+    {
+      "coordinates": [
+        50.838150289117834,
+        -38.82962721473522
+      ],
+      "properties": {
+        "externalId": "DWdFBke73k",
+        "title": "",
+        "description": "*玩家可能的出生位置。*",
+        "subcategoryExternalId": "xzni0AdY1n",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        81.82080924860395,
+        12.16196262118973
+      ],
+      "properties": {
+        "externalId": "gB1BIu4fUz",
+        "title": "",
+        "description": "*玩家可能的出生位置。*",
+        "subcategoryExternalId": "xzni0AdY1n",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        31.647398844007085,
+        17.1926748070577
+      ],
+      "properties": {
+        "externalId": "Bw08sbUeYG",
+        "title": "",
+        "description": "*玩家可能的出生位置。*",
+        "subcategoryExternalId": "xzni0AdY1n",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        40.78034682089816,
+        43.0200429525284
+      ],
+      "properties": {
+        "externalId": "aUUYDabB1W",
+        "title": "",
+        "description": "*玩家可能的出生位置。*",
+        "subcategoryExternalId": "xzni0AdY1n",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -68.23699421944868,
+        46.2677499361364
+      ],
+      "properties": {
+        "externalId": "gfYqx5eXiT",
+        "title": "",
+        "description": "*玩家可能的出生位置。*",
+        "subcategoryExternalId": "xzni0AdY1n",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -34.884393063405554,
+        48.8797518398726
+      ],
+      "properties": {
+        "externalId": "edfqO4zK6D",
+        "title": "",
+        "description": "*玩家可能的出生位置。*",
+        "subcategoryExternalId": "xzni0AdY1n",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -104.07514450858737,
+        23.952299567066063
+      ],
+      "properties": {
+        "externalId": "o1WFMxDFYZ",
+        "title": "",
+        "description": "*玩家可能的出生位置。*",
+        "subcategoryExternalId": "xzni0AdY1n",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -102.34104046234546,
+        19.823454936497455
+      ],
+      "properties": {
+        "externalId": "d1P4Mge78M",
+        "title": "",
+        "description": "*玩家可能的出生位置。*",
+        "subcategoryExternalId": "xzni0AdY1n",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -86.32947976870335,
+        12.387890485388084
+      ],
+      "properties": {
+        "externalId": "IcuorECO4W",
+        "title": "",
+        "description": "*玩家可能的出生位置。*",
+        "subcategoryExternalId": "xzni0AdY1n",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -95.7514450866083,
+        -16.25158357149128
+      ],
+      "properties": {
+        "externalId": "lDDp5PkfxL",
+        "title": "",
+        "description": "*玩家可能的出生位置。*",
+        "subcategoryExternalId": "xzni0AdY1n",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -79.62427745654657,
+        -39.099292365833286
+      ],
+      "properties": {
+        "externalId": "2RVlnIZgVX",
+        "title": "",
+        "description": "*玩家可能的出生位置。*",
+        "subcategoryExternalId": "xzni0AdY1n",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -12.225433525901678,
+        -33.94677841484103
+      ],
+      "properties": {
+        "externalId": "mtHxMhwrga",
+        "title": "",
+        "description": "*玩家可能的出生位置。*",
+        "subcategoryExternalId": "xzni0AdY1n",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        9.913294797813961,
+        52.74819280087604
+      ],
+      "properties": {
+        "externalId": "Yrd4l9TQJG",
+        "title": "",
+        "description": "*玩家可能的出生位置。*",
+        "subcategoryExternalId": "xzni0AdY1n",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -32.75988168516503,
+        42.41126718890533
+      ],
+      "properties": {
+        "externalId": "CPVtMFFg7X",
+        "title": "集合舱口",
+        "description": "一个备用的、更快的、非定时撤离点。\n\n*每次使用需要突袭者舱口钥匙。*\n\n*夜间突袭期间突袭者舱口不可用。*",
+        "subcategoryExternalId": "Umd510iz9r",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        61.69154024392583,
+        -16.34923097075192
+      ],
+      "properties": {
+        "externalId": "bfSowE4XHK",
+        "title": "补给呼叫站",
+        "description": "通过信号弹呼叫补给投放，可能会提醒附近的玩家。\n\n*可能的生成位置。*",
+        "subcategoryExternalId": "PMAzkIBFLZ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        54.85583193353759,
+        11.662264430475034
+      ],
+      "properties": {
+        "externalId": "uLd6WErd8l",
+        "title": "补给呼叫站",
+        "description": "通过信号弹呼叫补给投放，可能会提醒附近的玩家。\n\n*可能的生成位置。*",
+        "subcategoryExternalId": "PMAzkIBFLZ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        30.84767774746217,
+        -39.06046084265669
+      ],
+      "properties": {
+        "externalId": "r0ihLDE1jV",
+        "title": "",
+        "description": "*玩家可能的出生位置。*",
+        "subcategoryExternalId": "xzni0AdY1n",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        28.849127537973118,
+        -16.913898436264788
+      ],
+      "properties": {
+        "externalId": "bh0GCd7wuk",
+        "title": "",
+        "description": "*玩家可能的出生位置。*",
+        "subcategoryExternalId": "xzni0AdY1n",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        20.53436166909495,
+        2.9580386460713015
+      ],
+      "properties": {
+        "externalId": "bbp3Xh5LKX",
+        "title": "",
+        "description": "一种主要用于制作医疗用品的稀有材料。\n\n*大毛蕊花可能的刷新位置。*",
+        "subcategoryExternalId": "HuD9QMzFJs",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        21.821144506663614,
+        5.407891589790182
+      ],
+      "properties": {
+        "externalId": "4QGAJjAT1b",
+        "title": "",
+        "description": "一种主要用于制作医疗用品的稀有材料。\n\n*大毛蕊花可能的刷新位置。*",
+        "subcategoryExternalId": "HuD9QMzFJs",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        32.58332823904732,
+        14.131694994681268
+      ],
+      "properties": {
+        "externalId": "h99gOkLol3",
+        "title": "",
+        "description": "一种主要用于制作医疗用品的稀有材料。\n\n*大毛蕊花可能的刷新位置。*",
+        "subcategoryExternalId": "HuD9QMzFJs",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        7.9004938092217,
+        36.47594887323257
+      ],
+      "properties": {
+        "externalId": "kVc00KSGV9",
+        "title": "",
+        "description": "一种主要用于制作医疗用品的稀有材料。\n\n*大毛蕊花可能的刷新位置。*",
+        "subcategoryExternalId": "HuD9QMzFJs",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        6.906161616554982,
+        37.55011385499235
+      ],
+      "properties": {
+        "externalId": "aJOKffrfvw",
+        "title": "",
+        "description": "一种主要用于制作医疗用品的稀有材料。\n\n*大毛蕊花可能的刷新位置。*",
+        "subcategoryExternalId": "HuD9QMzFJs",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        17.697590413417146,
+        44.092106844347825
+      ],
+      "properties": {
+        "externalId": "DHAB3EF45k",
+        "title": "",
+        "description": "一种主要用于制作医疗用品的稀有材料。\n\n*大毛蕊花可能的刷新位置。*",
+        "subcategoryExternalId": "HuD9QMzFJs",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -37.02369832629199,
+        -38.98629586316897
+      ],
+      "properties": {
+        "externalId": "CNHfZWWSqo",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "ghBhz7uzGB",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -81.70821674753714,
+        -7.500660774145743
+      ],
+      "properties": {
+        "externalId": "QlearzS8Gn",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "ghBhz7uzGB",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        94.10382291111824,
+        1.6835305128136895
+      ],
+      "properties": {
+        "externalId": "1HRC92np9a",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "ghBhz7uzGB",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        51.697378278462054,
+        -0.6561883059177234
+      ],
+      "properties": {
+        "externalId": "k3BhSHLJMS",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "ghBhz7uzGB",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        47.47836412179848,
+        0.5374617646263857
+      ],
+      "properties": {
+        "externalId": "UI1jSeBWW9",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "ghBhz7uzGB",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        41.51000263188482,
+        -3.021565163093385
+      ],
+      "properties": {
+        "externalId": "iNJMJ5xcgW",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "ghBhz7uzGB",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        39.122658035919386,
+        -1.5615537981057912
+      ],
+      "properties": {
+        "externalId": "kSPfWMWSjt",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "ghBhz7uzGB",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        42.580191588691804,
+        2.923544793095516
+      ],
+      "properties": {
+        "externalId": "XBcaATtY2i",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "ghBhz7uzGB",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        36.01721016837138,
+        30.36783143975208
+      ],
+      "properties": {
+        "externalId": "KtjMytxQT7",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "ghBhz7uzGB",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        29.007424169427395,
+        26.898707890046154
+      ],
+      "properties": {
+        "externalId": "F05HUb21D5",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "ghBhz7uzGB",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        6.239101863344274,
+        26.30711396943785
+      ],
+      "properties": {
+        "externalId": "BPxwrxMUnK",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "ghBhz7uzGB",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -60.86258265907824,
+        32.51667556979939
+      ],
+      "properties": {
+        "externalId": "Sz9ACtRnNd",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "ghBhz7uzGB",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -61.23278764043596,
+        42.15057748818214
+      ],
+      "properties": {
+        "externalId": "ujcd2RpfYw",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "ghBhz7uzGB",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -52.97258899406097,
+        45.24430408267139
+      ],
+      "properties": {
+        "externalId": "zOta9tsWdq",
+        "title": "武器箱",
+        "description": "包含各种武器和弹药。\n\n*武器箱可能的生成位置。*",
+        "subcategoryExternalId": "ghBhz7uzGB",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -90.21697600428716,
+        -39.08339579318947
+      ],
+      "properties": {
+        "externalId": "qul6mKWnBc",
+        "title": "医疗包",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成位置。*",
+        "subcategoryExternalId": "nRsFiJdkxW",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -89.82559427194407,
+        -37.20048065004979
+      ],
+      "properties": {
+        "externalId": "OHHrENn18v",
+        "title": "医疗包",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成位置。*",
+        "subcategoryExternalId": "nRsFiJdkxW",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -102.66061284736114,
+        -29.25883973773577
+      ],
+      "properties": {
+        "externalId": "2pOV3k1jR4",
+        "title": "医疗包",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成位置。*",
+        "subcategoryExternalId": "nRsFiJdkxW",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -77.84963832925946,
+        -11.441060719959594
+      ],
+      "properties": {
+        "externalId": "OwBDcbW1Wc",
+        "title": "医疗包",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成位置。*",
+        "subcategoryExternalId": "nRsFiJdkxW",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -92.55908832144155,
+        -3.8878710071594895
+      ],
+      "properties": {
+        "externalId": "ddFWIkCqUi",
+        "title": "医疗包",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成位置。*",
+        "subcategoryExternalId": "nRsFiJdkxW",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -23.13994587715868,
+        -1.6319918791190844
+      ],
+      "properties": {
+        "externalId": "Dx7AvKIoWt",
+        "title": "医疗包",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成位置。*",
+        "subcategoryExternalId": "nRsFiJdkxW",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -59.35550263606551,
+        32.99960069683645
+      ],
+      "properties": {
+        "externalId": "ccULoadJ2w",
+        "title": "医疗包",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成位置。*",
+        "subcategoryExternalId": "nRsFiJdkxW",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -69.72076686154614,
+        44.09017113130375
+      ],
+      "properties": {
+        "externalId": "8pfOHpTHDU",
+        "title": "医疗包",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成位置。*",
+        "subcategoryExternalId": "nRsFiJdkxW",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -41.9363475714249,
+        41.18927886165457
+      ],
+      "properties": {
+        "externalId": "eWRsliy21O",
+        "title": "医疗包",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成位置。*",
+        "subcategoryExternalId": "nRsFiJdkxW",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -26.39499122839453,
+        27.777274615085986
+      ],
+      "properties": {
+        "externalId": "Qf86FExZYC",
+        "title": "医疗包",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成位置。*",
+        "subcategoryExternalId": "nRsFiJdkxW",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        13.052734884850707,
+        27.98860021448121
+      ],
+      "properties": {
+        "externalId": "8EBBPKBnmW",
+        "title": "医疗包",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成位置。*",
+        "subcategoryExternalId": "nRsFiJdkxW",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        24.243609418808006,
+        31.003256481126996
+      ],
+      "properties": {
+        "externalId": "66dLQs3jb6",
+        "title": "医疗包",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成位置。*",
+        "subcategoryExternalId": "nRsFiJdkxW",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        79.32540012544422,
+        -20.70582184820711
+      ],
+      "properties": {
+        "externalId": "VKyvVc0RI7",
+        "title": "医疗包",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成位置。*",
+        "subcategoryExternalId": "nRsFiJdkxW",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        68.53045718368921,
+        -3.8271722267371473
+      ],
+      "properties": {
+        "externalId": "pVFnpSTxU8",
+        "title": "医疗包",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成位置。*",
+        "subcategoryExternalId": "nRsFiJdkxW",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        48.11753271118235,
+        1.7970306261945694
+      ],
+      "properties": {
+        "externalId": "4waIAuJMlk",
+        "title": "医疗包",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成位置。*",
+        "subcategoryExternalId": "nRsFiJdkxW",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        40.87186402454873,
+        2.9362206498252448
+      ],
+      "properties": {
+        "externalId": "Nxdi64foxn",
+        "title": "医疗包",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成位置。*",
+        "subcategoryExternalId": "nRsFiJdkxW",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        41.51551479620022,
+        7.586308253072659
+      ],
+      "properties": {
+        "externalId": "VBvKg9UH2I",
+        "title": "医疗包",
+        "description": "包含各种医疗用品。\n\n*医疗包可能的生成位置。*",
+        "subcategoryExternalId": "nRsFiJdkxW",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -97.67909138307672,
+        -33.581920033887464
+      ],
+      "properties": {
+        "externalId": "KRrxWeW2Co",
+        "title": "弹药箱",
+        "description": "包含各种武器弹药。\n\n*弹药箱可能的生成位置。*",
+        "subcategoryExternalId": "sjKyiGejW6",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -98.44048145275835,
+        -30.673577660141206
+      ],
+      "properties": {
+        "externalId": "7ZbIjDSh9h",
+        "title": "弹药箱",
+        "description": "包含各种武器弹药。\n\n*弹药箱可能的生成位置。*",
+        "subcategoryExternalId": "sjKyiGejW6",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -87.40695969168054,
+        -21.05413960170786
+      ],
+      "properties": {
+        "externalId": "2kg8vIl7yh",
+        "title": "弹药箱",
+        "description": "包含各种武器弹药。\n\n*弹药箱可能的生成位置。*",
+        "subcategoryExternalId": "sjKyiGejW6",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -74.58929046245729,
+        42.80543028415758
+      ],
+      "properties": {
+        "externalId": "nBD9SaVh4k",
+        "title": "弹药箱",
+        "description": "包含各种武器弹药。\n\n*弹药箱可能的生成位置。*",
+        "subcategoryExternalId": "sjKyiGejW6",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -44.688194011694776,
+        34.70479187762342
+      ],
+      "properties": {
+        "externalId": "74zt8At59V",
+        "title": "弹药箱",
+        "description": "包含各种武器弹药。\n\n*弹药箱可能的生成位置。*",
+        "subcategoryExternalId": "sjKyiGejW6",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -0.12883078587472596,
+        -24.626316664429794
+      ],
+      "properties": {
+        "externalId": "HagDymNHOC",
+        "title": "弹药箱",
+        "description": "包含各种武器弹药。\n\n*弹药箱可能的生成位置。*",
+        "subcategoryExternalId": "sjKyiGejW6",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        18.655420138263423,
+        -27.64675412647552
+      ],
+      "properties": {
+        "externalId": "eXsRtwBTIw",
+        "title": "弹药箱",
+        "description": "包含各种武器弹药。\n\n*弹药箱可能的生成位置。*",
+        "subcategoryExternalId": "sjKyiGejW6",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        31.977904508541002,
+        -16.53560234051598
+      ],
+      "properties": {
+        "externalId": "uH5rEAwcln",
+        "title": "弹药箱",
+        "description": "包含各种武器弹药。\n\n*弹药箱可能的生成位置。*",
+        "subcategoryExternalId": "sjKyiGejW6",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        55.56605520037118,
+        -17.664303825424867
+      ],
+      "properties": {
+        "externalId": "NJGMw0gzX9",
+        "title": "弹药箱",
+        "description": "包含各种武器弹药。\n\n*弹药箱可能的生成位置。*",
+        "subcategoryExternalId": "sjKyiGejW6",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        51.71735455286969,
+        -1.1009993289265623
+      ],
+      "properties": {
+        "externalId": "A8YG69WXBo",
+        "title": "弹药箱",
+        "description": "包含各种武器弹药。\n\n*弹药箱可能的生成位置。*",
+        "subcategoryExternalId": "sjKyiGejW6",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        14.798732319419315,
+        45.30389035097289
+      ],
+      "properties": {
+        "externalId": "KEOayJlZB4",
+        "title": "弹药箱",
+        "description": "包含各种武器弹药。\n\n*弹药箱可能的生成位置。*",
+        "subcategoryExternalId": "sjKyiGejW6",
+        "imageId": null,
+        "imagePath": ""
+      }
+    }
+  ]
+}

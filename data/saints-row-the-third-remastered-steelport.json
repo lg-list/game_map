@@ -1,0 +1,6614 @@
+{
+  "metadata": {
+    "externalId": "rG5zULwjuM",
+    "name": "Steelport",
+    "slug": "steelport",
+    "baseTilePath": "https://storage-cdn.wemod.com/maps/66647653-e4f4-455a-96b5-8893218f1ee1/tiles",
+    "isChecklistPublished": true,
+    "isInActiveDevelopment": false,
+    "backgroundColor": "#5c8484",
+    "minZoom": 1,
+    "maxZoom": 7,
+    "initialZoom": null,
+    "tmsEnabled": false,
+    "categories": [
+      {
+        "externalId": "BLdChJy1oA",
+        "gameMapExternalId": "rG5zULwjuM",
+        "title": "未命名分类",
+        "color": "#b37756",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "aBkeQDVcyg",
+        "gameMapExternalId": "rG5zULwjuM",
+        "title": "未命名分类",
+        "color": "#5d9353",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "74HwBGH5dr",
+        "gameMapExternalId": "rG5zULwjuM",
+        "title": "未命名子类",
+        "color": "#7b6aae",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "ZrMC3lqbyc",
+        "gameMapExternalId": "rG5zULwjuM",
+        "title": "未命名分类",
+        "color": "#d15a15",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "subcategories": [
+      {
+        "externalId": "UWCVxMVX9k",
+        "categoryExternalId": "BLdChJy1oA",
+        "title": "未命名子分类",
+        "icon": "target",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "mCB3pJq2vK",
+        "categoryExternalId": "BLdChJy1oA",
+        "title": "未命名子分类",
+        "icon": "roundies:transportation-vehicle-car",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "syPWWBprPp",
+        "categoryExternalId": "BLdChJy1oA",
+        "title": "未命名子分类",
+        "icon": "roundies:airport-and-hotels-buildings",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "QfyTpFKITJ",
+        "categoryExternalId": "BLdChJy1oA",
+        "title": "未命名子分类",
+        "icon": "roundies:home-interior-clothing-hanger",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "pkgODNrjwW",
+        "categoryExternalId": "BLdChJy1oA",
+        "title": "未命名子分类",
+        "icon": "scalpel",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "dMC80OlxH5",
+        "categoryExternalId": "BLdChJy1oA",
+        "title": "Rusty's Needles",
+        "icon": "paint",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "FDTuSeMAwF",
+        "categoryExternalId": "BLdChJy1oA",
+        "title": "未命名子分类",
+        "icon": "warehouse-alt",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "n63xRrEgUA",
+        "categoryExternalId": "aBkeQDVcyg",
+        "title": "未命名子分类",
+        "icon": "lightbulb-exclamation",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "iDulGLV4Og",
+        "categoryExternalId": "aBkeQDVcyg",
+        "title": "未命名子分类",
+        "icon": "lightbulb-dollar",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "O8dfRp7yFH",
+        "categoryExternalId": "aBkeQDVcyg",
+        "title": "未命名子分类",
+        "icon": "video-camera-alt",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "fz2tPLAGQV",
+        "categoryExternalId": "aBkeQDVcyg",
+        "title": "未命名子分类",
+        "icon": "pills",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "aCdGBqhw5y",
+        "categoryExternalId": "74HwBGH5dr",
+        "title": "未命名子分类",
+        "icon": "map-marker-smile",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "XnvkUnnKq0",
+        "categoryExternalId": "74HwBGH5dr",
+        "title": "未命名子分类",
+        "icon": "car-mechanic",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "2JAF41cM6g",
+        "categoryExternalId": "ZrMC3lqbyc",
+        "title": "未命名子分类",
+        "icon": "hand-horns",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "YPz53SW4tu",
+        "categoryExternalId": "ZrMC3lqbyc",
+        "title": "未命名子分类",
+        "icon": "motorcycle",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "Drd7eobWsg",
+        "categoryExternalId": "ZrMC3lqbyc",
+        "title": "未命名子分类",
+        "icon": "running",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "6SnJgY6jbG",
+        "categoryExternalId": "ZrMC3lqbyc",
+        "title": "未命名子分类",
+        "icon": "roundies:transportation-airplane",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "dT8AaD3klv",
+        "categoryExternalId": "ZrMC3lqbyc",
+        "title": "未命名子分类",
+        "icon": "search-location",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "FLgfzUBQ93",
+        "categoryExternalId": "ZrMC3lqbyc",
+        "title": "未命名子分类",
+        "icon": "car-tilt",
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "playerLocationDeltas": null
+  },
+  "features": [
+    {
+      "coordinates": [
+        -103.30758964788417,
+        -13.761478387263118
+      ],
+      "properties": {
+        "subcategoryExternalId": "n63xRrEgUA",
+        "imageId": 1288659,
+        "externalId": "kZ00xY502e",
+        "title": "收集品",
+        "description": "# *需要更多润滑剂*\n\n可以在建筑物后门附近找到",
+        "imagePath": "/game_map_pin/1288659/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -110.92063878249236,
+        -16.361953264258993
+      ],
+      "properties": {
+        "subcategoryExternalId": "aCdGBqhw5y",
+        "externalId": "MW5YobiWTu",
+        "title": "涂鸦巨石",
+        "description": "",
+        "imageId": 1288662,
+        "imagePath": "/game_map_pin/1288662/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -121.6094483143984,
+        -0.30368333420174726
+      ],
+      "properties": {
+        "subcategoryExternalId": "iDulGLV4Og",
+        "imageId": 1288669,
+        "externalId": "AUYuMzbaL4",
+        "title": "",
+        "description": "*叮当响*\n\n可在房屋后甲板找到。",
+        "imagePath": "/game_map_pin/1288669/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -110.74922392739676,
+        -8.249208745247097
+      ],
+      "properties": {
+        "subcategoryExternalId": "mCB3pJq2vK",
+        "imageId": 1288674,
+        "externalId": "i4jyjkCwcC",
+        "title": "改装店（可购买）",
+        "description": "快速访问你改装过的座驾。",
+        "imagePath": "/game_map_pin/1288674/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -97.21295058712775,
+        0.7458249942560424
+      ],
+      "properties": {
+        "subcategoryExternalId": "O8dfRp7yFH",
+        "imageId": null,
+        "externalId": "mGXcgPsX4b",
+        "title": "",
+        "description": "# *保持姿势*\n\n为NPC拍摄一张非常想要的照片。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -101.48562477723158,
+        -2.0771174439341484
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "imageId": 1288706,
+        "externalId": "TkLhDy9dgY",
+        "title": "",
+        "description": "*钱从哪来并不重要，对吧？*",
+        "imagePath": "/game_map_pin/1288706/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -98.59464333616032,
+        10.236420062466657
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "imageId": 1288713,
+        "externalId": "salsCofOkv",
+        "title": "帮派行动",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imagePath": "/game_map_pin/1288713/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -109.11562954891365,
+        10.914618670822046
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "imageId": 1288719,
+        "externalId": "vadBtt8A7w",
+        "title": "",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imagePath": "/game_map_pin/1288719/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -87.12745165875859,
+        -16.52485073329283
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "imageId": 1288741,
+        "externalId": "Y03zSzOhS2",
+        "title": "",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imagePath": "/game_map_pin/1288741/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -83.9748735246132,
+        -20.634981814972384
+      ],
+      "properties": {
+        "subcategoryExternalId": "fz2tPLAGQV",
+        "imageId": 1288748,
+        "externalId": "NGuYRoneGg",
+        "title": "",
+        "description": "# *还要更多毒品吗？*\n\n可在悬崖区域附近的洞穴找到。",
+        "imagePath": "/game_map_pin/1288748/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -79.69874960642606,
+        -5.717296674119566
+      ],
+      "properties": {
+        "subcategoryExternalId": "fz2tPLAGQV",
+        "imageId": 1288753,
+        "externalId": "G3koRyqUmN",
+        "title": "",
+        "description": "# *还要更多毒品吗？*\n\n可在悬崖区域附近的洞穴找到。",
+        "imagePath": "/game_map_pin/1288753/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -88.37215383894276,
+        -12.95285796276868
+      ],
+      "properties": {
+        "subcategoryExternalId": "n63xRrEgUA",
+        "imageId": 1289423,
+        "externalId": "vOLH3AfQin",
+        "title": "性玩偶",
+        "description": "# *需要更多润滑油*\n\n可在电线下方的垃圾箱找到。",
+        "imagePath": "/game_map_pin/1289423/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -98.29590934016765,
+        4.761223630982302
+      ],
+      "properties": {
+        "subcategoryExternalId": "n63xRrEgUA",
+        "imageId": 1289426,
+        "externalId": "mHtlMGt821",
+        "title": "性玩偶",
+        "description": "# *需要更多润滑油*\n\n可在房屋后院找到。",
+        "imagePath": "/game_map_pin/1289426/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -125.49995559509053,
+        26.58553871479103
+      ],
+      "properties": {
+        "subcategoryExternalId": "iDulGLV4Og",
+        "imageId": 1289432,
+        "externalId": "7nYIlIDtwT",
+        "title": "",
+        "description": "# *叮当响*\n\n可在餐厅内找到。",
+        "imagePath": "/game_map_pin/1289432/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -123.40992513822505,
+        37.27977437877301
+      ],
+      "properties": {
+        "subcategoryExternalId": "QfyTpFKITJ",
+        "imageId": 1289433,
+        "externalId": "gbGWF53c7w",
+        "title": "圣徒星球",
+        "description": "",
+        "imagePath": "/game_map_pin/1289433/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -124.76149199465839,
+        33.97107109062256
+      ],
+      "properties": {
+        "subcategoryExternalId": "fz2tPLAGQV",
+        "imageId": 1289435,
+        "externalId": "xFMy0VZSmw",
+        "title": "",
+        "description": "# *还要更多毒品吗？*\n\n可在垃圾箱顶部找到。",
+        "imagePath": "/game_map_pin/1289435/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -129.25415039062503,
+        33.358061612778876
+      ],
+      "properties": {
+        "subcategoryExternalId": "O8dfRp7yFH",
+        "imageId": 1289437,
+        "externalId": "MXbfe8p1lH",
+        "title": "",
+        "description": "# *保持姿势*\n\n为NPC拍摄一张非常想要的照片。",
+        "imagePath": "/game_map_pin/1289437/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -131.5210194139764,
+        34.632905076274476
+      ],
+      "properties": {
+        "subcategoryExternalId": "fz2tPLAGQV",
+        "imageId": 1289446,
+        "externalId": "xpWHJQcKYG",
+        "title": "",
+        "description": "# *还要更多毒品吗？*\n\n可在建筑物顶部找到。",
+        "imagePath": "/game_map_pin/1289446/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -135.9956958649012,
+        39.7557547966017
+      ],
+      "properties": {
+        "subcategoryExternalId": "iDulGLV4Og",
+        "imageId": 1289449,
+        "externalId": "8bT8k15z48",
+        "title": "",
+        "description": "# *叮当响*\n\n可在建筑物顶部找到。",
+        "imagePath": "/game_map_pin/1289449/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -106.68672310090484,
+        37.48920329702779
+      ],
+      "properties": {
+        "subcategoryExternalId": "UWCVxMVX9k",
+        "imageId": 1289460,
+        "externalId": "JAFEXzQC9p",
+        "title": "友军火力",
+        "description": "",
+        "imagePath": "/game_map_pin/1289460/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -90.15371287784856,
+        38.49360844559265
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "imageId": 1289467,
+        "externalId": "QgmmkXaEX9",
+        "title": "",
+        "description": "*钱从哪来并不重要，对吧？*",
+        "imagePath": "/game_map_pin/1289467/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -82.27089776626788,
+        33.78334396547208
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "imageId": 1289491,
+        "externalId": "i40NTVjhJG",
+        "title": "",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imagePath": "/game_map_pin/1289491/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -87.13373403192537,
+        37.27497828469475
+      ],
+      "properties": {
+        "subcategoryExternalId": "O8dfRp7yFH",
+        "imageId": 1289492,
+        "externalId": "si1HFQXIPu",
+        "title": "",
+        "description": "# *保持姿势*\n\n为NPC拍摄一张非常想要的照片。",
+        "imagePath": "/game_map_pin/1289492/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -62.60425487606259,
+        47.72982851533748
+      ],
+      "properties": {
+        "subcategoryExternalId": "iDulGLV4Og",
+        "imageId": 1289523,
+        "externalId": "0DG13d5nHz",
+        "title": "",
+        "description": "# *叮当响*\n\n可在建筑物之间找到。",
+        "imagePath": "/game_map_pin/1289523/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -47.41515343541163,
+        43.28461683340236
+      ],
+      "properties": {
+        "subcategoryExternalId": "mCB3pJq2vK",
+        "externalId": "TNBpH0KYvh",
+        "title": "轮辋工作",
+        "description": "",
+        "imageId": 1289529,
+        "imagePath": "/game_map_pin/1289529/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -92.28838429131507,
+        57.4122513548503
+      ],
+      "properties": {
+        "subcategoryExternalId": "iDulGLV4Og",
+        "imageId": 1289552,
+        "externalId": "Ufjxo659MQ",
+        "title": "",
+        "description": "# *叮当响*\n\n可在大树附近找到。",
+        "imagePath": "/game_map_pin/1289552/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -91.35210602188766,
+        59.61901720081886
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "imageId": 1289555,
+        "externalId": "FyAffRbf2t",
+        "title": "",
+        "description": "*钱从哪来并不重要，对吧？*",
+        "imagePath": "/game_map_pin/1289555/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -77.31843756325586,
+        68.07698182234405
+      ],
+      "properties": {
+        "subcategoryExternalId": "n63xRrEgUA",
+        "imageId": 1289565,
+        "externalId": "DOf3DFixqt",
+        "title": "性玩偶",
+        "description": "# *需要更多润滑油*\n\n可在树林后面的路边找到",
+        "imagePath": "/game_map_pin/1289565/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -71.53323305499548,
+        60.797823582784865
+      ],
+      "properties": {
+        "subcategoryExternalId": "pkgODNrjwW",
+        "imageId": 1289570,
+        "externalId": "kZaB4wjrjl",
+        "title": "",
+        "description": "",
+        "imagePath": "/game_map_pin/1289570/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -51.34307384949895,
+        65.59601029131102
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "imageId": 1289573,
+        "externalId": "lCzsJ6h5dY",
+        "title": "",
+        "description": "*钱从哪来并不重要，对吧？*",
+        "imagePath": "/game_map_pin/1289573/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -67.76441865836948,
+        19.309253647137364
+      ],
+      "properties": {
+        "subcategoryExternalId": "O8dfRp7yFH",
+        "imageId": 1289576,
+        "externalId": "10ZQBnIXco",
+        "title": "",
+        "description": "# *保持姿势*\n\n为NPC拍摄一张非常想要的照片。",
+        "imagePath": "/game_map_pin/1289576/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -64.66663213297224,
+        -0.11443194906138003
+      ],
+      "properties": {
+        "subcategoryExternalId": "mCB3pJq2vK",
+        "imageId": null,
+        "externalId": "1E6IWP9L2w",
+        "title": "轮辋工作",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -52.22799138334834,
+        3.330481561792368
+      ],
+      "properties": {
+        "subcategoryExternalId": "iDulGLV4Og",
+        "imageId": 1289585,
+        "externalId": "YQxRyRG8XY",
+        "title": "",
+        "description": "# *叮当响*\n\n可在炼油厂旁边的平台顶部找到",
+        "imagePath": "/game_map_pin/1289585/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -35.23437609803023,
+        18.93009555148634
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "imageId": 1289589,
+        "externalId": "q3QTmrq0Yn",
+        "title": "",
+        "description": "*钱从哪来并不重要，对吧？*",
+        "imagePath": "/game_map_pin/1289589/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -68.15049569954493,
+        -17.182778683067873
+      ],
+      "properties": {
+        "subcategoryExternalId": "iDulGLV4Og",
+        "imageId": 1289592,
+        "externalId": "Z350tt2a7e",
+        "title": "",
+        "description": "# *叮当响*\n\n可在车厢内找到",
+        "imagePath": "/game_map_pin/1289592/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -62.62386414714356,
+        -11.763227196251208
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "imageId": 1289594,
+        "externalId": "YNyKRxZCqK",
+        "title": "帮派行动",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imagePath": "/game_map_pin/1289594/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -41.72329214915958,
+        -15.217953855319413
+      ],
+      "properties": {
+        "subcategoryExternalId": "fz2tPLAGQV",
+        "imageId": 1289605,
+        "externalId": "T0u7AkWqIS",
+        "title": "",
+        "description": "# *还要更多毒品吗？*\n\n可在其中一个集装箱内找到。",
+        "imagePath": "/game_map_pin/1289605/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -54.649180255786845,
+        -36.67567904822416
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "imageId": 1289607,
+        "externalId": "kSQm813Og4",
+        "title": "帮派行动",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imagePath": "/game_map_pin/1289607/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -62.55061785967442,
+        -49.45189674486229
+      ],
+      "properties": {
+        "subcategoryExternalId": "O8dfRp7yFH",
+        "imageId": 1289615,
+        "externalId": "mc6AcALZZw",
+        "title": "",
+        "description": "# *保持姿势*\n\n为NPC拍摄一张非常想要的照片。",
+        "imagePath": "/game_map_pin/1289615/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -52.69916848656542,
+        -65.63831771724978
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "imageId": null,
+        "externalId": "3j1tnFVyMq",
+        "title": "",
+        "description": "*钱从哪来并不重要，对吧？*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -72.61337345387827,
+        -62.71048410869899
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "imageId": 1289619,
+        "externalId": "VLiwwe7INP",
+        "title": "帮派行动",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imagePath": "/game_map_pin/1289619/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -74.91004067504254,
+        -62.7335638170131
+      ],
+      "properties": {
+        "subcategoryExternalId": "n63xRrEgUA",
+        "imageId": 1289623,
+        "externalId": "DxGaXzfPD8",
+        "title": "性玩偶",
+        "description": "# *需要更多润滑油*\n\n可在集装箱后面找到。",
+        "imagePath": "/game_map_pin/1289623/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -50.72183419613039,
+        -68.5955387045238
+      ],
+      "properties": {
+        "subcategoryExternalId": "iDulGLV4Og",
+        "imageId": 1289629,
+        "externalId": "oxrRJcSwBC",
+        "title": "",
+        "description": "# *叮当响*\n\n可在房屋后甲板找到。",
+        "imagePath": "/game_map_pin/1289629/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -43.24596034867266,
+        -71.16388746217403
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "imageId": null,
+        "externalId": "oGRZNtOE6X",
+        "title": "帮派行动",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -37.874543529697036,
+        -71.77167806732125
+      ],
+      "properties": {
+        "subcategoryExternalId": "fz2tPLAGQV",
+        "imageId": 1289637,
+        "externalId": "gtAb7l7Xm2",
+        "title": "",
+        "description": "# *还要更多毒品吗？*\n\n可在台阶底部找到",
+        "imagePath": "/game_map_pin/1289637/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -28.500417034231333,
+        -65.52139324665991
+      ],
+      "properties": {
+        "subcategoryExternalId": "n63xRrEgUA",
+        "imageId": 1289640,
+        "externalId": "oLJ0u4sWia",
+        "title": "性玩偶",
+        "description": "# *需要更多润滑油*\n\n可在长廊下方靠近ATM处找到。",
+        "imagePath": "/game_map_pin/1289640/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -120.12034713809429,
+        32.51734852587224
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "imageId": 1289980,
+        "externalId": "7SIRB4zMlz",
+        "title": "",
+        "description": "*钱从哪来并不重要，对吧？*",
+        "imagePath": "/game_map_pin/1289980/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -155.33880987938096,
+        36.74305829934954
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "imageId": 1289982,
+        "externalId": "HxkGJDHufI",
+        "title": "",
+        "description": "*钱从哪来并不重要，对吧？*",
+        "imagePath": "/game_map_pin/1289982/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -160.44433593750003,
+        37.23907530202184
+      ],
+      "properties": {
+        "subcategoryExternalId": "aCdGBqhw5y",
+        "externalId": "DHRDkSCXqU",
+        "title": "泰坦尼克号",
+        "description": "*我在飞翔，杰克* - 泰坦尼克号",
+        "imageId": 1289984,
+        "imagePath": "/game_map_pin/1289984/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -141.893715017812,
+        -31.164538048812506
+      ],
+      "properties": {
+        "subcategoryExternalId": "O8dfRp7yFH",
+        "imageId": 1290002,
+        "externalId": "uGeXxJhkcN",
+        "title": "",
+        "description": "# *保持姿势*\n\n为NPC拍摄一张非常想要的照片。",
+        "imagePath": "/game_map_pin/1290002/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -138.41569152443788,
+        -39.606170120704185
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "imageId": 1290003,
+        "externalId": "peXLmrSAcQ",
+        "title": "",
+        "description": "*钱从哪来并不重要，对吧？*",
+        "imagePath": "/game_map_pin/1290003/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -121.63296223279637,
+        -42.019413703626974
+      ],
+      "properties": {
+        "subcategoryExternalId": "fz2tPLAGQV",
+        "imageId": 1290018,
+        "externalId": "PPC2gJXaEO",
+        "title": "",
+        "description": "# *还要更多毒品吗？*\n\n可在建筑物之间找到。",
+        "imagePath": "/game_map_pin/1290018/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -118.60942165942281,
+        -47.970923100947815
+      ],
+      "properties": {
+        "subcategoryExternalId": "n63xRrEgUA",
+        "imageId": 1290022,
+        "externalId": "iwPM44GEIn",
+        "title": "性玩偶",
+        "description": "# *需要更多润滑油*\n\n可在铁轨旁的车厢顶部找到",
+        "imagePath": "/game_map_pin/1290022/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -104.2336731710043,
+        -62.23432723463624
+      ],
+      "properties": {
+        "subcategoryExternalId": "n63xRrEgUA",
+        "imageId": 1290024,
+        "externalId": "rEfbqIOlFG",
+        "title": "性玩偶",
+        "description": "# *需要更多润滑剂*\n\n可以在建筑物后面垃圾箱旁边找到。",
+        "imagePath": "/game_map_pin/1290024/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -90.32942668927791,
+        -66.37065694399112
+      ],
+      "properties": {
+        "subcategoryExternalId": "iDulGLV4Og",
+        "imageId": 1290027,
+        "externalId": "f9lv98earb",
+        "title": "金钱包裹",
+        "description": "# *金钱声*\n\n可以在建筑物之间的垃圾箱旁边找到。",
+        "imagePath": "/game_map_pin/1290027/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -94.59052940215571,
+        -76.27016048083784
+      ],
+      "properties": {
+        "subcategoryExternalId": "O8dfRp7yFH",
+        "imageId": 1290032,
+        "externalId": "38U6PLBsaL",
+        "title": "",
+        "description": "# *保持姿势*\n\n为NPC拍摄一张非常想要的照片。",
+        "imagePath": "/game_map_pin/1290032/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -93.09727866892027,
+        -79.25083297067933
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "imageId": 1290036,
+        "externalId": "HaBhvJWHbv",
+        "title": "帮派行动",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imagePath": "/game_map_pin/1290036/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -96.32812500000001,
+        -79.29856025794246
+      ],
+      "properties": {
+        "subcategoryExternalId": "aCdGBqhw5y",
+        "imageId": 1290041,
+        "externalId": "iUZUxcGFMa",
+        "title": "地标",
+        "description": "*我是说..对你的床来说有点太大了*",
+        "imagePath": "/game_map_pin/1290041/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -83.02678149957487,
+        -77.30936415403013
+      ],
+      "properties": {
+        "subcategoryExternalId": "iDulGLV4Og",
+        "imageId": 1290045,
+        "externalId": "xBw6Ic2NJf",
+        "title": "",
+        "description": "# *叮当响*\n\n可在集装箱内找到。打破篱笆闯进去。",
+        "imagePath": "/game_map_pin/1290045/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -80.80382269479554,
+        -50.243996869394614
+      ],
+      "properties": {
+        "subcategoryExternalId": "fz2tPLAGQV",
+        "imageId": 1290051,
+        "externalId": "KpqIY5moe7",
+        "title": "",
+        "description": "# *还要更多毒品吗？*\n\n可在高速公路下找到。",
+        "imagePath": "/game_map_pin/1290051/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -78.28707906651505,
+        -55.71656115492599
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "imageId": 1290053,
+        "externalId": "LjAVCSC41r",
+        "title": "",
+        "description": "*钱从哪来并不重要，对吧？*",
+        "imagePath": "/game_map_pin/1290053/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -102.51043004338683,
+        -45.21968175188454
+      ],
+      "properties": {
+        "subcategoryExternalId": "mCB3pJq2vK",
+        "imageId": null,
+        "externalId": "Eosn8kI0CF",
+        "title": "轮辋工作",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -99.23934579121965,
+        -55.512803535233374
+      ],
+      "properties": {
+        "subcategoryExternalId": "dMC80OlxH5",
+        "imageId": null,
+        "externalId": "beJuztvnG9",
+        "title": "锈针纹身店",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -94.58393317626826,
+        -68.29882899847766
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "imageId": 1290167,
+        "externalId": "v2wE3BWo1L",
+        "title": "",
+        "description": "*钱从哪来并不重要，对吧？*",
+        "imagePath": "/game_map_pin/1290167/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -88.5060885618451,
+        -69.00221707531855
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "imageId": 1290169,
+        "externalId": "G1O5QWR017",
+        "title": "",
+        "description": "*钱从哪来并不重要，对吧？*",
+        "imagePath": "/game_map_pin/1290169/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -46.48001199483058,
+        -68.25691345439962
+      ],
+      "properties": {
+        "subcategoryExternalId": "UWCVxMVX9k",
+        "imageId": null,
+        "externalId": "uRMxJ09AWw",
+        "title": "友军火力",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -38.31264979738937,
+        -52.1873239907116
+      ],
+      "properties": {
+        "subcategoryExternalId": "pkgODNrjwW",
+        "imageId": null,
+        "externalId": "tUdZt5cDrV",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -50.452959635332654,
+        -43.64025091795802
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "imageId": 1290174,
+        "externalId": "KxZs8dnFcs",
+        "title": "",
+        "description": "*钱从哪来并不重要，对吧？*",
+        "imagePath": "/game_map_pin/1290174/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -64.88080861796138,
+        -27.39878530117842
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "imageId": 1290176,
+        "externalId": "YSn4BzMLc5",
+        "title": "",
+        "description": "*钱从哪来并不重要，对吧？*",
+        "imagePath": "/game_map_pin/1290176/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -48.81134469580973,
+        -14.471244387230241
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "imageId": null,
+        "externalId": "H4prJYjFt7",
+        "title": "友好火力",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -17.002741241921917,
+        -60.49453787929096
+      ],
+      "properties": {
+        "subcategoryExternalId": "FDTuSeMAwF",
+        "imageId": 1290182,
+        "externalId": "CpvU1S57Jo",
+        "title": "",
+        "description": "*像小提琴一样悠闲..等等，这句话是这么说的吗？*",
+        "imagePath": "/game_map_pin/1290182/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -9.752553543637866,
+        -61.87354282241321
+      ],
+      "properties": {
+        "subcategoryExternalId": "O8dfRp7yFH",
+        "imageId": 1290189,
+        "externalId": "DY4I7PDSAk",
+        "title": "",
+        "description": "# *保持姿势*\n\n为NPC拍摄一张非常想要的照片。",
+        "imagePath": "/game_map_pin/1290189/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -2.7495182628099513,
+        -64.97099531663999
+      ],
+      "properties": {
+        "subcategoryExternalId": "fz2tPLAGQV",
+        "imageId": 1290193,
+        "externalId": "2NficS4acP",
+        "title": "",
+        "description": "# *还要更多毒品吗？*\n\n可在垃圾箱后面找到。",
+        "imagePath": "/game_map_pin/1290193/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -11.432766754408739,
+        -70.5312613426357
+      ],
+      "properties": {
+        "subcategoryExternalId": "n63xRrEgUA",
+        "imageId": 1290199,
+        "externalId": "AgS2tMAiej",
+        "title": "性玩偶",
+        "description": "# *需要更多润滑剂*\n\n可以在高速公路附近的建筑物之间找到。",
+        "imagePath": "/game_map_pin/1290199/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        26.351137183332227,
+        -70.96268314495771
+      ],
+      "properties": {
+        "subcategoryExternalId": "iDulGLV4Og",
+        "imageId": 1290205,
+        "externalId": "axmD43yMC3",
+        "title": "",
+        "description": "# *叮当响*\n\n可在房屋后面找到",
+        "imagePath": "/game_map_pin/1290205/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        19.36317008853581,
+        -56.48362735968045
+      ],
+      "properties": {
+        "subcategoryExternalId": "iDulGLV4Og",
+        "imageId": 1290209,
+        "externalId": "QvdXSvRbwx",
+        "title": "",
+        "description": "# *叮当响*\n\n可在建筑物之间靠近花坛处找到。",
+        "imagePath": "/game_map_pin/1290209/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -11.088365093703487,
+        -57.15483496600124
+      ],
+      "properties": {
+        "subcategoryExternalId": "fz2tPLAGQV",
+        "imageId": 1290224,
+        "externalId": "eS3q80WyYc",
+        "title": "",
+        "description": "# *还要更多毒品吗？*\n\n可在建筑物后面靠近垃圾箱处找到。",
+        "imagePath": "/game_map_pin/1290224/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -22.386474403414965,
+        -46.64882903616257
+      ],
+      "properties": {
+        "subcategoryExternalId": "O8dfRp7yFH",
+        "imageId": 1290226,
+        "externalId": "ctzdZwZwrX",
+        "title": "",
+        "description": "# *保持姿势*\n\n为NPC拍摄一张非常想要的照片。",
+        "imagePath": "/game_map_pin/1290226/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        18.57720261962132,
+        -44.77060579284527
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "imageId": 1290247,
+        "externalId": "7GOIbELXAu",
+        "title": "帮派行动",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imagePath": "/game_map_pin/1290247/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        18.8525390625,
+        -44.52001001133986
+      ],
+      "properties": {
+        "subcategoryExternalId": "fz2tPLAGQV",
+        "imageId": 1290248,
+        "externalId": "deDzbNdP4v",
+        "title": "",
+        "description": "# *还要更多毒品吗？*\n\n可在帮派行动附近的草地区域找到",
+        "imagePath": "/game_map_pin/1290248/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        35.51224882079844,
+        -16.846828874850733
+      ],
+      "properties": {
+        "subcategoryExternalId": "n63xRrEgUA",
+        "imageId": 1290251,
+        "externalId": "bX2r1IOae3",
+        "title": "",
+        "description": "# *需要更多润滑油*\n\n可在小巷中找到",
+        "imagePath": "/game_map_pin/1290251/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -85.21440872073525,
+        26.273297951092136
+      ],
+      "properties": {
+        "subcategoryExternalId": "dMC80OlxH5",
+        "imageId": null,
+        "externalId": "AtcBmTN6pW",
+        "title": "锈针纹身店",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        54.43874386922387,
+        25.24535983939016
+      ],
+      "properties": {
+        "subcategoryExternalId": "O8dfRp7yFH",
+        "externalId": "3RMzGC2qDI",
+        "title": "",
+        "description": "# *保持姿势*\n\n为NPC拍摄一张非常想要的照片。",
+        "imageId": 1290272,
+        "imagePath": "/game_map_pin/1290272/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        57.8494352030833,
+        47.95173290546682
+      ],
+      "properties": {
+        "subcategoryExternalId": "iDulGLV4Og",
+        "imageId": 1290273,
+        "externalId": "tVn6IEyYEf",
+        "title": "",
+        "description": "# *叮当响*\n\n可在建筑物后面找到",
+        "imagePath": "/game_map_pin/1290273/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        56.72230270376148,
+        56.81527568792975
+      ],
+      "properties": {
+        "subcategoryExternalId": "n63xRrEgUA",
+        "externalId": "J751p4qUp7",
+        "title": "性玩偶",
+        "description": "# *需要更多润滑油*\n\n可在友好火力旁边的建筑物顶部找到。",
+        "imageId": 1290276,
+        "imagePath": "/game_map_pin/1290276/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        20.072642120261207,
+        -22.290093698920273
+      ],
+      "properties": {
+        "subcategoryExternalId": "O8dfRp7yFH",
+        "externalId": "KHNBq5iNpE",
+        "title": "",
+        "description": "# *保持姿势*\n\n为NPC拍摄一张非常想要的照片。",
+        "imageId": 1290278,
+        "imagePath": "/game_map_pin/1290278/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        21.35487834276585,
+        57.104825939470565
+      ],
+      "properties": {
+        "subcategoryExternalId": "O8dfRp7yFH",
+        "externalId": "dMt5D31hhl",
+        "title": "",
+        "description": "# *保持姿势*\n\n为NPC拍摄一张非常想要的照片。",
+        "imageId": 1290280,
+        "imagePath": "/game_map_pin/1290280/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        31.26939828976191,
+        66.99974572660913
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "externalId": "kBwMWh76HQ",
+        "title": "",
+        "description": "*钱从哪来并不重要，对吧？*",
+        "imageId": 1290286,
+        "imagePath": "/game_map_pin/1290286/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        35.84832182601935,
+        48.97140457237774
+      ],
+      "properties": {
+        "subcategoryExternalId": "UWCVxMVX9k",
+        "externalId": "bppQnMnqhU",
+        "title": "被动收入",
+        "description": "*面团从哪里来无所谓，对吧？*",
+        "imageId": 1290289,
+        "imagePath": "/game_map_pin/1290289/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        14.020191907175874,
+        39.09691608568962
+      ],
+      "properties": {
+        "subcategoryExternalId": "mCB3pJq2vK",
+        "imageId": null,
+        "externalId": "BRajgG8sUs",
+        "title": "轮辋工作",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        40.902596612824205,
+        24.91902269840363
+      ],
+      "properties": {
+        "subcategoryExternalId": "dMC80OlxH5",
+        "imageId": null,
+        "externalId": "adnUg0HlMX",
+        "title": "锈针纹身店",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        60.92567132136356,
+        26.23817875799416
+      ],
+      "properties": {
+        "subcategoryExternalId": "pkgODNrjwW",
+        "imageId": null,
+        "externalId": "M3rbiiDquD",
+        "title": "按定义的图像",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        13.794894917022926,
+        42.810440546819834
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "externalId": "oO1xPAvlua",
+        "title": "帮派行动",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imageId": 1290290,
+        "imagePath": "/game_map_pin/1290290/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        33.216092570974226,
+        11.725875589206465
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "externalId": "1nbjC4lDDE",
+        "title": "",
+        "description": "*钱从哪来并不重要，对吧？*",
+        "imageId": 1290301,
+        "imagePath": "/game_map_pin/1290301/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        61.35100222345155,
+        8.383420814197024
+      ],
+      "properties": {
+        "subcategoryExternalId": "QfyTpFKITJ",
+        "imageId": null,
+        "externalId": "Zify38Bod4",
+        "title": "圣徒星球",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        14.600210633000687,
+        4.354402727493257
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "imageId": 1290307,
+        "externalId": "aAJoIbILoh",
+        "title": "",
+        "description": "# *钱从哪来并不重要，对吧？*\n\n可在高速公路下找到。",
+        "imagePath": "/game_map_pin/1290307/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -7.482806050495486,
+        13.984139115946434
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "externalId": "HSpyNYKlWL",
+        "title": "",
+        "description": "*钱从哪来并不重要，对吧？*",
+        "imageId": 1290313,
+        "imagePath": "/game_map_pin/1290313/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -13.411159247487127,
+        -56.04256353175301
+      ],
+      "properties": {
+        "subcategoryExternalId": "QfyTpFKITJ",
+        "imageId": null,
+        "externalId": "GRnYH0iEyM",
+        "title": "圣徒星球",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        1.7975651966190087,
+        -54.56297861107496
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "externalId": "lj790ymjtZ",
+        "title": "",
+        "description": "",
+        "imageId": 1292325,
+        "imagePath": "/game_map_pin/1292325/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        24.626774834943024,
+        -51.61471324205231
+      ],
+      "properties": {
+        "subcategoryExternalId": "dMC80OlxH5",
+        "imageId": null,
+        "externalId": "3ojGCMRTzX",
+        "title": "锈针纹身店",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        36.60201964171152,
+        -49.673236736091354
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "externalId": "fkP5Rs07Rb",
+        "title": "",
+        "description": "",
+        "imageId": 1292327,
+        "imagePath": "/game_map_pin/1292327/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        34.01705941873269,
+        -65.98755715931533
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "externalId": "0ZntRmRyh0",
+        "title": "帮派行动",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imageId": 1292331,
+        "imagePath": "/game_map_pin/1292331/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        32.28416336709552,
+        -70.43411537377568
+      ],
+      "properties": {
+        "subcategoryExternalId": "mCB3pJq2vK",
+        "imageId": null,
+        "externalId": "Ur9WZF2nsB",
+        "title": "轮辋工作",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        33.26155996177591,
+        -36.13660726709082
+      ],
+      "properties": {
+        "subcategoryExternalId": "UWCVxMVX9k",
+        "imageId": null,
+        "externalId": "XgHf4ogJDw",
+        "title": "友军火力",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -7.979542086596166,
+        -19.397250786828344
+      ],
+      "properties": {
+        "subcategoryExternalId": "pkgODNrjwW",
+        "imageId": null,
+        "externalId": "MmAhx7ANzV",
+        "title": "按设计的图像",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        86.91257017599683,
+        -16.986033125563363
+      ],
+      "properties": {
+        "subcategoryExternalId": "iDulGLV4Og",
+        "externalId": "dyD3pXhZ4s",
+        "title": "",
+        "description": "# *叮当响*\n\n可在塔顶找到。当心地面部队。",
+        "imageId": 1292351,
+        "imagePath": "/game_map_pin/1292351/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        112.7374173812863,
+        -12.232072946723425
+      ],
+      "properties": {
+        "subcategoryExternalId": "O8dfRp7yFH",
+        "externalId": "YIgNFRl7H5",
+        "title": "",
+        "description": "# *保持姿势*\n\n为NPC拍摄一张非常想要的照片。",
+        "imageId": 1292356,
+        "imagePath": "/game_map_pin/1292356/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        98.9093575295541,
+        10.450497462465137
+      ],
+      "properties": {
+        "subcategoryExternalId": "iDulGLV4Og",
+        "imageId": 1292380,
+        "externalId": "N3L7pgneNt",
+        "title": "",
+        "description": "# *叮当响*\n\n可在建筑物后面找到。",
+        "imagePath": "/game_map_pin/1292380/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        100.27883731928011,
+        14.22426265630064
+      ],
+      "properties": {
+        "subcategoryExternalId": "UWCVxMVX9k",
+        "imageId": null,
+        "externalId": "HB8JLjGz9j",
+        "title": "友军火力",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        103.99777086219558,
+        21.563159130392453
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "externalId": "Kp7AkIZwUA",
+        "title": "帮派行动",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imageId": 1292387,
+        "imagePath": "/game_map_pin/1292387/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        87.60050453890776,
+        23.327901815628433
+      ],
+      "properties": {
+        "subcategoryExternalId": "O8dfRp7yFH",
+        "externalId": "aWMdiRMeNh",
+        "title": "",
+        "description": "# *保持姿势*\n\n为NPC拍摄一张非常想要的照片。",
+        "imageId": 1292391,
+        "imagePath": "/game_map_pin/1292391/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        86.62154852918937,
+        32.20565898568118
+      ],
+      "properties": {
+        "subcategoryExternalId": "fz2tPLAGQV",
+        "externalId": "0reMk8S8fB",
+        "title": "",
+        "description": "# *还有更多毒品吗？*\n\n可以在建筑物后面的小巷找到。",
+        "imageId": 1292394,
+        "imagePath": "/game_map_pin/1292394/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        119.65020108586798,
+        18.675699841664308
+      ],
+      "properties": {
+        "subcategoryExternalId": "O8dfRp7yFH",
+        "imageId": 1292399,
+        "externalId": "NYzpTTrCko",
+        "title": "",
+        "description": "# *保持姿势*\n\n从NPC那里拍一张非常想要的照片。可以在建筑物之间的通道找到。",
+        "imagePath": "/game_map_pin/1292399/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        124.41776816916496,
+        17.204844638954153
+      ],
+      "properties": {
+        "subcategoryExternalId": "n63xRrEgUA",
+        "imageId": 1292402,
+        "externalId": "7jWQejFC3X",
+        "title": "",
+        "description": "# *需要更多润滑剂*\n\n可以在围栏内找到。",
+        "imagePath": "/game_map_pin/1292402/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        117.29377083546603,
+        4.354402727493295
+      ],
+      "properties": {
+        "subcategoryExternalId": "n63xRrEgUA",
+        "externalId": "4rUvuo5oF3",
+        "title": "",
+        "description": "# *需要更多润滑剂*\n\n可以在隧道内找到。",
+        "imageId": 1292409,
+        "imagePath": "/game_map_pin/1292409/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        139.3607008039824,
+        33.244422245797615
+      ],
+      "properties": {
+        "subcategoryExternalId": "fz2tPLAGQV",
+        "externalId": "s3wDBAPnkH",
+        "title": "",
+        "description": "# *还有更多毒品吗？*\n\n可以在教堂入口找到。",
+        "imageId": 1292412,
+        "imagePath": "/game_map_pin/1292412/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        114.87605661949377,
+        37.01370422837566
+      ],
+      "properties": {
+        "subcategoryExternalId": "O8dfRp7yFH",
+        "externalId": "weLVd7Pvt6",
+        "title": "",
+        "description": "# *保持姿势*\n\n为NPC拍摄一张非常想要的照片。",
+        "imageId": 1292416,
+        "imagePath": "/game_map_pin/1292416/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        119.96405810294141,
+        56.268648027565035
+      ],
+      "properties": {
+        "subcategoryExternalId": "n63xRrEgUA",
+        "externalId": "XED1gFcKPp",
+        "title": "",
+        "description": "# *需要更多润滑剂*\n\n可以在成人商店内找到。",
+        "imageId": 1292419,
+        "imagePath": "/game_map_pin/1292419/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        125.12159081071148,
+        59.1226204438952
+      ],
+      "properties": {
+        "subcategoryExternalId": "iDulGLV4Og",
+        "externalId": "lvoXXTkWM8",
+        "title": "",
+        "description": "# *叮叮叮*\n\n可以在建筑物后面的小巷找到。",
+        "imageId": 1292425,
+        "imagePath": "/game_map_pin/1292425/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        149.2416020386756,
+        60.41573545948134
+      ],
+      "properties": {
+        "subcategoryExternalId": "fz2tPLAGQV",
+        "externalId": "r173DmEPra",
+        "title": "",
+        "description": "# *还想要更多毒品吗？*\n\n可以在建筑物后面的小巷找到。",
+        "imageId": 1292430,
+        "imagePath": "/game_map_pin/1292430/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        158.94212748925236,
+        60.02882816072178
+      ],
+      "properties": {
+        "subcategoryExternalId": "iDulGLV4Og",
+        "imageId": 1292435,
+        "externalId": "qz05bygzE3",
+        "title": "",
+        "description": "# *叮叮叮*\n\n可以在建筑物后面的垃圾箱附近找到。",
+        "imagePath": "/game_map_pin/1292435/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -15.210229150778737,
+        21.977527271413358
+      ],
+      "properties": {
+        "subcategoryExternalId": "n63xRrEgUA",
+        "imageId": 1292479,
+        "externalId": "2Nkm97icny",
+        "title": "",
+        "description": "# *需要更多润滑剂*\n\n可以在楼梯下面找到。",
+        "imagePath": "/game_map_pin/1292479/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        105.80882748397084,
+        -1.8250283459153305
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "externalId": "24i9ddvEv4",
+        "title": "帮派行动",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imageId": 1292482,
+        "imagePath": "/game_map_pin/1292482/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        141.45902286541576,
+        54.36201033322744
+      ],
+      "properties": {
+        "subcategoryExternalId": "O8dfRp7yFH",
+        "externalId": "3QHQtxCbzN",
+        "title": "",
+        "description": "# *保持姿势*\n\n为NPC拍摄一张非常想要的照片。",
+        "imageId": 1292484,
+        "imagePath": "/game_map_pin/1292484/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        160.79636151539228,
+        47.19473773865504
+      ],
+      "properties": {
+        "subcategoryExternalId": "fz2tPLAGQV",
+        "externalId": "5w72HepKhI",
+        "title": "",
+        "description": "# *还想要更多毒品吗？*\n\n可以在房屋旁边的垃圾箱顶部找到。",
+        "imageId": 1292485,
+        "imagePath": "/game_map_pin/1292485/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        166.11548453810352,
+        56.67613892121543
+      ],
+      "properties": {
+        "subcategoryExternalId": "fz2tPLAGQV",
+        "externalId": "F11iTczonb",
+        "title": "",
+        "description": "# *还想要更多毒品吗？*\n\n可以在码头附近的集装箱内找到",
+        "imageId": 1292486,
+        "imagePath": "/game_map_pin/1292486/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        136.3439622610393,
+        70.61854973374962
+      ],
+      "properties": {
+        "subcategoryExternalId": "FDTuSeMAwF",
+        "externalId": "EaVw5gFViH",
+        "title": "",
+        "description": "*像小提琴一样悠闲..等等，这句话是这么说的吗？*",
+        "imageId": 1292487,
+        "imagePath": "/game_map_pin/1292487/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        85.73683363254243,
+        73.3768893114072
+      ],
+      "properties": {
+        "subcategoryExternalId": "n63xRrEgUA",
+        "externalId": "pRpch4VTzo",
+        "title": "",
+        "description": "# *需要更多润滑剂*\n\n可以在机场草地区域附近找到。",
+        "imageId": 1292490,
+        "imagePath": "/game_map_pin/1292490/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        115.04969008330471,
+        64.29744944082759
+      ],
+      "properties": {
+        "subcategoryExternalId": "n63xRrEgUA",
+        "externalId": "7Ctp9gAGfW",
+        "title": "",
+        "description": "# *需要更多润滑剂*\n\n可以在机场有顶天桥顶部找到。",
+        "imageId": 1292491,
+        "imagePath": "/game_map_pin/1292491/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        134.73336046703554,
+        64.03432167732545
+      ],
+      "properties": {
+        "subcategoryExternalId": "iDulGLV4Og",
+        "imageId": 1292497,
+        "externalId": "q5zUaTvvQN",
+        "title": "",
+        "description": "# *叮叮叮*\n\n可以在建筑物屋顶找到。",
+        "imagePath": "/game_map_pin/1292497/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -14.56283982059902,
+        5.205271175418606
+      ],
+      "properties": {
+        "subcategoryExternalId": "iDulGLV4Og",
+        "externalId": "7eirnhwU7u",
+        "title": "",
+        "description": "# *叮叮叮*\n\n可以在高速公路下方建筑物的屋顶找到。",
+        "imageId": 1292501,
+        "imagePath": "/game_map_pin/1292501/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        4.827080932584443,
+        -17.87944412455136
+      ],
+      "properties": {
+        "subcategoryExternalId": "n63xRrEgUA",
+        "externalId": "eKUPLD3E3u",
+        "title": "",
+        "description": "# *需要更多润滑剂*\n\n可以在高层建筑顶部找到。请务必带直升机。",
+        "imageId": 1292514,
+        "imagePath": "/game_map_pin/1292514/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        9.168654622111747,
+        -30.851907128581082
+      ],
+      "properties": {
+        "subcategoryExternalId": "fz2tPLAGQV",
+        "externalId": "TZL2kO9h81",
+        "title": "",
+        "description": "# *还想要更多毒品吗？*\n\n可以在连接两栋建筑的桥梁屋顶找到。请务必带直升机。",
+        "imageId": 1292522,
+        "imagePath": "/game_map_pin/1292522/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -46.06599790524866,
+        49.18186476130129
+      ],
+      "properties": {
+        "subcategoryExternalId": "fz2tPLAGQV",
+        "externalId": "zvfKqkWR0R",
+        "title": "",
+        "description": "# *还想要更多毒品吗？*\n\n可以在建筑物屋顶找到。请务必带直升机。",
+        "imageId": 1292526,
+        "imagePath": "/game_map_pin/1292526/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -101.20732660683427,
+        33.71666470136391
+      ],
+      "properties": {
+        "subcategoryExternalId": "n63xRrEgUA",
+        "externalId": "V8sh4V92t6",
+        "title": "",
+        "description": "# *需要更多润滑剂*\n\n可以在楼梯旁边建筑物的屋顶找到。",
+        "imageId": 1292531,
+        "imagePath": "/game_map_pin/1292531/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -93.01348237567177,
+        -31.669381556383104
+      ],
+      "properties": {
+        "subcategoryExternalId": "n63xRrEgUA",
+        "externalId": "zwlhEhOrDI",
+        "title": "",
+        "description": "# *需要更多润滑剂*\n\n可以在电线附近的高速公路下方找到。",
+        "imageId": 1292536,
+        "imagePath": "/game_map_pin/1292536/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -102.06061702706401,
+        52.06968926585326
+      ],
+      "properties": {
+        "subcategoryExternalId": "fz2tPLAGQV",
+        "imageId": 1289559,
+        "externalId": "Di2zsPoUAn",
+        "title": "",
+        "description": "# *还想要更多毒品吗？*\n\n可以在后门入口找到。",
+        "imagePath": "/game_map_pin/1289559/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -30.285926847921857,
+        -57.957208520995756
+      ],
+      "properties": {
+        "subcategoryExternalId": "fz2tPLAGQV",
+        "externalId": "suXhNEXxZJ",
+        "title": "",
+        "description": "# *还想要更多毒品吗？*\n\n可以在建筑物屋顶找到。在水箱旁边。",
+        "imageId": 1292562,
+        "imagePath": "/game_map_pin/1292562/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        71.27752211143442,
+        -68.92734256829256
+      ],
+      "properties": {
+        "subcategoryExternalId": "iDulGLV4Og",
+        "imageId": 1292569,
+        "externalId": "rCsBqhhWNw",
+        "title": "",
+        "description": "# *叮叮叮*\n\n可以在弯曲的走廊内找到。",
+        "imagePath": "/game_map_pin/1292569/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -59.740978694436556,
+        63.989141587102864
+      ],
+      "properties": {
+        "subcategoryExternalId": "O8dfRp7yFH",
+        "externalId": "z3Objt50zj",
+        "title": "",
+        "description": "# *保持姿势*\n\n为NPC拍摄一张非常想要的照片。",
+        "imageId": 1292576,
+        "imagePath": "/game_map_pin/1292576/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -68.39903771881154,
+        38.10670339184201
+      ],
+      "properties": {
+        "subcategoryExternalId": "O8dfRp7yFH",
+        "externalId": "VaxTlI0lF9",
+        "title": "",
+        "description": "# *保持姿势*\n\n为NPC拍摄一张非常想要的照片。",
+        "imageId": 1293112,
+        "imagePath": "/game_map_pin/1293112/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -85.31487403602947,
+        -41.258429631421244
+      ],
+      "properties": {
+        "subcategoryExternalId": "O8dfRp7yFH",
+        "imageId": 1289612,
+        "externalId": "a2djOgYQuk",
+        "title": "",
+        "description": "# *保持姿势*\n\n从NPC那里拍一张非常想要的照片。可以在高速公路下方找到。",
+        "imagePath": "/game_map_pin/1289612/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -7.031873333349058,
+        30.600248734433094
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "externalId": "1y3zAHJAqV",
+        "title": "",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imageId": 1293237,
+        "imagePath": "/game_map_pin/1293237/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        35.27143012690547,
+        -69.73562540293685
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "e5Mv5fAF2j",
+        "title": "",
+        "description": "\"*任何人都可以骑摩托车跳跃。困难的是如何着陆*\" - 伊维尔·科尼维尔",
+        "imageId": 1293280,
+        "imagePath": "/game_map_pin/1293280/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        153.2228881604584,
+        54.44210614341877
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "externalId": "VrhJzdd7E9",
+        "title": "",
+        "description": "*钱从哪来并不重要，对吧？*",
+        "imageId": 1293923,
+        "imagePath": "/game_map_pin/1293923/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        147.13806837424386,
+        64.96202534701844
+      ],
+      "properties": {
+        "subcategoryExternalId": "UWCVxMVX9k",
+        "imageId": null,
+        "externalId": "nmyE7afk11",
+        "title": "友军火力",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        121.74047188127892,
+        55.6982590818309
+      ],
+      "properties": {
+        "subcategoryExternalId": "QfyTpFKITJ",
+        "externalId": "UUakRJd96g",
+        "title": "皮革与蕾丝",
+        "description": "",
+        "imageId": 1293925,
+        "imagePath": "/game_map_pin/1293925/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        102.76059045780661,
+        48.2628777163213
+      ],
+      "properties": {
+        "subcategoryExternalId": "mCB3pJq2vK",
+        "imageId": null,
+        "externalId": "DA7SE9CmeB",
+        "title": "轮辋工作",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        120.91447416118987,
+        45.781433897820534
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "imageId": null,
+        "externalId": "iiCkM68EvQ",
+        "title": "",
+        "description": "*钱从哪来并不重要，对吧？*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        142.0203083558409,
+        47.157152031576196
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "externalId": "xyO8B3saL2",
+        "title": "",
+        "description": "*钱从哪来并不重要，对吧？*",
+        "imageId": 1293936,
+        "imagePath": "/game_map_pin/1293936/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        144.88842952018578,
+        39.69090522253284
+      ],
+      "properties": {
+        "subcategoryExternalId": "QfyTpFKITJ",
+        "imageId": null,
+        "externalId": "yJU88UPeht",
+        "title": "圣徒星球",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        147.47953449666355,
+        27.246164578307262
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "externalId": "78cH5K25C0",
+        "title": "",
+        "description": "*钱从哪来并不重要，对吧？*",
+        "imageId": 1293937,
+        "imagePath": "/game_map_pin/1293937/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        121.6770420814068,
+        26.91439669619432
+      ],
+      "properties": {
+        "subcategoryExternalId": "pkgODNrjwW",
+        "imageId": null,
+        "externalId": "iRPv5O63Cs",
+        "title": "按设计成像",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        113.49521049171595,
+        24.426702540091462
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "externalId": "bnv86ZSXuw",
+        "title": "",
+        "description": "*钱从哪来并不重要，对吧？*",
+        "imageId": 1293938,
+        "imagePath": "/game_map_pin/1293938/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        125.03145671381718,
+        9.42513629726921
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "externalId": "YM9qO8WMWX",
+        "title": "",
+        "description": "*钱从哪来并不重要，对吧？*",
+        "imageId": 1293941,
+        "imagePath": "/game_map_pin/1293941/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        133.81799736040958,
+        -9.448179790141431
+      ],
+      "properties": {
+        "subcategoryExternalId": "dMC80OlxH5",
+        "imageId": null,
+        "externalId": "LLmu1AibIV",
+        "title": "锈针纹身店",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        108.50679995537524,
+        -11.590731268983523
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "externalId": "k05oiDi8tn",
+        "title": "",
+        "description": "*钱从哪来并不重要，对吧？*",
+        "imageId": 1293943,
+        "imagePath": "/game_map_pin/1293943/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        95.75788778185759,
+        73.94401765195131
+      ],
+      "properties": {
+        "subcategoryExternalId": "syPWWBprPp",
+        "externalId": "brdWeJESRL",
+        "title": "",
+        "description": "*钱从哪来并不重要，对吧？*",
+        "imageId": 1293945,
+        "imagePath": "/game_map_pin/1293945/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -82.67711812064192,
+        -61.56886329434865
+      ],
+      "properties": {
+        "subcategoryExternalId": "QfyTpFKITJ",
+        "imageId": 1290171,
+        "externalId": "CODWWs5UJM",
+        "title": "让我们假装",
+        "description": "",
+        "imagePath": "/game_map_pin/1290171/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -81.52086531597767,
+        76.84039410383673
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "imageId": null,
+        "externalId": "aNNlj4JhKr",
+        "title": "",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -114.8266167834529,
+        57.806388957658
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "externalId": "Fa7j0rNq7n",
+        "title": "",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imageId": 1293953,
+        "imagePath": "/game_map_pin/1293953/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -115.12573242187501,
+        57.76865857271793
+      ],
+      "properties": {
+        "subcategoryExternalId": "aCdGBqhw5y",
+        "externalId": "C5L8J5TYbM",
+        "title": "",
+        "description": "*这是某种仪式吗？还是不是？*",
+        "imageId": 1293954,
+        "imagePath": "/game_map_pin/1293954/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -73.65674585508354,
+        57.16155981897898
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "externalId": "9oyWxBdNvY",
+        "title": "帮派行动",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imageId": 1293956,
+        "imagePath": "/game_map_pin/1293956/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -107.51397062334071,
+        43.89038739692495
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "externalId": "nnqAE7lDwA",
+        "title": "",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imageId": 1293960,
+        "imagePath": "/game_map_pin/1293960/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -115.0797437972755,
+        -31.425276377531333
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "externalId": "WrdMbHRhP2",
+        "title": "",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imageId": 1293961,
+        "imagePath": "/game_map_pin/1293961/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -123.53511961636191,
+        -58.663531003397665
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "externalId": "3egBmEBKVU",
+        "title": "",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imageId": 1293962,
+        "imagePath": "/game_map_pin/1293962/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -70.63917017047656,
+        -74.76409051095376
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "externalId": "ZunXsEr43b",
+        "title": "帮派行动",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imageId": 1293964,
+        "imagePath": "/game_map_pin/1293964/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        46.238563827144894,
+        -19.35001161089762
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "externalId": "XgTzYNO5Yf",
+        "title": "帮派行动",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imageId": 1293980,
+        "imagePath": "/game_map_pin/1293980/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        96.4732603019437,
+        66.57002542163647
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "externalId": "jhdB1ZqCez",
+        "title": "",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imageId": 1293981,
+        "imagePath": "/game_map_pin/1293981/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        81.08202219792771,
+        38.576869886234036
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "externalId": "DuvEeT0dlE",
+        "title": "",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imageId": 1293984,
+        "imagePath": "/game_map_pin/1293984/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        103.8976044508127,
+        40.03137766600375
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "externalId": "1yQjWmS3tL",
+        "title": "",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imageId": 1293985,
+        "imagePath": "/game_map_pin/1293985/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        134.8978139033569,
+        49.20391060898868
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "externalId": "j8hfgxwSgX",
+        "title": "",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imageId": 1293987,
+        "imagePath": "/game_map_pin/1293987/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        166.95000914702,
+        52.315082316854486
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "externalId": "x5QnGQ9RmO",
+        "title": "帮派行动",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imageId": 1293988,
+        "imagePath": "/game_map_pin/1293988/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        134.12124783351433,
+        18.492223537654187
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "externalId": "31fovzViig",
+        "title": "",
+        "description": "# *PEW-PEW*\n\n最后一个眨眼的人..获胜。",
+        "imageId": 1293994,
+        "imagePath": "/game_map_pin/1293994/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        14.880593752160799,
+        -6.940542928874729
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "externalId": "1t4EwcPn8B",
+        "title": "",
+        "description": "# *砰砰砰*\n\n谁最后眨眼谁就赢。最好带直升机来。",
+        "imageId": 1293995,
+        "imagePath": "/game_map_pin/1293995/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        10.288398982950172,
+        -64.39723641751523
+      ],
+      "properties": {
+        "subcategoryExternalId": "FDTuSeMAwF",
+        "externalId": "WkvH8cuBcg",
+        "title": "",
+        "description": "*像小提琴一样放松.. 等等，这句话是这么说的吗？*\n\n可以通过完成任务获得。",
+        "imageId": 1294044,
+        "imagePath": "/game_map_pin/1294044/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        15.61833337688198,
+        61.66714698907151
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "imageId": 1294018,
+        "externalId": "I9P5cgpTCQ",
+        "title": "直升机突击",
+        "description": "*健康的活动让你变得强壮。*",
+        "imagePath": "/game_map_pin/1294018/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        25.58001254663613,
+        57.0144782975065
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "KTs62KPwMz",
+        "title": "走私",
+        "description": "*健康的活动让你变得强壮。*",
+        "imageId": 1294020,
+        "imagePath": "/game_map_pin/1294020/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        31.444319677925296,
+        46.41742686209384
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "otMCOdMN08",
+        "title": "守护天使",
+        "description": "*健康的活动让你变得强壮。*\n\n可以通过推进任务获得。",
+        "imageId": 1294050,
+        "imagePath": "/game_map_pin/1294050/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        16.998640577086583,
+        10.533405183239754
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "NggKR124XM",
+        "title": "坦克大混战",
+        "description": "*健康的活动让你变得强壮。*",
+        "imageId": 1294051,
+        "imagePath": "/game_map_pin/1294051/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -22.42382650899648,
+        -15.995819489599427
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "imageId": null,
+        "externalId": "DEMdqXzNaL",
+        "title": "直升机突击",
+        "description": "*健康的活动让你变得强壮。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        26.70141414177862,
+        -21.67555601018939
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "imageId": null,
+        "externalId": "Z9VoKPe377",
+        "title": "走私",
+        "description": "*健康的活动让你变得强壮。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        8.732016708757829,
+        -34.596760043376975
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "fNnqwHSpFD",
+        "title": "坦克大混战",
+        "description": "*健康的活动让你变得强壮。*",
+        "imageId": 1294056,
+        "imagePath": "/game_map_pin/1294056/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -8.064342406100744,
+        -36.65011121550964
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "Rr1U8ERGrK",
+        "title": "根基教授",
+        "description": "*健康的活动让你变得强壮。*",
+        "imageId": 1294057,
+        "imagePath": "/game_map_pin/1294057/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -3.258834663751496,
+        -66.4496990033497
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "imageId": null,
+        "externalId": "L63v3hDjrf",
+        "title": "保险欺诈",
+        "description": "*健康的活动让你变得强壮。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        12.285594795215948,
+        -73.10218594157233
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "1r818r2tjx",
+        "title": "走私",
+        "description": "*健康的活动让你变得强壮。*",
+        "imageId": 1294063,
+        "imagePath": "/game_map_pin/1294063/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        20.279340578550404,
+        -61.930377779382795
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "yaT4N9srYc",
+        "title": "直升机突击",
+        "description": "*健康的活动让你变得强壮。*",
+        "imageId": 1294078,
+        "imagePath": "/game_map_pin/1294078/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        51.73539696564144,
+        -1.8890577895119216
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "imageId": 1294083,
+        "externalId": "4dqUJXjGVi",
+        "title": "保险欺诈",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imagePath": "/game_map_pin/1294083/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        40.54137869291032,
+        13.952538562031869
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "imageId": null,
+        "externalId": "EvgUXaSxe8",
+        "title": "坦克大混战",
+        "description": "*健康的活动让你变得强壮。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        20.532742502753862,
+        25.614373214526275
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "imageId": null,
+        "externalId": "DZp6MUgXnB",
+        "title": "根基教授",
+        "description": "*健康的活动让你变得强壮。*\n\n可以通过推进任务获得。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        24.132118051757033,
+        41.58755399586867
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "imageId": 1294092,
+        "externalId": "HiwiX6KbIP",
+        "title": "保险欺诈",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imagePath": "/game_map_pin/1294092/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        40.30822696351902,
+        62.912310266927015
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "m3hg61mlGE",
+        "title": "根基教授",
+        "description": "*健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294096,
+        "imagePath": "/game_map_pin/1294096/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        85.69675531658417,
+        56.8230707618145
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "imageId": 1294330,
+        "externalId": "wWv4eBVw5F",
+        "title": "末日元气",
+        "description": "*健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imagePath": "/game_map_pin/1294330/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        49.99178767174788,
+        43.44766870116156
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "externalId": "9pkEYD2w7V",
+        "title": "",
+        "description": "# *砰砰砰*\n\n谁最后眨眼谁就赢。\n\n可以通过推进任务获得。",
+        "imageId": 1294382,
+        "imagePath": "/game_map_pin/1294382/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        48.303207733644314,
+        53.20106161067489
+      ],
+      "properties": {
+        "subcategoryExternalId": "2JAF41cM6g",
+        "externalId": "fAFhVSFryw",
+        "title": "",
+        "description": "# *砰砰砰*\n\n谁最后眨眼谁就赢。\n\n可以通过推进任务获得。",
+        "imageId": 1294384,
+        "imagePath": "/game_map_pin/1294384/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        121.1123981477851,
+        -11.656257268277901
+      ],
+      "properties": {
+        "subcategoryExternalId": "FDTuSeMAwF",
+        "externalId": "woqUUZhrTv",
+        "title": "Zimo的窝点",
+        "description": "*像小提琴一样放松.. 等等，这句话是这么说的吗？*\n\n可以通过完成任务获得。",
+        "imageId": 1294403,
+        "imagePath": "/game_map_pin/1294403/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -42.24792575463886,
+        -63.01399194643171
+      ],
+      "properties": {
+        "subcategoryExternalId": "FDTuSeMAwF",
+        "externalId": "9GkKGL7puq",
+        "title": "天使的窝点",
+        "description": "*像小提琴一样放松.. 等等，这句话是这么说的吗？*\n\n可以通过完成任务获得。",
+        "imageId": 1294408,
+        "imagePath": "/game_map_pin/1294408/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -156.68290548111923,
+        22.097127976763417
+      ],
+      "properties": {
+        "subcategoryExternalId": "FDTuSeMAwF",
+        "imageId": null,
+        "externalId": "yDoq52Yyia",
+        "title": "金齐的窝点",
+        "description": "*像小提琴一样放松.. 等等，这句话是这么说的吗？*\n\n可以通过完成任务获得。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -138.44993643928152,
+        27.6797899333302
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "rB8jpxMlmg",
+        "title": "抢夺",
+        "description": "*健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294410,
+        "imagePath": "/game_map_pin/1294410/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -106.02455703869252,
+        33.772605859277135
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "TFgf65ljVN",
+        "title": "混战",
+        "description": "*健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294423,
+        "imagePath": "/game_map_pin/1294423/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -84.48067894769794,
+        45.16365894645954
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "fcuZcprHWT",
+        "title": "抢夺",
+        "description": "*健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294430,
+        "imagePath": "/game_map_pin/1294430/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -67.47070043298652,
+        65.36208936851868
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "HQsHZJVOhG",
+        "title": "抢夺",
+        "description": "*健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294442,
+        "imagePath": "/game_map_pin/1294442/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -129.3723681890036,
+        10.846253580231116
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "Ra4Zi5ZV5s",
+        "title": "火线冲刺",
+        "description": "*健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294452,
+        "imagePath": "/game_map_pin/1294452/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -109.04328002268917,
+        6.436606785665689
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "k8NtqqSzOt",
+        "title": "直升机突击",
+        "description": "*健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294460,
+        "imagePath": "/game_map_pin/1294460/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -121.64960458163166,
+        43.485510244546255
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "GoUzbiAgNg",
+        "title": "直升机突击",
+        "description": "*健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294463,
+        "imagePath": "/game_map_pin/1294463/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -38.571688723750945,
+        65.18729562568127
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "8MXaX0b6Qg",
+        "title": "直升机突击",
+        "description": "*健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294472,
+        "imagePath": "/game_map_pin/1294472/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -42.55923366557645,
+        58.1938645468114
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "EQFte2w3l5",
+        "title": "混战",
+        "description": "*健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294501,
+        "imagePath": "/game_map_pin/1294501/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -61.798831103785915,
+        49.954275827744375
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "ikcxGENXPs",
+        "title": "开拓者",
+        "description": "*健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294502,
+        "imagePath": "/game_map_pin/1294502/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -96.65512306911361,
+        52.96662781801669
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "EYwSbOg8gx",
+        "title": "开拓者",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294504,
+        "imagePath": "/game_map_pin/1294504/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -84.72534841977256,
+        6.770280126814744
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "MIaDct5NwQ",
+        "title": "混战",
+        "description": "*健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294517,
+        "imagePath": "/game_map_pin/1294517/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -129.27874530738748,
+        -48.96266816699971
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "Fpj6fBgTlb",
+        "title": "根基教授",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294527,
+        "imagePath": "/game_map_pin/1294527/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -73.72910980185772,
+        -49.364616283391
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "imageId": null,
+        "externalId": "FCGeErHJbS",
+        "title": "老虎护送",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -62.836287567152446,
+        -56.98571128110636
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "sOihMcpeIx",
+        "title": "混战",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294573,
+        "imagePath": "/game_map_pin/1294573/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -50.48993630594108,
+        -57.02410624271257
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "zEoCe95o6L",
+        "title": "根基教授",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294574,
+        "imagePath": "/game_map_pin/1294574/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -74.10987524403912,
+        -68.5103464466972
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "nsyxnngcLp",
+        "title": "老虎护送",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294579,
+        "imagePath": "/game_map_pin/1294579/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -117.7572416345772,
+        -25.736753562792664
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "h9eeSTU0ux",
+        "title": "老虎护送",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294580,
+        "imagePath": "/game_map_pin/1294580/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -117.60568994396343,
+        -41.69121473602547
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "dGlur8zwZb",
+        "title": "混战",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294583,
+        "imagePath": "/game_map_pin/1294583/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -31.323277444936956,
+        -68.02063270015984
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "kiic7gW3hy",
+        "title": "开拓者",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294584,
+        "imagePath": "/game_map_pin/1294584/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -108.56838614313008,
+        -57.03569191504349
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "imageId": 1294586,
+        "externalId": "Fxw7jcnypd",
+        "title": "火线冲刺",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imagePath": "/game_map_pin/1294586/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -64.51789971331664,
+        -18.428683306934932
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "imageId": 1294761,
+        "externalId": "KylsSl6Tie",
+        "title": "火线冲刺",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imagePath": "/game_map_pin/1294761/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -45.6591796875,
+        -25.93828707492375
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "Eu8tq6sfRM",
+        "title": "根基教授",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294764,
+        "imagePath": "/game_map_pin/1294764/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -35.835468827193665,
+        -59.95345841547644
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "imageId": null,
+        "externalId": "xhJO1ehPSu",
+        "title": "保险欺诈",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -61.566816073258394,
+        -41.77934722043585
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "JkbV6Nw3T3",
+        "title": "保险欺诈",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294787,
+        "imagePath": "/game_map_pin/1294787/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -101.59477507537144,
+        -63.490240752738714
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "wBe6pSeHXJ",
+        "title": "保险欺诈",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294794,
+        "imagePath": "/game_map_pin/1294794/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -67.35022816080188,
+        17.92202674479431
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "iAUgXFXR0i",
+        "title": "混战",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294798,
+        "imagePath": "/game_map_pin/1294798/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        118.81798623180973,
+        -12.068184419934266
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "hkIfl89crS",
+        "title": "抢夺",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294815,
+        "imagePath": "/game_map_pin/1294815/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        122.37318703501424,
+        35.28609639010857
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "5AoTm4TxP4",
+        "title": "走私",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294821,
+        "imagePath": "/game_map_pin/1294821/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        154.54721719041402,
+        49.10558396155289
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "MIzBzw5oNW",
+        "title": "坦克大混战",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294827,
+        "imagePath": "/game_map_pin/1294827/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        138.06828468156218,
+        57.869468278255226
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "LLwTvGTzTs",
+        "title": "护送",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294833,
+        "imagePath": "/game_map_pin/1294833/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        124.08410270331612,
+        28.556962508519934
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "F5EtUgm0sR",
+        "title": "坦克大混战",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294840,
+        "imagePath": "/game_map_pin/1294840/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        157.4015769402037,
+        17.808360030049514
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "zsuIhcIw9I",
+        "title": "护送",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294847,
+        "imagePath": "/game_map_pin/1294847/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        100.12361814619713,
+        28.635999433191756
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "t9cfelYwZT",
+        "title": "抢夺",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294861,
+        "imagePath": "/game_map_pin/1294861/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        87.6009651625538,
+        13.978663822270635
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "imageId": null,
+        "externalId": "ZvxMpp04Jj",
+        "title": "走私",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        125.1114929903561,
+        -19.94857252850007
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "EpJ503pk2H",
+        "title": "走私",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1294886,
+        "imagePath": "/game_map_pin/1294886/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        111.35859473836504,
+        61.9887403144682
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "ziXrvEdtyZ",
+        "title": "护送",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1295157,
+        "imagePath": "/game_map_pin/1295157/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        141.137660392905,
+        62.64068949707723
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "imageId": 1295162,
+        "externalId": "bLltiMUUXr",
+        "title": "末日元气",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imagePath": "/game_map_pin/1295162/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        153.81601749216472,
+        63.4747433296906
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "9U4h21C6rl",
+        "title": "坦克大混战",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1295168,
+        "imagePath": "/game_map_pin/1295168/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        163.01097607345554,
+        57.51391965846892
+      ],
+      "properties": {
+        "subcategoryExternalId": "Drd7eobWsg",
+        "externalId": "2l3P1eeN7m",
+        "title": "抢夺",
+        "description": "# *健康的活动让你变强壮。*\n\n可以通过完成任务/活动来获得。",
+        "imageId": 1295170,
+        "imagePath": "/game_map_pin/1295170/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        115.70193439817308,
+        40.55926109608247
+      ],
+      "properties": {
+        "subcategoryExternalId": "FDTuSeMAwF",
+        "externalId": "nr3X28DKeS",
+        "title": "安全词窝点",
+        "description": "*像小提琴一样放松.. 等等，这句话是这么说的吗？*\n\n可以通过完成任务获得。",
+        "imageId": 1295231,
+        "imagePath": "/game_map_pin/1295231/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -90.59649833370055,
+        70.38579269833946
+      ],
+      "properties": {
+        "subcategoryExternalId": "FDTuSeMAwF",
+        "externalId": "dtF6WZV2GY",
+        "title": "伯恩斯山反应堆",
+        "description": "*像小提琴一样放松.. 等等，这句话是这么说的吗？*\n\n可以通过完成任务获得。",
+        "imageId": 1295335,
+        "imagePath": "/game_map_pin/1295335/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -80.75806954992845,
+        -73.77944551279464
+      ],
+      "properties": {
+        "subcategoryExternalId": "FDTuSeMAwF",
+        "externalId": "yWtPQ4Ztiw",
+        "title": "三次",
+        "description": "*像小提琴一样放松.. 等等，这句话是这么说的吗？*\n\n可以通过完成任务获得。",
+        "imageId": 1295800,
+        "imagePath": "/game_map_pin/1295800/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -23.985766491730583,
+        13.846962951919904
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "lf641WLt4r",
+        "title": "",
+        "description": "# \"*任何人都能驾驶摩托车跳跃。麻烦的是当你试图着陆时*\" - 伊维尔·克尼维尔\n\n开桥跳跃可以通过推进任务来解锁。",
+        "imageId": 1296680,
+        "imagePath": "/game_map_pin/1296680/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -73.13148030299512,
+        21.482489756419522
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "Dd9AvHQDmL",
+        "title": "",
+        "description": "# \"*任何人都能驾驶摩托车跳跃。麻烦的是当你试图着陆时*\" - 伊维尔·克尼维尔\n\n开桥跳跃可以通过推进任务来解锁。",
+        "imageId": 1296756,
+        "imagePath": "/game_map_pin/1296756/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -77.9131997938989,
+        25.421096910320706
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "yQHRSriLZm",
+        "title": "",
+        "description": "# \"*任何人都能驾驶摩托车跳跃。麻烦的是当你试图着陆时*\" - 伊维尔·克尼维尔\n\n开桥跳跃可以通过推进任务来解锁。",
+        "imageId": 1296662,
+        "imagePath": "/game_map_pin/1296662/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -30.383829816651,
+        13.81338862935823
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "dWZ8mMMUxz",
+        "title": "",
+        "description": "# \"*任何人都能驾驶摩托车跳跃。麻烦的是当你试图着陆时*\" - 伊维尔·克尼维尔\n\n开桥跳跃可以通过推进任务来解锁。",
+        "imageId": 1296682,
+        "imagePath": "/game_map_pin/1296682/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        0.7265495821711322,
+        31.54265462682968
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "imageId": 1296683,
+        "externalId": "3N3fwsqksx",
+        "title": "",
+        "description": "# \"*任何人都能驾驶摩托车跳跃。麻烦的是当你试图着陆时*\" - 伊维尔·克尼维尔\n\n开桥跳跃可以通过推进任务来解锁。",
+        "imagePath": "/game_map_pin/1296683/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        4.675944436007851,
+        37.04138069012866
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "YDLRijRJ6M",
+        "title": "",
+        "description": "# \"*任何人都能驾驶摩托车跳跃。麻烦的是当你试图着陆时*\" - 伊维尔·克尼维尔\n\n开桥跳跃可以通过推进任务来解锁。",
+        "imageId": 1296688,
+        "imagePath": "/game_map_pin/1296688/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        20.94333960364304,
+        27.67809236733966
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "FGc6cvYJdA",
+        "title": "",
+        "description": "# \"*任何人都能驾驶摩托车跳跃。麻烦的是当你试图着陆时*\" - 伊维尔·克尼维尔\n\n开桥跳跃可以通过推进任务来解锁。",
+        "imageId": 1296689,
+        "imagePath": "/game_map_pin/1296689/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        24.263850532494278,
+        31.61445407604823
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "v9LnizdOrO",
+        "title": "",
+        "description": "# \"*任何人都能驾驶摩托车跳跃。麻烦的是当你试图着陆时*\" - 伊维尔·克尼维尔\n\n开桥跳跃可以通过推进任务来解锁。",
+        "imageId": 1296710,
+        "imagePath": "/game_map_pin/1296710/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        39.1160426555552,
+        17.8575356998724
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "BR6149fYwi",
+        "title": "",
+        "description": "# \"*任何人都能驾驶摩托车跳跃。麻烦的是当你试图着陆时*\" - 伊维尔·克尼维尔\n\n开桥跳跃可以通过推进任务来解锁。",
+        "imageId": 1296716,
+        "imagePath": "/game_map_pin/1296716/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        39.04541015625001,
+        21.993988560906033
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "xZmniY2vA8",
+        "title": "",
+        "description": "# \"*任何人都能驾驶摩托车跳跃。麻烦的是当你试图着陆时*\" - 伊维尔·克尼维尔\n\n开桥跳跃可以通过推进任务来解锁。",
+        "imageId": 1296717,
+        "imagePath": "/game_map_pin/1296717/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        59.072367133882004,
+        22.807159083561192
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "8Wp6PF3l5P",
+        "title": "",
+        "description": "# \"*任何人都能驾驶摩托车跳跃。麻烦的是当你试图着陆时*\" - 伊维尔·克尼维尔\n\n开桥跳跃可以通过推进任务来解锁。",
+        "imageId": 1296722,
+        "imagePath": "/game_map_pin/1296722/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        59.12193338570564,
+        18.2660805618347
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "JpPbGW8jcP",
+        "title": "",
+        "description": "# \"*任何人都能驾驶摩托车跳跃。麻烦的是当你试图着陆时*\" - 伊维尔·克尼维尔\n\n开桥跳跃可以通过推进任务来解锁。",
+        "imageId": 1296723,
+        "imagePath": "/game_map_pin/1296723/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        64.55758520998978,
+        -24.840046807611532
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "RRG3DiAdFU",
+        "title": "",
+        "description": "# \"*任何人都能驾驶摩托车跳跃。麻烦的是当你试图着陆时*\" - 伊维尔·克尼维尔\n\n开桥跳跃可以通过推进任务来解锁。",
+        "imageId": 1296725,
+        "imagePath": "/game_map_pin/1296725/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        71.1488232474561,
+        -24.66205886267977
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "Zq8Vmcapm6",
+        "title": "",
+        "description": "# \"*任何人都能驾驶摩托车跳跃。麻烦的是当你试图着陆时*\" - 伊维尔·克尼维尔\n\n开桥跳跃可以通过推进任务来解锁。",
+        "imageId": 1296726,
+        "imagePath": "/game_map_pin/1296726/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -18.73019389103383,
+        -62.52889531473492
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "Fz7E4VZNJe",
+        "title": "",
+        "description": "# \"*任何人都能驾驶摩托车跳跃。麻烦的是当你试图着陆时*\" - 伊维尔·克尼维尔\n\n开桥跳跃可以通过推进任务来解锁。",
+        "imageId": 1296730,
+        "imagePath": "/game_map_pin/1296730/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -26.20404640957487,
+        -62.508391148599905
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "uzqaMOLTMX",
+        "title": "",
+        "description": "# \"*任何人都能驾驶摩托车跳跃。麻烦的是当你试图着陆时*\" - 伊维尔·克尼维尔\n\n开桥跳跃可以通过推进任务来解锁。",
+        "imageId": 1296731,
+        "imagePath": "/game_map_pin/1296731/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -19.606399270442697,
+        -51.02803993320699
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "1Ab230obCh",
+        "title": "特技跳跃",
+        "description": "# \"*任何人都能驾驶摩托车跳跃。麻烦的是当你试图着陆时*\" - 伊维尔·克尼维尔\n\n开桥跳跃可以通过推进任务来解锁。",
+        "imageId": 1296732,
+        "imagePath": "/game_map_pin/1296732/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -47.242971899037535,
+        -3.9914256303937288
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "j1sBEutKGf",
+        "title": "",
+        "description": "# \"*任何人都能驾驶摩托车跳跃。麻烦的是当你试图着陆时*\" - 伊维尔·克尼维尔\n\n开桥跳跃可以通过推进任务来解锁。",
+        "imageId": 1296735,
+        "imagePath": "/game_map_pin/1296735/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -47.31765940312778,
+        -9.285101857260093
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "NnyU77gqVD",
+        "title": "",
+        "description": "# \"*任何人都能驾驶摩托车跳跃。麻烦的是当你试图着陆时*\" - 伊维尔·克尼维尔\n\n开桥跳跃可以通过推进任务来解锁。",
+        "imageId": 1296736,
+        "imagePath": "/game_map_pin/1296736/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -37.741443351020926,
+        -13.662896182212455
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "Er8m2ZpWhI",
+        "title": "",
+        "description": "# \"*任何人都能驾驶摩托车跳跃。麻烦的是当你试图着陆时*\" - 伊维尔·克尼维尔\n\n开桥跳跃可以通过推进任务来解锁。",
+        "imageId": 1296737,
+        "imagePath": "/game_map_pin/1296737/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -31.383446901796436,
+        -13.486255887708436
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "vINxTu3zvD",
+        "title": "",
+        "description": "# \"*任何人都能驾驶摩托车跳跃。麻烦的是当你试图着陆时*\" - 伊维尔·克尼维尔\n\n开桥跳跃可以通过推进任务来解锁。",
+        "imageId": 1296738,
+        "imagePath": "/game_map_pin/1296738/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -43.32669958881482,
+        32.21729139839705
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "5T9cDhz7iW",
+        "title": "",
+        "description": "# \"*任何人都能驾驶摩托车跳跃。麻烦的是当你试图着陆时*\" - 伊维尔·克尼维尔\n\n开桥跳跃可以通过推进任务来解锁。",
+        "imageId": 1296741,
+        "imagePath": "/game_map_pin/1296741/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -43.267261640410254,
+        37.65027236256375
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "4KLRPW0LMB",
+        "title": "",
+        "description": "# \"*任何人都能驾驶摩托车跳跃。麻烦的是当你试图着陆时*\" - 伊维尔·克尼维尔\n\n开桥跳跃可以通过推进任务来解锁。",
+        "imageId": 1296743,
+        "imagePath": "/game_map_pin/1296743/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -70.09235339028666,
+        -4.303886109432362
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "QoG3iUZxkn",
+        "title": "",
+        "description": "# \"*任何人都能驾驶摩托车跳跃。麻烦的是当你试图着陆时*\" - 伊维尔·克尼维尔\n\n开桥跳跃可以通过推进任务来解锁。",
+        "imageId": 1296757,
+        "imagePath": "/game_map_pin/1296757/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -69.9983948488211,
+        -9.734962687427794
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "43oIsFKu4y",
+        "title": "",
+        "description": "# \"*任何人都能驾驶摩托车跳跃。麻烦的是当你试图着陆时*\" - 伊维尔·克尼维尔\n\n开桥跳跃可以通过推进任务来解锁。",
+        "imageId": 1296758,
+        "imagePath": "/game_map_pin/1296758/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -153.63057570572192,
+        37.622148392062186
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "imageId": 1296766,
+        "externalId": "jd3DU86Hu6",
+        "title": "",
+        "description": "# *危险地带的高速路*\n\n在工厂烟囱之间飞行",
+        "imagePath": "/game_map_pin/1296766/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -137.67939101280305,
+        24.624190817910115
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "b9Dm2EgHKo",
+        "title": "飞行表演",
+        "description": "# *危险地带的高速路*\n\n在工厂烟囱之间飞行",
+        "imageId": 1296768,
+        "imagePath": "/game_map_pin/1296768/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -100.696318431494,
+        8.640496193740091
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "imageId": 1296770,
+        "externalId": "XmxHa0EX0P",
+        "title": "",
+        "description": "# *通向危险地带的高速公路*\n\n在教堂尖顶之间飞行",
+        "imagePath": "/game_map_pin/1296770/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -102.30450239298534,
+        45.84172492934975
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "JfXIfQjV8X",
+        "title": "",
+        "description": "# *危险地带的高速路*\n\n在工厂烟囱之间飞行",
+        "imageId": 1296781,
+        "imagePath": "/game_map_pin/1296781/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -66.04590236744103,
+        68.66436777497599
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "bADhCoQUCp",
+        "title": "",
+        "description": "# *通向危险地带的高速公路*\n\n在教堂尖顶之间飞行",
+        "imageId": 1296783,
+        "imagePath": "/game_map_pin/1296783/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -40.398002941890184,
+        60.199180130816146
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "Z25S1aWH1S",
+        "title": "",
+        "description": "# *危险地带的高速路*\n\n在工厂烟囱之间飞行",
+        "imageId": 1296786,
+        "imagePath": "/game_map_pin/1296786/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -43.30012654346002,
+        52.01762939831968
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "xVeCKQUJUF",
+        "title": "",
+        "description": "# *通向危险地带的高速公路*\n\n在高速公路下方飞行",
+        "imageId": 1296788,
+        "imagePath": "/game_map_pin/1296788/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -55.30965474275589,
+        25.705677677937047
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "DO5Qgrr108",
+        "title": "",
+        "description": "# *通向危险地带的高速公路*\n\n在教堂尖顶之间飞行",
+        "imageId": 1296789,
+        "imagePath": "/game_map_pin/1296789/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -28.12098063673926,
+        -51.08179032458358
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "E2vZgCy0ep",
+        "title": "",
+        "description": "# \"*任何人都能驾驶摩托车跳跃。麻烦的是当你试图着陆时*\" - 伊维尔·克尼维尔\n\n开桥跳跃可以通过推进任务来解锁。",
+        "imageId": 1296796,
+        "imagePath": "/game_map_pin/1296796/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -49.43254912581972,
+        8.317388372903988
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "imageId": 1297301,
+        "externalId": "Y9NXdTyYB7",
+        "title": "",
+        "description": "# *通向危险地带的高速公路*\n\n沿直线在工厂所有烟囱之间飞行。",
+        "imagePath": "/game_map_pin/1297301/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -77.70879252569001,
+        -9.919458035209974
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "3zhOT40Emh",
+        "title": "",
+        "description": "# *通向危险地带的高速公路*\n\n在桥下飞行。",
+        "imageId": 1297302,
+        "imagePath": "/game_map_pin/1297302/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -53.5219138518853,
+        0.5329336774600552
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "T99CR7e9s7",
+        "title": "",
+        "description": "# *通向危险地带的高速公路*\n\n在栈桥之间飞行。",
+        "imageId": 1297304,
+        "imagePath": "/game_map_pin/1297304/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -31.988970778943504,
+        0.5668942909611737
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "TzocMYNNyc",
+        "title": "",
+        "description": "# *通向危险地带的高速公路*\n\n在筒仓之间飞行。",
+        "imageId": 1297306,
+        "imagePath": "/game_map_pin/1297306/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -38.224603868079576,
+        4.615680296226059
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "YpMFXxUscA",
+        "title": "",
+        "description": "# *通向危险地带的高速公路*\n\n在栈桥之间飞行。",
+        "imageId": 1297307,
+        "imagePath": "/game_map_pin/1297307/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -26.597189905633044,
+        4.409005391507022
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "MjVynG2ZVq",
+        "title": "",
+        "description": "# *通向危险地带的高速公路*\n\n靠近桥塔飞行。相信很有帮助。",
+        "imageId": 1297308,
+        "imagePath": "/game_map_pin/1297308/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -94.69943484290913,
+        -17.392637526256188
+      ],
+      "properties": {
+        "subcategoryExternalId": "UWCVxMVX9k",
+        "imageId": 1288646,
+        "externalId": "eAcHGxO2gC",
+        "title": "友军火力",
+        "description": "",
+        "imagePath": "/game_map_pin/1288646/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -92.35934808627144,
+        -25.835111844552813
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "oi1RVJWt2M",
+        "title": "",
+        "description": "# *危险地带*\n\n在高速公路下方飞行。",
+        "imageId": 1297309,
+        "imagePath": "/game_map_pin/1297309/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -86.49198365510648,
+        -35.727430449633836
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "2vl4KI8tSX",
+        "title": "",
+        "description": "# *危险地带*\n\n在高速公路下方飞行。",
+        "imageId": 1297311,
+        "imagePath": "/game_map_pin/1297311/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -75.21796354445463,
+        -52.170861077680215
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "Uy4xpSOQS8",
+        "title": "",
+        "description": "# *危险地带的高速路*\n\n在工厂烟囱之间飞行",
+        "imageId": 1297314,
+        "imagePath": "/game_map_pin/1297314/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -83.62604350230175,
+        -56.26354893055378
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "zFxhzF49pP",
+        "title": "",
+        "description": "# *危险地带的高速路*\n\n在工厂烟囱之间飞行",
+        "imageId": 1297318,
+        "imagePath": "/game_map_pin/1297318/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -77.6146868051531,
+        -56.31720060678201
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "CUek8dJFiM",
+        "title": "",
+        "description": "# *危险地带的高速路*\n\n在工厂烟囱之间飞行",
+        "imageId": 1297321,
+        "imagePath": "/game_map_pin/1297321/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -107.69104216190598,
+        -57.493859255585534
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "HkeSR3o4VU",
+        "title": "",
+        "description": "# *危险地带*\n\n在尖塔之间飞行。",
+        "imageId": 1297325,
+        "imagePath": "/game_map_pin/1297325/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -77.80022728392638,
+        -63.15437356416917
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "Cp4FKFZgcu",
+        "title": "",
+        "description": "# *危险地带的高速路*\n\n在工厂烟囱之间飞行",
+        "imageId": 1297327,
+        "imagePath": "/game_map_pin/1297327/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -76.278076171875,
+        -63.46032866644444
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "wqyjkMmjWF",
+        "title": "",
+        "description": "# *危险地带*\n\n在工厂烟囱和筒仓之间飞行。",
+        "imageId": 1297329,
+        "imagePath": "/game_map_pin/1297329/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -80.83369486932366,
+        -71.90539819624374
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "n3xPyUYaq8",
+        "title": "",
+        "description": "# *通向危险地带的高速公路*\n\n在桥下飞行。",
+        "imageId": 1297331,
+        "imagePath": "/game_map_pin/1297331/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -32.13065615156055,
+        -69.38485291201548
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "8yIo1jU0uY",
+        "title": "",
+        "description": "# *危险地带*\n\n在高速公路下方飞行。",
+        "imageId": 1297335,
+        "imagePath": "/game_map_pin/1297335/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -22.29453573400223,
+        -69.3400272187736
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "q6sHwswOVC",
+        "title": "",
+        "description": "# *通向危险地带的高速公路*\n\n在桥下飞行。",
+        "imageId": 1297336,
+        "imagePath": "/game_map_pin/1297336/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        18.991099314354937,
+        -71.46791557936419
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "hqox7bqBMf",
+        "title": "",
+        "description": "# *危险地带的高速路*\n\n在工厂烟囱之间飞行",
+        "imageId": 1297337,
+        "imagePath": "/game_map_pin/1297337/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        4.166700425951434,
+        -72.14223335030664
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "imageId": null,
+        "externalId": "ZdeOapi9jV",
+        "title": "",
+        "description": "# *危险地带的高速路*\n\n在工厂烟囱之间飞行",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -12.284713291985538,
+        -66.84880534526285
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "imageId": null,
+        "externalId": "a5x37JZq4t",
+        "title": "",
+        "description": "# *通向危险地带的高速公路*\n\n在筒仓之间飞行。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        25.75934325116966,
+        -62.5724399442193
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "XQ4ixo6eKi",
+        "title": "",
+        "description": "# *危险地带*\n\n在尖塔之间飞行",
+        "imageId": 1297341,
+        "imagePath": "/game_map_pin/1297341/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        25.154011680545217,
+        -46.43326682234551
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "91iAcsgaxz",
+        "title": "",
+        "description": "# *危险地带*\n\n在尖塔之间飞行。",
+        "imageId": 1297345,
+        "imagePath": "/game_map_pin/1297345/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        42.883684137690864,
+        -49.365149161030146
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "HjUsAk1xkB",
+        "title": "",
+        "description": "# *危险地带的高速路*\n\n在工厂烟囱之间飞行",
+        "imageId": 1297346,
+        "imagePath": "/game_map_pin/1297346/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -24.205328351995675,
+        -8.99318772030029
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "9O4IcOZU3Y",
+        "title": "",
+        "description": "# *危险地带的高速路*\n\n在工厂烟囱之间飞行",
+        "imageId": 1297347,
+        "imagePath": "/game_map_pin/1297347/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -18.87989996419935,
+        -5.598235900117827
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "nO4HJEzKMi",
+        "title": "",
+        "description": "# *危险地带*\n\n在带有枪形切口的墙壁突出部分之间飞行。",
+        "imageId": 1297350,
+        "imagePath": "/game_map_pin/1297350/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -7.887962486270276,
+        4.270962714746946
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "ps2kbxe12v",
+        "title": "",
+        "description": "# *危险地带*\n\n在高速公路下方飞行。",
+        "imageId": 1297353,
+        "imagePath": "/game_map_pin/1297353/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -2.036380298484393,
+        21.999379383629236
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "6zMoI5xU0o",
+        "title": "",
+        "description": "# *危险地带*\n\n在尖塔之间飞行。",
+        "imageId": 1297357,
+        "imagePath": "/game_map_pin/1297357/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        23.304771133126827,
+        4.3943438402937725
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "Aa2h9YrWVI",
+        "title": "",
+        "description": "# *危险地带*\n\n在桥塔之间飞行。",
+        "imageId": 1297359,
+        "imagePath": "/game_map_pin/1297359/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        23.30361449320495,
+        5.426199389102662
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "cBsPkpP6pz",
+        "title": "",
+        "description": "# *危险地带*\n\n在桥塔之间飞行",
+        "imageId": 1297360,
+        "imagePath": "/game_map_pin/1297360/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        23.323974609375004,
+        3.425691524418062
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "yNuKW37hnR",
+        "title": "",
+        "description": "# *危险地带*\n\n在桥塔之间飞行",
+        "imageId": 1297362,
+        "imagePath": "/game_map_pin/1297362/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        39.474137492163436,
+        4.31526423441235
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "S5MVTWczdU",
+        "title": "",
+        "description": "# *危险地带*\n\n在高速公路下方飞行。",
+        "imageId": 1297363,
+        "imagePath": "/game_map_pin/1297363/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        33.65469794787215,
+        43.360181794005356
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "FRsVlMizGw",
+        "title": "",
+        "description": "# *危险地带*\n\n在尖塔之间飞行",
+        "imageId": 1297365,
+        "imagePath": "/game_map_pin/1297365/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        27.21719620809942,
+        61.95189534595985
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "eWcBbTMR33",
+        "title": "",
+        "description": "# *危险地带的高速路*\n\n在工厂烟囱之间飞行",
+        "imageId": 1297368,
+        "imagePath": "/game_map_pin/1297368/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        80.44124549116222,
+        72.70697521832795
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "imageId": 1297369,
+        "externalId": "jSfHxo11lp",
+        "title": "",
+        "description": "# *危险地带*\n\n在三排进场灯之间飞行。",
+        "imagePath": "/game_map_pin/1297369/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        87.72444108084231,
+        75.39062057331934
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "imageId": 1297371,
+        "externalId": "3QjpMRe3xw",
+        "title": "",
+        "description": "# *危险地带*\n\n在三排进场灯之间飞行。",
+        "imagePath": "/game_map_pin/1297371/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        138.32415517740367,
+        72.6604279501033
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "imageId": 1297372,
+        "externalId": "lnUTIig8HO",
+        "title": "",
+        "description": "# *危险地带*\n\n在三排进场灯之间飞行。",
+        "imagePath": "/game_map_pin/1297372/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        87.88247748228753,
+        52.68460674127791
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "imageId": 1297373,
+        "externalId": "MjK8xgcVfb",
+        "title": "",
+        "description": "# *危险地带*\n\n在三排进场灯之间飞行。",
+        "imagePath": "/game_map_pin/1297373/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        80.22319276666964,
+        42.49058521537953
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "6bTBZYuoIy",
+        "title": "",
+        "description": "# *危险地带的高速路*\n\n在工厂烟囱之间飞行",
+        "imageId": 1297374,
+        "imagePath": "/game_map_pin/1297374/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        139.82815177995772,
+        32.477684795611346
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "oe39vsKyjt",
+        "title": "",
+        "description": "# *危险地带*\n\n在尖塔之间飞行",
+        "imageId": 1297376,
+        "imagePath": "/game_map_pin/1297376/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        98.21080014832263,
+        -23.781084539963285
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "imageId": null,
+        "externalId": "1T74cplZPf",
+        "title": "",
+        "description": "# *危险地带*\n\n在工厂烟囱之间飞行。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        72.34276954567142,
+        -63.03507004459861
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "foubrkqcwe",
+        "title": "",
+        "description": "# *危险地带*\n\n在雕像的腿之间飞行。",
+        "imageId": 1297382,
+        "imagePath": "/game_map_pin/1297382/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        70.1349283662788,
+        -64.19956033089038
+      ],
+      "properties": {
+        "subcategoryExternalId": "6SnJgY6jbG",
+        "externalId": "wE1YdSXBjd",
+        "title": "",
+        "description": "# *危险地带*\n\n在熔化的钢铁和雕像腿之间飞行。",
+        "imageId": 1297383,
+        "imagePath": "/game_map_pin/1297383/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -86.81079271087776,
+        -8.109489145305975
+      ],
+      "properties": {
+        "subcategoryExternalId": "FDTuSeMAwF",
+        "externalId": "T4HSCnu0pZ",
+        "title": "肖迪的阁楼",
+        "description": "*像小提琴一样悠闲..等等，这句话是这么说的吗？*",
+        "imageId": 1297407,
+        "imagePath": "/game_map_pin/1297407/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -87.41292278651801,
+        59.699244496655055
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "imageId": 1297417,
+        "externalId": "XpYtqmd89B",
+        "title": "GPS快捷路线",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imagePath": "/game_map_pin/1297417/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -117.46457741897112,
+        39.27620212948351
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "imageId": null,
+        "externalId": "EPjk8U12T7",
+        "title": "GPS快捷路线",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -124.43218143177265,
+        31.553216279673926
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "imageId": 1297435,
+        "externalId": "RBZGD6ZHAo",
+        "title": "GPS快捷路线",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imagePath": "/game_map_pin/1297435/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -109.01339075923744,
+        30.590605655489554
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "FALASpanad",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297438,
+        "imagePath": "/game_map_pin/1297438/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -101.15097728483521,
+        31.48825648829097
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "imageId": null,
+        "externalId": "Z3nMsD6DWy",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -82.33064315451865,
+        30.972415070788525
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "imageId": null,
+        "externalId": "2ya38rTB8o",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -123.72263477965795,
+        12.345122713404146
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "eclAqJRhny",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297446,
+        "imagePath": "/game_map_pin/1297446/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -108.37334166725297,
+        16.417181869994533
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "dmWpz0WyaS",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297449,
+        "imagePath": "/game_map_pin/1297449/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -109.18055842910479,
+        3.569702707214411
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "Y3O7zGYUdR",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297450,
+        "imagePath": "/game_map_pin/1297450/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -96.388034902796,
+        3.4156073821474355
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "iY9HhKHtFb",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297454,
+        "imagePath": "/game_map_pin/1297454/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -88.52044329426117,
+        7.032785700527616
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "ptlgMb8U4u",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297458,
+        "imagePath": "/game_map_pin/1297458/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -108.91444918152155,
+        -13.780628407775287
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "Ja8E59dAlv",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297460,
+        "imagePath": "/game_map_pin/1297460/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -119.56416869190748,
+        -34.37973094948086
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "tbgxp9A9Zl",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297462,
+        "imagePath": "/game_map_pin/1297462/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -122.66326364235648,
+        -46.052138680244454
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "sPT2rHeIk4",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297466,
+        "imagePath": "/game_map_pin/1297466/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -122.27373205396766,
+        -48.749897648578674
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "A6mEpIin0v",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*\n\n有点难获得。祝你好运！",
+        "imageId": 1297471,
+        "imagePath": "/game_map_pin/1297471/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -123.42041015625001,
+        -48.92971763062956
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "imageId": null,
+        "externalId": "itzHgme3k9",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*\n\n有点难获得。祝你好运！",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -124.43506534069265,
+        -49.75012884695599
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "rfXROJvQ8X",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*\n\n有点难获得。祝你好运！",
+        "imageId": 1297475,
+        "imagePath": "/game_map_pin/1297475/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -117.11167206818438,
+        -49.11839329720782
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "LxRo55g3Jd",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*\n\n有点难获得。祝你好运！",
+        "imageId": 1297481,
+        "imagePath": "/game_map_pin/1297481/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -112.89343506448832,
+        -52.099576861088465
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "imageId": null,
+        "externalId": "u8gkgjTQTE",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -109.21451603386755,
+        -54.61615027049141
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "QQJT0v4VNY",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297483,
+        "imagePath": "/game_map_pin/1297483/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -109.26449928907954,
+        -58.49957808375857
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "QPAVocBfg7",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297486,
+        "imagePath": "/game_map_pin/1297486/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -105.32650039019147,
+        -51.94864892972604
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "3o2pRO7dXn",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297488,
+        "imagePath": "/game_map_pin/1297488/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -96.69665313593197,
+        -52.51533746786981
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "aARcmnsn8z",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297490,
+        "imagePath": "/game_map_pin/1297490/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -90.23426143951707,
+        -53.53171445362423
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "bB2SUPCKBt",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297492,
+        "imagePath": "/game_map_pin/1297492/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -96.72015807077439,
+        -56.933272597458156
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "bnmBESFED3",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297494,
+        "imagePath": "/game_map_pin/1297494/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -90.39189097391716,
+        -57.90129505345584
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "MZHIIklmAl",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297497,
+        "imagePath": "/game_map_pin/1297497/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -84.3125485399908,
+        -58.6777047840691
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "eCNi0dy5i8",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297498,
+        "imagePath": "/game_map_pin/1297498/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -86.76988731424157,
+        -64.71667832784718
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "EcziObHLki",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297500,
+        "imagePath": "/game_map_pin/1297500/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -96.6642040235755,
+        -64.5021686499451
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "KJAJzQQXBg",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297502,
+        "imagePath": "/game_map_pin/1297502/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -67.60572577328583,
+        -66.82418897733493
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "0dZcfJvTkv",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297510,
+        "imagePath": "/game_map_pin/1297510/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -67.80070375083194,
+        -62.677363102049675
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "71nuPCjTs3",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297511,
+        "imagePath": "/game_map_pin/1297511/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -67.54864130489166,
+        -58.850863611571
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "BLry9PdW2Q",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297513,
+        "imagePath": "/game_map_pin/1297513/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -67.65176174754714,
+        -56.09299741124011
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "VOws7wz617",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297516,
+        "imagePath": "/game_map_pin/1297516/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -46.564442680363165,
+        -57.267622470524316
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "ofs3o1Hz1p",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297519,
+        "imagePath": "/game_map_pin/1297519/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -35.32179634643418,
+        -57.94950823593879
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "Kn0Dzn8IJz",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297521,
+        "imagePath": "/game_map_pin/1297521/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -89.15973039485436,
+        -46.636465983404634
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "1Q5Y9YUPCD",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297524,
+        "imagePath": "/game_map_pin/1297524/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -66.41436029816039,
+        -30.22450541168454
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "DWKIgLuXEm",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297527,
+        "imagePath": "/game_map_pin/1297527/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -65.43118937109314,
+        -20.597977781640186
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "rsdF3Bi1vE",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297531,
+        "imagePath": "/game_map_pin/1297531/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -58.46918792261013,
+        -17.225332734152207
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "imageId": null,
+        "externalId": "ODmrAdcXJN",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -58.547578040054155,
+        -25.23031647199785
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "nAVsXnreHt",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297535,
+        "imagePath": "/game_map_pin/1297535/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -50.47255422959545,
+        -25.22131642611099
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "6AgHQc1wmx",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297537,
+        "imagePath": "/game_map_pin/1297537/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        15.073242187500002,
+        -64.57675354022052
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "6y9C0vwe38",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297545,
+        "imagePath": "/game_map_pin/1297545/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        2.017855584998594,
+        -61.37765325062933
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "0cBrbe9tPC",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297548,
+        "imagePath": "/game_map_pin/1297548/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        19.66969215377278,
+        -60.44260793291006
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "qGWrKFkeBs",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297549,
+        "imagePath": "/game_map_pin/1297549/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        27.143019699492246,
+        -67.67556074116972
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "4Gp6tUJzc9",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297551,
+        "imagePath": "/game_map_pin/1297551/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        47.96959833040281,
+        -20.900783123281673
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "BdavuEgFX6",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297552,
+        "imagePath": "/game_map_pin/1297552/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        34.36151923079917,
+        -17.91059520068892
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "imageId": null,
+        "externalId": "hT4pQ4NcjI",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        25.7479282514229,
+        -17.499666327754056
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "00OHuzqybI",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297556,
+        "imagePath": "/game_map_pin/1297556/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        34.29484157060981,
+        -11.644142625927262
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "puSAB3c9hm",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297557,
+        "imagePath": "/game_map_pin/1297557/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        51.72135813986176,
+        1.7103486864826631
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "mys3o3Q2Vt",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*\n\n可以在高速公路下方获得。",
+        "imageId": 1297559,
+        "imagePath": "/game_map_pin/1297559/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        23.14961872420513,
+        17.407436773528914
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "8UjjfvLwrZ",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297564,
+        "imagePath": "/game_map_pin/1297564/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        11.887236809899028,
+        16.715636673965605
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "imageId": null,
+        "externalId": "fmgkcjWcAH",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        1.9333942614042379,
+        16.951763267402807
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "huN27GrtoX",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297567,
+        "imagePath": "/game_map_pin/1297567/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -4.559209700769081,
+        1.5874687919555113
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "xjhTBj1167",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*\n\n可以在高速公路下方获得。",
+        "imageId": 1297568,
+        "imagePath": "/game_map_pin/1297568/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        33.816529379282365,
+        48.17061115521092
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "xqSHU7SOKv",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297569,
+        "imagePath": "/game_map_pin/1297569/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        45.63208949556143,
+        54.06620184119688
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "CP1tTlT0n0",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297570,
+        "imagePath": "/game_map_pin/1297570/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        119.31959844044317,
+        55.54648583547487
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "9P2kcdGRTV",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297573,
+        "imagePath": "/game_map_pin/1297573/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        125.88042252043707,
+        59.18025505297521
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "vfZi298PhD",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297574,
+        "imagePath": "/game_map_pin/1297574/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        138.6069316685166,
+        61.039262421637055
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "b75VoTZfj9",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297575,
+        "imagePath": "/game_map_pin/1297575/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        152.1502903170267,
+        61.18011749319876
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "jehbLnUzvX",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297576,
+        "imagePath": "/game_map_pin/1297576/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        140.4656202481158,
+        56.524111816738824
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "8qwV4BJnSf",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297577,
+        "imagePath": "/game_map_pin/1297577/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        142.67637987184352,
+        43.333543091201605
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "krd7h0YJXF",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297578,
+        "imagePath": "/game_map_pin/1297578/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        142.3452162298764,
+        38.73867485607256
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "zLDR6ImrZR",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297579,
+        "imagePath": "/game_map_pin/1297579/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        119.42239197999241,
+        35.197573160900845
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "vWL9pQzD7T",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297580,
+        "imagePath": "/game_map_pin/1297580/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        111.85680459310414,
+        35.12149595636469
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "sxCMhzZYdR",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297582,
+        "imagePath": "/game_map_pin/1297582/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        104.67883354524231,
+        35.17126010423601
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "EOH7IKA5E5",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297583,
+        "imagePath": "/game_map_pin/1297583/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        129.18124395744815,
+        17.87106160965029
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "UC1VHeKFhY",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297588,
+        "imagePath": "/game_map_pin/1297588/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        26.93304409282038,
+        -55.102413623314455
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "hWqoeR0ia7",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297590,
+        "imagePath": "/game_map_pin/1297590/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -114.14869158145727,
+        -45.714658358581616
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "T2GZux2Em7",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1297591,
+        "imagePath": "/game_map_pin/1297591/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -55.751909128011846,
+        -63.1448365749869
+      ],
+      "properties": {
+        "subcategoryExternalId": "XnvkUnnKq0",
+        "imageId": 1298950,
+        "externalId": "NRq62lA7Zk",
+        "title": "",
+        "description": "# *我不知道这些零件是从哪来的。*",
+        "imagePath": "/game_map_pin/1298950/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -131.51451435042281,
+        -35.09622210131931
+      ],
+      "properties": {
+        "subcategoryExternalId": "FLgfzUBQ93",
+        "imageId": 1298973,
+        "externalId": "teU9Aw2MQY",
+        "title": "",
+        "description": "# *看看我的座驾。*\n\n补偿者可以在帮派成员把守的小巷里找到。",
+        "imagePath": "/game_map_pin/1298973/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        87.24583985142523,
+        39.06354496969538
+      ],
+      "properties": {
+        "subcategoryExternalId": "FLgfzUBQ93",
+        "imageId": 1299042,
+        "externalId": "SEN9lrn4ZG",
+        "title": "",
+        "description": "# *看看我的座驾。*\n\n彼得莱纳可以在工业区停车场找到。",
+        "imagePath": "/game_map_pin/1299042/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        167.89903889568674,
+        59.385657964033626
+      ],
+      "properties": {
+        "subcategoryExternalId": "FLgfzUBQ93",
+        "externalId": "6z9PYWthUh",
+        "title": "车辆盗窃",
+        "description": "# *看看我的座驾。*\n\n鲨鱼可以在帮派成员把守的码头找到。",
+        "imageId": 1299047,
+        "imagePath": "/game_map_pin/1299047/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -30.189538841168023,
+        67.63749224953919
+      ],
+      "properties": {
+        "subcategoryExternalId": "XnvkUnnKq0",
+        "externalId": "MUZppat3f2",
+        "title": "里格斯海空补给站",
+        "description": "# *我不知道这些零件是从哪里来的*",
+        "imageId": 1299049,
+        "imagePath": "/game_map_pin/1299049/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -18.231843339186998,
+        -53.14336784881885
+      ],
+      "properties": {
+        "subcategoryExternalId": "FLgfzUBQ93",
+        "externalId": "L8NqArkEIt",
+        "title": "",
+        "description": "# *看看我的座驾。*\n\n迈阿密可以在帮派成员把守的码头找到。",
+        "imageId": 1299055,
+        "imagePath": "/game_map_pin/1299055/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        0.5041565081489053,
+        -72.18641407962403
+      ],
+      "properties": {
+        "subcategoryExternalId": "FLgfzUBQ93",
+        "externalId": "wG9zC5DBYY",
+        "title": "",
+        "description": "# *看看我的座驾。*\n\n压迫者可以在警察把守的工业区附近找到。",
+        "imageId": 1299056,
+        "imagePath": "/game_map_pin/1299056/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        86.72157373110848,
+        -37.498034354989514
+      ],
+      "properties": {
+        "subcategoryExternalId": "FLgfzUBQ93",
+        "externalId": "UgUIeepZh0",
+        "title": "",
+        "description": "# *看看我的座驾。*\n\n指挥官可以在塞拉角南部地区找到。",
+        "imageId": 1299061,
+        "imagePath": "/game_map_pin/1299061/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        83.95973261008257,
+        71.74935578977087
+      ],
+      "properties": {
+        "subcategoryExternalId": "FLgfzUBQ93",
+        "externalId": "DyMrAOZTvG",
+        "title": "",
+        "description": "# *看看我的座驾。*\n\n鹳鸟可以在韦斯利卡特机场机库附近找到，有人把守。",
+        "imageId": 1299066,
+        "imagePath": "/game_map_pin/1299066/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        129.99450801783686,
+        70.28265339406761
+      ],
+      "properties": {
+        "subcategoryExternalId": "FLgfzUBQ93",
+        "externalId": "HGBCniqWRX",
+        "title": "",
+        "description": "# *看看我的座驾。*\n\n啄木鸟可以在卡特机场圣徒机库附近找到。",
+        "imageId": 1299075,
+        "imagePath": "/game_map_pin/1299075/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        84.80089861295284,
+        60.046823356659274
+      ],
+      "properties": {
+        "subcategoryExternalId": "XnvkUnnKq0",
+        "imageId": 1299080,
+        "externalId": "XGYoVSPea7",
+        "title": "BJ巴恩斯的改装店",
+        "description": "# *我不知道这些零件是从哪里来的*",
+        "imagePath": "/game_map_pin/1299080/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -91.18901829136078,
+        -75.47324205262787
+      ],
+      "properties": {
+        "subcategoryExternalId": "FLgfzUBQ93",
+        "imageId": 1299099,
+        "externalId": "wQnVf9369C",
+        "title": "",
+        "description": "# *看看我的座驾。*\n\n秃鹫可以在3号赌场附近的停车场找到，有人把守。",
+        "imagePath": "/game_map_pin/1299099/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -13.160837924042315,
+        -38.85005243868876
+      ],
+      "properties": {
+        "subcategoryExternalId": "XnvkUnnKq0",
+        "externalId": "CbM9RuLPXP",
+        "title": "迪斯汽车行",
+        "description": "# *我不知道这些零件是从哪里来的*",
+        "imageId": 1299535,
+        "imagePath": "/game_map_pin/1299535/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -82.11931552508881,
+        -67.05539315003817
+      ],
+      "properties": {
+        "subcategoryExternalId": "FLgfzUBQ93",
+        "externalId": "ViTnxgek5Y",
+        "title": "",
+        "description": "# *看看我的座驾。*\n\n现状可以在金钱堆外面停车场找到，有人把守。",
+        "imageId": 1299538,
+        "imagePath": "/game_map_pin/1299538/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        85.7684151865984,
+        -19.83638686630485
+      ],
+      "properties": {
+        "subcategoryExternalId": "FLgfzUBQ93",
+        "externalId": "Zoi7qAYMxt",
+        "title": "",
+        "description": "# *看看我的座驾。*\n\n挑战者可以在塞拉角找到，有军队/STAG严密把守。",
+        "imageId": 1299547,
+        "imagePath": "/game_map_pin/1299547/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -1.369321050206176,
+        -45.73967751012097
+      ],
+      "properties": {
+        "subcategoryExternalId": "FLgfzUBQ93",
+        "externalId": "CD9qDFGB2u",
+        "title": "",
+        "description": "# *看看我的座驾。*\n\n神鹰可以在公园找到，有STAG严密把守。",
+        "imageId": 1299555,
+        "imagePath": "/game_map_pin/1299555/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -109.71054760060679,
+        41.87604651867555
+      ],
+      "properties": {
+        "subcategoryExternalId": "XnvkUnnKq0",
+        "imageId": null,
+        "externalId": "NhBnysrE4S",
+        "title": "Dae的拆车店",
+        "description": "# *我不知道这些零件是从哪里来的*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -47.16560883720355,
+        55.166146025070056
+      ],
+      "properties": {
+        "subcategoryExternalId": "FLgfzUBQ93",
+        "externalId": "C9q4F8yZKl",
+        "title": "",
+        "description": "# *看看我的座驾。*\n\n火炬可以在建筑物后面找到，有帮派成员把守。",
+        "imageId": 1299576,
+        "imagePath": "/game_map_pin/1299576/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -50.63996378236592,
+        59.465810376469825
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "imageId": 1299633,
+        "externalId": "HXU1KLHmYH",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔\n\n跳过集装箱货车。",
+        "imagePath": "/game_map_pin/1299633/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -161.75876079617635,
+        37.81694309490781
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "imageId": 1289997,
+        "externalId": "XtIugPuUg7",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imagePath": "/game_map_pin/1289997/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -104.98003746581313,
+        21.707996972199528
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "imageId": 1293146,
+        "externalId": "XkXnoT9RUW",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imagePath": "/game_map_pin/1293146/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -112.25892450445856,
+        22.068569862894908
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "imageId": 1293149,
+        "externalId": "QLP2ZQZmVJ",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imagePath": "/game_map_pin/1293149/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -115.48953392584043,
+        14.164488165017527
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "imageId": 1293109,
+        "externalId": "KNmDsQZWhL",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imagePath": "/game_map_pin/1293109/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -133.62082899200107,
+        -51.22350115054741
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "oSp3ISTdkA",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imageId": 1299644,
+        "imagePath": "/game_map_pin/1299644/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -121.31205434294726,
+        -52.10527369860722
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "yMDT6iqxd7",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imageId": 1299645,
+        "imagePath": "/game_map_pin/1299645/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -101.55390427674146,
+        -47.86507708761907
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "CyxM112fMB",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imageId": 1299648,
+        "imagePath": "/game_map_pin/1299648/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -91.93454554547398,
+        -42.550285893774884
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "PL7QsjeOqe",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imageId": 1299650,
+        "imagePath": "/game_map_pin/1299650/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -74.70461792919599,
+        -44.357534595603866
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "lzTu2gNGFa",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imageId": 1299651,
+        "imagePath": "/game_map_pin/1299651/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -59.80092992771998,
+        -37.99030800023964
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "A2dQpno07v",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imageId": 1299652,
+        "imagePath": "/game_map_pin/1299652/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -60.8942835729497,
+        -63.34782315997978
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "TIOtv0wMOd",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imageId": 1299654,
+        "imagePath": "/game_map_pin/1299654/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -61.059558933712424,
+        -12.355356254488752
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "imageId": 1289602,
+        "externalId": "DgGsxXrGJ0",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imagePath": "/game_map_pin/1289602/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -31.28577454454187,
+        7.478591822414681
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "imageId": 1293198,
+        "externalId": "zGP0LphNSt",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imagePath": "/game_map_pin/1293198/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -25.891034039147534,
+        -0.23187060495863804
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "imageId": 1293201,
+        "externalId": "VB8KTN6k4o",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imagePath": "/game_map_pin/1293201/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -30.333508073674793,
+        -0.9727647063783875
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "imageId": 1293205,
+        "externalId": "TxYnZER4u4",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imagePath": "/game_map_pin/1293205/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -8.216322142222467,
+        27.006301201133194
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "imageId": 1293241,
+        "externalId": "RB1pW9AEf3",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imagePath": "/game_map_pin/1293241/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        10.688022678190682,
+        42.81009869729905
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "imageId": 1293244,
+        "externalId": "B6dz7M5hyS",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imagePath": "/game_map_pin/1293244/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        15.743408203125002,
+        44.2294565683017
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "imageId": 1293249,
+        "externalId": "jt65BYdYAy",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imagePath": "/game_map_pin/1293249/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        39.217733373820806,
+        37.50260963363608
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "imageId": 1293255,
+        "externalId": "b9VuuFRTWw",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imagePath": "/game_map_pin/1293255/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        39.18168941878328,
+        41.14758044980655
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "imageId": 1293264,
+        "externalId": "g0Uc8bCkQf",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imagePath": "/game_map_pin/1293264/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        55.236372112185826,
+        39.99444189510168
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "qwpvNfufyA",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imageId": 1299672,
+        "imagePath": "/game_map_pin/1299672/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        65.04395490434318,
+        16.05478181613381
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "ygsxZGpfqy",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imageId": 1299673,
+        "imagePath": "/game_map_pin/1299673/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        18.64406172987749,
+        -41.15765320258509
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "imageId": 1293273,
+        "externalId": "rMn2XrbrqW",
+        "title": "特技跳跃",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imagePath": "/game_map_pin/1293273/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        35.20872298418476,
+        -67.92371337384778
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "NprItgD7WK",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imageId": 1299677,
+        "imagePath": "/game_map_pin/1299677/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        26.201738381621038,
+        -60.81433836181589
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "GQnVuLliSB",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imageId": 1299688,
+        "imagePath": "/game_map_pin/1299688/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        26.510009765625004,
+        -58.983991031797785
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "baP1ylS9FX",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imageId": 1299691,
+        "imagePath": "/game_map_pin/1299691/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        27.321361785882026,
+        -49.47545229310295
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "MxUGcGgSmB",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imageId": 1299694,
+        "imagePath": "/game_map_pin/1299694/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        32.68389495347881,
+        -48.90361925877526
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "x3bgFos2YJ",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imageId": 1299695,
+        "imagePath": "/game_map_pin/1299695/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        35.88717050957639,
+        -45.941272945612475
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "imageId": 1293324,
+        "externalId": "sWepBz6lu9",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imagePath": "/game_map_pin/1293324/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        43.098274245700885,
+        -42.311904224218864
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "externalId": "bpVIYtFi6C",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imageId": 1299706,
+        "imagePath": "/game_map_pin/1299706/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        78.74971785434549,
+        -16.966784909398616
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "imageId": 1293333,
+        "externalId": "05raXyohJC",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imagePath": "/game_map_pin/1293333/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        115.61218739231983,
+        12.4039759148321
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "imageId": 1293336,
+        "externalId": "80IiUd0sKb",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imagePath": "/game_map_pin/1293336/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        82.69893961454659,
+        63.34653342565441
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "imageId": 1293338,
+        "externalId": "FuChwlk67v",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imagePath": "/game_map_pin/1293338/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        139.88606816078124,
+        65.21868850845837
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "imageId": 1293341,
+        "externalId": "bEjlDxlFtS",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔",
+        "imagePath": "/game_map_pin/1293341/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        141.53198752160822,
+        63.659373965057796
+      ],
+      "properties": {
+        "subcategoryExternalId": "YPz53SW4tu",
+        "imageId": 1293346,
+        "externalId": "yq90JELcIm",
+        "title": "",
+        "description": "# \"*任何人都能跳摩托车。困难在于如何着陆*\" - 伊维尔·克尼维尔\n\n可以在建筑物顶部找到。",
+        "imagePath": "/game_map_pin/1293346/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -95.1899454069848,
+        -63.23304632829563
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "qzn2uyrW2u",
+        "title": "GPS快捷路线",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1299746,
+        "imagePath": "/game_map_pin/1299746/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -95.01095409415151,
+        -65.137347332614
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "0vA0chkcQO",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1299747,
+        "imagePath": "/game_map_pin/1299747/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -83.45870479900726,
+        -64.3030243282231
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "Sx4BKTm7nf",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1299750,
+        "imagePath": "/game_map_pin/1299750/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        29.265505315423507,
+        -53.03927930473483
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "externalId": "AF8rDYgxpa",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*",
+        "imageId": 1299774,
+        "imagePath": "/game_map_pin/1299774/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        33.04354490018902,
+        1.198067333846736
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "imageId": 1297561,
+        "externalId": "FubL5Q99UF",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*\n\n可以在高速公路下方获得。沿着高速公路下方的每条可用路径前进。",
+        "imagePath": "/game_map_pin/1297561/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -114.57891639682967,
+        -55.44491009148652
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "imageId": 1297485,
+        "externalId": "CEbF2FppRa",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*\n\n穿过这个区域的每条小巷",
+        "imagePath": "/game_map_pin/1297485/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -112.63785090364438,
+        -36.0382698668996
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "imageId": 1297463,
+        "externalId": "SQnsov5hqh",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*\n\n穿过这个区域的每条小巷",
+        "imagePath": "/game_map_pin/1297463/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -101.38070675466427,
+        39.53350478874942
+      ],
+      "properties": {
+        "subcategoryExternalId": "dT8AaD3klv",
+        "imageId": 1297431,
+        "externalId": "Tu6JcwmYye",
+        "title": "",
+        "description": "# *你疯了吗！？别走捷径！*\n\n穿过这个区域的每条小巷",
+        "imagePath": "/game_map_pin/1297431/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -78.86324393485579,
+        -79.03446054393505
+      ],
+      "properties": {
+        "subcategoryExternalId": "aCdGBqhw5y",
+        "imageId": 1300192,
+        "externalId": "RDRUAgjdpA",
+        "title": "地标",
+        "description": "# *显然，他们讨厌企鹅。*\n\n可以在所有货船尾部看到。",
+        "imagePath": "/game_map_pin/1300192/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -96.21854022709955,
+        -75.97713583058923
+      ],
+      "properties": {
+        "subcategoryExternalId": "aCdGBqhw5y",
+        "externalId": "81jqxG3gLd",
+        "title": "",
+        "description": "# *值得访问的可能区域*\n\n在一艘驳船型船只的指挥甲板上，有一张显示钢港可能兴趣点的地图。",
+        "imageId": 1300199,
+        "imagePath": "/game_map_pin/1300199/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        57.334545734644465,
+        57.96464644420859
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -476.3169250488281,
+          "y": 6.148730754852295,
+          "z": -850.5321655273438
+        },
+        "externalId": "3oz6tAlKD9",
+        "title": "友军火力",
+        "description": "",
+        "subcategoryExternalId": "UWCVxMVX9k",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        18.68187895096158,
+        -72.2198424076821
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -22.511301040649414,
+          "y": 5.431882858276367,
+          "z": 1315.64306640625
+        },
+        "externalId": "MuBVNNcoKE",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "syPWWBprPp",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -129.62329349793046,
+        -13.735252243225352
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1788.71923828125,
+          "y": 12.155019760131836,
+          "z": 182.42567443847656
+        },
+        "externalId": "K4BH0eTei4",
+        "title": "圣徒星球",
+        "description": "",
+        "subcategoryExternalId": "QfyTpFKITJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        157.3440951837282,
+        37.57431753902135
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1674.5673828125,
+          "y": 8.154999732971191,
+          "z": -473.8124084472656
+        },
+        "externalId": "DjZJNfRoct",
+        "title": "轮辋工作",
+        "description": "",
+        "subcategoryExternalId": "mCB3pJq2vK",
+        "imageId": null,
+        "imagePath": ""
+      }
+    }
+  ]
+}

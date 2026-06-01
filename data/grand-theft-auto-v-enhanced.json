@@ -1,0 +1,16 @@
+{
+  "slug": "grand-theft-auto-v-enhanced",
+  "title": "Grand Theft Auto V Enhanced",
+  "heroUrl": "/assets/images/games/grand-theft-auto-v-enhanced/hero.webp",
+  "maps": [
+    {
+      "name": "Los Santos",
+      "slug": "los-santos",
+      "thumbnailUrl": "/assets/images/games/grand-theft-auto-v-enhanced/los-santos.webp",
+      "updatedAt": "2026-02-20T01:37:06Z",
+      "markerCount": 1024,
+      "categoryCount": 8,
+      "subcategoryCount": 50
+    }
+  ]
+}

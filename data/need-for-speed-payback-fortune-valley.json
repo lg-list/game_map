@@ -1,0 +1,6095 @@
+{
+  "metadata": {
+    "externalId": "eAwba97NyS",
+    "name": "Fortune Valley",
+    "slug": "fortune-valley",
+    "baseTilePath": "https://storage-cdn.wemod.com/maps/b4b45f55-3f2d-4360-8a95-af247481cbb8/tiles",
+    "isChecklistPublished": true,
+    "isInActiveDevelopment": false,
+    "backgroundColor": "#160f0f",
+    "minZoom": 1,
+    "maxZoom": 5,
+    "initialZoom": null,
+    "tmsEnabled": false,
+    "categories": [
+      {
+        "externalId": "ofdMWOexY0",
+        "gameMapExternalId": "eAwba97NyS",
+        "title": "未命名分类",
+        "color": "#0fcfd2",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "yTJ3gTZvhD",
+        "gameMapExternalId": "eAwba97NyS",
+        "title": "未命名分类",
+        "color": "#2e3ae5",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "uvYarwhZmr",
+        "gameMapExternalId": "eAwba97NyS",
+        "title": "服务",
+        "color": "#ee4488",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "subcategories": [
+      {
+        "externalId": "ELt9m17IH5",
+        "categoryExternalId": "ofdMWOexY0",
+        "title": "漂移区",
+        "icon": "arrow-trend-up",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "KisxiTlEyv",
+        "categoryExternalId": "ofdMWOexY0",
+        "title": "未命名子分类",
+        "icon": "tachometer-alt-fastest",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "uPqU2rrr7R",
+        "categoryExternalId": "ofdMWOexY0",
+        "title": "未命名子分类",
+        "icon": "raygun",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "VN1JD0b6Un",
+        "categoryExternalId": "ofdMWOexY0",
+        "title": "未命名子分类",
+        "icon": "arrow-up-right",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "5j6ZmK8LOj",
+        "categoryExternalId": "yTJ3gTZvhD",
+        "title": "未命名子分类",
+        "icon": "cube",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "1pFoE1mBXo",
+        "categoryExternalId": "yTJ3gTZvhD",
+        "title": "未命名子分类",
+        "icon": "roundies:camera-and-photography-frame",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "ODesjIsuQD",
+        "categoryExternalId": "yTJ3gTZvhD",
+        "title": "未命名子分类",
+        "icon": "aperture",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "0X6uzeEuFO",
+        "categoryExternalId": "yTJ3gTZvhD",
+        "title": "未命名子分类",
+        "icon": "i",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "cEWkv2q1XW",
+        "categoryExternalId": "uvYarwhZmr",
+        "title": "未命名子分类",
+        "icon": "handshake",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "WQBcl8bv7m",
+        "categoryExternalId": "uvYarwhZmr",
+        "title": "未命名子分类",
+        "icon": "garage-car",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "uF0MWiKTDA",
+        "categoryExternalId": "uvYarwhZmr",
+        "title": "未命名子分类",
+        "icon": "roundies:energy-water-gasoline",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "8f7N3JS2ij",
+        "categoryExternalId": "uvYarwhZmr",
+        "title": "未命名子分类",
+        "icon": "roundies:roundies-freebie-wrench",
+        "excludeFromChecklists": true,
+        "description": ""
+      }
+    ],
+    "playerLocationDeltas": null
+  },
+  "features": [
+    {
+      "coordinates": [
+        46.362576014331644,
+        0.7943990065299882
+      ],
+      "properties": {
+        "subcategoryExternalId": "WQBcl8bv7m",
+        "imageId": null,
+        "externalId": "ENEA1x1Wrj",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        39.28710937500001,
+        0.5712795966325501
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "ilhxxRhX9m",
+        "title": "区域5.1",
+        "description": "获得星星所需速度：\n- ★ 129 公里/小时\n- ★★ 193 公里/小时\n- ★★★ 306 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        28.7841796875,
+        -0.615222552406841
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "Ef5n4ZSvB8",
+        "title": "不知道自己在做什么",
+        "description": "获得星级所需距离：\n- ⭐ 46米\n- ⭐⭐ 69米\n- ⭐⭐⭐ 87米",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        25.180664062500004,
+        -1.0985654960406492
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "19WmSu4RRd",
+        "title": "车库甩卖",
+        "description": "获得星星所需距离：\n- ★ 65米\n- ★★ 110米\n- ★★★ 147米",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        30.0146484375,
+        -2.1528135831288324
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "O88akBhEwq",
+        "title": "空中疯狂",
+        "description": "获得星星所需距离：\n- ★ 46米\n- ★★ 69米\n- ★★★ 83米",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        29.619140625000004,
+        -2.5040852618529073
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "j9KZY9v1Go",
+        "title": "与风共舞",
+        "description": "获得星星所需距离：\n- ★ 45米\n- ★★ 65米\n- ★★★ 78米",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        35.02441406250001,
+        -11.092165893501999
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "iJlzX0RE4H",
+        "title": "公路飞人",
+        "description": "获得星星所需速度：\n- ★ 161 公里/小时\n- ★★ 233 公里/小时\n- ★★★ 290 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -142.80384031662678,
+        -9.526129471743564
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "Fh159jR2cV",
+        "title": "不要眨眼",
+        "description": "获得星级所需速度：\n- ⭐ 145 公里/小时\n- ⭐⭐ 233 公里/小时\n- ⭐⭐⭐ 306 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -136.97753906250003,
+        -6.795535025719502
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "TuvxV1HGqi",
+        "title": "请出示驾照！",
+        "description": "获得星星所需积分：\n- ★ 16,000\n- ★★ 40,000\n- ★★★ 60,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -132.80273437500003,
+        -15.411319377981002
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "l2yPTPLO0w",
+        "title": "我们有麻烦了",
+        "description": "获得星级所需速度：\n- ⭐ 129 km/h\n- ⭐⭐ 145 km/h\n- ⭐⭐⭐ 161 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -122.65136718750001,
+        -3.8204080831949407
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "620rfhqbOT",
+        "title": "请出示驾照！",
+        "description": "获得星星所需积分：\n- ★ 16,000\n- ★★ 40,000\n- ★★★ 60,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -112.76367187500001,
+        -9.75237013917328
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "ewliNkKESF",
+        "title": "看起来很好感觉很好",
+        "description": "获得星星所需速度：\n- ★ 145 公里/小时\n- ★★ 217公里/小时\n- ★★★ 266 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -112.50000000000003,
+        -19.311143355064644
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "BFjsq2VU3D",
+        "title": "转动轮胎！",
+        "description": "获得星级所需积分：\n- ⭐ 30,000\n- ⭐⭐ 90,000\n- ⭐⭐⭐ 140,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -87.05566406250001,
+        -16.55196172197251
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "stHWKrbYUA",
+        "title": "转动轮胎！",
+        "description": "获得星级所需积分：\n- ⭐ 30,000\n- ⭐⭐ 90,000\n- ⭐⭐⭐ 140,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -80.1492301504274,
+        -8.134713912102068
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "TuZe6hYsQm",
+        "title": "动起来，不然就滚蛋",
+        "description": "获得星星所需速度：\n- ★ 193 公里/小时\n- ★★ 217 公里/小时\n- ★★★ 241 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -73.94391622351776,
+        0.3928108815600524
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "JXR5nvs9P9",
+        "title": "茄子",
+        "description": "获得星星所需速度：\n- ★ 145 公里/小时\n- ★★ 225 公里/小时\n- ★★★ 282 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -63.01757812500001,
+        9.102096738726459
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "yMKWFpnEuN",
+        "title": "亡命天涯",
+        "description": "获得星级所需速度：\n- ⭐ 145 km/h\n- ⭐⭐ 241km/h\n- ⭐⭐⭐ 330 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -126.8701171875,
+        -33.46810795527897
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "eA4XhNwOlw",
+        "title": "我们有麻烦了",
+        "description": "获得星级所需速度：\n- ⭐ 129 km/h\n- ⭐⭐ 145 km/h\n- ⭐⭐⭐ 161 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -135.21972656250003,
+        -36.27970720524017
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "PtMJFQOczt",
+        "title": "与我一起漂移",
+        "description": "获得星星所需积分：\n- ★ 20,000\n- ★★ 45,000\n- ★★★ 70,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -141.50390625000003,
+        -39.47012512235817
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "1iObrsn73V",
+        "title": "与我一起漂移",
+        "description": "获得星星所需积分：\n- ★ 20,000\n- ★★ 45,000\n- ★★★ 70,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -149.01855468750003,
+        -44.24519901522128
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "v5KX08NcYF",
+        "title": "510！",
+        "description": "获得星星所需速度：\n- ★ 177 公里/小时\n- ★★ 233 公里/小时\n- ★★★ 266 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -96.85830458779853,
+        -25.71126607903112
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "MZvb1PfSv1",
+        "title": "动起来，不然就滚蛋",
+        "description": "获得星星所需速度：\n- ★ 193 公里/小时\n- ★★ 217 公里/小时\n- ★★★ 241 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -99.88769531250001,
+        -33.61461929233378
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "x7j8xO0p3h",
+        "title": "斜坡橡树",
+        "description": "获得星级所需速度：\n- ⭐ 145 km/h\n- ⭐⭐ 225 km/h\n- ⭐⭐⭐ 257 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -92.32910156250001,
+        -37.23032838760386
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "dS7dtGxXBI",
+        "title": "D.K.",
+        "description": "获得星级所需积分：\n- ⭐ 12,000\n- ⭐⭐ 25,000\n- ⭐⭐⭐ 45,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -86.923828125,
+        -43.992814500489885
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "Ij5wvbnfX6",
+        "title": "柏油路面与轮胎的碰撞",
+        "description": "星级所需积分：\n- ⭐ 8,000\n- ⭐⭐ 28,000\n- ⭐⭐⭐ 50,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -81.25488281250001,
+        -47.93106634750978
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "OYeaGnQaNR",
+        "title": "柏油路面与轮胎的碰撞",
+        "description": "星级所需积分：\n- ⭐ 8,000\n- ⭐⭐ 28,000\n- ⭐⭐⭐ 50,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -91.62597656250003,
+        -44.43377984606823
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "UtyEP2cNuv",
+        "title": "伯格溪流",
+        "description": "获得星级所需速度：\n- ⭐ 169 km/h\n- ⭐⭐ 209 km/h\n- ⭐⭐⭐ 225 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -143.38714330471862,
+        -44.22740970120295
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "wulK6CvrEX",
+        "title": "进入状态",
+        "description": "获得星星所需积分：\n- ★ 20,000\n- ★★ 40,000\n- ★★★ 75,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -134.86816406250003,
+        -49.979487761086446
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "drxW2Bmp24",
+        "title": "进入状态",
+        "description": "获得星星所需积分：\n- ★ 20,000\n- ★★ 40,000\n- ★★★ 75,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -134.64843750000003,
+        -52.50953477032728
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "naCjzPvDLm",
+        "title": "物尽其用",
+        "description": "获得星星所需速度：\n- ★ 161 公里/小时\n- ★★ 257 公里/小时\n- ★★★ 322 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -127.13378906250001,
+        -54.21386100064491
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "MF06nXz0Gs",
+        "title": "快跳进来！没时间解释了！",
+        "description": "获得星级所需长度：\n- ★ 78米\n- ★★ 97米\n- ★★★ 124米",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -125.82477768539766,
+        -54.476223595816705
+      ],
+      "properties": {
+        "subcategoryExternalId": "cEWkv2q1XW",
+        "imageId": null,
+        "externalId": "HYxVRhHnNR",
+        "title": "极速越野经销店",
+        "description": "*需要 **Speedcross 故事包** 才能访问*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -130.87848862289763,
+        -56.46837152774021
+      ],
+      "properties": {
+        "subcategoryExternalId": "WQBcl8bv7m",
+        "imageId": null,
+        "externalId": "U3MMERVO1i",
+        "title": "",
+        "description": "价格：\n- $22,500",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -137.99762924789766,
+        -56.58955398247415
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "2Xd4aeg5ci",
+        "title": "前方有坑！",
+        "description": "获得星星所需速度：\n- ★ 193 公里/小时\n- ★★ 290 公里/小时\n- ★★★ 322 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -132.46051987289766,
+        -59.09120735155607
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "fhlEu4nPIP",
+        "title": "全力以赴",
+        "description": "获得星级所需速度：\n- ⭐ 177 km/h\n- ⭐⭐ 201 km/h\n- ⭐⭐⭐ 266 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -121.69391831039766,
+        -54.27144099003751
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "35cebdhwcE",
+        "title": "另一端",
+        "description": "获得星级所需速度：\n- ⭐ 153 公里/小时\n- ⭐⭐ 193 公里/小时\n- ⭐⭐⭐ 217 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -142.21637924789766,
+        -56.66207750136749
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "ciw5D92r5x",
+        "title": "尘埃落定",
+        "description": "获得星级所需速度：\n- ⭐ 145 公里/小时\n- ⭐⭐ 241 公里/小时\n- ⭐⭐⭐ 282 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -156.5915883890389,
+        -57.464685447324754
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "7mqjDupF0G",
+        "title": "漫长之路",
+        "description": "获得星级所需速度：\n- ⭐ 137 km/h\n- ⭐⭐ 233 km/h\n- ⭐⭐⭐ 274 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -107.62679185111658,
+        -59.72029418241455
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "B0LTVgaTsq",
+        "title": "另一端",
+        "description": "获得星级所需速度：\n- ⭐ 153 公里/小时\n- ⭐⭐ 193 公里/小时\n- ⭐⭐⭐ 217 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -101.03027343749999,
+        -57.421294392094055
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "d6yBhRDNzo",
+        "title": "我能看到群山",
+        "description": "获得星星所需距离：\n- ★ 51米\n- ★★ 74米\n- ★★★ 97米",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -98.48144531250013,
+        -57.136239319177406
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "h6KemvpvUd",
+        "title": "漂移就是一切！",
+        "description": "星级所需积分：\n- ⭐ 18,000\n- ⭐⭐ 40,000\n- ⭐⭐⭐ 60,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -89.9560546875,
+        -61.95961583829658
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "dKBicf3jQi",
+        "title": "漂移就是一切！",
+        "description": "星级所需积分：\n- ⭐ 18,000\n- ⭐⭐ 40,000\n- ⭐⭐⭐ 60,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -83.30795811478997,
+        -65.90589764719755
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "oHug8S5BvE",
+        "title": "飞驰而过",
+        "description": "获得星级所需速度：\n- ⭐ 145 km/h\n- ⭐⭐ 201 km/h\n- ⭐⭐⭐ 225 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -101.20605468750001,
+        -66.8265202749748
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "7nNEBDPPl9",
+        "title": "四轮着地",
+        "description": "获得星星所需积分：\n- ★ 8,000\n- ★★ 21,000\n- ★★★ 40,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -89.03320312500001,
+        -67.90861918215302
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "RgNU6lqDzq",
+        "title": "四轮着地",
+        "description": "获得星星所需积分：\n- ★ 8,000\n- ★★ 21,000\n- ★★★ 40,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -105.51796309538348,
+        -68.44450297728633
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "eyhmwtUGTY",
+        "title": "尘土飞扬的小径",
+        "description": "获得星级所需速度：\n- ⭐ 129 km/h\n- ⭐⭐ 153 km/h\n- ⭐⭐⭐ 193 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -80.41992187500001,
+        -75.48614809368257
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "LTsLnnAp5G",
+        "title": "继续漂移...",
+        "description": "获得星级所需积分：\n- ⭐ 16,000\n- ⭐⭐ 40,000\n- ⭐⭐⭐ 70,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -97.91015625,
+        -74.95939165894974
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "jQQnlvu1Qg",
+        "title": "继续漂移...",
+        "description": "获得星级所需积分：\n- ⭐ 16,000\n- ⭐⭐ 40,000\n- ⭐⭐⭐ 70,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -98.5693359375,
+        -71.92452773797696
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "lxgqwa3AZ7",
+        "title": "黑山森林",
+        "description": "获得星级所需速度：\n- ⭐ 137 公里/小时\n- ⭐⭐ 225 公里/小时\n- ⭐⭐⭐ 257 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -114.74121093750001,
+        -73.07384351277216
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "q8k2BnV1kG",
+        "title": "披萨快递",
+        "description": "获得星星所需速度：\n- ★ 185 km/h\n- ★★ 282 km/h\n- ★★★ 354 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -122.95898437500001,
+        -71.15939141681443
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "GbgJZfNOyL",
+        "title": "未知目的地",
+        "description": "获得星星所需距离：\n- ★ 74m\n- ★★ 110m\n- ★★★ 138m",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -119.44335937500001,
+        -70.22974449563026
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "zLonKeN0G0",
+        "title": "入弯处",
+        "description": "获得星级所需积分：\n- ⭐ 15,000\n- ⭐⭐ 36,000\n- ⭐⭐⭐ 60,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -118.08105468750001,
+        -71.84253921416637
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "CqjOrwybfW",
+        "title": "入弯处",
+        "description": "获得星级所需积分：\n- ⭐ 15,000\n- ⭐⭐ 36,000\n- ⭐⭐⭐ 60,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -127.16629736721978,
+        -64.42821888505703
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "dnJDfHD0Mx",
+        "title": "尘土飞扬的小径",
+        "description": "获得星级所需速度：\n- ⭐ 129 km/h\n- ⭐⭐ 153 km/h\n- ⭐⭐⭐ 193 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -132.67089843750003,
+        -71.86990857540805
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "RBLUJ6H5a1",
+        "title": "超光速",
+        "description": "获得星级所需速度：\n- ⭐ 129 km/h\n- ⭐⭐ 217 km/h\n- ⭐⭐⭐ 274 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -133.76953125000003,
+        -66.26685631430843
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "TvMHRM8b5q",
+        "title": "安全第一",
+        "description": "获得星星所需速度：\n- ★ 193 km/h\n- ★★ 274 km/h\n- ★★★ 306 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -140.00976562500003,
+        -65.7306264931103
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "ImjU9kNetn",
+        "title": "开车莫刷手机",
+        "description": "获得星星所需速度：\n- ★ 161 km/h\n- ★★ 217 km/h\n- ★★★ 266 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -135.00000000000003,
+        -67.18699968023047
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "nEgdhhbQbj",
+        "title": "尘埃落定",
+        "description": "获得星级所需速度：\n- ⭐ 145 公里/小时\n- ⭐⭐ 241 公里/小时\n- ⭐⭐⭐ 282 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -145.06347656250003,
+        -68.59248658252949
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "DZ8Q8kj0Ug",
+        "title": "漫长之路",
+        "description": "获得星级所需速度：\n- ⭐ 137 km/h\n- ⭐⭐ 233 km/h\n- ⭐⭐⭐ 274 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -48.076171875000036,
+        -74.14008387440464
+      ],
+      "properties": {
+        "subcategoryExternalId": "uF0MWiKTDA",
+        "imageId": null,
+        "externalId": "4BzzZtQFw8",
+        "title": "",
+        "description": "*可用于修复视觉损伤，也可用于在财富谷快速移动。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -16.435546875000004,
+        -75.27541260821626
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "ktD2pEYYsJ",
+        "title": "高峰时段",
+        "description": "获得星级所需速度：\n- ⭐ 145 公里/小时\n- ⭐⭐ 257 公里/小时\n- ⭐⭐⭐ 298 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -63.45703125000001,
+        -73.87371654457475
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "FILTQDieu6",
+        "title": "黑山森林",
+        "description": "获得星级所需速度：\n- ⭐ 137 公里/小时\n- ⭐⭐ 225 公里/小时\n- ⭐⭐⭐ 257 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        22.939453125,
+        -76.92061351829682
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "8vvO0h8PoB",
+        "title": "高峰时段",
+        "description": "获得星级所需速度：\n- ⭐ 145 公里/小时\n- ⭐⭐ 257 公里/小时\n- ⭐⭐⭐ 298 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -26.1003695284128,
+        -67.94452095224005
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "v8tvfh1mMc",
+        "title": "尘土飞扬",
+        "description": "获得星星所需速度：\n- ★ 153 km/h\n- ★★ 282 km/h\n- ★★★ 354 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -11.953125000000002,
+        -64.39693778132846
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "btkVSroRV9",
+        "title": "沙漠漂移",
+        "description": "获得星星所需积分：\n- ★ 15,000\n- ★★ 32,000\n- ★★★ 75,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -81.29882812500001,
+        -32.36140331527542
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "pvAlyK0fVe",
+        "title": "D.K.",
+        "description": "获得星级所需积分：\n- ⭐ 12,000\n- ⭐⭐ 25,000\n- ⭐⭐⭐ 45,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -17.622070312500004,
+        -54.418929968658254
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "yK3Bl11DCi",
+        "title": "沙漠漂移",
+        "description": "获得星星所需积分：\n- ★ 15,000\n- ★★ 32,000\n- ★★★ 75,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        10.151367187500002,
+        -61.39671887310411
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "pyWojC3y45",
+        "title": "路杀",
+        "description": "获得星星所需速度：\n- ★ 209 km/h\n- ★★ 266 km/h\n- ★★★ 306 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        45.01651510641687,
+        -57.98000790142333
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "rXAyfjq4m1",
+        "title": "路杀",
+        "description": "获得星星所需速度：\n- ★ 209 km/h\n- ★★ 266 km/h\n- ★★★ 306 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -60.99609375000001,
+        -21.04349121680354
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "PYvgxR0GYS",
+        "title": "时光飞逝",
+        "description": "获得星星所需速度：\n- ★ 129 km/h\n- ★★ 153 km/h\n- ★★★ 177 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -47.846208560932865,
+        -6.492335771441298
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "p9i2u2Tnyn",
+        "title": "时光飞逝",
+        "description": "获得星星所需速度：\n- ★ 129 km/h\n- ★★ 153 km/h\n- ★★★ 177 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -43.15429687500001,
+        -0.61522255240682
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "jH1d1czM66",
+        "title": "孩子，快下来！",
+        "description": "星级所需长度：\n- ⭐ 65米\n- ⭐⭐ 83米\n- ⭐⭐⭐ 101米",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -69.8024803387119,
+        2.498642583152051
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "LikpMyvy0t",
+        "title": "一口新鲜空气",
+        "description": "获得星星所需距离：\n- ★ 51m\n- ★★ 65m\n- ★★★ 83m",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -42.53906249999999,
+        -5.134714634014429
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "NjSYNLM2zN",
+        "title": "跑吧，少年",
+        "description": "获得星星所需速度：\n- ★ 177 km/h\n- ★★ 241 km/h\n- ★★★ 282 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -33.48632812500001,
+        -2.7235830833483874
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "ypNbCAMja9",
+        "title": "进入轨道",
+        "description": "获得星级所需长度：\n- ⭐ 51米\n- ⭐⭐ 65米\n- ⭐⭐⭐ 78米",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -29.1357421875,
+        3.4256915244180703
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "9tTVQloOzv",
+        "title": "通过测试",
+        "description": "获得星星所需速度：\n- ★ 145 km/h\n- ★★ 161 km/h\n- ★★★ 193 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -35.15625000000001,
+        13.62463343823616
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "5nKsorUNxV",
+        "title": "拍我好看的一面",
+        "description": "获得星星所需速度：\n- ★ 185 km/h\n- ★★ 225 km/h\n- ★★★ 306 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -26.762695312500004,
+        22.958393318086348
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "Ob68P7FK6F",
+        "title": "弹射按钮",
+        "description": "获得星星所需距离：\n- ★ 71m\n- ★★ 119m\n- ★★★ 165m",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -11.337890625000002,
+        26.667095801104807
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "BN3zmsn6Ux",
+        "title": "一去不回",
+        "description": "获得星星所需速度：\n- ★ 153 km/h\n- ★★ 249 km/h\n- ★★★ 322 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -11.953125000000002,
+        16.804541076383444
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "ZhAjjkD8Y5",
+        "title": "地狱通勤",
+        "description": "获得星星所需速度：\n- ★ 209 km/h\n- ★★ 282 km/h\n- ★★★ 330 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -1.7138671875000002,
+        30.82678090477978
+      ],
+      "properties": {
+        "subcategoryExternalId": "uF0MWiKTDA",
+        "imageId": null,
+        "externalId": "JriCfOZ63j",
+        "title": "",
+        "description": "*可用于修复视觉损伤，也可用于在财富谷快速移动。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        30.278320312500004,
+        15.02968575655568
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "lIv1chl3C6",
+        "title": "你能行的！",
+        "description": "获得星级所需积分：\n- ⭐ 12,000\n- ⭐⭐ 35,000\n- ⭐⭐⭐ 60,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        39.50683593750001,
+        26.03704188651584
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "SNCRnq4KYM",
+        "title": "你能行的！",
+        "description": "获得星级所需积分：\n- ⭐ 12,000\n- ⭐⭐ 35,000\n- ⭐⭐⭐ 60,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        29.970703125000004,
+        1.2303741774325943
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "aHDwjp9zGV",
+        "title": "奔跑小子",
+        "description": "获得星星所需速度：\n- ★ 145 km/h\n- ★★ 185 km/h\n- ★★★ 201 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        43.1982421875,
+        24.886436490787712
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "LzK8jIPtVk",
+        "title": "随风而逝",
+        "description": "获得星星所需速度：\n- ★ 121 km/h\n- ★★ 145 km/h\n- ★★★ 161 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        53.26171875,
+        8.581021215641854
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "IY13kvQdgs",
+        "title": "随风而逝",
+        "description": "获得星星所需速度：\n- ★ 121 km/h\n- ★★ 145 km/h\n- ★★★ 161 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        62.13867187500001,
+        6.620957270326323
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "47N3nL0viY",
+        "title": "看这里",
+        "description": "获得星星所需速度：\n- ★ 129 km/h\n- ★★ 225 km/h\n- ★★★ 274 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        64.24804687500001,
+        0.7909904981540024
+      ],
+      "properties": {
+        "subcategoryExternalId": "uF0MWiKTDA",
+        "imageId": null,
+        "externalId": "toxp7t6WQH",
+        "title": "",
+        "description": "*可用于修复视觉损伤，也可用于在财富谷快速移动。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        56.689453125000014,
+        -1.7136116598836253
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "TOQsTCUthW",
+        "title": "颠簸之路",
+        "description": "获得星星所需速度：\n- ★ 145 公里/小时\n- ★★ 233 公里/小时\n- ★★★ 282 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        64.75874175583331,
+        -15.696618571590193
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "b3aBbEgry6",
+        "title": "什么刹车踏板？",
+        "description": "获得星级所需速度：\n- ⭐ 169 km/h\n- ⭐⭐ 209 km/h\n- ⭐⭐⭐ 233 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        65.96191406250001,
+        -39.707186656826565
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "ZPup4kaePF",
+        "title": "什么刹车踏板？",
+        "description": "获得星级所需速度：\n- ⭐ 169 km/h\n- ⭐⭐ 209 km/h\n- ⭐⭐⭐ 233 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        32.38769531250001,
+        -26.1948766757952
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "RxOMC705wC",
+        "title": "金属踏板",
+        "description": "星级所需速度：\n- ⭐ 145 公里/小时\n- ⭐⭐ 241 公里/小时\n- ⭐⭐⭐ 274 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        40.03417968750001,
+        -47.90161354142076
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "qhlIP5EpOc",
+        "title": "金属踏板",
+        "description": "星级所需速度：\n- ⭐ 145 公里/小时\n- ⭐⭐ 241 公里/小时\n- ⭐⭐⭐ 274 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        15.820312500000004,
+        -15.36894989653473
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "v2v0rmWRHT",
+        "title": "地狱通勤",
+        "description": "获得星星所需速度：\n- ★ 209 km/h\n- ★★ 282 km/h\n- ★★★ 330 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        12.352103741018762,
+        -3.9585044760200025
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "m0RGQiOdNl",
+        "title": "减速",
+        "description": "获得星星所需速度：\n- ★ 201 公里/小时\n- ★★ 290 公里/小时\n- ★★★ 354 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -110.12695312500001,
+        -31.840232667909355
+      ],
+      "properties": {
+        "subcategoryExternalId": "8f7N3JS2ij",
+        "imageId": null,
+        "externalId": "srNHw7d00U",
+        "title": "",
+        "description": "*通过遍布命运谷的多家商店销售性能配件，配件取决于玩家当前驾驶的车辆*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        7.119140625,
+        -5.441022303717958
+      ],
+      "properties": {
+        "subcategoryExternalId": "8f7N3JS2ij",
+        "imageId": null,
+        "externalId": "Ug4lfWNobk",
+        "title": "",
+        "description": "*通过遍布命运谷的多家商店销售性能配件，配件取决于玩家当前驾驶的车辆*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -20.258789062500004,
+        -13.539200668930818
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "d8iEjPAcCP",
+        "title": "通过测试",
+        "description": "获得星星所需速度：\n- ★ 145 km/h\n- ★★ 161 km/h\n- ★★★ 193 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -29.487304687500004,
+        -28.420391085674275
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "JqTd8Hjnbn",
+        "title": "跑吧，少年",
+        "description": "获得星星所需速度：\n- ★ 177 km/h\n- ★★ 241 km/h\n- ★★★ 282 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -27.949218750000004,
+        -31.165809587861943
+      ],
+      "properties": {
+        "subcategoryExternalId": "cEWkv2q1XW",
+        "imageId": null,
+        "externalId": "nwpshIVazI",
+        "title": "越野车经销店",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -64.29199218750001,
+        -38.6511983322995
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "bUmbAjefyu",
+        "title": "全速前进",
+        "description": "星级所需速度：\n- ⭐ 185 km/h\n- ⭐⭐ 225 km/h\n- ⭐⭐⭐ 266 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -35.39614044326469,
+        -37.60098479175607
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "kaDGyR8vDT",
+        "title": "全速前进",
+        "description": "星级所需速度：\n- ⭐ 185 km/h\n- ⭐⭐ 225 km/h\n- ⭐⭐⭐ 266 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -19.37006498883901,
+        -35.42686947825775
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "nOESmGhHNj",
+        "title": "抓到你了！",
+        "description": "获得星级所需速度：\n- ⭐ 169 km/h\n- ⭐⭐ 274 km/h\n- ⭐⭐⭐ 330 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        0.6152343750000001,
+        -11.695272733029402
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "oi980WgioD",
+        "title": "布拉克斯顿，我们有麻烦了",
+        "description": "获得星级所需速度：\n- ⭐ 225 km/h\n- ⭐⭐ 257 km/h\n- ⭐⭐⭐ 298 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -12.612304687500002,
+        -29.34387539941801
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "WR9nbyhrVA",
+        "title": "布拉克斯顿，我们有麻烦了",
+        "description": "获得星级所需速度：\n- ⭐ 225 km/h\n- ⭐⭐ 257 km/h\n- ⭐⭐⭐ 298 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -4.833984375000002,
+        -35.78217070326606
+      ],
+      "properties": {
+        "subcategoryExternalId": "uF0MWiKTDA",
+        "imageId": null,
+        "externalId": "3flRS2x0Vi",
+        "title": "",
+        "description": "*可用于修复视觉损伤，也可用于在财富谷快速移动。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -0.4394531250000001,
+        -37.82280243352755
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "3S6GJPVQPz",
+        "title": "从A到B",
+        "description": "获得星星所需速度：\n- ★ 145 公里/小时\n- ★★ 225 公里/小时\n- ★★★ 290 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        19.248046875000004,
+        -28.26568239014646
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "XeUD5pa2Ba",
+        "title": "从A到B",
+        "description": "获得星星所需速度：\n- ★ 145 公里/小时\n- ★★ 225 公里/小时\n- ★★★ 290 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -3.1640625000000004,
+        -28.65203063036226
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "5g0kP4vumH",
+        "title": "好吧！你来开！",
+        "description": "获得星星所需分数：\n- ★ 12,000\n- ★★ 24,000\n- ★★★ 40,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        9.624023437500002,
+        -22.95839331808635
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "N2QrDk1X7i",
+        "title": "好吧！你来开！",
+        "description": "获得星星所需分数：\n- ★ 12,000\n- ★★ 24,000\n- ★★★ 40,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -1.4941406250000002,
+        -28.729130483430154
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "Wq6q7M2lON",
+        "title": "远处",
+        "description": "获得星星所需距离：\n- ★ 60米\n- ★★ 87米\n- ★★★ 115米",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        35.94726562500001,
+        -2.416275654706382
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "HsAUc241qW",
+        "title": "不用手",
+        "description": "获得星星所需距离：\n- ★ 37米\n- ★★ 46米\n- ★★★ 55米",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -0.6591796875000001,
+        -27.410785702577023
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "yG0BhCnYp4",
+        "title": "还剩8条命",
+        "description": "获得星星所需距离：\n- ★ 65米\n- ★★ 92米\n- ★★★ 119米",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        1.6699218750000002,
+        -25.760319754713873
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "dqYh4r2pF9",
+        "title": "别讨厌",
+        "description": "获得星星所需距离：\n- ★ 65米\n- ★★ 83米\n- ★★★ 119米",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        6.416015625000001,
+        -19.601194161263145
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "DCJS4Xbl3F",
+        "title": "检查发动机！！",
+        "description": "获得星星所需距离：\n- ★ 64米\n- ★★ 101米\n- ★★★ 124米",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        7.778320312500001,
+        -27.215556209029675
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "1X4lOfymqO",
+        "title": "重力消失",
+        "description": "获得星星所需距离：\n- ★ 74米\n- ★★ 97米\n- ★★★ 124米",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -26.504187800787214,
+        38.13633736311556
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "J5Yrpgdzi8",
+        "title": "走私者小径",
+        "description": "获得星级所需速度：\n- ⭐ 137 km/h\n- ⭐⭐ 233 km/h\n- ⭐⭐⭐ 274 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -24.844046014359016,
+        51.142591972779584
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "pGP4Qau21w",
+        "title": "走私者小径",
+        "description": "获得星级所需速度：\n- ⭐ 137 km/h\n- ⭐⭐ 233 km/h\n- ⭐⭐⭐ 274 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -8.789062500000002,
+        51.6180165487737
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "Qvb7vvYFsd",
+        "title": "翻山越岭",
+        "description": "获得星星所需分数：\n- ★ 25,000\n- ★★ 75,000\n- ★★★ 130,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -1.916141882877649,
+        45.82589996646766
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "cet0y2x5R0",
+        "title": "翻山越岭",
+        "description": "获得星星所需分数：\n- ★ 25,000\n- ★★ 75,000\n- ★★★ 130,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -0.5273437500000001,
+        56.77680831656842
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "vNfaQd8UrV",
+        "title": "玩得不错",
+        "description": "获得星星所需分数：\n- ★ 18,000\n- ★★ 40,000\n- ★★★ 70,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        17.226562500000004,
+        55.973798205076605
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "SKD4Kkqghm",
+        "title": "玩得不错",
+        "description": "获得星星所需分数：\n- ★ 18,000\n- ★★ 40,000\n- ★★★ 70,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        16.347656250000004,
+        53.67068019347264
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "cHeaxQtrwN",
+        "title": "一击即中",
+        "description": "获得星级所需积分：\n- ⭐ 12,000\n- ⭐⭐ 28,000\n- ⭐⭐⭐ 50,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        15.688476562500002,
+        48.07807894349862
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "MpidoA2eJb",
+        "title": "一击即中",
+        "description": "获得星级所需积分：\n- ⭐ 12,000\n- ⭐⭐ 28,000\n- ⭐⭐⭐ 50,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        6.943359375000001,
+        18.271086109608888
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "D8vYmXGbQS",
+        "title": "奔跑小子",
+        "description": "获得星星所需速度：\n- ★ 145 km/h\n- ★★ 185 km/h\n- ★★★ 201 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        11.733398437500002,
+        54.08517342088679
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "o1IIXnJRcg",
+        "title": "超级驾驶",
+        "description": "获得星星所需速度：\n- ★ 193 公里/小时\n- ★★ 209 公里/小时\n- ★★★ 233 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        15.161132812500004,
+        41.50857729743933
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "GKOzXQrzBC",
+        "title": "超级驾驶",
+        "description": "获得星星所需速度：\n- ★ 193 公里/小时\n- ★★ 209 公里/小时\n- ★★★ 233 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        55.4150390625,
+        2.76747795109209
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "Vq3OwSzBYp",
+        "title": "空中飞球",
+        "description": "获得星星所需距离：\n- ★ 78米\n- ★★ 85米\n- ★★★ 92米",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        12.524414062500002,
+        41.86956082699447
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "B3Ho0ythhl",
+        "title": "单程票",
+        "description": "获得星星所需距离：\n- ★ 78米\n- ★★ 97米\n- ★★★ 119米",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        26.894531250000004,
+        53.27835301753183
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "ax09G6yUVe",
+        "title": "我要回家打电话！",
+        "description": "获得星级所需长度：\n- ⭐ 74米\n- ⭐⭐ 101米\n- ⭐⭐⭐ 119米",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        31.11328125,
+        51.890053935217
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "JO1Zf26IHE",
+        "title": "小颠簸",
+        "description": "获得星星所需距离：\n- ★ 65米\n- ★★ 83米\n- ★★★ 110米",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        35.33203125000001,
+        52.42922227795526
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "ANGnZTfS16",
+        "title": "甩尾漂移",
+        "description": "获得星级所需积分：\n- ⭐ 10,000\n- ⭐⭐ 25,000\n- ⭐⭐⭐ 50,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        36.03515625000001,
+        45.52174389699363
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "ob4JdcUgjd",
+        "title": "甩尾漂移",
+        "description": "获得星级所需积分：\n- ⭐ 10,000\n- ⭐⭐ 25,000\n- ⭐⭐⭐ 50,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        35.46386718750001,
+        55.053202585371196
+      ],
+      "properties": {
+        "subcategoryExternalId": "cEWkv2q1XW",
+        "imageId": null,
+        "externalId": "8tK1puU7u5",
+        "title": "赛车经销商",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        36.21093750000001,
+        54.36775852406845
+      ],
+      "properties": {
+        "subcategoryExternalId": "uF0MWiKTDA",
+        "imageId": null,
+        "externalId": "VY85IUkyyl",
+        "title": "",
+        "description": "*可用于修复视觉损伤，也可用于在财富谷快速移动。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        44.86816406250001,
+        37.788081384120474
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "4DNgX5zVda",
+        "title": "包装完毕",
+        "description": "获得星星所需速度：\n- ★ 177 公里/小时\n- ★★ 225 公里/小时\n- ★★★ 266 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        38.86950362693948,
+        57.196291010649894
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "IZ4cZ8dQuu",
+        "title": "过关并得到$200",
+        "description": "获得星星所需速度：\n- ★ 145 公里/小时\n- ★★ 225 公里/小时\n- ★★★ 266 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        49.79003906250001,
+        50.3734961443035
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "2GtmqwhT6r",
+        "title": "飞驰的子弹！",
+        "description": "获得星星所需速度：\n- ★ 169 公里/小时\n- ★★ 266 公里/小时\n- ★★★ 306 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        88.59375000000001,
+        51.781435604431195
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "i6eoiQDaLL",
+        "title": "飞驰的子弹！",
+        "description": "获得星星所需速度：\n- ★ 169 公里/小时\n- ★★ 266 公里/小时\n- ★★★ 306 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        67.71972656250001,
+        51.26191485308451
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "PpP4I5onCA",
+        "title": "在路上",
+        "description": "获得星星所需速度：\n- ★ 153 公里/小时\n- ★★ 257 公里/小时\n- ★★★ 330 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        64.33593750000001,
+        62.49202773042693
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "LsXHf0c5YC",
+        "title": "霰弹枪！",
+        "description": "获得星星所需速度：\n- ★ 137 公里/小时\n- ★★ 185 公里/小时\n- ★★★ 230 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        80.63964843750003,
+        64.49172504435472
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "HqQPrrj9Ku",
+        "title": "霰弹枪！",
+        "description": "获得星星所需速度：\n- ★ 137 公里/小时\n- ★★ 185 公里/小时\n- ★★★ 230 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        64.99511718750001,
+        57.86813176332885
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "i2Ss3AuYzF",
+        "title": "闪电战",
+        "description": "获得星级所需速度：\n- ⭐ 145 km/h\n- ⭐⭐ 177 km/h\n- ⭐⭐⭐ 201 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        81.16699218750003,
+        61.627286461474654
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "eBUi6Kzr1F",
+        "title": "闪电战",
+        "description": "获得星级所需速度：\n- ⭐ 145 km/h\n- ⭐⭐ 177 km/h\n- ⭐⭐⭐ 201 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        92.32910156250001,
+        63.56812048092107
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "zfeXxo4vdm",
+        "title": "别撞它！漂移过去！",
+        "description": "获得星级所需积分：\n- ⭐ 18,000\n- ⭐⭐ 42,000\n- ⭐⭐⭐ 75,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        105.02929687500001,
+        64.97935921996029
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "MgoynZFKGG",
+        "title": "别撞它！漂移过去！",
+        "description": "获得星级所需积分：\n- ⭐ 18,000\n- ⭐⭐ 42,000\n- ⭐⭐⭐ 75,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        118.69628906250001,
+        68.8159271333607
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "hrQjaBlM2J",
+        "title": "漂移人生",
+        "description": "获得星星所需分数：\n- ★ 14,000\n- ★★ 24,000\n- ★★★ 50,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        119.48730468750001,
+        71.89723806605394
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "15zweD2Tha",
+        "title": "漂移人生",
+        "description": "获得星星所需分数：\n- ★ 14,000\n- ★★ 24,000\n- ★★★ 50,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        109.81933593750001,
+        69.02141408835533
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "e0vmFQqFhI",
+        "title": "该死的海狸",
+        "description": "获得星星所需速度：\n- ★ 161 公里/小时\n- ★★ 217 公里/小时\n- ★★★ 241 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        125.85937500000001,
+        69.59589006237651
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "4zPdMdvhNa",
+        "title": "起飞",
+        "description": "获得星级所需速度：\n- ⭐ 137 km/h\n- ⭐⭐ 169 km/h\n- ⭐⭐⭐ 185 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        132.36328125000003,
+        64.94216049820733
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "wXq9AQcWCD",
+        "title": "起飞",
+        "description": "获得星级所需速度：\n- ⭐ 137 km/h\n- ⭐⭐ 169 km/h\n- ⭐⭐⭐ 185 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        132.09960937500003,
+        63.37183226679281
+      ],
+      "properties": {
+        "subcategoryExternalId": "uF0MWiKTDA",
+        "imageId": null,
+        "externalId": "ppeRl1WoP7",
+        "title": "",
+        "description": "*可用于修复视觉损伤，也可用于在财富谷快速移动。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        115.44433593750001,
+        59.377988012638916
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "ox28b7J3Bq",
+        "title": "别上当",
+        "description": "获得星星所需速度：\n- ★ 201 公里/小时\n- ★★ 257 公里/小时\n- ★★★ 298 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        121.72851562500001,
+        58.56252272853734
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "3sGQOEfsPn",
+        "title": "画面定格",
+        "description": "获得星星所需速度：\n- ★ 177 公里/小时\n- ★★ 274 公里/小时\n- ★★★ 322 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        149.76562500000003,
+        59.60109549032134
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "JBFVLT3aLF",
+        "title": "压倒性优势",
+        "description": "获得星级所需积分：\n- ⭐ 25,000\n- ⭐⭐ 65,000\n- ⭐⭐⭐ 100,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        148.97460937500003,
+        55.75184939173528
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "FWr364eUcx",
+        "title": "压倒性优势",
+        "description": "获得星级所需积分：\n- ⭐ 25,000\n- ⭐⭐ 65,000\n- ⭐⭐⭐ 100,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        122.78320312500001,
+        51.645294049305406
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "uNGgKEsrzi",
+        "title": "大师课程",
+        "description": "获得星星所需分数：\n- ★ 16,000\n- ★★ 35,000\n- ★★★ 60,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        134.03320312500003,
+        51.83577752045248
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "jBnzncTuGM",
+        "title": "大师课程",
+        "description": "获得星星所需分数：\n- ★ 16,000\n- ★★ 35,000\n- ★★★ 60,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        137.37304687500003,
+        53.696706475303245
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "UO4YppHcYp",
+        "title": "随风飘散",
+        "description": "获得星星所需速度：\n- ★ 145 公里/小时\n- ★★ 169 公里/小时\n- ★★★ 185 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        146.20605468750003,
+        45.920587344733654
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "74RLvRqrhr",
+        "title": "狂野飙车",
+        "description": "获得星级所需速度：\n- ⭐ 137 km/h\n- ⭐⭐ 185 km/h\n- ⭐⭐⭐ 217 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        135.52734375000003,
+        35.46066995149532
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "fxGOvSjQwX",
+        "title": "随风飘散",
+        "description": "获得星星所需速度：\n- ★ 145 公里/小时\n- ★★ 169 公里/小时\n- ★★★ 185 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        133.81347656250003,
+        37.822802433527585
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "tjJpsJ0YcI",
+        "title": "狂野飙车",
+        "description": "获得星级所需速度：\n- ⭐ 137 km/h\n- ⭐⭐ 185 km/h\n- ⭐⭐⭐ 217 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        145.67871093750003,
+        47.69497434186283
+      ],
+      "properties": {
+        "subcategoryExternalId": "uF0MWiKTDA",
+        "imageId": null,
+        "externalId": "PIhxOhc0NV",
+        "title": "",
+        "description": "*可用于修复视觉损伤，也可用于在财富谷快速移动。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        142.42675781250003,
+        46.95026224218563
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "yaZjlGQvZ9",
+        "title": "疯狂跳跃",
+        "description": "获得星星所需距离：\n- ★ 60米\n- ★★ 97米\n- ★★★ 119米",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        135.92285156250003,
+        46.43785689502414
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "r8RhrjIFD2",
+        "title": "暮光地带",
+        "description": "获得星星所需距离：\n- ★ 83米\n- ★★ 110米\n- ★★★ 147米",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        105.42480468750001,
+        47.12995075666308
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "e9ef80Zlpw",
+        "title": "飞驰而过",
+        "description": "获得星星所需速度：\n- ★ 129 公里/小时\n- ★★ 185 公里/小时\n- ★★★ 209 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        108.14941406250001,
+        47.78363463526378
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "d7yOA89iBU",
+        "title": "调高音量",
+        "description": "获得星星所需分数：\n- ★ 15,000\n- ★★ 40,000\n- ★★★ 65,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        110.91796875000001,
+        37.54457732085584
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "y0REOhn8gh",
+        "title": "调高音量",
+        "description": "获得星星所需分数：\n- ★ 15,000\n- ★★ 40,000\n- ★★★ 65,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        80.95634134774087,
+        9.234368219909879
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "uTxo6Gu5ft",
+        "title": "颠簸之路",
+        "description": "获得星星所需速度：\n- ★ 145 公里/小时\n- ★★ 233 公里/小时\n- ★★★ 282 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        122.30088087287392,
+        35.70935154782723
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "iXveKcLW03",
+        "title": "速度极限或破纪录",
+        "description": "获得星级所需速度：\n- ⭐ 201 km/h\n- ⭐⭐ 249 km/h\n- ⭐⭐⭐ 322 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        144.36035156250003,
+        6.09685981888795
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "V8ItXdNYhN",
+        "title": "速度极限或破纪录",
+        "description": "获得星级所需速度：\n- ⭐ 201 km/h\n- ⭐⭐ 249 km/h\n- ⭐⭐⭐ 322 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        142.20703125000003,
+        12.940322128384622
+      ],
+      "properties": {
+        "subcategoryExternalId": "WQBcl8bv7m",
+        "imageId": null,
+        "externalId": "K7TduDKJ91",
+        "title": "",
+        "description": "价格：\n- $31,500",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        127.84412964010492,
+        24.018290382839893
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "vUWhDS2dRK",
+        "title": "疯狂竞速",
+        "description": "星级所需速度：\n- ⭐ 153 km/h\n- ⭐⭐ 241 km/h\n- ⭐⭐⭐ 290 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        127.61718750000001,
+        14.00869637063467
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "MYl2cc3Msv",
+        "title": "疯狂竞速",
+        "description": "星级所需速度：\n- ⭐ 153 km/h\n- ⭐⭐ 241 km/h\n- ⭐⭐⭐ 290 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        99.75585937500001,
+        12.726084296948201
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "R1umra66mz",
+        "title": "这个我能搞定",
+        "description": "获得星级所需速度：\n- ⭐ 169 km/h\n- ⭐⭐ 249 km/h\n- ⭐⭐⭐ 298 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        138.86718750000003,
+        15.876809064146755
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "K7JbKB0AOT",
+        "title": "门道",
+        "description": "获得星星所需速度：\n- ★ 169 公里/小时\n- ★★ 274 公里/小时\n- ★★★ 322 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        115.224609375,
+        10.746969318460003
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "r4IzPsVaPl",
+        "title": "狂野转弯",
+        "description": "获得星星所需分数：\n- ★ 16,000\n- ★★ 38,000\n- ★★★ 60,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        123.96972656250001,
+        11.824341483849054
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "r0WPq85dSe",
+        "title": "狂野转弯",
+        "description": "获得星星所需分数：\n- ★ 16,000\n- ★★ 38,000\n- ★★★ 60,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        111.79687500000001,
+        16.00357573388129
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "puJbJRokSt",
+        "title": "废弃矿井",
+        "description": "获得星星所需距离：\n- ★ 60米\n- ★★ 78米\n- ★★★ 106米",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        136.53808593750003,
+        4.959615024698024
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "pha5552VLy",
+        "title": "高速流动",
+        "description": "获得星星所需距离：\n- ★ 65米\n- ★★ 101米\n- ★★★ 119米",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        107.27050781250001,
+        3.294082228312817
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "a8rPOfFOxi",
+        "title": "无刹车区",
+        "description": "获得星星所需速度：\n- ★ 137 公里/小时\n- ★★ 169 公里/小时\n- ★★★ 193 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        108.89648437500001,
+        -20.550508894195637
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "IJeKPuQT5f",
+        "title": "无刹车区",
+        "description": "获得星星所需速度：\n- ★ 137 公里/小时\n- ★★ 169 公里/小时\n- ★★★ 193 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        132.27539062500003,
+        -3.776559309876859
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "Axg45ixBOU",
+        "title": "第三只眼",
+        "description": "获得星星所需速度：\n- ★ 201 公里/小时\n- ★★ 257 公里/小时\n- ★★★ 306 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        128.06847312475736,
+        -17.202693693215696
+      ],
+      "properties": {
+        "subcategoryExternalId": "uF0MWiKTDA",
+        "imageId": null,
+        "externalId": "DKDFZEt5kS",
+        "title": "",
+        "description": "*可用于修复视觉损伤，也可用于在财富谷快速移动。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        111.92871093750001,
+        -19.394067895396613
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "ZfLR9RADYD",
+        "title": "稍微加速",
+        "description": "获得星星所需分数：\n- ★ 15,000\n- ★★ 40,000\n- ★★★ 70,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        123.31054687500001,
+        -11.30770770776545
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "LN742jukRQ",
+        "title": "稍微加速",
+        "description": "获得星星所需分数：\n- ★ 15,000\n- ★★ 40,000\n- ★★★ 70,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        131.38875669761381,
+        -20.68201957445618
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "BJDPdKgwSb",
+        "title": "换挡",
+        "description": "获得星星所需速度：\n- ★ 193 公里/小时\n- ★★ 225 公里/小时\n- ★★★ 322 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        123.04687500000001,
+        -27.254629577800078
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "zho0BV4yEh",
+        "title": "换挡",
+        "description": "获得星星所需速度：\n- ★ 193 公里/小时\n- ★★ 225 公里/小时\n- ★★★ 322 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        128.54003906250003,
+        -37.61423141542417
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "p33mBQMny1",
+        "title": "签字、密封、递送",
+        "description": "获得星级所需速度：\n- ⭐ 193 km/h\n- ⭐⭐ 274 km/h\n- ⭐⭐⭐ 354 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        119.79492187500001,
+        -58.00809779306888
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "reKYes1mEQ",
+        "title": "太晚了",
+        "description": "获得星级所需速度：\n- ⭐ 193 km/h\n- ⭐⭐ 274 km/h\n- ⭐⭐⭐ 354 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        56.689453125000014,
+        -59.17592824927134
+      ],
+      "properties": {
+        "subcategoryExternalId": "uF0MWiKTDA",
+        "imageId": null,
+        "externalId": "9jcAI6JPkG",
+        "title": "",
+        "description": "*可用于修复视觉损伤，也可用于在财富谷快速移动。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        87.01171874999999,
+        -48.951366470947704
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "DIXsy1OeJM",
+        "title": "迷恋明星",
+        "description": "达到星级所需速度：\n- ⭐ 145 km/h\n- ⭐⭐ 217 km/h\n- ⭐⭐⭐ 282 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        88.41796875000007,
+        -53.85252660044953
+      ],
+      "properties": {
+        "subcategoryExternalId": "uF0MWiKTDA",
+        "imageId": null,
+        "externalId": "xQJn9GwM8t",
+        "title": "",
+        "description": "*可用于修复视觉损伤，也可用于在财富谷快速移动。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        86.79199218750001,
+        -58.286395482881034
+      ],
+      "properties": {
+        "subcategoryExternalId": "8f7N3JS2ij",
+        "imageId": null,
+        "externalId": "gmbyLXBxnH",
+        "title": "",
+        "description": "*通过遍布命运谷的多家商店销售性能配件，配件取决于玩家当前驾驶的车辆*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -126.04450424789765,
+        -55.559516525649066
+      ],
+      "properties": {
+        "subcategoryExternalId": "uF0MWiKTDA",
+        "imageId": null,
+        "externalId": "uKgZKMIRt0",
+        "title": "",
+        "description": "*可用于修复视觉损伤，也可用于在财富谷快速移动。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -119.53125000000003,
+        -73.13769725773439
+      ],
+      "properties": {
+        "subcategoryExternalId": "uF0MWiKTDA",
+        "imageId": null,
+        "externalId": "9pnuzNO0kM",
+        "title": "",
+        "description": "*可用于修复视觉损伤，也可用于在财富谷快速移动。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -89.29687500000007,
+        -48.370847702383614
+      ],
+      "properties": {
+        "subcategoryExternalId": "uF0MWiKTDA",
+        "imageId": null,
+        "externalId": "rxCs3sPvNX",
+        "title": "",
+        "description": "*可用于修复视觉损伤，也可用于在财富谷快速移动。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        101.6015625,
+        -56.68037378950138
+      ],
+      "properties": {
+        "subcategoryExternalId": "WQBcl8bv7m",
+        "imageId": null,
+        "externalId": "Uo6Wzagdev",
+        "title": "",
+        "description": "价格：\n- $27,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        87.40722656250001,
+        -56.022948079627426
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "LL5UCIGrpT",
+        "title": "神风",
+        "description": "获得星星所需速度：\n- ★ 185 公里/小时\n- ★★ 225 公里/小时\n- ★★★ 249 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        106.61132812500001,
+        -62.55285695857292
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "rAILFzgJIt",
+        "title": "神风",
+        "description": "获得星星所需速度：\n- ★ 185 公里/小时\n- ★★ 225 公里/小时\n- ★★★ 249 公里/小时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        82.88085937500001,
+        -58.65408464530598
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "zewK8b9Xrv",
+        "title": "日间漂移者",
+        "description": "获得星级所需积分：\n- ⭐ 12,000\n- ⭐⭐ 28,000\n- ⭐⭐⭐ 50,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        93.77929687500004,
+        -58.65408464530598
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "P8lkYKBiEW",
+        "title": "日间漂移者",
+        "description": "获得星级所需积分：\n- ⭐ 12,000\n- ⭐⭐ 28,000\n- ⭐⭐⭐ 50,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        100.32714843750001,
+        -63.54855223203643
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "GE4p7IWH5B",
+        "title": "疯狂速度前进！",
+        "description": "获得星星所需速度：\n- ★ 209 km/h\n- ★★ 298 km/h\n- ★★★ 354 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        93.60351562499999,
+        -64.94216049820733
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "3LgyAljiI9",
+        "title": "砖石大道",
+        "description": "获得星星所需速度：\n- ★ 169 km/h\n- ★★ 225 km/h\n- ★★★ 290 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        85.91308593750001,
+        -64.30182213914463
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "rDyw9zLKDX",
+        "title": "老板风范",
+        "description": "获得星级所需长度：\n- ⭐ 51米\n- ⭐⭐ 65米\n- ⭐⭐⭐ 78米",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        70.72627844758875,
+        -66.37773668327416
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "DB2cjWsQoL",
+        "title": "淘金热潮",
+        "description": "获得星级所需速度：\n- ⭐ 177 km/h\n- ⭐⭐ 225 km/h\n- ⭐⭐⭐ 266 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        71.71875000000001,
+        -66.6181218846659
+      ],
+      "properties": {
+        "subcategoryExternalId": "uF0MWiKTDA",
+        "imageId": null,
+        "externalId": "xtPnZf5q0e",
+        "title": "",
+        "description": "*可用于修复视觉损伤，也可用于在财富谷快速移动。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        96.45996093750001,
+        -67.37369797436554
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "ntLGQNlW0b",
+        "title": "淘金热潮",
+        "description": "获得星级所需速度：\n- ⭐ 177 km/h\n- ⭐⭐ 225 km/h\n- ⭐⭐⭐ 266 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        106.03477608323323,
+        -67.67606770373966
+      ],
+      "properties": {
+        "subcategoryExternalId": "uF0MWiKTDA",
+        "imageId": null,
+        "externalId": "mcA5AFIZMh",
+        "title": "",
+        "description": "*可用于修复视觉损伤，也可用于在财富谷快速移动。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        106.12792968750001,
+        -68.46379955520322
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "L2fsrtm7OD",
+        "title": "日落街道",
+        "description": "获得星星所需速度：\n- ★ 169 km/h\n- ★★ 241 km/h\n- ★★★ 322 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        110.34667968750001,
+        -69.3338349196483
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "tB7R3lyHA9",
+        "title": "猎豹",
+        "description": "获得星级所需速度：\n- ⭐ 169 km/h\n- ⭐⭐ 241 km/h\n- ⭐⭐⭐ 298 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        130.38574218750003,
+        -69.68761843185621
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "jIG3CH4GLt",
+        "title": "猎豹",
+        "description": "获得星级所需速度：\n- ⭐ 169 km/h\n- ⭐⭐ 241 km/h\n- ⭐⭐⭐ 298 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        119.22363281250001,
+        -66.17826596326799
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "UhAqkXksyJ",
+        "title": "上城区",
+        "description": "获得星星所需速度：\n- ★ 225 km/h\n- ★★ 282 km/h\n- ★★★ 322 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        127.04589843750001,
+        -75.82365950624265
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "Nl9eRo1blP",
+        "title": "上城区",
+        "description": "获得星星所需速度：\n- ★ 225 km/h\n- ★★ 282 km/h\n- ★★★ 322 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        107.7978515625,
+        -72.302431133396
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "Ul9liSnmm9",
+        "title": "速度恶魔",
+        "description": "获得星星所需速度：\n- ★ 145 km/h\n- ★★ 193 km/h\n- ★★★ 282 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        119.13574218750001,
+        -76.12189296324112
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "pToQvqST3r",
+        "title": "速度恶魔",
+        "description": "获得星星所需速度：\n- ★ 145 km/h\n- ★★ 193 km/h\n- ★★★ 282 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        100.81054687500001,
+        -73.3656394826721
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "kX7CFYw8Tp",
+        "title": "漂移皇家赛道",
+        "description": "获得星级所需积分：\n- ⭐ 11,000\n- ⭐⭐ 25,000\n- ⭐⭐⭐ 40,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        104.80957031250003,
+        -73.3656394826721
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "qoqKwoUjTq",
+        "title": "漂移皇家赛道",
+        "description": "获得星级所需积分：\n- ⭐ 11,000\n- ⭐⭐ 25,000\n- ⭐⭐⭐ 40,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        110.830078125,
+        -74.81042419434965
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "13Sogzgpc4",
+        "title": "持续漂移",
+        "description": "获得星星所需分数：\n- ★ 8,000\n- ★★ 20,000\n- ★★★ 45,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        112.6318359375,
+        -75.49715731893079
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "6Q1rY6JN66",
+        "title": "持续漂移",
+        "description": "获得星星所需分数：\n- ★ 8,000\n- ★★ 20,000\n- ★★★ 45,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        121.11328125000001,
+        -71.92452773797696
+      ],
+      "properties": {
+        "subcategoryExternalId": "uF0MWiKTDA",
+        "imageId": null,
+        "externalId": "IBuLekrXJ5",
+        "title": "",
+        "description": "*可用于修复视觉损伤，也可用于在财富谷快速移动。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        120.58593750000001,
+        -72.95831480630818
+      ],
+      "properties": {
+        "subcategoryExternalId": "cEWkv2q1XW",
+        "imageId": null,
+        "externalId": "nOyJbk7WyF",
+        "title": "直线竞速车行",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        80.81542968750001,
+        -70.55417853776078
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "QRpU9pFtmE",
+        "title": "第七天堂",
+        "description": "获得星星所需距离：\n- ★ 65米\n- ★★ 92米\n- ★★★ 119米",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        93.29589843750001,
+        -70.53954317685508
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "1lnMrC24PE",
+        "title": "升级真快！",
+        "description": "获得星星所需长度：\n- ★ 45m\n- ★★ 60m\n- ★★★ 78m",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        82.17773437500001,
+        -70.7724429742589
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "Ff8Ymd33qm",
+        "title": "弦线街",
+        "description": "获得星星所需速度：\n- ★ 177 km/h\n- ★★ 274 km/h\n- ★★★ 354 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        129.94628906250003,
+        -78.29604389682588
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "vq2qLvgKU4",
+        "title": "轮胎冒烟",
+        "description": "获得星星所需分数：\n- ★ 14,000\n- ★★ 36,000\n- ★★★ 65,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        121.50878906250003,
+        -79.71860546904043
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "fwl3UxyuGX",
+        "title": "轮胎冒烟",
+        "description": "获得星星所需分数：\n- ★ 14,000\n- ★★ 36,000\n- ★★★ 65,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        119.48730468750001,
+        -80.05804956215623
+      ],
+      "properties": {
+        "subcategoryExternalId": "cEWkv2q1XW",
+        "imageId": null,
+        "externalId": "x0SRyNcuGt",
+        "title": "街头竞速车行",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        119.53125000000003,
+        -80.23850054635393
+      ],
+      "properties": {
+        "subcategoryExternalId": "uF0MWiKTDA",
+        "imageId": null,
+        "externalId": "MYa1xJMBxI",
+        "title": "",
+        "description": "*可用于修复视觉损伤，也可用于在财富谷快速移动。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        100.19531250000001,
+        -78.34941069014627
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "6sYlIxIRdw",
+        "title": "挑战重力",
+        "description": "获得星星所需长度：\n- ★ 74m\n- ★★ 97m\n- ★★★ 129m",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        99.97558593750001,
+        -81.01119428608469
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "cKHvKaorsH",
+        "title": "值得载入史册",
+        "description": "获得星级所需速度：\n- ⭐ 145 km/h\n- ⭐⭐ 241 km/h\n- ⭐⭐⭐ 330 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        87.5390625,
+        -79.35958957209913
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "inCdZMBrdC",
+        "title": "狗仔队",
+        "description": "获得星星所需速度：\n- ★ 121 km/h\n- ★★ 180 km/h\n- ★★★ 241 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        94.39453125000001,
+        -78.18858618658851
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "zRiwUdC2re",
+        "title": "剧透崛起",
+        "description": "获得星级所需速度：\n- ⭐ 177 km/h\n- ⭐⭐ 217 km/h\n- ⭐⭐⭐ 274 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        87.01171874999999,
+        -74.2597383709313
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "d9nFJJBylS",
+        "title": "剧透崛起",
+        "description": "获得星级所需速度：\n- ⭐ 177 km/h\n- ⭐⭐ 217 km/h\n- ⭐⭐⭐ 274 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        97.25097656250001,
+        -75.1295041089449
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "nQd18z2xgR",
+        "title": "路杀",
+        "description": "获得星星所需速度：\n- ★ 161 km/h\n- ★★ 266 km/h\n- ★★★ 314 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        72.64160156250001,
+        -77.73961784766769
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "96iczXpWbI",
+        "title": "闪光弹",
+        "description": "获得星星所需速度：\n- ★ 145 km/h\n- ★★ 193 km/h\n- ★★★ 282 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        59.72167968750001,
+        -75.69393145698815
+      ],
+      "properties": {
+        "subcategoryExternalId": "KisxiTlEyv",
+        "imageId": null,
+        "externalId": "XVzn47S4TQ",
+        "title": "闪光弹",
+        "description": "获得星星所需速度：\n- ★ 145 km/h\n- ★★ 193 km/h\n- ★★★ 282 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        45.79101562500001,
+        -76.4654918099891
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "jqyPmQf5bq",
+        "title": "你抓到了吗",
+        "description": "获得星星所需速度：\n- ★ 185 km/h\n- ★★ 257 km/h\n- ★★★ 330 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        58.207424167263596,
+        -73.98320745984807
+      ],
+      "properties": {
+        "subcategoryExternalId": "uF0MWiKTDA",
+        "imageId": null,
+        "externalId": "8D77UjYnMU",
+        "title": "",
+        "description": "*可用于修复视觉损伤，也可用于在财富谷快速移动。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        72.2699241672636,
+        -78.15255126151744
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "EyHjIEtfE6",
+        "title": "如果你懂我的漂移",
+        "description": "获得星星所需积分：\n- ★ 8,000\n- ★★ 21,000\n- ★★★ 40,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        79.74062729226361,
+        -77.81405042082739
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "KtPBHL141h",
+        "title": "如果你懂我的漂移",
+        "description": "获得星星所需积分：\n- ★ 8,000\n- ★★ 21,000\n- ★★★ 40,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        75.41015625,
+        -78.35828179539388
+      ],
+      "properties": {
+        "subcategoryExternalId": "uF0MWiKTDA",
+        "imageId": null,
+        "externalId": "BRGieutYD6",
+        "title": "",
+        "description": "*可用于修复视觉损伤，也可用于在财富谷快速移动。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        106.52343749999999,
+        51.727028157047755
+      ],
+      "properties": {
+        "subcategoryExternalId": "8f7N3JS2ij",
+        "imageId": null,
+        "externalId": "iXkdRiY2qY",
+        "title": "",
+        "description": "*通过遍布命运谷的多家商店销售性能配件，配件取决于玩家当前驾驶的车辆*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        80.46386718750001,
+        -73.88591809512963
+      ],
+      "properties": {
+        "subcategoryExternalId": "cEWkv2q1XW",
+        "imageId": null,
+        "externalId": "HTnFO2wh2r",
+        "title": "漂移车行",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        77.34375000000001,
+        -72.89380193362285
+      ],
+      "properties": {
+        "subcategoryExternalId": "VN1JD0b6Un",
+        "imageId": null,
+        "externalId": "HnjOB3dwRd",
+        "title": "蓝色闪电",
+        "description": "获得星星所需长度：\n- ★ 46m\n- ★★ 101m\n- ★★★ 138m",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        82.70507812500003,
+        -74.30735341486248
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "yAF7ggkZqP",
+        "title": "酱汁区",
+        "description": "星级所需积分：\n- ⭐ 9,000\n- ⭐⭐ 22,000\n- ⭐⭐⭐ 45,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        82.61718750000003,
+        -73.11218387356942
+      ],
+      "properties": {
+        "subcategoryExternalId": "ELt9m17IH5",
+        "imageId": null,
+        "externalId": "xDDaExwca8",
+        "title": "酱汁区",
+        "description": "星级所需积分：\n- ⭐ 9,000\n- ⭐⭐ 22,000\n- ⭐⭐⭐ 45,000",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        61.39160156250001,
+        -69.74855112912229
+      ],
+      "properties": {
+        "subcategoryExternalId": "uPqU2rrr7R",
+        "imageId": null,
+        "externalId": "vYG6xsVV4q",
+        "title": "跳蚤市场",
+        "description": "获得星星所需速度：\n- ★ 145 km/h\n- ★★ 249 km/h\n- ★★★ 330 km/h",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        141.67968750000003,
+        49.61070993807422
+      ],
+      "properties": {
+        "subcategoryExternalId": "0X6uzeEuFO",
+        "imageId": 1165528,
+        "externalId": "fc5D7K4Edf",
+        "title": "1965年福特野马 - 底盘",
+        "description": "如何获得：\n- 在第2章的墓园轮班任务线中击败拉·卡特里娜以获得线索",
+        "imagePath": "/game_map_pin/1165528/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -147.33558863460192,
+        -64.66809455331025
+      ],
+      "properties": {
+        "subcategoryExternalId": "0X6uzeEuFO",
+        "imageId": null,
+        "externalId": "SaHnjVCmTm",
+        "title": "1965福特野马 - 发动机和传动系统",
+        "description": "使用坡道跳过箱子",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        8.261718750000002,
+        -23.80544961231456
+      ],
+      "properties": {
+        "subcategoryExternalId": "0X6uzeEuFO",
+        "imageId": null,
+        "externalId": "LswQSb8x0Q",
+        "title": "1965福特野马 - 车身部件A",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -75.32226562500001,
+        -0.3955046715320236
+      ],
+      "properties": {
+        "subcategoryExternalId": "0X6uzeEuFO",
+        "imageId": null,
+        "externalId": "7kF313WcEQ",
+        "title": "1965福特野马 - 配件",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        112.6336413806682,
+        7.636623782232732
+      ],
+      "properties": {
+        "subcategoryExternalId": "0X6uzeEuFO",
+        "imageId": null,
+        "externalId": "iRbpYJ03CZ",
+        "title": "1965福特野马 - 车轮和轮胎",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        7.954101562500001,
+        15.28418511407645
+      ],
+      "properties": {
+        "subcategoryExternalId": "0X6uzeEuFO",
+        "externalId": "agUa83ZkIV",
+        "title": "1971尼桑仙度拉240ZG - 底盘",
+        "description": "获取方法：\n- 在第2章中击败联盟73任务线中的宇都洛特获得线索",
+        "imageId": 1165974,
+        "imagePath": "/game_map_pin/1165974/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -21.181640625000007,
+        11.781325296112271
+      ],
+      "properties": {
+        "subcategoryExternalId": "0X6uzeEuFO",
+        "imageId": null,
+        "externalId": "VPt3Eg0SXj",
+        "title": "1971尼桑仙度拉240ZG - 发动机和传动系统",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        5.753202202955619,
+        56.00796963955111
+      ],
+      "properties": {
+        "subcategoryExternalId": "0X6uzeEuFO",
+        "imageId": null,
+        "externalId": "snkRAGmkXw",
+        "title": "1971 日产 Fairlady 240ZG - 车身部件 A",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        133.02246093750003,
+        44.43377984606832
+      ],
+      "properties": {
+        "subcategoryExternalId": "0X6uzeEuFO",
+        "imageId": null,
+        "externalId": "VcJ0xoOOje",
+        "title": "1971尼桑仙度拉240GZ - 配件",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        9.228515625000002,
+        -34.27083595164997
+      ],
+      "properties": {
+        "subcategoryExternalId": "0X6uzeEuFO",
+        "imageId": null,
+        "externalId": "cWf7ozwOav",
+        "title": "1971尼桑仙度拉240ZG - 车轮和轮胎",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -93.29589843750001,
+        -39.06184913429151
+      ],
+      "properties": {
+        "subcategoryExternalId": "0X6uzeEuFO",
+        "imageId": 1166535,
+        "externalId": "Uc3KXWdE3n",
+        "title": "1963大众甲壳虫 - 底盘",
+        "description": "获取方式：\n- 在第3章完成换档锁定任务线以获得地下士兵的线索",
+        "imagePath": "/game_map_pin/1166535/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -84.85839843750001,
+        -24.36711356265127
+      ],
+      "properties": {
+        "subcategoryExternalId": "0X6uzeEuFO",
+        "imageId": null,
+        "externalId": "cTD5lJcMi3",
+        "title": "1963大众甲壳虫 - 发动机和传动系统",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        119.31907722331148,
+        7.947804127193038
+      ],
+      "properties": {
+        "subcategoryExternalId": "0X6uzeEuFO",
+        "imageId": null,
+        "externalId": "1VQrZ1dXMC",
+        "title": "1963大众甲壳虫 - 车身零件A",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        7.207031250000001,
+        -35.88905007936092
+      ],
+      "properties": {
+        "subcategoryExternalId": "0X6uzeEuFO",
+        "imageId": null,
+        "externalId": "Qd3hazB9w0",
+        "title": "1963大众甲壳虫 - 配件",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        57.568359375,
+        57.84475099289105
+      ],
+      "properties": {
+        "subcategoryExternalId": "0X6uzeEuFO",
+        "imageId": null,
+        "externalId": "ePSqjMxlCR",
+        "title": "1963大众甲壳虫 - 车轮和轮胎",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        111.13769531250001,
+        19.559790136497412
+      ],
+      "properties": {
+        "subcategoryExternalId": "0X6uzeEuFO",
+        "imageId": 1166580,
+        "externalId": "apXLWbvMaP",
+        "title": "1965雪佛兰C10边踏皮卡 - 底盘",
+        "description": "获取方式：\n- 在第3章的暴动俱乐部任务线中击败大姐头以获得线索",
+        "imagePath": "/game_map_pin/1166580/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -31.843562735515768,
+        49.276426565848624
+      ],
+      "properties": {
+        "subcategoryExternalId": "0X6uzeEuFO",
+        "imageId": null,
+        "externalId": "TRX5flr2Dh",
+        "title": "1965雪佛兰C10边踏皮卡 - 发动机和传动系统",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        82.17773437500001,
+        60.1305636169142
+      ],
+      "properties": {
+        "subcategoryExternalId": "0X6uzeEuFO",
+        "imageId": null,
+        "externalId": "7FwYlP5BK0",
+        "title": "1965雪佛兰C10侧踏板皮卡 - 车身部件A",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -27.070312500000004,
+        -14.349547837185327
+      ],
+      "properties": {
+        "subcategoryExternalId": "0X6uzeEuFO",
+        "imageId": null,
+        "externalId": "qa7kKcMvTN",
+        "title": "1965雪佛兰C10边踏皮卡 - 配件",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -147.43652343750003,
+        -35.209721645221336
+      ],
+      "properties": {
+        "subcategoryExternalId": "0X6uzeEuFO",
+        "imageId": null,
+        "externalId": "yAYswZcnAE",
+        "title": "1965 雪佛兰 C10 Sidestep 皮卡 - 车轮和轮胎",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        104.85243176928151,
+        -77.8559370609807
+      ],
+      "properties": {
+        "subcategoryExternalId": "0X6uzeEuFO",
+        "imageId": 1167011,
+        "externalId": "qfC09z8sP2",
+        "title": "1955雪佛兰贝尔艾尔 - 底盘",
+        "description": "获取方式：\n- 完成第3章的跑手任务线以获得线索",
+        "imagePath": "/game_map_pin/1167011/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        119.42455675556943,
+        51.313954757638584
+      ],
+      "properties": {
+        "subcategoryExternalId": "0X6uzeEuFO",
+        "imageId": null,
+        "externalId": "pQkTftMQ3N",
+        "title": "1955雪佛兰Bel Air - 发动机与传动系统",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -82.09650329766667,
+        -75.20913422071423
+      ],
+      "properties": {
+        "subcategoryExternalId": "0X6uzeEuFO",
+        "imageId": null,
+        "externalId": "FbBUu9Er4C",
+        "title": "1955雪佛兰贝尔艾尔 - 车身零件A",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -18.457031250000004,
+        -30.524413269923983
+      ],
+      "properties": {
+        "subcategoryExternalId": "0X6uzeEuFO",
+        "imageId": null,
+        "externalId": "fjuvfaCHOi",
+        "title": "1955雪佛兰贝尔艾尔 - 配件",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        120.97921900973968,
+        16.490318750788347
+      ],
+      "properties": {
+        "subcategoryExternalId": "0X6uzeEuFO",
+        "imageId": null,
+        "externalId": "ktL0fasZ4Y",
+        "title": "1955雪佛兰贝尔艾尔 - 车轮和轮胎",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -104.76562500000001,
+        -14.349547837185355
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "nmVeBBFtoW",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -106.5050744278543,
+        -29.487692265727794
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "wHaFrnejP4",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -151.95706441844257,
+        -48.88228339551937
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "zd1a6s9wLh",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -132.79224284526646,
+        -54.64445513368511
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "ObIqELqut0",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -90.34645554902112,
+        -49.11392089127523
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "7pbpruwdCR",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -140.27343750000003,
+        -69.1312712296365
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "riyoe0epFL",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -123.68389736837659,
+        -71.10659058839437
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "3AdDhB6a39",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -118.08105468750001,
+        -73.17589717422608
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "aPg5lMNU8U",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -105.46875000000001,
+        -72.85498055182727
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "Wob5vYTDyg",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -89.64843750000001,
+        -69.8244707739378
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "Ub8VJKxwth",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -11.206054687500002,
+        18.8543103618898
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "2QRA3MqgYZ",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -4.526367187500001,
+        -17.09879223767871
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "qiEM11EHdA",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -26.367187500000004,
+        -30.25906720321298
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "3JuFbZXLFL",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -9.36434557333932,
+        -65.16266061112015
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "Q2m5pgXz3V",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        41.52832031250001,
+        27.215556209029685
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "E0R6BSWpCn",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        64.64355468750001,
+        -1.0106897682408942
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "CsFTeS3poF",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        86.74804687500001,
+        -59.243414758399744
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "XC7NyHw6Ax",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        84.462890625,
+        -73.2393770244191
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "L3XNxXPapB",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        88.37402343750006,
+        -76.39331166244494
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "rdQti2ld9P",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        7.6729762876242855,
+        55.7543275973742
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "YkKbbzYKOf",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        43.90136718750001,
+        59.13086309725591
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "abh8Sbq1le",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        57.91992187500001,
+        59.57885104663188
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "58CzrQj0dO",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        119.79492187500001,
+        72.16835148220002
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "4AGhdmBNKc",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        109.33593750000001,
+        53.27835301753183
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "Hwm45N9HN7",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        127.3095703125,
+        52.61639023304534
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "PWg2PU11xm",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        142.77832031250003,
+        43.96119063892027
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "R0ctd77hWX",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        138.25195312500003,
+        26.78484736105119
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "W9DNZdKVe5",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        121.68457031250001,
+        -0.5712795966325359
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "r6R0JlU44l",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        113.51074218750001,
+        -15.368949896534701
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "sQ3oEhA8NE",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        129.72656250000003,
+        -17.434510551522877
+      ],
+      "properties": {
+        "subcategoryExternalId": "1pFoE1mBXo",
+        "imageId": null,
+        "externalId": "jKle2tqAp3",
+        "title": "",
+        "description": "奖励：\n- 6,000现金\n- 30,000声望\n\n*收集全部30个将解锁***\"不服从\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -69.74121093750001,
+        12.76894643945596
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "WTm4o4xfBs",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        33.31054687500001,
+        3.9957805129630373
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": 1162706,
+        "externalId": "xPGnidgkqz",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": "/game_map_pin/1162706/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        35.63964843750001,
+        2.2406396093827334
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": 1162709,
+        "externalId": "9OhbvAkWOT",
+        "title": "",
+        "description": "在飞机机身内部\n\n奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": "/game_map_pin/1162709/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        37.08984375000001,
+        -1.9771465537125645
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": 1162701,
+        "externalId": "FsUoZMq9Vg",
+        "title": "",
+        "description": "在飞机机身顶部，使用坡道获取\n\n奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": "/game_map_pin/1162701/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        45.70312500000001,
+        0.4394488164139716
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": 1162694,
+        "externalId": "6EL6q1UmvQ",
+        "title": "",
+        "description": "在车库附近生锈汽车堆后面\n\n奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": "/game_map_pin/1162694/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -77.51989621075653,
+        -8.506836990393
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "RcwWl2ByeC",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -106.08398437500001,
+        -11.135287077054258
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "D4VO90eflj",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -116.19140625000001,
+        -19.103648251663657
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "khihxCzGeJ",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -86.08886718750001,
+        -23.039297747769726
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "SNZyGVCOmw",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -129.72656250000003,
+        -35.960222969296666
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "F5V7ESSIRT",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -124.54101562500001,
+        -35.88905007936092
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "ZrG1GQyw28",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -96.59179687500001,
+        -43.771093817756494
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "Su33Bj4ZHw",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -88.50585937500006,
+        -47.84265762816534
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "kRqgd0wxkJ",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -151.83105468750003,
+        -51.124212757826875
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "I76dXivDYW",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -134.42871093750003,
+        -55.89995614406813
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "i0kifNbASK",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -128.54003906250003,
+        -56.58369172128336
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "rGGOK8E99k",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -125.85937500000001,
+        -55.62799595426722
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "PJjQSAYg3b",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -136.52223267435338,
+        -62.22261934647507
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "0w1e9gS0oy",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -146.68945312500003,
+        -64.32087157990321
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "M5haonQIwQ",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -140.49316406250003,
+        -69.02141408835531
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "82Hv7uC3si",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -127.48535156250001,
+        -70.42207856800995
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "OBkQvDffwC",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -120.80566406250001,
+        -73.30262420189155
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "A14D6WlSPz",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -105.20507812500001,
+        -72.93253803407026
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "nSf16y9XeN",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -101.6015625,
+        -66.47820814385635
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "ZKxfkaakq3",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -90.6591796875,
+        -65.76672667423813
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "mzinhxN1G9",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -89.82421875000009,
+        -67.7261081859507
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "QJC3ZExFSE",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -91.8896484375,
+        -69.20940390181201
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "QhmjoQsmei",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -86.74804687500001,
+        -70.2297444956302
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "Xv0su0lqHc",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -83.58398437500009,
+        -72.15488958260747
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "O5qg2ogqOB",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -80.63964843750003,
+        -75.10693155862825
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "dBeo3ktx5n",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -48.86718750000001,
+        -74.8219342035653
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "hjMQS78WE6",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -28.652343750000004,
+        -72.67268149675316
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "q3ihuSo3kz",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -15.424804687500002,
+        -70.58341752317065
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "iuctZ0yj6B",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -11.77734375,
+        -65.98227002980873
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "0q4Krnwf5n",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -1.0107421875000002,
+        -56.55948248376229
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "XrThOmBcIt",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -24.609375000000004,
+        16.8886597873816
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "gzUwJmd8gn",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -26.3232421875,
+        12.254127737657385
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "JwDnkzkwAN",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -32.87109375000001,
+        6.926426847059545
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "DpZZcJfmnx",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -31.025390625000004,
+        2.8991526985043095
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "0GKtQoSlyl",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -34.05761718750001,
+        -5.047170736919725
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "xAIttxW5O4",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -11.024487359767521,
+        -6.950748142928702
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "cvZ5WRAdh2",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -31.464843750000004,
+        -20.3034175184893
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "we8278TkvG",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -18.193359375000004,
+        -30.03105542654022
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "azgYc8Ko0f",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -7.954101562500001,
+        -36.73888412439428
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "y4iFicGxQE",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -4.086914062500001,
+        -37.19533058280064
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "zO1c8xuApd",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        1.3623046875000002,
+        -39.50404070558416
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "cMaU7oBvC1",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -1.669921875,
+        -25.085598897064756
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "K4yLojuQ4e",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        6.328125,
+        -27.994401411046134
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "FS7NIVux6J",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        8.305664062500002,
+        -22.512556954051433
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "fntC8ifrYC",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        23.378906250000007,
+        -21.002471054356747
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "8jNalROLsD",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        6.723632812500001,
+        8.885071663468993
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "98GTmlmwcP",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        16.171875000000004,
+        4.390228926463379
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "uIRDKYGCIg",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        36.35685659883192,
+        18.629067532205866
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "lSgbANKvEy",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        49.95207176877099,
+        17.90474396110632
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "fZ9xgPlCb7",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        62.92968750000001,
+        -20.427012814257385
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "JxSI0tiisg",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        68.11523437500001,
+        -3.46955730306146
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "aqpiXUWQNm",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        74.04785156250001,
+        2.1528135831288466
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "3l0X26OLXL",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        83.27636718750001,
+        11.30770770776543
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "Bc9EThrSg4",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -2.0654296875000004,
+        31.015278981711262
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "5ZxWuVGgUu",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -17.006835937500004,
+        43.73935207915471
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "6b5QXKWiyx",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -30.937500000000004,
+        48.719961222646305
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "bUn0TYYY4N",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        53.30566406250001,
+        57.914847767009206
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "Bmb5Ppvhz0",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        61.04003906250001,
+        57.58655886615975
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "IRFIeM9Ojb",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        88.19824218750007,
+        59.97700549219587
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "U3EGqeT5CJ",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        92.63671875000001,
+        61.897577621604995
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "nrmO3sxmTS",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        92.63671875000001,
+        63.9180582964911
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "OyAg4FVK4G",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        115.92773437500001,
+        69.93030017617482
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "9643n77A7T",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        106.25976562500001,
+        66.53076810915235
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "6FcsUc3BMr",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        106.39160156250001,
+        59.977005492196014
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "dxNaw0iGXj",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        105.29296875,
+        53.173119202640606
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "BFxpSRc79n",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        104.63378906250009,
+        49.43955695894084
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "LJKAUxNiG4",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        126.7672809137731,
+        52.71937040275645
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "l9yTLS5S54",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        132.80273437500003,
+        48.166085419012546
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "jmL9Ab1wDM",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        134.51660156250003,
+        44.46515101351969
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "raq06HKPpY",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        141.15234375000003,
+        21.125497636606298
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "fOf8NcIL1i",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        122.87109375000001,
+        18.062312304546737
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "yO12ajRhm5",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        114.4775390625,
+        7.754537346539386
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "mfmf31jXfy",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        119.97070312500001,
+        6.184246161280603
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "qCH7oAwBo7",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        119.75097656250003,
+        1.9332268264771244
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "xkaii46q6a",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        123.31054687500001,
+        -1.1425024037061462
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "xFc16uDptp",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        121.376953125,
+        -16.2146745882485
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "L1qSB8grms",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        76.5966796875,
+        -58.65408464530594
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "gVCohVp0tm",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        86.30859375000001,
+        -64.2063772432085
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "YJx95dTABG",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        78.35449218750001,
+        -67.75939813204413
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "SxRts4BwpK",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        77.65136718750001,
+        -66.98166611114974
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "IofXJPFE4i",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        69.78515625000001,
+        -67.01600934917995
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "T4UQ3FMVfg",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        76.37695312500001,
+        -72.06038062953812
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "evjmVCgSfm",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        80.77148437500001,
+        -74.4021625984244
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "mA7vgy4pyK",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        72.77343750000001,
+        -78.32275735696929
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "WAqSxttBPd",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        84.37500000000001,
+        -79.42430832617325
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "5MmJMFjSfB",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        88.02246093750003,
+        -79.49665183507658
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "wBYulcc0KM",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        98.39355468750001,
+        -78.06198918665976
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "FXLprL45q5",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        103.27148437500001,
+        -79.29447935785083
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "UQApdSicuy",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        125.91477567209377,
+        -79.22611870948222
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "XmFH4jL1Hr",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        112.10449218750001,
+        -76.38296942847462
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "L4dvuT2pAR",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        120.41015625000003,
+        -74.47290269579455
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "qWay4G4ix1",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        110.03906250000001,
+        -74.3785127963314
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "wcMGnNMoYv",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        102.919921875,
+        -73.71427576088442
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "V4dvAtKDxj",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        102.48046875,
+        -71.13098770917021
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "KfZEjiATmT",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        122.73925781250001,
+        -71.17357781496057
+      ],
+      "properties": {
+        "subcategoryExternalId": "ODesjIsuQD",
+        "imageId": null,
+        "externalId": "afy14bE2Py",
+        "title": "",
+        "description": "奖励：\n- 5,000现金\n- 6,000声望\n\n*收集全部100个将解锁***\"全押注\"***奖杯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -32.91503906250001,
+        -4.477856485570584
+      ],
+      "properties": {
+        "subcategoryExternalId": "5j6ZmK8LOj",
+        "imageId": null,
+        "externalId": "vzbjZ35gRa",
+        "title": "",
+        "description": "*一旦找到，将触发警方反应。到达逃脱点以获得现金、声望和速度卡*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -8.481445312500002,
+        -35.67514743608468
+      ],
+      "properties": {
+        "subcategoryExternalId": "5j6ZmK8LOj",
+        "imageId": null,
+        "externalId": "jo8OYt4VPW",
+        "title": "",
+        "description": "*一旦找到，将触发警方反应。到达逃脱点以获得现金、声望和速度卡*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -0.13183593750000003,
+        -28.9600886880068
+      ],
+      "properties": {
+        "subcategoryExternalId": "5j6ZmK8LOj",
+        "imageId": null,
+        "externalId": "9qAzlGckUs",
+        "title": "",
+        "description": "*一旦找到，将触发警方反应。到达逃脱点以获得现金、声望和速度卡*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        0.48339843750000006,
+        11.436955216143232
+      ],
+      "properties": {
+        "subcategoryExternalId": "5j6ZmK8LOj",
+        "imageId": null,
+        "externalId": "79k5BsFmRC",
+        "title": "",
+        "description": "*一旦找到，将触发警方反应。到达逃脱点以获得现金、声望和速度卡*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        60.07317957370953,
+        8.189746272923728
+      ],
+      "properties": {
+        "subcategoryExternalId": "5j6ZmK8LOj",
+        "imageId": null,
+        "externalId": "yKvunUjXGJ",
+        "title": "",
+        "description": "*一旦找到，将触发警方反应。到达逃脱点以获得现金、声望和速度卡*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -11.997070312500002,
+        -65.76672667423813
+      ],
+      "properties": {
+        "subcategoryExternalId": "5j6ZmK8LOj",
+        "imageId": null,
+        "externalId": "a1tWm9yNqs",
+        "title": "",
+        "description": "*一旦找到，将触发警方反应。到达逃脱点以获得现金、声望和速度卡*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -49.13085937500001,
+        -74.82193420356529
+      ],
+      "properties": {
+        "subcategoryExternalId": "5j6ZmK8LOj",
+        "imageId": null,
+        "externalId": "4dM4kkYXz8",
+        "title": "",
+        "description": "*一旦找到，将触发警方反应。到达逃脱点以获得现金、声望和速度卡*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        4.658203125000001,
+        -75.38669639681764
+      ],
+      "properties": {
+        "subcategoryExternalId": "5j6ZmK8LOj",
+        "imageId": null,
+        "externalId": "FRrth4wUxI",
+        "title": "",
+        "description": "*一旦找到，将触发警方反应。到达逃脱点以获得现金、声望和速度卡*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        87.89062500000001,
+        -54.57206165565855
+      ],
+      "properties": {
+        "subcategoryExternalId": "5j6ZmK8LOj",
+        "imageId": null,
+        "externalId": "uv6QS5oCTd",
+        "title": "",
+        "description": "*一旦找到，将触发警方反应。到达逃脱点以获得现金、声望和速度卡*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        81.95800781250001,
+        -68.80004113882613
+      ],
+      "properties": {
+        "subcategoryExternalId": "5j6ZmK8LOj",
+        "imageId": null,
+        "externalId": "744rliE3Iq",
+        "title": "",
+        "description": "*一旦找到，将触发警方反应。到达逃脱点以获得现金、声望和速度卡*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        116.52311179937472,
+        -71.8620276477259
+      ],
+      "properties": {
+        "subcategoryExternalId": "5j6ZmK8LOj",
+        "imageId": null,
+        "externalId": "OYIVoFD5tK",
+        "title": "",
+        "description": "*一旦找到，将触发警方反应。到达逃脱点以获得现金、声望和速度卡*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        84.8824867993747,
+        -79.12520006120523
+      ],
+      "properties": {
+        "subcategoryExternalId": "5j6ZmK8LOj",
+        "imageId": null,
+        "externalId": "rceCTtmk5z",
+        "title": "",
+        "description": "*一旦找到，将触发警方反应。到达逃脱点以获得现金、声望和速度卡*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        39.23462163673397,
+        53.51952015528775
+      ],
+      "properties": {
+        "subcategoryExternalId": "5j6ZmK8LOj",
+        "imageId": null,
+        "externalId": "O1zPSnpRT7",
+        "title": "",
+        "description": "*一旦找到，将触发警方反应。到达逃脱点以获得现金、声望和速度卡*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        123.31054687500001,
+        67.57571741708063
+      ],
+      "properties": {
+        "subcategoryExternalId": "5j6ZmK8LOj",
+        "imageId": null,
+        "externalId": "vK3ONMT1Kj",
+        "title": "",
+        "description": "*一旦找到，将触发警方反应。到达逃脱点以获得现金、声望和速度卡*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        126.25488281250001,
+        49.75287993415003
+      ],
+      "properties": {
+        "subcategoryExternalId": "5j6ZmK8LOj",
+        "imageId": null,
+        "externalId": "wVUj3cmiy3",
+        "title": "",
+        "description": "*一旦找到，将触发警方反应。到达逃脱点以获得现金、声望和速度卡*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        141.25867973444466,
+        18.510482195158957
+      ],
+      "properties": {
+        "subcategoryExternalId": "5j6ZmK8LOj",
+        "imageId": null,
+        "externalId": "vvVhSFGa8T",
+        "title": "",
+        "description": "*一旦找到，将触发警方反应。到达逃脱点以获得现金、声望和速度卡*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        128.14453125000003,
+        -17.81145608856457
+      ],
+      "properties": {
+        "subcategoryExternalId": "5j6ZmK8LOj",
+        "imageId": null,
+        "externalId": "tsoYPAMXvy",
+        "title": "",
+        "description": "*一旦找到，将触发警方反应。到达逃脱点以获得现金、声望和速度卡*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -116.77407407740449,
+        -19.139968938995064
+      ],
+      "properties": {
+        "subcategoryExternalId": "5j6ZmK8LOj",
+        "imageId": null,
+        "externalId": "PNwzNo4Ksq",
+        "title": "",
+        "description": "*一旦找到，将触发警方反应。到达逃脱点以获得现金、声望和速度卡*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -109.24804687500001,
+        -33.94335994657881
+      ],
+      "properties": {
+        "subcategoryExternalId": "5j6ZmK8LOj",
+        "imageId": null,
+        "externalId": "B2obikAC8N",
+        "title": "",
+        "description": "*一旦找到，将触发警方反应。到达逃脱点以获得现金、声望和速度卡*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -130.38574218750003,
+        -61.87687021463305
+      ],
+      "properties": {
+        "subcategoryExternalId": "5j6ZmK8LOj",
+        "imageId": null,
+        "externalId": "up1JtzT3AT",
+        "title": "",
+        "description": "*一旦找到，将触发警方反应。到达逃脱点以获得现金、声望和速度卡*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -142.20703125000003,
+        -69.1469201750496
+      ],
+      "properties": {
+        "subcategoryExternalId": "5j6ZmK8LOj",
+        "imageId": null,
+        "externalId": "3HJsiXIfCm",
+        "title": "",
+        "description": "*一旦找到，将触发警方反应。到达逃脱点以获得现金、声望和速度卡*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -90.615234375,
+        -69.59589006237648
+      ],
+      "properties": {
+        "subcategoryExternalId": "5j6ZmK8LOj",
+        "imageId": null,
+        "externalId": "g1aWG7r0ca",
+        "title": "",
+        "description": "*一旦找到，将触发警方反应。到达逃脱点以获得现金、声望和速度卡*",
+        "imagePath": ""
+      }
+    }
+  ]
+}

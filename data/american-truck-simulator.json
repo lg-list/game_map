@@ -1,0 +1,16 @@
+{
+  "slug": "american-truck-simulator",
+  "title": "American Truck Simulator",
+  "heroUrl": "/assets/images/games/american-truck-simulator/hero.webp",
+  "maps": [
+    {
+      "name": "America",
+      "slug": "world",
+      "thumbnailUrl": "/assets/images/games/american-truck-simulator/world.webp",
+      "updatedAt": "2026-02-20T05:36:39Z",
+      "markerCount": 4841,
+      "categoryCount": 4,
+      "subcategoryCount": 14
+    }
+  ]
+}

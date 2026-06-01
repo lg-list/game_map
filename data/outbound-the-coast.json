@@ -1,0 +1,5168 @@
+{
+  "metadata": {
+    "externalId": "LfS9o6B7Vf",
+    "name": "The Coast",
+    "slug": "the-coast",
+    "baseTilePath": "https://storage-cdn.wemod.com/maps/ae8fc0b7-dbd8-4a84-a8d8-0c46c284b51e/tiles",
+    "isChecklistPublished": true,
+    "isInActiveDevelopment": true,
+    "backgroundColor": "#366baa",
+    "minZoom": 1,
+    "maxZoom": 3,
+    "initialZoom": null,
+    "tmsEnabled": false,
+    "categories": [
+      {
+        "externalId": "WCsAtnQaIO",
+        "gameMapExternalId": "LfS9o6B7Vf",
+        "title": "地点",
+        "color": "#81C784",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "dg2p7F8gfH",
+        "gameMapExternalId": "LfS9o6B7Vf",
+        "title": "战利品",
+        "color": "#039BE5",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "RCWJqqQqx6",
+        "gameMapExternalId": "LfS9o6B7Vf",
+        "title": "资源",
+        "color": "#001eb3",
+        "visibleByDefault": false,
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "SUog44sNML",
+        "gameMapExternalId": "LfS9o6B7Vf",
+        "title": "收藏品",
+        "color": "#5E35B1",
+        "visibleByDefault": false,
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "kmxvjD2NqJ",
+        "gameMapExternalId": "LfS9o6B7Vf",
+        "title": "杂项",
+        "color": "#1b0e12",
+        "visibleByDefault": false,
+        "excludeFromChecklists": false,
+        "description": ""
+      }
+    ],
+    "subcategories": [
+      {
+        "externalId": "qpTIFEwiz7",
+        "categoryExternalId": "WCsAtnQaIO",
+        "title": "信号塔",
+        "icon": "broadcast-tower",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "QPyRD4kxcn",
+        "categoryExternalId": "WCsAtnQaIO",
+        "title": "石堆",
+        "icon": "chart-pyramid",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "RzIALlACIL",
+        "categoryExternalId": "WCsAtnQaIO",
+        "title": "桥梁",
+        "icon": "roundies:architecture-bridge",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "Cvl7rXc4xX",
+        "categoryExternalId": "WCsAtnQaIO",
+        "title": "篝火",
+        "icon": "campfire",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "KZFA1qRrcp",
+        "categoryExternalId": "WCsAtnQaIO",
+        "title": "水井",
+        "icon": "roundies:energy-care-for-water",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "e0LY6ePmne",
+        "categoryExternalId": "WCsAtnQaIO",
+        "title": "兴趣点",
+        "icon": "archway",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "eHbTSP0jWE",
+        "categoryExternalId": "WCsAtnQaIO",
+        "title": "地标",
+        "icon": "roundies:architecture-house",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "fh5Ylbp464",
+        "categoryExternalId": "dg2p7F8gfH",
+        "title": "金属废料",
+        "icon": "roundies:architecture-wheelbarrow",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "XbNgb5PbUf",
+        "categoryExternalId": "dg2p7F8gfH",
+        "title": "木材原木",
+        "icon": "roundies:energy-tree",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "PUmgzXFeKt",
+        "categoryExternalId": "dg2p7F8gfH",
+        "title": "补给箱",
+        "icon": "box-alt",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "ModcL4678L",
+        "categoryExternalId": "dg2p7F8gfH",
+        "title": "瓶盖",
+        "icon": "roundies:business-and-finance-target-coins",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "DQ4OAuVhu6",
+        "categoryExternalId": "dg2p7F8gfH",
+        "title": "岩石",
+        "icon": "roundies:architecture-pick-axe",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "WeDQMYKp62",
+        "categoryExternalId": "dg2p7F8gfH",
+        "title": "垃圾",
+        "icon": "roundies:energy-trash-plant",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "igVCepb4yM",
+        "categoryExternalId": "dg2p7F8gfH",
+        "title": "浆果丛",
+        "icon": "roundies:food-blueberries",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "vSUrE1SFGF",
+        "categoryExternalId": "dg2p7F8gfH",
+        "title": "灌木丛",
+        "icon": "roundies:energy-plant",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "5Syx9B9Ob5",
+        "categoryExternalId": "dg2p7F8gfH",
+        "title": "布料",
+        "icon": "roundies:home-interior-clothing-hanger",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "9hOroaXMv5",
+        "categoryExternalId": "RCWJqqQqx6",
+        "title": "根茎作物",
+        "icon": "carrot",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "DpQHdz2oOU",
+        "categoryExternalId": "RCWJqqQqx6",
+        "title": "芦苇",
+        "icon": "material:grass",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "jt9zEXXnBh",
+        "categoryExternalId": "RCWJqqQqx6",
+        "title": "蘑菇",
+        "icon": "roundies:food-mushroom",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "sz6BWJ8iJa",
+        "categoryExternalId": "RCWJqqQqx6",
+        "title": "花瓣",
+        "icon": "flower-tulip",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "6oxgOUyLgL",
+        "categoryExternalId": "RCWJqqQqx6",
+        "title": "水果",
+        "icon": "roundies:maternity-fruit",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "MdxaPpAF20",
+        "categoryExternalId": "RCWJqqQqx6",
+        "title": "贝壳",
+        "icon": "material:panorama_fish_eye",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "VCsGAcENcH",
+        "categoryExternalId": "RCWJqqQqx6",
+        "title": "咖啡植物",
+        "icon": "coffee-beans",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "EcGlj04kCJ",
+        "categoryExternalId": "RCWJqqQqx6",
+        "title": "竹子",
+        "icon": "roundies:home-equipment-plant-seven",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "ooexVfIHX9",
+        "categoryExternalId": "SUog44sNML",
+        "title": "绘画",
+        "icon": "paint-roller",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "njAvSgil5Y",
+        "categoryExternalId": "SUog44sNML",
+        "title": "花园小矮人",
+        "icon": "map-marker-smile",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "LDsfhmwmqf",
+        "categoryExternalId": "kmxvjD2NqJ",
+        "title": "罐头快照",
+        "icon": "roundies:energy-solar-planet",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "20VtD50AOF",
+        "categoryExternalId": "kmxvjD2NqJ",
+        "title": "关键物品",
+        "icon": "usb-pendrive",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "Fp0MEHN037",
+        "categoryExternalId": "kmxvjD2NqJ",
+        "title": "其他",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": ""
+      }
+    ],
+    "playerLocationDeltas": null
+  },
+  "features": [
+    {
+      "coordinates": [
+        -67.6869746214544,
+        -63.081657305517126
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "Kj6LZ5QJpa",
+        "title": "",
+        "description": "紧邻海岸，在岩石边缘。",
+        "subcategoryExternalId": "QPyRD4kxcn",
+        "imageId": 1859450,
+        "imagePath": "/game_map_pin/1859450/{size}.webp",
+        "videoId": 1859451,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/91b63a329a4633cd0ae7997bf959e529cab3c089"
+      }
+    },
+    {
+      "coordinates": [
+        -64.07081274569947,
+        -63.78823176052467
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "yDEqIluRUh",
+        "title": "椰子岛",
+        "description": "在沙滩上。",
+        "subcategoryExternalId": "6oxgOUyLgL",
+        "imageId": 1859478,
+        "imagePath": "/game_map_pin/1859478/{size}.webp",
+        "videoId": 1859479,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/1919f1992478f07511eae69be4f241516b442120"
+      }
+    },
+    {
+      "coordinates": [
+        -54.87096782168621,
+        -65.16734469764174
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "UGNe7GE1rD",
+        "title": "",
+        "description": "沿着黄色浮标游过小岛。用斧头劈开以获取内容物。",
+        "subcategoryExternalId": "5Syx9B9Ob5",
+        "imageId": 1859525,
+        "imagePath": "/game_map_pin/1859525/{size}.webp",
+        "videoId": 1859526,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/d722f658edd27fb4f7085384c00cdb9ef20617b4"
+      }
+    },
+    {
+      "coordinates": [
+        -55.22511878436978,
+        -65.3216488724317
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "S83z3PsttP",
+        "title": "瓶盖 x3",
+        "description": "跟随黄色浮标游过小岛。在罐子里面。",
+        "subcategoryExternalId": "ModcL4678L",
+        "imageId": 1859533,
+        "imagePath": "/game_map_pin/1859533/{size}.webp",
+        "videoId": 1859535,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/69027165d68764d494e6b7947d5298fffa343a7f"
+      }
+    },
+    {
+      "coordinates": [
+        -165.53911339692232,
+        -80.75378061452156
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "cLfQwv8PR8",
+        "title": "渡轮码头",
+        "description": "在码头上",
+        "subcategoryExternalId": "eHbTSP0jWE",
+        "imageId": 1859562,
+        "imagePath": "/game_map_pin/1859562/{size}.webp",
+        "videoId": 1859563,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/4babe97e73b496515246e1843262fcc2fb87d2bd"
+      }
+    },
+    {
+      "coordinates": [
+        -38.39299976030071,
+        -79.38707707908277
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "pfcLzVplQV",
+        "title": "耐久纤维 x4",
+        "description": "在这个区域可以看到几丛结实的灌木",
+        "subcategoryExternalId": "vSUrE1SFGF",
+        "imageId": 1859648,
+        "imagePath": "/game_map_pin/1859648/{size}.webp",
+        "videoId": 1859649,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/9385b45dac678222c83417839cea7a6d41d29735"
+      }
+    },
+    {
+      "coordinates": [
+        -35.450742665612296,
+        -81.88888235200925
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "y763hMMH37",
+        "title": "",
+        "description": "沿着土路走，然后右转。",
+        "subcategoryExternalId": "qpTIFEwiz7",
+        "imageId": 1859667,
+        "imagePath": "/game_map_pin/1859667/{size}.webp",
+        "videoId": 1859668,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/1149dfc42ed28bcc14f2d6fca839a98dc2af3ec5"
+      }
+    },
+    {
+      "coordinates": [
+        -35.63733140794011,
+        -81.81188685535152
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "cfyPzhnosp",
+        "title": "金属废料 x9",
+        "description": "散布在信号塔附近。",
+        "subcategoryExternalId": "fh5Ylbp464",
+        "imageId": 1859674,
+        "imagePath": "/game_map_pin/1859674/{size}.webp",
+        "videoId": 1859675,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/5805be8a08d26312dd95e9309758a18666f46029"
+      }
+    },
+    {
+      "coordinates": [
+        -20.54028603557046,
+        -81.96685450662265
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "20GPvUTsAw",
+        "title": "苔岩 x23",
+        "description": "在这个区域可以看到几个大型苔岩节点。",
+        "subcategoryExternalId": "DQ4OAuVhu6",
+        "imageId": 1859684,
+        "imagePath": "/game_map_pin/1859684/{size}.webp",
+        "videoId": 1859685,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/2b90b19871ce4ce05c5a3f575d540a590585949b"
+      }
+    },
+    {
+      "coordinates": [
+        -11.895262902410877,
+        -83.59647021778032
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "Yh6SCapr7X",
+        "title": "郊外营地",
+        "description": "走土路，一直向前。",
+        "subcategoryExternalId": "Cvl7rXc4xX",
+        "imageId": 1859692,
+        "imagePath": "/game_map_pin/1859692/{size}.webp",
+        "videoId": 1859693,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/a4b407d2e15903166cf923d214624f19f4edc4c1"
+      }
+    },
+    {
+      "coordinates": [
+        -11.607886258871787,
+        -83.69125010444853
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "FO8QSRiJIR",
+        "title": "垃圾 x4",
+        "description": "一个在帐篷前面，另外三个在补给箱旁边",
+        "subcategoryExternalId": "WeDQMYKp62",
+        "imageId": 1859698,
+        "imagePath": "/game_map_pin/1859698/{size}.webp",
+        "videoId": 1859699,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/449cbfedc64288b8054e1f5144110273a7dca856"
+      }
+    },
+    {
+      "coordinates": [
+        -11.246592542950964,
+        -83.64568494353706
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "A2nPy8HjLY",
+        "title": "狗粮",
+        "description": "在帐篷前面，露营包旁边。",
+        "subcategoryExternalId": "Fp0MEHN037",
+        "imageId": 1859707,
+        "imagePath": "/game_map_pin/1859707/{size}.webp",
+        "videoId": 1859708,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/c7b89b41c607dc2523f80aea47d53d1739ca09a9"
+      }
+    },
+    {
+      "coordinates": [
+        -10.95507967564268,
+        -83.55525510250806
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "pmrEdSiYIr",
+        "title": "诺格拉",
+        "description": "",
+        "subcategoryExternalId": "njAvSgil5Y",
+        "imageId": 1859711,
+        "imagePath": "/game_map_pin/1859711/{size}.webp",
+        "videoId": 1859712,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/137c2a61f9bd54a6a4d33082e6b8e5d334917a88"
+      }
+    },
+    {
+      "coordinates": [
+        -11.770227842694595,
+        -83.62382292771737
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "MiSEhXqBPv",
+        "title": "",
+        "description": "篝火旁边。",
+        "subcategoryExternalId": "ModcL4678L",
+        "imageId": 1859724,
+        "imagePath": "/game_map_pin/1859724/{size}.webp",
+        "videoId": 1859725,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/76c66650fb68f36da4a9481ac5684f8568b5890f"
+      }
+    },
+    {
+      "coordinates": [
+        -13.053939703136706,
+        -84.13701769508329
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "9o9obhnJlp",
+        "title": "",
+        "description": "俯瞰营地。",
+        "subcategoryExternalId": "QPyRD4kxcn",
+        "imageId": 1859730,
+        "imagePath": "/game_map_pin/1859730/{size}.webp",
+        "videoId": 1859731,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/87db0b3a12108450cb0b69248e415993aa41dc28"
+      }
+    },
+    {
+      "coordinates": [
+        -9.234692396626485,
+        -84.45905942687209
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "QbqVzlqCdb",
+        "title": "粗矿石 x6",
+        "description": "在山脚下。",
+        "subcategoryExternalId": "DQ4OAuVhu6",
+        "imageId": 1859738,
+        "imagePath": "/game_map_pin/1859738/{size}.webp",
+        "videoId": 1859739,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/eee455af5b2857859a1190e24dec4e02b95863cd"
+      }
+    },
+    {
+      "coordinates": [
+        -23.881369435059867,
+        -74.60251326148175
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "X9hnsZSQWa",
+        "title": "椰子 x2",
+        "description": "在椰子树底下。",
+        "subcategoryExternalId": "6oxgOUyLgL",
+        "imageId": 1859767,
+        "imagePath": "/game_map_pin/1859767/{size}.webp",
+        "videoId": 1859768,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/1a1559eb75ccf95a258de6a430f142606a873675"
+      }
+    },
+    {
+      "coordinates": [
+        -29.409684221613816,
+        -75.37586249736677
+      ],
+      "properties": {
+        "verticalLevel": "below",
+        "externalId": "xs3W6TFt9u",
+        "title": "海贝 x2",
+        "description": "在篝火附近的沙地上。",
+        "subcategoryExternalId": "MdxaPpAF20",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -29.576936215192745,
+        -70.84776573848302
+      ],
+      "properties": {
+        "verticalLevel": "below",
+        "externalId": "rtCwkozgGy",
+        "title": "椰子 x2",
+        "description": "通过在浅水中摆荡到达小岛。",
+        "subcategoryExternalId": "6oxgOUyLgL",
+        "imageId": 1859796,
+        "imagePath": "/game_map_pin/1859796/{size}.webp",
+        "videoId": 1859797,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/4eecd58789ae88c82c2a6f4975dcb874dfdad4df"
+      }
+    },
+    {
+      "coordinates": [
+        -38.1998933463438,
+        -74.84362256378915
+      ],
+      "properties": {
+        "verticalLevel": "below",
+        "externalId": "bSYbix5dkS",
+        "title": "海贝壳 x3",
+        "description": "散落在沙滩上。",
+        "subcategoryExternalId": "MdxaPpAF20",
+        "imageId": 1859806,
+        "imagePath": "/game_map_pin/1859806/{size}.webp",
+        "videoId": 1859807,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/867dac2fe5b078ce6d245b52ba4222507d1bff85"
+      }
+    },
+    {
+      "coordinates": [
+        -27.641753026925045,
+        -75.08759202752682
+      ],
+      "properties": {
+        "verticalLevel": "below",
+        "externalId": "OLHX9SFq76",
+        "title": "海风沙滩",
+        "description": "位于地图南部，靠近海岸。",
+        "subcategoryExternalId": "Cvl7rXc4xX",
+        "imageId": 1859895,
+        "imagePath": "/game_map_pin/1859895/{size}.webp",
+        "videoId": 1859896,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/5d58002da0fc347358dfa29ac56c337a662ac487"
+      }
+    },
+    {
+      "coordinates": [
+        -28.77545350965869,
+        -75.07503415735124
+      ],
+      "properties": {
+        "verticalLevel": "below",
+        "externalId": "EJZOsuIffM",
+        "title": "篝火故事",
+        "description": "篝火旁边。",
+        "subcategoryExternalId": "Fp0MEHN037",
+        "imageId": 1859897,
+        "imagePath": "/game_map_pin/1859897/{size}.webp",
+        "videoId": 1859898,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/61de785c12e9999a64df91b54d6623ee8db6ce4d"
+      }
+    },
+    {
+      "coordinates": [
+        13.532348909468567,
+        -75.0316406469415
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "6NWDeH8ROi",
+        "title": "德西玛",
+        "description": "在森林中央，被小房子包围。",
+        "subcategoryExternalId": "njAvSgil5Y",
+        "imageId": 1859913,
+        "imagePath": "/game_map_pin/1859913/{size}.webp",
+        "videoId": 1859914,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/6eee85807930245591830c7b70bcff5bf79ec6df"
+      }
+    },
+    {
+      "coordinates": [
+        -2.4874653187553974,
+        -80.14858606968335
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "CjeDg29LgU",
+        "title": "红杉树（已死）",
+        "description": "",
+        "subcategoryExternalId": "XbNgb5PbUf",
+        "imageId": 1859930,
+        "imagePath": "/game_map_pin/1859930/{size}.webp",
+        "videoId": 1859931,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/59a081fc8202c0fb8ca75002d11da7601a49948b"
+      }
+    },
+    {
+      "coordinates": [
+        6.257128240853405,
+        -69.33672295713248
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "EuFAdxJ58F",
+        "title": "海岸浆果丛 x4",
+        "description": "在这个区域可以找到几个海岸浆果丛。",
+        "subcategoryExternalId": "igVCepb4yM",
+        "imageId": 1859950,
+        "imagePath": "/game_map_pin/1859950/{size}.webp",
+        "videoId": 1859951,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/ed5fd0bee488bd9ed37a87d3cd6231d2cb16df8f"
+      }
+    },
+    {
+      "coordinates": [
+        16.930845953744694,
+        -69.57408773433329
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "J5I4bcWE2x",
+        "title": "鸭径野餐地",
+        "description": "在土路的尽头。",
+        "subcategoryExternalId": "Cvl7rXc4xX",
+        "imageId": 1859954,
+        "imagePath": "/game_map_pin/1859954/{size}.webp",
+        "videoId": 1859955,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/f5a101178a8ca9adfc6128548312ad0d43861346"
+      }
+    },
+    {
+      "coordinates": [
+        17.150180380455566,
+        -69.55348426962179
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "7dROF8ZCTk",
+        "title": "",
+        "description": "篝火旁边。",
+        "subcategoryExternalId": "WeDQMYKp62",
+        "imageId": 1859956,
+        "imagePath": "/game_map_pin/1859956/{size}.webp",
+        "videoId": 1859957,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/1292b817dfdfa6292f2c101250ee9fb96b1f7093"
+      }
+    },
+    {
+      "coordinates": [
+        17.664843553643777,
+        -60.79402604093712
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "HuVILFiAaU",
+        "title": "",
+        "description": "在岩石山峰之上。",
+        "subcategoryExternalId": "qpTIFEwiz7",
+        "imageId": 1863531,
+        "imagePath": "/game_map_pin/1863531/{size}.webp",
+        "videoId": 1863532,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/44fa627edf8885742fe61208a892823812ffc9a0"
+      }
+    },
+    {
+      "coordinates": [
+        17.457773544549866,
+        -60.87895186598456
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "NWbBKxidNq",
+        "title": "废金属 x9",
+        "description": "位于信号塔附近。",
+        "subcategoryExternalId": "fh5Ylbp464",
+        "imageId": 1863534,
+        "imagePath": "/game_map_pin/1863534/{size}.webp",
+        "videoId": 1863535,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/b42696137707ab98cd21a994dbf9fbc5265618c8"
+      }
+    },
+    {
+      "coordinates": [
+        31.710315436535552,
+        -62.92108269585049
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "GgyVQtw5jV",
+        "title": "灌木爵士",
+        "description": "在湖南边的大岩石上。",
+        "subcategoryExternalId": "njAvSgil5Y",
+        "imageId": 1863536,
+        "imagePath": "/game_map_pin/1863536/{size}.webp",
+        "videoId": 1863537,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/ce2d7c18f6bad216623e058fdd3c6f8c9a9baa5a"
+      }
+    },
+    {
+      "coordinates": [
+        5.513582525920157,
+        -54.71535141846388
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "30KCJ59q05",
+        "title": "",
+        "description": "在湖泊西侧的岩石顶部。",
+        "subcategoryExternalId": "QPyRD4kxcn",
+        "imageId": 1863544,
+        "imagePath": "/game_map_pin/1863544/{size}.webp",
+        "videoId": 1863545,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/cdc5c1124ac754f4b0b73e85970770b10c553f6e"
+      }
+    },
+    {
+      "coordinates": [
+        1.995970990481652,
+        -53.22075709293731
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "RRlLYIrWih",
+        "title": "",
+        "description": "石阶顶部的香蕉皮。",
+        "subcategoryExternalId": "WeDQMYKp62",
+        "imageId": 1863546,
+        "imagePath": "/game_map_pin/1863546/{size}.webp",
+        "videoId": 1863547,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/ad310a646196b13e1ef5db67f77278de1d967b8c"
+      }
+    },
+    {
+      "coordinates": [
+        17.407702096515095,
+        -55.724811492387495
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "woVxHMklMw",
+        "title": "野花 x4",
+        "description": "每个花朵节点提供2片花瓣。这个湖泊区域周围生长着许多野花。",
+        "subcategoryExternalId": "sz6BWJ8iJa",
+        "imageId": 1863548,
+        "imagePath": "/game_map_pin/1863548/{size}.webp",
+        "videoId": 1863549,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/a5599c5342cf47cf27a9678b75724c0fc1a5c51c"
+      }
+    },
+    {
+      "coordinates": [
+        45.804854786672195,
+        -54.80416075100216
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "BHfE15MWwa",
+        "title": "",
+        "description": "在岩石上，靠近篝火处。",
+        "subcategoryExternalId": "QPyRD4kxcn",
+        "imageId": 1863550,
+        "imagePath": "/game_map_pin/1863550/{size}.webp",
+        "videoId": 1863551,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/609e852e8527ce12e75870ab7a64200fb35d5c68"
+      }
+    },
+    {
+      "coordinates": [
+        43.65275036470268,
+        -56.01024055178854
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "bRwwqedCpg",
+        "title": "火山口湖野餐点",
+        "description": "湖的东侧。",
+        "subcategoryExternalId": "Cvl7rXc4xX",
+        "imageId": 1863552,
+        "imagePath": "/game_map_pin/1863552/{size}.webp",
+        "videoId": 1863553,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/1a7c5bc49fbe0ebd761d08193fb12d61de3c0960"
+      }
+    },
+    {
+      "coordinates": [
+        42.264747940298406,
+        -55.61486291561386
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "7T6wsc6rrC",
+        "title": "",
+        "description": "在野餐桌上。",
+        "subcategoryExternalId": "ModcL4678L",
+        "imageId": 1863554,
+        "imagePath": "/game_map_pin/1863554/{size}.webp",
+        "videoId": 1863555,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/086c180faabacbce1bb50e1e75b780f25e21dc29"
+      }
+    },
+    {
+      "coordinates": [
+        42.451008258755195,
+        -55.581777528489894
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "iUBRf7UXlu",
+        "title": "香蕉",
+        "description": "在野餐桌上方。",
+        "subcategoryExternalId": "6oxgOUyLgL",
+        "imageId": 1863556,
+        "imagePath": "/game_map_pin/1863556/{size}.webp",
+        "videoId": 1863557,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/7d27408a9e46144590c01e51fc5e27c606358b72"
+      }
+    },
+    {
+      "coordinates": [
+        42.404650808505636,
+        -55.39458251712348
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "kiCGINYXzE",
+        "title": "",
+        "description": "在野餐桌的长凳上。",
+        "subcategoryExternalId": "WeDQMYKp62",
+        "imageId": 1863559,
+        "imagePath": "/game_map_pin/1863559/{size}.webp",
+        "videoId": 1863560,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/76a4346c3c3220898c5219a13c6ee3357a0a41dc"
+      }
+    },
+    {
+      "coordinates": [
+        42.449361863016975,
+        -55.687778221669575
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "OgLwKdaoHT",
+        "title": "狗粮点",
+        "description": "在野餐桌的长凳上。",
+        "subcategoryExternalId": "Fp0MEHN037",
+        "imageId": 1863561,
+        "imagePath": "/game_map_pin/1863561/{size}.webp",
+        "videoId": 1863562,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/a85e6c5168780e59261ada1943ad9e6c6cb4d4fe"
+      }
+    },
+    {
+      "coordinates": [
+        31.551813589369885,
+        -64.4914100578666
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "X4OySnPXmA",
+        "title": "岩石 x10",
+        "description": "在这个湖区可以找到巨石。",
+        "subcategoryExternalId": "DQ4OAuVhu6",
+        "imageId": 1863563,
+        "imagePath": "/game_map_pin/1863563/{size}.webp",
+        "videoId": 1863564,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/349bd58ccf7919ecc734c94b7f46ee83e371b91a"
+      }
+    },
+    {
+      "coordinates": [
+        40.65828203035821,
+        -65.93505562582473
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "LHourEhMa8",
+        "title": "",
+        "description": "湖泊的东南方。",
+        "subcategoryExternalId": "KZFA1qRrcp",
+        "imageId": 1863565,
+        "imagePath": "/game_map_pin/1863565/{size}.webp",
+        "videoId": 1863566,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/0b45f3d00b3e4da7f27ba4d5ebc242b8832d999a"
+      }
+    },
+    {
+      "coordinates": [
+        42.78821528874417,
+        -62.46770125846348
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "bjJwnqoliQ",
+        "title": "红杉林",
+        "description": "瞭望塔内部。",
+        "subcategoryExternalId": "ooexVfIHX9",
+        "imageId": 1863570,
+        "imagePath": "/game_map_pin/1863570/{size}.webp",
+        "videoId": 1863571,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/c420315a1872e1e21265b15844a4c0011f0a3268"
+      }
+    },
+    {
+      "coordinates": [
+        43.198187601013984,
+        -62.50492363321237
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "P7F2l4hxbu",
+        "title": "瓶盖 x2",
+        "description": "在瞭望塔内的小桌子上。",
+        "subcategoryExternalId": "ModcL4678L",
+        "imageId": 1863572,
+        "imagePath": "/game_map_pin/1863572/{size}.webp",
+        "videoId": 1863573,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/8f4e2176153a4f81b98cf39b6655623df7143930"
+      }
+    },
+    {
+      "coordinates": [
+        43.24158321783733,
+        -62.65903237434899
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "EiNwu3JxSk",
+        "title": "瓶盖 x3",
+        "description": "在瞭望塔内的罐子里。",
+        "subcategoryExternalId": "ModcL4678L",
+        "imageId": 1863574,
+        "imagePath": "/game_map_pin/1863574/{size}.webp",
+        "videoId": 1863575,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/1678ff54f0a0843ff7cbc400d90058960f60c2c0"
+      }
+    },
+    {
+      "coordinates": [
+        48.50002227596846,
+        -76.09981442794275
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "3wbAxyS0Lf",
+        "title": "瓶盖 x4",
+        "description": "罐子在塔的栏杆上，另一个在小木桌上。",
+        "subcategoryExternalId": "ModcL4678L",
+        "imageId": 1863578,
+        "imagePath": "/game_map_pin/1863578/{size}.webp",
+        "videoId": 1863579,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/7f6e065c0ebb25ca80cb100ea16910cc85123884"
+      }
+    },
+    {
+      "coordinates": [
+        48.85168936885876,
+        -76.01877039569047
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "hwF4j5V206",
+        "title": "瓦托",
+        "description": "在塔顶的花箱上。",
+        "subcategoryExternalId": "njAvSgil5Y",
+        "imageId": 1863581,
+        "imagePath": "/game_map_pin/1863581/{size}.webp",
+        "videoId": 1863582,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/78280cd154179f3b10544c1be4b3390de3a1eac0"
+      }
+    },
+    {
+      "coordinates": [
+        49.17979987759307,
+        -76.05980580159542
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "SBpYFnTowS",
+        "title": "密码数据库",
+        "description": "在桌子上，靠近瞭望塔上的书旁边。",
+        "subcategoryExternalId": "20VtD50AOF",
+        "imageId": 1863585,
+        "imagePath": "/game_map_pin/1863585/{size}.webp",
+        "videoId": 1863586,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/963be8aa247226479379a4ecf45f709542398dae"
+      }
+    },
+    {
+      "coordinates": [
+        49.249098232379396,
+        -75.99011557597697
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "yeJjByQ2Hm",
+        "title": "废金属 x6",
+        "description": "在瞭望塔的底部。",
+        "subcategoryExternalId": "fh5Ylbp464",
+        "imageId": 1863588,
+        "imagePath": "/game_map_pin/1863588/{size}.webp",
+        "videoId": 1863589,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/0dcc9d5ca2846b20c1b353021fe9320d46829bf6"
+      }
+    },
+    {
+      "coordinates": [
+        51.05288354899278,
+        -77.22984000596773
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "zMuIRzwGTX",
+        "title": "咖啡植物 x14",
+        "description": "这个区域有几株咖啡植物。",
+        "subcategoryExternalId": "VCsGAcENcH",
+        "imageId": 1863590,
+        "imagePath": "/game_map_pin/1863590/{size}.webp",
+        "videoId": 1863591,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/64d4bacf1ab296389098beeb70acf66838e4f601"
+      }
+    },
+    {
+      "coordinates": [
+        54.348203200366214,
+        -80.94917851277124
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "tt9ndpZlsJ",
+        "title": "终端可执行程序",
+        "description": "在损坏的机器人旁边，红色书本的上方。",
+        "subcategoryExternalId": "20VtD50AOF",
+        "imageId": 1863597,
+        "imagePath": "/game_map_pin/1863597/{size}.webp",
+        "videoId": 1863598,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/cad9f9cfd9f28cda53cf08848701e75d23ba4f98"
+      }
+    },
+    {
+      "coordinates": [
+        54.10845876602133,
+        -80.95023529268063
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "WMZmrxgtgN",
+        "title": "",
+        "description": "在桌子上，靠近机器人。",
+        "subcategoryExternalId": "ModcL4678L",
+        "imageId": 1863599,
+        "imagePath": "/game_map_pin/1863599/{size}.webp",
+        "videoId": 1863600,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/1fd77156ef4ec57238394f2a76c3b4c9e9353aaf"
+      }
+    },
+    {
+      "coordinates": [
+        8.87928359619076,
+        35.65320453853647
+      ],
+      "properties": {
+        "verticalLevel": "below",
+        "externalId": "qrOYx2jShM",
+        "title": "",
+        "description": "在海滩角落。",
+        "subcategoryExternalId": "qpTIFEwiz7",
+        "imageId": 1863595,
+        "imagePath": "/game_map_pin/1863595/{size}.webp",
+        "videoId": 1863596,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/3523c010ed392a1e3f841f3d422f72f41eb42cf2"
+      }
+    },
+    {
+      "coordinates": [
+        -73.30795339837951,
+        -78.92389477021696
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "msNpH7down",
+        "title": "红木树（死亡）x3",
+        "description": "需要三级斧头，这个区域可以找到几根原木。",
+        "subcategoryExternalId": "XbNgb5PbUf",
+        "imageId": 1863607,
+        "imagePath": "/game_map_pin/1863607/{size}.webp",
+        "videoId": 1863608,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/6e3a86f7aa02b46732f275b50cbd9b29c644b86d"
+      }
+    },
+    {
+      "coordinates": [
+        59.38226046622677,
+        -17.05742971542965
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "cXbX4g1Upv",
+        "title": "红杉树（枯死）x2",
+        "description": "位于道路上，需要斧头III。",
+        "subcategoryExternalId": "XbNgb5PbUf",
+        "imageId": 1863610,
+        "imagePath": "/game_map_pin/1863610/{size}.webp",
+        "videoId": 1863611,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/dcca925668f9c362e6f6d816300afa7a12c72a59"
+      }
+    },
+    {
+      "coordinates": [
+        25.706783074783004,
+        69.18107620770283
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "f7XOMdKswA",
+        "title": "",
+        "description": "在路边。",
+        "subcategoryExternalId": "qpTIFEwiz7",
+        "imageId": 1863613,
+        "imagePath": "/game_map_pin/1863613/{size}.webp",
+        "videoId": 1863614,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/b58423ac0efa76ede3b3e296d948dc9a90fe42bb"
+      }
+    },
+    {
+      "coordinates": [
+        25.89936126675704,
+        69.16160156936851
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "UOaJ9YaFc3",
+        "title": "",
+        "description": "信号塔旁边。",
+        "subcategoryExternalId": "WeDQMYKp62",
+        "imageId": 1863615,
+        "imagePath": "/game_map_pin/1863615/{size}.webp",
+        "videoId": 1863616,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/d678677f677a948bc32ad5eb676f3722ad5f9991"
+      }
+    },
+    {
+      "coordinates": [
+        25.786918702861357,
+        69.05818487502833
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "sHG5J9W2xa",
+        "title": "废金属 x6",
+        "description": "散布在信号塔附近。",
+        "subcategoryExternalId": "fh5Ylbp464",
+        "imageId": 1863617,
+        "imagePath": "/game_map_pin/1863617/{size}.webp",
+        "videoId": 1863618,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/04d8c269f735bc5432a247b07263b1e2148684cb"
+      }
+    },
+    {
+      "coordinates": [
+        89.14185994771981,
+        35.98964029809494
+      ],
+      "properties": {
+        "gameCoords": null,
+        "verticalLevel": "above",
+        "externalId": "m47Kf3bJ8V",
+        "title": "",
+        "description": "在小径的悬崖边。",
+        "subcategoryExternalId": "qpTIFEwiz7",
+        "imageId": 1863619,
+        "imagePath": "/game_map_pin/1863619/{size}.webp",
+        "videoId": 1863620,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/a40c2575f46df705a3e640b85e91f471a63f3cf0"
+      }
+    },
+    {
+      "coordinates": [
+        89.22880878483465,
+        36.237281738310045
+      ],
+      "properties": {
+        "gameCoords": null,
+        "verticalLevel": "above",
+        "externalId": "du3kGRRneb",
+        "title": "金属废料 x6",
+        "description": "信号塔后面。",
+        "subcategoryExternalId": "fh5Ylbp464",
+        "imageId": 1863621,
+        "imagePath": "/game_map_pin/1863621/{size}.webp",
+        "videoId": 1863622,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/c1fe6f8e75f7bf14a3c791e077479751da58c3f0"
+      }
+    },
+    {
+      "coordinates": [
+        158.78173214034337,
+        34.04339073399349
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "m0TOom20Bs",
+        "title": "",
+        "description": "在土路小径旁边。",
+        "subcategoryExternalId": "qpTIFEwiz7",
+        "imageId": 1863627,
+        "imagePath": "/game_map_pin/1863627/{size}.webp",
+        "videoId": 1863628,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/560887e2477b83465a5c191c0225f7a41cd35212"
+      }
+    },
+    {
+      "coordinates": [
+        158.7369283325379,
+        33.9409909649696
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "0ujYDpwn9h",
+        "title": "垃圾 x3",
+        "description": "信号塔后面。",
+        "subcategoryExternalId": "WeDQMYKp62",
+        "imageId": 1863629,
+        "imagePath": "/game_map_pin/1863629/{size}.webp",
+        "videoId": 1863630,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/ddedcd4420e49f2f7fb00db88850d59f2ed7fae4"
+      }
+    },
+    {
+      "coordinates": [
+        158.83842844380973,
+        33.91235617393495
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "7LXIR5yOOS",
+        "title": "金属废料 x3",
+        "description": "信号塔后面。",
+        "subcategoryExternalId": "fh5Ylbp464",
+        "imageId": 1863631,
+        "imagePath": "/game_map_pin/1863631/{size}.webp",
+        "videoId": 1863632,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/cbaa94eacf01823e594451a793225bb223b9cb8c"
+      }
+    },
+    {
+      "coordinates": [
+        118.32952048084167,
+        -32.11585865872703
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "Wyxfh64UOm",
+        "title": "",
+        "description": "在泥土上，靠近岩石处。",
+        "subcategoryExternalId": "qpTIFEwiz7",
+        "imageId": 1863633,
+        "imagePath": "/game_map_pin/1863633/{size}.webp",
+        "videoId": 1863634,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/442aed74ba0588d409cea66743075d07a3c9dc92"
+      }
+    },
+    {
+      "coordinates": [
+        117.7181683606455,
+        -31.951325921894473
+      ],
+      "properties": {
+        "verticalLevel": "above",
+        "externalId": "TgUdGFUb7b",
+        "title": "金属碎片 x6",
+        "description": "信号塔旁边。",
+        "subcategoryExternalId": "fh5Ylbp464",
+        "imageId": 1863637,
+        "imagePath": "/game_map_pin/1863637/{size}.webp",
+        "videoId": 1863638,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/f4d6c062367c203aad4e6f033fbe76bab678e774"
+      }
+    },
+    {
+      "coordinates": [
+        53.92385669786182,
+        -81.08582635832563
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "4rYwiPsw9z",
+        "title": "金属废料 x9",
+        "description": "在泥土上。",
+        "subcategoryExternalId": "fh5Ylbp464",
+        "imageId": 1863635,
+        "imagePath": "/game_map_pin/1863635/{size}.webp",
+        "videoId": 1863636,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/fc0f72d03d6c2f0439430e63c444aa7db821934b"
+      }
+    },
+    {
+      "coordinates": [
+        54.68406639352369,
+        -80.89782276056594
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "sFbQUIur95",
+        "title": "迪尔林",
+        "description": "你需要先修理坏掉的机器人才能接触到地精。",
+        "subcategoryExternalId": "njAvSgil5Y",
+        "imageId": 1863642,
+        "imagePath": "/game_map_pin/1863642/{size}.webp",
+        "videoId": 1863643,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/af764e414759fe2718c827ad215dac572bcab251"
+      }
+    },
+    {
+      "coordinates": [
+        59.03326787556844,
+        -80.83276717068412
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "ZRVd789Yes",
+        "title": "阴翳林咖啡农场",
+        "description": "房子旁边。",
+        "subcategoryExternalId": "Cvl7rXc4xX",
+        "imageId": 1863645,
+        "imagePath": "/game_map_pin/1863645/{size}.webp",
+        "videoId": 1863646,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/6b326570ef1145fcb5d58a346c50c2dde2da8709"
+      }
+    },
+    {
+      "coordinates": [
+        64.34495220066327,
+        -80.78471482904152
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "zArU6J5Xsq",
+        "title": "咖啡农场",
+        "description": "",
+        "subcategoryExternalId": "e0LY6ePmne",
+        "imageId": 1863658,
+        "imagePath": "/game_map_pin/1863658/{size}.webp",
+        "videoId": 1863659,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/7e789171948897f0cf8cb96c8855a72c10fe7719"
+      }
+    },
+    {
+      "coordinates": [
+        63.895329505315146,
+        -80.85715541946983
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "tnHKe6du7v",
+        "title": "瓶盖 x2",
+        "description": "在长桌上。",
+        "subcategoryExternalId": "ModcL4678L",
+        "imageId": 1863661,
+        "imagePath": "/game_map_pin/1863661/{size}.webp",
+        "videoId": 1863662,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/6cd0b202984f2df067a07599f010aa69f596ff62"
+      }
+    },
+    {
+      "coordinates": [
+        64.9547107071605,
+        -80.62761315101613
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "GRpsTrmDAn",
+        "title": "瓶盖 x2",
+        "description": "在方桌上。",
+        "subcategoryExternalId": "ModcL4678L",
+        "imageId": 1863664,
+        "imagePath": "/game_map_pin/1863664/{size}.webp",
+        "videoId": 1863665,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/70e80ee195792382621b0beacf16183d5d679f64"
+      }
+    },
+    {
+      "coordinates": [
+        63.83392219420068,
+        -80.7674019504617
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "8BRJ2G7ikG",
+        "title": "信号解码器",
+        "description": "在房子里的长桌中央。",
+        "subcategoryExternalId": "20VtD50AOF",
+        "imageId": 1863666,
+        "imagePath": "/game_map_pin/1863666/{size}.webp",
+        "videoId": 1863667,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/7cbc83f87d50070caf43f6803223af1057d66a42"
+      }
+    },
+    {
+      "coordinates": [
+        64.34920721998384,
+        -80.63862089075397
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "9u06ysuq13",
+        "title": "垃圾 x4",
+        "description": "在垃圾桶上方和旁边。",
+        "subcategoryExternalId": "WeDQMYKp62",
+        "imageId": 1863668,
+        "imagePath": "/game_map_pin/1863668/{size}.webp",
+        "videoId": 1863669,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/032f0ff4f98f596d37f27e8e07d20f492ea3534e"
+      }
+    },
+    {
+      "coordinates": [
+        63.790835865109074,
+        -80.68512500495801
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "qlk3jRNN0k",
+        "title": "咖啡农场",
+        "description": "房子里面门旁边。",
+        "subcategoryExternalId": "ooexVfIHX9",
+        "imageId": 1863670,
+        "imagePath": "/game_map_pin/1863670/{size}.webp",
+        "videoId": 1863671,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/a73a72eb3417120ff7bee2f547495a4519bc5108"
+      }
+    },
+    {
+      "coordinates": [
+        63.38971550098378,
+        -80.79962487691157
+      ],
+      "properties": {
+        "verticalLevel": null,
+        "externalId": "NBkQPWT5Sn",
+        "title": "烘焙咖啡豆麻袋 x2",
+        "description": "每个麻袋在\"免费咖啡\"标志下含有3个烘焙咖啡豆。",
+        "subcategoryExternalId": "VCsGAcENcH",
+        "imageId": 1863691,
+        "imagePath": "/game_map_pin/1863691/{size}.webp",
+        "videoId": 1863692,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/694c6f6a3c71cc51e6e172335a1cd075dece87d1"
+      }
+    },
+    {
+      "coordinates": [
+        65.3815614874803,
+        -54.384064758662575
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1017.6121826171875,
+          "y": 70.93048858642578,
+          "z": 480.13836669921875,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "YkwpybLhrq",
+        "title": "瓶盖 x3",
+        "description": "位于迷宫中。",
+        "subcategoryExternalId": "ModcL4678L",
+        "imageId": 1863693,
+        "imagePath": "/game_map_pin/1863693/{size}.webp",
+        "videoId": 1863694,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/3d7bad38ec96c23781de0d94c1f34c336f7478d6"
+      }
+    },
+    {
+      "coordinates": [
+        65.99496577350868,
+        -53.0171082549075
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1015.81005859375,
+          "y": 72.82042694091797,
+          "z": 489.27386474609375,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "vANls8Bnlj",
+        "title": "",
+        "description": "要到达信号塔，向西穿过迷宫。最终，你会找到一组可以攀爬的方块来进入塔楼。",
+        "subcategoryExternalId": "qpTIFEwiz7",
+        "imageId": 1863696,
+        "imagePath": "/game_map_pin/1863696/{size}.webp",
+        "videoId": 1863697,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/50f46f1e8d2353847e0bf655932dfa546f3de950"
+      }
+    },
+    {
+      "coordinates": [
+        91.03321474208008,
+        -66.76030433843042
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1130.3870849609375,
+          "y": 70.93048858642578,
+          "z": 369.92144775390625,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "xuMKFqKM0L",
+        "title": "惊人的休憩地",
+        "description": "要找到这个篝火，一直走右侧的路径，直到你看到一个紫色箭头。在那个地方向左转，然后沿着路径走到尽头。",
+        "subcategoryExternalId": "Cvl7rXc4xX",
+        "imageId": 1863699,
+        "imagePath": "/game_map_pin/1863699/{size}.webp",
+        "videoId": 1863700,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/9729044387962427c861e1d825c4f4085b0a2001"
+      }
+    },
+    {
+      "coordinates": [
+        90.37024413457112,
+        -67.38164005490759
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1127.8271484375,
+          "y": 70.93048858642578,
+          "z": 366.28509521484375,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "m1jTlXpSho",
+        "title": "",
+        "description": "篝火旁边。\n\n- 1x 金属\n- 2x 瓶盖\n- 2x 贝壳",
+        "subcategoryExternalId": "PUmgzXFeKt",
+        "imageId": 1863702,
+        "imagePath": "/game_map_pin/1863702/{size}.webp",
+        "videoId": 1863703,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/ead3ec0041a6209a9fcdf3e31183cebaa4da0589"
+      }
+    },
+    {
+      "coordinates": [
+        86.38450647077656,
+        -67.29631827715116
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1106.4339599609375,
+          "y": 70.93048858642578,
+          "z": 362.35626220703125,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "VHy9fvdRX3",
+        "title": "",
+        "description": "这个物品位于迷宫内。要找到它，只需在进入这个区域的特定一侧时，沿着右侧路径前进。\n\n- 1个瓶盖\n- 1个香蕉面包",
+        "subcategoryExternalId": "PUmgzXFeKt",
+        "imageId": 1863705,
+        "imagePath": "/game_map_pin/1863705/{size}.webp",
+        "videoId": 1863706,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/b2b6c7d8a57330e4ea84030c3ee92a773f4b3591"
+      }
+    },
+    {
+      "coordinates": [
+        86.21864217232661,
+        -67.04297344780196
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1105.1429443359375,
+          "y": 70.93048858642578,
+          "z": 372.47576904296875,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "n5W4JbajN1",
+        "title": "",
+        "description": "看到红色箭头标志后，向右转。",
+        "subcategoryExternalId": "ModcL4678L",
+        "imageId": 1863707,
+        "imagePath": "/game_map_pin/1863707/{size}.webp",
+        "videoId": 1863708,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/89fc1041588160b86aacbffe7c53920c067c509a"
+      }
+    },
+    {
+      "coordinates": [
+        71.52025078060663,
+        -55.58677343748832
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1052.3057861328125,
+          "y": 70.93048858642578,
+          "z": 457.3019714355469,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "xLdarrSDN1",
+        "title": "",
+        "description": "沿着迷宫内的箭头指示前进，一旦到达橙色箭头处，立即右转即可到达坐在木桶上的石堆标记。",
+        "subcategoryExternalId": "QPyRD4kxcn",
+        "imageId": 1863709,
+        "imagePath": "/game_map_pin/1863709/{size}.webp",
+        "videoId": 1863710,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/fdcba5c1993cfdccc64a62fe68ab0b544b092206"
+      }
+    },
+    {
+      "coordinates": [
+        68.86242284102369,
+        -55.8007719081073
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1036.5479736328125,
+          "y": 70.93048858642578,
+          "z": 451.5029602050781,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "pijTjMFgoI",
+        "title": "",
+        "description": "过了石标后，你会看到一个黄色箭头。向左转。\n\n- 1x 金属板",
+        "subcategoryExternalId": "PUmgzXFeKt",
+        "imageId": 1863711,
+        "imagePath": "/game_map_pin/1863711/{size}.webp",
+        "videoId": 1863712,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/f0bcf426b123b73dd9c6ffdc70c1620ea970a158"
+      }
+    },
+    {
+      "coordinates": [
+        70.96478192269683,
+        -50.041576750316004
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1042.347900390625,
+          "y": 70.93048858642578,
+          "z": 508.8622741699219,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "823EpRumkH",
+        "title": "巴纳尼亚的诺明顿爵士",
+        "description": "一旦你在迷宫的这个区域发现橙色箭头，就向右转。然后，沿着香蕉皮的踪迹找到地精。",
+        "subcategoryExternalId": "njAvSgil5Y",
+        "imageId": 1863713,
+        "imagePath": "/game_map_pin/1863713/{size}.webp",
+        "videoId": 1863714,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/23aac81bf496a9ad1bdb962afbef3958af41ad0f"
+      }
+    },
+    {
+      "coordinates": [
+        96.66309026446697,
+        -70.13004446363809
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1150.7264404296875,
+          "y": 111.20542907714844,
+          "z": 331.6274719238281,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "gqbSCeqcwU",
+        "title": "迷宫景观",
+        "description": "迷宫西南方。",
+        "subcategoryExternalId": "Cvl7rXc4xX",
+        "imageId": 1863755,
+        "imagePath": "/game_map_pin/1863755/{size}.webp",
+        "videoId": 1863756,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/656faf5cc0bb45940685ab60a7d53ca4e608519e"
+      }
+    },
+    {
+      "coordinates": [
+        96.80427614178416,
+        -69.50584731105683
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1146.59765625,
+          "y": 111.21614837646484,
+          "z": 336.6396179199219,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "SMcepOG6Do",
+        "title": "",
+        "description": "篝火旁边。\n\n- 1x 椰子奶昔\n- 2x 废金属\n- 1x 烘焙咖啡豆\n- 1x 长青木原木",
+        "subcategoryExternalId": "PUmgzXFeKt",
+        "imageId": 1863757,
+        "imagePath": "/game_map_pin/1863757/{size}.webp",
+        "videoId": 1863758,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/7d1585ba057512f0f333ca029ba09e982a783f18"
+      }
+    },
+    {
+      "coordinates": [
+        97.57793031778095,
+        -68.19452346270134
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1151.442626953125,
+          "y": 109.93804168701172,
+          "z": 360.31939697265625,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "p2QEb1bHgo",
+        "title": "",
+        "description": "在倒下的红色原木尖端。",
+        "subcategoryExternalId": "QPyRD4kxcn",
+        "imageId": 1863759,
+        "imagePath": "/game_map_pin/1863759/{size}.webp",
+        "videoId": 1863760,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/1f567f16bcca8250323aa650fccb4542f7f7fa03"
+      }
+    },
+    {
+      "coordinates": [
+        102.9135562982334,
+        -74.47367828736147
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1175.9619140625,
+          "y": 109.33004760742188,
+          "z": 283.7428894042969,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "blF6QiUlAu",
+        "title": "",
+        "description": "在山顶上。",
+        "subcategoryExternalId": "qpTIFEwiz7",
+        "imageId": 1863762,
+        "imagePath": "/game_map_pin/1863762/{size}.webp",
+        "videoId": 1863763,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/cf512e634e725a66d14f15c53e30c3e638871462"
+      }
+    },
+    {
+      "coordinates": [
+        103.1688830228045,
+        -74.36262566683399
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1179.902587890625,
+          "y": 109.3165054321289,
+          "z": 284.1513671875,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "fkx5wPV1uf",
+        "title": "金属废料 x6",
+        "description": "在信号塔附近。",
+        "subcategoryExternalId": "fh5Ylbp464",
+        "imageId": 1863764,
+        "imagePath": "/game_map_pin/1863764/{size}.webp",
+        "videoId": 1863765,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/6ddb6e070ed2de6d89eaa1714e697295ab6517b8"
+      }
+    },
+    {
+      "coordinates": [
+        71.64995976741693,
+        -80.8869525800244
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1046.3486328125,
+          "y": 72.70134735107422,
+          "z": 142.16529846191406,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "0eI1UvdDji",
+        "title": "",
+        "description": "在悬崖边缘，俯瞰着咖啡农场。",
+        "subcategoryExternalId": "QPyRD4kxcn",
+        "imageId": 1863767,
+        "imagePath": "/game_map_pin/1863767/{size}.webp",
+        "videoId": 1863768,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/3c5bbd29e51336dc467318bc5fa97595e2b1f25a"
+      }
+    },
+    {
+      "coordinates": [
+        83.00499897059927,
+        -79.00502123502635
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1090.80224609375,
+          "y": 73.50279998779297,
+          "z": 189.04220581054688,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "9VglEQMjFt",
+        "title": "红杉树（已死）",
+        "description": "在土路边。",
+        "subcategoryExternalId": "XbNgb5PbUf",
+        "imageId": 1863770,
+        "imagePath": "/game_map_pin/1863770/{size}.webp",
+        "videoId": 1863771,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/b4a51257cd4e99331e2d0cfebee8e8345d6407b3"
+      }
+    },
+    {
+      "coordinates": [
+        99.69396093316226,
+        -79.1829553103443
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1160.8944091796875,
+          "y": 75.37013244628906,
+          "z": 187.20187377929688,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "QIt4RoHGww",
+        "title": "红木树（死亡）x3",
+        "description": "在这个区域可以找到几根红木原木。",
+        "subcategoryExternalId": "XbNgb5PbUf",
+        "imageId": 1863774,
+        "imagePath": "/game_map_pin/1863774/{size}.webp",
+        "videoId": 1863775,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/c2ff1f9db770304774ec73f841b17d3b2036bffc"
+      }
+    },
+    {
+      "coordinates": [
+        124.79230533910822,
+        -77.20261181645193
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1253.07861328125,
+          "y": 92.6822280883789,
+          "z": 244.96304321289062,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "nJDifEl2oN",
+        "title": "充电站",
+        "description": "在路边。",
+        "subcategoryExternalId": "eHbTSP0jWE",
+        "imageId": 1863776,
+        "imagePath": "/game_map_pin/1863776/{size}.webp",
+        "videoId": 1863777,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/103b7868de2262c4a33b48025fa564a7c37318a0"
+      }
+    },
+    {
+      "coordinates": [
+        175.3774954127777,
+        -73.89779268588991
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1469.017333984375,
+          "y": 80.23419189453125,
+          "z": 284.55963134765625,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "XWOAVW8DW1",
+        "title": "太阳能露营地",
+        "description": "道路尽头，地图的东南侧。",
+        "subcategoryExternalId": "Cvl7rXc4xX",
+        "imageId": 1863785,
+        "imagePath": "/game_map_pin/1863785/{size}.webp",
+        "videoId": 1863786,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/e61ad335264f07f3d0064e71712a882865326995"
+      }
+    },
+    {
+      "coordinates": [
+        176.28030278867266,
+        -73.8676523464029
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1476.08251953125,
+          "y": 79.91356658935547,
+          "z": 282.9336853027344,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "LLjnqzEGfu",
+        "title": "",
+        "description": "篝火附近。\n\n- 2x 野生番茄\n- 1x 靛蓝菇\n- 2x 瓶盖",
+        "subcategoryExternalId": "PUmgzXFeKt",
+        "imageId": 1863787,
+        "imagePath": "/game_map_pin/1863787/{size}.webp",
+        "videoId": 1863788,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/2e508c98bb08f929a68bccfe0d83c32336f8aa73"
+      }
+    },
+    {
+      "coordinates": [
+        176.35239533044955,
+        -73.85912680593223
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1478.0120849609375,
+          "y": 80.00593566894531,
+          "z": 284.3018798828125,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "KY9liCNigj",
+        "title": "狗粮",
+        "description": "补给箱顶上",
+        "subcategoryExternalId": "Fp0MEHN037",
+        "imageId": 1863790,
+        "imagePath": "/game_map_pin/1863790/{size}.webp",
+        "videoId": 1863791,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/149761f6963feeef7e144f5fd9cfd1c912a3925c"
+      }
+    },
+    {
+      "coordinates": [
+        176.27610549355785,
+        -73.83487999635862
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1477.96728515625,
+          "y": 79.96854400634766,
+          "z": 284.9068603515625,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "caM5RnbWCZ",
+        "title": "瓶盖 x3",
+        "description": "在罐子里，补给箱旁边。",
+        "subcategoryExternalId": "ModcL4678L",
+        "imageId": 1863792,
+        "imagePath": "/game_map_pin/1863792/{size}.webp",
+        "videoId": 1863793,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/a5f68bbfb2903db92e8a91c5908f133bff32abdd"
+      }
+    },
+    {
+      "coordinates": [
+        175.9532834228396,
+        -73.7730287096151
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1474.0684814453125,
+          "y": 80.01271057128906,
+          "z": 286.7114562988281,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "j0Wpv5a513",
+        "title": "垃圾 x3",
+        "description": "两个在帐篷旁边，另一个在井上。",
+        "subcategoryExternalId": "WeDQMYKp62",
+        "imageId": 1863794,
+        "imagePath": "/game_map_pin/1863794/{size}.webp",
+        "videoId": 1863795,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/8f20c6745750f9d51c65772b6fa4f731a67d04e1"
+      }
+    },
+    {
+      "coordinates": [
+        174.80053442576633,
+        -73.04009992323108
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1470.29833984375,
+          "y": 80.20587921142578,
+          "z": 287.88330078125,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "oGT1Xshrzg",
+        "title": "",
+        "description": "位于营地内。",
+        "subcategoryExternalId": "KZFA1qRrcp",
+        "imageId": 1863798,
+        "imagePath": "/game_map_pin/1863798/{size}.webp",
+        "videoId": 1863799,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/e4e055852e15fa22e2b07f1ef8e6a52cb9669001"
+      }
+    },
+    {
+      "coordinates": [
+        158.9145965118513,
+        -74.53725078719324
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1414.5950927734375,
+          "y": 82.30152893066406,
+          "z": 271.1230773925781,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "DD1DSf0qvV",
+        "title": "红杉树（枯死）x4",
+        "description": "这个区域有几根红杉木原木。",
+        "subcategoryExternalId": "XbNgb5PbUf",
+        "imageId": 1863800,
+        "imagePath": "/game_map_pin/1863800/{size}.webp",
+        "videoId": 1863801,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/7a5b5046e486116088aa4d2c103108144fdeecbd"
+      }
+    },
+    {
+      "coordinates": [
+        160.51125612438523,
+        -70.60191030799652
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1414.48681640625,
+          "y": 85.23189544677734,
+          "z": 333.09832763671875,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "lt3N2OOY8N",
+        "title": "太阳帽 x2",
+        "description": "位于营地附近的草地区域。",
+        "subcategoryExternalId": "jt9zEXXnBh",
+        "imageId": 1863802,
+        "imagePath": "/game_map_pin/1863802/{size}.webp",
+        "videoId": 1863803,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/eb804ad029bd80bb6d84138f1a06641f867cf35d"
+      }
+    },
+    {
+      "coordinates": [
+        139.80816317286013,
+        -77.88028262607142
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1336.4927978515625,
+          "y": 89.75477600097656,
+          "z": 217.817138671875,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "Dh8DBThDWG",
+        "title": "太阳帽 x3",
+        "description": "在这个区域可以看到几个太阳帽。",
+        "subcategoryExternalId": "jt9zEXXnBh",
+        "imageId": 1863805,
+        "imagePath": "/game_map_pin/1863805/{size}.webp",
+        "videoId": 1863806,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/6b36848927bf0d22fe4f289548858769544447f0"
+      }
+    },
+    {
+      "coordinates": [
+        129.79409275136408,
+        -80.00195351404383
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1280.6097412109375,
+          "y": 81.02021789550781,
+          "z": 161.20562744140625,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "5EFh6d7qUB",
+        "title": "塞拉克斯",
+        "description": "太阳能电池板北侧，石圈中央。",
+        "subcategoryExternalId": "njAvSgil5Y",
+        "imageId": 1863807,
+        "imagePath": "/game_map_pin/1863807/{size}.webp",
+        "videoId": 1863808,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/f7a72e393bb891ef829b82c34715c78dd2c004fa"
+      }
+    },
+    {
+      "coordinates": [
+        146.50983729199794,
+        -79.68605738920847
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1358.2198486328125,
+          "y": 92.939208984375,
+          "z": 174.0359649658203,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "jUvM8bbO7n",
+        "title": "",
+        "description": "就在标志旁边。",
+        "subcategoryExternalId": "WeDQMYKp62",
+        "imageId": 1863810,
+        "imagePath": "/game_map_pin/1863810/{size}.webp",
+        "videoId": 1863811,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/94ccd324b08064b1f7896f66ec7cbf6a9d04c316"
+      }
+    },
+    {
+      "coordinates": [
+        152.5949659064953,
+        -80.45991729724409
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1385.9129638671875,
+          "y": 122.3731460571289,
+          "z": 159.71487426757812,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "lyPHsoFZ5C",
+        "title": "",
+        "description": "在小径尽头向左转。它位于边缘处。",
+        "subcategoryExternalId": "QPyRD4kxcn",
+        "imageId": 1863813,
+        "imagePath": "/game_map_pin/1863813/{size}.webp",
+        "videoId": 1863814,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/50003a89abf74f42405395e468d07f2821c9e228"
+      }
+    },
+    {
+      "coordinates": [
+        162.76448530022378,
+        -81.96731506336425
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1415.27880859375,
+          "y": 122.55107116699219,
+          "z": 123.88182067871094,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "mbBFCv1y4L",
+        "title": "红杉树（已死）",
+        "description": "",
+        "subcategoryExternalId": "XbNgb5PbUf",
+        "imageId": 1863816,
+        "imagePath": "/game_map_pin/1863816/{size}.webp",
+        "videoId": 1863817,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/6c0390602881be7d93a4cf7e44160e575b6dc751"
+      }
+    },
+    {
+      "coordinates": [
+        166.07735612486016,
+        -80.37084355418604
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1428.7969970703125,
+          "y": 122.55107116699219,
+          "z": 159.02198791503906,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "I7VuXOq1Dq",
+        "title": "金属碎片 x12",
+        "description": "在该区域可以看到几个废金属，位于太阳能电池板后面。",
+        "subcategoryExternalId": "fh5Ylbp464",
+        "imageId": 1863820,
+        "imagePath": "/game_map_pin/1863820/{size}.webp",
+        "videoId": 1863821,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/437c8f45a072ba355d9b6d0d60d5fd0043b440af"
+      }
+    },
+    {
+      "coordinates": [
+        152.73377346689142,
+        -82.05595623583625
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1390.925048828125,
+          "y": 111.37896728515625,
+          "z": 102.74742889404297,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "JsXlxuDC1H",
+        "title": "",
+        "description": "在徒步小径的顶端，向右转。",
+        "subcategoryExternalId": "qpTIFEwiz7",
+        "imageId": 1863831,
+        "imagePath": "/game_map_pin/1863831/{size}.webp",
+        "videoId": 1863832,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/0fa7612c5fa05d849795425229ad5d9d2fc10c8b"
+      }
+    },
+    {
+      "coordinates": [
+        151.6928709245335,
+        -82.0277549847554
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1385.7362060546875,
+          "y": 110.72173309326172,
+          "z": 98.65077209472656,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "k9aWicAgyG",
+        "title": "金属废料 x6",
+        "description": "在信号塔旁边，另一个在太阳能电池板后面。",
+        "subcategoryExternalId": "fh5Ylbp464",
+        "imageId": 1863833,
+        "imagePath": "/game_map_pin/1863833/{size}.webp",
+        "videoId": 1863834,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/eaac770c6de59590050778b9b7c6ac99efb6a254"
+      }
+    },
+    {
+      "coordinates": [
+        136.4018424250213,
+        -82.54514709010235
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1304.719970703125,
+          "y": 95.52305603027344,
+          "z": 89.80171203613281,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "ySCqRJSZjJ",
+        "title": "金属废料 x11",
+        "description": "在这个区域可以看到几个废金属，就在太阳能电池板后面。",
+        "subcategoryExternalId": "fh5Ylbp464",
+        "imageId": 1863836,
+        "imagePath": "/game_map_pin/1863836/{size}.webp",
+        "videoId": 1863837,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/963078a2c179d99e1d28ae1552f8630bfb2f4461"
+      }
+    },
+    {
+      "coordinates": [
+        149.1282174237939,
+        -83.60618019896378
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1366.730712890625,
+          "y": 110.5296630859375,
+          "z": 63.73428726196289,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "OxmgSFqXXU",
+        "title": "劳拉",
+        "description": "在巨石上方。",
+        "subcategoryExternalId": "njAvSgil5Y",
+        "imageId": 1863839,
+        "imagePath": "/game_map_pin/1863839/{size}.webp",
+        "videoId": 1863840,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/d4f289804e5994cdb6d021ac498a36d35885ef07"
+      }
+    },
+    {
+      "coordinates": [
+        175.16835300351835,
+        -71.67193319109882
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1464.693603515625,
+          "y": 86.59815979003906,
+          "z": 311.06121826171875,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "NjoCTrXhte",
+        "title": "",
+        "description": "营地北边。",
+        "subcategoryExternalId": "eHbTSP0jWE",
+        "imageId": 1863841,
+        "imagePath": "/game_map_pin/1863841/{size}.webp",
+        "videoId": 1863842,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/a6f8f57948280e9a3fef7b1dac7acf8e0ef927dd"
+      }
+    },
+    {
+      "coordinates": [
+        178.07767681907688,
+        -65.07116458367167
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1512.58984375,
+          "y": 96.57064056396484,
+          "z": 377.01239013671875,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "5bNsEYEZ4y",
+        "title": "海岸",
+        "description": "它就在瀑布旁边的岩石上。在河流的北岸可以找到它。",
+        "subcategoryExternalId": "njAvSgil5Y",
+        "imageId": 1863845,
+        "imagePath": "/game_map_pin/1863845/{size}.webp",
+        "videoId": 1863846,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/ea6dfb1c50955872bf1c32aafe826b372b5f911e"
+      }
+    },
+    {
+      "coordinates": [
+        -5.846649634607132,
+        -45.283103400333665
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 720.5759887695312,
+          "y": 54.01007080078125,
+          "z": 538.3919067382812,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "55mI1eNjg9",
+        "title": "苔岩 x15",
+        "description": "几块巨大的苔藓石堵住了你的货车前进的道路。",
+        "subcategoryExternalId": "DQ4OAuVhu6",
+        "imageId": 1864287,
+        "imagePath": "/game_map_pin/1864287/{size}.webp",
+        "videoId": 1864288,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/257d4d5408cf3ae9e708ad03caba00928bb047ba"
+      }
+    },
+    {
+      "coordinates": [
+        -8.285808722108328,
+        -40.458190760772524
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 712.1738891601562,
+          "y": 41.5768928527832,
+          "z": 569.0095825195312,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "zdPNTBmiHX",
+        "title": "",
+        "description": "在海滩附近的一块巨石上。",
+        "subcategoryExternalId": "QPyRD4kxcn",
+        "imageId": 1864289,
+        "imagePath": "/game_map_pin/1864289/{size}.webp",
+        "videoId": 1864290,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/51557de9e2b24e736516aa681538368662137b1c"
+      }
+    },
+    {
+      "coordinates": [
+        -1.3990560179090323,
+        -34.23018196317303
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 748.4947509765625,
+          "y": 41.86448287963867,
+          "z": 600.287353515625,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "6iHK7cGMsm",
+        "title": "椰子 x6",
+        "description": "在这个区域可以找到几个椰子。",
+        "subcategoryExternalId": "6oxgOUyLgL",
+        "imageId": 1864291,
+        "imagePath": "/game_map_pin/1864291/{size}.webp",
+        "videoId": 1864292,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/2363e3413ab68e86caf96794b706d0bbd55ac89f"
+      }
+    },
+    {
+      "coordinates": [
+        12.393878572953923,
+        -29.669901307712472
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 804.7372436523438,
+          "y": 41.72768020629883,
+          "z": 618.8314208984375,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "qhuBlMWFhw",
+        "title": "海贝壳 x9",
+        "description": "",
+        "subcategoryExternalId": "MdxaPpAF20",
+        "imageId": 1864294,
+        "imagePath": "/game_map_pin/1864294/{size}.webp",
+        "videoId": 1864295,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/9986f89db0cc6cc64b685fbfae13b3889e2b421c"
+      }
+    },
+    {
+      "coordinates": [
+        12.676494737882336,
+        -41.287345467571335
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 803.9288330078125,
+          "y": 41.477848052978516,
+          "z": 557.6370849609375,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "qXYd2LjwYt",
+        "title": "",
+        "description": "小池塘旁边。",
+        "subcategoryExternalId": "WeDQMYKp62",
+        "imageId": 1864297,
+        "imagePath": "/game_map_pin/1864297/{size}.webp",
+        "videoId": 1864298,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/03759b4a23f21b2819e24c7da355126096647e71"
+      }
+    },
+    {
+      "coordinates": [
+        12.336596298795229,
+        -41.023429689807706
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 803.3109741210938,
+          "y": 41.542545318603516,
+          "z": 556.6957397460938,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "HjxEgiTrCy",
+        "title": "瓶盖 x3",
+        "description": "在香蕉皮垃圾旁边。罐子里面。",
+        "subcategoryExternalId": "ModcL4678L",
+        "imageId": 1864299,
+        "imagePath": "/game_map_pin/1864299/{size}.webp",
+        "videoId": 1864300,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/ca1197529a747f98614dd6aebfba36411ae8ff6f"
+      }
+    },
+    {
+      "coordinates": [
+        3.1346961416116983,
+        -42.05288133129778
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 765.4649047851562,
+          "y": 91.66687774658203,
+          "z": 557.7067260742188,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "4rRfeKykyc",
+        "title": "卡梅伦",
+        "description": "位于山峰北侧悬崖边缘。通过从南面延伸而来的土路小径可以到达此地点。",
+        "subcategoryExternalId": "njAvSgil5Y",
+        "imageId": 1864304,
+        "imagePath": "/game_map_pin/1864304/{size}.webp",
+        "videoId": 1864305,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/709e161ce5bda4fa2ac9c3b366924565ceb5d3d0"
+      }
+    },
+    {
+      "coordinates": [
+        32.59032559388794,
+        -40.436130612014864
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 878.7596435546875,
+          "y": 74.37025451660156,
+          "z": 566.23046875,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "f399IW4YIs",
+        "title": "香蕉 x8",
+        "description": "几根香蕉散落在这里，就在香蕉树的根部。",
+        "subcategoryExternalId": "6oxgOUyLgL",
+        "imageId": 1864307,
+        "imagePath": "/game_map_pin/1864307/{size}.webp",
+        "videoId": 1864308,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/f9870d32d9d4231ec5a58818d78374980eefc98c"
+      }
+    },
+    {
+      "coordinates": [
+        55.52895254684324,
+        -27.138332249362506
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 973.06787109375,
+          "y": 80.92865753173828,
+          "z": 634.2526245117188,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "UOgJ24EeXm",
+        "title": "香蕉疯狂露营地",
+        "description": "在石桥后面的路边。",
+        "subcategoryExternalId": "Cvl7rXc4xX",
+        "imageId": 1864309,
+        "imagePath": "/game_map_pin/1864309/{size}.webp",
+        "videoId": 1864310,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/7c2960b098a0c276cfb11e0eb386958e8b967985"
+      }
+    },
+    {
+      "coordinates": [
+        42.34761567095893,
+        -20.663827703655258
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 925.0972900390625,
+          "y": 41.5768928527832,
+          "z": 660.2307739257812,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "ZEehZXxj9i",
+        "title": "椰子 x2",
+        "description": "在海滩的草地部分。",
+        "subcategoryExternalId": "6oxgOUyLgL",
+        "imageId": 1864311,
+        "imagePath": "/game_map_pin/1864311/{size}.webp",
+        "videoId": 1864312,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/644eeacfb5dde83ae617d408da44cbda4c192f76"
+      }
+    },
+    {
+      "coordinates": [
+        38.00387190418135,
+        -0.06490628240045737
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 906.7559814453125,
+          "y": 41.5768928527832,
+          "z": 741.1802978515625,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "05IxGdpN5R",
+        "title": "桑迪湾露营地",
+        "description": "位于通往海滩道路的南侧。使用主要海岸小径可以最轻松地到达。",
+        "subcategoryExternalId": "Cvl7rXc4xX",
+        "imageId": 1864315,
+        "imagePath": "/game_map_pin/1864315/{size}.webp",
+        "videoId": 1864316,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/242430c3f90741b89e74ca38ceab4e56469ebed9"
+      }
+    },
+    {
+      "coordinates": [
+        36.60581878640764,
+        2.253349438820422
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 908.5341186523438,
+          "y": 41.5768928527832,
+          "z": 752.231201171875,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "CGgUvKqOlS",
+        "title": "瓶盖 x3",
+        "description": "在海滩遮阳伞的底部。",
+        "subcategoryExternalId": "ModcL4678L",
+        "imageId": 1864317,
+        "imagePath": "/game_map_pin/1864317/{size}.webp",
+        "videoId": 1864318,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/55355cad842f0119a7463dda915174bccc06101b"
+      }
+    },
+    {
+      "coordinates": [
+        35.57378039721908,
+        1.892252265942659
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 898.310546875,
+          "y": 41.5768928527832,
+          "z": 750.6575317382812,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "xwuWsQdZgh",
+        "title": "垃圾 x2",
+        "description": "在沙滩椅旁边。",
+        "subcategoryExternalId": "WeDQMYKp62",
+        "imageId": 1864319,
+        "imagePath": "/game_map_pin/1864319/{size}.webp",
+        "videoId": 1864320,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/e48e12dcf2b0aa095c68288a43122abae0b4935c"
+      }
+    },
+    {
+      "coordinates": [
+        35.45920549534739,
+        -1.2890367844381103
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 892.7793579101562,
+          "y": 41.5768928527832,
+          "z": 740.2008666992188,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "AcOtrkJweS",
+        "title": "海贝壳",
+        "description": "在这个区域可以看到几个贝壳。",
+        "subcategoryExternalId": "MdxaPpAF20",
+        "imageId": 1864321,
+        "imagePath": "/game_map_pin/1864321/{size}.webp",
+        "videoId": 1864322,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/f68f1bd967e4df4ce452418a4f99136217881f49"
+      }
+    },
+    {
+      "coordinates": [
+        33.60413898221199,
+        6.6674478540067526
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 888.901123046875,
+          "y": 46.08134078979492,
+          "z": 780.2803955078125,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "L3fsfib1UT",
+        "title": "椰子岛",
+        "description": "",
+        "subcategoryExternalId": "6oxgOUyLgL",
+        "imageId": 1864324,
+        "imagePath": "/game_map_pin/1864324/{size}.webp",
+        "videoId": 1864325,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/4e4171af49c6730317d319bc5ef70cd403beca1b"
+      }
+    },
+    {
+      "coordinates": [
+        5.798593433568726,
+        36.23780805409754
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 774.2962646484375,
+          "y": 41.744075775146484,
+          "z": 918.1939697265625,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "Z6VJqUGwyf",
+        "title": "椰子 x2",
+        "description": "在信号塔附近，树下。",
+        "subcategoryExternalId": "6oxgOUyLgL",
+        "imageId": 1864347,
+        "imagePath": "/game_map_pin/1864347/{size}.webp",
+        "videoId": 1864348,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/8e861a2de58c315df8fcb1824006d5730f2c3fa1"
+      }
+    },
+    {
+      "coordinates": [
+        -6.3009795207318575,
+        32.36880634149553
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 729.6838989257812,
+          "y": 41.52417755126953,
+          "z": 884.9723510742188,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "j4C4QAkGhY",
+        "title": "",
+        "description": "信号塔以西。\n\n- 1x 香蕉\n- 1x 薰衣草\n- 3x 花瓣",
+        "subcategoryExternalId": "PUmgzXFeKt",
+        "imageId": 1864350,
+        "imagePath": "/game_map_pin/1864350/{size}.webp",
+        "videoId": 1864351,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/1b9025f8e8fe26ab2e41032987ba68567b76e098"
+      }
+    },
+    {
+      "coordinates": [
+        -16.91616384529064,
+        15.226320027751484
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 670.5381469726562,
+          "y": 40.34463119506836,
+          "z": 820.4984741210938,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "ZJ0ZQb2KwV",
+        "title": "",
+        "description": "在蓝色箱子里。",
+        "subcategoryExternalId": "5Syx9B9Ob5",
+        "imageId": 1864352,
+        "imagePath": "/game_map_pin/1864352/{size}.webp",
+        "videoId": 1864353,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/cc0c4a9209d6fc4f1c24df26e69a29823f21cb0e"
+      }
+    },
+    {
+      "coordinates": [
+        -24.333029182534574,
+        42.37187171251034
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 654.0978393554688,
+          "y": 41.814945220947266,
+          "z": 939.5057373046875,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "orUTrrS7mH",
+        "title": "海洋低语露营地",
+        "description": "在泥土路的尽头。",
+        "subcategoryExternalId": "Cvl7rXc4xX",
+        "imageId": 1864354,
+        "imagePath": "/game_map_pin/1864354/{size}.webp",
+        "videoId": 1864355,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/1dfa56f1fc7b1cc556785d4235a0f53e1cb00780"
+      }
+    },
+    {
+      "coordinates": [
+        -34.84679848583892,
+        47.762998287779425
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 608.1199340820312,
+          "y": 39.61754608154297,
+          "z": 990.1975708007812,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "WaP9R1GSnn",
+        "title": "",
+        "description": "在蓝色箱子里，漂浮在海中。",
+        "subcategoryExternalId": "5Syx9B9Ob5",
+        "imageId": 1864357,
+        "imagePath": "/game_map_pin/1864357/{size}.webp",
+        "videoId": 1864358,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/1c0c35151ea1a92c0c156415f043ff8478642772"
+      }
+    },
+    {
+      "coordinates": [
+        -24.5244375503965,
+        40.97931217729075
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 646.8576049804688,
+          "y": 41.814945220947266,
+          "z": 943.9163208007812,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "tIfZyB79YN",
+        "title": "垃圾 x3",
+        "description": "在补给箱旁边。",
+        "subcategoryExternalId": "WeDQMYKp62",
+        "imageId": 1864363,
+        "imagePath": "/game_map_pin/1864363/{size}.webp",
+        "videoId": 1864364,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/409795cbebf04f52d2176eaed1e44a47aa5cb5e3"
+      }
+    },
+    {
+      "coordinates": [
+        -24.18723556780094,
+        40.990114400089055
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 651.1914672851562,
+          "y": 41.814945220947266,
+          "z": 942.2662353515625,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "EGkGXCVTbu",
+        "title": "",
+        "description": "在土路尽头。\n\n- 2x 胡萝卜\n- 1x 狗零食\n- 1x 蜂蜜",
+        "subcategoryExternalId": "PUmgzXFeKt",
+        "imageId": 1864365,
+        "imagePath": "/game_map_pin/1864365/{size}.webp",
+        "videoId": 1864366,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/f5edc5a713af29681015f133777700e3216407d4"
+      }
+    },
+    {
+      "coordinates": [
+        32.499389870391155,
+        14.649628290080244
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 879.3038330078125,
+          "y": 47.793113708496094,
+          "z": 813.8809814453125,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "OE6LPrrONZ",
+        "title": "",
+        "description": "在Cap 'n Snap旁边。长椅上。",
+        "subcategoryExternalId": "ModcL4678L",
+        "imageId": 1864368,
+        "imagePath": "/game_map_pin/1864368/{size}.webp",
+        "videoId": 1864369,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/c961f7537261cba494a4d8ffc7a476c358a9e5e9"
+      }
+    },
+    {
+      "coordinates": [
+        33.411976032030225,
+        14.483515584301585
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 878.6223754882812,
+          "y": 47.79932403564453,
+          "z": 811.3567504882812,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "xKB76Gn2Fq",
+        "title": "垃圾 x2",
+        "description": "在长椅上和棚屋外面。",
+        "subcategoryExternalId": "WeDQMYKp62",
+        "imageId": 1864371,
+        "imagePath": "/game_map_pin/1864371/{size}.webp",
+        "videoId": 1864372,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/eec2e38fb6de7f007f137e2d812bd7578cbc3340"
+      }
+    },
+    {
+      "coordinates": [
+        31.32243628447455,
+        15.485412399110501
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 877.4271240234375,
+          "y": 47.78438186645508,
+          "z": 809.9899291992188,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "aQ64WNqt5Y",
+        "title": "",
+        "description": "位于通往海滩道路的最底端。",
+        "subcategoryExternalId": "LDsfhmwmqf",
+        "imageId": 1864374,
+        "imagePath": "/game_map_pin/1864374/{size}.webp",
+        "videoId": 1864375,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/e15ec8420ef44900d6c07f782d02f9fa26e909b4"
+      }
+    },
+    {
+      "coordinates": [
+        45.235217919592316,
+        7.720342083420007
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 940.6156616210938,
+          "y": 42.90777587890625,
+          "z": 776.6895141601562,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "M8vPFmfykT",
+        "title": "瓶盖 x3",
+        "description": "在岩石下面，侏儒旁边。",
+        "subcategoryExternalId": "ModcL4678L",
+        "imageId": 1864386,
+        "imagePath": "/game_map_pin/1864386/{size}.webp",
+        "videoId": 1864387,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/d9277dd6819329e3ac5c06b872ce2e249b55cd3e"
+      }
+    },
+    {
+      "coordinates": [
+        45.173603390095536,
+        8.374041621977469
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 940.4519653320312,
+          "y": 42.91672897338867,
+          "z": 777.4221801757812,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "cWxUA2S27C",
+        "title": "夜猫子安雅",
+        "description": "位于篝火北侧岩石下方。",
+        "subcategoryExternalId": "njAvSgil5Y",
+        "imageId": 1864388,
+        "imagePath": "/game_map_pin/1864388/{size}.webp",
+        "videoId": 1864389,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/1de0786ae3b873bfcffcb30475136922e6873580"
+      }
+    },
+    {
+      "coordinates": [
+        10.9254178316761,
+        -11.179620367191148
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 792.4518432617188,
+          "y": 41.5768928527832,
+          "z": 698.9022827148438,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "vW0orZmKKC",
+        "title": "瓶盖 x2",
+        "description": "在沙堡顶部。",
+        "subcategoryExternalId": "ModcL4678L",
+        "imageId": 1864390,
+        "imagePath": "/game_map_pin/1864390/{size}.webp",
+        "videoId": 1864391,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/2a0020afa99b25ccf2aebefda4e807e3a1eb829b"
+      }
+    },
+    {
+      "coordinates": [
+        11.061770426804884,
+        -11.348364993870376
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 793.444091796875,
+          "y": 41.461605072021484,
+          "z": 695.3409423828125,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "GPj1i064GB",
+        "title": "粉色武士",
+        "description": "在沙堡附近。",
+        "subcategoryExternalId": "njAvSgil5Y",
+        "imageId": 1864392,
+        "imagePath": "/game_map_pin/1864392/{size}.webp",
+        "videoId": 1864393,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/faace7c1b7f29f494a53080cd24c45238d9b64d5"
+      }
+    },
+    {
+      "coordinates": [
+        -2.5381323061914713,
+        -7.249478365298799
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 744.3076782226562,
+          "y": 41.5768928527832,
+          "z": 717.3192138671875,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "o903qCg1lX",
+        "title": "瓶盖 x3",
+        "description": "篝火旁。",
+        "subcategoryExternalId": "ModcL4678L",
+        "imageId": 1864395,
+        "imagePath": "/game_map_pin/1864395/{size}.webp",
+        "videoId": 1864396,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/d6c813db5b3d56a2dba2f95c34c8bbb570213c40"
+      }
+    },
+    {
+      "coordinates": [
+        -2.2858961576134504,
+        -7.752035745107477
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 745.9671630859375,
+          "y": 41.5768928527832,
+          "z": 715.777099609375,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "WDMztIgy1i",
+        "title": "阳光野餐地",
+        "description": "在一座小岛上。",
+        "subcategoryExternalId": "Cvl7rXc4xX",
+        "imageId": 1864398,
+        "imagePath": "/game_map_pin/1864398/{size}.webp",
+        "videoId": 1864399,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/2228bf5a50ed6ce03650b46f6648844e58fde44c"
+      }
+    },
+    {
+      "coordinates": [
+        -0.5315321938220166,
+        -4.109389541587376
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 749.2010498046875,
+          "y": 41.588539123535156,
+          "z": 727.492919921875,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "iESi5arCM7",
+        "title": "瓶盖 x3",
+        "description": "罐子里面，帐篷旁边。",
+        "subcategoryExternalId": "ModcL4678L",
+        "imageId": 1864401,
+        "imagePath": "/game_map_pin/1864401/{size}.webp",
+        "videoId": 1864402,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/5857535c3c687ce1b7a7ff3254a7dce1a81f35ec"
+      }
+    },
+    {
+      "coordinates": [
+        -9.968500469370923,
+        -20.42134415661637
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 705.5856323242188,
+          "y": 41.5768928527832,
+          "z": 658.2061157226562,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "D2KLdhUqHU",
+        "title": "海贝 x5",
+        "description": "在这个区域可以找到一些海贝。",
+        "subcategoryExternalId": "MdxaPpAF20",
+        "imageId": 1864403,
+        "imagePath": "/game_map_pin/1864403/{size}.webp",
+        "videoId": 1864404,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/2d227953a348176edd4e49109722c56ed0bfd636"
+      }
+    },
+    {
+      "coordinates": [
+        -19.82589613482463,
+        -24.282020771268293
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 670.0701293945312,
+          "y": 41.5768928527832,
+          "z": 640.2977905273438,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "nnsz8KIZKC",
+        "title": "红木原木 x7",
+        "description": "",
+        "subcategoryExternalId": "XbNgb5PbUf",
+        "imageId": 1864406,
+        "imagePath": "/game_map_pin/1864406/{size}.webp",
+        "videoId": 1864407,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/e112d2db5017fd878c90afb7cf7ec2ce3a2e659a"
+      }
+    },
+    {
+      "coordinates": [
+        5.996556565773773,
+        -9.13991975911921
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 772.1784057617188,
+          "y": 41.5768928527832,
+          "z": 710.5902709960938,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "CcxufR5OU2",
+        "title": "海贝 x4",
+        "description": "在这个区域可以看到几个海贝壳。",
+        "subcategoryExternalId": "MdxaPpAF20",
+        "imageId": 1864408,
+        "imagePath": "/game_map_pin/1864408/{size}.webp",
+        "videoId": 1864409,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/7bf12354d73238aee2afeda6f48c53d6893e395e"
+      }
+    },
+    {
+      "coordinates": [
+        62.52031457671447,
+        13.206524701131201
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1008.74365234375,
+          "y": 80.92865753173828,
+          "z": 805.286865234375,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "WKYnYhuXYT",
+        "title": "",
+        "description": "在路边，徒步小径标志牌前。",
+        "subcategoryExternalId": "Cvl7rXc4xX",
+        "imageId": 1864410,
+        "imagePath": "/game_map_pin/1864410/{size}.webp",
+        "videoId": 1864411,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/1a7e9f94682d50b07fc3bbeb66cdc640e8e288ae"
+      }
+    },
+    {
+      "coordinates": [
+        56.06697588494839,
+        11.628835782884948
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 984.0745239257812,
+          "y": 80.97865295410156,
+          "z": 803.3658447265625,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "Iu4uZevzdm",
+        "title": "垃圾 x4",
+        "description": "在土路的起点。",
+        "subcategoryExternalId": "WeDQMYKp62",
+        "imageId": 1864415,
+        "imagePath": "/game_map_pin/1864415/{size}.webp",
+        "videoId": 1864416,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/c5d93e7f4e93878b74df22345db1023fdf380aac"
+      }
+    },
+    {
+      "coordinates": [
+        58.30337555999105,
+        29.105667638386578
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1000.9281005859375,
+          "y": 90.55403900146484,
+          "z": 885.7903442382812,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "IMcd0O6qi9",
+        "title": "海岸莓丛 x3",
+        "description": "在这个区域可以看到几株海岸莓灌木丛。",
+        "subcategoryExternalId": "igVCepb4yM",
+        "imageId": 1864419,
+        "imagePath": "/game_map_pin/1864419/{size}.webp",
+        "videoId": 1864420,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/ffbaf357d0df0c605a9e69afdc71d7bc80ee9cab"
+      }
+    },
+    {
+      "coordinates": [
+        62.05032670127977,
+        28.10707139971211
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1016.0498046875,
+          "y": 89.4380111694336,
+          "z": 872.7679443359375,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "iB87D17nTn",
+        "title": "大型坚固灌木丛 x2",
+        "description": "在该区域可以找到几个杜拉纤维灌木丛。",
+        "subcategoryExternalId": "vSUrE1SFGF",
+        "imageId": 1864421,
+        "imagePath": "/game_map_pin/1864421/{size}.webp",
+        "videoId": 1864422,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/2ef1603ecc7673a134997f88b5f742bcd857815f"
+      }
+    },
+    {
+      "coordinates": [
+        -31.61834107603633,
+        21.943620959722836
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 622.8712768554688,
+          "y": 69.56173706054688,
+          "z": 853.724609375,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "YGtpbaK5Z5",
+        "title": "垃圾 x2",
+        "description": "断桥前",
+        "subcategoryExternalId": "WeDQMYKp62",
+        "imageId": 1864424,
+        "imagePath": "/game_map_pin/1864424/{size}.webp",
+        "videoId": 1864425,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/b95186d2c9fa898728e8dd40c49f35f9f1b3acb1"
+      }
+    },
+    {
+      "coordinates": [
+        -33.702260097326985,
+        18.82616701273652
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 615.9824829101562,
+          "y": 68.79701232910156,
+          "z": 852.7588500976562,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "pxgR2INRdJ",
+        "title": "",
+        "description": "从营火处沿着徒步小径前行。需要10块红木板进行修复。",
+        "subcategoryExternalId": "RzIALlACIL",
+        "imageId": 1864426,
+        "imagePath": "/game_map_pin/1864426/{size}.webp",
+        "videoId": 1864427,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/b0f023a9019263037f6a052726cea96fb3156541"
+      }
+    },
+    {
+      "coordinates": [
+        -39.0493567301524,
+        14.697061296797187
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 586.4452514648438,
+          "y": 68.34587860107422,
+          "z": 807.7171020507812,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "Pi4MnfTnV4",
+        "title": "苔岩 x7",
+        "description": "这个区域有几个岩石节点。",
+        "subcategoryExternalId": "DQ4OAuVhu6",
+        "imageId": 1864432,
+        "imagePath": "/game_map_pin/1864432/{size}.webp",
+        "videoId": 1864433,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/63f3791baa6cc0b0a590f31ab75b2bd75031eda7"
+      }
+    },
+    {
+      "coordinates": [
+        -37.77616835869571,
+        12.105053174136728
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 591.1531982421875,
+          "y": 68.6615982055664,
+          "z": 801.218017578125,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "OCiHSl4ldQ",
+        "title": "海贝壳",
+        "description": "在沙地上。",
+        "subcategoryExternalId": "MdxaPpAF20",
+        "imageId": 1864434,
+        "imagePath": "/game_map_pin/1864434/{size}.webp",
+        "videoId": 1864435,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/98e96a51d626cf6ab79dfe0cd0285fa37c791931"
+      }
+    },
+    {
+      "coordinates": [
+        -34.3300855295486,
+        -19.822013688317966
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 607.58837890625,
+          "y": 85.71476745605469,
+          "z": 672.6912841796875,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "Giab53lzbi",
+        "title": "",
+        "description": "灯塔南边。",
+        "subcategoryExternalId": "QPyRD4kxcn",
+        "imageId": 1864436,
+        "imagePath": "/game_map_pin/1864436/{size}.webp",
+        "videoId": 1864437,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/4177dbf64652e114c2908105dac1bcfc0a91d38d"
+      }
+    },
+    {
+      "coordinates": [
+        -36.69420250885,
+        -15.961437793208077
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 596.1570434570312,
+          "y": 76.0755844116211,
+          "z": 736.8042602539062,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "6qQY7FV0Gk",
+        "title": "灯塔",
+        "description": "位于岛屿的最远端。修复北边的断桥以获得通行权。",
+        "subcategoryExternalId": "e0LY6ePmne",
+        "imageId": 1864438,
+        "imagePath": "/game_map_pin/1864438/{size}.webp",
+        "videoId": 1864439,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/a69207572e5645217a93735510c47addd7b97542"
+      }
+    },
+    {
+      "coordinates": [
+        -37.222042855448564,
+        -15.56315170225227
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 591.5042114257812,
+          "y": 82.97208404541016,
+          "z": 703.7164306640625,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "HnjGEl9PcO",
+        "title": "信号解码器",
+        "description": "在灯塔外桌子的角落找到。",
+        "subcategoryExternalId": "20VtD50AOF",
+        "imageId": 1864443,
+        "imagePath": "/game_map_pin/1864443/{size}.webp",
+        "videoId": 1864444,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/94b6ea4219b9c11adf9f6668c884634be8e9e1b2"
+      }
+    },
+    {
+      "coordinates": [
+        -37.189692699658735,
+        -15.359955334533979
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 591.9886474609375,
+          "y": 82.984375,
+          "z": 706.5458374023438,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "3wRnDXIzDP",
+        "title": "狗粮",
+        "description": "在灯塔外桌子的角落发现。",
+        "subcategoryExternalId": "Fp0MEHN037",
+        "imageId": 1864447,
+        "imagePath": "/game_map_pin/1864447/{size}.webp",
+        "videoId": 1864448,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/ab6f1f5b7d50cacb9470cc0625788bc6a9f7034b"
+      }
+    },
+    {
+      "coordinates": [
+        -36.020951506564955,
+        -15.834811849340937
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 600.62353515625,
+          "y": 99.64775848388672,
+          "z": 692.7119750976562,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "q3BSX3VfSD",
+        "title": "番茄酱镇",
+        "description": "在灯塔最顶端的外侧栏杆上找到。",
+        "subcategoryExternalId": "njAvSgil5Y",
+        "imageId": 1864449,
+        "imagePath": "/game_map_pin/1864449/{size}.webp",
+        "videoId": 1864450,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/0c159c277c66f00d49ddacdd74126045fbf5454e"
+      }
+    },
+    {
+      "coordinates": [
+        -37.0471067938781,
+        -15.803425082654357
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 598.94091796875,
+          "y": 99.58599090576172,
+          "z": 692.48486328125,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "XHIJN8HiMX",
+        "title": "",
+        "description": "在灯塔顶层终端附近。",
+        "subcategoryExternalId": "ModcL4678L",
+        "imageId": 1864452,
+        "imagePath": "/game_map_pin/1864452/{size}.webp",
+        "videoId": 1864453,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/4c786c811d2b30b73f4586fb2da79de4549c3a0c"
+      }
+    },
+    {
+      "coordinates": [
+        -36.899302204786125,
+        -15.759947970019596
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 599.4212646484375,
+          "y": 99.58367919921875,
+          "z": 693.0162353515625,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "fo8AeP5993",
+        "title": "密码数据库",
+        "description": "在灯塔顶层房间门口的地板上发现。就在灯笼房入口处的内侧。",
+        "subcategoryExternalId": "20VtD50AOF",
+        "imageId": 1864454,
+        "imagePath": "/game_map_pin/1864454/{size}.webp",
+        "videoId": 1864455,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/6d75726e8383a2335cb24fe7e41a78c37b535a15"
+      }
+    },
+    {
+      "coordinates": [
+        -36.9851360420827,
+        -15.662697979355102
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 599.1510620117188,
+          "y": 99.61759185791016,
+          "z": 694.2310180664062,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "4JzXQYdYV4",
+        "title": "笔记",
+        "description": "在终端旁边。",
+        "subcategoryExternalId": "Fp0MEHN037",
+        "imageId": 1864456,
+        "imagePath": "/game_map_pin/1864456/{size}.webp",
+        "videoId": 1864457,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/684db33a960c2695b188640ca5d3aa0c47847195"
+      }
+    },
+    {
+      "coordinates": [
+        -36.516950422203706,
+        -16.14432410201941
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 596.3530883789062,
+          "y": 93.01194763183594,
+          "z": 692.6873779296875,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "Bk15ZAEIDr",
+        "title": "终端可执行程序",
+        "description": "在灯塔中层房间的箱子后面找到。检查中层平台的角落。",
+        "subcategoryExternalId": "20VtD50AOF",
+        "imageId": 1864459,
+        "imagePath": "/game_map_pin/1864459/{size}.webp",
+        "videoId": 1864460,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/2018b54a5bc0929508586305487a6b67a8ab77f4"
+      }
+    },
+    {
+      "coordinates": [
+        -36.70899119246775,
+        -16.226658513535696
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 597.7026977539062,
+          "y": 93.01534271240234,
+          "z": 694.347412109375,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "x9s9tHzRM2",
+        "title": "瓶盖 x3",
+        "description": "在灯塔中间房间的拉杆组旁边。查看中层地板控制面板右侧。",
+        "subcategoryExternalId": "ModcL4678L",
+        "imageId": 1864461,
+        "imagePath": "/game_map_pin/1864461/{size}.webp",
+        "videoId": 1864462,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/cbad1bb32bc3c97d2e54fec2fb812cdda4892cdd"
+      }
+    },
+    {
+      "coordinates": [
+        -36.54011972861784,
+        -16.299191460872237
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 598.2344970703125,
+          "y": 93.01782989501953,
+          "z": 691.4573974609375,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "OjLNViKah0",
+        "title": "灯塔",
+        "description": "在灯塔中间楼层的房间内找到。爬楼梯时检查中间平台周围。",
+        "subcategoryExternalId": "ooexVfIHX9",
+        "imageId": 1864463,
+        "imagePath": "/game_map_pin/1864463/{size}.webp",
+        "videoId": 1864464,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/99895dd784776cc279f37061134f378d5ac47a57"
+      }
+    },
+    {
+      "coordinates": [
+        -36.56388321904015,
+        -15.506576990920863
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 596.9810791015625,
+          "y": 83.15743255615234,
+          "z": 695.271728515625,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "dDjxcj3NlZ",
+        "title": "",
+        "description": "在工作站上方。",
+        "subcategoryExternalId": "ModcL4678L",
+        "imageId": 1864465,
+        "imagePath": "/game_map_pin/1864465/{size}.webp",
+        "videoId": 1864466,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/498cde538dbf7021382287ffe12d3c4899ef8423"
+      }
+    },
+    {
+      "coordinates": [
+        -37.17641091679047,
+        -16.481625873856572
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 580.8444213867188,
+          "y": 78.87471771240234,
+          "z": 707.0692138671875,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "BMJN3G0Fhd",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "WeDQMYKp62",
+        "imageId": 1864467,
+        "imagePath": "/game_map_pin/1864467/{size}.webp",
+        "videoId": 1864468,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/688268b81e60de43ec9273b4c769e2452c9cf31c"
+      }
+    },
+    {
+      "coordinates": [
+        -29.508102420638608,
+        -9.048248606379985
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 615.9555053710938,
+          "y": 42.029457092285156,
+          "z": 699.835693359375,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "gW7u7Y6yZ5",
+        "title": "海贝 x2",
+        "description": "灯塔下方。",
+        "subcategoryExternalId": "MdxaPpAF20",
+        "imageId": 1864469,
+        "imagePath": "/game_map_pin/1864469/{size}.webp",
+        "videoId": 1864470,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/fe9b62bf20228db3d617716df21b3b8cbb38feb3"
+      }
+    },
+    {
+      "coordinates": [
+        -31.817500388019226,
+        -9.227625182597876
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 616.4947509765625,
+          "y": 45.734615325927734,
+          "z": 719.0985717773438,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "Hz6YmrWcnr",
+        "title": "",
+        "description": "在海滩上，灯塔下方。\n\n- 1x 蜂蜡\n- 1x 耐用丝线\n- 2x 玛瑙矿物",
+        "subcategoryExternalId": "PUmgzXFeKt",
+        "imageId": 1864472,
+        "imagePath": "/game_map_pin/1864472/{size}.webp",
+        "videoId": 1864473,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/c5ff798b5622185e258ec59c0fd1519e793a77fb"
+      }
+    },
+    {
+      "coordinates": [
+        -29.696496028105685,
+        10.789943514485543
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 620.30615234375,
+          "y": 41.9119758605957,
+          "z": 790.0101318359375,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "bpQtneDpHY",
+        "title": "",
+        "description": "位于蓝色桶内。",
+        "subcategoryExternalId": "EcGlj04kCJ",
+        "imageId": 1864474,
+        "imagePath": "/game_map_pin/1864474/{size}.webp",
+        "videoId": 1864475,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/5de41de4015063bed0d71f1ae1c27489e63460b0"
+      }
+    },
+    {
+      "coordinates": [
+        -32.19616245161552,
+        39.06189427139873
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 617.9053344726562,
+          "y": 42.225624084472656,
+          "z": 922.431640625,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "ObchC2jy1d",
+        "title": "椰子岛",
+        "description": "",
+        "subcategoryExternalId": "6oxgOUyLgL",
+        "imageId": 1866233,
+        "imagePath": "/game_map_pin/1866233/{size}.webp",
+        "videoId": 1866234,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/a003d85503305225cd8d38353665e8b9696051c3"
+      }
+    },
+    {
+      "coordinates": [
+        4.233592651186967,
+        70.54483349759306
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 761.4485473632812,
+          "y": 64.90595245361328,
+          "z": 1176.1614990234375,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "YWrRXeQSrK",
+        "title": "香蕉 x4",
+        "description": "这个区域可以找到一些香蕉。",
+        "subcategoryExternalId": "6oxgOUyLgL",
+        "imageId": 1866239,
+        "imagePath": "/game_map_pin/1866239/{size}.webp",
+        "videoId": 1866240,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/5ac42a1361693f923ab2b56d98c17d1b7e33a733"
+      }
+    },
+    {
+      "coordinates": [
+        -25.29399598374144,
+        68.82244422991226
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 643.4078979492188,
+          "y": 41.5768928527832,
+          "z": 1150.181640625,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "UKdbUlL6nF",
+        "title": "",
+        "description": "在蓝色皮划艇旁边。",
+        "subcategoryExternalId": "WeDQMYKp62",
+        "imageId": 1866244,
+        "imagePath": "/game_map_pin/1866244/{size}.webp",
+        "videoId": 1866245,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/ef2a97e151146e50156b365668df14bb402160e0"
+      }
+    },
+    {
+      "coordinates": [
+        -25.25734657321439,
+        69.08688895451567
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 643.9728393554688,
+          "y": 41.381595611572266,
+          "z": 1159.550048828125,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "FefdIJBaJr",
+        "title": "",
+        "description": "在蓝色皮艇上",
+        "subcategoryExternalId": "ModcL4678L",
+        "imageId": 1866249,
+        "imagePath": "/game_map_pin/1866249/{size}.webp",
+        "videoId": 1866250,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/a7d78945878926945841f165bf803a3e6bd43513"
+      }
+    },
+    {
+      "coordinates": [
+        -19.19884449285155,
+        70.07234345332151
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 668.8568725585938,
+          "y": 41.22714614868164,
+          "z": 1175.3629150390625,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "QSKpLkogSd",
+        "title": "海贝壳 x3",
+        "description": "在这个区域可以找到几个贝壳。",
+        "subcategoryExternalId": "MdxaPpAF20",
+        "imageId": 1866251,
+        "imagePath": "/game_map_pin/1866251/{size}.webp",
+        "videoId": 1866252,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/ce67a08008eb1169d54074678e114d68a84dad26"
+      }
+    },
+    {
+      "coordinates": [
+        -13.185904630853145,
+        70.200285952288
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 687.0447387695312,
+          "y": 41.896636962890625,
+          "z": 1167.6478271484375,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "5GOIiYKnvz",
+        "title": "椰子 x2",
+        "description": "在草地区域。",
+        "subcategoryExternalId": "6oxgOUyLgL",
+        "imageId": 1866253,
+        "imagePath": "/game_map_pin/1866253/{size}.webp",
+        "videoId": 1866254,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/941fdd162932d04a60860deff05a76eca2bcdc38"
+      }
+    },
+    {
+      "coordinates": [
+        -17.108493910276422,
+        72.05415389416177
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 683.927001953125,
+          "y": 41.5768928527832,
+          "z": 1190.6783447265625,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "a2zhPnjY9c",
+        "title": "",
+        "description": "在海滩北侧的一块岩石上。",
+        "subcategoryExternalId": "QPyRD4kxcn",
+        "imageId": 1866255,
+        "imagePath": "/game_map_pin/1866255/{size}.webp",
+        "videoId": 1866256,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/8b9bee160ea5cf8b807f8724617acf6503467d7b"
+      }
+    },
+    {
+      "coordinates": [
+        -18.09175535882838,
+        74.1915932231048
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 694.2225341796875,
+          "y": 39.61754608154297,
+          "z": 1237.322998046875,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "arfkMlooHQ",
+        "title": "",
+        "description": "在蓝色箱子里。",
+        "subcategoryExternalId": "5Syx9B9Ob5",
+        "imageId": 1866265,
+        "imagePath": "/game_map_pin/1866265/{size}.webp",
+        "videoId": 1866266,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/165744da79c152f2cbb8ab1f42ee88e3af1f511f"
+      }
+    },
+    {
+      "coordinates": [
+        23.43336703430907,
+        73.51522918793404
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 847.656005859375,
+          "y": 80.11164855957031,
+          "z": 1205.207763671875,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "rLBwy6E8Vc",
+        "title": "",
+        "description": "在木栅栏上。",
+        "subcategoryExternalId": "WeDQMYKp62",
+        "imageId": 1866271,
+        "imagePath": "/game_map_pin/1866271/{size}.webp",
+        "videoId": 1866272,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/d5b9ccd9d88c7a830b59ad17554a337fb54deaa1"
+      }
+    },
+    {
+      "coordinates": [
+        22.182262661522373,
+        75.24204432427697
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 842.1808471679688,
+          "y": 79.29891967773438,
+          "z": 1242.8084716796875,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "VUZIWQl6RT",
+        "title": "海景",
+        "description": "你可以在信号塔北面小岛的中心找到它。",
+        "subcategoryExternalId": "Cvl7rXc4xX",
+        "imageId": 1866275,
+        "imagePath": "/game_map_pin/1866275/{size}.webp",
+        "videoId": 1866276,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/a17ac575220cfba58973c4f4e054382f005044e8"
+      }
+    },
+    {
+      "coordinates": [
+        22.73602608549203,
+        75.26614891734269
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 853.008544921875,
+          "y": 79.05921936035156,
+          "z": 1249.5880126953125,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "2P8trkuqmA",
+        "title": "",
+        "description": "在树下。\n\n- 1x 狗粮\n- 3x 瓶盖\n- 1x 椰子奶昔",
+        "subcategoryExternalId": "PUmgzXFeKt",
+        "imageId": 1866279,
+        "imagePath": "/game_map_pin/1866279/{size}.webp",
+        "videoId": 1866280,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/9deaf0305b46cdb3f940fc67db11dfe55edca50f"
+      }
+    },
+    {
+      "coordinates": [
+        22.56349102600055,
+        75.38578410143342
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 850.2593994140625,
+          "y": 79.09213256835938,
+          "z": 1259.2803955078125,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "16CNg2sVED",
+        "title": "",
+        "description": "在篝火附近，略微隐藏在草丛中。",
+        "subcategoryExternalId": "QPyRD4kxcn",
+        "imageId": 1866283,
+        "imagePath": "/game_map_pin/1866283/{size}.webp",
+        "videoId": 1866284,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/8d019d32d4c538d83af4cf8e2935c857484114d7"
+      }
+    },
+    {
+      "coordinates": [
+        21.413232341768975,
+        77.51525881224902
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 837.2942504882812,
+          "y": 39.61754608154297,
+          "z": 1277.6949462890625,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "I3i29ltga1",
+        "title": "洛纳拉夫",
+        "description": "在独角兽救生圈上。",
+        "subcategoryExternalId": "njAvSgil5Y",
+        "imageId": 1866288,
+        "imagePath": "/game_map_pin/1866288/{size}.webp",
+        "videoId": 1866289,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/f2ef69120c670bd872685b76cef19dedd3f0281c"
+      }
+    },
+    {
+      "coordinates": [
+        39.77420149235749,
+        74.00187705136526
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 909.1887817382812,
+          "y": 41.5768928527832,
+          "z": 1197.93359375,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "HvQ8Ci8MOk",
+        "title": "鱼钩、钓线与铅坠",
+        "description": "在海滩岸边。",
+        "subcategoryExternalId": "eHbTSP0jWE",
+        "imageId": 1866295,
+        "imagePath": "/game_map_pin/1866295/{size}.webp",
+        "videoId": 1866296,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/947f0134791e6cbf90c1e6d74b0eec1617340052"
+      }
+    },
+    {
+      "coordinates": [
+        41.11629145857489,
+        74.47442374509691
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 914.9820556640625,
+          "y": 40.946834564208984,
+          "z": 1230.21630859375,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "yx5caYfqmI",
+        "title": "",
+        "description": "在漂浮的蓝色箱子里。",
+        "subcategoryExternalId": "5Syx9B9Ob5",
+        "imageId": 1866300,
+        "imagePath": "/game_map_pin/1866300/{size}.webp",
+        "videoId": 1866301,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/b2554c1a3c4bd06a28d5abba3843bf991bd770ce"
+      }
+    },
+    {
+      "coordinates": [
+        40.82208171349657,
+        73.88494121758916
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 920.1731567382812,
+          "y": 42.80367660522461,
+          "z": 1220.0509033203125,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "ltjFkgSP1z",
+        "title": "",
+        "description": "打开船桥内的生锈门。\n\n- 2x 金属\n- 2x 粗糙金属",
+        "subcategoryExternalId": "PUmgzXFeKt",
+        "imageId": 1866302,
+        "imagePath": "/game_map_pin/1866302/{size}.webp",
+        "videoId": 1866303,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/8b086927a923c4585d0b7dfa6e61fb7849fb0e20"
+      }
+    },
+    {
+      "coordinates": [
+        40.5067172934792,
+        74.01738059396826
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 919.0830078125,
+          "y": 43.026485443115234,
+          "z": 1220.05859375,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "C8EpGIZ4g6",
+        "title": "瓶盖 x3",
+        "description": "在船的驾驶室内，木箱的顶部。",
+        "subcategoryExternalId": "ModcL4678L",
+        "imageId": 1866304,
+        "imagePath": "/game_map_pin/1866304/{size}.webp",
+        "videoId": 1866305,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/5c66627fe8cdc903e3894b73bdacc2581c36c602"
+      }
+    },
+    {
+      "coordinates": [
+        37.954724562559676,
+        73.93596940953418
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 903.873291015625,
+          "y": 41.5768928527832,
+          "z": 1216.12939453125,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "qkNbDZbUgp",
+        "title": "金属废料 x18",
+        "description": "可以在船只周围找到。",
+        "subcategoryExternalId": "fh5Ylbp464",
+        "imageId": 1866310,
+        "imagePath": "/game_map_pin/1866310/{size}.webp",
+        "videoId": 1866311,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/e167633b7b919d5028ea63788de53f1f5513a316"
+      }
+    },
+    {
+      "coordinates": [
+        37.21066126409909,
+        73.7201120010414
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 900.4454345703125,
+          "y": 41.5768928527832,
+          "z": 1216.8846435546875,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "fid2dATUi7",
+        "title": "竹林 x2",
+        "description": "在蓝色桶里面。",
+        "subcategoryExternalId": "EcGlj04kCJ",
+        "imageId": 1866313,
+        "imagePath": "/game_map_pin/1866313/{size}.webp",
+        "videoId": 1866314,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/c9be6b8098460764f13e7c17978e20b9e040263f"
+      }
+    },
+    {
+      "coordinates": [
+        35.61145309607318,
+        73.1970149273576
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 908.8848266601562,
+          "y": 41.550052642822266,
+          "z": 1210.183349609375,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "oTwsVdq0PT",
+        "title": "海贝 x2",
+        "description": "在这片海滩区域可以看到几个。",
+        "subcategoryExternalId": "MdxaPpAF20",
+        "imageId": 1866321,
+        "imagePath": "/game_map_pin/1866321/{size}.webp",
+        "videoId": 1866322,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/7b15b9a0572335121bf222ab97e43fc23460b6a6"
+      }
+    },
+    {
+      "coordinates": [
+        35.1765110599448,
+        71.30751227840793
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 896.7713012695312,
+          "y": 41.5768928527832,
+          "z": 1183.2513427734375,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "9vdw63x9DT",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "WeDQMYKp62",
+        "imageId": 1866323,
+        "imagePath": "/game_map_pin/1866323/{size}.webp",
+        "videoId": 1866324,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/99bea845cadaab60fedc6cb7abc36ad556b376fc"
+      }
+    },
+    {
+      "coordinates": [
+        35.887859009987466,
+        71.0646907804603
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 895.6676025390625,
+          "y": 41.712249755859375,
+          "z": 1178.2908935546875,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "Ofpxzd1RiN",
+        "title": "锈蚀山脊",
+        "description": "与船相对的位置。",
+        "subcategoryExternalId": "Cvl7rXc4xX",
+        "imageId": 1866328,
+        "imagePath": "/game_map_pin/1866328/{size}.webp",
+        "videoId": 1866329,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/f3d85af9ae8431407a17528b6c059401090b4a22"
+      }
+    },
+    {
+      "coordinates": [
+        36.46474095072537,
+        70.93490965722893
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 903.969482421875,
+          "y": 41.5768928527832,
+          "z": 1177.61669921875,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "gaci1DyJEz",
+        "title": "狗粮",
+        "description": "在篝火附近。",
+        "subcategoryExternalId": "Fp0MEHN037",
+        "imageId": 1866332,
+        "imagePath": "/game_map_pin/1866332/{size}.webp",
+        "videoId": 1866333,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/944998e605743676f7bd732bbf808a14df02433b"
+      }
+    },
+    {
+      "coordinates": [
+        46.976229892239246,
+        63.0273370032599
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 950.50732421875,
+          "y": 41.63182830810547,
+          "z": 1095.443359375,
+          "metadata": []
+        },
+        "verticalLevel": "below",
+        "externalId": "6PsP3KAidO",
+        "title": "垃圾 x4",
+        "description": "在垃圾桶上方和附近。",
+        "subcategoryExternalId": "WeDQMYKp62",
+        "imageId": 1866334,
+        "imagePath": "/game_map_pin/1866334/{size}.webp",
+        "videoId": 1866335,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/42b7f418a80b5420286212d409af4ca569f974f1"
+      }
+    },
+    {
+      "coordinates": [
+        107.41899704616662,
+        54.10248337577124
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1198.2518310546875,
+          "y": 71.56695556640625,
+          "z": 1025.484375,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "90I1k1qT6G",
+        "title": "垃圾 x4",
+        "description": "在垃圾桶上方和附近。",
+        "subcategoryExternalId": "WeDQMYKp62",
+        "imageId": 1866340,
+        "imagePath": "/game_map_pin/1866340/{size}.webp",
+        "videoId": 1866341,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/9f610dc2a304d0223344bb77dcb5a4ba466db724"
+      }
+    },
+    {
+      "coordinates": [
+        107.97375971585177,
+        54.37804284254773
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1199.73828125,
+          "y": 71.69877624511719,
+          "z": 1027.9180908203125,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "KK83NDCSkY",
+        "title": "狗粮",
+        "description": "在垃圾箱上面。",
+        "subcategoryExternalId": "Fp0MEHN037",
+        "imageId": 1866344,
+        "imagePath": "/game_map_pin/1866344/{size}.webp",
+        "videoId": 1866345,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/2182f6f8660c032f254f574417efa7eac61bc65c"
+      }
+    },
+    {
+      "coordinates": [
+        76.51711875032464,
+        33.2565089654086
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1066.6500244140625,
+          "y": 109.46337127685547,
+          "z": 907.7017822265625,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "1CRiEX6TrN",
+        "title": "",
+        "description": "穿过石拱门，在悬崖边缘找到它。",
+        "subcategoryExternalId": "QPyRD4kxcn",
+        "imageId": 1866348,
+        "imagePath": "/game_map_pin/1866348/{size}.webp",
+        "videoId": 1866349,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/7f5a0c7d4ac8a0ed61b923211b8628c4fe8e2881"
+      }
+    },
+    {
+      "coordinates": [
+        78.92809605008404,
+        37.705297159797624
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1069.56884765625,
+          "y": 109.10311889648438,
+          "z": 935.2090454101562,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "hAODfAmszi",
+        "title": "",
+        "description": "它位于石拱的底部。\n\n- 1个瓶盖\n- 2个路莓\n- 2个海岸莓",
+        "subcategoryExternalId": "PUmgzXFeKt",
+        "imageId": 1866354,
+        "imagePath": "/game_map_pin/1866354/{size}.webp",
+        "videoId": 1866355,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/e89f3b88a2e07bf81aca073807cfa75cb9aad01f"
+      }
+    },
+    {
+      "coordinates": [
+        -157.6618038671198,
+        -84.2273348308547
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 81.86053466796875,
+          "y": 56.27957534790039,
+          "z": 39.16238021850586,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "tAF69HKRvF",
+        "title": "红杉原木 x3",
+        "description": "在这条发夹弯道路上可以找到2根原木。",
+        "subcategoryExternalId": "XbNgb5PbUf",
+        "imageId": 1859092,
+        "imagePath": "/game_map_pin/1859092/{size}.webp",
+        "videoId": 1859093,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/286a98ff7129631ce411c42d6ac9e5361faf3b81"
+      }
+    },
+    {
+      "coordinates": [
+        -158.34772472779792,
+        -83.08763741148373
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 90.56189727783203,
+          "y": 71.58970642089844,
+          "z": 78.65058898925781,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "7SPgcmeSR1",
+        "title": "BuzzY",
+        "description": "在通往岩石的土路上，你会发现这个地精正在一根木头上休息。",
+        "subcategoryExternalId": "njAvSgil5Y",
+        "imageId": 1859101,
+        "imagePath": "/game_map_pin/1859101/{size}.webp",
+        "videoId": 1859102,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/add6b0ccaaa89420fb5f27a05f0648fb70999456"
+      }
+    },
+    {
+      "coordinates": [
+        -149.96036147877246,
+        -82.29701415911259
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 141.99368286132812,
+          "y": 47.1181755065918,
+          "z": 105.84698486328125,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "QvovKALsVb",
+        "title": "海岸莓灌木丛 x2",
+        "description": "",
+        "subcategoryExternalId": "igVCepb4yM",
+        "imageId": 1859181,
+        "imagePath": "/game_map_pin/1859181/{size}.webp",
+        "videoId": 1859182,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/ec1567c08e139319f3ed6eb2bead85488109385d"
+      }
+    },
+    {
+      "coordinates": [
+        -140.65048722660765,
+        -82.43397929515749
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 172.4254608154297,
+          "y": 47.92721176147461,
+          "z": 94.36328887939453,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "NGl9g56rtL",
+        "title": "海岸营地",
+        "description": "需要1个红木原木来点燃。",
+        "subcategoryExternalId": "Cvl7rXc4xX",
+        "imageId": 1859111,
+        "imagePath": "/game_map_pin/1859111/{size}.webp",
+        "videoId": 1859112,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/0b8d4a4995de79afcf142c18828b2f9228a799b2"
+      }
+    },
+    {
+      "coordinates": [
+        -140.66578057417357,
+        -82.5212332852232
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 159.76666259765625,
+          "y": 47.929264068603516,
+          "z": 95.59902954101562,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "l5bRFwCKfg",
+        "title": "垃圾 x2",
+        "description": "在长椅上和泥土中。",
+        "subcategoryExternalId": "WeDQMYKp62",
+        "imageId": 1859117,
+        "imagePath": "/game_map_pin/1859117/{size}.webp",
+        "videoId": 1859118,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/52861c0d1dd628223a6b73c96f93776b42cc10f6"
+      }
+    },
+    {
+      "coordinates": [
+        -137.4438982751563,
+        -82.90449791295939
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 176.48289489746094,
+          "y": 48.53141403198242,
+          "z": 71.10680389404297,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "SDYWfvkETB",
+        "title": "常青木原木 x12",
+        "description": "草地上有几根常青木（枯死）原木。",
+        "subcategoryExternalId": "XbNgb5PbUf",
+        "imageId": 1859119,
+        "imagePath": "/game_map_pin/1859119/{size}.webp",
+        "videoId": 1859120,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/edd4a57019d1778d186369c7999a094bae32c249"
+      }
+    },
+    {
+      "coordinates": [
+        -134.10236904037143,
+        -82.81060642203286
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 196.6938934326172,
+          "y": 47.968788146972656,
+          "z": 85.68700408935547,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "deZQDJ6gFC",
+        "title": "嗅探先生",
+        "description": "在爪牙小屋拱门处的邮箱里。",
+        "subcategoryExternalId": "njAvSgil5Y",
+        "imageId": 1859176,
+        "imagePath": "/game_map_pin/1859176/{size}.webp",
+        "videoId": 1859177,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/85e5243c7d1005675770402564547c22488646f3"
+      }
+    },
+    {
+      "coordinates": [
+        -132.95960471248543,
+        -82.27239106509239
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 200.1519317626953,
+          "y": 47.9310417175293,
+          "z": 99.1292724609375,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "4GbijnXmEX",
+        "title": "耐久纤维 x4",
+        "description": "你可以在这个区域找到几根耐久纤维。",
+        "subcategoryExternalId": "vSUrE1SFGF",
+        "imageId": 1867176,
+        "imagePath": "/game_map_pin/1867176/{size}.webp",
+        "videoId": 1867177,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/7bb5683135c0c850b2d4f2d2a49b225f725f7343"
+      }
+    },
+    {
+      "coordinates": [
+        -129.15101656657566,
+        -82.45542202862477
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 226.67474365234375,
+          "y": 47.93277359008789,
+          "z": 93.47305297851562,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "ROVnBoVYmq",
+        "title": "海岸莓丛 x3",
+        "description": "一个在拱门附近，2个在信号塔附近。",
+        "subcategoryExternalId": "igVCepb4yM",
+        "imageId": 1859213,
+        "imagePath": "/game_map_pin/1859213/{size}.webp",
+        "videoId": 1859214,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/00b627b3861519057c2f0ae1e3675a7f26a468ac"
+      }
+    },
+    {
+      "coordinates": [
+        -127.54969412283904,
+        -82.463076396618
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 219.92234802246094,
+          "y": 47.9310417175293,
+          "z": 96.06632232666016,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "ED7jcO1fS0",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "qpTIFEwiz7",
+        "imageId": 1859123,
+        "imagePath": "/game_map_pin/1859123/{size}.webp",
+        "videoId": 1859124,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/10d3d76fe137543f890a974a44a16643e4911d29"
+      }
+    },
+    {
+      "coordinates": [
+        -127.51880022533416,
+        -82.48589264709126
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 222.79393005371094,
+          "y": 48.007240295410156,
+          "z": 98.81993103027344,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "NtmnaGt0AC",
+        "title": "",
+        "description": "在信号塔附近的岩石上。",
+        "subcategoryExternalId": "ModcL4678L",
+        "imageId": 1859129,
+        "imagePath": "/game_map_pin/1859129/{size}.webp",
+        "videoId": 1859130,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/333c8e23f998909dc96f5a1f39ca38550833c3d5"
+      }
+    },
+    {
+      "coordinates": [
+        -127.5378013650724,
+        -82.43963175935531
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 216.5042266845703,
+          "y": 47.9310417175293,
+          "z": 114.44429779052734,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "OFywPSCmsx",
+        "title": "金属废料 x6",
+        "description": "在信号塔的底部。",
+        "subcategoryExternalId": "fh5Ylbp464",
+        "imageId": 1859172,
+        "imagePath": "/game_map_pin/1859172/{size}.webp",
+        "videoId": 1859173,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/0ded08cfacea0a65a8e6044036a5858f4f53ad15"
+      }
+    },
+    {
+      "coordinates": [
+        -128.66126012456368,
+        -81.39489219160433
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 211.38433837890625,
+          "y": 47.9310417175293,
+          "z": 129.4130401611328,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "qYRhBGHktQ",
+        "title": "结实大灌木 x2",
+        "description": "需要镰刀 II，你可以在信号塔附近找到两把。",
+        "subcategoryExternalId": "vSUrE1SFGF",
+        "imageId": 1859216,
+        "imagePath": "/game_map_pin/1859216/{size}.webp",
+        "videoId": 1859217,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/f8b5a9693e16db454dc3dd1e270ab972acab2b9c"
+      }
+    },
+    {
+      "coordinates": [
+        -119.45220818754251,
+        -82.29186258145147
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 250.4111785888672,
+          "y": 47.86054992675781,
+          "z": 103.5503158569336,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "OUGQOqT8ZI",
+        "title": "狗粮",
+        "description": "在木制长凳上。",
+        "subcategoryExternalId": "Fp0MEHN037",
+        "imageId": 1859218,
+        "imagePath": "/game_map_pin/1859218/{size}.webp",
+        "videoId": 1859219,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/3f28500f7669bce2d077a12b04cb00a1c7ff9b5f"
+      }
+    },
+    {
+      "coordinates": [
+        -125.42661840003247,
+        -82.42674333364499
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 238.41783142089844,
+          "y": 47.9493522644043,
+          "z": 105.98709106445312,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "OlwXX7Sf2B",
+        "title": "纤维 x4",
+        "description": "在该区域可以找到几个纤维灌木丛。",
+        "subcategoryExternalId": "vSUrE1SFGF",
+        "imageId": 1859208,
+        "imagePath": "/game_map_pin/1859208/{size}.webp",
+        "videoId": 1859209,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/d8a33ad212ed0e835095fd3a25994af655b45ddc"
+      }
+    },
+    {
+      "coordinates": [
+        -91.91807759621312,
+        -81.88078572215088
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 361.76416015625,
+          "y": 45.33321762084961,
+          "z": 109.04977416992188,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "YRY6cJS6vo",
+        "title": "爪子与胡须旅馆",
+        "description": "小屋外面。",
+        "subcategoryExternalId": "Cvl7rXc4xX",
+        "imageId": 1859260,
+        "imagePath": "/game_map_pin/1859260/{size}.webp",
+        "videoId": 1859261,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/598aa5e400cabc7e73a7112501d97f5879df223e"
+      }
+    },
+    {
+      "coordinates": [
+        -91.46822304763445,
+        -81.88961752083225
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 366.29266357421875,
+          "y": 44.89814758300781,
+          "z": 107.5601577758789,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "1jYBMYMEeP",
+        "title": "",
+        "description": "在篝火附近，桌子上面。",
+        "subcategoryExternalId": "ModcL4678L",
+        "imageId": 1859279,
+        "imagePath": "/game_map_pin/1859279/{size}.webp",
+        "videoId": 1859280,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/8772e037562277501baca69d9ee3d3366fb0e05c"
+      }
+    },
+    {
+      "coordinates": [
+        -90.68992935382477,
+        -81.92612002228687
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 373.8644104003906,
+          "y": 44.88956069946289,
+          "z": 107.72238159179688,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "95gYcG60SM",
+        "title": "狗零食 x2",
+        "description": "在小屋内门旁的桌子上。",
+        "subcategoryExternalId": "Fp0MEHN037",
+        "imageId": 1859305,
+        "imagePath": "/game_map_pin/1859305/{size}.webp",
+        "videoId": 1859306,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/7ee75646c61507fcb93eb747f3b87f145fd6e0cc"
+      }
+    },
+    {
+      "coordinates": [
+        -89.71727784215605,
+        -82.10908974458894
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 375.57257080078125,
+          "y": 44.88557434082031,
+          "z": 101.5234603881836,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "e3ZaBmKF4s",
+        "title": "狗粮",
+        "description": "在铺着蓝色格子桌布的桌子上。",
+        "subcategoryExternalId": "Fp0MEHN037",
+        "imageId": 1859325,
+        "imagePath": "/game_map_pin/1859325/{size}.webp",
+        "videoId": 1859326,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/17e4dee2ad9993fecb36b70dd1a61eebfc5072c6"
+      }
+    },
+    {
+      "coordinates": [
+        -89.24354223680933,
+        -81.9760192394014
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 379.0706481933594,
+          "y": 44.88067626953125,
+          "z": 104.81049346923828,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "C6GHn7HiSk",
+        "title": "垃圾 x4",
+        "description": "在垃圾桶上面和旁边。",
+        "subcategoryExternalId": "WeDQMYKp62",
+        "imageId": 1859332,
+        "imagePath": "/game_map_pin/1859332/{size}.webp",
+        "videoId": 1859333,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/7857a8d950ccd805b6953ba0c8d12a7a676375cb"
+      }
+    },
+    {
+      "coordinates": [
+        -89.74812246607985,
+        -82.02443185543513
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 354.3627624511719,
+          "y": 45.104026794433594,
+          "z": 105.23355865478516,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "M23HClKxTX",
+        "title": "爪子与胡须旅馆",
+        "description": "信号塔东侧。在里面收养一只伴侣犬。",
+        "subcategoryExternalId": "eHbTSP0jWE",
+        "imageId": 1859287,
+        "imagePath": "/game_map_pin/1859287/{size}.webp",
+        "videoId": 1859288,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/0c6e31e6afb6266b9b543506753bb44557555a62"
+      }
+    },
+    {
+      "coordinates": [
+        -85.27661268293102,
+        -81.2655292341147
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 388.2765197753906,
+          "y": 47.32345962524414,
+          "z": 128.60487365722656,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "ff2Gp1nlxY",
+        "title": "红杉树（已死）",
+        "description": "",
+        "subcategoryExternalId": "XbNgb5PbUf",
+        "imageId": 1859379,
+        "imagePath": "/game_map_pin/1859379/{size}.webp",
+        "videoId": 1859380,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/87570987366394586b6978b9c36ded51ea71ff09"
+      }
+    },
+    {
+      "coordinates": [
+        -82.20122563898886,
+        -81.85153956736698
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 402.9189758300781,
+          "y": 46.79472351074219,
+          "z": 117.92830657958984,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "FpPQhyCS6H",
+        "title": "",
+        "description": "含有5倍水量。",
+        "subcategoryExternalId": "KZFA1qRrcp",
+        "imageId": 1859375,
+        "imagePath": "/game_map_pin/1859375/{size}.webp",
+        "videoId": 1859376,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/a3a9a1bcb05a95ef3d326794612f99cae84ecb7d"
+      }
+    },
+    {
+      "coordinates": [
+        -128.0943138280123,
+        -83.7860206160273
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 219.43661499023438,
+          "y": 69.77978515625,
+          "z": 47.315250396728516,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "OaNbuBAqH2",
+        "title": "",
+        "description": "位于悬崖边缘，沿着小屋南面的小径可以到达。",
+        "subcategoryExternalId": "QPyRD4kxcn",
+        "imageId": 1859381,
+        "imagePath": "/game_map_pin/1859381/{size}.webp",
+        "videoId": 1859382,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/a4908df5526f475b0281de164e56025351d2b533"
+      }
+    },
+    {
+      "coordinates": [
+        -105.7600135194495,
+        -79.47349031975676
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 306.30377197265625,
+          "y": 90.92682647705078,
+          "z": 185.80209350585938,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "C6Lm6LFjeh",
+        "title": "红木树（枯死）x2",
+        "description": "需要斧头III。",
+        "subcategoryExternalId": "XbNgb5PbUf",
+        "imageId": 1859388,
+        "imagePath": "/game_map_pin/1859388/{size}.webp",
+        "videoId": 1859389,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/dab52c61c5d328a3e50270ceccb424ab18959b39"
+      }
+    },
+    {
+      "coordinates": [
+        -99.8086840206172,
+        -78.81458678951144
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 321.9441223144531,
+          "y": 90.85576629638672,
+          "z": 195.18399047851562,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "CGGIBI0Dc2",
+        "title": "苔岩 x10",
+        "description": "在山的上部，穿过木桥即可到达。",
+        "subcategoryExternalId": "DQ4OAuVhu6",
+        "imageId": 1859396,
+        "imagePath": "/game_map_pin/1859396/{size}.webp",
+        "videoId": 1859397,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/7554dda3ed8031f641221b1d3397a1cc08323b44"
+      }
+    },
+    {
+      "coordinates": [
+        -97.21394146191649,
+        -77.50952280071972
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 341.7027282714844,
+          "y": 90.92682647705078,
+          "z": 217.371826171875,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "W9pqxGbjYb",
+        "title": "瓶盖 x3",
+        "description": "在桌子上。",
+        "subcategoryExternalId": "ModcL4678L",
+        "imageId": 1859411,
+        "imagePath": "/game_map_pin/1859411/{size}.webp",
+        "videoId": 1859412,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/c1c5403c80cf11a6df819408f7f38ea2835c3c53"
+      }
+    },
+    {
+      "coordinates": [
+        -98.18367836463209,
+        -77.52025150720148
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 336.35394287109375,
+          "y": 90.902099609375,
+          "z": 219.63629150390625,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "W6mJ5JGXlj",
+        "title": "伐木徒步野餐",
+        "description": "在山的上部，穿过木桥即可到达。",
+        "subcategoryExternalId": "Cvl7rXc4xX",
+        "imageId": 1859406,
+        "imagePath": "/game_map_pin/1859406/{size}.webp",
+        "videoId": 1859407,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/46c7d39dbfd731c148e29c34aa395194720a58b0"
+      }
+    },
+    {
+      "coordinates": [
+        -103.23401726290682,
+        -76.82573951276153
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 324.33770751953125,
+          "y": 92.52775573730469,
+          "z": 230.8045654296875,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "J5rjlckwNj",
+        "title": "",
+        "description": "位于悬崖边缘，沿着小屋南面的小径可以到达。",
+        "subcategoryExternalId": "QPyRD4kxcn",
+        "imageId": 1859415,
+        "imagePath": "/game_map_pin/1859415/{size}.webp",
+        "videoId": 1859417,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/09346ad8f5bf095a5297348d08d840f4d57b19f3"
+      }
+    },
+    {
+      "coordinates": [
+        -80.20444829016195,
+        -74.68449503921448
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 416.6146240234375,
+          "y": 70.72905731201172,
+          "z": 265.3155822753906,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "mnNkfKkURf",
+        "title": "红杉树（已死）",
+        "description": "在山的上半部分，穿过木桥就可以到达它。",
+        "subcategoryExternalId": "XbNgb5PbUf",
+        "imageId": 1859554,
+        "imagePath": "/game_map_pin/1859554/{size}.webp",
+        "videoId": 1859555,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/a3685b38d4bcc010ca31eceb7f9be8f7b688525d"
+      }
+    },
+    {
+      "coordinates": [
+        -69.68456769238571,
+        -67.61044097302741
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 453.87188720703125,
+          "y": 89.50255584716797,
+          "z": 357.15069580078125,
+          "metadata": []
+        },
+        "verticalLevel": "above",
+        "externalId": "6fnAR7MAW4",
+        "title": "王毯",
+        "description": "在山的上部，穿过原木桥即可到达。",
+        "subcategoryExternalId": "njAvSgil5Y",
+        "imageId": 1859548,
+        "imagePath": "/game_map_pin/1859548/{size}.webp",
+        "videoId": 1859549,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/9abd5e855b005752fab4551863168abf73bd018e"
+      }
+    },
+    {
+      "coordinates": [
+        -84.39376618406084,
+        -68.63867916280583
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 395.9345397949219,
+          "y": 47.89441680908203,
+          "z": 351.38409423828125,
+          "metadata": []
+        },
+        "verticalLevel": null,
+        "externalId": "r3vEGWEC5Y",
+        "title": "苔岩 x15",
+        "description": "路边可以找到几块大型苔藓岩。",
+        "subcategoryExternalId": "DQ4OAuVhu6",
+        "imageId": 1859429,
+        "imagePath": "/game_map_pin/1859429/{size}.webp",
+        "videoId": 1859430,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/863/4908cc165227ab658f68244d4fea67247b8b0b4e"
+      }
+    }
+  ]
+}

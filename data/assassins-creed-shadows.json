@@ -1,0 +1,16 @@
+{
+  "slug": "assassins-creed-shadows",
+  "title": "Assassin's Creed Shadows",
+  "heroUrl": "/assets/images/games/assassins-creed-shadows/hero.webp",
+  "maps": [
+    {
+      "name": "Japan",
+      "slug": "japan",
+      "thumbnailUrl": "/assets/images/games/assassins-creed-shadows/japan.webp",
+      "updatedAt": "2026-02-20T10:39:51Z",
+      "markerCount": 1461,
+      "categoryCount": 9,
+      "subcategoryCount": 54
+    }
+  ]
+}

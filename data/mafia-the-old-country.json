@@ -1,0 +1,16 @@
+{
+  "slug": "mafia-the-old-country",
+  "title": "Mafia: The Old Country",
+  "heroUrl": "/assets/images/games/mafia-the-old-country/hero.webp",
+  "maps": [
+    {
+      "name": "Sicily",
+      "slug": "sicily",
+      "thumbnailUrl": "/assets/images/games/mafia-the-old-country/sicily.webp",
+      "updatedAt": "2026-02-19T02:28:33Z",
+      "markerCount": 393,
+      "categoryCount": 6,
+      "subcategoryCount": 19
+    }
+  ]
+}

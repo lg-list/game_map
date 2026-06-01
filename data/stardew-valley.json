@@ -1,0 +1,16 @@
+{
+  "slug": "stardew-valley",
+  "title": "Stardew Valley",
+  "heroUrl": "/assets/images/games/stardew-valley/hero.webp",
+  "maps": [
+    {
+      "name": "Pelican Town and Farm",
+      "slug": "pelican-town-and-farm",
+      "thumbnailUrl": "/assets/images/games/stardew-valley/pelican-town-and-farm.webp",
+      "updatedAt": "2026-02-18T04:30:58Z",
+      "markerCount": 422,
+      "categoryCount": 5,
+      "subcategoryCount": 21
+    }
+  ]
+}

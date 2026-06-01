@@ -1,0 +1,16 @@
+{
+  "slug": "surroundead",
+  "title": "SurrounDead",
+  "heroUrl": "/assets/images/games/surroundead/hero.webp",
+  "maps": [
+    {
+      "name": "Longdown Valley",
+      "slug": "longdown-valley",
+      "thumbnailUrl": "/assets/images/games/surroundead/longdown-valley.webp",
+      "updatedAt": "2026-02-18T05:14:59Z",
+      "markerCount": 588,
+      "categoryCount": 5,
+      "subcategoryCount": 30
+    }
+  ]
+}

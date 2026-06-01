@@ -1,0 +1,16 @@
+{
+  "slug": "sons-of-the-forest",
+  "title": "Sons of The Forest",
+  "heroUrl": "/assets/images/games/sons-of-the-forest/hero.webp",
+  "maps": [
+    {
+      "name": "Sons of The Forest",
+      "slug": "sons-of-the-forest",
+      "thumbnailUrl": "/assets/images/games/sons-of-the-forest/sons-of-the-forest.webp",
+      "updatedAt": "2026-05-14T07:30:07Z",
+      "markerCount": 842,
+      "categoryCount": 7,
+      "subcategoryCount": 57
+    }
+  ]
+}

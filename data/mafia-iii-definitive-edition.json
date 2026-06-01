@@ -1,0 +1,16 @@
+{
+  "slug": "mafia-iii-definitive-edition",
+  "title": "Mafia III: Definitive Edition",
+  "heroUrl": "/assets/images/games/mafia-iii-definitive-edition/hero.webp",
+  "maps": [
+    {
+      "name": "New Bordeaux",
+      "slug": "new-bordeaux",
+      "thumbnailUrl": "/assets/images/games/mafia-iii-definitive-edition/new-bordeaux.webp",
+      "updatedAt": "2026-02-20T01:43:15Z",
+      "markerCount": 496,
+      "categoryCount": 5,
+      "subcategoryCount": 28
+    }
+  ]
+}

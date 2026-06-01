@@ -1,0 +1,16 @@
+{
+  "slug": "vampire-the-masquerade-bloodlines-2",
+  "title": "Vampire: The Masquerade - Bloodlines 2",
+  "heroUrl": "/assets/images/games/vampire-the-masquerade-bloodlines-2/hero.webp",
+  "maps": [
+    {
+      "name": "Seattle",
+      "slug": "seattle",
+      "thumbnailUrl": "/assets/images/games/vampire-the-masquerade-bloodlines-2/seattle.webp",
+      "updatedAt": "2026-02-19T02:51:30Z",
+      "markerCount": 274,
+      "categoryCount": 5,
+      "subcategoryCount": 13
+    }
+  ]
+}

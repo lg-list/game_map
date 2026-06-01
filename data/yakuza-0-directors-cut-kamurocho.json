@@ -1,0 +1,4477 @@
+{
+  "metadata": {
+    "externalId": "eS26SkcokM",
+    "name": "Kamurocho",
+    "slug": "kamurocho",
+    "baseTilePath": "https://storage-cdn.wemod.com/maps/cd9621cb-e890-47e3-bde5-3b6ed6fcd7ef/tiles",
+    "isChecklistPublished": true,
+    "isInActiveDevelopment": false,
+    "backgroundColor": "#4c4e54",
+    "minZoom": 1,
+    "maxZoom": 6,
+    "initialZoom": null,
+    "tmsEnabled": false,
+    "categories": [
+      {
+        "externalId": "cGloTn7IVo",
+        "gameMapExternalId": "eS26SkcokM",
+        "title": "未命名分类",
+        "color": "#ff8800",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "t0jT7kWFOx",
+        "gameMapExternalId": "eS26SkcokM",
+        "title": "未命名分类",
+        "color": "#000000",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "Cq7R3FeZD0",
+        "gameMapExternalId": "eS26SkcokM",
+        "title": "未命名分类",
+        "color": "#e869d2",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "eQ2RkvG4i9",
+        "gameMapExternalId": "eS26SkcokM",
+        "title": "未命名分类",
+        "color": "#00a329",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "F6qJma69OQ",
+        "gameMapExternalId": "eS26SkcokM",
+        "title": "未命名分类",
+        "color": "#006af5",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "rfhrBBByWX",
+        "gameMapExternalId": "eS26SkcokM",
+        "title": "未命名分类",
+        "color": "#ff007b",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "sv20TPU1co",
+        "gameMapExternalId": "eS26SkcokM",
+        "title": "未命名分类",
+        "color": "#027e75",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "VEb8xXJ1y7",
+        "gameMapExternalId": "eS26SkcokM",
+        "title": "任务",
+        "color": "#8E24AA",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": ""
+      }
+    ],
+    "subcategories": [
+      {
+        "externalId": "m7mO3uHWWu",
+        "categoryExternalId": "cGloTn7IVo",
+        "title": "未命名子分类",
+        "icon": "arrow-down-to-dotted-line",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "lkQlreZuW2",
+        "categoryExternalId": "t0jT7kWFOx",
+        "title": "未命名子分类",
+        "icon": "roundies:utility-2-three-people",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "YN0Wvn7dtH",
+        "categoryExternalId": "t0jT7kWFOx",
+        "title": "敲诈先生",
+        "icon": "snowman-head",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "XOF91EhGv2",
+        "categoryExternalId": "Cq7R3FeZD0",
+        "title": "未命名子分类",
+        "icon": "taxi",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "g6Q6DtWOIH",
+        "categoryExternalId": "eQ2RkvG4i9",
+        "title": "未命名子分类",
+        "icon": "roundies:emoji-clown",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "3cweObZEqd",
+        "categoryExternalId": "eQ2RkvG4i9",
+        "title": "未命名子分类",
+        "icon": "comment-arrow-down",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "FtQwGQ6aYh",
+        "categoryExternalId": "eQ2RkvG4i9",
+        "title": "未命名子分类",
+        "icon": "bullseye-arrow",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "hmioBvu7QO",
+        "categoryExternalId": "eQ2RkvG4i9",
+        "title": "神秘商人",
+        "icon": "roundies:business-and-finance-find-dollar",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "LMSH4Eg7iK",
+        "categoryExternalId": "eQ2RkvG4i9",
+        "title": "卡牌收集者",
+        "icon": "material:cards_star",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "gg5JVHJJ6e",
+        "categoryExternalId": "F6qJma69OQ",
+        "title": "未命名子分类",
+        "icon": "roundies:airport-and-hotels-restaurant-sign",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "3jTcZpc7M7",
+        "categoryExternalId": "F6qJma69OQ",
+        "title": "未命名子分类",
+        "icon": "roundies:architecture-shop-store",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "7HktXa33Zv",
+        "categoryExternalId": "F6qJma69OQ",
+        "title": "未命名子分类",
+        "icon": "roundies:business-and-finance-diamond",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "meq7DoPxGw",
+        "categoryExternalId": "F6qJma69OQ",
+        "title": "未命名子分类",
+        "icon": "roundies:architecture-mosque",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "Wohk99NbnJ",
+        "categoryExternalId": "F6qJma69OQ",
+        "title": "未命名子分类",
+        "icon": "roundies:electronics-gamepad",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "ApHtYHhXuN",
+        "categoryExternalId": "F6qJma69OQ",
+        "title": "西公园",
+        "icon": "bench-tree",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "H9Px0UHB2w",
+        "categoryExternalId": "rfhrBBByWX",
+        "title": "未命名子分类",
+        "icon": "yen",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "2RzOwjRs6d",
+        "categoryExternalId": "rfhrBBByWX",
+        "title": "未命名子分类",
+        "icon": "album-collection",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "uzcj8AtBnd",
+        "categoryExternalId": "sv20TPU1co",
+        "title": "未命名子分类",
+        "icon": "roundies:camera-and-photography-rainbow",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "dcMthSD5b8",
+        "categoryExternalId": "sv20TPU1co",
+        "title": "未命名子分类",
+        "icon": "roundies:electronics-computer-pc",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "HbEMW4LePD",
+        "categoryExternalId": "sv20TPU1co",
+        "title": "未命名子分类",
+        "icon": "roundies:emoji-smile-tongue-out",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "SNbq8G911w",
+        "categoryExternalId": "sv20TPU1co",
+        "title": "未命名子分类",
+        "icon": "spade",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "5m11WH86fY",
+        "categoryExternalId": "sv20TPU1co",
+        "title": "未命名子分类",
+        "icon": "roundies:electronics-hd-tv",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "nVCKxnFqj6",
+        "categoryExternalId": "VEb8xXJ1y7",
+        "title": "主线剧情",
+        "icon": "dot-circle",
+        "excludeFromChecklists": false,
+        "description": ""
+      }
+    ],
+    "playerLocationDeltas": null
+  },
+  "features": [
+    {
+      "coordinates": [
+        51.06445312500001,
+        -73.4972201909718
+      ],
+      "properties": {
+        "subcategoryExternalId": "7HktXa33Zv",
+        "externalId": "4cjpFEKMNA",
+        "title": "室町街勒马歇",
+        "description": "珠宝店",
+        "imageId": 1288907,
+        "imagePath": "/game_map_pin/1288907/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        58.48981370296114,
+        -50.57010519183071
+      ],
+      "properties": {
+        "subcategoryExternalId": "gg5JVHJJ6e",
+        "externalId": "xUsQq2ovbj",
+        "title": "天国拳",
+        "description": "Old Ramen House",
+        "imageId": 1288916,
+        "imagePath": "/game_map_pin/1288916/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        106.34305054003016,
+        19.744756198852446
+      ],
+      "properties": {
+        "subcategoryExternalId": "m7mO3uHWWu",
+        "externalId": "oo9XTqFQwE",
+        "title": "七福街存档点",
+        "description": "每个英雄都需要一个存档点——在这里保存你的进度！",
+        "imageId": 1288924,
+        "imagePath": "/game_map_pin/1288924/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        18.413085937500004,
+        -51.34433866059922
+      ],
+      "properties": {
+        "subcategoryExternalId": "meq7DoPxGw",
+        "imageId": 1288968,
+        "externalId": "Q636bOZlnL",
+        "title": "",
+        "description": "It's time to exchange your CP!",
+        "imagePath": "/game_map_pin/1288968/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        18.38694347816994,
+        -51.59327465254872
+      ],
+      "properties": {
+        "subcategoryExternalId": "g6Q6DtWOIH",
+        "externalId": "NOiOXL7xD6",
+        "title": "",
+        "description": "Talk to him to be able to choose his FUN PACKS.",
+        "imageId": 1288977,
+        "imagePath": "/game_map_pin/1288977/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        58.50103536605045,
+        -73.71459908492803
+      ],
+      "properties": {
+        "subcategoryExternalId": "Wohk99NbnJ",
+        "imageId": 1289626,
+        "externalId": "luE7CtNnI5",
+        "title": "商店",
+        "description": "Checkmate your boredom at Shoten!",
+        "imagePath": "/game_map_pin/1289626/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -45.24169921875004,
+        73.97107763933991
+      ],
+      "properties": {
+        "subcategoryExternalId": "FtQwGQ6aYh",
+        "externalId": "FsPPEKmFtM",
+        "title": "桐生的公寓",
+        "description": "You can go back and forth here to visit Kiryu's apartment",
+        "imageId": 1291850,
+        "imagePath": "/game_map_pin/1291850/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        99.00878906250009,
+        -1.1644706071806041
+      ],
+      "properties": {
+        "subcategoryExternalId": "gg5JVHJJ6e",
+        "imageId": 1289604,
+        "externalId": "VezcKHbbL1",
+        "title": "贝壳漆",
+        "description": "Raise your glass – where great times and drinks flow!",
+        "imagePath": "/game_map_pin/1289604/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -28.25753957442231,
+        -73.91947024000449
+      ],
+      "properties": {
+        "subcategoryExternalId": "gg5JVHJJ6e",
+        "imageId": 1288877,
+        "externalId": "OpF9gaqXpC",
+        "title": "寿司 銀",
+        "description": "Where you can eat your favorite Japanese Cuisines",
+        "imagePath": "/game_map_pin/1288877/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -21.13588871412866,
+        70.23937933910724
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -10.523478507995605,
+          "y": 3.769970655441284,
+          "z": -161.1667938232422
+        },
+        "externalId": "s97573B5lT",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -59.130572774345346,
+        4.1023691924351
+      ],
+      "properties": {
+        "subcategoryExternalId": "m7mO3uHWWu",
+        "externalId": "5gQyCYUpVz",
+        "title": "剧场广场存档点",
+        "description": "每个英雄都需要一个存档点——在这里保存你的进度！",
+        "imageId": 1630872,
+        "imagePath": "/game_map_pin/1630872/{size}.webp",
+        "videoId": 1630873,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/cd13e874120a3a2646a5e1cf9126821e63c67be3"
+      }
+    },
+    {
+      "coordinates": [
+        72.00439453125001,
+        -68.46379955520322
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1289716,
+        "externalId": "kmKDtY91aI",
+        "title": "大家",
+        "description": "你可以在这里揭开真相——就像肥皂剧一样，但更戏剧化，广告更少！\n\n**注意：**\n\n- *此任务将在第2章触发。*",
+        "imagePath": "/game_map_pin/1289716/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        100.1513671875,
+        -69.61120561869635
+      ],
+      "properties": {
+        "subcategoryExternalId": "m7mO3uHWWu",
+        "externalId": "NT1I6Wh3LO",
+        "title": "千两街储存点",
+        "description": "每个英雄都需要一个存档点——在这里保存你的进度！",
+        "imageId": 1288842,
+        "imagePath": "/game_map_pin/1288842/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        3.6734884549333024,
+        38.20015145326983
+      ],
+      "properties": {
+        "subcategoryExternalId": "m7mO3uHWWu",
+        "externalId": "pGKxlLlGLr",
+        "title": "七福街存档点",
+        "description": "每个英雄都需要一个存档点——在这里保存你的进度！",
+        "imageId": 1630922,
+        "imagePath": "/game_map_pin/1630922/{size}.webp",
+        "videoId": 1630923,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/793ae7470f78305763d3f80ce8c0bbc4c3d7e867"
+      }
+    },
+    {
+      "coordinates": [
+        103.8847342892044,
+        48.94852828721031
+      ],
+      "properties": {
+        "externalId": "MmYXeKID4o",
+        "title": "公园大道东",
+        "description": "快速前往神室町周围的其他出租车站",
+        "subcategoryExternalId": "XOF91EhGv2",
+        "imageId": 1630992,
+        "imagePath": "/game_map_pin/1630992/{size}.webp",
+        "videoId": 1630993,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/0befffd3810d7c177872e7f0213378e4b165920d"
+      }
+    },
+    {
+      "coordinates": [
+        -17.307692307683453,
+        75.18552398462617
+      ],
+      "properties": {
+        "externalId": "CdDgLHSpen",
+        "title": "酒店区北部",
+        "description": "快速前往神室町周围的其他出租车站",
+        "subcategoryExternalId": "XOF91EhGv2",
+        "imageId": 1630998,
+        "imagePath": "/game_map_pin/1630998/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -107.04142011828412,
+        40.576636651491185
+      ],
+      "properties": {
+        "externalId": "38IB1TNv4U",
+        "title": "七福街西",
+        "description": "快速前往神室町周围的其他出租车站",
+        "subcategoryExternalId": "XOF91EhGv2",
+        "imageId": 1630999,
+        "imagePath": "/game_map_pin/1630999/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -47.18965825406232,
+        -75.27054112732826
+      ],
+      "properties": {
+        "externalId": "mw5uEG9oXG",
+        "title": "天下一通り入口",
+        "description": "快速前往神室町周围的其他出租车站",
+        "subcategoryExternalId": "XOF91EhGv2",
+        "imageId": 1631007,
+        "imagePath": "/game_map_pin/1631007/{size}.webp",
+        "videoId": 1631008,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/152ff016dc4758ca2a98703ad9ea12db7a14ad17"
+      }
+    },
+    {
+      "coordinates": [
+        43.76953125,
+        -75.71563324165896
+      ],
+      "properties": {
+        "subcategoryExternalId": "XOF91EhGv2",
+        "imageId": 1288846,
+        "externalId": "JWOTN1A3G0",
+        "title": "粉红街入口",
+        "description": "前往堂島总部的出租车。您可以乘坐出租车前往神室町的任何地点。",
+        "imagePath": "/game_map_pin/1288846/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -56.33789062500001,
+        -72.18852591070346
+      ],
+      "properties": {
+        "subcategoryExternalId": "m7mO3uHWWu",
+        "imageId": 1631013,
+        "externalId": "px9erwAF8h",
+        "title": "天下一街道存档点",
+        "description": "可以查看物品箱并保存游戏进度的地方",
+        "imagePath": "/game_map_pin/1631013/{size}.webp",
+        "videoId": 1631014,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/99ce49347ee5bd0bc9743e84123797f54d242f4e"
+      }
+    },
+    {
+      "coordinates": [
+        -29.85419803145436,
+        -57.23419373771496
+      ],
+      "properties": {
+        "subcategoryExternalId": "m7mO3uHWWu",
+        "imageId": 1631060,
+        "externalId": "z7Qx1KmjXc",
+        "title": "天下一通り拯救点",
+        "description": "每个英雄都需要一个存档点——在这里保存你的进度！",
+        "imagePath": "/game_map_pin/1631060/{size}.webp",
+        "videoId": 1631061,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/c3dd8a049be1b494a76fe27f2c2f6ed3fa2324ee"
+      }
+    },
+    {
+      "coordinates": [
+        -44.26552447670004,
+        -37.625914695733556
+      ],
+      "properties": {
+        "subcategoryExternalId": "gg5JVHJJ6e",
+        "imageId": 1631081,
+        "externalId": "4oxYmQYJH8",
+        "title": "银章子嗨棒酒场",
+        "description": "章鱼烧 + 饮品 = 完美组合",
+        "imagePath": "/game_map_pin/1631081/{size}.webp",
+        "videoId": 1631082,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/e5db63aafd32108ef8fb46d5a16c79839d848c39"
+      }
+    },
+    {
+      "coordinates": [
+        -53.71049828513597,
+        -27.802410965610996
+      ],
+      "properties": {
+        "subcategoryExternalId": "gg5JVHJJ6e",
+        "imageId": 1631090,
+        "externalId": "t609kGdgrN",
+        "title": "赤王丸天下一街",
+        "description": "警告：我们的牛肉可能会引起极度的碗装美食渴望！",
+        "imagePath": "/game_map_pin/1631090/{size}.webp",
+        "videoId": 1631091,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/0ee1e5988f2517cc07b10e04b3537430e54978b6"
+      }
+    },
+    {
+      "coordinates": [
+        -21.586268636029875,
+        -47.22422150490872
+      ],
+      "properties": {
+        "subcategoryExternalId": "gg5JVHJJ6e",
+        "externalId": "djDByePevR",
+        "title": "富士荞麦面",
+        "description": "品味美食，体验传统！",
+        "imageId": 1631109,
+        "imagePath": "/game_map_pin/1631109/{size}.webp",
+        "videoId": 1631110,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/2d31e3ffd88ba1c7e4e8f81a300f304aff716e4a"
+      }
+    },
+    {
+      "coordinates": [
+        -20.016108728507117,
+        -67.89933439977287
+      ],
+      "properties": {
+        "subcategoryExternalId": "gg5JVHJJ6e",
+        "imageId": 1631131,
+        "externalId": "eBQ0FA1ACq",
+        "title": "阿尔卑斯咖啡厅 神室町",
+        "description": "小酌后再战。",
+        "imagePath": "/game_map_pin/1631131/{size}.webp",
+        "videoId": 1631132,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/7df742b9ba6b3a80a65d7ca028e2eb20993209fe"
+      }
+    },
+    {
+      "coordinates": [
+        -3.557575660164918,
+        -68.56522223467812
+      ],
+      "properties": {
+        "subcategoryExternalId": "gg5JVHJJ6e",
+        "externalId": "gIllr0hY6N",
+        "title": "夜之鸟居镰吕町",
+        "description": "您的本地居酒屋——每晚都像在庆祝一样！",
+        "imageId": 1631287,
+        "imagePath": "/game_map_pin/1631287/{size}.webp",
+        "videoId": 1631288,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/62e53f5afad1390a6d84f0daad45a604633c594b"
+      }
+    },
+    {
+      "coordinates": [
+        -2.343124696549988,
+        -63.94375776555526
+      ],
+      "properties": {
+        "subcategoryExternalId": "Wohk99NbnJ",
+        "externalId": "vi0jQDhCka",
+        "title": "世嘉高科技乐园中道",
+        "description": "SEGA在此打造街机*传奇*！",
+        "imageId": 1631317,
+        "imagePath": "/game_map_pin/1631317/{size}.webp",
+        "videoId": 1631318,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/f77fc523dd1a9d3c69eb349d98bdfa4ca4ff719d"
+      }
+    },
+    {
+      "coordinates": [
+        -2.6502808471595833,
+        -52.13090064896652
+      ],
+      "properties": {
+        "subcategoryExternalId": "gg5JVHJJ6e",
+        "imageId": 1631330,
+        "externalId": "3yv5vONV7I",
+        "title": "微笑汉堡",
+        "description": "吃饭微笑就好，别在意环境！",
+        "imagePath": "/game_map_pin/1631330/{size}.webp",
+        "videoId": 1631331,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/88286ded1dc0a6d6e952c22551ef7ad278489366"
+      }
+    },
+    {
+      "coordinates": [
+        -5.559574862229668,
+        -74.25629161954362
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -53.7027587890625,
+          "y": 0.7700067162513733,
+          "z": 151.56048583984375
+        },
+        "externalId": "KgHELD6o3g",
+        "title": "荒狂任务",
+        "description": "要求：\n\n暗中的房地产经纪人\n\n奖励：\n\n阳爆（武士刀）\n\n注意：\n\n- 与孩子交谈，进入堂吉诃德，然后回来再次与孩子交谈\n\n*\"Ara-Q3荒恶系列的最新游戏\"*",
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1289722,
+        "imagePath": "/game_map_pin/1289722/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -13.127908249619765,
+        -72.54396174918462
+      ],
+      "properties": {
+        "externalId": "QPGct2NjeI",
+        "title": "顶级捕食者",
+        "description": "要求：\n\n暗影中的房地产经纪人\n\n奖励：\n\n取决于他当前携带的¥金额\n\n注意：\n\n- 这个支线故事的位置会根据你遇到震撼先生的地点而变化",
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1632360,
+        "imagePath": "/game_map_pin/1632360/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        13.465194796177633,
+        -46.55540407862756
+      ],
+      "properties": {
+        "subcategoryExternalId": "lkQlreZuW2",
+        "externalId": "8Rr6TbYrDD",
+        "title": "中町小巷暴徒",
+        "description": "神室町区域内的随机遭遇。你会伸出援手还是视而不见？\n\n注意：\n\n- 奖励从恢复道具到可以高价出售的盘子不等，具体取决于品质",
+        "imageId": 1289038,
+        "imagePath": "/game_map_pin/1289038/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        80.71487673208217,
+        49.522327910922655
+      ],
+      "properties": {
+        "subcategoryExternalId": "lkQlreZuW2",
+        "externalId": "RVU48Vxum2",
+        "title": "公园大道暴徒2",
+        "description": "神室町区域内的随机遭遇。你会伸出援手还是视而不见？\n\n注意：\n\n- 奖励从恢复道具到可以高价出售的盘子不等，具体取决于品质",
+        "imageId": 1288927,
+        "imagePath": "/game_map_pin/1288927/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        102.71765935902945,
+        52.787262098190276
+      ],
+      "properties": {
+        "subcategoryExternalId": "lkQlreZuW2",
+        "externalId": "H4quby1176",
+        "title": "公园大道流氓",
+        "description": "神室町区域内的随机遭遇。你会伸出援手还是视而不见？\n\n注意：\n\n- 奖励从恢复道具到可以高价出售的盘子不等，具体取决于品质",
+        "imageId": 1288925,
+        "imagePath": "/game_map_pin/1288925/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -83.45755173520915,
+        35.15726353901536
+      ],
+      "properties": {
+        "subcategoryExternalId": "lkQlreZuW2",
+        "imageId": 1289665,
+        "externalId": "kn3mE3h0K8",
+        "title": "剧场广场西北流氓团",
+        "description": "神室町区域内的随机遭遇。你会伸出援手还是视而不见？\n\n注意：\n\n- 奖励从恢复道具到可以高价出售的盘子不等，具体取决于品质",
+        "imagePath": "/game_map_pin/1289665/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -35.326037880150125,
+        -53.235382247077254
+      ],
+      "properties": {
+        "subcategoryExternalId": "lkQlreZuW2",
+        "imageId": 1291834,
+        "externalId": "C3omqZOR5J",
+        "title": "天下市胡同恶棍",
+        "description": "神室町区域内的随机遭遇。你会伸出援手还是视而不见？\n\n注意：\n\n- 奖励从恢复道具到可以高价出售的盘子不等，具体取决于品质",
+        "imagePath": "/game_map_pin/1291834/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -33.757602614312766,
+        -61.094314302549705
+      ],
+      "properties": {
+        "subcategoryExternalId": "lkQlreZuW2",
+        "externalId": "MGw7ISypzW",
+        "title": "公园3",
+        "description": "神室町区域内的随机遭遇。你会伸出援手还是视而不见？\n\n注意：\n\n- 奖励从恢复道具到可以高价出售的盘子不等，具体取决于品质",
+        "imageId": 1291836,
+        "imagePath": "/game_map_pin/1291836/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        3.6317594452761535,
+        -63.208948692325365
+      ],
+      "properties": {
+        "subcategoryExternalId": "lkQlreZuW2",
+        "externalId": "57jXWHZMoH",
+        "title": "中道小巷",
+        "description": "神室町区域内的随机遭遇。你会伸出援手还是视而不见？\n\n注意：\n\n- 奖励从恢复道具到可以高价出售的盘子不等，具体取决于品质",
+        "imageId": 1292666,
+        "imagePath": "/game_map_pin/1292666/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        21.95687536751095,
+        -45.97992847229943
+      ],
+      "properties": {
+        "subcategoryExternalId": "lkQlreZuW2",
+        "externalId": "Gwfvu6YowQ",
+        "title": "中町小巷暴徒",
+        "description": "神室町区域内的随机遭遇。你会伸出援手还是视而不见？\n\n注意：\n\n- 奖励从恢复道具到可以高价出售的盘子不等，具体取决于品质",
+        "imageId": 1288962,
+        "imagePath": "/game_map_pin/1288962/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        63.48118358404067,
+        -47.31153030919753
+      ],
+      "properties": {
+        "subcategoryExternalId": "lkQlreZuW2",
+        "imageId": 1288831,
+        "externalId": "YQhgE9DTPK",
+        "title": "帮助平民",
+        "description": "神室町区域内的随机遭遇。你会伸出援手还是视而不见？\n\n注意：\n\n- 奖励从恢复道具到可以高价出售的盘子不等，具体取决于品质",
+        "imagePath": "/game_map_pin/1288831/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        70.93363826884294,
+        -61.623733500328235
+      ],
+      "properties": {
+        "subcategoryExternalId": "lkQlreZuW2",
+        "imageId": 1289714,
+        "externalId": "OdNJCRfb2y",
+        "title": "千両通",
+        "description": "神室町区域内的随机遭遇。你会伸出援手还是视而不见？\n\n注意：\n\n- 奖励从恢复道具到可以高价出售的盘子不等，具体取决于品质",
+        "imagePath": "/game_map_pin/1289714/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        65.92779243330384,
+        -72.90204524599557
+      ],
+      "properties": {
+        "subcategoryExternalId": "lkQlreZuW2",
+        "imageId": 1288871,
+        "externalId": "jfb8vY5KLz",
+        "title": "千两街恶棍帮",
+        "description": "神室町区域内的随机遭遇。你会伸出援手还是视而不见？\n\n注意：\n\n- 奖励从恢复道具到可以高价出售的盘子不等，具体取决于品质",
+        "imagePath": "/game_map_pin/1288871/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        106.06201171875001,
+        -36.73888412439428
+      ],
+      "properties": {
+        "subcategoryExternalId": "lkQlreZuW2",
+        "externalId": "7J66lPbN7c",
+        "title": "太平通东方流氓团",
+        "description": "神室町区域内的随机遭遇。你会伸出援手还是视而不见？\n\n注意：\n\n- 奖励从恢复道具到可以高价出售的盘子不等，具体取决于品质",
+        "imageId": 1288917,
+        "imagePath": "/game_map_pin/1288917/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        84.34938787546875,
+        4.420688605726566
+      ],
+      "properties": {
+        "subcategoryExternalId": "lkQlreZuW2",
+        "externalId": "9d8kN5969c",
+        "title": "冠军区恶棍",
+        "description": "神室町区域内的随机遭遇。你会伸出援手还是视而不见？\n\n注意：\n\n- 奖励从恢复道具到可以高价出售的盘子不等，具体取决于品质",
+        "imageId": 1289092,
+        "imagePath": "/game_map_pin/1289092/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        82.86842642359848,
+        1.853033835082259
+      ],
+      "properties": {
+        "subcategoryExternalId": "lkQlreZuW2",
+        "externalId": "S9ZetA9XR4",
+        "title": "冠军区恶棍",
+        "description": "神室町区域内的随机遭遇。你会伸出援手还是视而不见？\n\n注意：\n\n- 奖励从恢复道具到可以高价出售的盘子不等，具体取决于品质",
+        "imageId": 1289102,
+        "imagePath": "/game_map_pin/1289102/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        84.55078125000001,
+        -2.262595301015253
+      ],
+      "properties": {
+        "subcategoryExternalId": "lkQlreZuW2",
+        "imageId": 1288911,
+        "externalId": "16V3gKFEal",
+        "title": "冠军区恶棍",
+        "description": "神室町区域内的随机遭遇。你会伸出援手还是视而不见？\n\n注意：\n\n- 奖励从恢复道具到可以高价出售的盘子不等，具体取决于品质",
+        "imagePath": "/game_map_pin/1288911/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -17.63595411636311,
+        66.91661960383152
+      ],
+      "properties": {
+        "externalId": "97LutliWcC",
+        "title": "未竟之梦",
+        "description": "要求：\n\n暗影中的房地产经纪人\n\n奖励：\n\n取决于他当前携带的¥金额\n\n注意：\n\n- 这个支线故事的位置会根据你遇到震撼先生的地点而变化",
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1632398,
+        "imagePath": "/game_map_pin/1632398/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        24.583487238402853,
+        5.375854792397675
+      ],
+      "properties": {
+        "externalId": "FLK3pdPxk3",
+        "title": "极道",
+        "description": "神室町区域内的随机遭遇。你会伸出援手还是视而不见？\n\n注意：\n\n- 奖励从恢复道具到可以高价出售的盘子不等，具体取决于品质",
+        "subcategoryExternalId": "lkQlreZuW2",
+        "imageId": 1632704,
+        "imagePath": "/game_map_pin/1632704/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        2.464958188371156,
+        61.55672767185504
+      ],
+      "properties": {
+        "externalId": "o3q1V66Ynm",
+        "title": "",
+        "description": "神室町区域内的随机遭遇。你会伸出援手还是视而不见？\n\n注意：\n\n- 奖励从恢复道具到可以高价出售的盘子不等，具体取决于品质",
+        "subcategoryExternalId": "lkQlreZuW2",
+        "imageId": 1634430,
+        "imagePath": "/game_map_pin/1634430/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        68.40889822386957,
+        -11.851042315711004
+      ],
+      "properties": {
+        "subcategoryExternalId": "Wohk99NbnJ",
+        "imageId": 1634436,
+        "externalId": "aJYji4bAmf",
+        "title": "神陀罗神室町",
+        "description": "别担心，看完某些色情视频后有纸巾",
+        "imagePath": "/game_map_pin/1634436/{size}.webp",
+        "videoId": 1634437,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/614519b18e60eb65a8e93c9e43bb1fddb689e94f"
+      }
+    },
+    {
+      "coordinates": [
+        -10.0634765625,
+        45.07352060670971
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1292034,
+        "externalId": "ioQ9kPneOB",
+        "title": "不要独自起舞",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|暗中的房地产经纪人|致命技巧|\n\n注意：\n\n- 连续跳舞三次（任何难度）来解锁此支线故事\n\n*\"太棒了！对于一个穴居人来说你学得很快。那我们就不要浪费时间了！让我们开始跳舞吧！\"* - 久明",
+        "imagePath": "/game_map_pin/1292034/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -8.96641377386166,
+        45.41451080934394
+      ],
+      "properties": {
+        "externalId": "RnGZQ4cThj",
+        "title": "致命技艺",
+        "description": "|要求|解锁|\n| :-----------: | :-----------: |\n|Don't Dance Alone|Maharaja Showdown|\n\n注意：\n\n- 离开Maharaja，然后重新进入并走向吧台以触发此支线故事\n\n*\"我是石踊舞子。我的姓氏意思是'摇滚舞蹈'……正如其含义，我完全沉醉于舞池。\"* - 舞子",
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1634460,
+        "imagePath": "/game_map_pin/1634460/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -9.339448229424308,
+        44.23217522042974
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1296933,
+        "externalId": "V5vEwJX5sx",
+        "title": "大君对决",
+        "description": "要求：\n\nTechnique to Die For\n\n奖励：\n\nIsobe Fan\n\n*\"哈！那就来一场生死之舞吧！我喜欢！让我们开始吧！\"* - Ogita",
+        "imagePath": "/game_map_pin/1296933/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -28.190917968750004,
+        -74.15808838878033
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1298361,
+        "externalId": "MFwL7bx0Me",
+        "title": "寿司银主厨",
+        "description": "要求：\n\n暗中的房地产经纪人\n\n奖励：\n\n寿司银\n\n注意：\n\n- 持续在这家酒吧用餐以与厨师建立友谊，直到他要求鱼类；此时，捕鱼将是提高他友谊值的唯一方法\n- 你可以通过从神秘商人购买鱼类来跳过钓鱼部分\n- 只有在与厨师的友谊达到最大值后，你才能获得寿司银房产",
+        "imagePath": "/game_map_pin/1298361/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -95.00624925453333,
+        49.73572327178124
+      ],
+      "properties": {
+        "externalId": "nK4uyGSSkE",
+        "title": "袖珍赛道商店",
+        "description": "销售各种袖珍赛道零件\n\n注意：\n\n- 赢得更多比赛以解锁更多零件",
+        "subcategoryExternalId": "3jTcZpc7M7",
+        "imageId": 1634631,
+        "imagePath": "/game_map_pin/1634631/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -1.6833006144092202,
+        -73.19792688717138
+      ],
+      "properties": {
+        "subcategoryExternalId": "3jTcZpc7M7",
+        "imageId": 1631289,
+        "externalId": "XnJVwbXC4a",
+        "title": "堂吉诃德神室町",
+        "description": "主要商品：\n\n- 高速电池\n- 大容量电池\n\n价格如此低廉，连你的存钱罐都在微笑！",
+        "imagePath": "/game_map_pin/1631289/{size}.webp",
+        "videoId": 1631290,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/294ea707d5045fb53fdd243d4839fa642fe2e128"
+      }
+    },
+    {
+      "coordinates": [
+        76.52586568567415,
+        36.126744758062074
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "externalId": "HuiMNJODhQ",
+        "title": "神室町训练场",
+        "description": "要求：\n\n暗中的房地产经纪人\n\n奖励：\n\n- 燕返之魂 - ¥15,000\n- 伤害编织 - ¥150,000\n- 浮空再防御1 - ¥1,500,000\n- 反击快步 - ¥15,000,000\n- 无情弹幕精髓 - ¥200,000,000\n\n注意：\n\n- 在冲刺技能树中解锁前置技能以进入下一个挑战",
+        "imageId": 1289685,
+        "imagePath": "/game_map_pin/1289685/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -80.3759765625,
+        0.7470491450051782
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1289762,
+        "externalId": "ej2IND7DRT",
+        "title": "龙小姐的训练",
+        "description": "要求：\n\n暗影中的房地产经纪人\n\n奖励：\n\n- 守护武器充能\n- 钢铁意志\n- 粉碎之锤\n- 野兽精髓：壁压\n- 野兽精髓：横冲直撞\n\n注意：\n\n- 你可以通过乘坐出租车前往码头来继续子故事\n\n- 每完成两次训练后，你可以接受龙小姐的工作邀请，将获得新的野兽技能作为奖励。重复训练直到完成第十次训练。",
+        "imagePath": "/game_map_pin/1289762/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        64.92919921875001,
+        24.106647179201786
+      ],
+      "properties": {
+        "subcategoryExternalId": "FtQwGQ6aYh",
+        "imageId": 1289682,
+        "externalId": "R1X9suEh2i",
+        "title": "皮条客",
+        "description": "|上一个|下一个|\n| :-----------: | :-----------: |\n|极道分子|路人 2|\n\n听听他们的闲聊，他们会给出一些关于故事的提示。",
+        "imagePath": "/game_map_pin/1289682/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        42.730021560499544,
+        -37.4438939350957
+      ],
+      "properties": {
+        "subcategoryExternalId": "FtQwGQ6aYh",
+        "imageId": 1289729,
+        "externalId": "90AOpMJb8Y",
+        "title": "路人2",
+        "description": "|上一个|下一个|\n| :-----------: | :-----------: |\n|皮条客|路人3|\n\n听他们说话以了解更多故事情节",
+        "imagePath": "/game_map_pin/1289729/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -95.14160156250001,
+        -8.298470297067354
+      ],
+      "properties": {
+        "subcategoryExternalId": "FtQwGQ6aYh",
+        "imageId": 1289766,
+        "externalId": "Qg7W1d3FM3",
+        "title": "旁观者3",
+        "description": "|上一个|\\n| :-----------: |\\n|[旁观者2](wemod:\\/\\/maps\\/101612\\/264?location=90AOpMJb8Y)|\\n\\n前往此处继续故事线。前往标记区域。",
+        "imagePath": "/game_map_pin/1289766/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -32.16796875000001,
+        -57.79794388498274
+      ],
+      "properties": {
+        "subcategoryExternalId": "FtQwGQ6aYh",
+        "imageId": 1291926,
+        "externalId": "k1FebJCHrG",
+        "title": "供应饮品",
+        "description": "需求：\n\n暗中的房地产经纪人\n\n你可以从这些商店购买以下饮品。\n\n- *金香槟* -  唐吉诃德\n- *嘉士伯* - 唐吉诃德\n- *红薯烧酒* - Poppo天下一街店\n- *苏格兰威士忌* - Poppo昭和街店\n- *日本酒* - \nM商店神室町\n\n注意：\n\n- 给金香槟而不是普通香槟将解锁\"富豪品味\"奖杯",
+        "imagePath": "/game_map_pin/1291926/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        20.800803151410918,
+        -54.03423310619317
+      ],
+      "properties": {
+        "externalId": "SNaenZ2Tkh",
+        "title": "",
+        "description": "神室町区域内的随机遭遇。你会伸出援手还是视而不见？\n\n注意：\n\n- 奖励从恢复道具到可以高价出售的盘子不等，具体取决于品质",
+        "subcategoryExternalId": "lkQlreZuW2",
+        "imageId": 1635980,
+        "imagePath": "/game_map_pin/1635980/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -54.11777427973906,
+        47.03285329506322
+      ],
+      "properties": {
+        "subcategoryExternalId": "3jTcZpc7M7",
+        "imageId": 1636068,
+        "externalId": "6qE19YAj9U",
+        "title": "M Store 神室町",
+        "description": "购买您的日常所需！",
+        "imagePath": "/game_map_pin/1636068/{size}.webp",
+        "videoId": 1636069,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/dc11bfa0a097ddf58e31188938fc62aed4db486c"
+      }
+    },
+    {
+      "coordinates": [
+        -32.533402723154836,
+        -49.25668645059408
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1291966,
+        "externalId": "wUAfbrC5Km",
+        "title": "巴克斯训练营",
+        "description": "要求：\n\n暗中的房地产经纪人\n\n奖励：\n\n- 额外决心计数器\n- 扭脸精华\n- 缴械精华\n- 破墙精华\n- 终结一击精华\n\n注意：\n\n- 完成要供应的饮品后。来这里与巴库斯对话。接受他的提议成为他的保镖。再次与他对话，他会教你五个顶级招式。\n- 在格斗者技能树中解锁前置能力以进入下一个挑战",
+        "imagePath": "/game_map_pin/1291966/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -32.99625300141213,
+        13.273555919188794
+      ],
+      "properties": {
+        "externalId": "x0Liy0TmlO",
+        "title": "暗中的房地产经纪人",
+        "description": "|要求|解锁|\n| :-----------: | :-----------: |\n|誓言束缚|金丝雀笼|\n\n奖励：\n\n- ¥3,000,000\n- 高潮战斗道具\n\n橘真一不动产线索：\n\n极道\n\n注意：\n\n- 本章节中的一些支线故事只能在白天触发",
+        "subcategoryExternalId": "nVCKxnFqj6",
+        "imageId": 1632334,
+        "imagePath": "/game_map_pin/1632334/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -38.47485911906668,
+        55.665181620038595
+      ],
+      "properties": {
+        "externalId": "05H8Tiajfe",
+        "title": "诚实生计",
+        "description": "|要求|解锁条件|\n| :-----------: | :-----------: |\n|决心的证明|极道之路|\n\n奖励：\n\n￥20,000,000\n\n正确选择（客户会议）：\n\n- \"后面的桌子\"\n- \"坐最近的座位\"\n- \"什么都不要\"\n\n故事线：\n\n房地产皇家\n\n注意：\n\n- 支线任务在桐生换上新西装后才可用\n- 选择正确选项并成功完成快速反应事件来解锁\"商务礼仪101\"奖杯\n- 你可以在M商店 神室町购买糖果礼盒",
+        "subcategoryExternalId": "nVCKxnFqj6",
+        "imageId": 1640140,
+        "imagePath": "/game_map_pin/1640140/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        68.92593484258884,
+        -56.820661574632155
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "externalId": "uHpEdAhOIg",
+        "title": "远见占卜师",
+        "description": "要求：\n\n- 诚实谋生\n- 龙之崛起\n\n奖励：\n\n算命师\n\n备注：\n\n- 算命师可以在杉田大厦外找到，在第5章诚实谋生期间建立房地产业务后，可以招募为顾问",
+        "imageId": 1296992,
+        "imagePath": "/game_map_pin/1296992/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        72.34386408475339,
+        -33.87883864939218
+      ],
+      "properties": {
+        "externalId": "E1UKJFs9kY",
+        "title": "",
+        "description": "要求：\n\n暗中的房地产经纪人\n\n注意：\n\n- 每次击败敲诈先生后，他都会变得更强\n- 可以使用遭遇探测器来追踪敲诈先生，该道具在完成支线任务真嶋真奇迹后获得\n\n*\"你刚刚很不幸地遇到了江头寛也，人们都叫他'敲诈先生'。\"* - 路人商人",
+        "subcategoryExternalId": "YN0Wvn7dtH",
+        "imageId": 1640149,
+        "imagePath": "/game_map_pin/1640149/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        105.7870309259282,
+        -15.368048035153635
+      ],
+      "properties": {
+        "externalId": "TsFVP7VCSj",
+        "title": "披萨护照",
+        "description": "要求：\n\n正当的谋生\n\n奖励：\n\n安全钱包\n\n注意：\n\n- 将任何种类的恢复道具交给那位女士以推进剧情\n- 前往微笑汉堡继续支线剧情",
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1640167,
+        "imagePath": "/game_map_pin/1640167/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        100.26952004888538,
+        -1.4040795421657082
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1289705,
+        "externalId": "zBu7DqHcaM",
+        "title": "神室町卧底",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|暗影中的房地产经纪人|人口贩卖俱乐部|\n\n奖励：\n\n9MM自动手枪\n\n注意事项：\n\n- 进入酒吧，走到墙边与虚无主义者 *（春日）* 交谈\n- 离开冠军区，然后返回Shellac酒吧触发此支线故事的下一阶段",
+        "imagePath": "/game_map_pin/1289705/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        100.87646484375001,
+        -1.252341676699615
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1640185,
+        "externalId": "FOJUYXrrCZ",
+        "title": "人口贩卖集团",
+        "description": "需求：\n\n- 诚实的生活\n- 神室町卧底\n\n奖励：\n\n春日\n\n注意：\n\n- 进入 Shellac 触发此支线故事\n- 春日可以在 杉田大楼 外面找到，在第5章 诚实的生活 期间建立房地产业务后，可以招募他作为经理",
+        "imagePath": "/game_map_pin/1640185/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        106.98107159469782,
+        -24.438639776960073
+      ],
+      "properties": {
+        "externalId": "9ehX5p58BY",
+        "title": "",
+        "description": "神室町区域内的随机遭遇。你会伸出援手还是视而不见？\n\n注意：\n\n- 奖励从恢复道具到可以高价出售的盘子不等，具体取决于品质",
+        "subcategoryExternalId": "lkQlreZuW2",
+        "imageId": 1640195,
+        "imagePath": "/game_map_pin/1640195/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -21.73818451940592,
+        56.53825821714698
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "externalId": "XvGbr7l0AP",
+        "title": "家族继承人",
+        "description": "要求：\n\n诚实的生活",
+        "imageId": 1640204,
+        "imagePath": "/game_map_pin/1640204/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        33.89652257962496,
+        -74.20967085422191
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "externalId": "hfCy0gvy0P",
+        "title": "神室町的性欲先生",
+        "description": "要求：\n\n诚实的生活\n\n奖励：\n\n¥\n\n注释：\n\n性欲先生 – 秋本是一个想要偷看你卡片收藏册的变态家伙。你可以与他交朋友来完成他的支线故事。",
+        "imageId": 1297050,
+        "imagePath": "/game_map_pin/1297050/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -3.1420898437500004,
+        -63.927717045495136
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1297795,
+        "externalId": "VPwBEmM3SW",
+        "title": "露卡在世嘉高科技乐园",
+        "description": "需求：\n\n暗中的房地产经纪人\n\n奖励：\n\n- 警觉头罩\n- 超级摩托车（高分）\n- 世嘉高科技乐园\n- +1 干陀罗 视频（满友好度条）\n\n注意：\n\n- 在街机上玩《Out Run》，琉花一定会注意到。继续与她聊天并玩游戏以推进支线故事\n- 一旦你在第5章：诚实谋生中建立了房地产事业，返回这家店铺，琉花将会赠送你这处房产，前提是你已经将她的友好度条拉满",
+        "imagePath": "/game_map_pin/1297795/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -49.80011148162981,
+        -74.59018382500301
+      ],
+      "properties": {
+        "externalId": "lshatzH58H",
+        "title": "誓约束缚",
+        "description": "|解锁条件|\n| :-----------: |\n|暗中的房地产经纪人|\n\n奖励：\n\n- ¥1,000,000\n- 巅峰之战：试炼场 - 第一场",
+        "subcategoryExternalId": "nVCKxnFqj6",
+        "imageId": 1632318,
+        "imagePath": "/game_map_pin/1632318/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        36.064230458400985,
+        -21.230484766041958
+      ],
+      "properties": {
+        "subcategoryExternalId": "Wohk99NbnJ",
+        "imageId": 1289063,
+        "externalId": "rs3CyFAG3M",
+        "title": "女主角卡拉OK吧",
+        "description": "奖励：\n\n+1 Gandhara 视频\n\n注意：\n\n- 使用卡拉OK机一次。但是，不是桐生唱歌，而是酒吧的女士会表演",
+        "imagePath": "/game_map_pin/1289063/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        65.47131945104559,
+        -65.72556006355296
+      ],
+      "properties": {
+        "externalId": "WueC0JGT1P",
+        "title": "捕食者的呼唤",
+        "description": "要求：\n\n诚实的生活\n\n注意：\n\n- 在TelTel Boys Club小游戏中与玛利亚配对将触发此支线任务\n- 如果与玛利亚配对，你会受到伤害",
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1652596,
+        "imagePath": "/game_map_pin/1652596/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        65.4713194510125,
+        -66.03659687493175
+      ],
+      "properties": {
+        "externalId": "rVXD2asEN9",
+        "title": "调情钩搭",
+        "description": "要求：\n\n诚实谋生\n\n奖励：\n\n- 可以邀请春树去卡拉OK或迪斯科\n- +1 甘达拉 视频\n\n正确选择：\n\n\"与远处的女人交谈\"\n\n注意：\n\n- 在 TelTel Boys Club 小游戏中与春树配对将触发此支线故事",
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1652599,
+        "imagePath": "/game_map_pin/1652599/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -58.04609649621526,
+        -55.37699503731176
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1635770,
+        "externalId": "uv5Rx2Amlg",
+        "title": "美穗，便利店店员",
+        "description": "要求：\n\n暗中的房地产经纪人\n\n奖励：\n\n- 狂战士护符\n- 味噌炸猪排便当套餐\n- +1 Gandhara 视频（满友好度条）\n- Poppo 天下一街\n\n正确选择：\n\n- \"包裹配送服务\"\n- \"味噌炸猪排\"\n\n注意：\n\n- 持续购买直到你与她成为朋友。\n- 一旦你在第5章：诚实的生活 中建立了房地产业务，回到这家店，Miho会赠送你这处房产，前提是你已经将她的友好度条拉满",
+        "imagePath": "/game_map_pin/1635770/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        65.45225844065865,
+        -66.26371525405145
+      ],
+      "properties": {
+        "externalId": "lsRMKa5I9D",
+        "title": "纯真邂逅",
+        "description": "要求：\n\n诚实的生活\n\n奖励：\n\n- 可以邀请力丸去卡拉OK或迪斯科\n- +1 犍陀罗 视频\n\n正确选择：\n\n\"和前面的女孩说话\"\n\n注意：\n\n- 在 TelTel Boys Club 小游戏中与力丸配对将触发此支线故事",
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1652609,
+        "imagePath": "/game_map_pin/1652609/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        65.39695603044146,
+        -66.53817753111164
+      ],
+      "properties": {
+        "externalId": "4gdk6CnpaW",
+        "title": "性感邂逅",
+        "description": "要求：\n\n诚实的生活\n\n奖励：\n\n- 可以邀请彩花去卡拉OK或迪斯科\n- +1 犍陀罗 视频\n\n正确选择：\n\n- \"靠近仔细观察\"\n- \"和远处的女人交谈\"\n\n注意：\n\n- 在 TelTel Boys Club 小游戏中与彩花配对将触发此支线故事",
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1652640,
+        "imagePath": "/game_map_pin/1652640/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        65.3967901240533,
+        -66.70550059617752
+      ],
+      "properties": {
+        "externalId": "O9jNwuSyzr",
+        "title": "樱花冲击",
+        "description": "需求条件：\n\n诚实的生活\n\n注意：\n\n- 在TelTel男孩俱乐部小游戏中与朝仓匹配将触发此支线故事",
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1652668,
+        "imagePath": "/game_map_pin/1652668/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        65.3967901240533,
+        -66.91836829626435
+      ],
+      "properties": {
+        "externalId": "svYj8Izj3I",
+        "title": "口头警告",
+        "description": "需求：\n\n诚实的生活\n\n注意：\n\n- 在TelTel Boys Club小游戏中与美玲配对会触发这个支线任务\n- 如果你与美玲配对会受到伤害",
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1652673,
+        "imagePath": "/game_map_pin/1652673/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        65.40093422827536,
+        -67.18006515076264
+      ],
+      "properties": {
+        "externalId": "iq5hdrrpr3",
+        "title": "母亲的抚触",
+        "description": "要求：\n\n诚实的生活\n\n注意：\n\n- 在TelTel男孩俱乐部小游戏中与小百合配对将触发此支线故事\n- 如果与小百合配对，你将受到伤害",
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1652677,
+        "imagePath": "/game_map_pin/1652677/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -57.92027501031334,
+        -56.833630625084005
+      ],
+      "properties": {
+        "subcategoryExternalId": "uzcj8AtBnd",
+        "externalId": "irWm8H9Ggo",
+        "title": "寿喜烧村中",
+        "description": "要求：\n\n诚实谋生\n\n价格：\n\n￥14,000,000\n\n注意：\n\n- 购买此场所是第5章\"诚实谋生\"中休闲王storyline的一部分",
+        "imageId": 1631036,
+        "imagePath": "/game_map_pin/1631036/{size}.webp",
+        "videoId": 1631037,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/f40a6fa9b561c386642e9f2d91344f9741a29640"
+      }
+    },
+    {
+      "coordinates": [
+        66.93058624376005,
+        -12.96378612028638
+      ],
+      "properties": {
+        "externalId": "2yZipxQRbc",
+        "title": "视频中的女孩",
+        "description": "要求：\n\n暗中的房地产经纪人\n\n奖励：\n\n- Video Boy\n- +1 甘陀罗 视频\n\n注意：\n\n- 在甘陀罗神室町观看三次色情视频来解锁这个支线故事\n- Video Boy可以在杉田大楼外面找到，在第5章诚实的生活房地产业务建立后可以招募为保安人员",
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1634433,
+        "imagePath": "/game_map_pin/1634433/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        37.407950458965914,
+        -30.20864297620993
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1296955,
+        "externalId": "RDOFMkHq1c",
+        "title": "如何训练你的女王",
+        "description": "要求：\n\n表演必须继续\n\n奖励：\n\n- 毛皮暖腹带\n- 受虐狂男子\n- +1 甘陀罗 视频\n\n正确选择：\n\n- \"谁允许你说话的，猪！？\"\n- \"我想被羞辱\"\n- \"我打赌你会喜欢的，你这个变态！\"\n- \"他们在看你被羞辱！\"\n\n注意：\n\n- 受虐狂男子可以在杉田大楼外面找到，在第5章诚实的生活期间建立房地产业务后可以招募为顾问",
+        "imagePath": "/game_map_pin/1296955/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        20.445106427168724,
+        -15.680538320590756
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "externalId": "2tzHhNvXuY",
+        "title": "密码保护",
+        "description": "|要求|解锁|\n| :-----------: | :-----------: |\n|暗中的房地产经纪人|神秘商人|\n\n奖励：\n\n- 破损的M1985\n- 李亮\n\n密码：\n\n- Subotenuhigeukiro\n\n注释：\n\n- 李亮可以在杉田大厦外找到，在第5章诚实的生活中建立房地产业务后，可以招募他作为保安人员",
+        "imageId": 1289730,
+        "imagePath": "/game_map_pin/1289730/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        74.60154338739098,
+        -23.644137889677538
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1634491,
+        "externalId": "E5R2Uhb16k",
+        "title": "临检专家",
+        "description": "要求：\n\n暗中的房地产经纪人\n\n奖励：\n\n- 牺牲石（满友谊度）\n- 警官菊池\n- +1 犍陀罗 视频（满友谊度）\n\n注意：\n\n- 尽可能与警官互动以提升他的友谊值。确保只给他非致命物品\n- 警官菊池可以在杉田大楼外找到，在第5章诚实生活期间建立房地产业务后，可以招募他作为保安人员",
+        "imagePath": "/game_map_pin/1634491/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -83.38456939739017,
+        37.41675475614029
+      ],
+      "properties": {
+        "externalId": "Z17jAmtovJ",
+        "title": "该死扬基",
+        "description": "要求：\n\n暗中的房地产经纪人\n\n奖励：\n\n- 狂野衬衫\n- 疯狂京\n\n正确选择：\n\n- \"发动引擎！\"\n- \"整天打架\"或\"拯救小狗\"\n- \"保持沉默\"\n\n注意：\n\n- 疯狂京可以在杉田大厦外面找到，在第5章诚实谋生期间建立房地产业务后可以招募为顾问",
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1632415,
+        "imagePath": "/game_map_pin/1632415/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        21.57019644859066,
+        24.541628751157514
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1289699,
+        "externalId": "xlJvZRhM19",
+        "title": "在所有地方的下方",
+        "description": "要求：\n\n暗中的房地产经纪人\n\n奖励：\n\n幸子\n\n正确选择：\n\n- \"这对我来说都是新的\"或\"多少钱？\"\n- \"上面\"或\"下面\"\n- \"你能承认你在卖你的内衣吗？\"\n\n注意：\n\n- 幸子可以在杉田大楼外面找到，在第5章诚实的生活期间建立房地产业务后，可以招募她作为经理",
+        "imagePath": "/game_map_pin/1289699/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        82.78671684167261,
+        42.963073964301174
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1289791,
+        "externalId": "sn65P5Fwwm",
+        "title": "蘑菇商人",
+        "description": "要求：\n\n暗中的房地产经纪人\n\n奖励：\n\n- 金针菇\n- 黑帮老大\n\n注意：\n\n- 购买北岛的蘑菇直到他的库存售完，然后进入并离开文森特来重置该区域。重复此过程以触发新的互动，直到你到达与黑帮老大的场景\n- 完成三次互动应该足以填满他的友好度条\n- 黑帮老大可以在杉田大楼外找到，一旦在第5章诚实谋生期间建立房地产业务，就可以招募他作为保安人员",
+        "imagePath": "/game_map_pin/1289791/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        2.4049165563486996,
+        -61.433277639415685
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1297715,
+        "externalId": "qejZaeYLDp",
+        "title": "涉水投资",
+        "description": "需求：\n\nAn Honest Living\n\n奖励：\n\n- 韧性 Z\n- Mew 鞋\n- +1 Gandhara 视频\n\n正确选择：\n\n- 反复拒绝女士的提议\n- \"四十多岁\"\n\n注意：\n\n- 此支线故事在房地产业务建立后可用",
+        "imagePath": "/game_map_pin/1297715/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -50.00144072169641,
+        -29.410267734616063
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "externalId": "2RmG1BZZLl",
+        "title": "马哈贾拉奇迹",
+        "description": "要求：\n\n天下一通奇迹\n\n奖励：\n\n- 遭遇探测器（黑盒）或 巡回T恤（白盒）\n- 奇迹\n\n注意：\n\n- 在第5章诚实的生活中建立房地产业务后，拜访Maharaja来推进这个支线故事\n- 完成这个支线故事后，奇迹将作为顾问加入\n- 遭遇探测器，顾名思义，帮助你在地图上定位战斗。这对于追踪恐吓先生特别有用",
+        "imageId": 1297712,
+        "imagePath": "/game_map_pin/1297712/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -23.44495578330833,
+        -34.39120350651455
+      ],
+      "properties": {
+        "subcategoryExternalId": "dcMthSD5b8",
+        "externalId": "mcWH5f4Sre",
+        "title": "娱乐游戏屋",
+        "description": "要求：\n\n休闲之王的挑战2\n\n价格：\n\n¥59,200,000\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大楼解锁电子之王的挑战1",
+        "imageId": 1653761,
+        "imagePath": "/game_map_pin/1653761/{size}.webp",
+        "videoId": 1653762,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/06b07f5f26fe760b5c344d558a55c8f66d819e07"
+      }
+    },
+    {
+      "coordinates": [
+        -17.858534930398964,
+        -35.133922706024926
+      ],
+      "properties": {
+        "subcategoryExternalId": "dcMthSD5b8",
+        "externalId": "WQDsWKSz6q",
+        "title": "正吉相机店",
+        "description": "要求：\n\n休闲之王的挑战2\n\n价格：\n\n¥62,400,000\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大厦以解锁电子之王的挑战1",
+        "imageId": 1631100,
+        "imagePath": "/game_map_pin/1631100/{size}.webp",
+        "videoId": 1631101,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/9c3db5f5c800efafe5e436655590f2842639e0b6"
+      }
+    },
+    {
+      "coordinates": [
+        -18.179057497847435,
+        -42.77244728555449
+      ],
+      "properties": {
+        "subcategoryExternalId": "dcMthSD5b8",
+        "externalId": "xijaWM7Z5Y",
+        "title": "北京中华料理店",
+        "description": "要求：\n\n休闲之王挑战2\n\n价格：\n\n¥41,600,000\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大厦解锁电子之王挑战1",
+        "imageId": 1631106,
+        "imagePath": "/game_map_pin/1631106/{size}.webp",
+        "videoId": 1631107,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/39e0746514acf6344a8ec5ec076b0590c262d86a"
+      }
+    },
+    {
+      "coordinates": [
+        -2.060348821772054,
+        -42.474391737714804
+      ],
+      "properties": {
+        "subcategoryExternalId": "dcMthSD5b8",
+        "externalId": "kHQW397ug9",
+        "title": "弹珠机夏威夷",
+        "description": "要求：\n\n休闲之王的挑战2\n\n价格：\n\n¥75,200,000\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大楼以解锁电子之王的挑战1",
+        "imageId": 1631336,
+        "imagePath": "/game_map_pin/1631336/{size}.webp",
+        "videoId": 1631337,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/0a6e090b063100fccfe9061cd8dc997afeb63030"
+      }
+    },
+    {
+      "coordinates": [
+        -19.194655539312222,
+        -52.013468967704334
+      ],
+      "properties": {
+        "subcategoryExternalId": "dcMthSD5b8",
+        "externalId": "lazUpjXtqB",
+        "title": "天宝寿司",
+        "description": "要求：\n\n休闲王的挑战 2\n\n奖励：\n\n海洋经典（钓鱼竿）\n\n价格：\n\n￥51,200,000\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大楼以解锁电子王的挑战 1",
+        "imageId": 1631113,
+        "imagePath": "/game_map_pin/1631113/{size}.webp",
+        "videoId": 1631114,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/d1f5f0eef581a92ffe921e791a8039c44962366b"
+      }
+    },
+    {
+      "coordinates": [
+        -3.7552654914143733,
+        -57.262793581364754
+      ],
+      "properties": {
+        "subcategoryExternalId": "dcMthSD5b8",
+        "externalId": "8Dug93weKH",
+        "title": "可爱兔子",
+        "description": "要求：\n\n休闲之王的挑战2\n\n价格：\n\n¥56,000,000\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大厦以解锁电子产品之王的挑战1",
+        "imageId": 1653772,
+        "imagePath": "/game_map_pin/1653772/{size}.webp",
+        "videoId": 1653773,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/76b56a8c93c40a69f53bd45fa0003b1723c48fba"
+      }
+    },
+    {
+      "coordinates": [
+        -20.422012040903073,
+        -63.830649510787204
+      ],
+      "properties": {
+        "subcategoryExternalId": "dcMthSD5b8",
+        "imageId": 1631123,
+        "externalId": "vJXfkRWP9v",
+        "title": "浅井大厦3号楼",
+        "description": "要求：\n\n休闲之王的挑战2\n\n价格：\n\n¥51,200,000\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大楼以解锁电子产品之王的挑战1",
+        "imagePath": "/game_map_pin/1631123/{size}.webp",
+        "videoId": 1631124,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/e8ac366c806619ac43e1646d9dca83c510059562"
+      }
+    },
+    {
+      "coordinates": [
+        -18.70461414704927,
+        -58.44690552056386
+      ],
+      "properties": {
+        "subcategoryExternalId": "dcMthSD5b8",
+        "externalId": "C9g4oS0B6G",
+        "title": "弹珠机777",
+        "description": "需求条件：\n\n休闲之王的挑战 2\n\n价格：\n\n￥78,400,000\n\n注意事项：\n\n- 在该地区达到60%的份额，然后返回杉田大楼来解锁电子产品之王的挑战 1",
+        "imageId": 1631117,
+        "imagePath": "/game_map_pin/1631117/{size}.webp",
+        "videoId": 1631118,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/c1ca286896587710153f58a264a2fe6bd94b33a7"
+      }
+    },
+    {
+      "coordinates": [
+        -2.6367187500000004,
+        -64.1297836764257
+      ],
+      "properties": {
+        "subcategoryExternalId": "dcMthSD5b8",
+        "externalId": "gUCx49MAzT",
+        "title": "世嘉高地中道",
+        "description": "要求：\n\n休闲王的挑战2\n\n价格：\n\n免费（琉花满友好度条）\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大楼解锁电子王的挑战1",
+        "imageId": 1631309,
+        "imagePath": "/game_map_pin/1631309/{size}.webp",
+        "videoId": 1631310,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/aeecd6e03e11303f301af475481a4d92b5862dc6"
+      }
+    },
+    {
+      "coordinates": [
+        -4.349642214258608,
+        -69.52712588156547
+      ],
+      "properties": {
+        "externalId": "oKUkA1Yjof",
+        "title": "哆来咪发区",
+        "description": "需求：\n\n休闲之王的挑战2\n\n价格：\n\n免费\n\n注意：\n\n- 解锁其他三个区域后会自动获得此物业",
+        "subcategoryExternalId": "dcMthSD5b8",
+        "imageId": 1653832,
+        "imagePath": "/game_map_pin/1653832/{size}.webp",
+        "videoId": 1653833,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/c8d71597fcdf3787e2a3c49e04449422ed051d17"
+      }
+    },
+    {
+      "coordinates": [
+        -32.10454791013956,
+        7.673445968072102
+      ],
+      "properties": {
+        "externalId": "ee1jBbdrDP",
+        "title": "神室荞麦面",
+        "description": "要求：\n\n娱乐王的挑战 2\n\n价格：\n\n免费\n\n注意：\n\n- 解锁其他三个区域后自动获得此物业",
+        "subcategoryExternalId": "SNbq8G911w",
+        "imageId": 1653927,
+        "imagePath": "/game_map_pin/1653927/{size}.webp",
+        "videoId": 1653928,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/b2668de79e515b93541955e8690983a11b0322aa"
+      }
+    },
+    {
+      "coordinates": [
+        50.70232436003556,
+        -57.2308058060914
+      ],
+      "properties": {
+        "externalId": "HnDd5OvmEz",
+        "title": "林建设公司",
+        "description": "要求：\n\n休闲王的挑战 2\n\n价格：\n\n免费\n\n注意：\n\n- 该物业在解锁其他三个区域后自动获得",
+        "subcategoryExternalId": "HbEMW4LePD",
+        "imageId": 1653931,
+        "imagePath": "/game_map_pin/1653931/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -81.51317360937577,
+        -24.121981737042844
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1298482,
+        "externalId": "S30Szn4cdI",
+        "title": "招聘启事！",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|休闲之王的挑战2|再次招聘启事！|\n\n注意：\n\n- 列出的问题对子故事没有任何影响，所以可以随便问\n- 退出并重新进入建筑物，然后与玛丽娜对话以触发下一个子故事",
+        "imagePath": "/game_map_pin/1298482/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -66.64881754031961,
+        -53.15620294006613
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1298496,
+        "externalId": "Og7w6KWQzt",
+        "title": "招聘启事！再次...",
+        "description": "|要求|解锁|\n| :-----------: | :-----------: |\n|Help Wanted!|First Imrpressions|\n\n正确选择：\n\n\"Summary\" 和 \"Signature Dishes\"\n\n注意：\n\n- 退出并重新进入建筑物，然后与Marina对话以触发下一个支线故事",
+        "imagePath": "/game_map_pin/1298496/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -66.09375000000001,
+        -53.10721669189339
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1298502,
+        "externalId": "tznnduX14Y",
+        "title": "第一印象",
+        "description": "要求：\n\n再次寻求帮助！\n\n奖励：\n\n越水\n\n正确选择：\n\n- \"法律学\"\n- \"爱好：外出就餐\"\n- \"他了解餐饮圈\"\n- \"告诉我们一个你敬佩的人\"",
+        "imagePath": "/game_map_pin/1298502/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        33.243032012909204,
+        -64.56935100971745
+      ],
+      "properties": {
+        "subcategoryExternalId": "HbEMW4LePD",
+        "externalId": "SfgVVz18Nv",
+        "title": "神室天下剧场",
+        "description": "要求：\n\n休闲王的挑战2\n\n价格：\n\n¥108,800,000\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大楼以解锁快乐王的挑战1",
+        "imageId": 1654000,
+        "imagePath": "/game_map_pin/1654000/{size}.webp",
+        "videoId": 1654001,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/52afa2a14bf5ab062f46aaa712d13f99714bb405"
+      }
+    },
+    {
+      "coordinates": [
+        34.30580795974303,
+        -56.97402599585971
+      ],
+      "properties": {
+        "subcategoryExternalId": "HbEMW4LePD",
+        "externalId": "mfpal6UZvL",
+        "title": "无内裤烧烤店",
+        "description": "要求：\n\n休闲王的挑战2\n\n价格：\n\n¥124,800,000\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大厦来解锁快乐王的挑战1",
+        "imageId": 1654004,
+        "imagePath": "/game_map_pin/1654004/{size}.webp",
+        "videoId": 1654005,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/9a835469d563f498dc1920ea8f415f2c3c79aab9"
+      }
+    },
+    {
+      "coordinates": [
+        44.68811899756097,
+        -54.427483968831915
+      ],
+      "properties": {
+        "subcategoryExternalId": "HbEMW4LePD",
+        "externalId": "ITeK4frJsO",
+        "title": "頓天山",
+        "description": "要求：\n\n闲王挑战2\n\n价格：\n\n¥96,000,000\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大厦以解锁快乐王挑战1",
+        "imageId": 1654008,
+        "imagePath": "/game_map_pin/1654008/{size}.webp",
+        "videoId": 1654009,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/f5c237902a7ad69db8e2fc3451beaa5de3f2ca1a"
+      }
+    },
+    {
+      "coordinates": [
+        65.50048828125001,
+        -64.3208715799033
+      ],
+      "properties": {
+        "subcategoryExternalId": "HbEMW4LePD",
+        "externalId": "kqZjYY3btp",
+        "title": "莫斯科西餐厅",
+        "description": "要求：\n\n娱乐之王的挑战 2\n\n价格：\n\n¥102,400,000\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大厦以解锁快乐之王的挑战 1",
+        "imageId": 1654032,
+        "imagePath": "/game_map_pin/1654032/{size}.webp",
+        "videoId": 1654033,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/65ec3aa6b880b84fa6e1b9e0cddb58dcaf4e354b"
+      }
+    },
+    {
+      "coordinates": [
+        33.02339888281698,
+        -69.41850295812918
+      ],
+      "properties": {
+        "subcategoryExternalId": "HbEMW4LePD",
+        "externalId": "n36svmunMI",
+        "title": "卡巴莱情人节",
+        "description": "要求：\n\n娱乐之王的挑战2\n\n价格：\n\n¥160,000,000\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大厦解锁快乐之王的挑战1",
+        "imageId": 1654012,
+        "imagePath": "/game_map_pin/1654012/{size}.webp",
+        "videoId": 1654013,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/b5ebf9a17902d71d691464516433d54b49f51291"
+      }
+    },
+    {
+      "coordinates": [
+        31.446066302507425,
+        -72.18278487772524
+      ],
+      "properties": {
+        "subcategoryExternalId": "HbEMW4LePD",
+        "imageId": 1654014,
+        "externalId": "jjC4yNzm86",
+        "title": "拉丁区",
+        "description": "要求：\n\n休闲之王的挑战2\n\n价格：\n\n¥89,600,000\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大厦解锁快乐之王的挑战1",
+        "imagePath": "/game_map_pin/1654014/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        40.84959828129034,
+        -71.56902753622866
+      ],
+      "properties": {
+        "subcategoryExternalId": "HbEMW4LePD",
+        "externalId": "yrpL5YoU14",
+        "title": "性骚扰警察",
+        "description": "要求：\n\n娱乐之王的挑战 2\n\n价格：\n\n¥102,400,000\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大厦以解锁快乐之王的挑战 1",
+        "imageId": 1654021,
+        "imagePath": "/game_map_pin/1654021/{size}.webp",
+        "videoId": 1654022,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/eb774041dbf86cd6c334e091bf0ba97665990078"
+      }
+    },
+    {
+      "coordinates": [
+        41.101997822183236,
+        -73.98637032173316
+      ],
+      "properties": {
+        "subcategoryExternalId": "HbEMW4LePD",
+        "externalId": "weYkWBPEvx",
+        "title": "阿拉伯唱片行",
+        "description": "要求：\n\n休闲王的挑战 2\n\n价格：\n\n¥156,800,000\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大厦解锁快乐王的挑战 1",
+        "imageId": 1654023,
+        "imagePath": "/game_map_pin/1654023/{size}.webp",
+        "videoId": 1654024,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/3e683bc80cc4dcced461b107a355380112629f9f"
+      }
+    },
+    {
+      "coordinates": [
+        70.17842493304568,
+        -71.60092051946977
+      ],
+      "properties": {
+        "subcategoryExternalId": "HbEMW4LePD",
+        "externalId": "ZSxPrAgNyU",
+        "title": "小金井艺术",
+        "description": "要求：\n\n娱乐之王的挑战2\n\n价格：\n\n¥115,200,000\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大厦以解锁快乐之王的挑战1",
+        "imageId": 1654025,
+        "imagePath": "/game_map_pin/1654025/{size}.webp",
+        "videoId": 1654026,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/1f6c77c98ec52afb4ee8e5632efabab30730ece6"
+      }
+    },
+    {
+      "coordinates": [
+        -66.74605897063952,
+        -52.50209035901068
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1299139,
+        "externalId": "acxej74mH8",
+        "title": "税务女士",
+        "description": "需求：\n\n电器之王的挑战2\n\n奖励：\n\n- 丸佐丸井\n- 麻烦发现者（在地图上显示可用的支线故事）\n\n正确选择：\n\n- \"有什么不对劲\"\n- \"它的存在\"\n- \"你的穿衣品味很棒\"\n- \"也许是房子？\"\n- \"看马古洛的手相\"\n\n注意：\n\n- 与办公室角落的架子互动以继续支线故事",
+        "imagePath": "/game_map_pin/1299139/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -16.65032659989791,
+        66.90110246755151
+      ],
+      "properties": {
+        "externalId": "0hbDI3iuWD",
+        "title": "",
+        "description": "要求：\n\n暗中的房地产经纪人\n\n注意：\n\n- 每次击败敲诈先生后，他都会变得更强\n- 可以使用遭遇探测器来追踪敲诈先生，该道具在完成支线任务真嶋真奇迹后获得\n\n*\"你刚刚很不幸地遇到了江头寛也，人们都叫他'敲诈先生'。\"* - 路人商人",
+        "subcategoryExternalId": "YN0Wvn7dtH",
+        "imageId": 1632395,
+        "imagePath": "/game_map_pin/1632395/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -16.936265619025505,
+        39.59689067591111
+      ],
+      "properties": {
+        "externalId": "LXshR2J08O",
+        "title": "",
+        "description": "要求：\n\n暗中的房地产经纪人\n\n注意：\n\n- 每次击败敲诈先生后，他都会变得更强\n- 可以使用遭遇探测器来追踪敲诈先生，该道具在完成支线任务真嶋真奇迹后获得\n\n*\"你刚刚很不幸地遇到了江头寛也，人们都叫他'敲诈先生'。\"* - 路人商人",
+        "subcategoryExternalId": "YN0Wvn7dtH",
+        "imageId": 1634938,
+        "imagePath": "/game_map_pin/1634938/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        13.28415573751218,
+        38.04398981968254
+      ],
+      "properties": {
+        "externalId": "vjXuQg9J4k",
+        "title": "",
+        "description": "要求：\n\n暗中的房地产经纪人\n\n注意：\n\n- 每次击败敲诈先生后，他都会变得更强\n- 可以使用遭遇探测器来追踪敲诈先生，该道具在完成支线任务真嶋真奇迹后获得\n\n*\"你刚刚很不幸地遇到了江头寛也，人们都叫他'敲诈先生'。\"* - 路人商人",
+        "subcategoryExternalId": "YN0Wvn7dtH",
+        "imageId": 1635775,
+        "imagePath": "/game_map_pin/1635775/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        93.63544774446643,
+        26.54212606382029
+      ],
+      "properties": {
+        "externalId": "ypmWN8UFIS",
+        "title": "",
+        "description": "要求：\n\n暗中的房地产经纪人\n\n注意：\n\n- 每次击败敲诈先生后，他都会变得更强\n- 可以使用遭遇探测器来追踪敲诈先生，该道具在完成支线任务真嶋真奇迹后获得\n\n*\"你刚刚很不幸地遇到了江头寛也，人们都叫他'敲诈先生'。\"* - 路人商人",
+        "subcategoryExternalId": "YN0Wvn7dtH",
+        "imageId": 1634508,
+        "imagePath": "/game_map_pin/1634508/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        3.2034346364191038,
+        -30.073937198345277
+      ],
+      "properties": {
+        "externalId": "jhePecFlEV",
+        "title": "",
+        "description": "要求：\n\n暗中的房地产经纪人\n\n注意：\n\n- 每次击败敲诈先生后，他都会变得更强\n- 可以使用遭遇探测器来追踪敲诈先生，该道具在完成支线任务真嶋真奇迹后获得\n\n*\"你刚刚很不幸地遇到了江头寛也，人们都叫他'敲诈先生'。\"* - 路人商人",
+        "subcategoryExternalId": "YN0Wvn7dtH",
+        "imageId": 1635888,
+        "imagePath": "/game_map_pin/1635888/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -51.08507110358417,
+        -54.524010303505364
+      ],
+      "properties": {
+        "externalId": "d9520vXioR",
+        "title": "",
+        "description": "要求：\n\n暗中的房地产经纪人\n\n注意：\n\n- 每次击败敲诈先生后，他都会变得更强\n- 可以使用遭遇探测器来追踪敲诈先生，该道具在完成支线任务真嶋真奇迹后获得\n\n*\"你刚刚很不幸地遇到了江头寛也，人们都叫他'敲诈先生'。\"* - 路人商人",
+        "subcategoryExternalId": "YN0Wvn7dtH",
+        "imageId": 1631407,
+        "imagePath": "/game_map_pin/1631407/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -47.443575408976926,
+        -8.309849953588186
+      ],
+      "properties": {
+        "subcategoryExternalId": "SNbq8G911w",
+        "externalId": "AUm88KNTA5",
+        "title": "柏青哥大明星",
+        "description": "要求：\n\n休闲王挑战2\n\n价格：\n\n¥326,400,000\n\n注意：\n\n- 在该区域达到60%份额并完成门外之谜支线任务，然后返回杉田大厦解锁赌王挑战1",
+        "imageId": 1654063,
+        "imagePath": "/game_map_pin/1654063/{size}.webp",
+        "videoId": 1654064,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/0772725b984f06337619a09113370429510b55a7"
+      }
+    },
+    {
+      "coordinates": [
+        -77.545700399266,
+        -10.7601593194439
+      ],
+      "properties": {
+        "subcategoryExternalId": "SNbq8G911w",
+        "externalId": "BCRvrXecgk",
+        "title": "弹珠机新宇宙",
+        "description": "要求：\n\n休闲之王的挑战 2\n\n价格：\n\n¥224,000,000\n\n注意：\n\n- 在该区域达到60%的份额并完成门外支线任务，然后返回杉田大厦以解锁赌博之王的挑战 1",
+        "imageId": 1654212,
+        "imagePath": "/game_map_pin/1654212/{size}.webp",
+        "videoId": 1654213,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/18e36c7e6e2b388433535d8ebb2c9bf6bdb09406"
+      }
+    },
+    {
+      "coordinates": [
+        -72.78067502869472,
+        -4.046377432088113
+      ],
+      "properties": {
+        "subcategoryExternalId": "SNbq8G911w",
+        "externalId": "K3YWxP6yCf",
+        "title": "吉布森大厅",
+        "description": "要求：\n\n娱乐之王的挑战2\n\n价格：\n\n¥307,200,000\n\n备注：\n\n- 在该区域达到60%的份额并完成门外支线故事，然后返回杉田大厦来解锁赌博之王的挑战1",
+        "imageId": 1654206,
+        "imagePath": "/game_map_pin/1654206/{size}.webp",
+        "videoId": 1654207,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/5911a0a010c4c0c0a1a719f630fe05a5678987cf"
+      }
+    },
+    {
+      "coordinates": [
+        -95.59178427793532,
+        -3.338647421517082
+      ],
+      "properties": {
+        "subcategoryExternalId": "SNbq8G911w",
+        "externalId": "qpw3L7lVdB",
+        "title": "马赫保龄球馆",
+        "description": "要求：\n\n休闲王的挑战 2\n\n价格：\n\n免费（绘美里满好感度）\n\n注意：\n\n- 在该地区达到60%份额并完成门外之景支线任务，然后返回杉田大厦以解锁赌王的挑战 1",
+        "imageId": 1654233,
+        "imagePath": "/game_map_pin/1654233/{size}.webp",
+        "videoId": 1654234,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/b67d9ed90759f113f51eaf31bddfce9e31ebc0e6"
+      }
+    },
+    {
+      "coordinates": [
+        -89.67868663235892,
+        11.534649616980046
+      ],
+      "properties": {
+        "subcategoryExternalId": "SNbq8G911w",
+        "externalId": "pncWntyeex",
+        "title": "东京流行馆",
+        "description": "要求：\n\n休闲之王的挑战 2\n\n价格：\n\n¥275,200,000\n\n注意：\n\n- 在该区域达到60%的份额并完成门外之境支线故事，然后返回杉田大楼解锁赌博之王的挑战 1",
+        "imageId": 1654218,
+        "imagePath": "/game_map_pin/1654218/{size}.webp",
+        "videoId": 1654219,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/0e81db9c5baa51d62d88d667aef75128e4c2a500"
+      }
+    },
+    {
+      "coordinates": [
+        -73.46815774239799,
+        17.963555582316015
+      ],
+      "properties": {
+        "subcategoryExternalId": "SNbq8G911w",
+        "externalId": "ZKQTsyU5dF",
+        "title": "神室拉斯卡拉电影院",
+        "description": "要求：\n\n休闲之王的挑战 2\n\n价格：\n\n¥275,200,000\n\n注意：\n\n- 在该区域达到60%的份额并完成门外之境支线故事，然后返回杉田大楼解锁赌博之王的挑战 1",
+        "imageId": 1654204,
+        "imagePath": "/game_map_pin/1654204/{size}.webp",
+        "videoId": 1654205,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/d0b8702ed57e46687e1486892f40671b84298939"
+      }
+    },
+    {
+      "coordinates": [
+        -43.56037324510443,
+        32.97458437596244
+      ],
+      "properties": {
+        "subcategoryExternalId": "SNbq8G911w",
+        "externalId": "vOMU9Zk6DO",
+        "title": "三和娱乐厅",
+        "description": "要求：\n\n休闲之王的挑战 2\n\n价格：\n\n¥268,800,000\n\n注意：\n\n- 在该区域达到60%的份额并完成门外之事支线任务，然后返回杉田大厦解锁赌博之王的挑战 1",
+        "imageId": 1654198,
+        "imagePath": "/game_map_pin/1654198/{size}.webp",
+        "videoId": 1654199,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/873b2054db9d35aaa67ed2cc28cd1e4b63a32a9d"
+      }
+    },
+    {
+      "coordinates": [
+        -32.313018735453106,
+        26.224777921857903
+      ],
+      "properties": {
+        "subcategoryExternalId": "SNbq8G911w",
+        "externalId": "AY9ubu8or6",
+        "title": "纽约热狗",
+        "description": "要求：\n\n休闲王的挑战 2\n\n价格：\n\n¥204,800,000\n\n注意：\n\n- 在该区域达到60%的份额并完成门后支线任务，然后返回杉田大楼以解锁赌王的挑战 1",
+        "imageId": 1654073,
+        "imagePath": "/game_map_pin/1654073/{size}.webp",
+        "videoId": 1654074,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/5357ced98843652ef34d92a7ad39ecd9298e1a9e"
+      }
+    },
+    {
+      "coordinates": [
+        -89.77775996690359,
+        31.34879865044342
+      ],
+      "properties": {
+        "subcategoryExternalId": "SNbq8G911w",
+        "externalId": "JZDADcBSUt",
+        "title": "新蒙马特",
+        "description": "需求：\n\n休闲之王的挑战2\n\n价格：\n\n¥262,400,000\n\n注意：\n\n- 在该区域达到60%的份额并完成门后支线任务，然后返回杉田大楼以解锁赌博之王的挑战1",
+        "imageId": 1654224,
+        "imagePath": "/game_map_pin/1654224/{size}.webp",
+        "videoId": 1654225,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/fb73a6a08ee0f8b066c435e66b77a6fd637c0256"
+      }
+    },
+    {
+      "coordinates": [
+        -94.48242187500001,
+        -3.8204080831949407
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1297762,
+        "externalId": "vOQ0NPW5MK",
+        "title": "絵美里，马赫保龄球馆接待员",
+        "description": "要求：\n\n- 暗影中的房地产经纪人\n- 休闲之王的挑战2\n\n奖励：\n\n- 金块（满友好度条）\n- 马赫保龄球\n- +1 犍陀罗 视频（满友好度条）\n\n注意：\n\n- 无论你是挑战惠美里还是单独游戏，胜负如何，保龄球都会增加她的友好度\n- 连续投出三次全中（火鸡球）可以让惠美里的友好度达到最大值\n- 这个支线任务可以在第2章开始触发；但是，只有在第5章完成休闲之王的故事线后才能完成",
+        "imagePath": "/game_map_pin/1297762/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -95.0756835937501,
+        48.951366470947704
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1296888,
+        "externalId": "PJPNSuwhdy",
+        "title": "爱的礼物",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|爱情的崎岖路|变态的怀疑|\n\n奖励：\n\n- DRAG-ON (汽车)\n- 提升齿轮\n\n推荐零件：\n\n- 软胎Plus\n- 平衡车架Plus\n- 高扭矩马达 2.0\n- 平衡齿轮Plus\n- 高容量电池\n\n注意：\n\n- 与英树君赛车获胜后与美香酱对话。赢得比赛，她会给你对她很重要的东西。\n- 击败她后，走出去再重新进入口袋中心以继续悟君支线故事。",
+        "imagePath": "/game_map_pin/1296888/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -34.31134106669281,
+        -52.1611075968944
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "externalId": "YnPCfDR90C",
+        "title": "收缩包装的梦想",
+        "description": "要求：\n\n极道之路\n\n注意：\n\n- 与小孩对话触发此支线故事",
+        "imageId": 1655391,
+        "imagePath": "/game_map_pin/1655391/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -42.351348035311666,
+        69.96929066455147
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "externalId": "KmuSNY0Jmj",
+        "title": "金主爸爸",
+        "description": "要求：\n\n极道之路\n\n奖励：\n\n- 儿童女神护身符\n- +1 犍陀罗 视频\n\n正确选择：\n\n- \"你有室友吗？\"\n- \"你父亲不在身边？\"",
+        "imageId": 1297729,
+        "imagePath": "/game_map_pin/1297729/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -29.794921875,
+        20.550508894195644
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1297663,
+        "externalId": "GEnBX6dD1S",
+        "title": "门外之地",
+        "description": "|要求|解锁|\n| :-----------: | :-----------: |\n|极道之路|赌王的挑战 1|\n\n奖励：\n\n撒钱能力\n\n注意：\n\n- 这个支线故事是主线剧情进展的一部分\n- 使用\"撒钱\"能力来通过邋遢流浪汉的测试",
+        "imagePath": "/game_map_pin/1297663/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        24.276593627062393,
+        10.242051228980209
+      ],
+      "properties": {
+        "subcategoryExternalId": "3jTcZpc7M7",
+        "externalId": "JuKzzC2qeF",
+        "title": "龙虎神室町",
+        "description": "要求：\n\n- 诚实谋生\n- 飞虎的训练\n\n注意：\n\n- 以真岛身份完成飞虎的训练序列以解锁对该商店的访问权限\n\n龙虎神室町是一家不仅经营餐食，也经营武器的餐厅。",
+        "imageId": 1296929,
+        "imagePath": "/game_map_pin/1296929/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        69.71935164689911,
+        44.02425256136635
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "externalId": "m3Pw2E2sZB",
+        "title": "神室町的大富豪",
+        "description": "要求：\n\n极道之路\n\n奖励：\n\n- 投资基金\n- 投资基金金额无上限（最大友好度）\n\n注意：\n\n- 金钱袋先生的基金可以让主角之间转移金钱，但需要支付手续费\n- 真岛必须接收投资的钱才能提升金钱袋先生的友好度计量表。这是主角之间的共同努力，所以确保你在苍天堀与金钱袋互动以继续提升计量表",
+        "imageId": 1297696,
+        "imagePath": "/game_map_pin/1297696/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -51.17333242698048,
+        67.10946272868122
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m11WH86fY",
+        "externalId": "ICyov8vSsI",
+        "title": "白色酒店",
+        "description": "需求：\n\n- 电子王挑战2\n- 娱乐王挑战2\n- 赌博王挑战2\n\n价格：\n\n¥921,600,000\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大楼解锁媒体王挑战1",
+        "imageId": 1655571,
+        "imagePath": "/game_map_pin/1655571/{size}.webp",
+        "videoId": 1655572,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/58db8af6c91840a382fd8f4a2964df170d48a989"
+      }
+    },
+    {
+      "coordinates": [
+        22.154081644106288,
+        -35.61633299666198
+      ],
+      "properties": {
+        "subcategoryExternalId": "gg5JVHJJ6e",
+        "externalId": "szdrRjdD0N",
+        "title": "赤牛丸太平大道",
+        "description": "拿起你的碗，开始行动吧！",
+        "imageId": 1655574,
+        "imagePath": "/game_map_pin/1655574/{size}.webp",
+        "videoId": 1655575,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/6b808cbcf40e6c9910fe1d398bcc47c3525cf7a1"
+      }
+    },
+    {
+      "coordinates": [
+        45.991135100978184,
+        -73.48440449585236
+      ],
+      "properties": {
+        "subcategoryExternalId": "gg5JVHJJ6e",
+        "externalId": "RcWWYdeKsI",
+        "title": "リンガーハット",
+        "description": "如果您饿了请进来！",
+        "imageId": 1655576,
+        "imagePath": "/game_map_pin/1655576/{size}.webp",
+        "videoId": 1655577,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/1210eb411e6a9505267e9d343cb8e595a164207b"
+      }
+    },
+    {
+      "coordinates": [
+        56.13601001544045,
+        33.232319988346376
+      ],
+      "properties": {
+        "subcategoryExternalId": "gg5JVHJJ6e",
+        "externalId": "QIHJN85N7q",
+        "title": "韩来",
+        "description": "*警告*：过度的滋滋声可能会引起强烈的食欲！",
+        "imageId": 1655582,
+        "imagePath": "/game_map_pin/1655582/{size}.webp",
+        "videoId": 1655583,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/3b851c8d667fb072facba4018d60a5462042f1df"
+      }
+    },
+    {
+      "coordinates": [
+        -21.77784863235462,
+        46.37570708951108
+      ],
+      "properties": {
+        "externalId": "9G5el91PYb",
+        "title": "常盤餐厅",
+        "description": "要求：\n\n- 电器王的挑战 2\n- 快乐王的挑战 2\n- 赌博王的挑战 2\n\n价格：\n\n免费\n\n注意：\n\n- 解锁媒体王区域后会自动获得此物业",
+        "subcategoryExternalId": "5m11WH86fY",
+        "imageId": 1656585,
+        "imagePath": "/game_map_pin/1656585/{size}.webp",
+        "videoId": 1656586,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/dde9cb0785991b056270ffe26485d5112f4a5012"
+      }
+    },
+    {
+      "coordinates": [
+        -96.93775070629262,
+        47.84865366723753
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1634614,
+        "externalId": "sTjR6M8f0V",
+        "title": "袖珍赛道战士！",
+        "description": "|要求|解锁|\n| :-----------: | :-----------: |\n|暗中的房地产经纪人|我是和真君|\n\n奖励：\n\n- 魔像老虎（袖珍赛车）及配件\n- 恶魔杀手（最大友好度）\n- 袖珍赛车体育场（最大友好度）\n\n注意：\n\n- 此支线任务只能在白天触发\n- 参加袖珍赛车比赛以增加友好度",
+        "imagePath": "/game_map_pin/1634614/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -94.81607237749064,
+        44.51797571214516
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m11WH86fY",
+        "imageId": 1634650,
+        "externalId": "BAfVAG2yNo",
+        "title": "口袋赛道体育场",
+        "description": "要求：\n\n- 电子王的挑战 2\n- 快乐王的挑战 2\n- 赌博王的挑战 2\n\n价格：\n\n免费（口袋赛车战士最大友好度）\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大楼以解锁媒体王的挑战 1",
+        "imagePath": "/game_map_pin/1634650/{size}.webp",
+        "videoId": 1634651,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/2bb4886d15efefa4c7d34e621cc5307c3693405f"
+      }
+    },
+    {
+      "coordinates": [
+        -95.93382447511338,
+        48.31461269862099
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1292690,
+        "externalId": "PLjZEZjOYf",
+        "title": "我是一真君",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|口袋赛车斗士！|爱情的坎坷之路|\n\n奖励：\n\n蓝色闪电（贴纸）\n\n推荐配件：\n\n- 光滑轮胎\n- 平衡车架\n- 高扭矩马达2.0\n- 平衡齿轮\n- 高速电池\n\n注意：\n\n- 当你与口袋赛车斗士的好感度达到大约40%时，离开赛车场，然后重新进入以触发此支线故事\n- 大部分配件可以从口袋赛车场内的商店购买。每次赢得比赛后，库存都会更新新物品。",
+        "imagePath": "/game_map_pin/1292690/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -88.7437751348118,
+        46.93259976559458
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1634692,
+        "externalId": "ZJHNFKf0Rl",
+        "title": "恋爱的坎坷路",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|我是和真君|爱的礼物|\n\n推荐配件：\n\n- 纤细轮胎Plus\n- 平衡车架\n- 高扭矩马达2.0\n- 平衡齿轮Plus\n- 高速电池\n\n注意：\n\n- 大部分配件可以从袖珍赛车场内的商店购买。每次赢得比赛后，库存都会更新新物品。",
+        "imagePath": "/game_map_pin/1634692/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -96.65771484375001,
+        48.76343113791796
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1296893,
+        "externalId": "GlY3jofnVn",
+        "title": "变态嫌疑",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|爱的礼物|天才赛车手|\n\n推荐配件：\n\n- 额外钉刺轮胎\n- 额外平衡车架\n- 高扭矩马达 2.0\n- 加速齿轮\n- 高速电池\n\n注意：\n\n- 击败美香酱后，走到外面，再次前往袖珍赛车场，四处走动以遇到悟郎君，一个在袖珍赛车场体育馆内的神秘家伙",
+        "imagePath": "/game_map_pin/1296893/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -96.72994883703495,
+        49.378422221810666
+      ],
+      "properties": {
+        "externalId": "KsFmQk7M4g",
+        "title": "天才赛车手",
+        "description": "|要求|解锁|\n| :-----------: | :-----------: |\n|变态的嫌疑|她们称之为教授的女人|\n\n奖励：\n\n阳光（贴花）\n\n推荐配件：\n\n- 超软轮胎\n- 超平衡车架\n- 大扭矩马达2.0\n- 神速齿轮增强版\n- 高速电池\n\n注意：\n\n- 完成上一个支线故事后，离开体育场并重新进入以触发此任务。警告：这个孩子是精英赛车手，所以确保你的口袋赛道车有适当的升级配件\n- 大部分配件可以从口袋赛道体育场内的商店购买。每次赢得比赛后库存都会更新新物品。",
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1634834,
+        "imagePath": "/game_map_pin/1634834/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        93.6429027331797,
+        -6.1341251671012165
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1297741,
+        "externalId": "9aCdTpxNdw",
+        "title": "她们称之为教授的女人",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|天才赛车手|至上荣耀|\n\n奖励：\n\n- 酷炫前锋（赛车）\n- 重型悬挂\n\n推荐配件：\n\n- 超级尖刺轮胎\n- 超级平衡车架\n- 高扭矩马达 2.0\n- 神速齿轮加强版\n- 高速电池\n- 保险杠护板\n\n注意：\n\n- 如果你触发了口袋赛车斗士的第二个过场动画，你需要先完成那个阶段，教授才会在这里出现",
+        "imagePath": "/game_map_pin/1297741/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -95.01149612470806,
+        48.18553788811651
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1297744,
+        "externalId": "X3htwrx9Li",
+        "title": "最大的荣耀",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|他们称为教授的女人| 斗士之冠 |\n\n奖励：\n\n深紫色（贴花）\n\n推荐部件：\n\n- 超薄轮胎\n- 超金属车架\n- 神速马达\n- 额外神速齿轮\n- 高容量电池\n- 重型悬挂\n- 保险杠板\n\n注意：\n\n- 大部分部件可以从口袋赛车场内的商店购买。每次赢得比赛后，库存都会更新新物品。",
+        "imagePath": "/game_map_pin/1297744/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -95.888671875,
+        49.03786794532644
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "externalId": "Dakd8D7vUx",
+        "title": "格斗家的王冠",
+        "description": "|要求|\n| :-----------: |\n|最伟大的故事|\n\n推荐零件：\n\n- 超级尖刺轮胎\n- 超级金属车架\n- 神速马达\n- 超级助推齿轮\n- 大容量电池\n- 重型悬挂\n- 缓冲板\n\n注意：\n\n- 完成所有比赛以最大化友情值并解锁此支线故事\n- 大部分零件可以从袖珍赛车场内的商店购买。每次赢得比赛后，库存都会更新新物品。",
+        "imageId": 1297749,
+        "imagePath": "/game_map_pin/1297749/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -42.386602392372794,
+        67.285586143391
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m11WH86fY",
+        "externalId": "gvVz6vKBWg",
+        "title": "钻石皇宫酒店",
+        "description": "要求：\n\n- 电子王挑战 2\n- 娱乐王挑战 2\n- 赌博王挑战 2\n\n价格：\n\n¥998,400,000\n\n注意：\n\n- 在该区域达到60%的份额后，返回杉田大厦解锁媒体王挑战 1",
+        "imageId": 1656579,
+        "imagePath": "/game_map_pin/1656579/{size}.webp",
+        "videoId": 1656580,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/e2d5ca8a4baa336b5e6b400f1b23b665305d6793"
+      }
+    },
+    {
+      "coordinates": [
+        -22.488124015801713,
+        63.84264608229818
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m11WH86fY",
+        "externalId": "NZfSOUpfFq",
+        "title": "人鱼酒店",
+        "description": "需求：\n\n- 电子王挑战2\n- 娱乐王挑战2\n- 赌博王挑战2\n\n价格：\n\n¥921,600,000\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大楼解锁媒体王挑战1",
+        "imageId": 1656581,
+        "imagePath": "/game_map_pin/1656581/{size}.webp",
+        "videoId": 1656582,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/1c19a7220ba130187046be03ef2c2de0403c0e41"
+      }
+    },
+    {
+      "coordinates": [
+        30.8935546875,
+        34.75966612466247
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m11WH86fY",
+        "externalId": "BX9Hcy8iJf",
+        "title": "テレクラリンリン坊",
+        "description": "需求：\n\n- 电子王挑战2\n- 娱乐王挑战2\n- 赌博王挑战2\n\n价格：\n\n¥921,600,000\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大楼解锁媒体王挑战1",
+        "imageId": 1656587,
+        "imagePath": "/game_map_pin/1656587/{size}.webp",
+        "videoId": 1656588,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/b3e68d5164d94e2a8a6ef6f228515844e1e036a8"
+      }
+    },
+    {
+      "coordinates": [
+        40.64662579096854,
+        30.170168863177768
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m11WH86fY",
+        "externalId": "Rr6qXSjkuE",
+        "title": "迪斯科城市男孩",
+        "description": "要求：\n\n- 电器王挑战 2\n- 娱乐王挑战 2\n- 赌博王挑战 2\n\n价格：\n\n¥1,228,800,000\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大楼解锁传媒王挑战 1",
+        "imageId": 1656589,
+        "imagePath": "/game_map_pin/1656589/{size}.webp",
+        "videoId": 1656590,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/2d3d6dd69f6bba465c1ef7e44737cb706bf20c43"
+      }
+    },
+    {
+      "coordinates": [
+        54.05703749284078,
+        45.94660752420748
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m11WH86fY",
+        "externalId": "i8QSxlP3DX",
+        "title": "蓝光酒店",
+        "description": "要求：\n\n- 电子王挑战 2\n- 娱乐王挑战 2\n- 赌博王挑战 2\n\n价格：\n\n¥998,400,000\n\n注意：\n\n- 在该区域达到60%的份额后，返回杉田大厦解锁媒体王挑战 1",
+        "imageId": 1656594,
+        "imagePath": "/game_map_pin/1656594/{size}.webp",
+        "videoId": 1656595,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/4b32aedd31dd1ac339740c24802ba67a25e226e1"
+      }
+    },
+    {
+      "coordinates": [
+        37.41943359375001,
+        48.23930899024907
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m11WH86fY",
+        "imageId": 1656600,
+        "externalId": "YC8k2LMEUB",
+        "title": "神室温泉",
+        "description": "要求：\n\n- 电子王挑战2\n- 娱乐王挑战2\n- 赌博王挑战2\n\n价格：\n\n¥972,800,000\n\n注意：\n\n- 在该区域达到60%份额后，返回杉田大楼以解锁媒体王挑战1",
+        "imagePath": "/game_map_pin/1656600/{size}.webp",
+        "videoId": 1656601,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/61616322bc3410f7fd042460c2c37001f2bf7914"
+      }
+    },
+    {
+      "coordinates": [
+        80.18923151471513,
+        42.471452489347314
+      ],
+      "properties": {
+        "subcategoryExternalId": "5m11WH86fY",
+        "externalId": "lUvNjVZMk6",
+        "title": "弦月剧场",
+        "description": "要求：\n\n- 电器王的挑战 2\n- 娱乐王的挑战 2\n- 赌博王的挑战 2\n\n价格：\n\n¥793,600,000\n\n说明：\n\n- 达到该区域60%的份额后，返回杉田大厦以解锁媒体王的挑战 1",
+        "imageId": 1656603,
+        "imagePath": "/game_map_pin/1656603/{size}.webp",
+        "videoId": 1656604,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/a3e05e8734d7f0f49d0f005b7f0379002456f564"
+      }
+    },
+    {
+      "coordinates": [
+        0.17578125000000003,
+        -25.403584973186625
+      ],
+      "properties": {
+        "subcategoryExternalId": "m7mO3uHWWu",
+        "externalId": "18u3yd6yhL",
+        "title": "太平大道存档点",
+        "description": "每个英雄都需要一个存档点——在这里保存你的进度！",
+        "imageId": 1656650,
+        "imagePath": "/game_map_pin/1656650/{size}.webp",
+        "videoId": 1656651,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/58d71fbf2d5c84180cd74b7137ff5f42b06531ad"
+      }
+    },
+    {
+      "coordinates": [
+        65.30234574405885,
+        -39.28331609030368
+      ],
+      "properties": {
+        "subcategoryExternalId": "m7mO3uHWWu",
+        "imageId": 1656652,
+        "externalId": "98NKQMDJHF",
+        "title": "粉红小巷存档点",
+        "description": "存档点和堂岛本部任务起始点",
+        "imagePath": "/game_map_pin/1656652/{size}.webp",
+        "videoId": 1656653,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/45f0f4d773a2413c7bcf38cdf8517a5ddfbfb5c3"
+      }
+    },
+    {
+      "coordinates": [
+        32.11676473890046,
+        -75.38564250479806
+      ],
+      "properties": {
+        "subcategoryExternalId": "m7mO3uHWWu",
+        "imageId": 1656656,
+        "externalId": "I2q4M2NjIS",
+        "title": "昭和街储蓄点",
+        "description": "每个英雄都需要一个存档点——在这里保存你的进度！",
+        "imagePath": "/game_map_pin/1656656/{size}.webp",
+        "videoId": 1656657,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/8feeba6095efbf2762aee8c2b902117d6f4274e7"
+      }
+    },
+    {
+      "coordinates": [
+        -41.06689453125,
+        59.98799763121218
+      ],
+      "properties": {
+        "subcategoryExternalId": "m7mO3uHWWu",
+        "externalId": "PJShhSNP43",
+        "title": "旅馆区存档点",
+        "description": "每个英雄都需要一个存档点——在这里保存你的进度！",
+        "imageId": 1656666,
+        "imagePath": "/game_map_pin/1656666/{size}.webp",
+        "videoId": 1656667,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/3a49b45ab3e5313c081b8314182ea87d53cd7cce"
+      }
+    },
+    {
+      "coordinates": [
+        -99.73650440126,
+        41.762873792994505
+      ],
+      "properties": {
+        "subcategoryExternalId": "m7mO3uHWWu",
+        "externalId": "6mVRnjGwZ3",
+        "title": "新四福街存档点",
+        "description": "每个英雄都需要一个存档点——在这里保存你的进度！",
+        "imageId": 1656671,
+        "imagePath": "/game_map_pin/1656671/{size}.webp",
+        "videoId": 1656672,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/4496f3c313f0c96164b22f684aa654ef934900dd"
+      }
+    },
+    {
+      "coordinates": [
+        -105.47286009186018,
+        -6.680389008321441
+      ],
+      "properties": {
+        "subcategoryExternalId": "m7mO3uHWWu",
+        "externalId": "SLF2iVooJj",
+        "title": "剧场广场小巷存档点",
+        "description": "每个英雄都需要一个存档点——在这里保存你的进度！",
+        "imageId": 1656673,
+        "imagePath": "/game_map_pin/1656673/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        35.25515084278829,
+        -43.81878224844657
+      ],
+      "properties": {
+        "subcategoryExternalId": "3jTcZpc7M7",
+        "externalId": "WctTEcYfdK",
+        "title": "寿药店",
+        "description": "在这里购买从最便宜到最昂贵的药水！",
+        "imageId": 1656684,
+        "imagePath": "/game_map_pin/1656684/{size}.webp",
+        "videoId": 1656685,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/90ba4065c68e758fc3047de78e3959c9330866d7"
+      }
+    },
+    {
+      "coordinates": [
+        30.107197366399223,
+        -73.89947374460806
+      ],
+      "properties": {
+        "subcategoryExternalId": "3jTcZpc7M7",
+        "externalId": "06qNVG5p7f",
+        "title": "ポッポ昭和通り",
+        "description": "用餐并阅读一些杂志。",
+        "imageId": 1656686,
+        "imagePath": "/game_map_pin/1656686/{size}.webp",
+        "videoId": 1656687,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/64666ccb451a2c7395f8b77a6af4caee3b225196"
+      }
+    },
+    {
+      "coordinates": [
+        -57.9868119476048,
+        -53.37584019170108
+      ],
+      "properties": {
+        "subcategoryExternalId": "3jTcZpc7M7",
+        "imageId": 1656690,
+        "externalId": "F37jJhCieC",
+        "title": "波波天下一街",
+        "description": "您日常必需品的便捷站点！",
+        "imagePath": "/game_map_pin/1656690/{size}.webp",
+        "videoId": 1656691,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/afeffa2ca7acd89b4913c868437e42e5235155b5"
+      }
+    },
+    {
+      "coordinates": [
+        9.130018854556019,
+        -69.16919797415349
+      ],
+      "properties": {
+        "subcategoryExternalId": "7HktXa33Zv",
+        "imageId": 1656702,
+        "externalId": "bxEaQyn6Gv",
+        "title": "惠比寿当铺神室町",
+        "description": "显著商品：\n\n杀手蜂（袖珍赛道车身）\n\n注意：\n\n- 如果您购买杀手蜂，还可以免费获得一个保险杠板\n\n为所有人提供买卖服务",
+        "imagePath": "/game_map_pin/1656702/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -95.26725630451719,
+        -4.407906358703283
+      ],
+      "properties": {
+        "subcategoryExternalId": "Wohk99NbnJ",
+        "imageId": 1656721,
+        "externalId": "tLlvYrBdpp",
+        "title": "马赫保龄球馆",
+        "description": "走向保龄球道下注吧——无论你是单独游玩还是挑战员工！如果你选择\"挑战员工\"，你可能会结交新朋友，谁知道呢，甚至可能会管理这个地方。",
+        "imagePath": "/game_map_pin/1656721/{size}.webp",
+        "videoId": 1656722,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/08cc384ef09221e6ac8c761bc365b344d90513aa"
+      }
+    },
+    {
+      "coordinates": [
+        -50.3597369490916,
+        26.347048314211193
+      ],
+      "properties": {
+        "subcategoryExternalId": "Wohk99NbnJ",
+        "externalId": "gJIXoRHZoh",
+        "title": "世嘉高科技乐园剧院广场",
+        "description": "世嘉街机：让你的拇指得到锻炼！",
+        "imageId": 1656727,
+        "imagePath": "/game_map_pin/1656727/{size}.webp",
+        "videoId": 1656728,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/ec3729853bb299c1d47905a12a20eed602735eb5"
+      }
+    },
+    {
+      "coordinates": [
+        -33.13476562500001,
+        21.063997063245978
+      ],
+      "properties": {
+        "subcategoryExternalId": "Wohk99NbnJ",
+        "externalId": "Hg7c77W2Qv",
+        "title": "猫斗俱乐部",
+        "description": "要求：\n\n- 极道之路\n- 门外之境\n\n你将在美女们的史诗级格斗中下注，她们唯一需要的武器就是智慧和石头剪刀布！规则很简单：当美女们对战时，你需要在石头、剪刀、布中做出选择，并祈祷你的选择不会被击败",
+        "imageId": 1656729,
+        "imagePath": "/game_map_pin/1656729/{size}.webp",
+        "videoId": 1656730,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/f842a81ba4fd7f23f46640fb05ef12f231473c99"
+      }
+    },
+    {
+      "coordinates": [
+        -35.40146565331261,
+        55.512057519046444
+      ],
+      "properties": {
+        "subcategoryExternalId": "Wohk99NbnJ",
+        "imageId": 1656733,
+        "externalId": "PKdp8bJD5b",
+        "title": "吉田棒球练习场",
+        "description": "每一次挥棒都像本垒打一样！",
+        "imagePath": "/game_map_pin/1656733/{size}.webp",
+        "videoId": 1656734,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/084976b7878a74fd753a99160e2a147ac2e6b231"
+      }
+    },
+    {
+      "coordinates": [
+        -10.33510414729593,
+        43.55262395980286
+      ],
+      "properties": {
+        "subcategoryExternalId": "Wohk99NbnJ",
+        "externalId": "V8zEfOeFOp",
+        "title": "神室町大王",
+        "description": "要求：\n\n潜藏的房地产经纪人\n\n奖励：\n\n+1 犍陀罗 视频\n\n注意：\n\n- 大君在第2章从桐生的公寓返回后解锁。\n- 从调酒师那里点任意饮品即可解锁犍陀罗视频",
+        "imageId": 1656735,
+        "imagePath": "/game_map_pin/1656735/{size}.webp",
+        "videoId": 1656736,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/a2e626a2c76e2b1c2c7949e7931ae3de8bd83e4f"
+      }
+    },
+    {
+      "coordinates": [
+        64.49087305341988,
+        -66.37245825831931
+      ],
+      "properties": {
+        "subcategoryExternalId": "Wohk99NbnJ",
+        "imageId": 1656744,
+        "externalId": "puQUSpNiNC",
+        "title": "Teltel男孩俱乐部",
+        "description": "要求：\n\n正当的生活\n\n可能的支线故事：\n\n- 掠食者的呼唤\n- 调情约会\n- 纯真约会\n- 性感约会\n- 樱花冲击\n- 口头警告\n- 母亲的抚慰\n\n正确选择：\n\n- \"描述一下你的身材\"\n- \"你的脸是什么样的？\"\n\n注意：\n\n- 解锁的支线故事取决于你在TelTel Boys Club小游戏中匹配到的对象\n- 你必须达到紫心状态才能要求见面",
+        "imagePath": "/game_map_pin/1656744/{size}.webp",
+        "videoId": 1656745,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/32a29a42e211d999ae53cf20cd13adbe4d327d5d"
+      }
+    },
+    {
+      "coordinates": [
+        -48.68676756541748,
+        -75.17113454029564
+      ],
+      "properties": {
+        "externalId": "2LHeu47NOF",
+        "title": "快乐王的游乐设施",
+        "description": "需求：\n\n媒体王的挑战2\n\n注意：\n\n- 在杉田大厦的过场动画结束后，可以在此位置找到快乐王。与他对话以进入剧情的下一阶段",
+        "subcategoryExternalId": "FtQwGQ6aYh",
+        "imageId": 1656784,
+        "imagePath": "/game_map_pin/1656784/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -47.78335304038468,
+        -28.57771301155931
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1632764,
+        "externalId": "HmL5aizh56",
+        "title": "天下一通り的奇迹",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|表演必须继续|马哈拉加的奇迹|\n\n奖励：\n\n- 无声鞋（黑盒）或棒球衫（白盒）\n- Stephen Spining\n\n注意：\n\n- 离开该区域一会儿，然后再回来。一旦你注意到街对面的Papillon Kato，走向他触发这个支线故事的下一阶段\n- Spinning可以在杉田大楼外面找到，在第5章诚实谋生期间建立房地产业务后，可以招募他作为经理\n- 如果你正在使用我们的\"轻松击杀\"mod，请将其关闭，因为它也会影响到你要保护的NPC",
+        "imagePath": "/game_map_pin/1632764/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        15.77792292050838,
+        -53.413289000340725
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1289829,
+        "externalId": "gIpdIYISjv",
+        "title": "表演必须继续",
+        "description": "|要求|解锁|\n| :-----------: | :-----------: |\n|暗中的房地产经纪人|如何训练你的女王|\n||天下一街的奇迹|\n\n奖励：\n\n- 帕皮隆·加藤\n- 磁性项链\n\n正确选择：\n\n- \"遵守礼仪\"\n- \"拿取食物\"\n- \"将食物倾斜一定角度\"\n- \"收拾餐具\"\n\n注意\n\n- 加藤可以在杉田大厦外面找到，在第5章诚实的生活建立房地产业务后，可以招募他作为经理\n\n*\"哇！我-我看不见了！你的光环太亮了！太耀眼了！\"* -制作人员森",
+        "imagePath": "/game_map_pin/1289829/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        93.25195312500011,
+        -6.860985433763645
+      ],
+      "properties": {
+        "subcategoryExternalId": "gg5JVHJJ6e",
+        "externalId": "Fhjan008lW",
+        "title": "地球天使",
+        "description": "注意：\n\n- 在第5章：诚实的生活建立房地产业务后，前往天使酒吧点一杯酒来招募妈妈桑作为顾问\n\n喝完酒后你会看到Angel。",
+        "imageId": 1288920,
+        "imagePath": "/game_map_pin/1288920/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -67.49848613746013,
+        -51.13820292559912
+      ],
+      "properties": {
+        "subcategoryExternalId": "m7mO3uHWWu",
+        "imageId": 1653735,
+        "externalId": "y9OJje3ig8",
+        "title": "杉田大厦",
+        "description": "需求条件：\n\n诚实的生活\n\n注意：\n\n- 杉田大厦是桐生的藏身之处，也是他作为房地产专业人士经营业务的地方",
+        "imagePath": "/game_map_pin/1653735/{size}.webp",
+        "videoId": 1653736,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/e1de092d9c7aa7c4169973785d85af1eb6a63387"
+      }
+    },
+    {
+      "coordinates": [
+        69.2252553988145,
+        45.91881040738903
+      ],
+      "properties": {
+        "subcategoryExternalId": "Wohk99NbnJ",
+        "imageId": 1634502,
+        "externalId": "BG2hM6CVcz",
+        "title": "文森特",
+        "description": "奖励：\n\n+1 神室町 视频\n\n注意：\n\n- 玩三局台球，可以单人或对战。每局游戏后，选择\"退出\"来解锁视频和金球选项\n- 第一次玩飞镖时，工作人员会给你标准飞镖",
+        "imagePath": "/game_map_pin/1634502/{size}.webp",
+        "videoId": 1634503,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/88c01def9a5e6bd06ec314b85425cd72e494a016"
+      }
+    },
+    {
+      "coordinates": [
+        -59.04158632624602,
+        -61.247088283807315
+      ],
+      "properties": {
+        "externalId": "fINjEZeOSX",
+        "title": "极道之路",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|诚实谋生|[黑暗逃脱]()|\n\n奖励：\n\n- ¥30,000,000\n- 高潮战斗道具\n\n注意：\n\n- 公寓拜访后追逐开始时，跑到神室购物区推进剧情",
+        "subcategoryExternalId": "nVCKxnFqj6",
+        "imageId": 1653757,
+        "imagePath": "/game_map_pin/1653757/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -27.803076841579355,
+        -73.57752892044417
+      ],
+      "properties": {
+        "subcategoryExternalId": "uzcj8AtBnd",
+        "imageId": 1299204,
+        "externalId": "P5GsUly19G",
+        "title": "寿司银",
+        "description": "要求：\n\n[房地产大富翁](wemod:\\/\\/maps\\/101612\\/264?location=koYO0vw610)\n\n奖励：\n\n海师钓竿\n\n价格：\n\n免费（寿司银主厨最大友好度\n\n注意：\n\n- 在该区域达到60%的份额，然后返回[杉田大厦](wemod:\\/\\/maps\\/101612\\/264?location=y9OJje3ig8)以解锁[休闲王挑战1](wemod:\\/\\/maps\\/101612\\/264?location=TMMJdWlhAQ)",
+        "imagePath": "/game_map_pin/1299204/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -64.6423955322553,
+        -47.28161487370751
+      ],
+      "properties": {
+        "subcategoryExternalId": "uzcj8AtBnd",
+        "externalId": "ulgxHwaEDW",
+        "title": "健康野苹果",
+        "description": "要求：\n\n房地产大亨\n\n价格：\n\n¥16,400,000\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大厦解锁休闲之王的挑战1",
+        "imageId": 1652880,
+        "imagePath": "/game_map_pin/1652880/{size}.webp",
+        "videoId": 1652881,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/93a1deaa5727c0ac7747ead9d365d1ca1c3f565c"
+      }
+    },
+    {
+      "coordinates": [
+        -66.60632357864561,
+        -51.15984183361193
+      ],
+      "properties": {
+        "externalId": "BYYxojmiu9",
+        "title": "百合酒",
+        "description": "要求：\n\n不动产大亨\n\n价格：\n\n免费\n\n注意：\n\n- 这是桐生的第一处房产，在建立房地产业务后由山井自动给予",
+        "subcategoryExternalId": "uzcj8AtBnd",
+        "imageId": 1653733,
+        "imagePath": "/game_map_pin/1653733/{size}.webp",
+        "videoId": 1653734,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/0d934cf06ca5facf6c3205059d475883bceed454"
+      }
+    },
+    {
+      "coordinates": [
+        -43.829739146310494,
+        -46.8573456134168
+      ],
+      "properties": {
+        "subcategoryExternalId": "uzcj8AtBnd",
+        "externalId": "Ka50FjMprC",
+        "title": "暖呼呼学院",
+        "description": "要求：\n\n房地产大亨\n\n价格：\n\n¥10,800,000\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大楼以解锁娱乐之王的挑战1",
+        "imageId": 1631079,
+        "imagePath": "/game_map_pin/1631079/{size}.webp",
+        "videoId": 1631080,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/b6c013405453b0661e382151d0b0b031f53b7a0c"
+      }
+    },
+    {
+      "coordinates": [
+        -56.42978136882918,
+        -54.37783755399787
+      ],
+      "properties": {
+        "subcategoryExternalId": "uzcj8AtBnd",
+        "imageId": 1631048,
+        "externalId": "FPFHgJLP1Y",
+        "title": "ポッポ天下一通り",
+        "description": "需求：\n\n房地产皇家\n\n价格：\n\n免费（美穗满好感度）\n\n注意：\n\n- 美穗会提议让这个场所成为你房地产生意的一部分，所以确保填满她的好感度量表。\n- 达到该区域60%的份额，然后返回杉田大楼来解锁休闲之王挑战1",
+        "imagePath": "/game_map_pin/1631048/{size}.webp",
+        "videoId": 1631049,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/6711a31031317ee0411b3ae80f9070844263e201"
+      }
+    },
+    {
+      "coordinates": [
+        -43.14433551554973,
+        -52.433704161554566
+      ],
+      "properties": {
+        "subcategoryExternalId": "uzcj8AtBnd",
+        "imageId": 1631054,
+        "externalId": "2LZ2D9InNz",
+        "title": "柏青哥丸福",
+        "description": "要求：\n\n房地产大亨\n\n价格：\n\n￥18,400,000\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大厦解锁休闲之王挑战1",
+        "imagePath": "/game_map_pin/1631054/{size}.webp",
+        "videoId": 1631055,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/227a35b7ba30b05574778cbe57db13953ede8cb0"
+      }
+    },
+    {
+      "coordinates": [
+        -24.692977325536106,
+        -55.86244169049461
+      ],
+      "properties": {
+        "subcategoryExternalId": "uzcj8AtBnd",
+        "externalId": "cVrekwpDLA",
+        "title": "原岛设计",
+        "description": "要求：\n\n房地产大亨\n\n价格：\n\n¥13,200,000\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大楼解锁休闲王挑战1",
+        "imageId": 1631298,
+        "imagePath": "/game_map_pin/1631298/{size}.webp",
+        "videoId": 1631299,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/b605ac8bf047fa6e82ebc8f50df0076a3bda04d3"
+      }
+    },
+    {
+      "coordinates": [
+        -43.09226700991771,
+        -60.75164068086107
+      ],
+      "properties": {
+        "subcategoryExternalId": "uzcj8AtBnd",
+        "externalId": "KSv5vcCAWx",
+        "title": "神室健康广场",
+        "description": "需求：\n\n房地产大亨\n\n价格：\n\n¥12,400,000\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大楼来解锁休闲之王挑战1",
+        "imageId": 1631030,
+        "imagePath": "/game_map_pin/1631030/{size}.webp",
+        "videoId": 1631031,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/cc17f384c8b61cf9a967d8e5135e7298e782bf21"
+      }
+    },
+    {
+      "coordinates": [
+        -56.17432343183645,
+        -67.69824299640679
+      ],
+      "properties": {
+        "subcategoryExternalId": "uzcj8AtBnd",
+        "imageId": 1631028,
+        "externalId": "9lOmoldLoQ",
+        "title": "柏青哥新伊甸园",
+        "description": "要求：\n\n房地产大亨\n\n价格：\n\n￥18,400,000\n\n注意：\n\n- 在该区域达到60%的份额，然后返回杉田大厦解锁休闲之王挑战1",
+        "imagePath": "/game_map_pin/1631028/{size}.webp",
+        "videoId": 1631029,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/9b4f5e87c4491394cb8b05c03c16dbc10b2a5403"
+      }
+    },
+    {
+      "coordinates": [
+        -65.5050230528707,
+        -53.77472147366631
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1297677,
+        "externalId": "ezbUouEIjv",
+        "title": "明信片新手/大师 - 桐生",
+        "description": "需求：\n\n极道之路\n\n奖励：\n\n大力神手套（明信片大师）\n\n明信片提交的支线故事：\n\n- 有远见的算命师\n- Arakure任务（寻找Ara-Q3的任务）\n- 如何训练你的女王（SM课程）\n- 塑封包装的梦想\n- 天下一街的奇迹\n- 摩诃罗的奇迹\n\n注意：\n\n- 提交第一张明信片后，退出并重新进入建筑物以触发下一阶段。重复此过程直到达到\"明信片大师\"支线故事\n- 你必须完成列出的支线故事才能让它们出现在选项列表中\n- 至少完成5个列出的支线故事来解锁这个支线故事",
+        "imagePath": "/game_map_pin/1297677/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -47.22924781142109,
+        73.77731242386915
+      ],
+      "properties": {
+        "externalId": "xZ1eUPQLoh",
+        "title": "陷阱之地",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|拔河|男人的价值|\n\n奖励：\n\n- ¥50,000,000\n- 战斗高潮道具\n\n注意：\n\n- 对于\"寻找藏身之处\"目标，前往风间组事务所，位于天下一街南端附近",
+        "subcategoryExternalId": "nVCKxnFqj6",
+        "imageId": 1663203,
+        "imagePath": "/game_map_pin/1663203/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        54.16095090045437,
+        -21.90598944134804
+      ],
+      "properties": {
+        "externalId": "OxRZZI1Q3y",
+        "title": "男人的价值",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|[陷入困境](wemod:\\/\\/maps\\/101612\\/264?location=xZ1eUPQLoh)|[浑浊的河床](wemod:\\/\\/maps\\/101612\\/305?location=GSNJeXr0wm)|\n\n奖励：\n\n¥75,000,000\n\n注意：\n\n- 在东城会总部连战期间，击败敌人波次后请禁用任何激活的模组。保持开启状态可能会导致故障，使下一道门无法破坏\n- 在东城会总部后院的战斗中，当立华或织田抓住敌人时执行热血动作来触发合作招式。使用此方法击败三名敌人即可解锁奖杯\"双人成行\"",
+        "subcategoryExternalId": "nVCKxnFqj6",
+        "imageId": 1663212,
+        "imagePath": "/game_map_pin/1663212/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        19.055005852744074,
+        59.941753075046705
+      ],
+      "properties": {
+        "externalId": "E8yOBPPYz1",
+        "title": "",
+        "description": "条件：\n\n男人的价值\n\n每个英雄都需要一个存档点——在这里保存你的进度！",
+        "subcategoryExternalId": "m7mO3uHWWu",
+        "imageId": 1663249,
+        "imagePath": "/game_map_pin/1663249/{size}.webp",
+        "videoId": 1663250,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/41a2fdfcd3750730cc6fca6a6db0ebb1b3e612fd"
+      }
+    },
+    {
+      "coordinates": [
+        42.561523152273196,
+        1.125658443484923
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "externalId": "OM4Qzyb8ra",
+        "title": "命运召唤",
+        "description": "前置条件：\n\n男人的价值\n\n奖励：\n\n超级辣刀\n\n正确选择：\n\n- \"你多大了？\"\n- \"是的，我们是一家人。\"\n- \"我的男子气概。\"\n\n注意：\n\n- 这个支线任务在第10章织田到达西公园后变为可用。你可以选择推迟与立华的会面，探索公园外的区域\n- 与站在店外的店员对话开始这个支线任务",
+        "imageId": 1663254,
+        "imagePath": "/game_map_pin/1663254/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        38.7099828513378,
+        20.97354922347276
+      ],
+      "properties": {
+        "subcategoryExternalId": "3cweObZEqd",
+        "externalId": "CvTEtjGGtP",
+        "title": "闪耀典范",
+        "description": "要求：\n\n男人的价值\n\n注意：\n\n- 接近那位女士来触发这个支线任务。在第10章从东城会总部返回后即可进行\n- 与真司对话后，前往西公园。进入公园然后离开以触发支线任务的下一阶段",
+        "imageId": 1663297,
+        "imagePath": "/game_map_pin/1663297/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        40.494645074904184,
+        75.02268028658122
+      ],
+      "properties": {
+        "externalId": "f3idIbjtKC",
+        "title": "不渝的羁绊",
+        "description": "|要求|解锁|\n| :-----------: | :-----------: |\n|罪与罚|散射之光|\n\n奖励：\n\n¥100,000,000",
+        "subcategoryExternalId": "nVCKxnFqj6",
+        "imageId": 1666666,
+        "imagePath": "/game_map_pin/1666666/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        83.54727664807496,
+        -70.1873744894109
+      ],
+      "properties": {
+        "externalId": "VgXbYrak4j",
+        "title": "散射之光",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|坚定不移的羁绊|爱的证明|\n\n奖励：\n\n- ¥100,000,000\n- 高潮战斗道具\n\n注意：\n\n- 当出现涉及丽娜的过场动画提示时，故意让QTE失败。你必须被瓶子击中才能获得\"酗酒\"奖杯\n- 与锦山战斗后，前往神室町购物区的空地寻找真纪村",
+        "subcategoryExternalId": "nVCKxnFqj6",
+        "imageId": 1666799,
+        "imagePath": "/game_map_pin/1666799/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        14.374149238209185,
+        -28.804889427863806
+      ],
+      "properties": {
+        "externalId": "xvY1WAjNMY",
+        "title": "爱的证明",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|散落的光芒|终章：黑与白|\n\n奖励：\n\n¥100,000,000",
+        "subcategoryExternalId": "nVCKxnFqj6",
+        "imageId": 1666854,
+        "imagePath": "/game_map_pin/1666854/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        1.7421145064001848,
+        3.203178908409626
+      ],
+      "properties": {
+        "externalId": "h6BIJijM9Y",
+        "title": "终章：黑与白",
+        "description": "|要求|解锁|\n| :-----------: | :-----------: |\n|爱的证明|高级冒险模式|\n||传说难度|\n\n奖励：\n\n- ¥300,000,000 每人（真岛&桐生）\n- 巅峰战斗道具\n\n注意：\n\n- 错过的支线故事仍可在高级冒险模式中完成",
+        "subcategoryExternalId": "nVCKxnFqj6",
+        "imageId": 1666864,
+        "imagePath": "/game_map_pin/1666864/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -50.399532017554606,
+        -71.65710206105194
+      ],
+      "properties": {
+        "externalId": "buYm2aElCa",
+        "title": "族长",
+        "description": "要求：\n\n- 终章：黑与白\n- 完成桐生的所有支线任务\n\n奖励：\n\n亚门太阳镜\n\n注意：\n\n- 乘坐出租车前往斗牛竞技场以触发此支线任务的下一阶段",
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": 1666901,
+        "imagePath": "/game_map_pin/1666901/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        34.06314933511325,
+        -70.81795748483279
+      ],
+      "properties": {
+        "subcategoryExternalId": "H9Px0UHB2w",
+        "imageId": 1667050,
+        "externalId": "qqB5qvrSIc",
+        "title": "自动售货机",
+        "description": "注意：\n\n- 稀有袖珍赛车零件有机会出现在100万日元梦想机中\n- 你可以通过进入和离开附近的商店或建筑物来刷新梦想机的库存\n\n检查散布在城市各处的梦想机。它们包含高价值奖励，包括袖珍赛车的独家零件",
+        "imagePath": "/game_map_pin/1667050/{size}.webp",
+        "videoId": 1667051,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/6237ff0db25addfb911bef3094d1679795435bba"
+      }
+    },
+    {
+      "coordinates": [
+        81.6699893862106,
+        40.46271540710819
+      ],
+      "properties": {
+        "subcategoryExternalId": "H9Px0UHB2w",
+        "imageId": 1667054,
+        "externalId": "XNzZIK3EKO",
+        "title": "自动售货机",
+        "description": "注意：\n\n- 稀有袖珍赛车零件有机会出现在100万日元梦想机中\n- 你可以通过进入和离开附近的商店或建筑物来刷新梦想机的库存\n\n检查散布在城市各处的梦想机。它们包含高价值奖励，包括袖珍赛车的独家零件",
+        "imagePath": "/game_map_pin/1667054/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -91.14899902932855,
+        48.99224037035939
+      ],
+      "properties": {
+        "subcategoryExternalId": "H9Px0UHB2w",
+        "externalId": "G0OaGKKZzw",
+        "title": "自动售货机",
+        "description": "注意：\n\n- 稀有袖珍赛车零件有机会出现在100万日元梦想机中\n- 你可以通过进入和离开附近的商店或建筑物来刷新梦想机的库存\n\n检查散布在城市各处的梦想机。它们包含高价值奖励，包括袖珍赛车的独家零件",
+        "imageId": 1656755,
+        "imagePath": "/game_map_pin/1656755/{size}.webp",
+        "videoId": 1656756,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/bf12ecf24d0be9e8935c4dd399962019e2fe1641"
+      }
+    },
+    {
+      "coordinates": [
+        -16.7727551160678,
+        48.076179059585776
+      ],
+      "properties": {
+        "subcategoryExternalId": "H9Px0UHB2w",
+        "externalId": "fHT6S7719C",
+        "title": "自动售货机",
+        "description": "注意：\n\n- 稀有袖珍赛车零件有机会出现在100万日元梦想机中\n- 你可以通过进入和离开附近的商店或建筑物来刷新梦想机的库存\n\n检查散布在城市各处的梦想机。它们包含高价值奖励，包括袖珍赛车的独家零件",
+        "imageId": 1656759,
+        "imagePath": "/game_map_pin/1656759/{size}.webp",
+        "videoId": 1656760,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/c9c42f7197a21ec641dc4a69c0fd41f0dd25a8ba"
+      }
+    },
+    {
+      "coordinates": [
+        66.52838388677628,
+        27.62623712977016
+      ],
+      "properties": {
+        "subcategoryExternalId": "H9Px0UHB2w",
+        "imageId": 1632382,
+        "externalId": "RdxyPg5OsJ",
+        "title": "自动售货机",
+        "description": "注意：\n\n- 稀有袖珍赛车零件有机会出现在100万日元梦想机中\n- 你可以通过进入和离开附近的商店或建筑物来刷新梦想机的库存\n\n检查散布在城市各处的梦想机。它们包含高价值奖励，包括袖珍赛车的独家零件",
+        "imagePath": "/game_map_pin/1632382/{size}.webp",
+        "videoId": 1632383,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/3eff52ca70dacba64e512a9f4a68980843f3e000"
+      }
+    },
+    {
+      "coordinates": [
+        -48.91180391215627,
+        -21.957681700995025
+      ],
+      "properties": {
+        "subcategoryExternalId": "H9Px0UHB2w",
+        "imageId": 1631094,
+        "externalId": "JKIx8bn53q",
+        "title": "自动售货机",
+        "description": "注意：\n\n- 稀有袖珍赛车零件有机会出现在100万日元梦想机中\n- 你可以通过进入和离开附近的商店或建筑物来刷新梦想机的库存\n\n检查散布在城市各处的梦想机。它们包含高价值奖励，包括袖珍赛车的独家零件",
+        "imagePath": "/game_map_pin/1631094/{size}.webp",
+        "videoId": 1631095,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/90a6eeb53f16ac5584d4e07700246d839383d237"
+      }
+    },
+    {
+      "coordinates": [
+        -3.2958984375000004,
+        -23.26153416765176
+      ],
+      "properties": {
+        "subcategoryExternalId": "H9Px0UHB2w",
+        "imageId": 1288983,
+        "externalId": "mCmnW98L2F",
+        "title": "自动售货机",
+        "description": "注意：\n\n- 稀有袖珍赛车零件有机会出现在100万日元梦想机中\n- 你可以通过进入和离开附近的商店或建筑物来刷新梦想机的库存\n\n检查散布在城市各处的梦想机。它们包含高价值奖励，包括袖珍赛车的独家零件",
+        "imagePath": "/game_map_pin/1288983/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        100.77582773821217,
+        -27.717206082910472
+      ],
+      "properties": {
+        "subcategoryExternalId": "H9Px0UHB2w",
+        "imageId": 1636179,
+        "externalId": "ND8gDh3sIX",
+        "title": "自动售货机",
+        "description": "注意：\n\n- 稀有袖珍赛车零件有机会出现在100万日元梦想机中\n- 你可以通过进入和离开附近的商店或建筑物来刷新梦想机的库存\n\n检查散布在城市各处的梦想机。它们包含高价值奖励，包括袖珍赛车的独家零件",
+        "imagePath": "/game_map_pin/1636179/{size}.webp",
+        "videoId": 1636180,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/15dbc365973cd8c07af966ae1a3e3d6d05f59dc7"
+      }
+    },
+    {
+      "coordinates": [
+        -55.98632812500009,
+        -70.48089578887483
+      ],
+      "properties": {
+        "subcategoryExternalId": "H9Px0UHB2w",
+        "imageId": 1631017,
+        "externalId": "9NjRublkra",
+        "title": "自动售货机",
+        "description": "注意：\n\n- 稀有袖珍赛车零件有机会出现在100万日元梦想机中\n- 你可以通过进入和离开附近的商店或建筑物来刷新梦想机的库存\n\n检查散布在城市各处的梦想机。它们包含高价值奖励，包括袖珍赛车的独家零件",
+        "imagePath": "/game_map_pin/1631017/{size}.webp",
+        "videoId": 1631018,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/52fbf6962e45451db71bab45db377694719448f1"
+      }
+    },
+    {
+      "coordinates": [
+        13.421429983309954,
+        -58.1817991918874
+      ],
+      "properties": {
+        "subcategoryExternalId": "H9Px0UHB2w",
+        "imageId": 1656762,
+        "externalId": "4umX0s1ImN",
+        "title": "自动售货机",
+        "description": "注意：\n\n- 稀有袖珍赛车零件有机会出现在100万日元梦想机中\n- 你可以通过进入和离开附近的商店或建筑物来刷新梦想机的库存\n\n检查散布在城市各处的梦想机。它们包含高价值奖励，包括袖珍赛车的独家零件",
+        "imagePath": "/game_map_pin/1656762/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -66.23131986544875,
+        -52.2022673232461
+      ],
+      "properties": {
+        "externalId": "koYO0vw610",
+        "title": "地产皇族",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|诚实谋生|休闲王的挑战 1|\n\n奖励：\n\n- 堂岛之龙格斗风格\n- +1 犍陀罗 视频\n\n注意：\n\n- 你在特定支线任务中帮助过的人可以在建筑物外面找到，并且可以招募\n- 前往 Earth Angel 招募妈妈桑作为顾问。\n- 你必须击败五位亿万富翁和金融王才能获得奖励\n- 你可以通过在神社购买\"极限突破\"技能来扩展堂岛之龙的技能树。",
+        "subcategoryExternalId": "FtQwGQ6aYh",
+        "imageId": 1655317,
+        "imagePath": "/game_map_pin/1655317/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        46.65559821247277,
+        68.77913094470927
+      ],
+      "properties": {
+        "externalId": "14YTfAKYzc",
+        "title": "",
+        "description": "要求：\n\n男人的价值\n\n神室町最北端的一个公园，无家可归者的聚居地",
+        "subcategoryExternalId": "ApHtYHhXuN",
+        "imageId": 1671891,
+        "imagePath": "/game_map_pin/1671891/{size}.webp",
+        "videoId": 1671892,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/0cf2c8b80df7ba08cb4181008b660bd79b89ef45"
+      }
+    },
+    {
+      "coordinates": [
+        42.919805970964035,
+        1.841979129103521
+      ],
+      "properties": {
+        "externalId": "Fuv7tTvLoU",
+        "title": "请删除",
+        "description": "",
+        "subcategoryExternalId": "3cweObZEqd",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -43.719390284965016,
+        41.470848712904626
+      ],
+      "properties": {
+        "externalId": "olgm9sNGRA",
+        "title": "如龙",
+        "description": "|要求|下一步|\n| :-----------: | :-----------: |\n|暗中的房地产经纪人|皮条客|\n\n听取他们的闲言碎语，他们会给出一些关于故事的提示。",
+        "subcategoryExternalId": "FtQwGQ6aYh",
+        "imageId": 1631427,
+        "imagePath": "/game_map_pin/1631427/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        90.86104749728896,
+        -35.52726455502167
+      ],
+      "properties": {
+        "subcategoryExternalId": "FtQwGQ6aYh",
+        "imageId": 1291913,
+        "externalId": "9l0JNQSkp5",
+        "title": "请删除",
+        "description": "",
+        "imagePath": "/game_map_pin/1291913/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -69.04501002935558,
+        -60.80264072388036
+      ],
+      "properties": {
+        "subcategoryExternalId": "FtQwGQ6aYh",
+        "imageId": 1653740,
+        "externalId": "JsXovcoS98",
+        "title": "休闲之王的挑战 2",
+        "description": "|要求|解锁|\\n| :-----------: | :-----------: |\\n|[休闲王的挑战1](wemod:\\/\\/maps\\/101612\\/264?location=TMMJdWlhAQ)|[电子王的挑战1](wemod:\\/\\/maps\\/101612\\/264?location=1QcWFIZ34J)|\\n|在休闲王区域达到90%份额|[快乐王的挑战1](wemod:\\/\\/maps\\/101612\\/264?location=xhPeq5JinP)|\\n||[赌博王的挑战1](wemod:\\/\\/maps\\/101612\\/264?location=PPED3T86my)|\\n\\n奖励：\\n\\n- 休闲王\\n- 竹下岳太\\n- 格斗家风格技能树扩展\\n\\n注意：\\n\\n- 一旦被击败，休闲王将作为经理加入，而他的保镖竹下将作为保安加入\\n- 完成此挑战后，返回[杉田大厦](wemod:\\/\\/maps\\/101612\\/264?location=y9OJje3ig8)解锁其他可购买物业的区域",
+        "imagePath": "/game_map_pin/1653740/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -101.86718736390759,
+        -8.45787864923004
+      ],
+      "properties": {
+        "externalId": "H8mjm84MXu",
+        "title": "赌王的挑战2",
+        "description": "|条件|解锁|\n| :-----------: | :-----------: |\n|赌博王挑战1|媒体王挑战1|\n|在赌博王区域达到90%份额||\n\n奖励：\n\n- 赌博王\n- 冲刺风格技能树扩展\n\n注意：\n\n- 一旦被击败，赌博王将作为经理加入",
+        "subcategoryExternalId": "FtQwGQ6aYh",
+        "imageId": 1655594,
+        "imagePath": "/game_map_pin/1655594/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -12.171551121108138,
+        44.853893856356706
+      ],
+      "properties": {
+        "externalId": "yva51lsdZd",
+        "title": "媒体王的挑战 1",
+        "description": "|要求|解锁|\n| :-----------: | :-----------: |\n|[电器王挑战 2](wemod:\\/\\/maps\\/101612\\/264?location=Kbgi0HBnka)|[媒体王挑战 2](wemod:\\/\\/maps\\/101612\\/264?location=ouQZkuoMQY)|\n|[快乐王挑战 2](wemod:\\/\\/maps\\/101612\\/264?location=VkiEKnyc9r)||\n|[赌博王挑战 2](wemod:\\/\\/maps\\/101612\\/264?location=H8mjm84MXu)||\n|在媒体王区域达到60%份额||\n\n注意：\n\n- 失败这个挑战不会阻止你进入最终挑战。你只需要达到90%份额就能解锁它",
+        "subcategoryExternalId": "FtQwGQ6aYh",
+        "imageId": 1656648,
+        "imagePath": "/game_map_pin/1656648/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -30.000573378208315,
+        23.21440121329377
+      ],
+      "properties": {
+        "externalId": "PPED3T86my",
+        "title": "赌王的挑战 1",
+        "description": "|要求|解锁|\n| :-----------: | :-----------: |\n|休闲王的挑战 2|赌博王的挑战 2|\n|门后||\n|在赌博王区域达到60%份额||\n\n注意：\n\n- 失败这个挑战不会阻止你进入最终挑战。你只需要达到90%份额就能解锁它",
+        "subcategoryExternalId": "FtQwGQ6aYh",
+        "imageId": 1655429,
+        "imagePath": "/game_map_pin/1655429/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        37.762523220118936,
+        -21.00266598859801
+      ],
+      "properties": {
+        "subcategoryExternalId": "FtQwGQ6aYh",
+        "externalId": "TMMJdWlhAQ",
+        "title": "休闲之王的挑战1",
+        "description": "|要求|解锁|\n| :-----------: | :-----------: |\n|房地产皇家|休闲王的挑战2|\n|在休闲王的区域达到60%份额||\n\n注意：\n\n- 失败这个挑战不会阻止你进入最终挑战。你只需要达到90%份额来解锁它",
+        "imageId": 1298544,
+        "imagePath": "/game_map_pin/1298544/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        66.42317527806222,
+        -65.1827547653195
+      ],
+      "properties": {
+        "subcategoryExternalId": "FtQwGQ6aYh",
+        "imageId": 1654057,
+        "externalId": "xhPeq5JinP",
+        "title": "快乐之王的挑战 1",
+        "description": "|要求|解锁|\n| :-----------: | :-----------: |\n|休闲王的挑战 2|欢乐王的挑战 2|\n|在欢乐王的区域达到60%份额||\n\n注意：\n\n- 失败这个挑战不会阻止你进入最终挑战。你只需要达到90%的份额就能解锁它",
+        "imagePath": "/game_map_pin/1654057/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        66.3513088375239,
+        -65.43794640135899
+      ],
+      "properties": {
+        "externalId": "VkiEKnyc9r",
+        "title": "欢乐之王的挑战2",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|快乐王的挑战1|媒体王的挑战1|\n|在快乐王的区域达到90%占有率||\n\n奖励：\n\n- 快乐王\n- 美洲豹\n- 野兽风格技能树扩展\n\n注意：\n\n- 一旦被击败，快乐王将作为顾问加入，而他的保镖美洲豹将作为保安加入",
+        "subcategoryExternalId": "FtQwGQ6aYh",
+        "imageId": 1655269,
+        "imagePath": "/game_map_pin/1655269/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -2.7237784276265113,
+        -63.53153761744542
+      ],
+      "properties": {
+        "subcategoryExternalId": "FtQwGQ6aYh",
+        "imageId": 1653818,
+        "externalId": "1QcWFIZ34J",
+        "title": "电子王的挑战1",
+        "description": "|要求|解锁|\n| :-----------: | :-----------: |\n|休闲王的挑战 2|电器王的挑战 2|\n|在电器王的区域达到60%份额||\n\n注意：\n\n- 失败这个挑战不会阻止你进入最终挑战。你只需要达到90%份额就能解锁它",
+        "imagePath": "/game_map_pin/1653818/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -3.2232623104726486,
+        -63.52896421870798
+      ],
+      "properties": {
+        "externalId": "Kbgi0HBnka",
+        "title": "电器之王的挑战 2",
+        "description": "|要求|解锁|\n| :-----------: | :-----------: |\n|电子王的挑战 1|媒体王的挑战 1|\n|在电子王的区域达到90%份额||\n\n奖励：\n\n- 电子王\n- 波美亚商店\n- Rush风格技能树扩展\n\n注意：\n\n- 击败后，电子王会作为经理加入，而他的保镖波美亚商店会作为保安加入",
+        "subcategoryExternalId": "FtQwGQ6aYh",
+        "imageId": 1653978,
+        "imagePath": "/game_map_pin/1653978/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        75.52585932767587,
+        29.622216436348992
+      ],
+      "properties": {
+        "externalId": "ouQZkuoMQY",
+        "title": "媒体王的挑战2",
+        "description": "|要求|\n| :-----------: |\n|媒体王的挑战1|\n|在快乐王区域达到90%的份额|\n\n奖励：\n\n- 媒体王\n- 野兽流技能树扩展\n\n注意：\n\n- 一旦被击败，媒体王将作为顾问加入\n- 击败媒体王并在杉田大厦观看几段过场动画后，前往天下一街入口处的快乐王以进入故事情节的下一阶段。",
+        "subcategoryExternalId": "FtQwGQ6aYh",
+        "imageId": 1656768,
+        "imagePath": "/game_map_pin/1656768/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        22.1786052329237,
+        -15.8588637481908
+      ],
+      "properties": {
+        "externalId": "9LdjtvdwF5",
+        "title": "",
+        "description": "|需求条件|\n| :-----------: |\n|密码保护|\n\n主要商品：\n\n- 侧面稳定器 3.0\n- 高扭矩马达 2.0\n\n一个销售高品质口袋赛车零件和各种其他物品的商人",
+        "subcategoryExternalId": "hmioBvu7QO",
+        "imageId": 1632706,
+        "imagePath": "/game_map_pin/1632706/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        55.92041015625001,
+        -65.01650627048231
+      ],
+      "properties": {
+        "subcategoryExternalId": "LMSH4Eg7iK",
+        "imageId": 1289715,
+        "externalId": "8qFFz95SEd",
+        "title": "",
+        "description": "收集特定型号的完整卡片套装（A型、B型和C型），然后将它们展示给收藏家以获得奖励",
+        "imagePath": "/game_map_pin/1289715/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -65.71348788369342,
+        -52.804076510712
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1671908,
+        "externalId": "UDvdrqwmmU",
+        "title": "北川绘里香 A型",
+        "description": "|要求|解锁|\\n| :-----------: | :-----------: |\\n|正当职业|北川绘里香 B型|\\n\\n位置：\\n\\n在杉田大厦内空调机组旁边",
+        "imagePath": "/game_map_pin/1671908/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -30.43165591679646,
+        8.968178095941086
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1671945,
+        "externalId": "6qZntvK1fl",
+        "title": "北川惠理香 B型",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|北川绘里香 A型|北川绘里香 C型|\n\n位置：\n\n在楼梯下方，寻找夹在垃圾桶和金属路障之间地面上的物品",
+        "imagePath": "/game_map_pin/1671945/{size}.webp",
+        "videoId": 1671946,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/f276000ab0bbcffe4cfd6d0ff6b2fc377b032770"
+      }
+    },
+    {
+      "coordinates": [
+        1.8888836353812446,
+        -67.36125997503243
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1671978,
+        "externalId": "i2SMl1yapU",
+        "title": "北川エリカ タイプC",
+        "description": "|需求|\n| :-----------: |\n|北川绘里香 B型|\n\n位置：\n\n在小巷中其他箱子堆叠顶部的绿色箱子上\n\n注意：\n\n- 将你完成的套装展示给卡片收藏家以获得现金奖励",
+        "imagePath": "/game_map_pin/1671978/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        88.36866274424847,
+        -69.1310655752576
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1671996,
+        "externalId": "QLPMw5tAPQ",
+        "title": "湊陸A型",
+        "description": "|解锁物品|\n| :-----------: |\n|湊陸生 B型|\n\n位置：\n\n在自行车停车护栏脚下的地面上",
+        "imagePath": "/game_map_pin/1671996/{size}.webp",
+        "videoId": 1671997,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/d2b4403f15a8f8fc95bf65daf4ccad4af3e60388"
+      }
+    },
+    {
+      "coordinates": [
+        -45.11768534683252,
+        64.39413276098091
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1672005,
+        "externalId": "1bVY3gUjoT",
+        "title": "湊理玖 B型",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|水户陆 A型|水户陆 C型|\n\n位置：\n\n在酒店北侧入口旁边的存档点处",
+        "imagePath": "/game_map_pin/1672005/{size}.webp",
+        "videoId": 1672006,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/c5c9c1ede5c43980fce1b4903f5912478dbad753"
+      }
+    },
+    {
+      "coordinates": [
+        53.5340258771611,
+        -66.17649242587544
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "externalId": "ZMfy3ttJ6m",
+        "title": "凑理久 C型",
+        "description": "|需求|\n| :-----------: |\n|湊陆Type B|\n\n位置：\n\n检查卡片收集者前面两栋建筑物之间空隙的地面\n\n注意：\n\n- 向卡片收集者展示你完成的套装以获得现金奖励",
+        "imageId": 1672007,
+        "imagePath": "/game_map_pin/1672007/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        88.68928260555833,
+        -10.097339818800421
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1672027,
+        "externalId": "Zt4ncQLnmx",
+        "title": "相葉麗香 A型",
+        "description": "|解锁|\n| :-----------: |\n|相场丽华 B型|\n\n位置：\n\n小巷中空调压缩机旁边",
+        "imagePath": "/game_map_pin/1672027/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        77.20833852700565,
+        64.99975719386879
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "externalId": "0U23M6ZHhy",
+        "title": "相叶丽香 Type B",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|一个男人的价值|相叶丽香 C型|\n|相叶丽香 A型||\n\n位置：\n\n进入西公园，右转，沿北侧小径前行。经过蓝色临时帐篷后，查看右侧护栏外",
+        "imageId": 1672028,
+        "imagePath": "/game_map_pin/1672028/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        31.090913497838386,
+        -75.07887334099601
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "externalId": "0sol2jSMlf",
+        "title": "相叶丽香 C型",
+        "description": "|需求条件|\n| :-----------: |\n|相叶理佳 B型|\n\n位置：\n\n在地铁入口站牌底部附近查看\n\n注意：\n\n- 将你收集完成的套装展示给卡片收集者以获得现金奖励",
+        "imageId": 1672037,
+        "imagePath": "/game_map_pin/1672037/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        37.40430693800781,
+        -56.35759570577383
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1672068,
+        "externalId": "x3uTfQhf2P",
+        "title": "友田彩也香 A型",
+        "description": "|解锁|\\n| :-----------: |\\n|远藤彩佳 B型|\\n\\n位置：\\n\\n红色汽车后面",
+        "imagePath": "/game_map_pin/1672068/{size}.webp",
+        "videoId": 1672069,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/10f3a532bd98e595768acf82d8cb2ae595579e58"
+      }
+    },
+    {
+      "coordinates": [
+        -99.40436379698667,
+        -4.720630773838295
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1672097,
+        "externalId": "ul23LCyT3N",
+        "title": "友田彩也香 B型",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|远山绫香 Type A|远山绫香 Type C|\n\n位置：\n\n在楼梯旁的箱子堆上",
+        "imagePath": "/game_map_pin/1672097/{size}.webp",
+        "videoId": 1672098,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/47a60e6ee634c0d2706981d36f76dac6b4345788"
+      }
+    },
+    {
+      "coordinates": [
+        -109.70932898354525,
+        39.19854493877962
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "externalId": "qw7SSDk5ae",
+        "title": "友田彩也香 C型",
+        "description": "|需求|\n| :-----------: |\n|友田彩也香 Type B|\n\n位置：\n\n乘坐出租车前往码头，然后检查仓库D-4前面的集装箱后方\n\n注意：\n\n- 向卡片收集者展示你的完整套装以获得现金奖励",
+        "imageId": 1672105,
+        "imagePath": "/game_map_pin/1672105/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -27.909675987958224,
+        -57.35072977767316
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1289799,
+        "externalId": "IFISY18RXb",
+        "title": "桐生美穗 A型",
+        "description": "|解锁|\\n| :-----------: |\\n|美穗远野 B 型|\\n\\n位置：\\n\\n公园长椅下",
+        "imagePath": "/game_map_pin/1289799/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        70.83984375000001,
+        -15.347761924346955
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "externalId": "1RrdKH5BtV",
+        "title": "东野美穗 B型",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|美穗远野 Type B|美穗远野 Type C|\n\n位置：\n\n检查建筑物之间缝隙的地面，位于犍陀罗左侧不远处。",
+        "imageId": 1672133,
+        "imagePath": "/game_map_pin/1672133/{size}.webp",
+        "videoId": 1672134,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/94dd079e432b4656af6060b5ed7d8106b622b446"
+      }
+    },
+    {
+      "coordinates": [
+        19.303880506765495,
+        -14.737468421721104
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1672274,
+        "externalId": "FggGhR9XB2",
+        "title": "通野美穗 C型",
+        "description": "|需求|\n| :-----------: |\n|通野美穗 B型|\n\n位置：\n\n检查死胡同垃圾堆附近\n\n注意：\n\n- 将你完成的套装展示给卡片收集者以获得现金奖励",
+        "imagePath": "/game_map_pin/1672274/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        30.977616820525327,
+        2.369570758951994
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "externalId": "OUU0P96ijQ",
+        "title": "佐藤春树 A型",
+        "description": "|解锁条件|\n| :-----------: |\n|佐藤春樹 B 型|\n\n位置：\n\n在后巷的小桌子上",
+        "imageId": 1672289,
+        "imagePath": "/game_map_pin/1672289/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -108.8834408205782,
+        39.6341735519022
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1672344,
+        "externalId": "DfXkrRyWc9",
+        "title": "佐藤春樹 B型",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|佐藤春树 A型|佐藤春树 C型|\n\n位置：\n\n乘坐出租车前往码头。在码头堆放的托盘附近寻找卡片",
+        "imagePath": "/game_map_pin/1672344/{size}.webp",
+        "videoId": 1672345,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/d65ec79b47d6ebcdd7e5beda8bfb3745ebc7cf90"
+      }
+    },
+    {
+      "coordinates": [
+        -81.51384729183941,
+        -34.81634985710361
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1672360,
+        "externalId": "YdWeaPI4dI",
+        "title": "佐藤春树 C型",
+        "description": "|要求|\n| :-----------: |\n|佐藤春树 B型|\n\n位置：\n\n步行街上旧大箱子旁边\n\n注意：\n\n- 将你完成的套装展示给卡片收藏家以获得现金奖励",
+        "imagePath": "/game_map_pin/1672360/{size}.webp",
+        "videoId": 1672361,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/b70a2d5875b64444e178c7c593347a9d66661ecf"
+      }
+    },
+    {
+      "coordinates": [
+        93.18603515625001,
+        -7.449624260197816
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1672384,
+        "externalId": "kWRot5TiM7",
+        "title": "阿部野未来 A型",
+        "description": "|解锁|\n| :-----------: |\n|阿部乃未来 B 型|\n\n位置：\n\n进入 Earth Angel，查看悬挂电视下方。",
+        "imagePath": "/game_map_pin/1672384/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -76.03672144147768,
+        14.885642377533491
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1672391,
+        "externalId": "Cabay6h4Qu",
+        "title": "阿部野未来 B型",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|阿部野未来 B型|阿部野未来 C型|\n\n位置：\n\n在剧场广场西北侧带有Debolah标志的建筑物门口旁",
+        "imagePath": "/game_map_pin/1672391/{size}.webp",
+        "videoId": 1672392,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/7e433a5f4ff38c13bf15d1566b2459f6750a5713"
+      }
+    },
+    {
+      "coordinates": [
+        62.81667387119796,
+        -39.933327797855256
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1672402,
+        "externalId": "gGWhWs92bu",
+        "title": "阿部野未来 C型",
+        "description": "|需求|\n| :-----------: |\n|阿部野未来 B型|\n\n位置：\n\n建筑物入口角落处，垃圾桶旁边带烟灰缸的地方\n\n注意：\n\n- 向卡片收集者展示你完成的套装以获得现金奖励",
+        "imagePath": "/game_map_pin/1672402/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        38.26000969405549,
+        -12.075816306848028
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "externalId": "pQSESZyP89",
+        "title": "七瀬乙羽 A型",
+        "description": "|解锁|\\n| :-----------: |\\n|[七瀬音羽 B型](wemod:\\/\\/maps\\/101612\\/264?location=gOJRZ7IifY)|\\n\\n位置：\\n\\n在街道旁边",
+        "imageId": 1675316,
+        "imagePath": "/game_map_pin/1675316/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        18.975975786078976,
+        61.04977118661478
+      ],
+      "properties": {
+        "externalId": "Q60Ej8L9pp",
+        "title": "",
+        "description": "要求：\n\nA Man's Worth\n\n注意：\n\n- 稀有口袋赛车零件有机会出现在 ¥1,000,000 的梦想机器中\n- 你可以通过进入和退出附近的商店或建筑物来刷新梦想机器的库存\n\n检查散布在城市各处的梦想机器。它们包含高价值奖励，包括口袋赛车的专属零件",
+        "subcategoryExternalId": "H9Px0UHB2w",
+        "imageId": 1675325,
+        "imagePath": "/game_map_pin/1675325/{size}.webp",
+        "videoId": 1675326,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/c55e50bea56c06544e398d68c40d43d1baa155d4"
+      }
+    },
+    {
+      "coordinates": [
+        19.006698000773156,
+        58.62036891511943
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "externalId": "gOJRZ7IifY",
+        "title": "七瀬音羽 B型",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|一个男人的价值|七濑音羽 C型|\n|七濑音羽 A型||\n\n位置：\n\n存档点旁边的地面上",
+        "imageId": 1675327,
+        "imagePath": "/game_map_pin/1675327/{size}.webp",
+        "videoId": 1675328,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/0ce6325611d19a59d1b35337277e31da2146c195"
+      }
+    },
+    {
+      "coordinates": [
+        24.231253597744796,
+        -61.624405620834
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "externalId": "NvNN1yNF0r",
+        "title": "七濑乙葉 C型",
+        "description": "|需求|\n| :-----------: |\n|七瀬音羽B型|\n\n位置：\n\n在电线杆底部\n\n注意：\n\n- 向卡片收集者展示你完成的套装以获得现金奖励",
+        "imageId": 1675332,
+        "imagePath": "/game_map_pin/1675332/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        7.028014980074701,
+        41.26685324572314
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1675339,
+        "externalId": "OmCD1AxcvZ",
+        "title": "白石茉莉奈 A型",
+        "description": "|解锁条件|\n| :-----------: |\n|白石茉莉奈 B型|\n\n位置：\n\n在存档点附近的人行道上",
+        "imagePath": "/game_map_pin/1675339/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        32.18579530674532,
+        49.798251379275285
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "externalId": "Grmvf3TU8n",
+        "title": "白石茉莉奈 B型",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|白石茉莉奈 A型|白石茉莉奈 C型|\n\n位置：\n\n人行道上交通锥旁边",
+        "imageId": 1675341,
+        "imagePath": "/game_map_pin/1675341/{size}.webp",
+        "videoId": 1675342,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/49f8ea74cb2facebe36745f28664e6d2e32537d0"
+      }
+    },
+    {
+      "coordinates": [
+        -24.269321288191136,
+        73.64584619454627
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -12.522491455078125,
+          "y": 3.8699958324432373,
+          "z": -179.3098602294922
+        },
+        "externalId": "SmYU1CAN8c",
+        "title": "白石茉莉奈 Type C",
+        "description": "|需求条件|\n| :-----------: |\n|白石茉莉奈 B型|\n\n位置：\n\n后巷入口关闭的闸门旁\n\n注意：\n\n- 向卡牌收集者展示你完成的套装以获得现金奖励",
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1675347,
+        "imagePath": "/game_map_pin/1675347/{size}.webp",
+        "videoId": 1675348,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/c543651bc4a09adb7bf85fc0a97303d985563825"
+      }
+    },
+    {
+      "coordinates": [
+        -34.48790059412935,
+        54.68502433564946
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "externalId": "1pEBwjY6jr",
+        "title": "樱井亚由 A型",
+        "description": "|解锁|\\n| :-----------: |\\n|樱井亚由 B型|\\n\\n位置：\\n\\n在吉田击球练习场内街机前",
+        "imageId": 1675391,
+        "imagePath": "/game_map_pin/1675391/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        108.64207629713576,
+        18.57992713268258
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "externalId": "5pSMMnz6LU",
+        "title": "樱井亚由 B型",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|樱井亚由 A型|樱井亚由 C型|\n\n位置：\n\n在存档点后面的人行道上",
+        "imageId": 1675394,
+        "imagePath": "/game_map_pin/1675394/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -23.28131974046063,
+        56.971704351833225
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "externalId": "bIumF9bIX5",
+        "title": "樱井亚由 C型",
+        "description": "|需求|\n| :-----------: |\n|樱井亚由 B型|\n\n位置：\n\n停车场内黑色汽车前轮胎旁边\n\n注意：\n\n- 将你收集完整的套装展示给卡牌收藏家以获得现金奖励",
+        "imageId": 1675403,
+        "imagePath": "/game_map_pin/1675403/{size}.webp",
+        "videoId": 1675404,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/a877bdd9a9500e39ba93818bd86304bd33b34ea9"
+      }
+    },
+    {
+      "coordinates": [
+        -94.19509115967395,
+        0.1441151138582626
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1675412,
+        "externalId": "aLLLizt6hJ",
+        "title": "舞香A型",
+        "description": "|解锁|\\n| :-----------: |\\n|[舞香 B型](wemod:\\/\\/maps\\/101612\\/264?location=J2ihujb2KN)|\\n\\n位置：\\n\\n在[Mach保龄球馆](wemod:\\/\\/maps\\/101612\\/264?location=tLlvYrBdpp)内女厕所门口附近",
+        "imagePath": "/game_map_pin/1675412/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -57.61168116554667,
+        10.218775400154316
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1675420,
+        "externalId": "J2ihujb2KN",
+        "title": "舞香 B型",
+        "description": "|需求条件|解锁内容|\n| :-----------: | :-----------: |\n|舞香 A型|舞香 C型|\n\n位置：\n\n广场石制座椅区纸箱旁边",
+        "imagePath": "/game_map_pin/1675420/{size}.webp",
+        "videoId": 1675421,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/67c03d18ad16910570846c1fde8fdbe1ec1dd820"
+      }
+    },
+    {
+      "coordinates": [
+        28.652343750000004,
+        -48.58932584966972
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1675446,
+        "externalId": "u9zof9PIN6",
+        "title": "舞香C型",
+        "description": "|需求|\n| :-----------: |\n|舞香 Type B|\n\n位置：\n\n在神社附近垃圾堆旁纸箱顶部\n\n注意：\n\n- 向卡片收藏家展示你完整的套装以获得现金奖励",
+        "imagePath": "/game_map_pin/1675446/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        68.42250389040986,
+        43.445023519113505
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "externalId": "dWg8cjFfKO",
+        "title": "鹿名ルカ A型",
+        "description": "|解锁条件|\n| :-----------: |\n|[Luka Kanae Type B](wemod:\\/\\/maps\\/101612\\/264?location=CbdHVOk4G6)|\n\n位置：\n\n在[Vincent](wemod:\\/\\/maps\\/101612\\/264?location=BG2hM6CVcz)内门口旁桌子上",
+        "imageId": 1634498,
+        "imagePath": "/game_map_pin/1634498/{size}.webp",
+        "videoId": 1634499,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/f6ea1e0230c1661f4fecb6ed67af368ab9cf7c01"
+      }
+    },
+    {
+      "coordinates": [
+        -101.09564946815698,
+        44.88200290230341
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1675518,
+        "externalId": "CbdHVOk4G6",
+        "title": "神室町卡娜惠露卡B型",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|金苗路加 A型|金苗路加 C型|\n\n位置：\n\n在存档点后面的人行道上",
+        "imagePath": "/game_map_pin/1675518/{size}.webp",
+        "videoId": 1675519,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/aa2464cb9f513f9e2946fe193886e970a380fb44"
+      }
+    },
+    {
+      "coordinates": [
+        63.27875162839308,
+        -71.31098512762006
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1675537,
+        "externalId": "Gas33tHudJ",
+        "title": "鹿奈枝瑠香 C型",
+        "description": "|需求|\n| :-----------: |\n|Luka Kanae B型|\n\n位置：\n\n在两栋建筑之间缝隙的地面上\n\n注意：\n\n- 向卡片收集者展示你的完整套装以获得现金奖励",
+        "imagePath": "/game_map_pin/1675537/{size}.webp",
+        "videoId": 1675538,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/d5878f64d336254426c7e48b47ad257a55dc5d11"
+      }
+    },
+    {
+      "coordinates": [
+        -95.86669921875001,
+        49.76707407366792
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1675613,
+        "externalId": "0dNY8lgwNf",
+        "title": "有村千佳A型",
+        "description": "|解锁|\n| :-----------: |\n|秋村千佳 B型|\n\n位置：\n\n在迷你赛车场内迷你赛道旗帜底部附近",
+        "imagePath": "/game_map_pin/1675613/{size}.webp",
+        "videoId": 1675614,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/c7c962f29bbcef4df3cc730b1554f01297e3ec8f"
+      }
+    },
+    {
+      "coordinates": [
+        -15.641494986405654,
+        -45.49613247458378
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1675627,
+        "externalId": "U1PVKO9iVe",
+        "title": "有村千佳 B型",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|有村千佳 A型|有村千佳 C型|\n\n位置：\n\n人行道上路灯杆底部垃圾堆附近",
+        "imagePath": "/game_map_pin/1675627/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        106.53739782247771,
+        1.786852771407169
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1675639,
+        "externalId": "fiDhkzWTth",
+        "title": "有村千佳 C型",
+        "description": "|需求|\n| :-----------: |\n|Chika Arimura Type B|\n\n位置：\n\n空调冷凝器单元旁边\n\n注意：\n\n- 向卡片收藏家展示你完成的套装以获得现金奖励",
+        "imagePath": "/game_map_pin/1675639/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -5.625,
+        -27.098253906137835
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1675667,
+        "externalId": "b1gkJ5RlqT",
+        "title": "南里央奈A型",
+        "description": "|解锁|\\n| :-----------: |\\n|[南里奥菜 B型]()|\\n\\n位置：\\n\\n在停放在树下两辆自行车附近的人行道上",
+        "imagePath": "/game_map_pin/1675667/{size}.webp",
+        "videoId": 1675668,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/264/8696b4a1b8cf439c9e2af7dce37514b2ffa110e7"
+      }
+    },
+    {
+      "coordinates": [
+        22.95976662436916,
+        -69.64076643263785
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "externalId": "X5fDLasD4r",
+        "title": "南梨奈 B型",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|南理央奈 A型|南理央奈 C型|\n\n位置：\n\n进入兰宫麻将，当交互提示弹出时检查最右边的墙壁",
+        "imageId": 1675686,
+        "imagePath": "/game_map_pin/1675686/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        21.5520220379664,
+        -69.65205389202866
+      ],
+      "properties": {
+        "subcategoryExternalId": "Wohk99NbnJ",
+        "externalId": "RjXBpoq4Qf",
+        "title": "兰花宫麻将馆",
+        "description": "不要只是玩，用*瓷砖*铺出你的胜利之路！",
+        "imageId": 1675705,
+        "imagePath": "/game_map_pin/1675705/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        104.89746093750001,
+        51.17934297928929
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1675716,
+        "externalId": "XaFUNEQRn8",
+        "title": "南里绪奈 C型",
+        "description": "|需求|\n| :-----------: |\n|南理央奈 Type B|\n\n位置：\n\n公园长椅下方\n\n注意：\n\n- 向卡片收集者展示你收集完成的套装以获得现金奖励",
+        "imagePath": "/game_map_pin/1675716/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -52.73050669096531,
+        26.857728889767785
+      ],
+      "properties": {
+        "externalId": "G2m22pcOsZ",
+        "title": "冈崎惠美里 A型",
+        "description": "|解锁物品|\n| :-----------: |\n|冈崎えみり B型|\n\n位置：\n\n在世嘉高科技乐园（剧场广场）内，最里面垃圾桶旁边",
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "imageId": 1675731,
+        "imagePath": "/game_map_pin/1675731/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        58.86136182732605,
+        13.46761526263586
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "externalId": "1nnl9rXR36",
+        "title": "冈崎绘美里 B型",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|冈崎惠美里 A型|冈崎惠美里 C型|\n\n位置：\n\n直接位于小亚洲北侧狭窄巷道中红色中文LED招牌的正下方",
+        "imageId": 1675738,
+        "imagePath": "/game_map_pin/1675738/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        52.85962732921246,
+        -4.465931191277491
+      ],
+      "properties": {
+        "subcategoryExternalId": "2RzOwjRs6d",
+        "externalId": "Mm2Xxa1srC",
+        "title": "冈崎惠美里C型",
+        "description": "|需求|\\n| :-----------: |\\n|[冈崎惠美里 B型](wemod:\\/\\/maps\\/101612\\/264?location=1nnl9rXR36)|\\n\\n位置：\\n\\n在存档点正对面的两个塑料桶之间\\n\\n注意：\\n\\n- 向[卡片收集者](wemod:\\/\\/maps\\/101612\\/264?location=8qFFz95SEd)展示你的完整套装以获得现金奖励",
+        "imageId": 1675742,
+        "imagePath": "/game_map_pin/1675742/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        53.86929520015502,
+        -3.465786163807337
+      ],
+      "properties": {
+        "externalId": "DYqIqbiauE",
+        "title": "",
+        "description": "每个英雄都需要一个存档点——在这里保存你的进度！",
+        "subcategoryExternalId": "m7mO3uHWWu",
+        "imageId": 1675749,
+        "imagePath": "/game_map_pin/1675749/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -14.405836544213258,
+        -72.55583126060156
+      ],
+      "properties": {
+        "externalId": "0VMDpv5iKo",
+        "title": "",
+        "description": "要求：\n\n暗中的房地产经纪人\n\n注意：\n\n- 每次击败敲诈先生后，他都会变得更强\n- 可以使用遭遇探测器来追踪敲诈先生，该道具在完成支线任务真嶋真奇迹后获得\n\n*\"你刚刚很不幸地遇到了江头寛也，人们都叫他'敲诈先生'。\"* - 路人商人",
+        "subcategoryExternalId": "YN0Wvn7dtH",
+        "imageId": 1632365,
+        "imagePath": "/game_map_pin/1632365/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -53.1857904180153,
+        -56.646515612123586
+      ],
+      "properties": {
+        "externalId": "rv66sOGouS",
+        "title": "陌生人的慷慨",
+        "description": "征服休闲王区域后，前往围裙男子附近的这个地点（傍晚或夜晚）并等待；最终，他会为你点燃香烟，解锁\"陌生人的慷慨\"奖杯",
+        "subcategoryExternalId": "FtQwGQ6aYh",
+        "imageId": 1675814,
+        "imagePath": "/game_map_pin/1675814/{size}.webp"
+      }
+    }
+  ]
+}

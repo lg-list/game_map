@@ -1,0 +1,7573 @@
+{
+  "metadata": {
+    "externalId": "WeprYp2yi6",
+    "name": "Lakeshore City",
+    "slug": "lakeshore-city",
+    "baseTilePath": "https://storage-cdn.wemod.com/maps/e9a22726-05e5-4ad6-8d97-51dd99bbbd88/tiles",
+    "isChecklistPublished": true,
+    "isInActiveDevelopment": false,
+    "backgroundColor": "#262727",
+    "minZoom": 1,
+    "maxZoom": 6,
+    "initialZoom": null,
+    "tmsEnabled": false,
+    "categories": [
+      {
+        "externalId": "XQJA9MfmRY",
+        "gameMapExternalId": "WeprYp2yi6",
+        "title": "未命名分类",
+        "color": "#51ff2e",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "xEGV1vZlGX",
+        "gameMapExternalId": "WeprYp2yi6",
+        "title": "未命名分类",
+        "color": "#f87d3a",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "hd9Q0IzJRd",
+        "gameMapExternalId": "WeprYp2yi6",
+        "title": "挑战",
+        "color": "#d064f7",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "subcategories": [
+      {
+        "externalId": "6MPjhsEfpY",
+        "categoryExternalId": "XQJA9MfmRY",
+        "title": "未命名子分类",
+        "icon": "roundies:airport-and-hotels-warehouse-storage",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "nMuAs7UaUz",
+        "categoryExternalId": "XQJA9MfmRY",
+        "title": "未命名子分类",
+        "icon": "roundies:energy-gasoline",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "61UKDEEN6V",
+        "categoryExternalId": "xEGV1vZlGX",
+        "title": "未命名子分类",
+        "icon": "paint-roller",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "eERNgVMsmc",
+        "categoryExternalId": "xEGV1vZlGX",
+        "title": "未命名子分类",
+        "icon": "roundies:maternity-teddy-bear",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "mWYP5GuA5I",
+        "categoryExternalId": "xEGV1vZlGX",
+        "title": "未命名子分类",
+        "icon": "rectangle-horizontal",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "3gTFF5wmjI",
+        "categoryExternalId": "hd9Q0IzJRd",
+        "title": "测速陷阱",
+        "icon": "roundies:transportation-speedometer",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "8OPcQVX3ZY",
+        "categoryExternalId": "hd9Q0IzJRd",
+        "title": "跳跃",
+        "icon": "ski-jump",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "TMBACquNk8",
+        "categoryExternalId": "hd9Q0IzJRd",
+        "title": "未命名子分类",
+        "icon": "time-forward-sixty",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "15PQcQVU2p",
+        "categoryExternalId": "hd9Q0IzJRd",
+        "title": "未命名子分类",
+        "icon": "arrow-trend-up",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "bA2DE71x7x",
+        "categoryExternalId": "hd9Q0IzJRd",
+        "title": "未命名子分类",
+        "icon": "arrow-turn-down-left",
+        "excludeFromChecklists": true,
+        "description": ""
+      }
+    ],
+    "playerLocationDeltas": null
+  },
+  "features": [
+    {
+      "coordinates": [
+        27.988844621295208,
+        25.343269010404715
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "9AXBCkFORX",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        57.32487928206497,
+        -7.373633617246381
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "rS2FRdPRmz",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        126.47563438372491,
+        45.7789806910929
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "mO9ny00cHA",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        126.38671875000001,
+        42.97250158602597
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "cr5IJj8yDc",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        123.92578125000001,
+        39.707186656826565
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "K6IKbFL6Am",
+        "title": "",
+        "description": "*在建筑物的右侧",
+        "imageId": 1165546,
+        "imagePath": "/game_map_pin/1165546/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        146.37490147239808,
+        53.35338338775667
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "imageId": 1165550,
+        "externalId": "SF0NQjUan4",
+        "title": "",
+        "description": "*在边缘看着水",
+        "imagePath": "/game_map_pin/1165550/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        145.54687500000003,
+        53.6185793648952
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "DUdXjNT7TE",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        146.07421875000003,
+        55.4040698270061
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "Jk22HfVg14",
+        "title": "",
+        "description": "*地下停车场内",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        113.6656214100695,
+        -51.52353564162068
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "nk3q8Z5LnM",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        102.45065350262273,
+        -62.316222094708145
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "O9e912YnkN",
+        "title": "",
+        "description": "*在开放的车库",
+        "imageId": 1165556,
+        "imagePath": "/game_map_pin/1165556/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        117.97119140625001,
+        -59.321980540101954
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "ZFMYQBanJ4",
+        "title": "",
+        "description": "*在卡车入口处",
+        "imageId": 1165557,
+        "imagePath": "/game_map_pin/1165557/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        139.35295040277612,
+        -70.63806886371665
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "2jcqeKDHhN",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        133.52783203125003,
+        -70.93100353239012
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "u7GBhJJFIq",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        139.39453125000003,
+        -71.3921545930842
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "4ZJQQdHakU",
+        "title": "",
+        "description": "*停车区下方",
+        "imageId": 1165562,
+        "imagePath": "/game_map_pin/1165562/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        142.05322265625003,
+        -72.2690029837926
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "LQNOkcuPwQ",
+        "title": "",
+        "description": "*降低道路",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        142.84423828125003,
+        -73.55330167929105
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "xGSn67ASTb",
+        "title": "",
+        "description": "",
+        "imageId": 1165565,
+        "imagePath": "/game_map_pin/1165565/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        144.38232421875003,
+        -74.36075250217637
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "H4HQllkNlo",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        148.46923828125003,
+        -74.85641315279072
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "bKYWAcGJen",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        146.46972656250003,
+        -75.15767277529314
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "jZjTDlXuUQ",
+        "title": "",
+        "description": "",
+        "imageId": 1165577,
+        "imagePath": "/game_map_pin/1165577/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        134.73147461893544,
+        -74.91420513092447
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "vCcIaZZAxo",
+        "title": "",
+        "description": "*在高架道路上",
+        "imageId": 1165579,
+        "imagePath": "/game_map_pin/1165579/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        132.86942369632004,
+        -75.8645902308575
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "9v6ksByLXz",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        97.98401183286258,
+        -79.91622635334754
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "VmtmRQm80u",
+        "title": "",
+        "description": "*在天桥下方",
+        "imageId": 1165580,
+        "imagePath": "/game_map_pin/1165580/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        106.83105468750001,
+        -78.75494462937102
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "RQrvZInNHX",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        135.4890456598997,
+        -64.87622389961003
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "OS1QWeBd3Y",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        140.09765625000003,
+        -61.72111756281974
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "7y4UlzVkCJ",
+        "title": "",
+        "description": "*在建筑物的中间",
+        "imageId": 1165586,
+        "imagePath": "/game_map_pin/1165586/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        134.73632812500003,
+        -61.05828537037916
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "3VMCKLO2FC",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        143.35964757100186,
+        -63.2149218028821
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "SVmkd0xy1K",
+        "title": "",
+        "description": "",
+        "imageId": 1165588,
+        "imagePath": "/game_map_pin/1165588/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        144.31640625000003,
+        -63.61698233975827
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "4TlPj3SlGc",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        146.49169921875003,
+        -64.87693823228865
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "2WjoOf3lxH",
+        "title": "",
+        "description": "*位于入口",
+        "imageId": 1165590,
+        "imagePath": "/game_map_pin/1165590/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        148.90869140625003,
+        -65.70351820774201
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "imageId": 1165591,
+        "externalId": "UHGhXWQARc",
+        "title": "",
+        "description": "*仓筒上",
+        "imagePath": "/game_map_pin/1165591/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        155.06103515625,
+        -67.69277095059344
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "xddsMDeLQR",
+        "title": "",
+        "description": "*在堆叠的货箱中间",
+        "imageId": 1165592,
+        "imagePath": "/game_map_pin/1165592/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        143.61328125000003,
+        -69.95290856690549
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "F3rtn7XSjp",
+        "title": "",
+        "description": "*建筑物的墙上",
+        "imageId": 1165596,
+        "imagePath": "/game_map_pin/1165596/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        119.45368331410295,
+        -77.12126378740383
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "It3lXnMviC",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        117.77343750000001,
+        -74.5081553020789
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "gBaLZ4y87K",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        118.14697265625001,
+        -74.14008387440462
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "M1cQ5z5lEA",
+        "title": "",
+        "description": "",
+        "imageId": 1165599,
+        "imagePath": "/game_map_pin/1165599/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        118.34472656250001,
+        -69.1312712296365
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "PkfMOS8D5q",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        121.20117187500001,
+        -69.57289607487529
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "zEjYreiy9C",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        125.50781250000001,
+        -68.5362764153349
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "umGjAvxaxw",
+        "title": "",
+        "description": "*弧形覆盖区域内部",
+        "imageId": 1165600,
+        "imagePath": "/game_map_pin/1165600/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        115.94970703125001,
+        -68.942606818121
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "BCHsN4HgT4",
+        "title": "",
+        "description": "*在建筑上",
+        "imageId": 1165601,
+        "imagePath": "/game_map_pin/1165601/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        116.23535156250001,
+        -71.45515260247822
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "iPyE5ovCrY",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        110.58837890625001,
+        -70.98834922412489
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "Hx4Rv8r3kt",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        108.72070312500001,
+        -70.87349131926351
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "sW4LK0dT2k",
+        "title": "",
+        "description": "*在建筑物的顶部",
+        "imageId": 1165603,
+        "imagePath": "/game_map_pin/1165603/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        106.50146484375,
+        -73.67726447634907
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "uBdrK0kewH",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        103.57910156250001,
+        -68.40726756809428
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "OowKw4z0NF",
+        "title": "",
+        "description": "*在打开的车库内部",
+        "imageId": 1165614,
+        "imagePath": "/game_map_pin/1165614/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        101.20605468750001,
+        -67.941650035336
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "jHFugrI9B9",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        84.23031767175574,
+        -79.66452917961212
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "XlxIouVX3A",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        83.38623046875,
+        -79.82395480310161
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "OD7ib7c8JY",
+        "title": "",
+        "description": "*在加油站后面",
+        "imageId": 1165616,
+        "imagePath": "/game_map_pin/1165616/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        81.25488281250001,
+        -79.02589601423401
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "o4TzcU1IwJ",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        73.60839843750001,
+        -74.47290269579455
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "zc789daqRz",
+        "title": "",
+        "description": "",
+        "imageId": 1165619,
+        "imagePath": "/game_map_pin/1165619/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        76.13525390625001,
+        -72.74452202433504
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "jxSUYCjWOj",
+        "title": "",
+        "description": "*在前面的建筑物上",
+        "imageId": 1165620,
+        "imagePath": "/game_map_pin/1165620/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        86.17675781250001,
+        -74.4316757552753
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "5UYjhKQiOe",
+        "title": "",
+        "description": "*建筑物的后面",
+        "imageId": 1165621,
+        "imagePath": "/game_map_pin/1165621/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        84.68261718750001,
+        -75.58493740869223
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "HMwprVwDiq",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        84.94628906250001,
+        -68.92681148621786
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "ov0sVlKgEZ",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        84.70458984375001,
+        -67.92514047803861
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "MLj9o1HHpf",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        81.18896484375001,
+        -49.41097319969585
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "vxHRLSdIlW",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        80.26611328125,
+        -45.59866568982065
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "ZS0SD3aFlz",
+        "title": "",
+        "description": "",
+        "imageId": 1165624,
+        "imagePath": "/game_map_pin/1165624/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        77.73925781250001,
+        -39.9602803542957
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "hqQhYH867H",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        72.61962890625001,
+        -38.06539235133248
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "0Tm1MtW1eS",
+        "title": "",
+        "description": "",
+        "imageId": 1165625,
+        "imagePath": "/game_map_pin/1165625/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        71.98242187500001,
+        -35.88905007936092
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "lQ8WQ0DiDu",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        71.67480468750001,
+        -24.08658925822804
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "YHetJg4r1W",
+        "title": "",
+        "description": "*在堆放木材的区域",
+        "imageId": 1165627,
+        "imagePath": "/game_map_pin/1165627/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        61.78710937500001,
+        -49.979487761086475
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "Y1YFjMmhkZ",
+        "title": "",
+        "description": "*建筑物的后面",
+        "imageId": 1165630,
+        "imagePath": "/game_map_pin/1165630/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        59.80957031250001,
+        -48.472921272487824
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "zDoWoHpovz",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        74.83886718750001,
+        -54.73730756865751
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "U2hvidpcKT",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        70.66406250000001,
+        -54.92714186454644
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "ryKstwc7bn",
+        "title": "",
+        "description": "*在卡车货物的背面",
+        "imageId": 1165631,
+        "imagePath": "/game_map_pin/1165631/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        91.99951171875001,
+        -56.31653672211301
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "ibiswfL59z",
+        "title": "",
+        "description": "*在天桥下",
+        "imageId": 1165635,
+        "imagePath": "/game_map_pin/1165635/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        97.66845703125001,
+        -50.37349614430351
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "XqjCBHyIc7",
+        "title": "",
+        "description": "*在建筑物的正面",
+        "imageId": 1165636,
+        "imagePath": "/game_map_pin/1165636/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        114.42554003426785,
+        -50.18286685523674
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "nSeqkozvnn",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        110.61035156250001,
+        -60.716197793577145
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "KDzk2CaMGr",
+        "title": "",
+        "description": "",
+        "imageId": 1165637,
+        "imagePath": "/game_map_pin/1165637/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        98.02001953125,
+        -58.24016354341643
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "VO0fNMeGbn",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        90.6591796875,
+        -61.825040379926115
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "HPrK4NKG2O",
+        "title": "",
+        "description": "*建筑物的后面",
+        "imageId": 1165638,
+        "imagePath": "/game_map_pin/1165638/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        94.10888671875001,
+        -62.36999628130772
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "UNCvg3gXri",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        109.11295628072062,
+        -67.19682487759843
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "g6VL3HPumv",
+        "title": "",
+        "description": "",
+        "imageId": 1165639,
+        "imagePath": "/game_map_pin/1165639/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        103.16162109375001,
+        -65.78475783804784
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "rxITuOTWHn",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        138.65748560035348,
+        -11.53308932621318
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "dznrMbCiTE",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        137.52685546875003,
+        -7.732765062729807
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "gj8tRMO8nk",
+        "title": "",
+        "description": "",
+        "imageId": 1165640,
+        "imagePath": "/game_map_pin/1165640/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        134.16503906250003,
+        -4.565473550710278
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "rzU7K97psg",
+        "title": "",
+        "description": "*在城墙之上",
+        "imageId": 1165643,
+        "imagePath": "/game_map_pin/1165643/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        128.91357421875003,
+        -2.04302395742204
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "hvEk8RecuL",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        128.56201171875003,
+        1.142502403706165
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "mjCV4KGt3g",
+        "title": "",
+        "description": "",
+        "imageId": 1165644,
+        "imagePath": "/game_map_pin/1165644/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        116.3232421875,
+        1.6477220517969353
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "lqqBWIgsBQ",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        121.34100581707676,
+        -1.7636581590046088
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "pkgMscf47C",
+        "title": "",
+        "description": "*在基础墙上",
+        "imageId": 1165976,
+        "imagePath": "/game_map_pin/1165976/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        119.3994140625,
+        -3.90809888189411
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "TecSc2JYRl",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        118.12500000000001,
+        -0.3515602939922709
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "urHqSmwSuF",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        127.48535156250001,
+        9.123792057073985
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "PsQiLT48Y2",
+        "title": "",
+        "description": "*在街道边",
+        "imageId": 1165977,
+        "imagePath": "/game_map_pin/1165977/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        123.40212864398625,
+        -15.54537863750204
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "qUeMzOSgiG",
+        "title": "",
+        "description": "*在棒球场上",
+        "imageId": 1165983,
+        "imagePath": "/game_map_pin/1165983/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        153.19293771738788,
+        -28.61870656876194
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "B4ShF8XYjo",
+        "title": "",
+        "description": "*在前车库门上",
+        "imageId": 1165984,
+        "imagePath": "/game_map_pin/1165984/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        149.06250000000003,
+        -33.90689555128868
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "bf99bfG4lk",
+        "title": "",
+        "description": "*在停车区",
+        "imageId": 1165986,
+        "imagePath": "/game_map_pin/1165986/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        147.48046875000003,
+        -42.42345651793833
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "Q7n3RRHlMj",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        131.70410156250003,
+        -51.20688339486561
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "plGp0uYmZh",
+        "title": "",
+        "description": "",
+        "imageId": 1165990,
+        "imagePath": "/game_map_pin/1165990/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        127.66113281250001,
+        -48.89361536148019
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "7crIQtgXht",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        124.62890625000001,
+        -56.218923189166624
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "FmyrhCNqXN",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        118.23486328125001,
+        -57.598334849584454
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "sqzMjKIdMv",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        125.37597656250001,
+        -61.63772622120811
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "NA5BOHWWrR",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        129.30908203125003,
+        -61.60639637138628
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "zYhupz0Li0",
+        "title": "",
+        "description": "",
+        "imageId": 1165996,
+        "imagePath": "/game_map_pin/1165996/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        121.37695312500001,
+        -64.64270382119373
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "MjFURJyTZt",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        118.32275390625001,
+        -63.99523519297698
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "5ZJrkj8hAR",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        100.54687500000001,
+        -73.41588526207096
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "OdUbOAAHIR",
+        "title": "",
+        "description": "",
+        "imageId": 1166000,
+        "imagePath": "/game_map_pin/1166000/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        75.37557474949323,
+        -65.80614368683874
+      ],
+      "properties": {
+        "externalId": "fleadHUegg",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        75.23437500000001,
+        -64.24459476798188
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "0wHHbI8lug",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        66.07177734375001,
+        -63.82128765261383
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "imageId": 1166008,
+        "externalId": "4ApAotKXLh",
+        "title": "",
+        "description": "",
+        "imagePath": "/game_map_pin/1166008/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        67.17041015625001,
+        -61.48075950007598
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "m9Uyy2FZJp",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        64.66552734375001,
+        -59.489726035537075
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "epTKOSmpef",
+        "title": "",
+        "description": "*在建筑物的正面",
+        "imageId": 1166011,
+        "imagePath": "/game_map_pin/1166011/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        82.77099609375,
+        -59.94400716933027
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "leeJE4FJM8",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        56.953125,
+        -61.090168316050516
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "EznihRsQ1C",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        52.77832031250001,
+        -61.91827102335593
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "0tlFWzpaGC",
+        "title": "",
+        "description": "*在开放屋顶区域",
+        "imageId": 1166016,
+        "imagePath": "/game_map_pin/1166016/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        52.16308593750001,
+        -62.784887782399174
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "GbRQSu6qDy",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        116.85058593750001,
+        -9.40571004160001
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "jjZgLRDEhl",
+        "title": "",
+        "description": "*建筑物的墙上",
+        "imageId": 1166021,
+        "imagePath": "/game_map_pin/1166021/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        52.44028743836514,
+        0.6271623553054361
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "RMaUqPzPRn",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        32.99022206387387,
+        31.04304006673838
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "1WU9Q8fthj",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -11.450739980607183,
+        41.040136110884816
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "DOEJWq3CN8",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -15.754394531250002,
+        45.55252525134013
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "bDKSdpCIix",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -19.577636718750004,
+        38.61687046392973
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "Q6IVrALqhb",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        38.63374022599488,
+        15.136249625808613
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "5otc3oahvt",
+        "title": "",
+        "description": "*在建筑物的左侧",
+        "imageId": 1166026,
+        "imagePath": "/game_map_pin/1166026/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        34.76074218750001,
+        10.962764256386821
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "hhbrVKtKwW",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        25.927734375000004,
+        7.471410908357838
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "ZPVLEQEGgI",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        22.104492187500004,
+        -2.460181181020993
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "YjDqp0WYyx",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        45.63720703125,
+        -18.687878686034182
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "njLN1ekwHE",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        46.07666015625001,
+        -8.450638800331001
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "fgOAUidPb3",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        56.49169921875001,
+        -7.972197714386866
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "Fw1W3NYF5j",
+        "title": "",
+        "description": "",
+        "imageId": 1166032,
+        "imagePath": "/game_map_pin/1166032/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        51.30615234375001,
+        -8.211490323420682
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "imageId": null,
+        "externalId": "OtqVSnBGuq",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        49.17480468750001,
+        -3.864254615721396
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "sJjfHXF9rX",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        55.61279296875001,
+        -0.4833927027896987
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "trTJqXzNJn",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        57.65625000000001,
+        3.7765593098768635
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "68Lr6Bo4iS",
+        "title": "",
+        "description": "*在建筑工地的建筑物上",
+        "imageId": 1166034,
+        "imagePath": "/game_map_pin/1166034/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        56.6455078125,
+        0.7470491450051796
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "8SOGFpqYCC",
+        "title": "",
+        "description": "*在火车轨道上方",
+        "imageId": 1166035,
+        "imagePath": "/game_map_pin/1166035/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        66.86279296875001,
+        -1.8014609294680355
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "imageId": 1166038,
+        "externalId": "1tFRPMZPMJ",
+        "title": "",
+        "description": "*在左侧建筑墙上",
+        "imagePath": "/game_map_pin/1166038/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        67.65380859375001,
+        1.6037944300589855
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "GPML7qbPfi",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        68.35693359375001,
+        -12.53311535727715
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "YTmXtw1aTh",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        64.68750000000001,
+        -13.795406203132826
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "ef9n8ywKCH",
+        "title": "",
+        "description": "*建筑物的后面",
+        "imageId": 1166039,
+        "imagePath": "/game_map_pin/1166039/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        59.96337890625001,
+        -14.072644954380316
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "JfQiAiCRA7",
+        "title": "",
+        "description": "*在建筑物的正面",
+        "imageId": 1166040,
+        "imagePath": "/game_map_pin/1166040/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        55.552785206441776,
+        18.31976588436541
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "2NoehAd9Xo",
+        "title": "",
+        "description": "*在建筑物的右侧",
+        "imageId": 1166042,
+        "imagePath": "/game_map_pin/1166042/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        56.07421875000001,
+        20.447602397594167
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "oo1Ns08YXG",
+        "title": "",
+        "description": "",
+        "imageId": 1166044,
+        "imagePath": "/game_map_pin/1166044/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        59.41406250000001,
+        21.596150576461437
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "JHmVoHy4q6",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        58.24951171875001,
+        25.105497373014686
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "LuUVSPzCrx",
+        "title": "",
+        "description": "*在自动取款机的右边",
+        "imageId": 1166045,
+        "imagePath": "/game_map_pin/1166045/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        53.63525390625001,
+        26.96124577052697
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "z6lg4inOVH",
+        "title": "",
+        "description": "",
+        "imageId": 1166046,
+        "imagePath": "/game_map_pin/1166046/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        31.948242187500004,
+        23.36242859340884
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "UIjnNqq819",
+        "title": "",
+        "description": "",
+        "imageId": 1166047,
+        "imagePath": "/game_map_pin/1166047/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        31.333007812500004,
+        23.785344805941214
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "ECjutcokga",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        18.457031250000004,
+        31.203404950917395
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "GjwTXkvxRh",
+        "title": "",
+        "description": "",
+        "imageId": 1166053,
+        "imagePath": "/game_map_pin/1166053/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        142.82514061655198,
+        -19.112067303575103
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "4CktWMkt6q",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        153.61308351395613,
+        7.383605345077949
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "wSz6pJSmBi",
+        "title": "",
+        "description": "",
+        "imageId": 1166054,
+        "imagePath": "/game_map_pin/1166054/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        154.02832031250003,
+        10.552621801948733
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "D6rE55Vqk8",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        146.15394605063238,
+        16.943504772329504
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "9sfYWTavEK",
+        "title": "",
+        "description": "*在基础墙上",
+        "imageId": 1166055,
+        "imagePath": "/game_map_pin/1166055/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        133.22021484375003,
+        7.9504368350293735
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "zOHdKEaEq5",
+        "title": "",
+        "description": "*在天桥下",
+        "imageId": 1166057,
+        "imagePath": "/game_map_pin/1166057/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        131.48437500000003,
+        8.146242825034385
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "ohuscVhSrp",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        142.40478515625003,
+        16.04581345375218
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "KvpZwLwsRK",
+        "title": "",
+        "description": "",
+        "imageId": 1166058,
+        "imagePath": "/game_map_pin/1166058/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        136.99951171875003,
+        12.91890657418042
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "d4YiDCgZrc",
+        "title": "",
+        "description": "",
+        "imageId": 1166059,
+        "imagePath": "/game_map_pin/1166059/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        138.80126953125003,
+        2.8113711933311403
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "jxdzi3Suro",
+        "title": "",
+        "description": "",
+        "imageId": 1166060,
+        "imagePath": "/game_map_pin/1166060/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        143.61328125000003,
+        8.90678000752024
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "fsWLazRDu8",
+        "title": "",
+        "description": "*街道下面",
+        "imageId": 1166061,
+        "imagePath": "/game_map_pin/1166061/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        142.18505859375003,
+        6.751896464843375
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "1YsDexCLrN",
+        "title": "",
+        "description": "*在摊位上",
+        "imageId": 1166064,
+        "imagePath": "/game_map_pin/1166064/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        123.96972656250001,
+        16.88865978738161
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "FjIsVgHpzI",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        124.18945312500001,
+        19.103648251663646
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "CaDi2WzLZF",
+        "title": "",
+        "description": "*湖边附近",
+        "imageId": 1166065,
+        "imagePath": "/game_map_pin/1166065/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        115.72998046875,
+        22.248428704383624
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "XKswik0yFU",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        118.43261718750001,
+        13.197164523281993
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "pSl6u1tDZZ",
+        "title": "",
+        "description": "*在地下区域的小巷",
+        "imageId": 1166066,
+        "imagePath": "/game_map_pin/1166066/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        106.78710937500001,
+        10.639013775260537
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "FutnxpEtXv",
+        "title": "",
+        "description": "*在地下道路",
+        "imageId": 1166068,
+        "imagePath": "/game_map_pin/1166068/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        102.54638671875001,
+        10.898042159726009
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "nIagM0DxXw",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        102.85400390625,
+        6.882800241767556
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "owwSpY5GdD",
+        "title": "",
+        "description": "",
+        "imageId": 1166070,
+        "imagePath": "/game_map_pin/1166070/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        98.63525390625,
+        4.740675384778373
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "Q6u7bY7MCf",
+        "title": "",
+        "description": "*在建筑物的拐角处的墙上",
+        "imageId": 1166072,
+        "imagePath": "/game_map_pin/1166072/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        94.3505859375,
+        3.2721456350750255
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "9mkpyMhnh1",
+        "title": "",
+        "description": "*在公交车站",
+        "imageId": 1166073,
+        "imagePath": "/game_map_pin/1166073/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        88.17626953125,
+        2.1088986592431382
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "tY4PP9ciQJ",
+        "title": "",
+        "description": "*在小巷里",
+        "imageId": 1166074,
+        "imagePath": "/game_map_pin/1166074/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        85.71533203125,
+        9.492408153765544
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "yDfdBvUyHJ",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        78.96972656250001,
+        0.4394488164139768
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "NVSH41bwJU",
+        "title": "",
+        "description": "*在停车区",
+        "imageId": 1166076,
+        "imagePath": "/game_map_pin/1166076/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        77.10205078125001,
+        -11.415418041941416
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "WPpNmCQtOq",
+        "title": "",
+        "description": "*在建筑物的正面",
+        "imageId": 1166077,
+        "imagePath": "/game_map_pin/1166077/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        77.87109375,
+        -14.306969497825788
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "gY6kdWgwuf",
+        "title": "",
+        "description": "",
+        "imageId": 1166078,
+        "imagePath": "/game_map_pin/1166078/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        76.88232421875001,
+        -1.8014609294680355
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "KIUNxaubzO",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        87.80273437500001,
+        -10.660607953624762
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "pLmu7b9dk2",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        90.69909977143554,
+        -7.545183613703152
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "OkhjdWM4E2",
+        "title": "",
+        "description": "*在高架区",
+        "imageId": 1166081,
+        "imagePath": "/game_map_pin/1166081/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        89.57113115839535,
+        -12.979965300257055
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "w8YVLe6kcZ",
+        "title": "",
+        "description": "*在建筑物的左侧墙上",
+        "imageId": 1166082,
+        "imagePath": "/game_map_pin/1166082/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        96.21826171875001,
+        -13.774066408054814
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "2Fid2APY1N",
+        "title": "",
+        "description": "*在建筑物的正面",
+        "imageId": 1166083,
+        "imagePath": "/game_map_pin/1166083/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        98.6572265625,
+        -13.539200668930816
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "MlVBsaC2dW",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        98.92089843750001,
+        -9.79567758282973
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "g5oVqIdOrQ",
+        "title": "",
+        "description": "*在小巷里",
+        "imageId": 1166084,
+        "imagePath": "/game_map_pin/1166084/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        100.29494512734635,
+        -5.1804897384321364
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "rm65EPDi96",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        99.42626953125001,
+        -5.528510525692789
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "T8hFA4GzvP",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        107.33938339145952,
+        -8.550830477502185
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "YtcFdenbd5",
+        "title": "",
+        "description": "*在建筑物前墙",
+        "imageId": 1166085,
+        "imagePath": "/game_map_pin/1166085/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        105.57861328125001,
+        -19.932041306115526
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "imageId": 1166095,
+        "externalId": "FzGV61gHad",
+        "title": "",
+        "description": "*在建筑物前墙",
+        "imagePath": "/game_map_pin/1166095/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        96.80989429393131,
+        -25.355181605108115
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "pSqptXc29L",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        88.63769531250001,
+        -21.289374355860424
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "lTZFjRqKt8",
+        "title": "",
+        "description": "*在城墙之上",
+        "imageId": 1166109,
+        "imagePath": "/game_map_pin/1166109/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        90.74707031250001,
+        -22.958393318086348
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "wVe1UYoOcg",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        102.04101562500001,
+        -12.511665400971019
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "imageId": null,
+        "externalId": "XM9EYIL3Z3",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        84.74774623836747,
+        23.484403752029973
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "imageId": null,
+        "externalId": "Fy9SOORgge",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        92.93341708846178,
+        25.103655724206234
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "sL8hgy6afk",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        94.85310918360372,
+        6.726346989656922
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "PPws6SK6GB",
+        "title": "",
+        "description": "*楼梯附近的墙上",
+        "imageId": 1166116,
+        "imagePath": "/game_map_pin/1166116/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        80.10383610606155,
+        -12.629943331802888
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "BWFcomGxMg",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        87.72189374395028,
+        -11.117057317226894
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "3q5Yr9LJy7",
+        "title": "",
+        "description": "",
+        "imageId": 1166122,
+        "imagePath": "/game_map_pin/1166122/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        114.43518547121941,
+        -20.217025008155456
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "siA0Sbaq2a",
+        "title": "",
+        "description": "",
+        "imageId": 1166123,
+        "imagePath": "/game_map_pin/1166123/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        119.22363281250001,
+        -21.616579336740603
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "X3QowU9nE7",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        128.25439453125003,
+        -28.420391085674304
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "xFdo1kbVnT",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        91.318359375,
+        -30.467614102257855
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "GFBa7mYcg9",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        99.99755859375001,
+        -28.86391842622455
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "YKOdMi4Cev",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        115.35644531250001,
+        -31.57853542647338
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "ow0wFUB1PU",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        119.99267578125,
+        -31.672083485607388
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "KZeUuQ9jhN",
+        "title": "",
+        "description": "*在房子的前面",
+        "imageId": 1166126,
+        "imagePath": "/game_map_pin/1166126/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        84.46686113370805,
+        -20.220535192428475
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "gv4RCGPLXo",
+        "title": "",
+        "description": "",
+        "imageId": 1166127,
+        "imagePath": "/game_map_pin/1166127/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        85.62744140625,
+        -18.3336694457713
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "ZTavFt35oo",
+        "title": "",
+        "description": "*在巷子停车",
+        "imageId": 1166128,
+        "imagePath": "/game_map_pin/1166128/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        118.811086148669,
+        -55.0056527758274
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "xyumtaLJwZ",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        64.57176102277909,
+        -66.885140920313
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "oXXLOuuGsw",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        66.90673828125001,
+        -70.37785394109224
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "x18g8iQR7z",
+        "title": "",
+        "description": "",
+        "imageId": 1166190,
+        "imagePath": "/game_map_pin/1166190/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        62.00683593750001,
+        -73.54085516273933
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "4mgtdyQbGK",
+        "title": "",
+        "description": "",
+        "imageId": 1166191,
+        "imagePath": "/game_map_pin/1166191/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        54.20846900106785,
+        -76.15528487501678
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "F9BbsSxDb7",
+        "title": "",
+        "description": "*在碎石山顶",
+        "imageId": 1166194,
+        "imagePath": "/game_map_pin/1166194/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        53.28369140625,
+        -76.8207925254374
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "BVxqhv9bo1",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        49.24072265625001,
+        -76.67978490310692
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "KreWbuG02w",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        39.70458984375001,
+        -76.51681887717322
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "98PjH0BQ4z",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        41.83593750000001,
+        -75.21946035674114
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "imageId": 1166195,
+        "externalId": "HuoxqgKZid",
+        "title": "",
+        "description": "*在建筑物的后面。靠近红色楼梯",
+        "imagePath": "/game_map_pin/1166195/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        33.28857421875001,
+        -75.95223506623554
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "MFLKkOayJn",
+        "title": "",
+        "description": "*在开放屋顶区域",
+        "imageId": 1166196,
+        "imagePath": "/game_map_pin/1166196/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        45.93033394552002,
+        -65.97439271579611
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "YcOJpe0UW4",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        43.48388671875,
+        -66.87834504307976
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "xKcNF504wk",
+        "title": "",
+        "description": "*在棚子上",
+        "imageId": 1166207,
+        "imagePath": "/game_map_pin/1166207/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        16.724904982017176,
+        -70.1645076761088
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "Ia5icJCAeh",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        16.677246093750004,
+        -70.95252765818387
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "UHKNd1YNK7",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        15.754394531250002,
+        -71.84253921416637
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "aVNxu0aMsc",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        44.14613854439437,
+        -69.88998978011206
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "dC2AXuWda0",
+        "title": "",
+        "description": "",
+        "imageId": 1166211,
+        "imagePath": "/game_map_pin/1166211/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        54.70807560638266,
+        -70.07129119411226
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "gUZOznGNeE",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -9.762020329457764,
+        -77.72496246221851
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "Nm4msfYN6h",
+        "title": "",
+        "description": "*在帐篷的中央",
+        "imageId": 1166214,
+        "imagePath": "/game_map_pin/1166214/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -14.589843750000002,
+        -78.24243607612065
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "apI4luxXEn",
+        "title": "",
+        "description": "",
+        "imageId": 1166215,
+        "imagePath": "/game_map_pin/1166215/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        0.8569335937500001,
+        -77.61770905279674
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "d381qMuVIO",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -2.2192382812500004,
+        -77.31734495666592
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "ZNV3XHak7Y",
+        "title": "",
+        "description": "*在墙边",
+        "imageId": 1166217,
+        "imagePath": "/game_map_pin/1166217/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -4.548339843750001,
+        -76.42429214465984
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "NTVsaz376K",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        1.1865234375000002,
+        -75.47513069090053
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "7bnjhCNIZd",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -0.6591796875000001,
+        -74.99356557082163
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "VzTkUETeXC",
+        "title": "",
+        "description": "*在开放的屋顶区域",
+        "imageId": 1166218,
+        "imagePath": "/game_map_pin/1166218/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        8.635253906250002,
+        -75.03901279805076
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "pL7ZHUWPPy",
+        "title": "",
+        "description": "*在开放屋顶区域",
+        "imageId": 1166219,
+        "imagePath": "/game_map_pin/1166219/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        10.546875000000002,
+        -76.6087265897133
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "0WLQphIBCd",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -13.31222360737134,
+        -79.21471390426464
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "02CicnW7FB",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -7.360839843750001,
+        -79.82395480310161
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "5XwMIamsBn",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        9.843750000000002,
+        -78.30940815087651
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "EkaXeHRsgS",
+        "title": "",
+        "description": "",
+        "imageId": 1166224,
+        "imagePath": "/game_map_pin/1166224/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        16.325683593750004,
+        -78.45542534118533
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "kYztiYMfxO",
+        "title": "",
+        "description": "*管道内部",
+        "imageId": 1166226,
+        "imagePath": "/game_map_pin/1166226/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        18.325195312500004,
+        -77.97074497652059
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "rhYhDvRgDw",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        29.882812500000004,
+        -76.60363677889099
+      ],
+      "properties": {
+        "externalId": "nccaZRGoq5",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        34.73876953125001,
+        -77.56104173187532
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "Uo5jPkfyMv",
+        "title": "",
+        "description": "",
+        "imageId": 1166230,
+        "imagePath": "/game_map_pin/1166230/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        38.07668139060243,
+        -79.1948811774336
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "ntX3hzEsQN",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        37.63916015625001,
+        -79.0342585284707
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "yJaZ4nxN40",
+        "title": "",
+        "description": "",
+        "imageId": 1166233,
+        "imagePath": "/game_map_pin/1166233/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        45.87890625,
+        -79.43237075914709
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "IlqvjJOmY0",
+        "title": "",
+        "description": "*在管道上",
+        "imageId": 1166234,
+        "imagePath": "/game_map_pin/1166234/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        34.87060546875001,
+        -78.87428918480732
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "Rsrt5nUOXG",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        31.874917993865868,
+        -74.92752507441564
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "9xdeeTztlR",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        55.65586593959665,
+        -69.96148742091347
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "osPn9RbIfa",
+        "title": "",
+        "description": "*地下管道",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        149.70520767640127,
+        59.01619830825358
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "Xy3c88noxq",
+        "title": "",
+        "description": "*在下方路径的基地墙上",
+        "imageId": 1167045,
+        "imagePath": "/game_map_pin/1167045/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        136.58203125000003,
+        57.40946113558119
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "TjXiUDpXsx",
+        "title": "",
+        "description": "*在圆形水泥上",
+        "imageId": 1167047,
+        "imagePath": "/game_map_pin/1167047/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        131.63818359375003,
+        54.635697306063854
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "IZILGcQ9oE",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        11.656638938596133,
+        -69.10237451762201
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "7AhUlEA3y4",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        9.360351562500002,
+        -67.16995497083366
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "D4xdvLvrJY",
+        "title": "",
+        "description": "*在建大坝下方",
+        "imageId": 1167055,
+        "imagePath": "/game_map_pin/1167055/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        148.14261957786337,
+        20.42695393581299
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "bIauxnu91p",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        152.18261718750003,
+        36.12012758978146
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "QnKkn36kWV",
+        "title": "",
+        "description": "*在道路上",
+        "imageId": 1167060,
+        "imagePath": "/game_map_pin/1167060/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        138.31787109375003,
+        31.31610138349565
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "Jr1VMmOzHb",
+        "title": "",
+        "description": "*在道路上",
+        "imageId": 1167061,
+        "imagePath": "/game_map_pin/1167061/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        136.62597656250003,
+        34.813803317113155
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "cTV45fnw3p",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        132.69287109375003,
+        39.80853604144591
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "5t3EdbtijO",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        136.36230468750003,
+        26.745610382199022
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "gbpDjsR25k",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        137.13134765625003,
+        28.613459424004414
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "P3tU1EBkfj",
+        "title": "",
+        "description": "*在建筑物的左侧",
+        "imageId": 1167063,
+        "imagePath": "/game_map_pin/1167063/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        149.32617187500003,
+        24.387127324604506
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "HMIAqsjWfq",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        133.65966796875003,
+        21.90227796666864
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "4x6bXShRt0",
+        "title": "",
+        "description": "*在墙角",
+        "imageId": 1167064,
+        "imagePath": "/game_map_pin/1167064/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        123.35449218750001,
+        23.059516273509317
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "Jpbrlq43Gl",
+        "title": "",
+        "description": "*在地下停车场",
+        "imageId": 1167065,
+        "imagePath": "/game_map_pin/1167065/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        128.01269531250003,
+        25.025884063244828
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "PShykktTAD",
+        "title": "",
+        "description": "",
+        "imageId": 1167066,
+        "imagePath": "/game_map_pin/1167066/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        124.03564453125001,
+        31.914867503276223
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "4z4KL0A4ty",
+        "title": "",
+        "description": "*在小巷里",
+        "imageId": 1167067,
+        "imagePath": "/game_map_pin/1167067/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        121.57470703125001,
+        35.33529320309331
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "9hrj3HyRSR",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        114.91699218750001,
+        31.109388560814963
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "X27y53qw4O",
+        "title": "",
+        "description": "*在建筑物的拐角处",
+        "imageId": 1167081,
+        "imagePath": "/game_map_pin/1167081/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        101.42578125000001,
+        28.420391085674304
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "imageId": null,
+        "externalId": "ZBv1CkfYY4",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        97.62451171875001,
+        28.323724553546015
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "oaQUD8qltm",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        106.98486328125001,
+        33.44977658311846
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "kNacXLnOqe",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        107.40234375000001,
+        34.05265942137599
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "cgfeQeT0FK",
+        "title": "",
+        "description": "",
+        "imageId": 1167084,
+        "imagePath": "/game_map_pin/1167084/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        103.9532290417285,
+        39.129022612880476
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "yg8avwFyeo",
+        "title": "",
+        "description": "*在小巷",
+        "imageId": 1167086,
+        "imagePath": "/game_map_pin/1167086/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        100.02159616316563,
+        38.71551575076689
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "xstB5QOPql",
+        "title": "",
+        "description": "*在小巷",
+        "imageId": 1167087,
+        "imagePath": "/game_map_pin/1167087/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        105.73242187500007,
+        36.49197347059365
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "imageId": 1167089,
+        "externalId": "9ePHeCtYSl",
+        "title": "",
+        "description": "*在天桥下",
+        "imagePath": "/game_map_pin/1167089/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        98.87695312500001,
+        41.409775832009565
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "nX4bYXi0Kw",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        109.16015625000001,
+        42.76314586689494
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "nWSUfhq7vk",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        106.23779296875001,
+        43.97700467496408
+      ],
+      "properties": {
+        "externalId": "VsF70BvMIg",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        104.1064453125,
+        43.59630591596551
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "zu1FefXRRY",
+        "title": "",
+        "description": "",
+        "imageId": 1167093,
+        "imagePath": "/game_map_pin/1167093/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        110.8740234375,
+        45.321254361171476
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "uPzVsZbDNs",
+        "title": "",
+        "description": "",
+        "imageId": 1167097,
+        "imagePath": "/game_map_pin/1167097/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        110.41259765625001,
+        50.972264889367494
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "lUzWGTKU0U",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        107.75973658186646,
+        17.83422159206188
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "qblGr3bCYz",
+        "title": "",
+        "description": "*在建筑物的左侧",
+        "imageId": 1167100,
+        "imagePath": "/game_map_pin/1167100/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        96.70166015625,
+        25.46311452925943
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "cNSW0MOYtj",
+        "title": "",
+        "description": "*在建筑物的右侧",
+        "imageId": 1167102,
+        "imagePath": "/game_map_pin/1167102/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        92.39501953125,
+        29.726222319395504
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "why3X7q5lW",
+        "title": "",
+        "description": "",
+        "imageId": 1167104,
+        "imagePath": "/game_map_pin/1167104/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        88.94531250000001,
+        39.232253141714914
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "L0VIJ3MpSy",
+        "title": "",
+        "description": "*在建筑物的右侧",
+        "imageId": 1167114,
+        "imagePath": "/game_map_pin/1167114/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        92.548828125,
+        44.2294565683017
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "acqRBFDRpS",
+        "title": "",
+        "description": "*建筑物的角落",
+        "imageId": 1167118,
+        "imagePath": "/game_map_pin/1167118/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        83.89160156250001,
+        42.65012181368025
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "5Smc41BJDm",
+        "title": "",
+        "description": "*在火车轨道上",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        80.74951171875001,
+        41.36031866306708
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "PqqD8JmLWN",
+        "title": "",
+        "description": "",
+        "imageId": 1167119,
+        "imagePath": "/game_map_pin/1167119/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        81.40869140625001,
+        38.95940879245423
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "DUKTFzaFsF",
+        "title": "",
+        "description": "*在建筑物的左侧",
+        "imageId": 1167120,
+        "imagePath": "/game_map_pin/1167120/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        76.79443359375001,
+        40.78054143186033
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "imageId": 1167121,
+        "externalId": "WzHPHwsClL",
+        "title": "",
+        "description": "*在降低的区域",
+        "imagePath": "/game_map_pin/1167121/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        71.03759765625001,
+        44.29240108529008
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "8EyWlhGfZw",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        84.11132812500001,
+        51.7406361640977
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "7n3T9EwXHn",
+        "title": "",
+        "description": "*在拐角和公寓大楼的中间",
+        "imageId": 1167122,
+        "imagePath": "/game_map_pin/1167122/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        135.33657802098406,
+        63.51413505858944
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "e4JYziJiXD",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        129.02343750000003,
+        66.89559561140706
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "8Upvh5BVjS",
+        "title": "",
+        "description": "*在开放屋顶区域",
+        "imageId": 1167124,
+        "imagePath": "/game_map_pin/1167124/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        124.89257812500001,
+        65.8837040515135
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "hoxIvElVVV",
+        "title": "",
+        "description": "*在车库门的正面",
+        "imageId": 1167125,
+        "imagePath": "/game_map_pin/1167125/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        116.63085937500001,
+        68.41535220938925
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "cTBGbFljbP",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        116.12548828125001,
+        66.16051056018838
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "wtrGh5ccYh",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        109.70947265625001,
+        68.69650487125402
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "9mi3bKL6Zp",
+        "title": "",
+        "description": "",
+        "imageId": 1167127,
+        "imagePath": "/game_map_pin/1167127/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        101.39908850033082,
+        70.98060251985713
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "imageId": null,
+        "externalId": "SOmNl3u9zb",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        109.53369140625001,
+        71.15939141681443
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "VXPRSvundi",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        100.96435546875,
+        65.35767693905089
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "eM50nk5Jbw",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        100.48095703125,
+        66.84380738188501
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "MrYAYtSGEM",
+        "title": "",
+        "description": "*On the road hedge",
+        "imageId": 1167130,
+        "imagePath": "/game_map_pin/1167130/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        103.77685546875001,
+        67.17847883174849
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "awLH8qYWtF",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        96.15234375,
+        68.5362764153349
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "MDkVc9fsgg",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        85.166015625,
+        71.50400873687693
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "pqF5SVIifL",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        89.03320312500001,
+        69.76375692223178
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "JpHijyeQN5",
+        "title": "",
+        "description": "*建筑物的后面",
+        "imageId": 1167135,
+        "imagePath": "/game_map_pin/1167135/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        85.2099609375,
+        70.60531901924371
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "qJCI8XsXRv",
+        "title": "",
+        "description": "*在棒球场上",
+        "imageId": 1167136,
+        "imagePath": "/game_map_pin/1167136/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        88.52783203125001,
+        70.55417853776078
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "JOeAkXLQk7",
+        "title": "",
+        "description": "",
+        "imageId": 1167137,
+        "imagePath": "/game_map_pin/1167137/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        91.82373046875,
+        71.20191973293133
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "ItySjVw3ep",
+        "title": "",
+        "description": "*要击中广告牌，你必须前往隧道上方的长跳挑战。从那里继续跳跃直到到达最后一个天桥道路",
+        "imageId": 1167140,
+        "imagePath": "/game_map_pin/1167140/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        83.25439453125001,
+        64.4348920430406
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "2ytspwgTrB",
+        "title": "",
+        "description": "*在立交桥上",
+        "imageId": 1167144,
+        "imagePath": "/game_map_pin/1167144/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        79.25537109375001,
+        62.44124178683124
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "cL1zdCDWg5",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        68.73046875000001,
+        62.0421377037976
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "XC1hZWHzVQ",
+        "title": "",
+        "description": "*在高尔夫球场",
+        "imageId": 1167148,
+        "imagePath": "/game_map_pin/1167148/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        61.30371093750001,
+        59.76746035005358
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "imageId": null,
+        "externalId": "iz5ox6lK4S",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        66.18164062500001,
+        54.96500166110205
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "sNAsn1GRXs",
+        "title": "",
+        "description": "*仓筒上",
+        "imageId": 1167152,
+        "imagePath": "/game_map_pin/1167152/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        68.51074218750001,
+        55.20395325785898
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "6bOS7mORFS",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        53.85498046875001,
+        54.03358633521085
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "BuCUurW1L8",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        42.69287109375001,
+        57.02877385149115
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "ikpX9WGy4i",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        41.52832031250001,
+        48.705462895790575
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "fMQ6jnNTRt",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        43.8134765625,
+        46.13417004624326
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "3dKzXHJ9DT",
+        "title": "",
+        "description": "*Near the silo",
+        "imageId": 1167154,
+        "imagePath": "/game_map_pin/1167154/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        42.01171875000001,
+        45.85941212790755
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "hEYI9d6xlO",
+        "title": "",
+        "description": "",
+        "imageId": 1167155,
+        "imagePath": "/game_map_pin/1167155/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        57.85400390625,
+        38.04809106745726
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "5R8GzdqVq4",
+        "title": "",
+        "description": "",
+        "imageId": 1167158,
+        "imagePath": "/game_map_pin/1167158/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        60.71044921875001,
+        34.92197103616377
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "En942DRFMn",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        63.25927734375001,
+        34.92197103616377
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "6hKiILZhgj",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        65.01708984375001,
+        33.61461929233378
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "bFmJgXMgTo",
+        "title": "",
+        "description": "*建筑物的后面",
+        "imageId": 1167161,
+        "imagePath": "/game_map_pin/1167161/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        70.48828125000001,
+        34.19817309627726
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "d9sS2l1jNQ",
+        "title": "",
+        "description": "*在小巷",
+        "imageId": 1167163,
+        "imagePath": "/game_map_pin/1167163/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        67.45605468750001,
+        38.73694606567603
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "s2vxkeRfLi",
+        "title": "",
+        "description": "*在小巷",
+        "imageId": 1167164,
+        "imagePath": "/game_map_pin/1167164/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        72.39990234375001,
+        40.66397287638688
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "3nyT46F3UV",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        76.5966796875,
+        20.138470312451155
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "gOsCADyFoy",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        73.67431640625001,
+        30.732392734006083
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "dODLp69YOD",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        76.20117187500001,
+        28.304380682962783
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "PQVPhC8DJg",
+        "title": "",
+        "description": "*在小巷",
+        "imageId": 1167167,
+        "imagePath": "/game_map_pin/1167167/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        73.01513671875001,
+        31.147006308556566
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "vij0pDNef4",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        74.55322265625001,
+        24.647017162630366
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "uloqmHT5ON",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        75.58593750000001,
+        36.527294814546245
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "tgZUBnOMpb",
+        "title": "",
+        "description": "*在火车轨道上",
+        "imageId": 1167171,
+        "imagePath": "/game_map_pin/1167171/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        78.17871093750001,
+        15.686509572551435
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "PW17YNGeQl",
+        "title": "",
+        "description": "*在建筑物的左侧",
+        "imageId": 1167189,
+        "imagePath": "/game_map_pin/1167189/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        72.57568359375001,
+        14.668625907385914
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "QdcDjIZD63",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        68.41358356839596,
+        69.18512521408189
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "odJR5VhDGK",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        68.09326171875001,
+        74.38442852287905
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "hKInMqpDsb",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        64.68750000000001,
+        73.60919783165053
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "XDa2aLOMK8",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        53.08593750000001,
+        74.55503734449476
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "Ytkxzsan0Z",
+        "title": "",
+        "description": "*靠近快餐店",
+        "imageId": 1167192,
+        "imagePath": "/game_map_pin/1167192/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        56.57958984375001,
+        71.85622888185527
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "cAOfP2oSix",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        56.49169921875001,
+        69.74094412836399
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "bLulzZ9ztC",
+        "title": "",
+        "description": "",
+        "imageId": 1167194,
+        "imagePath": "/game_map_pin/1167194/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        52.646484375,
+        65.80277639340238
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "5E79ro1aDX",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        56.38183593750001,
+        64.74601725111455
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "TU1NCkk0vF",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        39.29491535179823,
+        64.92809453257622
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "dP2qLu6oZD",
+        "title": "",
+        "description": "",
+        "imageId": 1167197,
+        "imagePath": "/game_map_pin/1167197/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        45.77502771160794,
+        73.50186411823076
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "rx3JaguKjU",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        36.91406250000001,
+        74.25377659751283
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "eDWy0zTeDC",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        28.564453125000004,
+        74.79314319844113
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "1JpIBxZXOw",
+        "title": "",
+        "description": "",
+        "imageId": 1167200,
+        "imagePath": "/game_map_pin/1167200/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        26.542968750000004,
+        75.80750672433345
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "xknInp3fn2",
+        "title": "",
+        "description": "*在商场的后面",
+        "imageId": 1167201,
+        "imagePath": "/game_map_pin/1167201/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        22.82958984375,
+        68.70448628851169
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "8BxKfiGwDE",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        22.851562500000004,
+        68.37490016066832
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "8kN2DgtQXk",
+        "title": "",
+        "description": "*在风车下",
+        "imageId": 1167205,
+        "imagePath": "/game_map_pin/1167205/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        28.520507812500004,
+        70.28170449789057
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "QAj75X2QdJ",
+        "title": "",
+        "description": "*在建筑物的右侧",
+        "imageId": 1167208,
+        "imagePath": "/game_map_pin/1167208/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        33.09082031250001,
+        70.79413934642666
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "NbSS8HViQo",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        16.809082031250004,
+        68.08150831161802
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "0kyDnZUOsi",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        13.513183593750002,
+        71.98578418101603
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "imageId": null,
+        "externalId": "aZIGkAKOB6",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        10.920410156250002,
+        73.16953636227886
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "ie5FpAdBQf",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -1.8676757812500002,
+        71.46213966619457
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "M9t5UXhRQZ",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -6.459960937500001,
+        71.335983102213
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "JqzGDw9uki",
+        "title": "",
+        "description": "*在停车区的开放屋顶区域",
+        "imageId": 1167211,
+        "imagePath": "/game_map_pin/1167211/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -7.844238281250001,
+        68.86351700272681
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "2BBerygh3M",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -0.15380859375000003,
+        68.942606818121
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "jUTrQXalD3",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -3.6694335937500004,
+        66.59194802140541
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "FEEYxvvVsH",
+        "title": "",
+        "description": "*在筒仓的后面",
+        "imageId": 1167214,
+        "imagePath": "/game_map_pin/1167214/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -6.262207031250001,
+        63.94702456462176
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "dIqZ6SnjpF",
+        "title": "",
+        "description": "*在建筑工地的厕所隔间前面",
+        "imageId": 1167215,
+        "imagePath": "/game_map_pin/1167215/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -13.073730468750002,
+        68.88727366584355
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "RMBbf46GWl",
+        "title": "",
+        "description": "",
+        "imageId": 1167216,
+        "imagePath": "/game_map_pin/1167216/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        3.9331054687500004,
+        58.401711667608
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "imageId": null,
+        "externalId": "4ttSj3js0R",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        4.768066406250001,
+        56.956957113368325
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "j3RZhk9SDp",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        8.415527343750002,
+        55.973798205076605
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "WWhWynhqlb",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        19.31396484375,
+        60.163376056487756
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "imageId": 1167218,
+        "externalId": "qbEjgkqZBP",
+        "title": "",
+        "description": "*在绿色集装箱小屋的后面",
+        "imagePath": "/game_map_pin/1167218/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        14.985351562500002,
+        59.74532608213611
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "fJ9hOT9WMP",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        23.774414062500004,
+        56.31653672211301
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "8eYN7l6wE6",
+        "title": "",
+        "description": "*在红色车库上",
+        "imageId": 1167221,
+        "imagePath": "/game_map_pin/1167221/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        24.060058593750004,
+        57.97315745102812
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "2jnXTrD6eo",
+        "title": "",
+        "description": "*在房子前面损坏的面包车附近",
+        "imageId": 1167222,
+        "imagePath": "/game_map_pin/1167222/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        9.699064559655612,
+        47.901864941249016
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "F96scQCMpn",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        21.313476562500004,
+        36.40359962073253
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "xwB0II3DyM",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        25.59614085556755,
+        26.329840885281843
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "s3UQQNMB0s",
+        "title": "",
+        "description": "*在白色车库的前面",
+        "imageId": 1167223,
+        "imagePath": "/game_map_pin/1167223/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        24.301757812500004,
+        32.84267363195431
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "xv6oKXEfH1",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        47.61889952838539,
+        -56.96681539740075
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "Fd8AtuJIDE",
+        "title": "",
+        "description": "",
+        "imageId": 1167577,
+        "imagePath": "/game_map_pin/1167577/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        46.38427734375001,
+        -56.897003921272606
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "ICYCNW6lS3",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        24.301757812500004,
+        -53.748710796898976
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "LD25knVXw6",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -21.892639208713877,
+        -50.22500576280692
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "imageId": null,
+        "externalId": "9wJIpqFub9",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -39.70458984375001,
+        -59.38917842312835
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "yDddb8KgNl",
+        "title": "",
+        "description": "*开放屋顶区域",
+        "imageId": 1167583,
+        "imagePath": "/game_map_pin/1167583/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        26.86133935274318,
+        63.604977332680214
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "tzIEqbwJ24",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -34.9843715206502,
+        60.87426446438286
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "2NB4wRFkDV",
+        "title": "",
+        "description": "*在开放屋顶区域",
+        "imageId": 1167588,
+        "imagePath": "/game_map_pin/1167588/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -19.753417968750004,
+        63.93737246791484
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "hZOHLfthiI",
+        "title": "",
+        "description": "*在建筑物的右侧",
+        "imageId": 1167589,
+        "imagePath": "/game_map_pin/1167589/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -18.896484375000004,
+        63.49957278566866
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "uN5zZHeFDG",
+        "title": "",
+        "description": "*在废品场",
+        "imageId": 1167590,
+        "imagePath": "/game_map_pin/1167590/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -26.9384765625,
+        66.51326044311188
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "S3GOlrjp4r",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -33.88183593750001,
+        67.33139405110589
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "imageId": 1167594,
+        "externalId": "P1wf2geTuO",
+        "title": "",
+        "description": "*在路边",
+        "imagePath": "/game_map_pin/1167594/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -45.59326171875,
+        66.01801815922045
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "xRkoFGZNWg",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -36.56250000000001,
+        55.229023057406344
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "3t04uBSlMJ",
+        "title": "",
+        "description": "*在建筑物的左侧",
+        "imageId": 1167597,
+        "imagePath": "/game_map_pin/1167597/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -44.16503906250001,
+        56.595790529520585
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "ajEecv5bui",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -43.02246093750001,
+        56.49889156789072
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "qZwpKuXlq2",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -60.49072265625001,
+        60.08676274626006
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "WLHCVfQlsV",
+        "title": "",
+        "description": "*在开放屋顶区域",
+        "imageId": 1167600,
+        "imagePath": "/game_map_pin/1167600/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -63.87451171875001,
+        63.68524808030715
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "BXrDJIddXu",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -63.25927734375001,
+        56.17002298293205
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "jmmktrM9xY",
+        "title": "",
+        "description": "",
+        "imageId": 1167601,
+        "imagePath": "/game_map_pin/1167601/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -78.02490234375001,
+        63.479957459231464
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "7mUObR0kMf",
+        "title": "",
+        "description": "",
+        "imageId": 1167602,
+        "imagePath": "/game_map_pin/1167602/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -86.79199218750001,
+        60.930432202923335
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "XnOrf1OxTc",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -89.49462890625,
+        55.91227293006361
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "5jZ1cZcTtU",
+        "title": "",
+        "description": "*在移动房屋营地",
+        "imageId": 1167614,
+        "imagePath": "/game_map_pin/1167614/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -94.98779296875,
+        45.767522962149904
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "fpHQk8bn4K",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -97.18505859375001,
+        37.43997405227057
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "Y5ZAPMB7cR",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -98.76708984375001,
+        32.879587173066305
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "OEo2nfT5nm",
+        "title": "",
+        "description": "",
+        "imageId": 1167615,
+        "imagePath": "/game_map_pin/1167615/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -86.02294921875001,
+        38.75408327579141
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "xMRjX6IFOO",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -82.90283203125001,
+        44.465151013519645
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "4yBArMJjfr",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -77.27783203125,
+        52.429222277955134
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "yY5eY3EA8p",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -75.45410156250001,
+        52.93539665862318
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "imageId": 1167618,
+        "externalId": "LK1EUo7QwL",
+        "title": "",
+        "description": "*在废弃的谷仓内",
+        "imagePath": "/game_map_pin/1167618/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -86.396484375,
+        37.54457732085584
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "7kxJjI0JBG",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -85.0341796875,
+        37.19533058280065
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "TDwcjKkoNb",
+        "title": "",
+        "description": "*在俯瞰区",
+        "imageId": 1167630,
+        "imagePath": "/game_map_pin/1167630/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -83.69321909369734,
+        -10.588119531731794
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "EaQCF3366y",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -93.31787109375001,
+        -4.981505049328246
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "lqyp55aqOX",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -93.25195312500001,
+        14.072644954380328
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "imageId": null,
+        "externalId": "H7qXEsF3Ky",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -92.35107421875001,
+        22.654571520099008
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "EzOFNW72nj",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -86.11083984375001,
+        7.27529233637217
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "akGxUKR8rO",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -77.69531250000001,
+        6.227933930268672
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "ZE9pW6vUaZ",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -73.85009765625001,
+        1.3621763466641712
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "am88Bw6eef",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -67.03857421875001,
+        16.06692895745012
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "qaCzkQRrEn",
+        "title": "",
+        "description": "*在蓝色/红色车库的前面",
+        "imageId": 1167633,
+        "imagePath": "/game_map_pin/1167633/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -75.56810789428012,
+        28.52281551052011
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "NVQ4Iuu1bi",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -73.45458984375001,
+        29.878755346037977
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "T9lmDuxlzf",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -76.92626953125001,
+        36.686041276581925
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "AWb4BNcIAB",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -82.88085937500001,
+        27.46928747369202
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "fdrbsCESSj",
+        "title": "",
+        "description": "*路隧道的外墙",
+        "imageId": 1167636,
+        "imagePath": "/game_map_pin/1167636/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -75.14648437500001,
+        29.935895213372444
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "wXfX53ylcQ",
+        "title": "",
+        "description": "",
+        "imageId": 1167638,
+        "imagePath": "/game_map_pin/1167638/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -69.54345703125001,
+        38.03078569382294
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "waRqznEprj",
+        "title": "",
+        "description": "",
+        "imageId": 1167640,
+        "imagePath": "/game_map_pin/1167640/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -48.076171875000014,
+        45.8134864967995
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "Ob4e4ao1KV",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -54.647460178395654,
+        33.604804357000305
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "uoGtgJ4BUu",
+        "title": "",
+        "description": "*在传输塔下方",
+        "imageId": 1167642,
+        "imagePath": "/game_map_pin/1167642/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -44.18701171875001,
+        32.768800484881666
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "imageId": 1167645,
+        "externalId": "MyopVairrn",
+        "title": "",
+        "description": "*在车库前面",
+        "imagePath": "/game_map_pin/1167645/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -49.21875000000001,
+        37.45741810262938
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "fjiXmjEhy4",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -18.26617272996875,
+        48.2009653376342
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "XxS5wzX64S",
+        "title": "",
+        "description": "",
+        "imageId": 1167647,
+        "imagePath": "/game_map_pin/1167647/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -8.217773437500002,
+        47.88688085106901
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "7t8jB0oxZJ",
+        "title": "",
+        "description": "*在道路上",
+        "imageId": 1167650,
+        "imagePath": "/game_map_pin/1167650/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -9.470214843750002,
+        55.30413773740139
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "n1qtDW8S7b",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -4.042968750000001,
+        49.83798245308484
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "cSb2ruMu7c",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -1.2932345351917653,
+        26.31804499609789
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "Pw80KFKQFr",
+        "title": "",
+        "description": "",
+        "imageId": 1167651,
+        "imagePath": "/game_map_pin/1167651/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -16.02734706751737,
+        30.26234834289771
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "yB9JQyXioL",
+        "title": "",
+        "description": "*在建筑物的左侧",
+        "imageId": 1167653,
+        "imagePath": "/game_map_pin/1167653/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -18.676757812500004,
+        28.998531814051795
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "MqAlAwFrSl",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -16.611328125000004,
+        32.676372772089834
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "FCh1V5V77F",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -33.99892014604517,
+        27.17842630277468
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "ChMToWIcyp",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -31.354980468750004,
+        29.15216128331894
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "wFGjCTl4ds",
+        "title": "",
+        "description": "*在基础墙上",
+        "imageId": 1167654,
+        "imagePath": "/game_map_pin/1167654/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -26.059570312500004,
+        27.52775820686191
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "W9jHtTQPPf",
+        "title": "",
+        "description": "*在圆形高地上",
+        "imageId": 1167655,
+        "imagePath": "/game_map_pin/1167655/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -30.080566406250004,
+        30.202113679097252
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "FfhCZN5Dmo",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -37.99072265625,
+        31.784216884487385
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "A6XicTB4tS",
+        "title": "",
+        "description": "*在隧道轨道的顶部",
+        "imageId": 1167656,
+        "imagePath": "/game_map_pin/1167656/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -58.99658203125001,
+        26.58852714730864
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "GyFmSVJ59z",
+        "title": "",
+        "description": "*建筑物的后面",
+        "imageId": 1167657,
+        "imagePath": "/game_map_pin/1167657/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -64.90722656250001,
+        23.160563309048314
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "gwU7Vk0B7z",
+        "title": "",
+        "description": "",
+        "imageId": 1167658,
+        "imagePath": "/game_map_pin/1167658/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -60.42480468750001,
+        22.105998799750566
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "Ap0RFcLx3J",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -44.23095703125001,
+        16.088042220148818
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "LaGJd5upGY",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -24.125976562500004,
+        19.621892180319374
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "8LdDSJDmQi",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -0.17578125,
+        16.109153239219467
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "QYogflfKFg",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -1.1425781250000002,
+        5.68158368342113
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "e5vIaOEVW9",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -3.2080078125000004,
+        4.3464112753331925
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "aK5tkkvM4s",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -7.910156250000001,
+        8.53756535080403
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "ZXfcC7m21K",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -6.701660156250001,
+        8.776510716052352
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "vOyQ6rqcZy",
+        "title": "",
+        "description": "",
+        "imageId": 1167661,
+        "imagePath": "/game_map_pin/1167661/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -15.249023437500002,
+        4.521666342614804
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "imageId": 1167662,
+        "externalId": "rVX4PFI5MW",
+        "title": "",
+        "description": "*在开放的屋顶区域",
+        "imagePath": "/game_map_pin/1167662/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -21.159667968750004,
+        7.449624260197829
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "bA8ORguVwi",
+        "title": "",
+        "description": "",
+        "imageId": 1167664,
+        "imagePath": "/game_map_pin/1167664/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -45.140210563858815,
+        9.647221490354589
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "IywaTmEew5",
+        "title": "",
+        "description": "*湖边附近",
+        "imageId": 1167666,
+        "imagePath": "/game_map_pin/1167666/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -69.93708642950338,
+        -4.495462271233475
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "vN9jp1VgPc",
+        "title": "",
+        "description": "",
+        "imageId": 1167667,
+        "imagePath": "/game_map_pin/1167667/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -68.02734375000001,
+        -13.261333170798274
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "iop6OXC8EG",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -84.94628906250001,
+        -20.591652120829167
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "VlTwV9QmLw",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -80.04638671875001,
+        -30.315987718557853
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "tqpEjxkILR",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -77.98095703125001,
+        -33.394759218577974
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "N5Xg6z6UOx",
+        "title": "",
+        "description": "*在岛上道路",
+        "imageId": 1167670,
+        "imagePath": "/game_map_pin/1167670/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -79.1015625,
+        -34.97600151317588
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "31IeCszKnE",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -96.30615234375001,
+        -50.69471783819289
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "E1zU6zBSzb",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -95.86669921875001,
+        -47.3090342477478
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "QW5QBlAudd",
+        "title": "",
+        "description": "*在停车区。靠近道路",
+        "imageId": 1167673,
+        "imagePath": "/game_map_pin/1167673/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -92.79052734375001,
+        -37.99616267972813
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "mGoAGDbq7A",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -112.25962426368503,
+        -42.25108512544059
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "4Kl1dBQb51",
+        "title": "",
+        "description": "",
+        "imageId": 1167675,
+        "imagePath": "/game_map_pin/1167675/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -126.10107421875001,
+        -47.93106634750978
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "C16hWRGkLf",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -116.08154296875001,
+        -47.040182144806664
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "kXVmeHmvMs",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -101.65652158791714,
+        -55.979513934263544
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "WqSL1BT1dD",
+        "title": "",
+        "description": "",
+        "imageId": 1167677,
+        "imagePath": "/game_map_pin/1167677/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -82.31914629358526,
+        -55.764052102651576
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "imageId": 1167678,
+        "externalId": "1soqSYbJob",
+        "title": "",
+        "description": "*桌子上摊位",
+        "imagePath": "/game_map_pin/1167678/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -76.5966796875,
+        -50.930738023718185
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "tDRgz6ug8C",
+        "title": "",
+        "description": "",
+        "imageId": 1167679,
+        "imagePath": "/game_map_pin/1167679/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -80.99121093750001,
+        -59.43390314475791
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "xYrXwH6Hpd",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -82.35351562500001,
+        -59.5343180010956
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "zkdG6Nb62S",
+        "title": "",
+        "description": "",
+        "imageId": 1167680,
+        "imagePath": "/game_map_pin/1167680/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -90.13183593750001,
+        -60.91975453239967
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "yLWTuikjSN",
+        "title": "",
+        "description": "*在商店前面",
+        "imageId": 1167681,
+        "imagePath": "/game_map_pin/1167681/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -95.22949218750001,
+        -63.956673336487654
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "nVMHvup5IZ",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -77.2119140625,
+        -66.97307272234053
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "fB5wZOAeBC",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -78.42041015625,
+        -67.67608458198099
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "ZIRY4yWhqZ",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -77.36572265625001,
+        -68.72044056989829
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "imageId": 1167683,
+        "externalId": "NqKqfYEz7H",
+        "title": "",
+        "description": "*在越野路径上",
+        "imagePath": "/game_map_pin/1167683/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -72.55371093750001,
+        -68.71246485443844
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "sRwVuAPHVp",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -61.23779296875,
+        -67.70110969585656
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "iGQuE9P807",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -69.19189453125001,
+        -73.43468937493596
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "ELYat8eVI7",
+        "title": "",
+        "description": "*在停车场",
+        "imageId": 1167685,
+        "imagePath": "/game_map_pin/1167685/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -60.24902343750001,
+        -77.13761179723427
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "3zhSVCmczh",
+        "title": "",
+        "description": "*在越野路径上",
+        "imageId": 1167686,
+        "imagePath": "/game_map_pin/1167686/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -51.48193359375001,
+        -76.91066493958557
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "2eenfQfQo2",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -40.03417968750001,
+        -75.30331101068566
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "rjEzezGGRm",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -33.24462890625001,
+        -77.85109964137915
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "QZMLZwTtSy",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -33.46435546875001,
+        -76.22167523997352
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "0BKuzJTsYD",
+        "title": "",
+        "description": "",
+        "imageId": 1167687,
+        "imagePath": "/game_map_pin/1167687/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -58.498310252762664,
+        -72.38385827847944
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "KLODuZc21m",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -56.75537109375001,
+        -71.85622888185527
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "9p6WeDMWOY",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -34.25537109375001,
+        -70.0880468606124
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "Vb4H0xXPVz",
+        "title": "",
+        "description": "",
+        "imageId": 1167691,
+        "imagePath": "/game_map_pin/1167691/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -30.871582031250004,
+        -69.30279408245204
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "vuydgu8wwf",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -21.665039062500004,
+        -70.4147144526346
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "UVpvL13Fwd",
+        "title": "",
+        "description": "*路边",
+        "imageId": 1167693,
+        "imagePath": "/game_map_pin/1167693/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -20.280761718750004,
+        -73.21401304858362
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "bAsmaBQuvB",
+        "title": "",
+        "description": "*在山上",
+        "imageId": 1167694,
+        "imagePath": "/game_map_pin/1167694/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -36.62841796875001,
+        -72.08743247624157
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "EvC4fV3oRf",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -37.06787109375001,
+        -71.74643171904148
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "p6lf9u80Mr",
+        "title": "",
+        "description": "*在隧道墙的外面",
+        "imageId": 1167696,
+        "imagePath": "/game_map_pin/1167696/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -10.349121093750002,
+        -75.41992081555084
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "M45tUimHAN",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -8.876953125000002,
+        -72.62681393170588
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "c1FIKZFP3r",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -7.932128906250001,
+        -72.1279362810559
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "imageId": null,
+        "externalId": "bEXgFNwlLb",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -5.273437500000001,
+        -76.12716228011624
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "imageId": null,
+        "externalId": "DkVie8pKj6",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        17.871429198247995,
+        -61.31171936592562
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "rqnULXU4bO",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        17.116699218750004,
+        -60.21799073323445
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "ha2zCWTO8h",
+        "title": "",
+        "description": "*在越野部分",
+        "imageId": 1167701,
+        "imagePath": "/game_map_pin/1167701/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        6.943359375000001,
+        -55.34164183013326
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "lLLwjbUJAm",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        14.23828125,
+        -55.98609153380838
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "tt1UPzoqae",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -3.0102539062500004,
+        -57.868131763328826
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "CC3MQHf1Fa",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -10.085449218750002,
+        -60.228902767513304
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "mQkA7uvSJN",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -21.35215718940495,
+        -62.487994921133726
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "imageId": null,
+        "externalId": "zFWvvv2IuP",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -0.33070939457616527,
+        -59.98344316484623
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "mzLXzSKrZz",
+        "title": "",
+        "description": "*在车库门的背面",
+        "imageId": 1167705,
+        "imagePath": "/game_map_pin/1167705/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -34.80542306966581,
+        -61.250484715482074
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "e6pldjx7GP",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -44.93408203125001,
+        -63.24352118311121
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "Kd1KZJvsB7",
+        "title": "",
+        "description": "",
+        "imageId": 1167707,
+        "imagePath": "/game_map_pin/1167707/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -60.09521484375001,
+        -63.94702456462176
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "vfeQfQBVyZ",
+        "title": "",
+        "description": "*在建筑物的右侧",
+        "imageId": 1167708,
+        "imagePath": "/game_map_pin/1167708/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -61.36962890625001,
+        -61.96994329935749
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "AxUycjO8dk",
+        "title": "",
+        "description": "*在公园小径上。靠近桥",
+        "imageId": 1167709,
+        "imagePath": "/game_map_pin/1167709/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -56.0302734375,
+        -61.47026680312171
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "G0uUEsIICz",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -39.22119140625,
+        -55.875310835696794
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "C30Ym10Zy4",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -38.82568359375001,
+        -54.098060183063126
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "S6GhOAux1h",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -56.18408203125001,
+        -55.88763544617004
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "Vf8aHX2Bi7",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -52.91015625000001,
+        -53.159946788468076
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "imageId": 1167710,
+        "externalId": "JZpRxe3euP",
+        "title": "",
+        "description": "*在建筑工地的开放屋顶区域",
+        "imagePath": "/game_map_pin/1167710/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -49.8779296875,
+        -51.944264879028765
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "KNKCHq04RV",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -49.41650390625001,
+        -51.84935276370606
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "MxikcAyS3C",
+        "title": "",
+        "description": "*在立交桥下的道路",
+        "imageId": 1167711,
+        "imagePath": "/game_map_pin/1167711/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -58.95263671875001,
+        -48.54570549184745
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "W2DzHsA403",
+        "title": "",
+        "description": "",
+        "imageId": 1167712,
+        "imagePath": "/game_map_pin/1167712/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -61.67724609375001,
+        -52.48278022207821
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "imageId": null,
+        "externalId": "nlwdHdY7uq",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -45.57618449677132,
+        -57.71062985559872
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "VI6OQUmu1P",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -48.12011718750001,
+        -37.52715361723378
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "WrXIkAIAaM",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -44.23095703125001,
+        -32.8795871730663
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "5UuvYk4mv1",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -49.08691406250001,
+        -34.79576153473033
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "imageId": null,
+        "externalId": "wfZUUBsVoB",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -39.13330078125001,
+        -27.722435918973442
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "i8WTWK2qlr",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -37.968750000000014,
+        -28.76765910569123
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "imageId": 1167716,
+        "externalId": "KCDFFHhpIC",
+        "title": "",
+        "description": "*在售票亭后面",
+        "imagePath": "/game_map_pin/1167716/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -35.74951171875001,
+        -27.994401411046148
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "UUrpKIVcHB",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -28.454589843750004,
+        -38.754083275791416
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "418OmHz0zq",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -57.17194215277845,
+        -29.17475978781232
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "IIqd5bMbiz",
+        "title": "",
+        "description": "*在建筑物的左侧",
+        "imageId": 1167717,
+        "imagePath": "/game_map_pin/1167717/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -62.62207031250001,
+        -27.664068965384516
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "VFRA4ff4DV",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -66.24755859375001,
+        -33.88865750124074
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "N2vgGufnQj",
+        "title": "",
+        "description": "*在越野道路上",
+        "imageId": 1167718,
+        "imagePath": "/game_map_pin/1167718/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -66.55517578125001,
+        -39.673370391765594
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "IqwUwXnQqE",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -28.103027343750004,
+        -21.22794190505816
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "imageId": null,
+        "externalId": "B3MAuejUys",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -33.88183593750001,
+        -8.754794702435618
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "imageId": 1167720,
+        "externalId": "eEkVmixNr1",
+        "title": "",
+        "description": "",
+        "imagePath": "/game_map_pin/1167720/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -16.017608773076006,
+        -17.95735594963012
+      ],
+      "properties": {
+        "externalId": "lWnbOZVEfx",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -11.447296273076004,
+        -16.12978118000414
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "ItY5wE4skV",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -16.306761477478066,
+        -2.0515849978990857
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "PTWKhJ77Ok",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -4.482421875000001,
+        -15.89794240102209
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "EDxKFMTNXR",
+        "title": "",
+        "description": "*在斜坡上",
+        "imageId": 1167723,
+        "imagePath": "/game_map_pin/1167723/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        3.4277343750000004,
+        -14.987239525774244
+      ],
+      "properties": {
+        "subcategoryExternalId": "mWYP5GuA5I",
+        "externalId": "pSrAnZVlGV",
+        "title": "",
+        "description": "",
+        "imageId": 1167725,
+        "imagePath": "/game_map_pin/1167725/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        0.9448242187500001,
+        -15.623036831528252
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "PtL9VPE9NM",
+        "title": "",
+        "description": "*立交桥支撑下方",
+        "imageId": 1167727,
+        "imagePath": "/game_map_pin/1167727/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -0.3515625,
+        -15.241789855961722
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "T933oRxDXO",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        3.8452148437500004,
+        -30.240086360983426
+      ],
+      "properties": {
+        "subcategoryExternalId": "61UKDEEN6V",
+        "externalId": "utxZXjqiWN",
+        "title": "",
+        "description": "*在仓库的背面",
+        "imageId": 1167728,
+        "imagePath": "/game_map_pin/1167728/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        21.555175781250004,
+        -40.93011520598305
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "Or3MkR0APr",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        26.103515625000004,
+        -36.491973470593656
+      ],
+      "properties": {
+        "subcategoryExternalId": "8OPcQVX3ZY",
+        "imageId": null,
+        "externalId": "R1x4jfXFEV",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        23.8623046875,
+        -46.75491661928189
+      ],
+      "properties": {
+        "subcategoryExternalId": "TMBACquNk8",
+        "imageId": null,
+        "externalId": "1V9CKWf1sr",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        23.752441406250004,
+        -47.398349200359256
+      ],
+      "properties": {
+        "subcategoryExternalId": "nMuAs7UaUz",
+        "imageId": null,
+        "externalId": "NOzXgQYDnZ",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        36.32080078125001,
+        -48.40003249610685
+      ],
+      "properties": {
+        "subcategoryExternalId": "bA2DE71x7x",
+        "imageId": null,
+        "externalId": "7QCVa9JDZz",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        37.72705078125001,
+        -44.793530904744074
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "Kb1tqfFGl1",
+        "title": "",
+        "description": "*在停车区",
+        "imageId": 1167729,
+        "imagePath": "/game_map_pin/1167729/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        2.5927734375000004,
+        -37.40507375017693
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "rc75g12o9x",
+        "title": "",
+        "description": "*在干草田上",
+        "imageId": 1167730,
+        "imagePath": "/game_map_pin/1167730/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -17.657074955149156,
+        -34.74199583157116
+      ],
+      "properties": {
+        "subcategoryExternalId": "eERNgVMsmc",
+        "externalId": "aGVMJIZ1hw",
+        "title": "",
+        "description": "*在开放屋顶区域",
+        "imageId": 1167731,
+        "imagePath": "/game_map_pin/1167731/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -11.118164062500002,
+        -27.137368359795595
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gTFF5wmjI",
+        "imageId": null,
+        "externalId": "fakLPY008d",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        47.543445553387905,
+        -47.88434963690816
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "kPKAbagyWn",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        49.89990234375,
+        -48.93693495409402
+      ],
+      "properties": {
+        "subcategoryExternalId": "15PQcQVU2p",
+        "imageId": null,
+        "externalId": "iDwDOAmfaf",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        12.318716744947718,
+        -41.06963903512816
+      ],
+      "properties": {
+        "subcategoryExternalId": "6MPjhsEfpY",
+        "imageId": null,
+        "externalId": "jqGl3Zjn69",
+        "title": "Justicia的安全屋",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        90.83299715762179,
+        -63.155574453542435
+      ],
+      "properties": {
+        "subcategoryExternalId": "6MPjhsEfpY",
+        "imageId": null,
+        "externalId": "otxcP79eJD",
+        "title": "Boost's 安全屋",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        149.9993929779145,
+        -28.586417540579166
+      ],
+      "properties": {
+        "subcategoryExternalId": "6MPjhsEfpY",
+        "imageId": null,
+        "externalId": "NuqftoDzeZ",
+        "title": "赖德尔的安全屋",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        16.194301477094626,
+        30.90533521204309
+      ],
+      "properties": {
+        "subcategoryExternalId": "6MPjhsEfpY",
+        "imageId": null,
+        "externalId": "IxMejOaWwy",
+        "title": "鲁迪格的安全屋",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -41.535201272502015,
+        59.54816305467432
+      ],
+      "properties": {
+        "subcategoryExternalId": "6MPjhsEfpY",
+        "imageId": null,
+        "externalId": "cwV6hS7k5g",
+        "title": "恰恰的安全屋",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -80.97478587440439,
+        -31.05699915430954
+      ],
+      "properties": {
+        "subcategoryExternalId": "6MPjhsEfpY",
+        "imageId": null,
+        "externalId": "12KAxGIHqb",
+        "title": "Anechka的安全屋",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        10.714396303055818,
+        -69.498850320367
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 288.27972412109375,
+          "y": 328.2017517089844,
+          "z": 2574.322021484375
+        },
+        "externalId": "MCMxv5azRG",
+        "title": "美杜莎的安全屋",
+        "description": "",
+        "subcategoryExternalId": "6MPjhsEfpY",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        99.91824898241381,
+        69.97195702329309
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 2603.94775390625,
+          "y": 248.65977478027344,
+          "z": -2590.07568359375
+        },
+        "externalId": "gFZ0iumZkw",
+        "title": "哈洛的安全屋",
+        "description": "",
+        "subcategoryExternalId": "6MPjhsEfpY",
+        "imageId": null,
+        "imagePath": ""
+      }
+    }
+  ]
+}

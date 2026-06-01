@@ -1,0 +1,16 @@
+{
+  "slug": "grand-theft-auto-vice-city-the-definitive-edition",
+  "title": "Grand Theft Auto: Vice City – The Definitive Edition",
+  "heroUrl": "/assets/images/games/grand-theft-auto-vice-city-the-definitive-edition/hero.webp",
+  "maps": [
+    {
+      "name": "Vice City",
+      "slug": "vice-city",
+      "thumbnailUrl": "/assets/images/games/grand-theft-auto-vice-city-the-definitive-edition/vice-city.webp",
+      "updatedAt": "2026-03-03T05:28:52Z",
+      "markerCount": 665,
+      "categoryCount": 4,
+      "subcategoryCount": 41
+    }
+  ]
+}

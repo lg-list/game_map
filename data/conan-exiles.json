@@ -1,0 +1,16 @@
+{
+  "slug": "conan-exiles",
+  "title": "Conan Exiles",
+  "heroUrl": "/assets/images/games/conan-exiles/hero.webp",
+  "maps": [
+    {
+      "name": "Isle of Siptah",
+      "slug": "isle-of-siptah",
+      "thumbnailUrl": "/assets/images/games/conan-exiles/isle-of-siptah.webp",
+      "updatedAt": "2026-02-24T19:00:33Z",
+      "markerCount": 423,
+      "categoryCount": 6,
+      "subcategoryCount": 29
+    }
+  ]
+}

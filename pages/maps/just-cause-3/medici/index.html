@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Just Cause 3 Medici locations map - 挑战, 收藏品, 教堂, 因苏拉丰特地点</title>
+    <meta name="description" content="Find Just Cause 3 Medici 挑战, 收藏品, 教堂, 因苏拉丰特地点 on a focused map page for long-tail searches. Includes 469 local markers." />
+    <meta name="keywords" content="Just Cause 3 Medici locations, Just Cause 3 Medici resource map, Just Cause 3 Medici collectibles, Just Cause 3 Medici marker list" />
+    <link rel="icon" href="/favicon.ico" sizes="32x32" type="image/x-icon" />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body class="map-body">
+    <header class="map-topbar">
+      <a class="brand" href="/" aria-label="Game Map Hub home"><img class="brand-logo" src="/logo.png" alt="Game Map Hub" /></a>
+      <div class="map-title-block"><a href="/maps/just-cause-3/">Just Cause 3</a><strong>Medici</strong></div>
+    </header>
+
+    <main class="interactive-layout" data-page="map-detail" data-map-data="/data/just-cause-3-medici.json" data-tile-key="just-cause-3/medici" data-tile-zoom="7">
+      <aside class="map-control-panel">
+        <label class="map-search"><span>Search markers</span><input id="marker-search" type="search" placeholder="Search locations, items, resources..." /></label>
+        <div class="marker-results" id="marker-results" aria-live="polite"></div>
+        <div class="filter-actions" aria-label="Category filter actions"><button id="show-all-markers" type="button">Show all</button><button id="hide-all-markers" type="button">Hide all</button></div>
+        <div class="category-list" id="category-list"></div>
+      </aside>
+
+      <section class="map-stage" aria-label="Just Cause 3 Medici location map">
+        <div class="map-toolbar">
+          <button class="icon-button" id="zoom-out" type="button" aria-label="Zoom out">-</button>
+          <button class="icon-button" id="zoom-in" type="button" aria-label="Zoom in">+</button>
+          <button class="ghost-button" id="reset-map" type="button">Reset</button>
+          <span id="marker-count">Loading map...</span>
+        </div>
+        <div class="tile-viewport" id="tile-viewport"><canvas class="tile-canvas" id="tile-canvas" aria-hidden="true"></canvas><div class="tile-surface" id="tile-surface"></div></div>
+        <article class="marker-detail" id="marker-detail"><span>Selected marker</span><strong>Medici</strong><p>Use search or category filters to find 挑战, 收藏品, 教堂, 因苏拉丰特地点 on this Just Cause 3 map.</p></article>
+      </section>
+    </main>
+
+    <script src="/script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,7124 @@
+{
+  "metadata": {
+    "externalId": "WuIud1ZxH3",
+    "name": "Medici",
+    "slug": "medici",
+    "baseTilePath": "https://storage-cdn.wemod.com/maps/018cf3b2-0c34-71a3-aed4-7ad3b7edef77",
+    "isChecklistPublished": true,
+    "isInActiveDevelopment": false,
+    "backgroundColor": "#12212F",
+    "minZoom": 1,
+    "maxZoom": 7,
+    "initialZoom": 3,
+    "tmsEnabled": true,
+    "categories": [
+      {
+        "externalId": "v79MTcLBRN",
+        "gameMapExternalId": "WuIud1ZxH3",
+        "title": "挑战",
+        "color": "#b38a73",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "ILQN1rSvBs",
+        "gameMapExternalId": "WuIud1ZxH3",
+        "title": "收藏品",
+        "color": "#7b6aae",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "XcQyjhctK0",
+        "gameMapExternalId": "WuIud1ZxH3",
+        "title": "教堂",
+        "color": "#d5b956",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "ZkKEbn4EKQ",
+        "gameMapExternalId": "WuIud1ZxH3",
+        "title": "未命名分类",
+        "color": "#b36a77",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "o0KpncdLcC",
+        "gameMapExternalId": "WuIud1ZxH3",
+        "title": "因苏拉丰特地点",
+        "color": "#5d8fd5",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "PMFksKjQMu",
+        "gameMapExternalId": "WuIud1ZxH3",
+        "title": "纹状岛屿位置",
+        "color": "#56cbaf",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "subcategories": [
+      {
+        "externalId": "x5ZghknzRk",
+        "categoryExternalId": "v79MTcLBRN",
+        "title": "空中竞速",
+        "icon": "plane-alt",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "TWwnclhGEz",
+        "categoryExternalId": "v79MTcLBRN",
+        "title": "海上竞速",
+        "icon": "roundies:transportation-sail-boat",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "AXYw8lbXno",
+        "categoryExternalId": "v79MTcLBRN",
+        "title": "爆破炸弹",
+        "icon": "bomb",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "LDZ5o4J4MD",
+        "categoryExternalId": "v79MTcLBRN",
+        "title": "破坏狂欢",
+        "icon": "fire-flame-curved",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "963NPlUx3L",
+        "categoryExternalId": "v79MTcLBRN",
+        "title": "陆地竞速",
+        "icon": "roundies:games-and-sports-race-flag",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "x9JSBVAVxo",
+        "categoryExternalId": "v79MTcLBRN",
+        "title": "废品场混战",
+        "icon": "truck-plow",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "7dqdsFkXOo",
+        "categoryExternalId": "v79MTcLBRN",
+        "title": "射击馆",
+        "icon": "location-crosshairs",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "p2dyHFS9yF",
+        "categoryExternalId": "v79MTcLBRN",
+        "title": "翼装飞行",
+        "icon": "wind",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "ArMTCVVPTR",
+        "categoryExternalId": "ILQN1rSvBs",
+        "title": "古代墓穴",
+        "icon": "tombstone",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "2nWKHZkrel",
+        "categoryExternalId": "ILQN1rSvBs",
+        "title": "特技跳跃",
+        "icon": "biking-mountain",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "sgSEsIJD1p",
+        "categoryExternalId": "ILQN1rSvBs",
+        "title": "Di Ravello磁带",
+        "icon": "cassette-tape",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "VqAofkGVq5",
+        "categoryExternalId": "ILQN1rSvBs",
+        "title": "反抗者圣坛",
+        "icon": "roundies:architecture-round-monument",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "oKzDrDtoNQ",
+        "categoryExternalId": "ILQN1rSvBs",
+        "title": "复古零件",
+        "icon": "roundies:architecture-shovel",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "QlyjMzW1iS",
+        "categoryExternalId": "XcQyjhctK0",
+        "title": "教堂",
+        "icon": "cross-religion",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "Vn6RhV4aTL",
+        "categoryExternalId": "ZkKEbn4EKQ",
+        "title": "首都东",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "MUtzDS3eX3",
+        "categoryExternalId": "ZkKEbn4EKQ",
+        "title": "首都西",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "tgNJhzPH8o",
+        "categoryExternalId": "ZkKEbn4EKQ",
+        "title": "尾部",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "1ZwREu8AoT",
+        "categoryExternalId": "ZkKEbn4EKQ",
+        "title": "龙之心",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "daBSZw2ETq",
+        "categoryExternalId": "ZkKEbn4EKQ",
+        "title": "巨石",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "aaJnLiMwWL",
+        "categoryExternalId": "ZkKEbn4EKQ",
+        "title": "佩特拉",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "SLWwHlNlxL",
+        "categoryExternalId": "ZkKEbn4EKQ",
+        "title": "三重奏",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "bAYYofiHTt",
+        "categoryExternalId": "o0KpncdLcC",
+        "title": "阿斯佩拉",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "sL4n1yMRQB",
+        "categoryExternalId": "o0KpncdLcC",
+        "title": "海湾",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "Bzlo4NqUif",
+        "categoryExternalId": "o0KpncdLcC",
+        "title": "干草",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "IR1P1rrLVD",
+        "categoryExternalId": "o0KpncdLcC",
+        "title": "拉科斯",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "l2ulws179t",
+        "categoryExternalId": "o0KpncdLcC",
+        "title": "拉万达",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "lKSHDifDx0",
+        "categoryExternalId": "o0KpncdLcC",
+        "title": "剽窃",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "VNvhx8pUTa",
+        "categoryExternalId": "o0KpncdLcC",
+        "title": "西罗科北部",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "QNN8bklUkh",
+        "categoryExternalId": "o0KpncdLcC",
+        "title": "西罗科南部",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "qhnlZQsSto",
+        "categoryExternalId": "o0KpncdLcC",
+        "title": "索罗斯",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "6qIJKnX8hy",
+        "categoryExternalId": "PMFksKjQMu",
+        "title": "未命名子类别",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "Pa4WI6wupn",
+        "categoryExternalId": "PMFksKjQMu",
+        "title": "法尔科",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "PHkZLzoIMd",
+        "categoryExternalId": "PMFksKjQMu",
+        "title": "大牧场",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "kgEvFIhdBt",
+        "categoryExternalId": "PMFksKjQMu",
+        "title": "利贝乔",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "XQP6p6eVCu",
+        "categoryExternalId": "PMFksKjQMu",
+        "title": "曲折海岸",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "PSCOtDvuT6",
+        "categoryExternalId": "PMFksKjQMu",
+        "title": "马埃斯特拉莱",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "yykSc6aSVD",
+        "categoryExternalId": "PMFksKjQMu",
+        "title": "蒙大拿",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "OuczpwpZRY",
+        "categoryExternalId": "PMFksKjQMu",
+        "title": "普里马",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "p24Yj30K5p",
+        "categoryExternalId": "PMFksKjQMu",
+        "title": "普罗斯佩雷",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "ZHfEHjOSqf",
+        "categoryExternalId": "PMFksKjQMu",
+        "title": "雷格诺",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "WnBk0ICzcp",
+        "categoryExternalId": "PMFksKjQMu",
+        "title": "罗卡布劳",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "vufBxTLwEY",
+        "categoryExternalId": "PMFksKjQMu",
+        "title": "乌布拉",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "MfyEDfnUO7",
+        "categoryExternalId": "PMFksKjQMu",
+        "title": "瓦尔德马尔",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "playerLocationDeltas": null
+  },
+  "features": [
+    {
+      "coordinates": [
+        -56.22802734375001,
+        20.385825381874263
+      ],
+      "properties": {
+        "subcategoryExternalId": "ArMTCVVPTR",
+        "imageId": 1001228,
+        "externalId": "bhkbH6t9lx",
+        "title": "古墓",
+        "description": "位置：北纬 40 45.888 东经 5 32.753\n\n省份：利贝乔\n\n可在悬崖附近找到。\n\n*每座古墓都像一个小小的圆形土丘，周围环绕着低矮的石墙，石墙上覆盖着草和蓝色花朵。*",
+        "imagePath": "/game_map_pin/1001228/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -41.18774414062501,
+        22.217920166311018
+      ],
+      "properties": {
+        "subcategoryExternalId": "ArMTCVVPTR",
+        "imageId": 1001230,
+        "externalId": "XkUBSW0PkH",
+        "title": "古墓",
+        "description": "位置：北纬 40 45.979 东经 5 33.671\n\n省份：Libeccio\n\n可以在山顶上找到。\n\n*每个墓地看起来像一个小的、圆形的土丘，周围环绕着一堵低矮的石墙，上面覆盖着草和蓝色的花朵。*",
+        "imagePath": "/game_map_pin/1001230/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -18.676757812500004,
+        51.33061163769853
+      ],
+      "properties": {
+        "subcategoryExternalId": "ArMTCVVPTR",
+        "imageId": 1001819,
+        "externalId": "qIx5ECEp5H",
+        "title": "古墓",
+        "description": "位置：北纬 40 47.719 东经 5 35.081\n\n省份：Maestrale\n\n可在池塘附近找到。\n\n*每个古墓都像一个小的圆形土丘，周围环绕着覆盖着草和蓝花的低矮石墙。*",
+        "imagePath": "/game_map_pin/1001819/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -50.63598632812501,
+        66.13829878264815
+      ],
+      "properties": {
+        "subcategoryExternalId": "ArMTCVVPTR",
+        "imageId": 1001791,
+        "externalId": "2RQLCHRSso",
+        "title": "古墓",
+        "description": "位置：N 40 49.059 E 5 33.099\n\n省份：马埃斯特拉莱\n\n可以在山坡上找到。\n\n*每座古墓都像一个小小的圆形土丘，周围环绕着被草和蓝花覆盖的低矮石墙。*",
+        "imagePath": "/game_map_pin/1001791/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -27.685546875000004,
+        64.05297838071347
+      ],
+      "properties": {
+        "subcategoryExternalId": "ArMTCVVPTR",
+        "imageId": 1001797,
+        "externalId": "a2KZbDjE7W",
+        "title": "古墓",
+        "description": "位置：N 40 48.818 E 5 34.565\n\n省份：Maestrale\n\n可以在森林里找到。\n\n*每座墓都像一个小的圆形土丘，被一道低矮的石墙环绕，石墙上覆盖着草和蓝色的花朵。*",
+        "imagePath": "/game_map_pin/1001797/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -31.904296875000004,
+        69.4421276134176
+      ],
+      "properties": {
+        "subcategoryExternalId": "ArMTCVVPTR",
+        "imageId": 1001794,
+        "externalId": "6Ffgsbzcnm",
+        "title": "古墓",
+        "description": "位置：北纬 40 49.478 东经 5 34.269\n\n省份：Maestrale\n\n可以在俯瞰海洋的悬崖边上找到。\n\n*每个墓地看起来像一个小的、圆形的土丘，周围环绕着一堵低矮的石墙，上面覆盖着草和蓝色的花朵。*",
+        "imagePath": "/game_map_pin/1001794/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -13.403320312500002,
+        63.558338036300775
+      ],
+      "properties": {
+        "subcategoryExternalId": "ArMTCVVPTR",
+        "imageId": 1001799,
+        "externalId": "IavIHgfR9M",
+        "title": "古墓",
+        "description": "位置：N 40 48.783 E 5 \n35.438\n\n省份：Maestrale\n\n可以在悬崖边上俯瞰大海的地方找到。\n\n*每座墓都像一个小的圆形土丘，被一道低矮的石墙环绕，石墙上覆盖着草和蓝色的花朵。*",
+        "imagePath": "/game_map_pin/1001799/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -3.8012695312500004,
+        60.834204246024875
+      ],
+      "properties": {
+        "subcategoryExternalId": "ArMTCVVPTR",
+        "imageId": 1001814,
+        "externalId": "tgBpuUUtlb",
+        "title": "古墓",
+        "description": "位置：N 40 48.526 E 5 36.038\n\n省份：Maestrale\n\n可以在悬崖边上找到。\n\n*每座墓都像一个小的圆形土丘，被一道低矮的石墙环绕，石墙上覆盖着草和蓝色的花朵。*",
+        "imagePath": "/game_map_pin/1001814/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        9.667968750000002,
+        43.476840397778936
+      ],
+      "properties": {
+        "subcategoryExternalId": "ArMTCVVPTR",
+        "imageId": 1001867,
+        "externalId": "cu4BpmqWHa",
+        "title": "",
+        "description": "位置：北纬 40 47.177 东经 5 36.898\n\n可以在废墟附近找到。\n\n*每个坟墓看起来像一个小的、圆形的土堆，周围环绕着一道低矮的石墙，石墙上覆盖着草和蓝色的花朵。*",
+        "imagePath": "/game_map_pin/1001867/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        9.843750000000002,
+        29.7453016622136
+      ],
+      "properties": {
+        "subcategoryExternalId": "ArMTCVVPTR",
+        "imageId": 1001883,
+        "externalId": "2Kisv7sFEs",
+        "title": "古墓",
+        "description": "位置：N 40 46.363 E 5 36.943\n\n省份：Libeccio\n\n可以在森林内的一个开阔地带找到。\n\n*每座墓都像一个小的圆形土丘，被一道低矮的石墙环绕，石墙上覆盖着草和蓝色的花朵。*",
+        "imagePath": "/game_map_pin/1001883/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        28.081054687500004,
+        42.98857645832184
+      ],
+      "properties": {
+        "subcategoryExternalId": "ArMTCVVPTR",
+        "imageId": 1001893,
+        "externalId": "ossRddJkrv",
+        "title": "古墓",
+        "description": "位置：北纬 40 47.134 东经 5 38.061\n\n省份：Maestrale\n\n可以在俯瞰道路和桥梁的悬崖边找到。\n\n*每座古墓都像一个小的圆形土丘，周围环绕着被草地和蓝色花朵覆盖的低矮石墙。*",
+        "imagePath": "/game_map_pin/1001893/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        43.35205078125001,
+        44.05601169578525
+      ],
+      "properties": {
+        "subcategoryExternalId": "ArMTCVVPTR",
+        "imageId": 1001900,
+        "externalId": "XZuVWapZul",
+        "title": "古墓",
+        "description": "位置：N 40 47.192 E 5 39.014\n\n省份：Maestrale\n\n可以在废墟附近找到。\n\n*每座墓都像一个小的圆形土丘，被一道低矮的石墙环绕，石墙上覆盖着草和蓝色的花朵。*",
+        "imagePath": "/game_map_pin/1001900/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        37.77099609375001,
+        17.706828124019555
+      ],
+      "properties": {
+        "subcategoryExternalId": "ArMTCVVPTR",
+        "imageId": 1001924,
+        "externalId": "m1xrF64cfD",
+        "title": "古墓",
+        "description": "位置：N 40 45.740 E 5 38.738\n\n省份：Maestrale\n\n可以在悬崖上俯瞰湖泊的地方找到。\n\n*每座墓都像一个小的圆形土丘，被一道低矮的石墙环绕，石墙上覆盖着草和蓝色的花朵。*",
+        "imagePath": "/game_map_pin/1001924/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        59.79858398437501,
+        -6.751896464843384
+      ],
+      "properties": {
+        "subcategoryExternalId": "ArMTCVVPTR",
+        "imageId": 1003823,
+        "externalId": "cxnWmTog1N",
+        "title": "",
+        "description": "地点：北纬 40 44.605 东经 5 40.035\n\n区域：Prospere\n\n*每座坟墓看起来像一个小的圆形土丘，周围环绕着一道低矮的石墙，石墙上覆盖着草和蓝色的花朵。*",
+        "imagePath": "/game_map_pin/1003823/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        70.94970703125001,
+        37.03763967977142
+      ],
+      "properties": {
+        "subcategoryExternalId": "ArMTCVVPTR",
+        "imageId": 1001998,
+        "externalId": "mlFz1v26Jf",
+        "title": "古墓",
+        "description": "位置：北纬 40 46.795 东经 5 40.777\n\n省份：瓦尔德马尔\n\n可在主路附近找到。\n\n*每座古墓都像一个小圆丘，周围环绕着低矮的石墙，石墙上覆盖着草和蓝色花朵。*",
+        "imagePath": "/game_map_pin/1001998/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        77.43164062500001,
+        42.47209690919285
+      ],
+      "properties": {
+        "subcategoryExternalId": "ArMTCVVPTR",
+        "imageId": 1002000,
+        "externalId": "tqxH1XS8lo",
+        "title": "古墓",
+        "description": "位置：N 40 47.100 E 5 41.192\n\n省份：Val De Mar\n\n可以在悬崖上俯瞰湖泊的地方找到。\n\n*每座墓都像一个小的圆形土丘，被一道低矮的石墙环绕，石墙上覆盖着草和蓝色的花朵。*",
+        "imagePath": "/game_map_pin/1002000/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        87.23144531250001,
+        72.79658820490461
+      ],
+      "properties": {
+        "subcategoryExternalId": "ArMTCVVPTR",
+        "imageId": 1002036,
+        "externalId": "AJ8MCvo4Tm",
+        "title": "古墓",
+        "description": "位置：N 40 49.940 E 5 41.845\n\n省份：Grande Pastura\n\n可以在森林中的一个开阔地带找到。\n\n*每座墓都像一个小的圆形土丘，被一道低矮的石墙环绕，石墙上覆盖着草和蓝色的花朵。*",
+        "imagePath": "/game_map_pin/1002036/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        87.69287109375001,
+        76.47063313334205
+      ],
+      "properties": {
+        "subcategoryExternalId": "ArMTCVVPTR",
+        "imageId": 1002056,
+        "externalId": "3AE3R7X4BE",
+        "title": "古墓",
+        "description": "位置：N 40 50.674 E 5 41.789\n\n省份：Grande Pastura\n\n可以在森林中央找到。\n\n*每座墓都像一个小的圆形土丘，被一道低矮的石墙环绕，石墙上覆盖着草和蓝色的花朵。*",
+        "imagePath": "/game_map_pin/1002056/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        104.91943359375001,
+        70.61990681823112
+      ],
+      "properties": {
+        "subcategoryExternalId": "ArMTCVVPTR",
+        "imageId": 1002016,
+        "externalId": "qIC7FCGZyv",
+        "title": "古墓",
+        "description": "位置：N 40 49.647 E 5 42.931\n\n省份：Grande Pastura\n\n可以在悬崖边缘附近找到。\n\n*每座墓都像一个小的圆形土丘，被一道低矮的石墙环绕，石墙上覆盖着草和蓝色的花朵。*",
+        "imagePath": "/game_map_pin/1002016/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        139.41650390625003,
+        75.79133591604713
+      ],
+      "properties": {
+        "subcategoryExternalId": "ArMTCVVPTR",
+        "imageId": 1003793,
+        "externalId": "ppDOaMPvya",
+        "title": "",
+        "description": "*每座坟墓看起来像一个小的圆形土丘，周围环绕着一道低矮的石墙，石墙上覆盖着草和蓝色的花朵。*",
+        "imagePath": "/game_map_pin/1003793/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        150.05126953125003,
+        39.18117526158758
+      ],
+      "properties": {
+        "subcategoryExternalId": "ArMTCVVPTR",
+        "imageId": 1003807,
+        "externalId": "NdxePH0NxD",
+        "title": "",
+        "description": "位置：北纬 40 46.923 东经 5 45.684\n\n*每座坟墓都像一个小的圆形土丘，周围环绕着一道低石墙，石墙上覆盖着草和蓝色的花朵。*",
+        "imagePath": "/game_map_pin/1003807/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        164.90478515625,
+        31.28793989264176
+      ],
+      "properties": {
+        "subcategoryExternalId": "ArMTCVVPTR",
+        "imageId": 1003815,
+        "externalId": "TH1HNXFXuE",
+        "title": "",
+        "description": "位置：北纬 40 46.453 东经 5 46.684\n\n地区：Costa Sud\n\n可在山边附近找到。\n\n*每个墓都像一个小的圆形土堆，周围环绕着一道低矮的石墙，上面覆盖着草和蓝色的花朵。*",
+        "imagePath": "/game_map_pin/1003815/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -17.314453125000004,
+        17.45547257997284
+      ],
+      "properties": {
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1003842,
+        "externalId": "Sxqdo2KayE",
+        "title": "",
+        "description": "位置：北纬 40 45.752 东经 5 35.184\n\n省份：Libeccio\n\n通过驾驶车辆冲下坡道并冲破大门，可以完成特技跳跃。",
+        "imagePath": "/game_map_pin/1003842/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -21.401367187500004,
+        -22.857194700969636
+      ],
+      "properties": {
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1006304,
+        "externalId": "o9fptCOjFh",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006304/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -11.09619140625,
+        -29.34387539941801
+      ],
+      "properties": {
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1006297,
+        "externalId": "7mSelPmxHz",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006297/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -10.667724609375002,
+        -28.786918085420226
+      ],
+      "properties": {
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1006283,
+        "externalId": "4vNIL2n9hl",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006283/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -1.9445800781250002,
+        -23.654587852202972
+      ],
+      "properties": {
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1006279,
+        "externalId": "z9IOuLDc4u",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006279/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        0.24169921875000003,
+        -39.87601941962115
+      ],
+      "properties": {
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1006323,
+        "externalId": "xIpraf15nc",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006323/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        5.053710937500001,
+        -41.385051949706806
+      ],
+      "properties": {
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1006336,
+        "externalId": "ThVbWaYAzf",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006336/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -14.370117187500002,
+        -47.338822694822
+      ],
+      "properties": {
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1006409,
+        "externalId": "o7f5CoXdKg",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006409/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        8.811035156250002,
+        -50.99992885585965
+      ],
+      "properties": {
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1006414,
+        "externalId": "1LZEH2dxAo",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006414/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        7.580566406250001,
+        -52.11325243469632
+      ],
+      "properties": {
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1006422,
+        "externalId": "vcnzLpt5xO",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006422/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        16.918945312500004,
+        -61.59594603934757
+      ],
+      "properties": {
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1006427,
+        "externalId": "uJSlbc03Xl",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006427/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        104.34814453125001,
+        -43.20517581723728
+      ],
+      "properties": {
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1003909,
+        "externalId": "p0Xq1PGKjH",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1003909/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        111.95068359375003,
+        -45.32125436117148
+      ],
+      "properties": {
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1003925,
+        "externalId": "HgvUSCaLaD",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1003925/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        98.34960937500001,
+        -51.26191485308451
+      ],
+      "properties": {
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1003937,
+        "externalId": "rqFJr8inK9",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1003937/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        100.25024414062501,
+        -54.28446875235514
+      ],
+      "properties": {
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1006108,
+        "externalId": "LeULj8eG7z",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006108/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        108.14941406250001,
+        -56.842963648401366
+      ],
+      "properties": {
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1006112,
+        "externalId": "dTvUUVEg5Y",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006112/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        129.73754882812503,
+        -63.94219893192792
+      ],
+      "properties": {
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1006117,
+        "externalId": "QXpzbEiIec",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006117/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        118.80615234374999,
+        -65.27509354995419
+      ],
+      "properties": {
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1006132,
+        "externalId": "6OKDadTVyX",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006132/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        114.76318359375001,
+        -66.05371622067922
+      ],
+      "properties": {
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1006134,
+        "externalId": "sHE2nDfPzJ",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006134/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        99.37133789062506,
+        -79.64382469716593
+      ],
+      "properties": {
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1006224,
+        "externalId": "wjO02cj0Uc",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006224/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        104.12841796875,
+        -77.30286448413767
+      ],
+      "properties": {
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1006215,
+        "externalId": "I3pHRyvti0",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006215/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        96.15234375,
+        -4.171115454867424
+      ],
+      "properties": {
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1003895,
+        "externalId": "4bijwi560F",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1003895/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        146.29394531250003,
+        -13.154376055418496
+      ],
+      "properties": {
+        "subcategoryExternalId": "2nWKHZkrel",
+        "externalId": "u7xHk60Mgl",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imageId": 1003906,
+        "imagePath": "/game_map_pin/1003906/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        128.62792968750003,
+        24.367113562651276
+      ],
+      "properties": {
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1003889,
+        "externalId": "24bOl9pjvW",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1003889/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        91.82373046875,
+        36.03133177633189
+      ],
+      "properties": {
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1003887,
+        "externalId": "21vtaj1EvN",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1003887/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        149.21630859375003,
+        47.29413372501023
+      ],
+      "properties": {
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1003883,
+        "externalId": "pbOFRKiHS4",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1003883/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        138.57055664062503,
+        67.39059859150743
+      ],
+      "properties": {
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1003874,
+        "externalId": "7kEzZycO4c",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1003874/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -53.96484375000001,
+        58.49369382056807
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007435,
+        "externalId": "RcKm504x30",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007435/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -22.939453125,
+        61.53316997618228
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007436,
+        "externalId": "PwIUC5Fjrd",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007436/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -14.787597656250002,
+        57.7862326105289
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007439,
+        "externalId": "5sVwc5mZug",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007439/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -3.3728027343750004,
+        46.96525940034937
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007453,
+        "externalId": "i6Ux8cxb3A",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007453/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        23.8623046875,
+        48.73445537176818
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007454,
+        "externalId": "wBV5uhJLSA",
+        "title": "",
+        "description": "位置：北纬40度47.553分 东经5度37.776分",
+        "imagePath": "/game_map_pin/1007454/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        32.12402343750001,
+        40.48873742102282
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007395,
+        "externalId": "fK6s2YlUJJ",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007395/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        46.03271484375001,
+        25.91852616207514
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007391,
+        "externalId": "Uluodl6IIx",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007391/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -13.414306640625,
+        18.99980282905325
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007412,
+        "externalId": "imoetmTRju",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007412/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        13.952636718750004,
+        16.762467717941576
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007409,
+        "externalId": "6wNpwOHVHW",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007409/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        44.61547851562503,
+        9.579084335882527
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007388,
+        "externalId": "JkwI4qhcqj",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007388/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -16.358642578125004,
+        1.2413579498795713
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": null,
+        "externalId": "vnRDb08f8f",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -14.468994140625002,
+        -0.812961001870832
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007414,
+        "externalId": "2FP5vlGoE0",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007414/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        25.598144531250004,
+        6.850077654785537
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007382,
+        "externalId": "XDfHPdpIph",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007382/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -45.6591796875,
+        5.331644153439766
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007431,
+        "externalId": "VyL7G3SIlK",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007431/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        58.40332031250001,
+        48.35624902954075
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007302,
+        "externalId": "ftC0A4So7R",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007302/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        24.686279296875007,
+        -10.941191793456554
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007379,
+        "externalId": "JjSrXG5b5x",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007379/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        30.300292968750004,
+        -18.16673041022193
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007378,
+        "externalId": "p1qSKa57g7",
+        "title": "",
+        "description": "可以在教堂的花园里找到。",
+        "imagePath": "/game_map_pin/1007378/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        34.59594726562501,
+        -12.24339150562328
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007374,
+        "externalId": "QzBeKrKFRc",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007374/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        38.56201171875001,
+        -14.944784875088374
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007372,
+        "externalId": "l6BfLq6Q8E",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007372/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        48.218994140625,
+        -15.326571801420926
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007369,
+        "externalId": "v1KEBhYePF",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007369/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        59.17236328125001,
+        -20.735565905218593
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007360,
+        "externalId": "AL8erjNVWK",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007360/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        61.907958984375014,
+        -25.373809171543925
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007359,
+        "externalId": "kuMcWZnzj8",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007359/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        70.16967773437501,
+        -20.622502259344756
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "externalId": "OsUgECehAE",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imageId": 1007358,
+        "imagePath": "/game_map_pin/1007358/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        85.62744140624999,
+        -21.350781150679722
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "externalId": "rtQEA0eLL4",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imageId": 1007334,
+        "imagePath": "/game_map_pin/1007334/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        85.05615234375,
+        -24.20688962239801
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007333,
+        "externalId": "Wbz2TGrnYU",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007333/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        60.93017578125,
+        72.88733763022495
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007220,
+        "externalId": "PAIPQIMaWH",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007220/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        138.75732421875003,
+        74.74118495548186
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007223,
+        "externalId": "CFo2uwTJRJ",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007223/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        158.99414062500003,
+        67.45808150845775
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007229,
+        "externalId": "jZ3HfgKqpH",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007229/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        68.66455078125001,
+        60.18523283150752
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007288,
+        "externalId": "5wQpY9nY95",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007288/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        112.93945312500003,
+        55.97379820507666
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007294,
+        "externalId": "hv60DREgn8",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007294/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        94.13085937500007,
+        22.014360653103225
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "externalId": "ZqFvir8ayw",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imageId": 1007343,
+        "imagePath": "/game_map_pin/1007343/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        158.24707031250003,
+        6.555474602201883
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007310,
+        "externalId": "qrzNN1xcwJ",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007310/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        148.52416992187503,
+        -14.125921780589266
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007316,
+        "externalId": "VywWCjArDk",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007316/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        144.82177734375003,
+        -16.140815555276006
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007320,
+        "externalId": "h1kcxKuDJe",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007320/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        126.02416992187501,
+        -8.298470297067354
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007324,
+        "externalId": "Q0QRxdUiLw",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007324/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        8.690185546875002,
+        -16.8886597873816
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1006535,
+        "externalId": "cN7d8othJR",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006535/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -12.436523437500002,
+        -14.519780046326085
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1006544,
+        "externalId": "JfL1WvygGo",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006544/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -6.833496093750001,
+        -27.186242185608734
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1006524,
+        "externalId": "buF0k9NBTE",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006524/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        12.744140625000002,
+        -31.297327991404153
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1006518,
+        "externalId": "bscF9T32RT",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006518/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -17.380371093750004,
+        -39.29179704377487
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1006502,
+        "externalId": "6JUkF0Zhbq",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006502/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -19.039306640625004,
+        -43.052833917627936
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1006495,
+        "externalId": "q6x5XtyUcp",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006495/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -19.841308593750004,
+        -53.70321053273598
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1006494,
+        "externalId": "4sbs07lSkQ",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006494/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -17.973632812500004,
+        -55.79510545223691
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1006491,
+        "externalId": "ZokzZYgtnq",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006491/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -7.646484375000001,
+        -54.64841250231668
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1006488,
+        "externalId": "NHagkpwB7E",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006488/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        3.350830078125001,
+        -55.57213384241377
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1006456,
+        "externalId": "CEH0EEyR2f",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006456/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        11.436767578125,
+        -55.02802211299251
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1006447,
+        "externalId": "fSJ962sj7i",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006447/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        20.852050781250004,
+        -50.394512080233724
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1006462,
+        "externalId": "YT3Dp6m05C",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006462/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        84.53979492187501,
+        -53.7292167125127
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007141,
+        "externalId": "zWXlJKt7PX",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007141/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        90.93154132991289,
+        -47.14489748555397
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007145,
+        "externalId": "xqoCQNVTVP",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007145/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        104.99633789062501,
+        -47.931066347509756
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007146,
+        "externalId": "DD8BfIraLW",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007146/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        96.37207031250001,
+        -55.0406143277167
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007127,
+        "externalId": "fzwwWLptYe",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007127/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        106.292724609375,
+        -40.01920130768676
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007155,
+        "externalId": "9QMftwqRfr",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007155/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        111.88476562500001,
+        -42.48830197960224
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007157,
+        "externalId": "nOH79zxVGh",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007157/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        122.21191406250001,
+        -46.0045932557448
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007170,
+        "externalId": "fQ9Fws1krz",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007170/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        126.046142578125,
+        -46.55130547880642
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007172,
+        "externalId": "RjLjUiiecD",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007172/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        128.94653320312503,
+        -48.085418575511994
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007175,
+        "externalId": "nkbhIEhfkj",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007175/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        119.619140625,
+        -49.55372551347578
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007162,
+        "externalId": "lcwccLb83M",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007162/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        133.96688718880904,
+        -58.05060791570141
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007117,
+        "externalId": "hiYrTbLr5e",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007117/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        125.94726562500001,
+        -64.5153706534154
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007103,
+        "externalId": "MsEtMVzXNN",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007103/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        142.16308593750003,
+        -66.26685631430843
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007106,
+        "externalId": "IzhM5BvWnk",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007106/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        115.609130859375,
+        -66.8394867479207
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007094,
+        "externalId": "EighHSEDp9",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007094/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        103.40332031250003,
+        -70.93100353239012
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007087,
+        "externalId": "iYrvcyBEO6",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007087/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        105.02929687500001,
+        -76.14821993999631
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007085,
+        "externalId": "fPYNr8zyP0",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007085/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        101.74438476562501,
+        -77.81868765201568
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1006554,
+        "externalId": "FIh6xGheTr",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006554/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        97.15209960937501,
+        -80.06184243199519
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1006546,
+        "externalId": "1DzM43FMtY",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006546/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        113.18115234375001,
+        -23.019076187293038
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": null,
+        "externalId": "pXnqiCmVin",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        115.11474609375,
+        -24.05649649076851
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007327,
+        "externalId": "GWua0eookW",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007327/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        101.09619140625,
+        -79.01752720094824
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1006550,
+        "externalId": "VVvb6s8dXW",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1006550/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        94.82298902546421,
+        -0.5273423188307333
+      ],
+      "properties": {
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007335,
+        "externalId": "h2nhpA3vMc",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007335/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -10.843505859375002,
+        65.44456768370165
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1007721,
+        "externalId": "PQQcy3bAhT",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007721/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -48.91113281250001,
+        52.70967533219885
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1007719,
+        "externalId": "Kcb2iuDsB8",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007719/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -21.774902343750004,
+        37.23032838760387
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1007724,
+        "externalId": "BwSHynKOfb",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007724/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        146.78833007812503,
+        74.07389660001783
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1009387,
+        "externalId": "K0B0uCFU5w",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1009387/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        100.74462890625001,
+        66.78324914546289
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1009378,
+        "externalId": "ONgNkDQVHZ",
+        "title": "",
+        "description": "可以在废弃仓库后面找到。",
+        "imagePath": "/game_map_pin/1009378/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        138.99902343750003,
+        66.74857729704038
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1009368,
+        "externalId": "9IGFEqUhrk",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1009368/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        134.45068359375003,
+        32.138408696772515
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1009367,
+        "externalId": "bFUQtXJA6U",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1009367/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        135.92285156250003,
+        32.73184089686569
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1009362,
+        "externalId": "wPkEhNoFIr",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1009362/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        51.29516601562501,
+        47.37603463349758
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1007747,
+        "externalId": "b8SZOyTqAq",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007747/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        49.68017578125001,
+        31.840232667909362
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1007739,
+        "externalId": "j1d8md6Bq6",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007739/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        26.46606445312502,
+        18.479609055831986
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1007729,
+        "externalId": "hBdSAXq3U7",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007729/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        93.52661132812506,
+        22.15688318686071
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1007764,
+        "externalId": "3Pto1biNzX",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007764/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        125.11230468750001,
+        20.992214250886114
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1009322,
+        "externalId": "RJi4BvCVBD",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1009322/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        150.95214843750003,
+        21.043491216803545
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1009332,
+        "externalId": "JL9I7jaYFN",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1009332/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        155.07202148437503,
+        -14.317614840171899
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1007802,
+        "externalId": "GcTfw1bNS0",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007802/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        132.59399414062503,
+        -30.363396239603727
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1007798,
+        "externalId": "hbGernm2ib",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007798/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        127.16674804687501,
+        -25.502784548755344
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1007789,
+        "externalId": "dCdi3A43BS",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007789/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        116.3232421875,
+        -9.503243879785217
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1007768,
+        "externalId": "LA8OXt2tpj",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007768/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        101.83227539062501,
+        -9.86062814536589
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1007785,
+        "externalId": "TNdQOthHU7",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007785/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        55.07446289062501,
+        -8.167993177231892
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1007752,
+        "externalId": "ergQfQm5eF",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1007752/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -4.504394531250001,
+        -26.843677401112977
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1010185,
+        "externalId": "jaGG8BjI91",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1010185/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -28.201904296875004,
+        -23.986252599841798
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1010183,
+        "externalId": "89o7qOI045",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1010183/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -21.796875000000004,
+        -33.339707004240275
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1010187,
+        "externalId": "EzfqbYgTyd",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1010187/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -8.613281250000002,
+        -41.623655390686395
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1010190,
+        "externalId": "zhm6TGAQTz",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1010190/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        7.272315263903742,
+        -40.36976179018545
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "externalId": "oYvyDI7PDf",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imageId": 1010194,
+        "imagePath": "/game_map_pin/1010194/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        18.544921875000004,
+        -43.100982876188525
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1010334,
+        "externalId": "Ff2lWWiwwz",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1010334/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -6.448974609375001,
+        -53.468430720011604
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1010346,
+        "externalId": "FCibHEi6nq",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1010346/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        12.392578125,
+        -55.14120964449505
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1010337,
+        "externalId": "vBRyzs9oF1",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1010337/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        4.306640625000001,
+        -58.80236192775945
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "externalId": "nJAlCf0irY",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imageId": 1010339,
+        "imagePath": "/game_map_pin/1010339/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -14.39208984375,
+        -64.45384948864441
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "externalId": "UTUtcR2xEd",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imageId": 1010351,
+        "imagePath": "/game_map_pin/1010351/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        81.26586914062501,
+        -44.34742225636391
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1010109,
+        "externalId": "s2jcQs5IIf",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1010109/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        121.44271632225636,
+        -41.51468643265395
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1009400,
+        "externalId": "hkgjeQ5P49",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1009400/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        122.08007812500001,
+        -46.649436163350174
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1009447,
+        "externalId": "5XFUFuJLtR",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1009447/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        95.130615234375,
+        -51.103521942404114
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1010108,
+        "externalId": "NLDoYpc5AS",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1010108/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        93.58154296875006,
+        -56.084297562061366
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1010113,
+        "externalId": "IOd1r5Ijm8",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1010113/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        104.78759765625004,
+        -57.68066002977236
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1010118,
+        "externalId": "3j14rHohGz",
+        "title": "",
+        "description": "可以在房屋的露台上找到。",
+        "imagePath": "/game_map_pin/1010118/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        134.87915039062503,
+        -53.126998061776135
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1010123,
+        "externalId": "xn7kjUlDvX",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1010123/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        132.69287109375003,
+        -61.01572481397616
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1010129,
+        "externalId": "6SgiZ2EVnX",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1010129/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        120.56396484375001,
+        -63.60233259243334
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1010131,
+        "externalId": "UxScMZQpUn",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1010131/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        111.00585937500001,
+        -67.29749697773723
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "externalId": "gHz05dQfWy",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imageId": 1010148,
+        "imagePath": "/game_map_pin/1010148/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        98.909912109375,
+        -66.3022054759984
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1010135,
+        "externalId": "W2RANR6qDb",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1010135/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        115.07080078125001,
+        -69.7789517764676
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1010151,
+        "externalId": "xlIzcG9Sih",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1010151/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        77.56347656250001,
+        -79.23718500609334
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "externalId": "Z4pzItgDju",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imageId": 1010166,
+        "imagePath": "/game_map_pin/1010166/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        66.20361328125001,
+        -82.62851425270355
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1010168,
+        "externalId": "ODcRd2MS2D",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1010168/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        52.21801757812501,
+        -83.77538941321905
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1010172,
+        "externalId": "Yt490AHdcZ",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1010172/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -51.756591796875,
+        63.3077481645043
+      ],
+      "properties": {
+        "subcategoryExternalId": "x5ZghknzRk",
+        "imageId": 1013280,
+        "externalId": "rPMGWucx5o",
+        "title": "沃洛·马蒂诺",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013280/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -21.412353515625,
+        36.60670888641817
+      ],
+      "properties": {
+        "subcategoryExternalId": "x5ZghknzRk",
+        "externalId": "44jySGh3qk",
+        "title": "沃洛山谷",
+        "description": "描述/跟随指令",
+        "imageId": 1013296,
+        "imagePath": "/game_map_pin/1013296/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        69.52148437500001,
+        23.926013033021192
+      ],
+      "properties": {
+        "subcategoryExternalId": "x5ZghknzRk",
+        "imageId": 1013377,
+        "externalId": "Oc1Uykb4vB",
+        "title": "沃洛·马克西姆",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013377/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        114.36767578125003,
+        35.40696093270202
+      ],
+      "properties": {
+        "subcategoryExternalId": "x5ZghknzRk",
+        "imageId": 1013364,
+        "externalId": "EOGfQHiXv7",
+        "title": "沃洛坎波",
+        "description": "位置：北纬 40 46.709 东经 5 43.454\n\n省份：蒙大拿\n\n飞过所有检查点并到达终点线。",
+        "imagePath": "/game_map_pin/1013364/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        134.16503906250003,
+        31.737511125687817
+      ],
+      "properties": {
+        "subcategoryExternalId": "x5ZghknzRk",
+        "imageId": 1013373,
+        "externalId": "OeAtyAqtQx",
+        "title": "沃洛秃鹫",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013373/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        25.72998046875,
+        -5.101887070062321
+      ],
+      "properties": {
+        "subcategoryExternalId": "x5ZghknzRk",
+        "imageId": 1013391,
+        "externalId": "sdT0hWaSf5",
+        "title": "沃洛大都会",
+        "description": "位置：N 40 44.554 E 5 38.071\n\n省份：利贝乔\n\n飞过所有检查点并到达终点线。",
+        "imagePath": "/game_map_pin/1013391/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -23.027343750000004,
+        -19.973348786110602
+      ],
+      "properties": {
+        "subcategoryExternalId": "x5ZghknzRk",
+        "externalId": "ns5S8eKqqF",
+        "title": "Volo Rischio",
+        "description": "描述/跟随指令",
+        "imageId": 1013741,
+        "imagePath": "/game_map_pin/1013741/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -31.451552242594126,
+        -33.04079227890742
+      ],
+      "properties": {
+        "subcategoryExternalId": "x5ZghknzRk",
+        "externalId": "0sBCoLX8GU",
+        "title": "Volo Dracon",
+        "description": "描述/跟随指令",
+        "imageId": 1013753,
+        "imagePath": "/game_map_pin/1013753/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -14.699707031250002,
+        -55.090943622278544
+      ],
+      "properties": {
+        "subcategoryExternalId": "x5ZghknzRk",
+        "externalId": "egCnqbMIUF",
+        "title": "沃洛峡谷",
+        "description": "描述/跟随指令",
+        "imageId": 1013772,
+        "imagePath": "/game_map_pin/1013772/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        148.32641601562503,
+        41.795888098191426
+      ],
+      "properties": {
+        "subcategoryExternalId": "TWwnclhGEz",
+        "externalId": "Fz4h4UrlEL",
+        "title": "雷加塔拉科",
+        "description": "描述/跟随指令",
+        "imageId": 1013371,
+        "imagePath": "/game_map_pin/1013371/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        32.49755859375001,
+        -18.41707865866131
+      ],
+      "properties": {
+        "subcategoryExternalId": "TWwnclhGEz",
+        "externalId": "1j7A4ZHFVm",
+        "title": "雷加塔城",
+        "description": "描述/跟随指令",
+        "imageId": 1013397,
+        "imagePath": "/game_map_pin/1013397/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        9.624023437500002,
+        -17.07778960654537
+      ],
+      "properties": {
+        "subcategoryExternalId": "TWwnclhGEz",
+        "imageId": 1013740,
+        "externalId": "iPtB9p19Gi",
+        "title": "雷加塔桥",
+        "description": "位置：北纬 40°44.149' 东经 5°36.905'\n\n省份：东首府\n\n穿越所有检查点并尽快到达终点线。",
+        "imagePath": "/game_map_pin/1013740/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -6.78955078125,
+        -34.542762387234845
+      ],
+      "properties": {
+        "subcategoryExternalId": "TWwnclhGEz",
+        "externalId": "DcN0otu40H",
+        "title": "雷加塔·卡沃",
+        "description": "描述/跟随指令",
+        "imageId": 1013757,
+        "imagePath": "/game_map_pin/1013757/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -13.787841796875004,
+        -36.24427318493909
+      ],
+      "properties": {
+        "subcategoryExternalId": "TWwnclhGEz",
+        "imageId": 1013754,
+        "externalId": "GtcoQmmM0Y",
+        "title": "雷加塔·库尔瓦雷",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013754/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        3.3728027343750004,
+        -53.50111704294317
+      ],
+      "properties": {
+        "subcategoryExternalId": "TWwnclhGEz",
+        "imageId": 1013788,
+        "externalId": "5i7Qv1P8D3",
+        "title": "雷加塔瀑布",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013788/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -25.070800781250004,
+        -67.00313631747609
+      ],
+      "properties": {
+        "subcategoryExternalId": "TWwnclhGEz",
+        "externalId": "WI0zIXgpyE",
+        "title": "雷加塔反叛者",
+        "description": "描述/跟随指令",
+        "imageId": 1013782,
+        "imagePath": "/game_map_pin/1013782/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        110.45654296875001,
+        -41.59901305483015
+      ],
+      "properties": {
+        "subcategoryExternalId": "TWwnclhGEz",
+        "externalId": "Y5bvzWbpCF",
+        "title": "雷加塔佩特拉",
+        "description": "描述/跟随指令",
+        "imageId": 1013802,
+        "imagePath": "/game_map_pin/1013802/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        87.89062500000001,
+        62.83508901142283
+      ],
+      "properties": {
+        "subcategoryExternalId": "AXYw8lbXno",
+        "imageId": 1013319,
+        "externalId": "cXUXlvSngJ",
+        "title": "雪峰爆破",
+        "description": "位置：北纬 40 48.838 东经 5 41.860\n\n省份：蒙大拿\n\n你的载具是一个炸弹，如果你保持低于速度阈值太久就会爆炸。撞击目标。快速奔跑和大爆炸能获得更多奖励来解锁爆炸物MOD。",
+        "imagePath": "/game_map_pin/1013319/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        89.83520507812501,
+        43.921637128346646
+      ],
+      "properties": {
+        "subcategoryExternalId": "AXYw8lbXno",
+        "externalId": "XtZF5a1jEL",
+        "title": "燃烧爆破",
+        "description": "描述/跟随指令",
+        "imageId": 1013360,
+        "imagePath": "/game_map_pin/1013360/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        124.66186523437501,
+        39.867587624510236
+      ],
+      "properties": {
+        "subcategoryExternalId": "AXYw8lbXno",
+        "imageId": 1013367,
+        "externalId": "sYnvq0jWte",
+        "title": "弯道爆破",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013367/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        125.496826171875,
+        20.468189222640888
+      ],
+      "properties": {
+        "subcategoryExternalId": "AXYw8lbXno",
+        "imageId": 1013376,
+        "externalId": "15onimoLYE",
+        "title": "蒙大拿悬崖爆破",
+        "description": "位置：北纬 40 45.901 东经 5 44.131\n\n省份：南海岸省\n\n你的载具是一个炸弹，如果你的速度长时间保持在阈值以下就会爆炸。撞击目标。快速奔跑和大爆炸能获得更多奖励来解锁爆炸物MOD。",
+        "imagePath": "/game_map_pin/1013376/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        13.864746093750002,
+        0.7250783020332547
+      ],
+      "properties": {
+        "subcategoryExternalId": "AXYw8lbXno",
+        "imageId": 1013388,
+        "externalId": "7u3lDJhS21",
+        "title": "隐秘海滨爆炸",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013388/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        59.95239257812501,
+        -23.11004929735674
+      ],
+      "properties": {
+        "subcategoryExternalId": "AXYw8lbXno",
+        "externalId": "WPBanoDuKg",
+        "title": "地铁郊区爆炸",
+        "description": "位置：北纬 40 43.815 东经 5 40.053\n\n省份：普里马\n\n你的载具是一个炸弹，如果你的速度长时间低于阈值就会爆炸。撞击目标。快速奔跑和大爆炸能获得更多奖励来解锁爆炸物MOD。",
+        "imageId": 1013400,
+        "imagePath": "/game_map_pin/1013400/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        14.249267578125002,
+        -30.836214626064816
+      ],
+      "properties": {
+        "subcategoryExternalId": "AXYw8lbXno",
+        "externalId": "CqPVLge7qd",
+        "title": "马索斯桥爆破",
+        "description": "描述/跟随指令",
+        "imageId": 1013758,
+        "imagePath": "/game_map_pin/1013758/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        5.438232421875003,
+        -55.96150096848814
+      ],
+      "properties": {
+        "subcategoryExternalId": "AXYw8lbXno",
+        "externalId": "kCBXgJbMQk",
+        "title": "山路弯道爆破",
+        "description": "位置：北纬 40 41.780 东经 5 36.609\n\n省份：佩特拉\n\n你的载具是一个炸弹，如果你的速度长时间低于临界值就会爆炸。撞击目标。快速奔跑和大爆炸能获得更多奖励来解锁爆炸物MOD。",
+        "imageId": 1013790,
+        "imagePath": "/game_map_pin/1013790/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        106.7431640625,
+        -50.97226488936749
+      ],
+      "properties": {
+        "subcategoryExternalId": "AXYw8lbXno",
+        "imageId": 1013819,
+        "externalId": "0FNiSAou8j",
+        "title": "麦田爆炸",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013819/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        124.04022014509245,
+        -65.2470370232761
+      ],
+      "properties": {
+        "subcategoryExternalId": "AXYw8lbXno",
+        "imageId": 1013835,
+        "externalId": "KSoePMcBXG",
+        "title": "越野车爆炸",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013835/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        107.60009765625001,
+        -79.3311521556641
+      ],
+      "properties": {
+        "subcategoryExternalId": "AXYw8lbXno",
+        "imageId": 1013873,
+        "externalId": "xiiYyh3VAZ",
+        "title": "拉古纳爆炸",
+        "description": "位置：北纬 40 38.596 东经 5 42.942\n\n省份：西洛可南省\n\n你的载具是一个炸弹，如果速度低于阈值太久就会爆炸。撞击目标。快速奔跑和大爆炸能获得更丰厚的奖励来解锁爆炸物MOD。",
+        "imagePath": "/game_map_pin/1013873/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -60.44677734375001,
+        68.17972379832915
+      ],
+      "properties": {
+        "subcategoryExternalId": "LDZ5o4J4MD",
+        "imageId": 1013271,
+        "externalId": "dvbFEtg3Dm",
+        "title": "狂潮III号船",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013271/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -36.34277343750001,
+        56.82493286500741
+      ],
+      "properties": {
+        "subcategoryExternalId": "LDZ5o4J4MD",
+        "imageId": 1013281,
+        "externalId": "vGtdx5r71R",
+        "title": "RPG 狂热 III",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013281/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        8.734757444387236,
+        50.546055078434776
+      ],
+      "properties": {
+        "subcategoryExternalId": "LDZ5o4J4MD",
+        "externalId": "kkOqtinU1m",
+        "title": "喷气狂暴 I",
+        "description": "位置：北纬 40 47.761 东经 5 36.804\n\n省份：西北风省\n\n在你的新战斗轰炸机中地毯式轰炸秃鹫基地直至完全摧毁。利用基地外的额外宽限时间仔细规划你的攻击路线！",
+        "imageId": 1013298,
+        "imagePath": "/game_map_pin/1013298/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        58.89770507812501,
+        59.05750556628033
+      ],
+      "properties": {
+        "subcategoryExternalId": "LDZ5o4J4MD",
+        "externalId": "SIi3ZJjOYu",
+        "title": "坦克狂潮 II",
+        "description": "描述/跟随指令",
+        "imageId": 1013308,
+        "imagePath": "/game_map_pin/1013308/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        85.64615176724644,
+        55.78831464021257
+      ],
+      "properties": {
+        "subcategoryExternalId": "LDZ5o4J4MD",
+        "imageId": 1013344,
+        "externalId": "iHdr6xJGLl",
+        "title": "风暴狂潮",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013344/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        67.20336914062501,
+        41.0047754222295
+      ],
+      "properties": {
+        "subcategoryExternalId": "LDZ5o4J4MD",
+        "imageId": 1013357,
+        "externalId": "2m7RbBaydY",
+        "title": "直升机狂热III",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013357/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        115.718994140625,
+        41.599013054830294
+      ],
+      "properties": {
+        "subcategoryExternalId": "LDZ5o4J4MD",
+        "externalId": "RrWO71LfEr",
+        "title": "坦克狂热III",
+        "description": "描述/跟随指令",
+        "imageId": 1013362,
+        "imagePath": "/game_map_pin/1013362/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        67.66479492187501,
+        15.485445179478617
+      ],
+      "properties": {
+        "subcategoryExternalId": "LDZ5o4J4MD",
+        "imageId": 1013380,
+        "externalId": "OIK42KCbus",
+        "title": "RPG 狂潮 II",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013380/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        130.81420898437503,
+        -9.340672181980949
+      ],
+      "properties": {
+        "subcategoryExternalId": "LDZ5o4J4MD",
+        "imageId": 1013727,
+        "externalId": "tLtDsIx3hb",
+        "title": "喷射狂潮 II",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013727/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        139.17480468750003,
+        -49.68184689940124
+      ],
+      "properties": {
+        "subcategoryExternalId": "LDZ5o4J4MD",
+        "imageId": 1013812,
+        "externalId": "Bke4aYQ93R",
+        "title": "狙击步枪狂热 I",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013812/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        124.6728515625,
+        -57.3739384187141
+      ],
+      "properties": {
+        "subcategoryExternalId": "LDZ5o4J4MD",
+        "imageId": 1013827,
+        "externalId": "tdIe20FaYF",
+        "title": "扭打狂潮",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013827/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        116.85058593750001,
+        -60.08128354085363
+      ],
+      "properties": {
+        "subcategoryExternalId": "LDZ5o4J4MD",
+        "externalId": "d7wW6ectX5",
+        "title": "支援车辆狂潮",
+        "description": "描述/跟随指令",
+        "imageId": 1013829,
+        "imagePath": "/game_map_pin/1013829/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        94.44946289062513,
+        -60.72157115165571
+      ],
+      "properties": {
+        "subcategoryExternalId": "LDZ5o4J4MD",
+        "externalId": "CJP4Znt0oN",
+        "title": "机枪狂潮",
+        "description": "位置：北纬 40 41.350 东经 5 42.212\n\n省份：拉文达\n\n有了你的机枪、降落伞和抓钩，唯一的问题就是：你能多快将格拉蒂亚港夷为平地而不落地？",
+        "imageId": 1013830,
+        "imagePath": "/game_map_pin/1013830/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        86.04492187500001,
+        -72.58411727032353
+      ],
+      "properties": {
+        "subcategoryExternalId": "LDZ5o4J4MD",
+        "imageId": 1013868,
+        "externalId": "043tS1JJ5a",
+        "title": "霰弹枪狂热",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013868/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        93.09814453125,
+        -77.57523244741726
+      ],
+      "properties": {
+        "subcategoryExternalId": "LDZ5o4J4MD",
+        "imageId": 1013871,
+        "externalId": "Sh9e32mTFS",
+        "title": "船只狂潮 I",
+        "description": "位置：北纬 40 39.000 东经 5 42.134\n\n省份：西洛可北部\n\n操控你新巡逻艇上的炮塔，从水上轰击韦纳港。或者，你也可以等解锁了更大的船只后再回来。你自己选择。",
+        "imagePath": "/game_map_pin/1013871/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        83.43017578125001,
+        -79.87622823235664
+      ],
+      "properties": {
+        "subcategoryExternalId": "LDZ5o4J4MD",
+        "imageId": 1013882,
+        "externalId": "yrFRAWjSTm",
+        "title": "RPG 狂热 I",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013882/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        79.40917968750001,
+        64.37794095121995
+      ],
+      "properties": {
+        "subcategoryExternalId": "963NPlUx3L",
+        "externalId": "I9vb0f9CHK",
+        "title": "大回转冲刺赛",
+        "description": "位置：北纬 40 48.900 东经 5 41.257\n\n省份：蒙大拿\n\n驾驶通过所有检查点并尽快到达终点线。",
+        "imageId": 1013318,
+        "imagePath": "/game_map_pin/1013318/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        85.07812499999999,
+        51.890053935217026
+      ],
+      "properties": {
+        "subcategoryExternalId": "963NPlUx3L",
+        "imageId": null,
+        "externalId": "nwGqOjSLAs",
+        "title": "矿坑冲刺",
+        "description": "位置：北纬 40 47.777 东经 5 41.589\n\n省份：法尔科\n\n驾车通过所有检查点并尽快到达终点线。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        93.02124023437501,
+        38.376115424036044
+      ],
+      "properties": {
+        "subcategoryExternalId": "963NPlUx3L",
+        "imageId": 1013361,
+        "externalId": "04SUpH6R59",
+        "title": "山口冲刺",
+        "description": "穿过所有检查点，尽快到达终点。",
+        "imagePath": "/game_map_pin/1013361/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        17.973632812500004,
+        33.46810795527896
+      ],
+      "properties": {
+        "subcategoryExternalId": "963NPlUx3L",
+        "externalId": "rGXycoEAD5",
+        "title": "铁路冲刺",
+        "description": "穿过所有检查点，尽快到达终点。",
+        "imageId": 1013305,
+        "imagePath": "/game_map_pin/1013305/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -11.480712890625,
+        46.36967413462377
+      ],
+      "properties": {
+        "subcategoryExternalId": "963NPlUx3L",
+        "imageId": 1013297,
+        "externalId": "BzD0vIscVx",
+        "title": "特技跳跃冲刺",
+        "description": "穿过所有检查点，尽快到达终点。",
+        "imagePath": "/game_map_pin/1013297/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        26.4111328125,
+        -10.271681232946733
+      ],
+      "properties": {
+        "subcategoryExternalId": "963NPlUx3L",
+        "imageId": 1013394,
+        "externalId": "0KDx5sthvA",
+        "title": "城市冲刺",
+        "description": "位置：北纬 40 44.445 东经 5 37.925\n\n省份：Regno\n\n驾车通过所有检查点并尽快到达终点线。",
+        "imagePath": "/game_map_pin/1013394/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        88.22021484375004,
+        -18.57336188365184
+      ],
+      "properties": {
+        "subcategoryExternalId": "963NPlUx3L",
+        "imageId": 1013401,
+        "externalId": "jW8eXJ1seP",
+        "title": "南海岸冲刺",
+        "description": "穿过所有检查点，尽快到达终点。",
+        "imagePath": "/game_map_pin/1013401/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        95.94360351562501,
+        -10.09867012060338
+      ],
+      "properties": {
+        "subcategoryExternalId": "963NPlUx3L",
+        "externalId": "L1H6E4O6Qd",
+        "title": "乡村冲刺",
+        "description": "穿过所有检查点，尽快到达终点。",
+        "imageId": 1013404,
+        "imagePath": "/game_map_pin/1013404/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        90.21715522784325,
+        -46.34663992776866
+      ],
+      "properties": {
+        "subcategoryExternalId": "963NPlUx3L",
+        "imageId": 1013798,
+        "externalId": "785dcmt4BB",
+        "title": "小街冲刺",
+        "description": "位置：北纬 40 42.501 东经 5 41.952\n\n省份：费诺\n\n驾车通过所有检查点并尽快到达终点线。",
+        "imagePath": "/game_map_pin/1013798/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        97.49267578125001,
+        -55.751849391735284
+      ],
+      "properties": {
+        "subcategoryExternalId": "963NPlUx3L",
+        "imageId": 1013820,
+        "externalId": "7mU4vDv8BF",
+        "title": "蓝图纳疾驰",
+        "description": "穿过所有检查点，尽快到达终点。",
+        "imagePath": "/game_map_pin/1013820/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        128.89160156250003,
+        -48.65468584817256
+      ],
+      "properties": {
+        "subcategoryExternalId": "963NPlUx3L",
+        "externalId": "ps88QmHXVO",
+        "title": "苏普里科冲刺",
+        "description": "穿过所有检查点，尽快到达终点。",
+        "imageId": 1013814,
+        "imagePath": "/game_map_pin/1013814/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        119.53125000000003,
+        -49.89463439573423
+      ],
+      "properties": {
+        "subcategoryExternalId": "963NPlUx3L",
+        "externalId": "RWF6mP92s2",
+        "title": "特技冲刺",
+        "description": "穿过所有检查点，尽快到达终点。",
+        "imageId": 1013815,
+        "imagePath": "/game_map_pin/1013815/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        123.77197265625001,
+        -54.958694171016724
+      ],
+      "properties": {
+        "subcategoryExternalId": "963NPlUx3L",
+        "imageId": 1013826,
+        "externalId": "uaW28hnZZH",
+        "title": "Ridgeline 冲刺",
+        "description": "穿过所有检查点，尽快到达终点。",
+        "imagePath": "/game_map_pin/1013826/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        5.394287109375,
+        -58.64265251657598
+      ],
+      "properties": {
+        "subcategoryExternalId": "963NPlUx3L",
+        "imageId": 1013792,
+        "externalId": "ogay7LBA6S",
+        "title": "间谍短跑",
+        "description": "穿过所有检查点，尽快到达终点。",
+        "imagePath": "/game_map_pin/1013792/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -6.448974609375001,
+        -53.94962061777841
+      ],
+      "properties": {
+        "subcategoryExternalId": "963NPlUx3L",
+        "externalId": "WZ4bIzhgIu",
+        "title": "马奎雷洛冲刺",
+        "description": "穿过所有检查点，尽快到达终点。",
+        "imageId": 1013773,
+        "imagePath": "/game_map_pin/1013773/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -28.6962890625,
+        -66.26243417754857
+      ],
+      "properties": {
+        "subcategoryExternalId": "963NPlUx3L",
+        "externalId": "qJRlOouzXE",
+        "title": "海滨疾走",
+        "description": "穿过所有检查点，尽快到达终点。",
+        "imageId": 1013780,
+        "imagePath": "/game_map_pin/1013780/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        57.46948242187501,
+        9.535748998133627
+      ],
+      "properties": {
+        "subcategoryExternalId": "x9JSBVAVxo",
+        "imageId": 1013386,
+        "externalId": "TYsDC9Ict4",
+        "title": "秒速混战",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013386/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        16.325683593750004,
+        -57.302789656350086
+      ],
+      "properties": {
+        "subcategoryExternalId": "x9JSBVAVxo",
+        "imageId": 1013795,
+        "externalId": "tc7vl9gfc8",
+        "title": "库存抢购",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013795/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        108.80859375000001,
+        -77.46602847687326
+      ],
+      "properties": {
+        "subcategoryExternalId": "x9JSBVAVxo",
+        "externalId": "N388vruqrh",
+        "title": "",
+        "description": "使用Dimah专利的Bavarium Attractor尽可能多地收集Bavarium。通过将Bavarium送到坑中来赚取更多时间。",
+        "imageId": 1013869,
+        "imagePath": "/game_map_pin/1013869/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -35.90332031250001,
+        54.52108149544362
+      ],
+      "properties": {
+        "subcategoryExternalId": "x9JSBVAVxo",
+        "externalId": "8osOAFQxmk",
+        "title": "地震混战",
+        "description": "使用Dimah专利的Bavarium Attractor尽可能多地收集Bavarium。通过将Bavarium送到坑中来赚取更多时间。",
+        "imageId": 1013289,
+        "imagePath": "/game_map_pin/1013289/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        134.47265625000003,
+        32.43561304116277
+      ],
+      "properties": {
+        "subcategoryExternalId": "7dqdsFkXOo",
+        "imageId": 1013372,
+        "externalId": "kV7Ev4U2E6",
+        "title": "左轮手枪训练课程",
+        "description": "位置：北纬 40 46.552 东经 5 44.707\n\n省份：翁布拉\n\n在时间用完之前尽可能多地射击目标。命中会增加你的得分倍数，失误会让倍数重置。",
+        "imagePath": "/game_map_pin/1013372/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        46.04370117187501,
+        -12.608176128810882
+      ],
+      "properties": {
+        "subcategoryExternalId": "7dqdsFkXOo",
+        "externalId": "AoCVIuZVV1",
+        "title": "爆发训练课程",
+        "description": "地点：北纬 40 44.322 东经 5 39.175\n\n省份：Regno\n\n在时间用完之前尽可能多地射击目标。命中会增加你的得分倍数，失误会使倍数重置。",
+        "imageId": 1013398,
+        "imagePath": "/game_map_pin/1013398/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        122.45361328125001,
+        -45.76752296214983
+      ],
+      "properties": {
+        "subcategoryExternalId": "7dqdsFkXOo",
+        "imageId": 1013810,
+        "externalId": "JZMVAPgpuh",
+        "title": "手枪训练课程",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013810/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -28.729248046875004,
+        -66.59194802140541
+      ],
+      "properties": {
+        "subcategoryExternalId": "7dqdsFkXOo",
+        "externalId": "3az49vzOlA",
+        "title": "机枪训练课程",
+        "description": "位置：北纬 40 40.710 东经 5 34.509\n\n省份：Cauda\n\n在时间耗尽前尽可能多地射击目标。命中会增加你的得分倍数，失误会重置倍数。",
+        "imageId": 1013781,
+        "imagePath": "/game_map_pin/1013781/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        45.88989257812501,
+        -83.96079391869429
+      ],
+      "properties": {
+        "subcategoryExternalId": "7dqdsFkXOo",
+        "imageId": 1013892,
+        "externalId": "AxXTBzjlw6",
+        "title": "",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013892/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -37.79296875000006,
+        45.736859547360496
+      ],
+      "properties": {
+        "subcategoryExternalId": "p2dyHFS9yF",
+        "imageId": 1013293,
+        "externalId": "z1sbN6o39N",
+        "title": "荒地之旅",
+        "description": "位置：北纬 40 47.339 东经 5 33.890\n\n省份：罗卡布劳\n\n使用翼装飞行穿过光环来获得分数。穿过红色光环或贴地飞行可获得额外分数。",
+        "imagePath": "/game_map_pin/1013293/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        12.23876953125,
+        55.34164183013326
+      ],
+      "properties": {
+        "subcategoryExternalId": "p2dyHFS9yF",
+        "externalId": "a6UtKLnSH3",
+        "title": "机场巡游",
+        "description": "位置：北纬 40 48.145 东经 5 36.978\n\n省份：Maestrale\n\n穿着翼装飞过圆环来获得分数。飞过红色圆环或贴地飞行可获得额外分数。",
+        "imageId": 1013300,
+        "imagePath": "/game_map_pin/1013300/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        116.3671875,
+        66.37275500247458
+      ],
+      "properties": {
+        "subcategoryExternalId": "p2dyHFS9yF",
+        "imageId": 1013320,
+        "externalId": "aiviVgMrSR",
+        "title": "阴天裂缝之旅",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013320/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        123.90380859375001,
+        60.54377524118842
+      ],
+      "properties": {
+        "subcategoryExternalId": "p2dyHFS9yF",
+        "externalId": "ohcfq0rL3j",
+        "title": "雪坡之旅",
+        "description": "位置：北纬 40 48.557 东经 5 43.842\n\n省份：蒙大拿\n\n穿着翼装飞过光环来获得分数。通过飞过红色光环或贴地飞行来获得额外分数。",
+        "imageId": 1013321,
+        "imagePath": "/game_map_pin/1013321/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        122.91503906250001,
+        56.75272287205736
+      ],
+      "properties": {
+        "subcategoryExternalId": "p2dyHFS9yF",
+        "imageId": 1013325,
+        "externalId": "RXkqCSPBCl",
+        "title": "山地马拉松之旅",
+        "description": "位置：北纬 40 48.245 东经 5 43.956\n\n省份：蒙大拿\n\n穿着翼装飞过圆环来获得分数。飞过红色圆环或贴地飞行可获得额外分数。",
+        "imagePath": "/game_map_pin/1013325/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        97.60253906250001,
+        56.43820369358167
+      ],
+      "properties": {
+        "subcategoryExternalId": "p2dyHFS9yF",
+        "externalId": "1R1P9PlTfR",
+        "title": "极限之旅",
+        "description": "描述/跟随指令",
+        "imageId": 1013343,
+        "imagePath": "/game_map_pin/1013343/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -30.036621093750004,
+        13.15437605541853
+      ],
+      "properties": {
+        "subcategoryExternalId": "p2dyHFS9yF",
+        "externalId": "V7QBtUble8",
+        "title": "峡谷之旅",
+        "description": "描述/跟随指令",
+        "imageId": 1013303,
+        "imagePath": "/game_map_pin/1013303/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -15.22705078125,
+        18.500447458475094
+      ],
+      "properties": {
+        "subcategoryExternalId": "p2dyHFS9yF",
+        "imageId": 1013304,
+        "externalId": "1oRFrQqXsl",
+        "title": "维斯塔跳水之旅",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013304/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        30.794677734375004,
+        -10.196000424383584
+      ],
+      "properties": {
+        "subcategoryExternalId": "p2dyHFS9yF",
+        "externalId": "WjNhSdUHMk",
+        "title": "大都会之旅",
+        "description": "描述/跟随指令",
+        "imageId": 1013395,
+        "imagePath": "/game_map_pin/1013395/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        65.06103515625001,
+        0.5822653680900913
+      ],
+      "properties": {
+        "subcategoryExternalId": "p2dyHFS9yF",
+        "imageId": 1013396,
+        "externalId": "nUklOVki0Z",
+        "title": "拖拽索跳水之旅",
+        "description": "位置：北纬 40 44.994 东经 5 40.327\n\n省份：Prospere\n\n穿越光环以获得积分。飞过红色光环或贴地飞行可获得额外积分。",
+        "imagePath": "/game_map_pin/1013396/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        100.96435546875,
+        5.211305692480341
+      ],
+      "properties": {
+        "subcategoryExternalId": "p2dyHFS9yF",
+        "imageId": 1013725,
+        "externalId": "uvT1iJwOo5",
+        "title": "草场之旅",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013725/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        130.35278320312503,
+        -11.770570195625197
+      ],
+      "properties": {
+        "subcategoryExternalId": "p2dyHFS9yF",
+        "imageId": 1013735,
+        "externalId": "M7GP2tgeqo",
+        "title": "狮鹫之旅",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013735/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -12.85400390625,
+        -14.541049898060388
+      ],
+      "properties": {
+        "subcategoryExternalId": "p2dyHFS9yF",
+        "imageId": 1013736,
+        "externalId": "J8RjLODHsI",
+        "title": "蒙特德拉贡之旅",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013736/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        7.624511718750001,
+        -25.423431426334233
+      ],
+      "properties": {
+        "subcategoryExternalId": "p2dyHFS9yF",
+        "imageId": 1013745,
+        "externalId": "MXHSLKC5yQ",
+        "title": "地下城之旅",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013745/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -13.139648437500002,
+        -49.95121990866204
+      ],
+      "properties": {
+        "subcategoryExternalId": "p2dyHFS9yF",
+        "externalId": "ipi4h8vek1",
+        "title": "山顶之旅",
+        "description": "描述/跟随指令",
+        "imageId": 1013765,
+        "imagePath": "/game_map_pin/1013765/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -11.953125000000002,
+        -51.9239434455447
+      ],
+      "properties": {
+        "subcategoryExternalId": "p2dyHFS9yF",
+        "externalId": "IWDODezP9o",
+        "title": "达尔塞纳潜水之旅",
+        "description": "描述/跟随指令",
+        "imageId": 1013770,
+        "imagePath": "/game_map_pin/1013770/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        8.613281250000002,
+        -58.55106062287748
+      ],
+      "properties": {
+        "subcategoryExternalId": "p2dyHFS9yF",
+        "imageId": 1013794,
+        "externalId": "EAlCQmCcr5",
+        "title": "奥利沃巴萨之旅",
+        "description": "位置：北纬 40 41.630 东经 5 36.745\n\n省份：佩特拉\n\n穿着翼装飞行通过圆环来获得分数。通过飞过红色圆环或贴地飞行来获得奖励分数。",
+        "imagePath": "/game_map_pin/1013794/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        16.270751953125004,
+        -61.35461358468939
+      ],
+      "properties": {
+        "subcategoryExternalId": "p2dyHFS9yF",
+        "externalId": "23TCdodwiI",
+        "title": "标点游览",
+        "description": "描述/跟随指令",
+        "imageId": 1013796,
+        "imagePath": "/game_map_pin/1013796/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -28.696289062500004,
+        -69.18208931751127
+      ],
+      "properties": {
+        "subcategoryExternalId": "p2dyHFS9yF",
+        "externalId": "8vficeZPOm",
+        "title": "海盗之旅",
+        "description": "描述/跟随指令",
+        "imageId": 1013785,
+        "imagePath": "/game_map_pin/1013785/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        84.33105468750001,
+        -53.28492154619623
+      ],
+      "properties": {
+        "subcategoryExternalId": "p2dyHFS9yF",
+        "imageId": 1013806,
+        "externalId": "6q4WzHdjG9",
+        "title": "朗德拉之旅",
+        "description": "位置：北纬 40 42.006 东经 5 41.580\n\n省份：拉万达\n\n穿着翼装飞行通过圆环来获得分数。飞过红色圆环或贴地飞行可获得额外分数。",
+        "imagePath": "/game_map_pin/1013806/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        111.214599609375,
+        -56.1761389176698
+      ],
+      "properties": {
+        "subcategoryExternalId": "p2dyHFS9yF",
+        "externalId": "uNsMvPBYjZ",
+        "title": "坎帕尼亚之旅",
+        "description": "位置：北纬 40 41.765 东经 5 43.255\n\n省份：拉万达\n\n穿着翼装飞过圆环来获得分数。飞过红色圆环或贴地飞行可获得额外分数。",
+        "imageId": 1013822,
+        "imagePath": "/game_map_pin/1013822/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        109.36889648437501,
+        -62.10388252289787
+      ],
+      "properties": {
+        "subcategoryExternalId": "p2dyHFS9yF",
+        "imageId": 1013832,
+        "externalId": "rzwJZIWEzN",
+        "title": "乐恩之旅",
+        "description": "描述/跟随指令",
+        "imagePath": "/game_map_pin/1013832/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        106.47949218750001,
+        -64.59561280029604
+      ],
+      "properties": {
+        "subcategoryExternalId": "p2dyHFS9yF",
+        "externalId": "W3Ssjwtuch",
+        "title": "Fonte Grande 旅游",
+        "description": "描述/跟随指令",
+        "imageId": 1013833,
+        "imagePath": "/game_map_pin/1013833/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        77.2119140625,
+        -78.97558848886928
+      ],
+      "properties": {
+        "subcategoryExternalId": "p2dyHFS9yF",
+        "imageId": 1013889,
+        "externalId": "aNrPPWDslv",
+        "title": "西洛可天空之旅",
+        "description": "位置：北纬 40 38.682 东经 5 41.113\n\n省份：西洛克南部\n\n穿着翼装飞过光环来获得分数。飞过红色光环或贴地飞行可获得额外分数。",
+        "imagePath": "/game_map_pin/1013889/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        139.06494140625003,
+        66.80489424330455
+      ],
+      "properties": {
+        "subcategoryExternalId": "QlyjMzW1iS",
+        "imageId": 1014321,
+        "externalId": "Egfd9RVg9W",
+        "title": "圣马尔科",
+        "description": "位置：北纬 40 49.153 東経 5 45.005\n\n省份：扭曲海岸省\n\n玩家可以使用教堂来降低通缉等级并改变时间。",
+        "imagePath": "/game_map_pin/1014321/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -22.412109375000004,
+        68.01579796502013
+      ],
+      "properties": {
+        "subcategoryExternalId": "QlyjMzW1iS",
+        "imageId": 1014316,
+        "externalId": "4jXv4Lufeq",
+        "title": "圣马丁诺",
+        "description": "位置：北纬 40 49.303 东经 5 34.860\n\n省份：马埃斯特拉莱\n\n玩家可以使用教堂来降低通缉度并改变时间。",
+        "imagePath": "/game_map_pin/1014316/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        2.570800781250001,
+        7.0354756524330355
+      ],
+      "properties": {
+        "subcategoryExternalId": "QlyjMzW1iS",
+        "imageId": 1014318,
+        "externalId": "COOeERPicB",
+        "title": "圣埃琳娜",
+        "description": "遵循的描述/指令。",
+        "imagePath": "/game_map_pin/1014318/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        128.05664062500003,
+        23.34225583513053
+      ],
+      "properties": {
+        "subcategoryExternalId": "QlyjMzW1iS",
+        "imageId": 1014323,
+        "externalId": "33pxvPO2jp",
+        "title": "圣伊维斯塔",
+        "description": "位置：北纬 40 46.032 东经 5 44.301\n\n省份：南海岸省\n\n玩家可以使用教堂来降低通缉热度并改变时间。",
+        "imagePath": "/game_map_pin/1014323/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        93.87817382812501,
+        -19.746024239625285
+      ],
+      "properties": {
+        "subcategoryExternalId": "QlyjMzW1iS",
+        "imageId": 1014325,
+        "externalId": "eyUdbSESfZ",
+        "title": "圣费德里科",
+        "description": "遵循的描述/指令。",
+        "imagePath": "/game_map_pin/1014325/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        154.65454101562503,
+        -14.338904010195094
+      ],
+      "properties": {
+        "subcategoryExternalId": "QlyjMzW1iS",
+        "imageId": 1014326,
+        "externalId": "hU6EGqZFGm",
+        "title": "圣加利利",
+        "description": "位置：北纬 40 44.236 东经 5 45.988\n\n省份：南海岸省\n\n玩家可以使用教堂来降低通缉等级并改变时间。",
+        "imagePath": "/game_map_pin/1014326/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -21.654052734375004,
+        -33.870415550941814
+      ],
+      "properties": {
+        "subcategoryExternalId": "QlyjMzW1iS",
+        "imageId": 1014328,
+        "externalId": "iOtFrFoBVo",
+        "title": "圣安东尼奥",
+        "description": "遵循的描述/指令。",
+        "imagePath": "/game_map_pin/1014328/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        11.25,
+        -54.96500166110203
+      ],
+      "properties": {
+        "subcategoryExternalId": "QlyjMzW1iS",
+        "imageId": 1014330,
+        "externalId": "9hn2NPdPVN",
+        "title": "",
+        "description": "遵循的描述/指令。",
+        "imagePath": "/game_map_pin/1014330/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        83.95751953125,
+        -52.389011062234516
+      ],
+      "properties": {
+        "subcategoryExternalId": "QlyjMzW1iS",
+        "imageId": 1014335,
+        "externalId": "T51wXQJJCt",
+        "title": "圣埃斯特班",
+        "description": "遵循的描述/指令。",
+        "imagePath": "/game_map_pin/1014335/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        100.48095703125006,
+        -55.429013452407496
+      ],
+      "properties": {
+        "subcategoryExternalId": "QlyjMzW1iS",
+        "imageId": 1014338,
+        "externalId": "YoMAVsfsQy",
+        "title": "圣卢卡斯",
+        "description": "遵循的描述/指令。",
+        "imagePath": "/game_map_pin/1014338/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        131.73706054687503,
+        -52.58970076871774
+      ],
+      "properties": {
+        "subcategoryExternalId": "QlyjMzW1iS",
+        "externalId": "pDyRt3mF9b",
+        "title": "圣特安娜",
+        "description": "遵循的描述/指令。",
+        "imageId": 1014342,
+        "imagePath": "/game_map_pin/1014342/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        8.701171875000002,
+        -16.509832826905836
+      ],
+      "properties": {
+        "subcategoryExternalId": "Vn6RhV4aTL",
+        "imageId": null,
+        "externalId": "XmO3WZm1SR",
+        "title": "维科·鲈鱼",
+        "description": "**被压迫的村庄**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        7.250976562500001,
+        -20.756113874762082
+      ],
+      "properties": {
+        "subcategoryExternalId": "Vn6RhV4aTL",
+        "imageId": null,
+        "externalId": "gTD8rHvg6m",
+        "title": "加迪亚角III",
+        "description": "遵循的描述/指令。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        0.5053710937500001,
+        -23.32208001137844
+      ],
+      "properties": {
+        "subcategoryExternalId": "Vn6RhV4aTL",
+        "imageId": null,
+        "externalId": "u5sCUU055X",
+        "title": "埃斯皮亚阿尔塔",
+        "description": "**被压迫基地**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -7.844238281250001,
+        -26.322960198925365
+      ],
+      "properties": {
+        "subcategoryExternalId": "Vn6RhV4aTL",
+        "imageId": null,
+        "externalId": "3xfeL71zaw",
+        "title": "Vinialetta",
+        "description": "遵循的描述/指令。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -12.458496093750002,
+        -14.051330743518175
+      ],
+      "properties": {
+        "subcategoryExternalId": "Vn6RhV4aTL",
+        "imageId": null,
+        "externalId": "bc6IyuLa1A",
+        "title": "维科·通诺",
+        "description": "遵循的描述/指令。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -45.9228515625,
+        -18.854310361889812
+      ],
+      "properties": {
+        "subcategoryExternalId": "MUtzDS3eX3",
+        "imageId": null,
+        "externalId": "Mj4c8hwz2L",
+        "title": "普拉特福马·卡皮特 I",
+        "description": "遵循的描述/指令。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -17.127685546875004,
+        -25.93828707492375
+      ],
+      "properties": {
+        "subcategoryExternalId": "MUtzDS3eX3",
+        "imageId": null,
+        "externalId": "obc4RhQ9Sc",
+        "title": "波尔托卡沃",
+        "description": "**被压迫基地**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -23.57666015625,
+        -36.24427318493909
+      ],
+      "properties": {
+        "subcategoryExternalId": "MUtzDS3eX3",
+        "imageId": null,
+        "externalId": "nh3G6CC6XP",
+        "title": "卫队首领II",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -17.314453125000004,
+        -39.40224434029276
+      ],
+      "properties": {
+        "subcategoryExternalId": "MUtzDS3eX3",
+        "imageId": null,
+        "externalId": "3RFy1bt5zA",
+        "title": "希望拱门",
+        "description": "**被压迫的城镇**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -7.668457031250001,
+        -38.151837403006766
+      ],
+      "properties": {
+        "subcategoryExternalId": "MUtzDS3eX3",
+        "imageId": null,
+        "externalId": "Igz3COc5I2",
+        "title": "卫队队长一号",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -26.3232421875,
+        -66.75724984139227
+      ],
+      "properties": {
+        "subcategoryExternalId": "tgNJhzPH8o",
+        "imageId": null,
+        "externalId": "qtOWMskrho",
+        "title": "走私者洞穴",
+        "description": "遵循的描述/指令。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -0.14282226562500003,
+        -42.301690328244504
+      ],
+      "properties": {
+        "subcategoryExternalId": "1ZwREu8AoT",
+        "imageId": null,
+        "externalId": "j7majyDXnJ",
+        "title": "科达·德拉孔：中央司令部",
+        "description": "**受压迫地区中央指挥部**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        11.71142578125,
+        -30.571720565199872
+      ],
+      "properties": {
+        "subcategoryExternalId": "daBSZw2ETq",
+        "imageId": null,
+        "externalId": "xZgjRewKb9",
+        "title": "索利亚纳",
+        "description": "**被压迫的城镇**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        8.503417968750002,
+        -30.202113679097216
+      ],
+      "properties": {
+        "subcategoryExternalId": "daBSZw2ETq",
+        "imageId": null,
+        "externalId": "7hpwokh7KE",
+        "title": "加迪亚马索斯四世",
+        "description": "遵循的描述/指令。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        2.4389648437500004,
+        -33.843045314744685
+      ],
+      "properties": {
+        "subcategoryExternalId": "daBSZw2ETq",
+        "imageId": null,
+        "externalId": "7dNT4ydguN",
+        "title": "马索斯卫队 V",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        17.490234375000004,
+        -42.27730877423708
+      ],
+      "properties": {
+        "subcategoryExternalId": "daBSZw2ETq",
+        "imageId": null,
+        "externalId": "VTsRbnmTFJ",
+        "title": "瓜迪亚马索斯二号",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        11.744384765625002,
+        -46.807579571992385
+      ],
+      "properties": {
+        "subcategoryExternalId": "daBSZw2ETq",
+        "imageId": null,
+        "externalId": "Dh6YBJOicP",
+        "title": "马索斯卫队 III",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        16.633300781250004,
+        -47.06263847995431
+      ],
+      "properties": {
+        "subcategoryExternalId": "daBSZw2ETq",
+        "imageId": null,
+        "externalId": "8Ahv0No7z6",
+        "title": "瓜迪亚·马索斯一",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        20.456542968750004,
+        -50.30337575356313
+      ],
+      "properties": {
+        "subcategoryExternalId": "daBSZw2ETq",
+        "imageId": null,
+        "externalId": "UbBCYGubiW",
+        "title": "带子",
+        "description": "遵循的描述/指令。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        7.646484375000001,
+        -52.21433860825822
+      ],
+      "properties": {
+        "subcategoryExternalId": "aaJnLiMwWL",
+        "imageId": null,
+        "externalId": "CtMgh0IQt4",
+        "title": "埃斯皮亚巴萨",
+        "description": "**被压迫基地**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        5.273437500000001,
+        -55.26659815231191
+      ],
+      "properties": {
+        "subcategoryExternalId": "aaJnLiMwWL",
+        "imageId": null,
+        "externalId": "fIeVkf9MAB",
+        "title": "奥利沃·莫罗",
+        "description": "**被压迫的小镇**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        6.723632812500001,
+        -57.56299545938714
+      ],
+      "properties": {
+        "subcategoryExternalId": "aaJnLiMwWL",
+        "imageId": null,
+        "externalId": "YrUPQPuNSv",
+        "title": "维科·特鲁塔",
+        "description": "**被压迫的村庄**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        17.951660156250004,
+        -62.56298309450306
+      ],
+      "properties": {
+        "subcategoryExternalId": "aaJnLiMwWL",
+        "imageId": null,
+        "externalId": "qCly3blg1N",
+        "title": "南方据点",
+        "description": "**受压迫雷达**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        2.8015136718750004,
+        -70.08056215839736
+      ],
+      "properties": {
+        "subcategoryExternalId": "aaJnLiMwWL",
+        "imageId": null,
+        "externalId": "JwWGTnowUz",
+        "title": "Platteforma Petra I",
+        "description": "遵循的描述/指令。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -18.841552734375,
+        -43.842451166990365
+      ],
+      "properties": {
+        "subcategoryExternalId": "SLWwHlNlxL",
+        "imageId": null,
+        "externalId": "PdCaYe1dlu",
+        "title": "维科·普拉特萨",
+        "description": "遵循的描述/指令。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -14.08447265625,
+        -43.94537239244209
+      ],
+      "properties": {
+        "subcategoryExternalId": "SLWwHlNlxL",
+        "imageId": null,
+        "externalId": "DwectfKfe5",
+        "title": "卫队三人组 I",
+        "description": "遵循的描述/指令。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -18.896484375000004,
+        -49.95121990866204
+      ],
+      "properties": {
+        "subcategoryExternalId": "SLWwHlNlxL",
+        "imageId": null,
+        "externalId": "PJOgCzx2r4",
+        "title": "波尔托达塞纳",
+        "description": "**受压迫基地**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -19.599609375000004,
+        -52.948637884883205
+      ],
+      "properties": {
+        "subcategoryExternalId": "SLWwHlNlxL",
+        "imageId": null,
+        "externalId": "8mn8m3xU4m",
+        "title": "Ponere",
+        "description": "遵循的描述/指令。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -17.666015625000004,
+        -55.727110085045986
+      ],
+      "properties": {
+        "subcategoryExternalId": "SLWwHlNlxL",
+        "imageId": null,
+        "externalId": "N0bua5Zule",
+        "title": "维科·甘巴",
+        "description": "遵循的描述/指令。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -6.877441406250001,
+        -55.1600430987688
+      ],
+      "properties": {
+        "subcategoryExternalId": "SLWwHlNlxL",
+        "imageId": null,
+        "externalId": "bSy3gO4iRc",
+        "title": "维科马克雷洛",
+        "description": "遵循的描述/指令。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -42.275390625,
+        -58.49369382056807
+      ],
+      "properties": {
+        "subcategoryExternalId": "SLWwHlNlxL",
+        "imageId": null,
+        "externalId": "hQVwTDJVQE",
+        "title": "普拉特福马三人组 I",
+        "description": "遵循的描述/指令。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        122.12402343750001,
+        -56.51101750495214
+      ],
+      "properties": {
+        "subcategoryExternalId": "bAYYofiHTt",
+        "imageId": null,
+        "externalId": "xctM11jqLK",
+        "title": "希玛利昂：中央指挥",
+        "description": "遵循的描述/指令。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        141.09741210937503,
+        -66.95157597694555
+      ],
+      "properties": {
+        "subcategoryExternalId": "sL4n1yMRQB",
+        "imageId": null,
+        "externalId": "BOS8DDXInz",
+        "title": "马纳埃",
+        "description": "遵循的描述/指令。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        105.79833984375001,
+        -41.368564136809674
+      ],
+      "properties": {
+        "subcategoryExternalId": "Bzlo4NqUif",
+        "imageId": null,
+        "externalId": "SjvflGQenB",
+        "title": "巴比卡",
+        "description": "**被压迫的城镇**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        100.59082031250001,
+        -38.92522904714054
+      ],
+      "properties": {
+        "subcategoryExternalId": "Bzlo4NqUif",
+        "imageId": null,
+        "externalId": "UbOpN1ibCO",
+        "title": "瓜迪亚费诺II",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        85.80322265625,
+        -46.14939437647686
+      ],
+      "properties": {
+        "subcategoryExternalId": "Bzlo4NqUif",
+        "imageId": null,
+        "externalId": "shbwsRvf2y",
+        "title": "阿尔贝托·佩罗",
+        "description": "**被压迫的城镇**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        97.69042968750001,
+        -49.360911547126165
+      ],
+      "properties": {
+        "subcategoryExternalId": "Bzlo4NqUif",
+        "imageId": null,
+        "externalId": "LlqAJpLD9M",
+        "title": "菲诺守卫 I",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        109.95117187500001,
+        -52.55631606540655
+      ],
+      "properties": {
+        "subcategoryExternalId": "Bzlo4NqUif",
+        "imageId": null,
+        "externalId": "tKD5VmVSOP",
+        "title": "西玛利昂：发射器",
+        "description": "遵循的描述/指令。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        121.33300781250001,
+        -45.0735206067097
+      ],
+      "properties": {
+        "subcategoryExternalId": "x5ZghknzRk",
+        "externalId": "iAmxhLc1jJ",
+        "title": "飞越桥下",
+        "description": "位置：北纬 40 42.575 东经 5 43.892\n\n省份：普拉吉亚\n\n穿过所有检查点并到达终点。",
+        "imageId": 1013808,
+        "imagePath": "/game_map_pin/1013808/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        94.93286132812501,
+        -80.12798624249334
+      ],
+      "properties": {
+        "subcategoryExternalId": "x5ZghknzRk",
+        "imageId": 1013877,
+        "externalId": "qsAONvx0wr",
+        "title": "沃洛鹰式",
+        "description": "省份：西洛可南部\n\n飞过所有检查点并到达终点线。",
+        "imagePath": "/game_map_pin/1013877/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -16.336669921875004,
+        -26.480407161007275
+      ],
+      "properties": {
+        "subcategoryExternalId": "LDZ5o4J4MD",
+        "externalId": "djjstzc0Me",
+        "title": "特技悬挂狂欢",
+        "description": "跟随",
+        "imageId": 1013742,
+        "imagePath": "/game_map_pin/1013742/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        3.1420898437500004,
+        -24.367113562651262
+      ],
+      "properties": {
+        "subcategoryExternalId": "LDZ5o4J4MD",
+        "imageId": 1013744,
+        "externalId": "jq1cWSxveP",
+        "title": "狙击步枪狂热 II",
+        "description": "位置：北纬 40 43.770 东经 5 36.467\n\n省份：东首府\n\n你的大天使不需要任何破桶子就能摧毁埃斯皮亚阿尔塔。",
+        "imagePath": "/game_map_pin/1013744/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -1.2084960937500002,
+        -42.948381397653144
+      ],
+      "properties": {
+        "subcategoryExternalId": "LDZ5o4J4MD",
+        "imageId": 1013762,
+        "externalId": "ZYkDDQopgJ",
+        "title": "直升机狂热 II",
+        "description": "跟随",
+        "imagePath": "/game_map_pin/1013762/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -18.281250000000004,
+        -50.34546040860463
+      ],
+      "properties": {
+        "subcategoryExternalId": "LDZ5o4J4MD",
+        "imageId": 1013768,
+        "externalId": "160XpYCesh",
+        "title": "Boat Frenzy II",
+        "description": "跟随",
+        "imagePath": "/game_map_pin/1013768/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        8.371582031250002,
+        -51.31001339554932
+      ],
+      "properties": {
+        "subcategoryExternalId": "LDZ5o4J4MD",
+        "externalId": "WO69Izy1x5",
+        "title": "榴弹发射器狂热 II",
+        "description": "跟随",
+        "imageId": 1013787,
+        "imagePath": "/game_map_pin/1013787/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        19.401855468750004,
+        -63.61209992940289
+      ],
+      "properties": {
+        "subcategoryExternalId": "LDZ5o4J4MD",
+        "externalId": "zYgaE8a5C0",
+        "title": "迫击炮狂潮",
+        "description": "位置：北纬 40° 41.066' 东经 5° 37.471'\n\n省份：佩特拉\n\n用你的Stupka迫击炮对Puncta Sud进行地狱般的轰炸。",
+        "imageId": 1013797,
+        "imagePath": "/game_map_pin/1013797/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        5.559082031250001,
+        -39.23225314171489
+      ],
+      "properties": {
+        "subcategoryExternalId": "x5ZghknzRk",
+        "imageId": 1013760,
+        "externalId": "MUMSuDKuSf",
+        "title": "拉韦洛海峡飞行",
+        "description": "位置：北纬 40 42.945 东经 5 36.618\n\n省份：马索斯\n\n飞过所有检查点并到达终点线。",
+        "imagePath": "/game_map_pin/1013760/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        111.04980468750001,
+        -52.16045455774705
+      ],
+      "properties": {
+        "subcategoryExternalId": "LDZ5o4J4MD",
+        "externalId": "4uwHonyq9K",
+        "title": "坦克狂热 I",
+        "description": "在Cima Leon地区驾驶你崭新的坦克滚动前进。但继续射击：你可不想失去那个乘数！",
+        "imageId": 1013817,
+        "imagePath": "/game_map_pin/1013817/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -49.11987304687501,
+        66.39915999849539
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1009416,
+        "externalId": "ZvP9pvny3Q",
+        "title": "",
+        "description": "位置：北纬 40 49.132 东经 5 33.174",
+        "imagePath": "/game_map_pin/1009416/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        105.84228515625001,
+        -44.715513732021336
+      ],
+      "properties": {
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1010099,
+        "externalId": "hdJelZk7B0",
+        "title": "",
+        "description": "位置：北纬 40 42.584 东经 5 42.909",
+        "imagePath": "/game_map_pin/1010099/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        118.21289062500003,
+        -40.58058466412763
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1011020,
+        "externalId": "1I2DmRqbDi",
+        "title": "",
+        "description": "位置：N 40 42.863 E 5 43.694\n\n省份：普拉吉亚\n\n可在废墟中一个基础设施后面找到。",
+        "imagePath": "/game_map_pin/1011020/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        98.34960937500001,
+        -45.13555516012536
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1011026,
+        "externalId": "iN4h3O5JnT",
+        "title": "",
+        "description": "位置：北纬 40 42.576 东经 5 42.444\n\n省份：Feno\n\n可在主路附近的山区找到。",
+        "imagePath": "/game_map_pin/1011026/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        110.34667968750001,
+        -49.29647160265805
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1011027,
+        "externalId": "z7eb9oksce",
+        "title": "",
+        "description": "位置：北纬 40 42.281 东经 5 43.195\n\n省份：Feno\n\n可以在森林中央的平坦地面上找到。",
+        "imagePath": "/game_map_pin/1011027/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        122.95898437500001,
+        -50.792047064406844
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1011930,
+        "externalId": "dH9uc625SE",
+        "title": "",
+        "description": "位置：北纬 40 42.186 东经 5 43.981\n\n省份：Plagia\n\n可在道路附近找到。",
+        "imagePath": "/game_map_pin/1011930/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        80.13427734375001,
+        -51.72702815704775
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1011931,
+        "externalId": "l6GiYdaRA7",
+        "title": "",
+        "description": "位置：北纬 40° 42.108 东经 5° 41.306",
+        "imagePath": "/game_map_pin/1011931/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        82.88085937500001,
+        -53.56641415275043
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1011934,
+        "externalId": "4eUuuvRJLO",
+        "title": "",
+        "description": "位置：N 40 41.974 E 5 41.452\n\n省份：\n\n可以在山谷中找到。",
+        "imagePath": "/game_map_pin/1011934/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        100.72265625000001,
+        -55.02802211299254
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "externalId": "YCHOojulGD",
+        "title": "",
+        "description": "位置：北纬 40 41.856 东经 5 42.594",
+        "imageId": 1011937,
+        "imagePath": "/game_map_pin/1011937/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        124.13452148437501,
+        -56.304348648308334
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1011943,
+        "externalId": "5pfucI6pre",
+        "title": "",
+        "description": "位置：北纬 40 41.756 东经 5 44.075\n\n省份：阿斯佩拉\n\n城镇：西玛莱昂中央指挥部",
+        "imagePath": "/game_map_pin/1011943/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        106.61132812500001,
+        -62.20651189841766
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1011948,
+        "externalId": "nngOVQil6J",
+        "title": "",
+        "description": "位置：北纬 40 41.264 东经 5 42.943",
+        "imagePath": "/game_map_pin/1011948/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        93.69140625,
+        -66.46066349658045
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1011951,
+        "externalId": "0RXaOiAYy4",
+        "title": "",
+        "description": "地点：N 40° 40.759' E 5° 42.165'\n\n省份：Lacos\n\n可在靠近海滩的大石头附近找到。",
+        "imagePath": "/game_map_pin/1011951/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        123.44238281250001,
+        -67.30597574414467
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1011964,
+        "externalId": "1kYHpPh4dk",
+        "title": "",
+        "description": "位置：北纬 40 40.656 东经 5 43.987\n\n可在一个小洞穴内找到。",
+        "imagePath": "/game_map_pin/1011964/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        93.603515625,
+        -75.61772069705145
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1011976,
+        "externalId": "v5u775FXzn",
+        "title": "",
+        "description": "位置：北纬 40 39.418 东经 5 42.151\n\n省份：西罗科北部\n\n可在海滩附近找到。",
+        "imagePath": "/game_map_pin/1011976/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        113.2470703125,
+        -76.42944882508333
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1011973,
+        "externalId": "7GDyJCM55M",
+        "title": "",
+        "description": "可以在哨站下方的洞穴内找到。",
+        "imagePath": "/game_map_pin/1011973/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        101.90917968750001,
+        -79.62009813451795
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1011985,
+        "externalId": "aBqtW9NshG",
+        "title": "",
+        "description": "位置：北纬 40 38.532 东经 5 42.654\n\n省份：西罗科苏德\n\n可在一个洞穴内找到。",
+        "imagePath": "/game_map_pin/1011985/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        81.45263671875001,
+        -81.31164071888298
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1011998,
+        "externalId": "wYDOo6sDa6",
+        "title": "",
+        "description": "可以在海岸上找到。",
+        "imagePath": "/game_map_pin/1011998/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        8.920898437500002,
+        -14.392118083661728
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1012043,
+        "externalId": "YIHmtW9EnF",
+        "title": "",
+        "description": "位置：北纬 40 44.252 东经 5 36.823\n\n省份：Capite Est\n\n城镇：Vico Spigola\n\n可在树旁的海岸边找到。",
+        "imagePath": "/game_map_pin/1012043/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -13.359375,
+        -14.477234210156524
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1012213,
+        "externalId": "BmDwKJ6A6l",
+        "title": "",
+        "description": "位置：N 40 44.253 E 5 35.423\n\n省份：Capite Est\n\n城镇：Vico Thunno\n\n可在洞穴内找到。通过穿过阻挡入口的草丛进入洞穴。",
+        "imagePath": "/game_map_pin/1012213/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -17.534179687500004,
+        -16.63619187839765
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1012230,
+        "externalId": "VoKhJQGD4R",
+        "title": "",
+        "description": "位置：北纬 40 44.166 东经 5 35.160\n\n省份：Capite West\n\n可以在悬崖边缘附近找到。",
+        "imagePath": "/game_map_pin/1012230/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -30.234375000000004,
+        -32.10118973232094
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1012241,
+        "externalId": "VgfRHSs6sx",
+        "title": "",
+        "description": "位置：北纬 40 43.415 东经 5 34.324\n\n省份：Capite West",
+        "imagePath": "/game_map_pin/1012241/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -23.2470703125,
+        -47.90161354142076
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": null,
+        "externalId": "e2v8fwye7d",
+        "title": "",
+        "description": "位置：北纬 40 42.369 东经 5 34.826\n\n省份：Trio\n\n在山下可以找到。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -15.490722656250002,
+        -48.03401915864286
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1012292,
+        "externalId": "kopBJ4xTcV",
+        "title": "",
+        "description": "地点：N 40 42.349 E 5 35.307\n\n省份：",
+        "imagePath": "/game_map_pin/1012292/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -10.393066406250002,
+        -50.30337575356313
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1012291,
+        "externalId": "2c2jPPKDHn",
+        "title": "",
+        "description": "位置：北纬 40 42.194 东经 5 35.606\n\n省份：Trio\n\n可在海岸线上找到。",
+        "imagePath": "/game_map_pin/1012291/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -20.786132812500004,
+        -63.074865690586634
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1012361,
+        "externalId": "NSr3dAOYNS",
+        "title": "",
+        "description": "位置：北纬 40 41.093 东经 5 34.963\n\n省份：Cauda\n\n可以在一个小山谷中找到。",
+        "imagePath": "/game_map_pin/1012361/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -27.5537109375,
+        -68.15520923883975
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "externalId": "GeRuFXa2Sq",
+        "title": "",
+        "description": "地点：N 40 40.540 E 5 34.535\n\n省份：Cauda\n\n安全屋：走私者洞窟\n\n可以在洞穴内找到。",
+        "imageId": 1012366,
+        "imagePath": "/game_map_pin/1012366/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        8.668212890625002,
+        -37.1865785952487
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "externalId": "h8ydDut3iR",
+        "title": "",
+        "description": "位置：N 40 43.058 E 5 36.822\n\n省份：马索斯\n\n可在一个小山洞内找到。",
+        "imageId": 1012262,
+        "imagePath": "/game_map_pin/1012262/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        19.863281250000004,
+        -47.5172006978394
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1012268,
+        "externalId": "wUlL6PoU9z",
+        "title": "",
+        "description": "位置：北纬 40 42.438 东经 5 37.498\n\n省份：",
+        "imagePath": "/game_map_pin/1012268/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        12.832031250000002,
+        -54.1109429427243
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "externalId": "CEbtIoXL0G",
+        "title": "",
+        "description": "位置：北纬 40 41.917 东经 5 37.064\n\n省份：佩特拉\n\n可以在废墟附近找到。",
+        "imageId": 1012281,
+        "imagePath": "/game_map_pin/1012281/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -55.89843750000001,
+        60.18523283150748
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1012951,
+        "externalId": "kN2Y4ROex8",
+        "title": "",
+        "description": "位置：北纬 40 48.512 东经 5 32.742\n\n省份：Maestrale\n\n可以在森林中央找到。",
+        "imagePath": "/game_map_pin/1012951/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        0.8349609375,
+        61.03701223240188
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1012970,
+        "externalId": "5HFlKCQ61E",
+        "title": "",
+        "description": "位置：北纬 40 48.561 东经 5 36.299\n\n省份：Maestrale\n\n可以在山上找到。",
+        "imagePath": "/game_map_pin/1012970/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -39.52880859374999,
+        29.324720161511024
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1012956,
+        "externalId": "KbTIgV1nua",
+        "title": "",
+        "description": "位置：北纬 40 46.388 东经 5 33.784",
+        "imagePath": "/game_map_pin/1012956/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -10.305175781250002,
+        34.70549341022547
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1012958,
+        "externalId": "RxbJOegrCw",
+        "title": "",
+        "description": "位置：北纬 40 46.670 东经 5 35.603\n\n省份：Libeccio\n\n可在海岸附近找到。",
+        "imagePath": "/game_map_pin/1012958/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        3.251953125,
+        5.4957039466602
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1012988,
+        "externalId": "6xwTLgJiCk",
+        "title": "",
+        "description": "可以在靠近教堂的山腰上找到。",
+        "imagePath": "/game_map_pin/1012988/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        93.18603515625001,
+        -19.414792438099525
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1012997,
+        "externalId": "17SPaX8dDo",
+        "title": "",
+        "description": "位置: N 40 44.039 E 5 42.105\n\n省份: Prima\n\n教堂: Sancte Federico\n\n可以在教堂附近的森林中间找到。",
+        "imagePath": "/game_map_pin/1012997/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        139.02099609375003,
+        -26.765230565697465
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "externalId": "ZoohJgFSYh",
+        "title": "",
+        "description": "位置：北纬40度43.644分 东经5度44.978分\n\n省份：Costa Sud\n\n可在石墙上找到。",
+        "imageId": 1013008,
+        "imagePath": "/game_map_pin/1013008/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        153.09448242187503,
+        15.135764354595679
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "externalId": "qpJVzAGkAV",
+        "title": "",
+        "description": "位置：北纬 40 45.655 东经 5 45.887\n\n省份：Costa Sud\n\n可在大石头后的海岸线找到。",
+        "imageId": 1013033,
+        "imagePath": "/game_map_pin/1013033/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        116.58691406250001,
+        11.781325296112314
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1013020,
+        "externalId": "46TdnRcvcl",
+        "title": "",
+        "description": "省份：Val De Mar",
+        "imagePath": "/game_map_pin/1013020/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        95.38330078125009,
+        31.989441837922882
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "externalId": "sBimejYbfp",
+        "title": "",
+        "description": "位置：N 40 46.535 E 5 42.252\n\n省份：瓦尔德马尔\n\n可以在山下找到。",
+        "imageId": 1013041,
+        "imagePath": "/game_map_pin/1013041/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        134.93408203125003,
+        39.62261494094295
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1013049,
+        "externalId": "zfy7Xnv84z",
+        "title": "",
+        "description": "位置：北纬 40 46.953 东经 5 44.730\n\n省份：Litore Torto\n\n可在土丘顶部找到。",
+        "imagePath": "/game_map_pin/1013049/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        165.0805664062501,
+        54.52108149544367
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1013173,
+        "externalId": "IN2W5Qe9cZ",
+        "title": "",
+        "description": "位置：北纬 40 47.947 东经 5 46.663\n\n省份：Litore Torto\n\n可在山坡上找到。",
+        "imagePath": "/game_map_pin/1013173/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        166.06933593750017,
+        62.81501879409274
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1013180,
+        "externalId": "fjjl9B5ZzZ",
+        "title": "",
+        "description": "位置：N 40 48.711 E 5 46.679",
+        "imagePath": "/game_map_pin/1013180/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        91.7578125,
+        46.34692761055669
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1013066,
+        "externalId": "ZTrmBKHLiR",
+        "title": "",
+        "description": "省份：瓦尔德马尔\n\n可在山下找到。",
+        "imagePath": "/game_map_pin/1013066/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        110.08300781250003,
+        58.67693767258692
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1013195,
+        "externalId": "ejsF5zDcPm",
+        "title": "",
+        "description": "位置：北纬 40 48.320 东经 5 43.241",
+        "imagePath": "/game_map_pin/1013195/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        116.89453125000003,
+        58.21702494960192
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1013186,
+        "externalId": "sZSO0BLnnh",
+        "title": "",
+        "description": "位置：北纬 40.265 东经 5 43.615\n\n省份：蒙大拿\n\n可以在山下找到。",
+        "imagePath": "/game_map_pin/1013186/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        53.942871093750036,
+        61.58549218152365
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "externalId": "BFPyQgNdxI",
+        "title": "",
+        "description": "位置：北纬 40 48.619 东经 5 39.728\n\n省份：大牧场\n\n可在山上找到。",
+        "imageId": 1013222,
+        "imagePath": "/game_map_pin/1013222/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        69.52148437500001,
+        67.06743335108303
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1013225,
+        "externalId": "Yia92VPA9U",
+        "title": "",
+        "description": "位置：北纬 40 49.176 东经 5 40.655\n\n省份：大草原\n\n可在山脉之间的一个小山谷中找到。",
+        "imagePath": "/game_map_pin/1013225/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        39.02343750000001,
+        76.88077457250164
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1013258,
+        "externalId": "1ohn83DQQk",
+        "title": "",
+        "description": "位置：北纬 40 50.718 东经 5 38.664\n\n省份：Grande Pastura\n\n可在俯瞰海洋的山脉边缘找到。",
+        "imagePath": "/game_map_pin/1013258/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        80.69458007812501,
+        77.38470599304452
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1013249,
+        "externalId": "hvj4pYvaLT",
+        "title": "",
+        "description": "位置：北纬 40 50.811 东经 5 41.339\n\n省份：Grande Pastura\n\n可在废墟的楼梯底部找到。",
+        "imagePath": "/game_map_pin/1013249/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        108.984375,
+        79.85496380244342
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1013238,
+        "externalId": "HWeZeqmkz7",
+        "title": "",
+        "description": "位置：北纬 40 51.408 东经 5 43.102",
+        "imagePath": "/game_map_pin/1013238/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        129.33105468750003,
+        74.86788912917916
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1013233,
+        "externalId": "mZGksO0UdS",
+        "title": "",
+        "description": "位置：北纬 40 50.337 东经 5 44.344\n\n省份：Grande Pastura\n\n可在土丘的顶部找到。",
+        "imagePath": "/game_map_pin/1013233/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        60.73242187500001,
+        -83.27770503961696
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1012007,
+        "externalId": "esmwkjS5CM",
+        "title": "",
+        "description": "位置：北纬 40 37.361 东经 5 40.073\n\n省份：索罗斯\n\n可在被毁的房屋旁边找到。",
+        "imagePath": "/game_map_pin/1012007/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        51.61376953125001,
+        -84.04002587149493
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1012016,
+        "externalId": "zqjnzS11ei",
+        "title": "",
+        "description": "位置：N 40 37.037 E 5 39.501\n\n省份：索罗斯\n\n可以在下面的洞穴中找到。",
+        "imagePath": "/game_map_pin/1012016/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        43.37402343750001,
+        -83.83466685486518
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1012036,
+        "externalId": "l9gzpeNQry",
+        "title": "",
+        "description": "位置：N 40 37.132 E 5 38.979\n\n省份：索罗斯\n\n避难所：雷贝利斯洞穴\n\n可以在避难所下面的洞穴中找到。",
+        "imagePath": "/game_map_pin/1012036/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        4.262695312500001,
+        -64.25891273341462
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "imageId": 1012368,
+        "externalId": "iFBctHPL5i",
+        "title": "",
+        "description": "位置：北纬 40 40.976 东经 5 36.527\n\n省份：佩特拉\n\n可在山顶找到。",
+        "imagePath": "/game_map_pin/1012368/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        1.47216796875,
+        -67.13582938531948
+      ],
+      "properties": {
+        "subcategoryExternalId": "oKzDrDtoNQ",
+        "externalId": "bExPCbwqGK",
+        "title": "",
+        "description": "位置：北纬 40 40.651 东经 5 36.336\n\n省份：佩特拉\n\n可以在山上找到。",
+        "imageId": 1012370,
+        "imagePath": "/game_map_pin/1012370/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        126.10107421875001,
+        -40.22921818870116
+      ],
+      "properties": {
+        "subcategoryExternalId": "lKSHDifDx0",
+        "imageId": null,
+        "externalId": "O1JQg3s7GR",
+        "title": "瓜迪亚 · 普拉吉亚 I",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        122.43164062500001,
+        -44.33956524809713
+      ],
+      "properties": {
+        "subcategoryExternalId": "lKSHDifDx0",
+        "imageId": null,
+        "externalId": "cG4a1zIQrC",
+        "title": "瓜迪亚普拉加二",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        127.50732421875001,
+        -47.14489748555397
+      ],
+      "properties": {
+        "subcategoryExternalId": "lKSHDifDx0",
+        "imageId": null,
+        "externalId": "xhQztdJdMi",
+        "title": "苏尔皮科",
+        "description": "**被压迫的小镇**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        139.37255859375003,
+        -49.43955695894085
+      ],
+      "properties": {
+        "subcategoryExternalId": "lKSHDifDx0",
+        "imageId": null,
+        "externalId": "1fzn9WISEt",
+        "title": "北方警戒者",
+        "description": "**压迫者雷达**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        116.12548828125001,
+        -60.44096253530979
+      ],
+      "properties": {
+        "subcategoryExternalId": "IR1P1rrLVD",
+        "imageId": null,
+        "externalId": "Z3NiEpwJNN",
+        "title": "Cima Leon：弹药库",
+        "description": "**受压迫的基地**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        126.10107421875001,
+        -64.52954819942194
+      ],
+      "properties": {
+        "subcategoryExternalId": "IR1P1rrLVD",
+        "imageId": null,
+        "externalId": "Ih2AOXrBHF",
+        "title": "Fortalessa",
+        "description": "**被压迫的小镇**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        114.30175781250001,
+        -67.42436394630637
+      ],
+      "properties": {
+        "subcategoryExternalId": "IR1P1rrLVD",
+        "imageId": null,
+        "externalId": "LAjkOKGu98",
+        "title": "阿尔巴",
+        "description": "**被压迫的城镇**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        104.28222656250001,
+        -70.6854214427062
+      ],
+      "properties": {
+        "subcategoryExternalId": "IR1P1rrLVD",
+        "imageId": null,
+        "externalId": "7bhYDEGyuD",
+        "title": "科勒·萨罗萨",
+        "description": "**被压迫的小镇**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        101.6455078125,
+        -68.366801093914
+      ],
+      "properties": {
+        "subcategoryExternalId": "IR1P1rrLVD",
+        "imageId": null,
+        "externalId": "i1jxeSW9fS",
+        "title": "加迪亚拉科斯Ⅰ",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        105.99319077396962,
+        -65.20128109879707
+      ],
+      "properties": {
+        "subcategoryExternalId": "IR1P1rrLVD",
+        "imageId": null,
+        "externalId": "FaZBgKvssz",
+        "title": "Guardia Lacos 二号",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        87.67089843750001,
+        -50.76425935711648
+      ],
+      "properties": {
+        "subcategoryExternalId": "l2ulws179t",
+        "imageId": null,
+        "externalId": "op3NjdZMJ4",
+        "title": "薰衣草卫队 I",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        85.56152343750001,
+        -53.5403073915002
+      ],
+      "properties": {
+        "subcategoryExternalId": "l2ulws179t",
+        "imageId": null,
+        "externalId": "1njkhO3adI",
+        "title": "罗德拉",
+        "description": "**被压迫的小镇**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        96.37207031250001,
+        -55.05949523049587
+      ],
+      "properties": {
+        "subcategoryExternalId": "l2ulws179t",
+        "imageId": null,
+        "externalId": "GS5pqcP4ac",
+        "title": "兰图伊纳",
+        "description": "**被压迫的小镇**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        95.91064453125001,
+        -60.860963343405125
+      ],
+      "properties": {
+        "subcategoryExternalId": "l2ulws179t",
+        "imageId": null,
+        "externalId": "L4ix96z9I7",
+        "title": "波尔图·乐·格拉提亚",
+        "description": "**受压迫的基地**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        94.08691406250001,
+        -77.46602847687328
+      ],
+      "properties": {
+        "subcategoryExternalId": "VNvhx8pUTa",
+        "imageId": null,
+        "externalId": "wZhJGer3Oi",
+        "title": "港口维纳",
+        "description": "**受压迫的基地**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        102.61230468750001,
+        -77.77688992909226
+      ],
+      "properties": {
+        "subcategoryExternalId": "VNvhx8pUTa",
+        "imageId": null,
+        "externalId": "TuHylwTgpV",
+        "title": "拉韦洛海岸",
+        "description": "**被压迫的小镇**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        103.13964843750001,
+        -76.66965642801193
+      ],
+      "properties": {
+        "subcategoryExternalId": "VNvhx8pUTa",
+        "imageId": null,
+        "externalId": "v0PwymGVyS",
+        "title": "西罗科卫队III",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        105.85327148437501,
+        -76.1245278669025
+      ],
+      "properties": {
+        "subcategoryExternalId": "VNvhx8pUTa",
+        "imageId": null,
+        "externalId": "FERYtn6Pox",
+        "title": "德尔波尔托海岸",
+        "description": "**被压迫的小镇**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        112.87353515625001,
+        -76.36226181822974
+      ],
+      "properties": {
+        "subcategoryExternalId": "VNvhx8pUTa",
+        "imageId": null,
+        "externalId": "zWSBWBTq35",
+        "title": "西洛可卫队 II",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        87.51708984375,
+        -72.3757584535814
+      ],
+      "properties": {
+        "subcategoryExternalId": "VNvhx8pUTa",
+        "imageId": null,
+        "externalId": "qeMlJzW1xQ",
+        "title": "乐突托",
+        "description": "**受压迫的基地**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        84.28710937500001,
+        -79.97424295209066
+      ],
+      "properties": {
+        "subcategoryExternalId": "QNN8bklUkh",
+        "imageId": null,
+        "externalId": "ixbUr6IBpz",
+        "title": "守望者南",
+        "description": "**受压迫的雷达站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        96.48193359375001,
+        -79.97041699075265
+      ],
+      "properties": {
+        "subcategoryExternalId": "QNN8bklUkh",
+        "imageId": null,
+        "externalId": "runBbJmBjT",
+        "title": "西里拉",
+        "description": "**被压迫的城镇**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        102.63427734375001,
+        -79.20430943611333
+      ],
+      "properties": {
+        "subcategoryExternalId": "QNN8bklUkh",
+        "imageId": null,
+        "externalId": "Kj0TUA1YWi",
+        "title": "拉古纳德尔索尔",
+        "description": "**被压迫的城镇**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        104.94140625000001,
+        -80.46315010000393
+      ],
+      "properties": {
+        "subcategoryExternalId": "QNN8bklUkh",
+        "imageId": null,
+        "externalId": "XSMGKde1a9",
+        "title": "西罗科卫队 I",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -37.22167968750001,
+        63.78248603116502
+      ],
+      "properties": {
+        "subcategoryExternalId": "WnBk0ICzcp",
+        "imageId": null,
+        "externalId": "LcJanfWFcp",
+        "title": "蓝岩卫队I",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -36.73828125000001,
+        48.980216985374994
+      ],
+      "properties": {
+        "subcategoryExternalId": "WnBk0ICzcp",
+        "imageId": null,
+        "externalId": "qo2gTIDFew",
+        "title": "卡瓦·杰米诺斯·诺德",
+        "description": "**受压迫的基地**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -42.73681640625001,
+        45.10454630976873
+      ],
+      "properties": {
+        "subcategoryExternalId": "WnBk0ICzcp",
+        "imageId": null,
+        "externalId": "uD5BwbvJah",
+        "title": "卡瓦·杰米诺斯·南",
+        "description": "**受压迫的基地**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -26.059570312500004,
+        48.821332549646655
+      ],
+      "properties": {
+        "subcategoryExternalId": "WnBk0ICzcp",
+        "imageId": null,
+        "externalId": "zB6dDIokkx",
+        "title": "卡瓦双子座",
+        "description": "**受压迫的基地**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -64.81933593750001,
+        68.52823492039879
+      ],
+      "properties": {
+        "subcategoryExternalId": "PSCOtDvuT6",
+        "imageId": null,
+        "externalId": "qn41jp7Bep",
+        "title": "波尔图特里登特",
+        "description": "**受压迫的基地**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -9.843750000000002,
+        77.28353188908653
+      ],
+      "properties": {
+        "subcategoryExternalId": "PSCOtDvuT6",
+        "imageId": null,
+        "externalId": "qUW5U49TA3",
+        "title": "马斯垂兰平台一号",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        8.283691406250002,
+        51.06211251399775
+      ],
+      "properties": {
+        "subcategoryExternalId": "PSCOtDvuT6",
+        "imageId": null,
+        "externalId": "a2bW5fbpTW",
+        "title": "秃鹫",
+        "description": "**受压迫机场**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        45.28564453125,
+        38.41055825094609
+      ],
+      "properties": {
+        "subcategoryExternalId": "PSCOtDvuT6",
+        "imageId": null,
+        "externalId": "uJsamelky8",
+        "title": "东北卫队 I",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -52.60253906250001,
+        1.5818302639606454
+      ],
+      "properties": {
+        "subcategoryExternalId": "kgEvFIhdBt",
+        "imageId": null,
+        "externalId": "ol4OtA5krH",
+        "title": "加迪亚利贝乔I",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -14.260253906250002,
+        17.539296556236707
+      ],
+      "properties": {
+        "subcategoryExternalId": "kgEvFIhdBt",
+        "imageId": null,
+        "externalId": "RbTrMf9kqh",
+        "title": "维斯塔·德拉孔",
+        "description": "**被压迫的城镇**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -14.963378906250002,
+        0.1977535136255067
+      ],
+      "properties": {
+        "subcategoryExternalId": "kgEvFIhdBt",
+        "imageId": null,
+        "externalId": "XpEMcaCsKa",
+        "title": "纳克雷",
+        "description": "**被压迫的小镇**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        12.875976562500002,
+        17.09879223767869
+      ],
+      "properties": {
+        "subcategoryExternalId": "kgEvFIhdBt",
+        "imageId": null,
+        "externalId": "cEmMxpr6Yj",
+        "title": "塞拉塔",
+        "description": "**被压迫的城镇**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        26.081542968750004,
+        8.667918002363134
+      ],
+      "properties": {
+        "subcategoryExternalId": "kgEvFIhdBt",
+        "imageId": null,
+        "externalId": "dWH9B6Oi4m",
+        "title": "布尔戈莱托",
+        "description": "**被压迫的城镇**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        41.52832031250001,
+        1.1644706071806057
+      ],
+      "properties": {
+        "subcategoryExternalId": "kgEvFIhdBt",
+        "imageId": null,
+        "externalId": "WAQTBoYZQb",
+        "title": "利贝乔二号哨卫",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        39.48486328125001,
+        -15.623036831528252
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZHfEHjOSqf",
+        "imageId": null,
+        "externalId": "Jich4PFTqp",
+        "title": "拉韦洛城邦",
+        "description": "**被压迫的首都**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        63.58886718750001,
+        23.34225583513053
+      ],
+      "properties": {
+        "subcategoryExternalId": "p24Yj30K5p",
+        "imageId": null,
+        "externalId": "zH5yNx7PuP",
+        "title": "瓜迪亚·普罗斯佩尔 I",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        56.62353515625,
+        6.860985433763661
+      ],
+      "properties": {
+        "subcategoryExternalId": "p24Yj30K5p",
+        "imageId": null,
+        "externalId": "fYmoyplnrX",
+        "title": "卡瓦大秒",
+        "description": "**受压迫的基地**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        64.36889648437501,
+        3.6888551431470478
+      ],
+      "properties": {
+        "subcategoryExternalId": "p24Yj30K5p",
+        "imageId": null,
+        "externalId": "9UC3X31rNv",
+        "title": "卫队普罗斯佩IV",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        69.21386718750001,
+        15.390135715305217
+      ],
+      "properties": {
+        "subcategoryExternalId": "p24Yj30K5p",
+        "imageId": null,
+        "externalId": "ajBqCMxcoX",
+        "title": "卡瓦大峡谷",
+        "description": "**受压迫的基地**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        77.73925781250001,
+        7.928674801364048
+      ],
+      "properties": {
+        "subcategoryExternalId": "p24Yj30K5p",
+        "imageId": null,
+        "externalId": "Ulcgt4erxD",
+        "title": "瓜迪亚普罗斯佩雷三世",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        77.84912109375,
+        20.159098270646936
+      ],
+      "properties": {
+        "subcategoryExternalId": "p24Yj30K5p",
+        "imageId": null,
+        "externalId": "2VJUVNk2Du",
+        "title": "普罗斯佩尔卫队 II",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        60.55664062500001,
+        58.676937672586924
+      ],
+      "properties": {
+        "subcategoryExternalId": "PHkZLzoIMd",
+        "imageId": null,
+        "externalId": "j8drGtlqq6",
+        "title": "Alte Potentia",
+        "description": "**受压迫的基地**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        46.2744140625,
+        70.1403642720717
+      ],
+      "properties": {
+        "subcategoryExternalId": "PHkZLzoIMd",
+        "imageId": null,
+        "externalId": "0hVcVZxjV8",
+        "title": "瓜迪亚大草场 III",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        88.2421875,
+        73.77577986189996
+      ],
+      "properties": {
+        "subcategoryExternalId": "PHkZLzoIMd",
+        "imageId": null,
+        "externalId": "eC0pIIle1O",
+        "title": "加迪亚大牧场 II",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        55.4150390625,
+        80.21238818852089
+      ],
+      "properties": {
+        "subcategoryExternalId": "PHkZLzoIMd",
+        "imageId": null,
+        "externalId": "QUvS4enWYC",
+        "title": "大牧场平台 I",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        112.89550781250001,
+        78.18858618658851
+      ],
+      "properties": {
+        "subcategoryExternalId": "PHkZLzoIMd",
+        "imageId": null,
+        "externalId": "DcjvkX2sFa",
+        "title": "大卫岗哨 I",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        143.48144531250003,
+        81.58284333315854
+      ],
+      "properties": {
+        "subcategoryExternalId": "XQP6p6eVCu",
+        "imageId": null,
+        "externalId": "pcpwjYQwON",
+        "title": "扭曲海岸平台二号",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        141.28417968750003,
+        78.20656311074711
+      ],
+      "properties": {
+        "subcategoryExternalId": "XQP6p6eVCu",
+        "imageId": null,
+        "externalId": "BrvEpIdx0c",
+        "title": "圣迭戈灯塔III",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        157.10449218750003,
+        72.26231002404462
+      ],
+      "properties": {
+        "subcategoryExternalId": "XQP6p6eVCu",
+        "imageId": null,
+        "externalId": "uTNGdpEg1T",
+        "title": "扭曲海岸卫队 II",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        141.41601562500003,
+        59.75639504935632
+      ],
+      "properties": {
+        "subcategoryExternalId": "XQP6p6eVCu",
+        "imageId": null,
+        "externalId": "QnLGVTa8g6",
+        "title": "扭曲海岸哨所 I",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        178.02246093750003,
+        62.42090322195164
+      ],
+      "properties": {
+        "subcategoryExternalId": "XQP6p6eVCu",
+        "imageId": null,
+        "externalId": "u7JuUERWEM",
+        "title": "扭曲海岸平台一号",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        105.9521484375,
+        41.77131167976407
+      ],
+      "properties": {
+        "subcategoryExternalId": "yykSc6aSVD",
+        "imageId": null,
+        "externalId": "277yHySUNk",
+        "title": "蒙大拿守卫队二号",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        112.23632812500001,
+        39.232253141714914
+      ],
+      "properties": {
+        "subcategoryExternalId": "yykSc6aSVD",
+        "imageId": null,
+        "externalId": "Qgw4RQXSqd",
+        "title": "卡瓦蒙大拿",
+        "description": "**被压迫基地**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        114.08203125000001,
+        33.669496972795535
+      ],
+      "properties": {
+        "subcategoryExternalId": "yykSc6aSVD",
+        "imageId": null,
+        "externalId": "ILnCRNaM7s",
+        "title": "蒙大拿守卫一号",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        87.18750000000001,
+        56.13330691237569
+      ],
+      "properties": {
+        "subcategoryExternalId": "Pa4WI6wupn",
+        "imageId": null,
+        "externalId": "ar1r8Xj9hg",
+        "title": "法尔科最大：中央指挥",
+        "description": "**被压迫地区中央指挥部**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        134.18701171875003,
+        32.0639555946604
+      ],
+      "properties": {
+        "subcategoryExternalId": "vufBxTLwEY",
+        "imageId": null,
+        "externalId": "VVuNmwJcqI",
+        "title": "避难所Umbra",
+        "description": "**受压迫的避难所**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        163.78417968750003,
+        19.228176737766262
+      ],
+      "properties": {
+        "subcategoryExternalId": "6qIJKnX8hy",
+        "imageId": null,
+        "externalId": "SfykZBbDb6",
+        "title": "南部沿海警卫 I",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        137.85644531250003,
+        4.872047700241915
+      ],
+      "properties": {
+        "subcategoryExternalId": "6qIJKnX8hy",
+        "imageId": null,
+        "externalId": "Zo48R2sGmZ",
+        "title": "南部沿海警卫 II",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        132.89062500000003,
+        -9.362352822055593
+      ],
+      "properties": {
+        "subcategoryExternalId": "6qIJKnX8hy",
+        "imageId": null,
+        "externalId": "Gti50eNYvN",
+        "title": "格里芬",
+        "description": "**被压迫的空军基地**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        145.77758789062503,
+        -16.562492508374866
+      ],
+      "properties": {
+        "subcategoryExternalId": "6qIJKnX8hy",
+        "imageId": null,
+        "externalId": "ESyGohB39d",
+        "title": "珍珠东区",
+        "description": "**被压迫的城镇**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        156.62109375000003,
+        -28.478348692223175
+      ],
+      "properties": {
+        "subcategoryExternalId": "6qIJKnX8hy",
+        "imageId": null,
+        "externalId": "XBnV45Izy1",
+        "title": "普拉特福玛·科斯塔苏德 I",
+        "description": "**被压迫的前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        61.87500000000001,
+        -25.28443774698303
+      ],
+      "properties": {
+        "subcategoryExternalId": "OuczpwpZRY",
+        "imageId": null,
+        "externalId": "djKWaXFBnA",
+        "title": "Agro Nove",
+        "description": "**被压迫的城镇**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        69.12597656250001,
+        -21.289374355860424
+      ],
+      "properties": {
+        "subcategoryExternalId": "OuczpwpZRY",
+        "imageId": null,
+        "externalId": "VLYXG37jxK",
+        "title": "阿格罗",
+        "description": "**被压迫的城镇**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        86.46240234375001,
+        -23.0999442125314
+      ],
+      "properties": {
+        "subcategoryExternalId": "OuczpwpZRY",
+        "imageId": null,
+        "externalId": "UpD4FChInX",
+        "title": "维斯塔泉",
+        "description": "**被压迫的城镇**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        113.92822265625,
+        -22.847070687839064
+      ],
+      "properties": {
+        "subcategoryExternalId": "OuczpwpZRY",
+        "imageId": null,
+        "externalId": "ul0zKAoZId",
+        "title": "贝尔维亚",
+        "description": "**被压迫的城镇**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        64.64355468750001,
+        41.983994270935625
+      ],
+      "properties": {
+        "subcategoryExternalId": "MfyEDfnUO7",
+        "imageId": null,
+        "externalId": "XBXKXoo2Mv",
+        "title": "科克利亚港",
+        "description": "**被压迫基地**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        86.13281250000001,
+        27.52775820686191
+      ],
+      "properties": {
+        "subcategoryExternalId": "MfyEDfnUO7",
+        "imageId": null,
+        "externalId": "aWV0pxZoyC",
+        "title": "瓜迪亚瓦尔德马尔一世",
+        "description": "**被压迫前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        99.44824218750001,
+        20.715015145512098
+      ],
+      "properties": {
+        "subcategoryExternalId": "MfyEDfnUO7",
+        "imageId": null,
+        "externalId": "qg7z4P8wXE",
+        "title": "瓜迪亚马尔谷二号",
+        "description": "**被压迫前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        89.73632812500001,
+        4.915832801313164
+      ],
+      "properties": {
+        "subcategoryExternalId": "MfyEDfnUO7",
+        "imageId": null,
+        "externalId": "DhRrnb302y",
+        "title": "马尔谷卫队三号",
+        "description": "**被压迫前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        100.01953125000001,
+        -4.214943141390639
+      ],
+      "properties": {
+        "subcategoryExternalId": "MfyEDfnUO7",
+        "imageId": null,
+        "externalId": "S5VheRjmr0",
+        "title": "瓦尔德马尔四号哨站",
+        "description": "**被压迫前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        111.04980468750001,
+        7.144498849647335
+      ],
+      "properties": {
+        "subcategoryExternalId": "MfyEDfnUO7",
+        "imageId": null,
+        "externalId": "dqIOA0U3CE",
+        "title": "波尔图蜗轮",
+        "description": "**被压迫前哨站**",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        132.94555664062503,
+        -69.83962194067462
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 12152.41015625,
+          "y": 1213.8631591796875,
+          "z": 8681.1591796875,
+          "metadata": []
+        },
+        "externalId": "5jyxtWsFzc",
+        "title": "",
+        "description": "位置：北纬 40 40.316 东经 5 44.621\n\n省份：拜亚\n\n*可以通过驾驶载具冲下坡道并撞破大门来完成胆大包天跳跃。*",
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1006179,
+        "imagePath": "/game_map_pin/1006179/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        132.00073242187503,
+        -70.8914817996012
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 12030.9560546875,
+          "y": 1203.8870849609375,
+          "z": 8964.216796875,
+          "metadata": []
+        },
+        "externalId": "ZJz4pvS4el",
+        "title": "",
+        "description": "位置：北纬 40° 40.116' 东经 5° 44.449'\n\n省份：拜亚\n\n*胆大妄为跳跃可以通过驾驶载具冲下坡道并冲破大门来完成。*",
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1006197,
+        "imagePath": "/game_map_pin/1006197/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        133.96728515625003,
+        -71.29727038099242
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 12221.1201171875,
+          "y": 1150.3189697265625,
+          "z": 9134.955078125,
+          "metadata": []
+        },
+        "externalId": "qNk1SoosGT",
+        "title": "萨罗萨冲刺点",
+        "description": "位置：北纬 40 40.096 东经 5 44.669\n\n省份：巴亚\n\n驾车通过所有检查点并尽快到达终点线。",
+        "subcategoryExternalId": "963NPlUx3L",
+        "imageId": 1013866,
+        "imagePath": "/game_map_pin/1013866/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        125.12329101562501,
+        -70.56149224990727
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 11449.646484375,
+          "y": 1289.991455078125,
+          "z": 8951.82421875,
+          "metadata": []
+        },
+        "externalId": "T66zQ33wG3",
+        "title": "灯塔爆破点",
+        "description": "位置：北纬 40 40.227 东经 5 44.135\n\n省份：巴亚\n\n你的载具是一枚炸弹，如果你的速度长时间低于阈值就会爆炸。撞击目标。快速奔跑和大爆炸能获得更多奖励来解锁爆炸物MOD。",
+        "subcategoryExternalId": "AXYw8lbXno",
+        "imageId": 1013843,
+        "imagePath": "/game_map_pin/1013843/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        124.09057617187503,
+        -70.73260502860079
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 11368.068359375,
+          "y": 1293.4107666015625,
+          "z": 8926.419921875,
+          "metadata": []
+        },
+        "externalId": "8SdH7yb1Az",
+        "title": "圣丽塔",
+        "description": "位置：北纬 40° 40.187' 东经 5° 44.067'\n\n省份：拜亚\n\n玩家可以使用教堂来降低通缉热度并改变一天中的时间。",
+        "subcategoryExternalId": "QlyjMzW1iS",
+        "imageId": 1014343,
+        "imagePath": "/game_map_pin/1014343/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        124.20043945312503,
+        -70.28170449789056
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 11333.890625,
+          "y": 1293.142578125,
+          "z": 8840.439453125,
+          "metadata": []
+        },
+        "externalId": "qzhs7Kn2bp",
+        "title": "",
+        "description": "位置：北纬 40 40.242 东经 5 44.055\n\n省份：巴亚\n\n教堂：圣丽塔教堂\n\n可在观景台找到。",
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1010155,
+        "imagePath": "/game_map_pin/1010155/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        124.56298828125,
+        -70.00556654574488
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 11380.041015625,
+          "y": 1253.5797119140625,
+          "z": 8749.1796875,
+          "metadata": []
+        },
+        "externalId": "oHNCW1cQUn",
+        "title": "洞穴之旅",
+        "description": "位置：北纬40°40.305' 东经5°44.094'\n\n省份：拜亚省\n\n穿着翼装飞行通过光环来获得积分。飞过红色光环或贴地飞行可获得额外积分。",
+        "subcategoryExternalId": "p2dyHFS9yF",
+        "imageId": 1013840,
+        "imagePath": "/game_map_pin/1013840/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        125.59570312500001,
+        -69.60737776178777
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 11478.716796875,
+          "y": 1206.4759521484375,
+          "z": 8652.2314453125,
+          "metadata": []
+        },
+        "externalId": "aiLIbRF7Tm",
+        "title": "直升机狂热 I",
+        "description": "位置：北纬 40 40.349 东经 5 44.149\n\n省份：巴亚\n\n驾驶攻击直升机对维斯电力公司造成破坏。快速连续摧毁载具和混乱物品来提升你的分数。",
+        "subcategoryExternalId": "LDZ5o4J4MD",
+        "imageId": 1013838,
+        "imagePath": "/game_map_pin/1013838/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        125.63964843750001,
+        -68.9189095799366
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 11518.4658203125,
+          "y": 1201.4873046875,
+          "z": 8557.9453125,
+          "metadata": []
+        },
+        "externalId": "waSHBD6t3c",
+        "title": "维斯艾丽克拉",
+        "description": "**受压迫基地**",
+        "subcategoryExternalId": "sL4n1yMRQB",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        137.25219726562503,
+        -66.85676471426079
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 12543.0009765625,
+          "y": 1134.169677734375,
+          "z": 7966.3798828125,
+          "metadata": []
+        },
+        "externalId": "BbC99svnFr",
+        "title": "山坡冲刺",
+        "description": "位置：北纬 40 40.703 东经 5 44.901\n\n省份：巴亚\n\n驾车通过所有检查点并尽快到达终点线。",
+        "subcategoryExternalId": "963NPlUx3L",
+        "imageId": 1013837,
+        "imagePath": "/game_map_pin/1013837/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        137.54882812500003,
+        -66.16051056018838
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 12509.98828125,
+          "y": 1297.7469482421875,
+          "z": 7787.8427734375,
+          "metadata": []
+        },
+        "externalId": "C2Q92WhaTT",
+        "title": "阿尔法警卫队",
+        "description": "**被压迫前哨**",
+        "subcategoryExternalId": "sL4n1yMRQB",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        139.99877929687503,
+        -65.71255746172106
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 12788.044921875,
+          "y": 1122.607421875,
+          "z": 7693.8408203125,
+          "metadata": []
+        },
+        "externalId": "iZYJXiCirJ",
+        "title": "马纳埃亚之旅",
+        "description": "位置：北纬 40 40.848 东经 5 45.073\n\n省份：拜亚\n\n穿着翼装飞行通过圆环来获得积分。飞过红色圆环或贴地飞行可获得额外积分。",
+        "subcategoryExternalId": "p2dyHFS9yF",
+        "imageId": 1013836,
+        "imagePath": "/game_map_pin/1013836/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        119.68505859375001,
+        -71.84596256651874
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 10976.20703125,
+          "y": 1141.3892822265625,
+          "z": 9265.8271484375,
+          "metadata": []
+        },
+        "externalId": "PMVySeXVEn",
+        "title": "",
+        "description": "位置：北纬 40 40.021 东经 5 43.770\n\n省份：拜亚\n\n*可以通过驾驶载具冲下坡道并冲破大门来完成勇敢者跳跃。*",
+        "subcategoryExternalId": "2nWKHZkrel",
+        "imageId": 1006209,
+        "imagePath": "/game_map_pin/1006209/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        118.685302734375,
+        -71.53882990638357
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 10747.8173828125,
+          "y": 1087.8924560546875,
+          "z": 9206.173828125,
+          "metadata": []
+        },
+        "externalId": "Z31PVyrJJ0",
+        "title": "",
+        "description": "位置：北纬 40 40.076 东经 5 43.712\n\n城镇：拉科斯\n\n可在阳台找到。",
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007089,
+        "imagePath": "/game_map_pin/1007089/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        111.08276367187501,
+        -70.98476998890614
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 10114.76953125,
+          "y": 1353.8040771484375,
+          "z": 8921.88671875,
+          "metadata": []
+        },
+        "externalId": "YpYg2FHZPS",
+        "title": "隧道之旅",
+        "description": "位置：北纬 40 40.200 东经 5 43.190\n\n省份：拉科斯\n\n穿着翼装飞行通过圆环来获得分数。飞过红色圆环或贴地飞行可获得额外分数。",
+        "subcategoryExternalId": "p2dyHFS9yF",
+        "imageId": 1013861,
+        "imagePath": "/game_map_pin/1013861/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        107.99560546875003,
+        -71.42367936109603
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 9897.4375,
+          "y": 1128.8577880859375,
+          "z": 9143.8583984375,
+          "metadata": []
+        },
+        "externalId": "hJBY9sDsJs",
+        "title": "",
+        "description": "位置：北纬 40 40.079 东经 5 43.051\n\n省份：拉科斯\n\n可在石墙围栏旁找到。",
+        "subcategoryExternalId": "VqAofkGVq5",
+        "imageId": 1010153,
+        "imagePath": "/game_map_pin/1010153/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        42.47343076131006,
+        -83.75151978984916
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 3943.0263671875,
+          "y": 1096.615478515625,
+          "z": 14830.541015625,
+          "metadata": []
+        },
+        "externalId": "g4HLbS7vfI",
+        "title": "反叛者洞穴",
+        "description": "**受压迫者安全港**",
+        "subcategoryExternalId": "qhnlZQsSto",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        127.529296875,
+        -84.46135472044446
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 11646.7255859375,
+          "y": 1126.8115234375,
+          "z": 15394.1318359375,
+          "metadata": []
+        },
+        "externalId": "O1rISdz2b9",
+        "title": "榴弹发射器狂热 I",
+        "description": "位置：北纬 40 36.847 东经 5 44.272\n\n省份：Sirocco Sud\n\n用你的新榴弹发射器向 Pepper Le Galera 发射一连串手榴弹来获得积分！",
+        "subcategoryExternalId": "LDZ5o4J4MD",
+        "imageId": 1013895,
+        "imagePath": "/game_map_pin/1013895/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        127.40844726562501,
+        -84.24738483892585
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 11633.578125,
+          "y": 1069.4932861328125,
+          "z": 15188.3916015625,
+          "metadata": []
+        },
+        "externalId": "ItWGsMsRko",
+        "title": "加勒拉",
+        "description": "**被压迫者基地**",
+        "subcategoryExternalId": "QNN8bklUkh",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        132.53906250000003,
+        80.38639582973975
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 12127.4658203125,
+          "y": 1048.3199462890625,
+          "z": -12941.3056640625,
+          "metadata": []
+        },
+        "externalId": "2bpa7DCkGS",
+        "title": "",
+        "description": "位置：北纬 40 51.533 东经 5 44.603\n\n省份：大牧场省\n\n可在俯瞰海洋的悬崖附近找到。\n\n*每座陵墓都像一个小的圆形土丘，周围环绕着低矮的石墙，石墙上覆盖着草和蓝色的花朵。*",
+        "subcategoryExternalId": "ArMTCVVPTR",
+        "imageId": 1002064,
+        "imagePath": "/game_map_pin/1002064/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        78.92578125000001,
+        77.8880379084863
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 7271.9482421875,
+          "y": 1525.6964111328125,
+          "z": -11763.98046875,
+          "metadata": []
+        },
+        "externalId": "QuU2ma8YTq",
+        "title": "",
+        "description": "位置：北纬 40 50.926 东经 5 41.215\n\n省份：大牧场省\n\n可在神庙内找到。",
+        "subcategoryExternalId": "sgSEsIJD1p",
+        "imageId": 1007215,
+        "imagePath": "/game_map_pin/1007215/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        54.79980468750001,
+        75.19702129578616
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 5091.8046875,
+          "y": 1866.9315185546875,
+          "z": -10687.5634765625,
+          "metadata": []
+        },
+        "externalId": "5K0HBLPlRN",
+        "title": "圣埃内斯托",
+        "description": "位置：北纬 40 50.382 东经 5 39.673\n\n省份：大牧场省\n\n玩家可以使用教堂来降低通缉度并改变一天中的时间。",
+        "subcategoryExternalId": "QlyjMzW1iS",
+        "imageId": 1014320,
+        "imagePath": "/game_map_pin/1014320/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -68.29101562500001,
+        64.86760781632728
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -5968.6865234375,
+          "y": 1029.4913330078125,
+          "z": -7956.095703125,
+          "metadata": []
+        },
+        "externalId": "jxE7s97TT9",
+        "title": "三叉戟赛船会",
+        "description": "位置：北纬 40 49.037 东经 5 32.073\n\n省份：马埃斯特拉莱\n\n穿越所有检查点并尽快到达终点线。",
+        "subcategoryExternalId": "TWwnclhGEz",
+        "imageId": 1013273,
+        "imagePath": "/game_map_pin/1013273/{size}.webp"
+      }
+    }
+  ]
+}

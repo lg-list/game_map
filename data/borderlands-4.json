@@ -1,0 +1,16 @@
+{
+  "slug": "borderlands-4",
+  "title": "Borderlands 4",
+  "heroUrl": "/assets/images/games/borderlands-4/hero.webp",
+  "maps": [
+    {
+      "name": "Kairos",
+      "slug": "kairos",
+      "thumbnailUrl": "/assets/images/games/borderlands-4/kairos.webp",
+      "updatedAt": "2026-03-17T11:31:48Z",
+      "markerCount": 1507,
+      "categoryCount": 8,
+      "subcategoryCount": 42
+    }
+  ]
+}

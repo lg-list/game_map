@@ -1,0 +1,16 @@
+{
+  "slug": "dynasty-warriors-origins",
+  "title": "DYNASTY WARRIORS: ORIGINS",
+  "heroUrl": "/assets/images/games/dynasty-warriors-origins/hero.webp",
+  "maps": [
+    {
+      "name": "Ancient China",
+      "slug": "ancient-china",
+      "thumbnailUrl": "/assets/images/games/dynasty-warriors-origins/ancient-china.webp",
+      "updatedAt": "2026-02-12T10:47:06Z",
+      "markerCount": 620,
+      "categoryCount": 3,
+      "subcategoryCount": 15
+    }
+  ]
+}

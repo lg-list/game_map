@@ -1,0 +1,4665 @@
+{
+  "metadata": {
+    "externalId": "7TFcmSB22V",
+    "name": "London",
+    "slug": "london",
+    "baseTilePath": "https://storage-cdn.wemod.com/maps/e547c0f1-ecd6-46d4-a337-02d0d7a50ee5/tiles",
+    "isChecklistPublished": true,
+    "isInActiveDevelopment": false,
+    "backgroundColor": "#9cacbc",
+    "minZoom": 1,
+    "maxZoom": 5,
+    "initialZoom": null,
+    "tmsEnabled": false,
+    "categories": [
+      {
+        "externalId": "29EGMhDOa5",
+        "gameMapExternalId": "7TFcmSB22V",
+        "title": "未命名分类",
+        "color": "#d27428",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "cPKrV9wjPt",
+        "gameMapExternalId": "7TFcmSB22V",
+        "title": "未命名分类",
+        "color": "#36bf3f",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "KLow2imoli",
+        "gameMapExternalId": "7TFcmSB22V",
+        "title": "未命名分类",
+        "color": "#6469f7",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "subcategories": [
+      {
+        "externalId": "SK3wxDsuD0",
+        "categoryExternalId": "29EGMhDOa5",
+        "title": "未命名子分类",
+        "icon": "raygun",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "TTCG3BZvUZ",
+        "categoryExternalId": "29EGMhDOa5",
+        "title": "未命名子分类",
+        "icon": "knife-kitchen",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "XRPLAk7cDZ",
+        "categoryExternalId": "29EGMhDOa5",
+        "title": "未命名子分类",
+        "icon": "roundies:architecture-blueprints-plan",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "ypcKm2CMFy",
+        "categoryExternalId": "29EGMhDOa5",
+        "title": "未命名子分类",
+        "icon": "sword",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "CMALi49Cu7",
+        "categoryExternalId": "29EGMhDOa5",
+        "title": "未命名子分类",
+        "icon": "syringe",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "ww9aG3kWSi",
+        "categoryExternalId": "cPKrV9wjPt",
+        "title": "未命名子分类",
+        "icon": "house-medical",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "hdH7CrJq0n",
+        "categoryExternalId": "cPKrV9wjPt",
+        "title": "未命名子分类",
+        "icon": "ear-muffs",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "Hu51uenXdb",
+        "categoryExternalId": "cPKrV9wjPt",
+        "title": "未命名子分类",
+        "icon": "skull-crossbones",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "CogFcCHNbB",
+        "categoryExternalId": "cPKrV9wjPt",
+        "title": "未命名子分类",
+        "icon": "coins",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "uKbhQfOkwA",
+        "categoryExternalId": "KLow2imoli",
+        "title": "未命名子分类",
+        "icon": "roundies:camera-and-photography-person-image",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "Lv2ntuyQUv",
+        "categoryExternalId": "KLow2imoli",
+        "title": "任务物品",
+        "icon": "lightbulb-exclamation",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "sr7zQVJVr8",
+        "categoryExternalId": "KLow2imoli",
+        "title": "未命名子分类",
+        "icon": "face-sad-sweat",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "YOZuCLHGGW",
+        "categoryExternalId": "KLow2imoli",
+        "title": "未命名子分类",
+        "icon": "message-question",
+        "excludeFromChecklists": true,
+        "description": ""
+      }
+    ],
+    "playerLocationDeltas": {
+      "deltas": {
+        "scaleX": 0.002472248615702324,
+        "scaleY": -0.002897862479815827,
+        "offsetX": -21342.391778697107,
+        "offsetY": 6026.385220440105,
+        "gameCoordsMap": {
+          "x": "x",
+          "y": "y",
+          "z": "z"
+        }
+      },
+      "referencePoints": [
+        {
+          "lngLat": {
+            "lat": -61.20679804263029,
+            "lng": 9.536132812500002
+          },
+          "gameCoords": {
+            "x": -18720.89453125,
+            "y": 31132.76171875,
+            "z": -716.0740966796875
+          }
+        },
+        {
+          "lngLat": {
+            "lat": 73.4335641314445,
+            "lng": 54.2594666740982
+          },
+          "gameCoords": {
+            "x": -6426.3828125,
+            "y": -29550.330078125,
+            "z": 1243.53125
+          }
+        }
+      ]
+    }
+  },
+  "features": [
+    {
+      "coordinates": [
+        8.807476683509888,
+        -62.63794121031069
+      ],
+      "properties": {
+        "subcategoryExternalId": "SK3wxDsuD0",
+        "imageId": 1173845,
+        "externalId": "ZW1BwhKFOL",
+        "title": "左轮手枪",
+        "description": "*在二楼的房间里，你会看到一个死在沙发上的男人。这将触发一个动画",
+        "imagePath": "/game_map_pin/1173845/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        3.4277343750000004,
+        -61.52269494598361
+      ],
+      "properties": {
+        "subcategoryExternalId": "TTCG3BZvUZ",
+        "imageId": 1173684,
+        "externalId": "Qgu9RcEwnY",
+        "title": "已使用的木桩",
+        "description": "*在逃避猎人追捕时，你会进入一个房间，那里有人在一楼被刺中胸部倒在地上",
+        "imagePath": "/game_map_pin/1173684/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -26.3232421875,
+        -12.811801316582619
+      ],
+      "properties": {
+        "subcategoryExternalId": "SK3wxDsuD0",
+        "externalId": "BzS8k4LQP0",
+        "title": "Lupara",
+        "description": "*On the area, where they're burning bodies then go to the 2nd floor. Find a suitcase",
+        "imageId": 1173795,
+        "imagePath": "/game_map_pin/1173795/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -29.10657222275575,
+        -5.969917260084847
+      ],
+      "properties": {
+        "subcategoryExternalId": "ww9aG3kWSi",
+        "imageId": null,
+        "externalId": "TpwtoWOuXn",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -12.612304687500002,
+        -2.108898659243126
+      ],
+      "properties": {
+        "subcategoryExternalId": "ypcKm2CMFy",
+        "imageId": 1173808,
+        "externalId": "w60wLQWpCu",
+        "title": "镰刀",
+        "description": "*在隧道墙上刻在墙壁上的",
+        "imagePath": "/game_map_pin/1173808/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -10.239257812500002,
+        -4.477856485570586
+      ],
+      "properties": {
+        "subcategoryExternalId": "ypcKm2CMFy",
+        "externalId": "oIscS8XByj",
+        "title": "大头钉",
+        "description": "*Reward after defeating William Bishop",
+        "imageId": 1173810,
+        "imagePath": "/game_map_pin/1173810/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -11.601562500000002,
+        -7.057282352971569
+      ],
+      "properties": {
+        "subcategoryExternalId": "Hu51uenXdb",
+        "imageId": 1173811,
+        "externalId": "OAyN78pOpX",
+        "title": "William Bishop",
+        "description": "",
+        "imagePath": "/game_map_pin/1173811/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        1.8600726984955387,
+        -78.87620706534459
+      ],
+      "properties": {
+        "subcategoryExternalId": "ypcKm2CMFy",
+        "externalId": "lme8RzbDBq",
+        "title": "弯刀",
+        "description": "*On the corpse while running",
+        "imageId": 1173836,
+        "imagePath": "/game_map_pin/1173836/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        51.29813267668573,
+        43.88597152141203
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "eV9supaFF5",
+        "title": "皱巴巴的信",
+        "description": "*On the outside area with corpse. The corpse that is not wrapped",
+        "imageId": 1173906,
+        "imagePath": "/game_map_pin/1173906/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        45.966796875,
+        42.8115217450979
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "7AptD1iAan",
+        "title": "未完成的信",
+        "description": "*On the ward on the table",
+        "imageId": 1173923,
+        "imagePath": "/game_map_pin/1173923/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        49.30664062500002,
+        37.71859032558821
+      ],
+      "properties": {
+        "subcategoryExternalId": "SK3wxDsuD0",
+        "imageId": 1174127,
+        "externalId": "FB8CSOy7q1",
+        "title": "弥尔顿的霰弹枪",
+        "description": "*Bought from Milton",
+        "imagePath": "/game_map_pin/1174127/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        46.1865234375,
+        42.06560675405716
+      ],
+      "properties": {
+        "subcategoryExternalId": "ypcKm2CMFy",
+        "externalId": "dPkAvzB2Vh",
+        "title": "屠龙者",
+        "description": "*Inside the locker on your office",
+        "imageId": 1174129,
+        "imagePath": "/game_map_pin/1174129/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        52.28524400915657,
+        38.908604430499295
+      ],
+      "properties": {
+        "subcategoryExternalId": "ypcKm2CMFy",
+        "externalId": "FkHwMufgH0",
+        "title": "钢锯",
+        "description": "*On the operating room on the 2nd floor",
+        "imageId": 1174131,
+        "imagePath": "/game_map_pin/1174131/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        54.1845703125,
+        38.41055825094609
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "imageId": 1174132,
+        "externalId": "LMaZkk4y5W",
+        "title": "T. 埃尔伍德的医疗档案",
+        "description": "*在手术室的桌子上，二楼水槽附近。",
+        "imagePath": "/game_map_pin/1174132/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        28.037109375000004,
+        -11.73830237143684
+      ],
+      "properties": {
+        "subcategoryExternalId": "Hu51uenXdb",
+        "externalId": "F8Z60BWJqs",
+        "title": "H·R·格里芬",
+        "description": "",
+        "imageId": 1174135,
+        "imagePath": "/game_map_pin/1174135/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        26.499023437500004,
+        -9.40571004160001
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "zP2Ab1uN2P",
+        "title": "斯特里克兰博士的名单",
+        "description": "*On the dead person on front of the drugstore",
+        "imageId": 1174136,
+        "imagePath": "/game_map_pin/1174136/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        13.3154296875,
+        -11.092165893502
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "8flAaXyflO",
+        "title": "Cover Letter",
+        "description": "*On the safe in the office",
+        "imageId": 1174137,
+        "imagePath": "/game_map_pin/1174137/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        12.172628953296813,
+        -27.237411621138378
+      ],
+      "properties": {
+        "subcategoryExternalId": "ww9aG3kWSi",
+        "imageId": null,
+        "externalId": "Y4U7bVvIo0",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        9.711914062500002,
+        -25.085598897064763
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "8tcChJY9f8",
+        "title": "日记的撕页",
+        "description": "*在垃圾桶上。靠近酒吧一侧的建筑物附近",
+        "imageId": 1174150,
+        "imagePath": "/game_map_pin/1174150/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        11.733398437500002,
+        -67.57571741708057
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "6PDWFnOOuK",
+        "title": "花束",
+        "description": "*用于坟墓\n\n任务：向受害者致敬",
+        "imageId": 1174151,
+        "imagePath": "/game_map_pin/1174151/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        9.755859375000002,
+        -66.60067571342496
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "qNSwEYReWy",
+        "title": "坟墓",
+        "description": "*Drop the flower bouquet\n\nQuest: Tribute to the Victims",
+        "imageId": 1174152,
+        "imagePath": "/game_map_pin/1174152/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -19.995117187500004,
+        -66.93006025862447
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "p6otJ1lB3z",
+        "title": "警告便条",
+        "description": "*On the corpse of the area, where Jonathan woke up",
+        "imageId": 1174154,
+        "imagePath": "/game_map_pin/1174154/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -20.742187500000004,
+        -67.13582938531948
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "imageId": 1174165,
+        "externalId": "nLaDSvdSou",
+        "title": "乔纳森的观察点",
+        "description": "*在乔纳森醒来的地方的尸体上",
+        "imagePath": "/game_map_pin/1174165/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        34.39774339173837,
+        -29.5564410676995
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "3L7puugZPb",
+        "title": "血书",
+        "description": "*在楼层卧室的尸体上",
+        "imageId": 1174183,
+        "imagePath": "/game_map_pin/1174183/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        7.4614157755951505,
+        -36.29954980668123
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "cOz9Gf3VyT",
+        "title": "血腥项链",
+        "description": "*Go to the sewers and destroy the barrels. Find group of corpse and the necklace is there.",
+        "imageId": 1174188,
+        "imagePath": "/game_map_pin/1174188/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        77.29980468750001,
+        18.187606552494625
+      ],
+      "properties": {
+        "subcategoryExternalId": "Hu51uenXdb",
+        "externalId": "qUQdi8oZ1Y",
+        "title": "约翰·多伊",
+        "description": "",
+        "imageId": 1174201,
+        "imagePath": "/game_map_pin/1174201/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        75.89355468750001,
+        18.812717856407776
+      ],
+      "properties": {
+        "subcategoryExternalId": "CMALi49Cu7",
+        "externalId": "Ocgp6iQfSO",
+        "title": "富含水分的血样",
+        "description": "*Reward after defeating John Doe",
+        "imageId": 1174202,
+        "imagePath": "/game_map_pin/1174202/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        42.5390625,
+        30.86451022625836
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1174207,
+        "externalId": "CPv6NbmwuD",
+        "title": "Clayton Cox",
+        "description": "提示 1: Clay 杀死了试图杀他的人之兄\n- \"你在伦敦的生活？\"\n- \"关于你推入水中的那个人？\"\n- \"他想要复仇吗？\"\n- *回答任何问题\n\n提示 2: Clay 已经和 Edwina Cox 结婚\n- * 在医疗帐篷中找到皱巴巴的信\n\n提示 3: 打算在康复后仍然担任帮派领袖\n- * 学习提示 1\n- \"你能躲避法律多久？\"\n- \"我们都必须付出代价\"",
+        "imagePath": "/game_map_pin/1174207/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        54.53613281250001,
+        39.90973623453719
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1173915,
+        "externalId": "z9p43Ln0JF",
+        "title": "DR 梭罗·斯特里克兰",
+        "description": "提示1：梭罗的输血实验至今尚未成功\n- \"你在伦敦的生活？\"\n- \"告诉我关于你自己的事？\"\n- \"告诉我关于你的实验？\"\n\n提示2：梭罗秘密地让他的病人接触西班牙流感的实验性药物。\n- *完成失踪药材任务后\n- \"你的药物供应商不见了\"\n\n提示3：梭罗的医疗技能过去曾受到质疑\n- *在斯旺西医生的办公室找到警告信",
+        "imagePath": "/game_map_pin/1173915/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        55.20170930963855,
+        41.94752424088335
+      ],
+      "properties": {
+        "subcategoryExternalId": "CMALi49Cu7",
+        "externalId": "cxZ93onpBe",
+        "title": "神秘配方",
+        "description": "*从拉凯什处购买",
+        "imageId": 1174257,
+        "imagePath": "/game_map_pin/1174257/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        40.47363281250001,
+        11.824341483849048
+      ],
+      "properties": {
+        "subcategoryExternalId": "ypcKm2CMFy",
+        "externalId": "0VuO5goy3i",
+        "title": "棍棒",
+        "description": "*Must on Rat on the Hospital Quest. On the underground where you meet skals",
+        "imageId": 1174273,
+        "imagePath": "/game_map_pin/1174273/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        54.88769531250001,
+        0.4833927027896987
+      ],
+      "properties": {
+        "subcategoryExternalId": "Hu51uenXdb",
+        "externalId": "0Y14XrHvOZ",
+        "title": "下水道野兽",
+        "description": "*On the sewers",
+        "imageId": 1174277,
+        "imagePath": "/game_map_pin/1174277/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        28.256835937500004,
+        54.749990970226925
+      ],
+      "properties": {
+        "subcategoryExternalId": "ww9aG3kWSi",
+        "imageId": null,
+        "externalId": "8ZFJaxraF3",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        14.106445312500002,
+        70.91664110709779
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "mgK8mQrrB3",
+        "title": "花束",
+        "description": "",
+        "imageId": 1174324,
+        "imagePath": "/game_map_pin/1174324/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        14.985351562500002,
+        71.46912418989677
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1174325,
+        "externalId": "rTCWaoq66z",
+        "title": "山茶花",
+        "description": "提示1：卡梅利亚对理查德·尼瑟科特来说就像一位缪斯，他将她视为\"锁住的谜团\"\n- *与理查德·尼瑟科特交谈\n\n提示2：卡梅利亚秘密为多萝西·克兰的药房分发医疗券\n- *检查教堂侧门前的花束",
+        "imagePath": "/game_map_pin/1174325/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        39.85661495941031,
+        67.86707615311991
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "3zgbiSKQ12",
+        "title": "羊毛围巾",
+        "description": "*在小巷中被鼠疫怪物啃食的尸体上",
+        "imageId": 1174813,
+        "imagePath": "/game_map_pin/1174813/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -11.293945312500002,
+        67.7760253890732
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "jNI3ZUJVX2",
+        "title": "拒绝工作信",
+        "description": "*On the 2nd floor basket in the bedroom of Harry Peterson's House",
+        "imageId": 1174827,
+        "imagePath": "/game_map_pin/1174827/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -17.70992320241081,
+        72.52760666254406
+      ],
+      "properties": {
+        "subcategoryExternalId": "ypcKm2CMFy",
+        "imageId": 1174836,
+        "externalId": "sCVw30FviW",
+        "title": "手斧",
+        "description": "*在2楼木柱上被砍伤",
+        "imagePath": "/game_map_pin/1174836/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -18.764648437500004,
+        72.3157853052617
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "3fh79u8QxV",
+        "title": "小盒子",
+        "description": "*Go to the 2nd floor and try to look up and find an elevated area to teleport. The item is on the corpse",
+        "imageId": 1174837,
+        "imagePath": "/game_map_pin/1174837/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        47.0804751652195,
+        40.90462810781881
+      ],
+      "properties": {
+        "subcategoryExternalId": "hdH7CrJq0n",
+        "imageId": null,
+        "externalId": "COtB0uR3Z8",
+        "title": "",
+        "description": "在帐篷后，当碧翠丝和莫提默关上门时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        56.23368933903986,
+        39.2916242555059
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "wYqSC4R70A",
+        "title": "长信",
+        "description": "*Read to trigger Hint for Pippa Hawkins",
+        "imageId": 1174847,
+        "imagePath": "/game_map_pin/1174847/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        57.35540676230213,
+        39.982681761996346
+      ],
+      "properties": {
+        "subcategoryExternalId": "hdH7CrJq0n",
+        "imageId": null,
+        "externalId": "85dcoJSlI3",
+        "title": "",
+        "description": "*在窗口后面偷听Rakesh",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        47.90039062500001,
+        43.16512263158299
+      ],
+      "properties": {
+        "subcategoryExternalId": "ww9aG3kWSi",
+        "imageId": null,
+        "externalId": "BdxLtRD64U",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        64.20410156250001,
+        20.46818922264095
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "imageId": null,
+        "externalId": "JLupRXt9mx",
+        "title": "钱包",
+        "description": "*Belongs to Milton Hooks. Return to trigger Hint 3",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        56.6455078125,
+        37.96152331396614
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "jQwSyAQ5kD",
+        "title": "给拉凯什·查达纳的信",
+        "description": "*在埃德加·斯旺西博士办公室左侧的书架上",
+        "imageId": 1174872,
+        "imagePath": "/game_map_pin/1174872/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        56.6455078125,
+        32.731840896865684
+      ],
+      "properties": {
+        "subcategoryExternalId": "hdH7CrJq0n",
+        "imageId": null,
+        "externalId": "x911eLQzXq",
+        "title": "",
+        "description": "*传送到高地去窃听 Dr Corcoran Tippets",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        52.50965431548152,
+        37.99747281098769
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "l2zwdNKlMH",
+        "title": "警告信",
+        "description": "*On the bookshelf of Dr Swansea",
+        "imageId": 1174982,
+        "imagePath": "/game_map_pin/1174982/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        39.90234375000001,
+        34.92197103616377
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "VOld6BnSAa",
+        "title": "皱巴巴的信",
+        "description": "*On the bed in the medical tents outside the hospital",
+        "imageId": 1174994,
+        "imagePath": "/game_map_pin/1174994/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        12.262366347157768,
+        71.14349263493389
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "Aecn3GaqND",
+        "title": "达里乌斯·彼得雷斯库的信件",
+        "description": "*在教堂旁边的垃圾堆里",
+        "imageId": 1175008,
+        "imagePath": "/game_map_pin/1175008/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -21.621093750000004,
+        64.68031793418317
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "externalId": "y3lLMiEbEh",
+        "title": "David Petrescu",
+        "description": "Hint 1: Darius is the right arm of Dorothy Crane\n- *Eavesdrop\n\nHint 2: Darius is a former Romanian political activist\n- *After Hint 1\n- *Speak Richard Nithercott\n\nHint 3: Darius does not want to see his children anymore, to avoid being a burden to them\n- *After getting Hint 1\n- *Speak to Clayton Darby\n- *Find Darius Petrescu's Letter",
+        "imageId": 1175015,
+        "imagePath": "/game_map_pin/1175015/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -29.838867187500004,
+        63.54855223203644
+      ],
+      "properties": {
+        "subcategoryExternalId": "CMALi49Cu7",
+        "imageId": null,
+        "externalId": "7UXDuZfhRH",
+        "title": "拉万血液样本",
+        "description": "*在帮助多萝西·克兰之后",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        27.639365291544994,
+        53.42658859468554
+      ],
+      "properties": {
+        "subcategoryExternalId": "Hu51uenXdb",
+        "externalId": "SOzfzTmWir",
+        "title": "托比与文森特",
+        "description": "",
+        "imageId": 1175050,
+        "imagePath": "/game_map_pin/1175050/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        27.114257812500004,
+        53.09402405506328
+      ],
+      "properties": {
+        "subcategoryExternalId": "TTCG3BZvUZ",
+        "externalId": "kW4ZAtmOo0",
+        "title": "警棍",
+        "description": "*After defeating Vincent & Toby Sheen",
+        "imageId": 1175051,
+        "imagePath": "/game_map_pin/1175051/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -26.1003695284128,
+        -36.29954980668123
+      ],
+      "properties": {
+        "subcategoryExternalId": "Hu51uenXdb",
+        "externalId": "8uJrOdbYMr",
+        "title": "吉米\"火花\"巴洛",
+        "description": "",
+        "imageId": 1175354,
+        "imagePath": "/game_map_pin/1175354/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -25.136718750000004,
+        -36.49197347059368
+      ],
+      "properties": {
+        "subcategoryExternalId": "SK3wxDsuD0",
+        "externalId": "3jGwKINmki",
+        "title": "手枪帕拉贝鲁姆",
+        "description": "*Reward after defeating Jimmy Barlow",
+        "imageId": 1175355,
+        "imagePath": "/game_map_pin/1175355/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -14.809570312500002,
+        -28.729130483430154
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "hQT1aMgZG6",
+        "title": "杜松子酒瓶",
+        "description": "*On the 2nd floor shelf. Reach the 2nd floor and enter the room. Lack of Key product Quest",
+        "imageId": 1175356,
+        "imagePath": "/game_map_pin/1175356/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -14.985351562500002,
+        -21.53484700204879
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "imageId": 1175357,
+        "externalId": "WpgPY273R7",
+        "title": "报纸文章",
+        "description": "*在二楼储物柜。到达二楼并进入房间。",
+        "imagePath": "/game_map_pin/1175357/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        2.256646931658075,
+        -32.411646718248534
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1175399,
+        "externalId": "1GIBKvbNkH",
+        "title": "Stella Fishburn",
+        "description": "提示 1：Stella 就像是 Rufus 的母亲\n- \"个人问题\"\n- \"你一个人吗？\"\n- *回答任何问题\n\n提示 2：Stella 对 Rufus 的关注加剧了她儿子 Seymour 的嫉妒\n- *偷听\n\n提示 3：Stella 似乎能够抑制她儿子 Seymour 的攻击性\n- *在提示 1 之后\n- *与 Seymour 交谈\n\n提示 4：",
+        "imagePath": "/game_map_pin/1175399/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        15.029296875000002,
+        -21.04349121680354
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1174138,
+        "externalId": "8MzUxwQrmT",
+        "title": "展位迪格比",
+        "description": "Hint 1: Booth and Edwina Cox have recently killed a man in retaliation\n- *Speak to Edwina cox\n- Find the Warning Note in the beginning of the game\n\nHint 2: Booth may be in love with Edwina Cox, but she is the true leader of the gang\n- \"Your life in London?\"\n- \"About this part of town?\"\n\nHint 3: Booth believes in supernatural creatures, and events\n- *Speak to Edwina Cox\n\nHint 4: Booth has already tried to find a job, so he could quit the Wet Boot Boys\n- *Find the Cover Letter and read it",
+        "imagePath": "/game_map_pin/1174138/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -31.215400978488876,
+        -23.508636943190183
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1176424,
+        "externalId": "CoejLJFEOj",
+        "title": "马丁·南丁格尔",
+        "description": "提示1：马丁利用了伊妮德·吉林厄姆的记忆衰退来为自己谋利\n- *偷听\n\n提示2：马丁选择成为一个糟糕的商人而不是帮派成员\n- \"你在伦敦的生活？\"\n- \"你不是真正的商人\"\n\n提示3：马丁在父母感染瘟疫后抛弃了他们\n- *在提示1之后\n- \"个人问题\"\n- \"你利用了吉林厄姆小姐\"\n- \"你的借口是什么？\"\n\n提示4：马丁有时会把伊妮德·吉林厄姆和她的儿子杰克搞混",
+        "imagePath": "/game_map_pin/1176424/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -31.992187500000004,
+        -26.03704188651583
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1176429,
+        "externalId": "dvrdfetVgv",
+        "title": "恩尼德·吉灵汉",
+        "description": "提示 1: 伊妮德的薄弱记忆被马丁·奈丁格尔利用，以谋取自己的利益\n- *窃听\n\n提示 2: 伊妮德的儿子杰克被杀了\n- *找到血腥的信\n\n提示 3: 伊妮德对她的儿子杰克感到内疚\n- *购买音乐盒并检查\n\n提示 4: 伊妮德有时会混淆她的儿子杰克和马丁·奈丁格尔\n- *与马丁·奈丁格尔交谈",
+        "imagePath": "/game_map_pin/1176429/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -32.60742187500001,
+        -24.567108352575975
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "imageId": 1176434,
+        "externalId": "ia2R20kKmW",
+        "title": "未完成的信",
+        "description": "*On the bookshelf of Enid Gillingham's house",
+        "imagePath": "/game_map_pin/1176434/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -30.498046875000004,
+        -23.725011735951796
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "BRYGdZLX6D",
+        "title": "音乐盒",
+        "description": "*Buy to get the Hint 3 for Enid Gillingham",
+        "imageId": 1176435,
+        "imagePath": "/game_map_pin/1176435/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -47.54882812500001,
+        -6.926426847059551
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "xNmnLrctwt",
+        "title": "旧报纸",
+        "description": "*在手提箱上，靠近储物柜",
+        "imageId": 1176440,
+        "imagePath": "/game_map_pin/1176440/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -41.66015625000001,
+        -11.652236404115387
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "upqFr2p2pw",
+        "title": "手写祈祷",
+        "description": "*On the bedside table in the Night Asylum",
+        "imageId": 1176441,
+        "imagePath": "/game_map_pin/1176441/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -44.03320312500001,
+        -2.5479878714713835
+      ],
+      "properties": {
+        "subcategoryExternalId": "hdH7CrJq0n",
+        "imageId": null,
+        "externalId": "1zgPBUbQou",
+        "title": "",
+        "description": "*去二楼偷听洛蒂和吉赛尔在房间见面时的谈话",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -8.745117187500002,
+        65.67638148211446
+      ],
+      "properties": {
+        "subcategoryExternalId": "hdH7CrJq0n",
+        "imageId": null,
+        "externalId": "z9K6gUBQwQ",
+        "title": "",
+        "description": "*在高地上。等乔回家",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -34.760028035997735,
+        -6.683439503443565
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "MsngWLs2qR",
+        "title": "折叠纸",
+        "description": "",
+        "imageId": 1176455,
+        "imagePath": "/game_map_pin/1176455/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -42.67089843750001,
+        -4.171115454867424
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "tYI9UwTJ4N",
+        "title": "Burnt Letter",
+        "description": "*Inside the trash. Near the stairs",
+        "imageId": 1176475,
+        "imagePath": "/game_map_pin/1176475/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -31.069335937500004,
+        -13.02596592633354
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "imageId": 1176484,
+        "externalId": "g8WWcPYjzU",
+        "title": "反吸血鬼海报",
+        "description": "",
+        "imagePath": "/game_map_pin/1176484/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -59.00970187486996,
+        -21.730054562387963
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "tHoBKlCcxL",
+        "title": "普里文守卫笔记",
+        "description": "",
+        "imageId": 1176488,
+        "imagePath": "/game_map_pin/1176488/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -83.32031250000001,
+        -9.318990192397917
+      ],
+      "properties": {
+        "subcategoryExternalId": "Hu51uenXdb",
+        "externalId": "1fOXSqdXCt",
+        "title": "Ascalon",
+        "description": "",
+        "imageId": 1176493,
+        "imagePath": "/game_map_pin/1176493/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -70.92773437500001,
+        -8.798225459016345
+      ],
+      "properties": {
+        "subcategoryExternalId": "CMALi49Cu7",
+        "externalId": "xFfjTdCd74",
+        "title": "坚固的血样",
+        "description": "",
+        "imageId": 1176496,
+        "imagePath": "/game_map_pin/1176496/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -60.86425781250001,
+        -9.102096738726443
+      ],
+      "properties": {
+        "subcategoryExternalId": "ww9aG3kWSi",
+        "imageId": null,
+        "externalId": "SKIV2vtUI1",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -59.89746093750001,
+        -8.624472107633936
+      ],
+      "properties": {
+        "subcategoryExternalId": "ypcKm2CMFy",
+        "externalId": "Wk6atHGINN",
+        "title": "锤",
+        "description": "*On the Hide Out in the Sewers in Chapter 3",
+        "imageId": 1176505,
+        "imagePath": "/game_map_pin/1176505/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        73.47656250000001,
+        72.08743247624159
+      ],
+      "properties": {
+        "subcategoryExternalId": "Hu51uenXdb",
+        "imageId": 1178152,
+        "externalId": "QnDJr25cEU",
+        "title": "玛丽·里德",
+        "description": "",
+        "imagePath": "/game_map_pin/1178152/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        23.394185688758274,
+        63.064971490993024
+      ],
+      "properties": {
+        "subcategoryExternalId": "TTCG3BZvUZ",
+        "externalId": "ml6EGzKFSq",
+        "title": "Priwen Stake",
+        "description": "*On the 2nd floor table",
+        "imageId": 1178158,
+        "imagePath": "/game_map_pin/1178158/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        22.941116216614866,
+        62.831384030378175
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "iOaQgxx09y",
+        "title": "关于彭布罗克的报告",
+        "description": "*On the 2nd floor table",
+        "imageId": 1178160,
+        "imagePath": "/game_map_pin/1178160/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -2.5891723368350377,
+        57.366056637107974
+      ],
+      "properties": {
+        "subcategoryExternalId": "hdH7CrJq0n",
+        "imageId": null,
+        "externalId": "1ooMSYKuAh",
+        "title": "",
+        "description": "*第二天偷听阿尔伯特·帕尔默。前往二楼然后左转到达开放的栏杆，然后下去进入房间。在窗户附近进行偷听",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -15.179817706245037,
+        59.25028145063482
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1174297,
+        "externalId": "k7X9WD7x8d",
+        "title": "本杰明·帕尔默",
+        "description": "Hint 1: Benjamin is a war veteran\n- \"Your life in London?\"\n- \"Did you steal that man's medication\"\n- *Answer anything\n\nHint 2: Benjamin needs medication since he came back from the front\n- *Hint trigger after Hint 1\n- \"Personal Question\"\n- \"Tell me about the war\"\n- \"You should not feel ashamed\"\n\nHint 3: Benjamin is opposed to his son's wish to join Wet Boot Boys gang\n- *After Hint 1\n- \"Personal Question\"\n- \"Your son wants to join a gang\"\n- *Answer Anything",
+        "imagePath": "/game_map_pin/1174297/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        50.40527343750001,
+        73.94679115710252
+      ],
+      "properties": {
+        "subcategoryExternalId": "hdH7CrJq0n",
+        "imageId": null,
+        "externalId": "9sGCu07lld",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        73.82812500000001,
+        71.86990857540805
+      ],
+      "properties": {
+        "subcategoryExternalId": "CMALi49Cu7",
+        "externalId": "8qZziDOMhm",
+        "title": "*丰富血液样本",
+        "description": "*Reward after defeating Mary Reid",
+        "imageId": 1178191,
+        "imagePath": "/game_map_pin/1178191/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        52.29492187500001,
+        73.59058633918977
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "gJrtnoXdro",
+        "title": "Loretta's Letter",
+        "description": "*On the table of Mason Swanborough's house",
+        "imageId": 1178194,
+        "imagePath": "/game_map_pin/1178194/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        65.91796875000001,
+        70.59802116106809
+      ],
+      "properties": {
+        "subcategoryExternalId": "CMALi49Cu7",
+        "externalId": "Vs4ttrvJSm",
+        "title": "奇异公式",
+        "description": "*在墙边的尸体上",
+        "imageId": 1178198,
+        "imagePath": "/game_map_pin/1178198/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        53.876953125,
+        71.9653876991313
+      ],
+      "properties": {
+        "subcategoryExternalId": "ww9aG3kWSi",
+        "imageId": null,
+        "externalId": "tI1hLUtEq3",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        84.18688752673631,
+        63.339130749669586
+      ],
+      "properties": {
+        "subcategoryExternalId": "CMALi49Cu7",
+        "externalId": "p2U4KVzvo7",
+        "title": "快速血样",
+        "description": "*Corpse near the heater",
+        "imageId": 1178204,
+        "imagePath": "/game_map_pin/1178204/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        54.797891037264094,
+        48.7762764456264
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "VG8Pwp5NHx",
+        "title": "调查任务",
+        "description": "*在顶层。从后面走",
+        "imageId": 1178211,
+        "imagePath": "/game_map_pin/1178211/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        54.53613281250001,
+        32.32427558887655
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1173939,
+        "externalId": "VfxV4heON3",
+        "title": "托马斯·埃尔伍德",
+        "description": "提示1：托马斯对自己在战争中的毁容感到负责\n- *找到T.埃尔伍德的医疗档案并阅读\n\n提示2：托马斯因伤势过于羞愧而不敢见家人\n- *完成提示1后\n- \"你在伦敦的生活？\"\n- \"你受伤的真正原因\"\n- \"为什么要撒谎！\"\n- \"你不能永远躲藏\"\n\n提示3：托马斯将塞尔玛·豪克罗夫特视为证明他没有希望的活证据\n- *与塞尔玛·豪克罗夫特交谈 - \"关于豪克罗夫特小姐的病情？\"",
+        "imagePath": "/game_map_pin/1173939/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        55.1953125,
+        34.01624188966704
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1173938,
+        "externalId": "A3lOK1AS54",
+        "title": "Thelma 霍克罗夫特",
+        "description": "*关于彭布罗克医院\n_________________________________\n提示 1：特尔玛患有科塔德综合征，并认为自己是吸血鬼\n- \"你在伦敦的生活？\"\n- \"你是吸血鬼？\"\n- \"听说过科塔德综合征吗\"",
+        "imagePath": "/game_map_pin/1173938/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        48.47167968750001,
+        40.68063802521456
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "SoLfYEE4mV",
+        "title": "给斯旺塞尼亚博士的信",
+        "description": "*Inside the Dr. Strickland's Office\n\n*After the Missing Ingredients Quest, If you decide to make a placebo for Dr. Strickland and not report him to Dr. Waverly Ackroyd and he will give you the key to his office",
+        "imageId": 1178226,
+        "imagePath": "/game_map_pin/1178226/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        49.13085937500001,
+        40.68063802521456
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "GAKNSruKJW",
+        "title": "M. Goswick 的医疗档案",
+        "description": "*Inside the Dr. Strickland's office\n\n*After the Missing Ingredients Quest, If you decide to make a placebo for Dr. Strickland and not report him to Dr. Waverly Ackroyd and he will give you the key to his office",
+        "imageId": 1178230,
+        "imagePath": "/game_map_pin/1178230/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        47.1533203125,
+        9.362352822055612
+      ],
+      "properties": {
+        "subcategoryExternalId": "ww9aG3kWSi",
+        "imageId": null,
+        "externalId": "muI0wkVs9E",
+        "title": "",
+        "description": "*读取任务后销毁以解锁",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        46.40625000000001,
+        10.31491928581316
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "8KJg3TVxLa",
+        "title": "折叠的信件",
+        "description": "*必须在阅后即焚任务中",
+        "imageId": 1178234,
+        "imagePath": "/game_map_pin/1178234/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        71.13009671996316,
+        19.815323290926273
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "3CUfOiX0b9",
+        "title": "死亡报告",
+        "description": "*On the table. Next to the corpse",
+        "imageId": 1178608,
+        "imagePath": "/game_map_pin/1178608/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        70.19680580673051,
+        18.91712348994406
+      ],
+      "properties": {
+        "subcategoryExternalId": "TTCG3BZvUZ",
+        "imageId": 1174200,
+        "externalId": "5T906Eg0IO",
+        "title": "Liston Knife",
+        "description": "*On the table of the underground morgue",
+        "imagePath": "/game_map_pin/1174200/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        14.227325063678254,
+        73.20325779196499
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "UGld7wUWsy",
+        "title": "编辑拒绝信",
+        "description": "*On the trash can",
+        "imageId": 1178817,
+        "imagePath": "/game_map_pin/1178817/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        38.69002883921753,
+        30.861195570888327
+      ],
+      "properties": {
+        "subcategoryExternalId": "hdH7CrJq0n",
+        "imageId": null,
+        "externalId": "p7yyFaTI9S",
+        "title": "",
+        "description": "*窃听奥斯瓦尔德和牛顿见面时的对话",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -12.146323913966507,
+        -5.121339445315302
+      ],
+      "properties": {
+        "subcategoryExternalId": "CMALi49Cu7",
+        "externalId": "N5AkJF1pkZ",
+        "title": "威廉·毕晓普血样",
+        "description": "",
+        "imageId": 1179156,
+        "imagePath": "/game_map_pin/1179156/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        31.5559060272693,
+        -30.768285911488114
+      ],
+      "properties": {
+        "subcategoryExternalId": "sr7zQVJVr8",
+        "imageId": null,
+        "externalId": "AeRqhed8rA",
+        "title": "阿彻·伍德比德",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        38.645160142287004,
+        19.053710957320217
+      ],
+      "properties": {
+        "subcategoryExternalId": "sr7zQVJVr8",
+        "imageId": null,
+        "externalId": "fi0lkXmkt4",
+        "title": "奥斯瓦尔德·撒切尔",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        62.0666199400038,
+        66.93615486584547
+      ],
+      "properties": {
+        "subcategoryExternalId": "sr7zQVJVr8",
+        "imageId": null,
+        "externalId": "a5NKreMTKk",
+        "title": "Hsiao Shun",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -41.66015625000001,
+        41.77131167976407
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1179645,
+        "externalId": "qhnzmzclAJ",
+        "title": "艾弗里·科克",
+        "description": "提示 1： Avery 是唯一一个现在正在照顾 Emelyne Reid 的人\n- “你在伦敦的生活怎么样？”\n- “我母亲怎么样？”\n- “她接受医疗护理了吗？”\n\n提示 2： Avery 已经被支付，以在他最后一口气之前照顾 Reid 家族\n- *找到旧信并阅读",
+        "imagePath": "/game_map_pin/1179645/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -42.49511718750001,
+        40.74725696280421
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "HeUs2TMEqa",
+        "title": "Old Letter",
+        "description": "*Inside the cabinet in the entrance area",
+        "imageId": 1179648,
+        "imagePath": "/game_map_pin/1179648/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -43.85742187500001,
+        42.84375132629023
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1179651,
+        "externalId": "yycNFPtrjc",
+        "title": "Emelyne Reid",
+        "description": "提示 1: 艾米琳只有由艾弗里·考克照看\n- *与艾弗里·考克交谈\n\n 提示 2: 艾米琳经常和去世的人说话，包括她的儿子\n- *窃听",
+        "imagePath": "/game_map_pin/1179651/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -40.73730468750001,
+        43.77109381775651
+      ],
+      "properties": {
+        "subcategoryExternalId": "ww9aG3kWSi",
+        "imageId": null,
+        "externalId": "mgWej6dHhP",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -36.95800781250001,
+        42.94033923363183
+      ],
+      "properties": {
+        "subcategoryExternalId": "hdH7CrJq0n",
+        "imageId": null,
+        "externalId": "7fM5jbpfy0",
+        "title": "",
+        "description": "*等待母亲进入房间，然后通过乔纳森的房间前往阳台",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -41.66015625000001,
+        45.336701909968134
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "m9NMQW8P4Z",
+        "title": "小钥匙",
+        "description": "*On the study table in Jonathan's bedroom",
+        "imageId": 1179655,
+        "imagePath": "/game_map_pin/1179655/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -41.17675781250001,
+        40.747256962804045
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "imageId": 1179656,
+        "externalId": "oBCoxJbm4E",
+        "title": "奥德丽的第一封信",
+        "description": "*On the table on Father's office",
+        "imagePath": "/game_map_pin/1179656/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -42.75878906250001,
+        29.99300228455108
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "externalId": "AfkwZmhu24",
+        "title": "亚瑟·彭贝尔顿",
+        "description": "",
+        "imageId": 1179662,
+        "imagePath": "/game_map_pin/1179662/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -46.36230468750001,
+        24.206889622398023
+      ],
+      "properties": {
+        "subcategoryExternalId": "TTCG3BZvUZ",
+        "externalId": "NaL2mcCQRL",
+        "title": "匕首",
+        "description": "*在走廊的桌子上",
+        "imageId": 1179664,
+        "imagePath": "/game_map_pin/1179664/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -52.42675781250001,
+        27.52775820686191
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "imageId": 1179671,
+        "externalId": "O09iKMTwVP",
+        "title": "阿斯卡隆俱乐部地下室的钥匙",
+        "description": "*On top of the plate behind the bar counter",
+        "imagePath": "/game_map_pin/1179671/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -35.41992187500001,
+        28.536274512989916
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "0FpygdnFJv",
+        "title": "警告传单",
+        "description": "*On the stacked paper",
+        "imageId": 1179676,
+        "imagePath": "/game_map_pin/1179676/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -62.040195769736805,
+        35.18560849943783
+      ],
+      "properties": {
+        "subcategoryExternalId": "Hu51uenXdb",
+        "externalId": "zShFccSoFm",
+        "title": "Elza Mulaney",
+        "description": "",
+        "imageId": 1179693,
+        "imagePath": "/game_map_pin/1179693/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -65.96191406250001,
+        34.74161249883172
+      ],
+      "properties": {
+        "subcategoryExternalId": "CMALi49Cu7",
+        "imageId": 1179694,
+        "externalId": "GGlwpkDDaG",
+        "title": "浓厚丰富的血液",
+        "description": "*在第二层的水槽附近的橱柜上",
+        "imagePath": "/game_map_pin/1179694/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -45.290648783246674,
+        20.427533323801057
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1180209,
+        "externalId": "nK2QRO3AeH",
+        "title": "卡琳娜·比洛",
+        "description": "提示1：卡琳娜知道吸血鬼的存在\n- * 找到纸上的涂鸦并阅读\n\n提示2：卡琳娜在谈论她的遭遇时只会语无伦次\n- \"你在伦敦的生活？\"\n- \"你发生了什么事？\"\n- \"告诉我你脑海中的声音\"\n\n提示3：卡琳娜感到想要吃活老鼠的冲动\n- *偷听\n\n提示4：卡琳娜的心智被一个强大的吸血鬼精神摧毁了\n- *在提示3之后\n- \"个人问题\"\n- \"你到底发生了什么？\"\n- \"他欺骗了你\"",
+        "imagePath": "/game_map_pin/1180209/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -44.86816406250001,
+        19.766703551716976
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "FNUKDQgNXB",
+        "title": "在纸上涂鸦",
+        "description": "*On the corner where Carina rants. Near the stairs with a barrel",
+        "imageId": 1180210,
+        "imagePath": "/game_map_pin/1180210/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -52.86621093750001,
+        17.685895196738677
+      ],
+      "properties": {
+        "subcategoryExternalId": "hdH7CrJq0n",
+        "imageId": null,
+        "externalId": "gYMxt42h0i",
+        "title": "",
+        "description": "*等待卡丽娜·比洛下到低处偷听",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -84.15527343750001,
+        47.368594345213374
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "QFcvYljut2",
+        "title": "固定的信",
+        "description": "*Letter on the door",
+        "imageId": 1180218,
+        "imagePath": "/game_map_pin/1180218/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -88.76953125,
+        51.536085601784755
+      ],
+      "properties": {
+        "subcategoryExternalId": "ww9aG3kWSi",
+        "imageId": null,
+        "externalId": "VkR4ntpcFI",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -52.0751953125,
+        57.468589192089354
+      ],
+      "properties": {
+        "subcategoryExternalId": "SK3wxDsuD0",
+        "externalId": "lKtZzo41As",
+        "title": "双管猎枪",
+        "description": "*在2楼韦克菲尔德巧克力店的地板上",
+        "imageId": 1180229,
+        "imagePath": "/game_map_pin/1180229/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -29.600127888991167,
+        66.2047422029987
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "hv93ZKYoCO",
+        "title": "给护士克莱恩的信",
+        "description": "*On the table in bottom floor. Near the stairs",
+        "imageId": 1180230,
+        "imagePath": "/game_map_pin/1180230/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -17.74249899444453,
+        32.59465263834636
+      ],
+      "properties": {
+        "subcategoryExternalId": "SK3wxDsuD0",
+        "externalId": "UGOY1MpLL3",
+        "title": "卓越泵动式霰弹枪",
+        "description": "*在餐厅的边桌上",
+        "imageId": 1182652,
+        "imagePath": "/game_map_pin/1182652/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -19.511718750000004,
+        34.70549341022547
+      ],
+      "properties": {
+        "subcategoryExternalId": "Hu51uenXdb",
+        "externalId": "jiJzOsmaFc",
+        "title": "Roger & Priscilla McPherson",
+        "description": "",
+        "imageId": 1182653,
+        "imagePath": "/game_map_pin/1182653/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -31.728515625000004,
+        17.936928637549443
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "cZrSwaY6zM",
+        "title": "Venus日志",
+        "description": "*On the right bedside table on the 2nd floor bedroom",
+        "imageId": 1182657,
+        "imagePath": "/game_map_pin/1182657/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -37.48535156250001,
+        30.41078179084589
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1182662,
+        "externalId": "rfYu5iygLv",
+        "title": "Clarence Crossley",
+        "description": "Hint 1: Clarence believes that vampires have invaded London\n- *Find the Warning Leaflet and read it\nHint 2: Clarence is spending his family's fortune to finance his campaign against vampires in the West End\n- *Find the Venus Journal and read it",
+        "imagePath": "/game_map_pin/1182662/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -29.06222217123004,
+        18.360396369836913
+      ],
+      "properties": {
+        "subcategoryExternalId": "hdH7CrJq0n",
+        "imageId": null,
+        "externalId": "W2rxVsw2Gg",
+        "title": "",
+        "description": "*等到维纳斯·克罗斯利去厨房然后偷听",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -33.26660156250001,
+        19.435514339097825
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1182660,
+        "externalId": "P7ZtVgPBVP",
+        "title": "维纳斯·克罗斯利",
+        "description": "提示1：维纳斯深深担心家族的名声\n- *与克拉伦斯交谈\n- \"个人问题\"\n- \"你妻子怎么样\"\n- \"家里有麻烦吗？\"\n提示2：维纳斯故意毒害她的丈夫\n- *偷听\n提示3：维纳斯确信战争导致了克拉伦斯·克罗斯利的偏执症\n- *在提示2之后\n- *与克拉伦斯交谈\n- \"个人问题\"\n- \"你妻子在毒害你\"\n- \"你一点都不怀疑吗？\"",
+        "imagePath": "/game_map_pin/1182660/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -59.392647373381735,
+        56.22929697573217
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "d2XpbtkpEm",
+        "title": "盲文文本",
+        "description": "*在尸体上",
+        "imageId": 1184378,
+        "imagePath": "/game_map_pin/1184378/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -15.124470413062724,
+        49.081416655890244
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "C2e9PKk1WR",
+        "title": "自杀遗书",
+        "description": "*在剧院后门入口的桌子上",
+        "imageId": 1184384,
+        "imagePath": "/game_map_pin/1184384/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -10.458984375000002,
+        50.064191736659104
+      ],
+      "properties": {
+        "subcategoryExternalId": "Hu51uenXdb",
+        "externalId": "vmd7gwFnDf",
+        "title": "多丽丝·弗莱彻",
+        "description": "",
+        "imageId": 1184389,
+        "imagePath": "/game_map_pin/1184389/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -11.601562500000002,
+        50.205033264943346
+      ],
+      "properties": {
+        "subcategoryExternalId": "ypcKm2CMFy",
+        "externalId": "hgd3bKbFfP",
+        "title": "卓越军刀",
+        "description": "*击败多丽丝·弗莱彻后的奖励",
+        "imageId": 1184390,
+        "imagePath": "/game_map_pin/1184390/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -9.755859375000002,
+        44.402391829093915
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "imageId": 1184396,
+        "externalId": "TVDGPqOKRJ",
+        "title": "NewDoris Fletcher的日记",
+        "description": "*在绿色椅子上。靠近海报。在2楼后面的入口",
+        "imagePath": "/game_map_pin/1184396/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -87.97851562500001,
+        61.14323525084058
+      ],
+      "properties": {
+        "subcategoryExternalId": "CMALi49Cu7",
+        "externalId": "a2K1LQdFCT",
+        "title": "厚重坚固的血液",
+        "description": "*On the corpse near the gazebo",
+        "imageId": 1184434,
+        "imagePath": "/game_map_pin/1184434/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -71.41113281250001,
+        62.51231793838694
+      ],
+      "properties": {
+        "subcategoryExternalId": "Hu51uenXdb",
+        "externalId": "DhY45eXtBl",
+        "title": "Leon Agustin",
+        "description": "",
+        "imageId": 1184440,
+        "imagePath": "/game_map_pin/1184440/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -69.25781250000001,
+        62.895217544882044
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "xVGkSHr0lm",
+        "title": "污损的信件",
+        "description": "*在排水栅栏旁的尸体上",
+        "imageId": 1184445,
+        "imagePath": "/game_map_pin/1184445/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -54.93164062500001,
+        61.75233128411639
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "97HxBosEaM",
+        "title": "最近的日记",
+        "description": "*Fight the vampire to get the item",
+        "imageId": 1184449,
+        "imagePath": "/game_map_pin/1184449/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -51.431015268644586,
+        61.269626656774776
+      ],
+      "properties": {
+        "subcategoryExternalId": "sr7zQVJVr8",
+        "imageId": null,
+        "externalId": "eF55XGTuA1",
+        "title": "Louise Teasdale",
+        "description": "*Go to the end of the park to find an underground pathway",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -57.16586432914207,
+        70.11155311051992
+      ],
+      "properties": {
+        "subcategoryExternalId": "ww9aG3kWSi",
+        "imageId": null,
+        "externalId": "rHjUp3xhaw",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        79.84749870759059,
+        62.220784921812474
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "imageId": 1187499,
+        "externalId": "aGDEjJKW6Z",
+        "title": "个人日志",
+        "description": "*杀死 Skal 后的奖励。必须在神圣十字军任务中",
+        "imagePath": "/game_map_pin/1187499/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        91.1865234375,
+        62.0421377037976
+      ],
+      "properties": {
+        "subcategoryExternalId": "ww9aG3kWSi",
+        "imageId": null,
+        "externalId": "mIVa09Nw0P",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        17.094726562500004,
+        -32.509761735919426
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "imageId": 1174184,
+        "externalId": "HKtZrLjib6",
+        "title": "盲文文本",
+        "description": "*On the corpse in the corner",
+        "imagePath": "/game_map_pin/1174184/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        92.5324651558078,
+        62.74931965814118
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "2n7fd15hnl",
+        "title": "盲文文本",
+        "description": "*On the sewers, Near the exit gate there is an elevated drain to teleport.  Go to the end of the tunnel till you see a hole in the wall. Find a dresser in that room",
+        "imageId": 1187516,
+        "imagePath": "/game_map_pin/1187516/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        38.78833386049565,
+        61.58342912463511
+      ],
+      "properties": {
+        "subcategoryExternalId": "sr7zQVJVr8",
+        "externalId": "s45XbavWAf",
+        "title": "卡多根·贝茨",
+        "description": "",
+        "imageId": 1187518,
+        "imagePath": "/game_map_pin/1187518/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        38.75976562500001,
+        60.909073282636484
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "wcnuO2eo2D",
+        "title": "请愿信",
+        "description": "*On the corpse on the bed in top floor",
+        "imageId": 1187523,
+        "imagePath": "/game_map_pin/1187523/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        5.493192009492681,
+        -23.76542232571147
+      ],
+      "properties": {
+        "subcategoryExternalId": "hdH7CrJq0n",
+        "imageId": null,
+        "externalId": "2ZL3RuznWl",
+        "title": "",
+        "description": "*在二楼的窗户，可以在汤姆和萨布丽娜停止工作并通过锁住的门出去时，窃听他们的谈话。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -37.17773437500001,
+        -24.487148563173424
+      ],
+      "properties": {
+        "subcategoryExternalId": "hdH7CrJq0n",
+        "imageId": null,
+        "externalId": "JAKouOhKHc",
+        "title": "",
+        "description": "*去二楼，等待马丁进入房子。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -44.21237288852934,
+        -22.230389998602956
+      ],
+      "properties": {
+        "subcategoryExternalId": "ww9aG3kWSi",
+        "imageId": null,
+        "externalId": "JUYANgdBVH",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        4.482421875000001,
+        -26.194876675795218
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1173692,
+        "externalId": "HzaL0oow2K",
+        "title": "戴森·德莱尼",
+        "description": "*在蓝绿色海龟酒吧",
+        "imagePath": "/game_map_pin/1173692/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -41.13281250000001,
+        -12.297068292853805
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1176445,
+        "externalId": "7wj7ebjWja",
+        "title": "吉赛尔·帕克斯顿",
+        "description": "Hint 1: Giselle and her sister Lottie Paxton are poor and homeless since their mother died\n- *Find the Handwritten Prayer\n\nHint 2: Giselle's dismissal is a subject of some contention with her sister Lottie Paxton\n- *Eavesdrop\n\nHint 3: Giselle has lost the money of the trade union she belongs to\n- \"Personal Question\"\n- \"Are you a Trade Union activist\"\n- \"No support from the Trade Union?\"",
+        "imagePath": "/game_map_pin/1176445/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        0.6913733085324572,
+        -73.33982477632117
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "jA5db8laPw",
+        "title": "铸造厂钥匙",
+        "description": "*On the corpse in the factory",
+        "imageId": 1191968,
+        "imagePath": "/game_map_pin/1191968/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -3.1201171875,
+        -61.39671887310411
+      ],
+      "properties": {
+        "subcategoryExternalId": "ww9aG3kWSi",
+        "imageId": null,
+        "externalId": "8zkUYMYF5C",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -74.68359389932805,
+        60.66861558261844
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "GDrDfvEf1x",
+        "title": "奥布里·里德的第二封信",
+        "description": "*On the edge hidden by the hedge",
+        "imageId": 1191977,
+        "imagePath": "/game_map_pin/1191977/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        52.15063791836509,
+        43.65917682295153
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "imageId": 1191985,
+        "externalId": "6f6PMzmoRm",
+        "title": "奥布里·里德的第三封信",
+        "description": "*在储藏室的箱子上，靠近乔纳森的办公室",
+        "imagePath": "/game_map_pin/1191985/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        1.1797982053262859,
+        -61.37453214839935
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "imageId": 1191987,
+        "externalId": "ASLr6qIbt2",
+        "title": "父亲的保险箱",
+        "description": "*On the 2nd floor locked room in the first house in the introduction",
+        "imagePath": "/game_map_pin/1191987/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        4.320606990460699,
+        20.573305200524885
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "externalId": "IPkb2ZUYEc",
+        "title": "伊丽莎白·阿什伯里",
+        "description": "",
+        "imageId": 1192404,
+        "imagePath": "/game_map_pin/1192404/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        37.92480468750001,
+        60.28340847828245
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "imageId": 1187519,
+        "externalId": "47HZHXwXCj",
+        "title": "盲文文本",
+        "description": "*在床上，卡多根·贝茨被困的地方",
+        "imagePath": "/game_map_pin/1187519/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -25.068389499011484,
+        18.926430837960297
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "JuidbaykJV",
+        "title": "艾米丽的情书",
+        "description": "*On the dresser. Go to 2nd floor of the Crossley Mansion Balcony to Teleport to Emily's House",
+        "imageId": 1191996,
+        "imagePath": "/game_map_pin/1191996/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -65.61035156250001,
+        66.01801815922045
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1192010,
+        "externalId": "H761RVnD9j",
+        "title": "佩里克利斯·贝克",
+        "description": "提示1：佩里克利斯和阿伽门农·贝克对他们当前处境有相反的解释\n- *与阿伽门农交谈后\n- \"你在伦敦的生活？\"\n- \"你以什么为生？\"\n- \"为什么你想离开伦敦？\"\n\n提示2：佩里克利斯和阿伽门农·贝克想离开城市，因为他们感觉情况有些奇怪。\n- *偷听",
+        "imagePath": "/game_map_pin/1192010/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -64.90722656250001,
+        66.28453710088559
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1192036,
+        "externalId": "t9IFLpJ7PP",
+        "title": "阿伽门农·贝克",
+        "description": "提示 1：Pericles",
+        "imagePath": "/game_map_pin/1192036/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -66.0295949194666,
+        71.3128327835675
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "imageId": 1192096,
+        "externalId": "ort1RUeFLh",
+        "title": "报纸文章",
+        "description": "*在二楼走廊的沙发上",
+        "imagePath": "/game_map_pin/1192096/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        3.4681017487813786,
+        20.363125495978796
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "JikxwBkCJm",
+        "title": "德古拉",
+        "description": "*On the 2nd floor coffee table",
+        "imageId": 1192382,
+        "imagePath": "/game_map_pin/1192382/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        2.9003906250000004,
+        17.895114303749143
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "odKEFfEYWF",
+        "title": "个人日志",
+        "description": "*On the desk on the messy table in the first floor living room",
+        "imageId": 1192383,
+        "imagePath": "/game_map_pin/1192383/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        59.01554854873034,
+        36.818927035385535
+      ],
+      "properties": {
+        "subcategoryExternalId": "Hu51uenXdb",
+        "externalId": "cTSv331dHp",
+        "title": "Geoffrey McCullum",
+        "description": "",
+        "imageId": 1192385,
+        "imagePath": "/game_map_pin/1192385/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -8.960527300964879,
+        48.5688700218446
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "5299HjlGtQ",
+        "title": "麦卡勒姆报告",
+        "description": "*On the table  in the theater room",
+        "imageId": 1192387,
+        "imagePath": "/game_map_pin/1192387/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -9.404296875000002,
+        50.28933925329178
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "mAh3Pg7m2j",
+        "title": "威廉·马歇尔的回忆录",
+        "description": "*After getting McCullum's Report, You will receive a theatre key and backstage door will be unlocked. You will go down and continue till you reach a room full of frames of Doris Fletcher's play. You will find a small room in front of the Head Statue and \"The man who was dead\" frame",
+        "imageId": 1192388,
+        "imagePath": "/game_map_pin/1192388/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -9.799804687500002,
+        49.92293545449574
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "zG0GF1mnTw",
+        "title": "固定便条",
+        "description": "*On the wall. After getting McCullum's Report, You will receive a theatre key and backstage door will be unlocked. You will go down and continue till you reach a room full of frames of Doris Fletcher's play. You will find a small room in front of the Head Statue and \"The man who was dead\" frame",
+        "imageId": 1192391,
+        "imagePath": "/game_map_pin/1192391/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -9.008789062500002,
+        49.49667452747045
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "imageId": 1192393,
+        "externalId": "UDuO9mDLuo",
+        "title": "个人笔记本",
+        "description": "*获得麦卡勒姆的报告后，您将收到一个剧院钥匙，后台门将被解锁。您将下楼继续，直到到达一个充满多丽丝·弗莱彻剧本的房间。您会在头部雕像和“那个死去的人”框架前面找到一个小房间。必须找到由普里温守卫持有的顶层保险箱的新钥匙。",
+        "imagePath": "/game_map_pin/1192393/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -11.428305632141944,
+        48.68749252171329
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "YD2bvf9Vdu",
+        "title": "旧情书",
+        "description": "*在梳妆台上，埃德格·斯旺西医生曾被囚禁的地方",
+        "imageId": 1192397,
+        "imagePath": "/game_map_pin/1192397/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -9.096679687500002,
+        44.33956524809713
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "XBCtDr1eMt",
+        "title": "旧多丽丝·弗莱彻日记",
+        "description": "*You have enter the top door on the backstage. Continue till you see a room with a red couch and a lamp on the coffee table",
+        "imageId": 1192402,
+        "imagePath": "/game_map_pin/1192402/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -71.23535156250001,
+        63.37183226679281
+      ],
+      "properties": {
+        "subcategoryExternalId": "CMALi49Cu7",
+        "externalId": "LLi3jEIqwl",
+        "title": "厚实活泼的血样",
+        "description": "*Reward after defeating Leon Agustin",
+        "imageId": 1192413,
+        "imagePath": "/game_map_pin/1192413/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -42.14355468750001,
+        49.35375571830993
+      ],
+      "properties": {
+        "subcategoryExternalId": "sr7zQVJVr8",
+        "imageId": null,
+        "externalId": "ZudKHiP0IT",
+        "title": "木村忠雄",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        39.273321899313906,
+        55.225522609719995
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "imageId": null,
+        "externalId": "vO9tNmUBgH",
+        "title": "湿靴帮纸条",
+        "description": "*击败斯卡尔后的奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        56.00934585438739,
+        34.74437061246011
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1192776,
+        "externalId": "GnggrxA2Q4",
+        "title": "罕见的吸血鬼物种",
+        "description": "*在埃德加·斯旺西博士的办公室的书架上\n\n资料：吸血鬼的种类",
+        "imagePath": "/game_map_pin/1192776/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        21.489257812500004,
+        38.65119833229951
+      ],
+      "properties": {
+        "subcategoryExternalId": "ww9aG3kWSi",
+        "imageId": null,
+        "externalId": "oZLQEyUZXJ",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        22.26808576265746,
+        38.628739096312806
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "externalId": "HolhZZ7SGF",
+        "title": "吸血鬼线索",
+        "description": "*On the table with a chair in the hideout",
+        "imageId": 1192780,
+        "imagePath": "/game_map_pin/1192780/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        69.82890450897892,
+        23.196024990507496
+      ],
+      "properties": {
+        "subcategoryExternalId": "ypcKm2CMFy",
+        "imageId": 1192792,
+        "externalId": "NsUrtGSRXg",
+        "title": "塞缪尔·康纳的钉头锤",
+        "description": "*当你拥抱科科兰·蒂佩茨医生时，你将收到一个小钥匙，用于打开他办公室（靠近乔纳森·里德办公室）内的一个箱子，这会给你另一个小钥匙。现在打开箱子，箱子在地下停尸间的尸体旁边",
+        "imagePath": "/game_map_pin/1192792/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        40.17069583792374,
+        -4.003264915626502
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "externalId": "4q41FhnaIi",
+        "title": "大刀",
+        "description": "*On the lowered area in a basket",
+        "imageId": 1192794,
+        "imagePath": "/game_map_pin/1192794/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -22.376267683181975,
+        63.75882783099036
+      ],
+      "properties": {
+        "subcategoryExternalId": "hdH7CrJq0n",
+        "imageId": null,
+        "externalId": "SyuzXJMhdI",
+        "title": "",
+        "description": "*被达里乌斯·佩特雷斯库拒绝后，前往大门并激活你的血视能力，观察达里乌斯和护士多萝西·克兰的互动",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        10.634765625,
+        68.60852084639889
+      ],
+      "properties": {
+        "subcategoryExternalId": "hdH7CrJq0n",
+        "imageId": null,
+        "externalId": "lot6Pr5JXn",
+        "title": "",
+        "description": "前往二楼并等待克莱顿·达尔比与克里斯蒂娜·波帕在封闭区域碰面",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -2.9481219122789812,
+        -32.44951777280692
+      ],
+      "properties": {
+        "subcategoryExternalId": "hdH7CrJq0n",
+        "imageId": null,
+        "externalId": "g14xCeBwhX",
+        "title": "",
+        "description": "等待西摩·菲什伯恩走进房子以启动血视。你可以在窗户偷听",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        2.9003906250000004,
+        -37.89219554724435
+      ],
+      "properties": {
+        "subcategoryExternalId": "hdH7CrJq0n",
+        "imageId": null,
+        "externalId": "aEfihngS0q",
+        "title": "",
+        "description": "*鲁弗斯会下楼去和一只老鼠说话。前往阳台并使用血视",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -60.01784901589204,
+        64.24431529263707
+      ],
+      "properties": {
+        "subcategoryExternalId": "hdH7CrJq0n",
+        "imageId": null,
+        "externalId": "CiUF94CsLd",
+        "title": "",
+        "description": "*在卡罗琳·普莱斯店外有一个栅栏，你可以在降低的区域看到窗户",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -62.57812500000001,
+        67.676084581981
+      ],
+      "properties": {
+        "subcategoryExternalId": "hdH7CrJq0n",
+        "imageId": null,
+        "externalId": "rJd8SEwHtJ",
+        "title": "",
+        "description": "等待珀里克利斯和阿伽门农进入大门区域进行窃听",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -3.800627153958321,
+        -28.269770171713137
+      ],
+      "properties": {
+        "subcategoryExternalId": "ypcKm2CMFy",
+        "imageId": null,
+        "externalId": "MAW2rCLbat",
+        "title": "弓箭手的斧头",
+        "description": "*拥抱后的奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        15.776367187500002,
+        -21.207458730482642
+      ],
+      "properties": {
+        "subcategoryExternalId": "ypcKm2CMFy",
+        "imageId": null,
+        "externalId": "3Wr3PuP8pX",
+        "title": "布斯的斧头",
+        "description": "*拥抱后的奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -6.3132741820658635,
+        64.3865727162959
+      ],
+      "properties": {
+        "subcategoryExternalId": "ww9aG3kWSi",
+        "imageId": null,
+        "externalId": "NYp0XVCw0x",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -0.26367187500000006,
+        63.25341156651708
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1192810,
+        "externalId": "ecdVhxHL0q",
+        "title": "血液如毒瘾",
+        "description": "*在藏身处的桌子上\n\n背景故事：对血液的需求",
+        "imagePath": "/game_map_pin/1192810/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -55.75857819946795,
+        58.85902221275036
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "imageId": 1192816,
+        "externalId": "huztQQdw7I",
+        "title": "盲人美食家",
+        "description": "*在一楼",
+        "imagePath": "/game_map_pin/1192816/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -49.74609375000001,
+        27.761329874505233
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "externalId": "BMFAz3Td0B",
+        "title": "雷德格雷夫勋爵",
+        "description": "",
+        "imageId": 1192819,
+        "imagePath": "/game_map_pin/1192819/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -38.30465509350658,
+        52.52871036223284
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "imageId": 1192821,
+        "externalId": "5po8tNhRer",
+        "title": "纯净水",
+        "description": "*在医疗柜内\n\n*将其倒在乔纳森·里德在彭布罗克医院办公室的植物上，然后睡3-4次，直到看到植物生长并获得成就“非生命奇异”",
+        "imagePath": "/game_map_pin/1192821/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        51.16352658589427,
+        37.39146746910463
+      ],
+      "properties": {
+        "subcategoryExternalId": "CogFcCHNbB",
+        "imageId": null,
+        "externalId": "Kdq83uZXB9",
+        "title": "米尔顿·库克斯",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        50.185546875,
+        37.47485808497103
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1173943,
+        "externalId": "LlQfsWBYlJ",
+        "title": "米尔顿·胡克斯",
+        "description": "提示1：米尔顿在同事中的声誉平平\n- *与皮帕·霍金斯交谈\n- \"你在伦敦的生活？\"\n- \"员工们应对得如何？\"\n- \"为什么米尔顿这么暴躁？\"\n\n提示2：米尔顿对彭布罗克医院的一些病人进行敲诈\n- *在医院后方尸体上拾取皱巴巴的信件\n\n提示3：米尔顿和霍金斯护士是一对恋人\n- \"你在伦敦的生活？\"\n- \"你的职业是什么？\"\n- \"听起来你过得很艰难？\"\n- *找到钱包后归还给米尔顿",
+        "imagePath": "/game_map_pin/1173943/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        56.99645718685824,
+        41.746981341584394
+      ],
+      "properties": {
+        "subcategoryExternalId": "CogFcCHNbB",
+        "imageId": null,
+        "externalId": "oFmzhPKRt9",
+        "title": "拉克什·钱德拉",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -10.396325602740632,
+        68.81094512307801
+      ],
+      "properties": {
+        "subcategoryExternalId": "CogFcCHNbB",
+        "imageId": null,
+        "externalId": "Mq1rW5PYXx",
+        "title": "巴雷特·刘易斯",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -16.699218750000004,
+        60.65164736580915
+      ],
+      "properties": {
+        "subcategoryExternalId": "CogFcCHNbB",
+        "imageId": null,
+        "externalId": "g2hSsCiCMr",
+        "title": "洛雷塔·斯旺伯勒",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -30.805664062500004,
+        64.18724867664997
+      ],
+      "properties": {
+        "subcategoryExternalId": "CogFcCHNbB",
+        "imageId": null,
+        "externalId": "zCw23BLPFZ",
+        "title": "多萝西·克兰",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -56.73339843750001,
+        63.074865690586634
+      ],
+      "properties": {
+        "subcategoryExternalId": "CogFcCHNbB",
+        "imageId": null,
+        "externalId": "jo7EzxJSV3",
+        "title": "卡洛琳·普莱斯",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -39.3815038198384,
+        36.89073109837459
+      ],
+      "properties": {
+        "subcategoryExternalId": "CogFcCHNbB",
+        "imageId": null,
+        "externalId": "o2Sm9tSfYb",
+        "title": "卡尔霍恩·拉塞尔",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -31.035926190766904,
+        -24.451528615960957
+      ],
+      "properties": {
+        "subcategoryExternalId": "CogFcCHNbB",
+        "imageId": null,
+        "externalId": "SvxJmbXRtU",
+        "title": "Martin Nightingale",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -73.43684479008176,
+        12.757367164359684
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1192965,
+        "externalId": "eI517ArBeW",
+        "title": "有角吸血鬼的传说",
+        "description": "*在篮子上。前往阿斯卡隆庄园的后面，你会看到一扇通往隧道的门，沿着楼梯下去到达房间后\n\n传说：传奇吸血鬼",
+        "imagePath": "/game_map_pin/1192965/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -107.29776734207219,
+        24.20753827866587
+      ],
+      "properties": {
+        "subcategoryExternalId": "Hu51uenXdb",
+        "externalId": "Uu8tUgdgE0",
+        "title": "Harriet Jones",
+        "description": "",
+        "imageId": 1192970,
+        "imagePath": "/game_map_pin/1192970/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -108.32519531250001,
+        24.206889622398023
+      ],
+      "properties": {
+        "subcategoryExternalId": "Hu51uenXdb",
+        "externalId": "kyRXEEreRP",
+        "title": "Harriet Jones",
+        "description": "",
+        "imageId": 1192971,
+        "imagePath": "/game_map_pin/1192971/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -2.1404853675301188,
+        70.22346187082525
+      ],
+      "properties": {
+        "subcategoryExternalId": "YOZuCLHGGW",
+        "imageId": null,
+        "externalId": "NKQdGe8awA",
+        "title": "神圣十字军",
+        "description": "Trigger:\n*Speak to Father Tobias Whitaker\n- \"Personal Question\" \n- \"Have you any family left?\"\n- \"Where did you send him?\"",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        9.140625000000002,
+        69.59589006237651
+      ],
+      "properties": {
+        "subcategoryExternalId": "YOZuCLHGGW",
+        "imageId": null,
+        "externalId": "iH9gML6A3T",
+        "title": "珍藏的纪念品",
+        "description": "触发器：*与克莱顿·达比交谈\n- \"个人问题\"\n- \"关于你与克里斯蒂娜的关系？\"\n- \"我道歉\"\n\n*找到羊毛围巾但不要将其交给克里斯蒂娜·波帕，否则你将失去提示3",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -12.128906250000002,
+        68.64055504059381
+      ],
+      "properties": {
+        "subcategoryExternalId": "YOZuCLHGGW",
+        "imageId": null,
+        "externalId": "s7HDqpEksk",
+        "title": "小饰品及更多",
+        "description": "Trigger: *Speak to Barrett Lewis\n- \"Your life in London?\"\n- \"Noticed anything out of the ordinary?\"\n- \"Violence is increasing?\"",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        48.42773437500001,
+        41.409775832009565
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1173917,
+        "externalId": "vmiBGcX3Sn",
+        "title": "Harvey Fiddick",
+        "description": "*关于彭布罗克医院\n_________________________________\n提示 2：Harvey 因受伤而责怪自己\n答案：\n- 来自 Thoreau Strickland 博士的提示\n- “个人问题”\n- “你似乎对你的家人感到担忧？”\n________________________________\n提示 3：Harvey 的妻子在战争中去世\n答案：\n- *在了解到提示 2 之后\n- “个人问题”\n- “关于你的输血技术？”\n- “告诉我 Fiddick 先生的故事”",
+        "imagePath": "/game_map_pin/1173917/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        53.48144531250001,
+        41.07935114946899
+      ],
+      "properties": {
+        "subcategoryExternalId": "YOZuCLHGGW",
+        "imageId": null,
+        "externalId": "Qi4JcdDKO0",
+        "title": "缺少的原料",
+        "description": "Trigger: *Speak to Dr. Thoreau Strickland\n- \"Your Life in London?\"\n- \"About the Pembroke Hospital?\"\n- \"Do you need my help?\"",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        48.12011718750004,
+        39.09596293630551
+      ],
+      "properties": {
+        "subcategoryExternalId": "YOZuCLHGGW",
+        "imageId": null,
+        "externalId": "yY5nwm4NkO",
+        "title": "阅后即焚",
+        "description": "Trigger: *Eavesdrop Mortimer and Beatrice Goswick then speak to Mortimer\n- \"You tried to kill yourself\"\n- \"Can i help you?\"",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        43.154296875,
+        30.713503990354965
+      ],
+      "properties": {
+        "subcategoryExternalId": "YOZuCLHGGW",
+        "imageId": null,
+        "externalId": "bh2z7tWb9M",
+        "title": "行业工具",
+        "description": "触发条件：*在获得线索2后与克莱·考克斯对话\n- \"个人问题\"\n- \"你妻子的信让你很愤怒？\"\n- \"你不想要回来吗？\"",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        50.36132812500001,
+        38.85682013474361
+      ],
+      "properties": {
+        "subcategoryExternalId": "YOZuCLHGGW",
+        "imageId": null,
+        "externalId": "iHnzch2Z2f",
+        "title": "善恶花园之午夜",
+        "description": "Trigger: *Speak to Milton Hooks\n- \"Your life in London?\"\n- \"What is your occupation?\"\n- \"You sound like you've had it rough?\"",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        54.22851562500001,
+        34.77771580360469
+      ],
+      "properties": {
+        "subcategoryExternalId": "YOZuCLHGGW",
+        "imageId": null,
+        "externalId": "B7SKFUTnH4",
+        "title": "错误目标",
+        "description": "触发：*与塞尔玛·豪克罗夫特交谈\n- \"你在伦敦的生活？\"\n- \"你是这里的病人吗？\"",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        70.13671875000001,
+        20.756113874762082
+      ],
+      "properties": {
+        "subcategoryExternalId": "YOZuCLHGGW",
+        "imageId": null,
+        "externalId": "HaspmDcfc7",
+        "title": "越强就越倒",
+        "description": "*On the Night Shift Quest, You'll find a Death Report on the table next to the corpse in the Morgue Underground to start the investigation",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -23.946672075749174,
+        -19.713514281752246
+      ],
+      "properties": {
+        "subcategoryExternalId": "YOZuCLHGGW",
+        "imageId": null,
+        "externalId": "Xdx8mxU1tc",
+        "title": "吸血鬼猎人非凡",
+        "description": "Trigger: *Speak to Ichabod Throgmorton\n- \"Your life in London?\"\n- \"About your work?\"\n- \"Do you need help?\"\n- *Any decision you make will give you the Hint",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        34.84863281250001,
+        -30.145127183376115
+      ],
+      "properties": {
+        "subcategoryExternalId": "YOZuCLHGGW",
+        "imageId": null,
+        "externalId": "7UnMQsEK8V",
+        "title": "另一具谋杀的身体",
+        "description": "Trigger *When you pick up the Bloody Letter with The Small Pocket Watch",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        11.5576171875,
+        -24.367113562651262
+      ],
+      "properties": {
+        "subcategoryExternalId": "YOZuCLHGGW",
+        "imageId": null,
+        "externalId": "kLF58AJk1U",
+        "title": "盗尸者",
+        "description": "触发条件：*与艾德薇娜·考克斯交谈\n- \"你在伦敦的生活？\"\n- \"关于城镇的这个区域？\"\n- \"在想什么特别的人吗？\"",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        4.306640625000001,
+        -22.39071391683855
+      ],
+      "properties": {
+        "subcategoryExternalId": "YOZuCLHGGW",
+        "imageId": null,
+        "externalId": "iKdkLkmZje",
+        "title": "必需品短缺",
+        "description": "*在你返回码头时与Tom Watts在第3章对话\n- \"你在伦敦的生活？\"\n- \"你怎么能让这个地方继续营业？\"\n- \"有什么我能做的吗？\"",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        10.766601562500002,
+        -34.92197103616377
+      ],
+      "properties": {
+        "subcategoryExternalId": "YOZuCLHGGW",
+        "imageId": null,
+        "externalId": "BVbtl4f4HL",
+        "title": "简单的孝爱象征",
+        "description": "Trigger: *Speak to Seymour Fishburn\n- \"Your Life in London?\"\n- \"What is your role around here?\"\n- \"Is something bothering you?\"",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        5.273437500000001,
+        -25.997549919572112
+      ],
+      "properties": {
+        "subcategoryExternalId": "YOZuCLHGGW",
+        "imageId": null,
+        "externalId": "v8lAK0fkCN",
+        "title": "向受害者致敬",
+        "description": "Trigger: *Speak to Dyson Delaney\n- \"Your life in London?\"\n- ''Anything you like about this district?\"\n- \"No reason at all to rejoice?\"\n- \"All right. Go on\"",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -40.34179687500001,
+        -11.996338401936226
+      ],
+      "properties": {
+        "subcategoryExternalId": "YOZuCLHGGW",
+        "imageId": null,
+        "externalId": "yOyzEArdjU",
+        "title": "战利品",
+        "description": "触发：*吉赛尔·帕克斯顿\n- \"个人问题\"\n- \"你是工会活动家吗\"\n- \"工会没有支持？\"",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -36.554775913217405,
+        30.242969280795563
+      ],
+      "properties": {
+        "subcategoryExternalId": "YOZuCLHGGW",
+        "imageId": null,
+        "externalId": "aZcotPR3ab",
+        "title": "他们就在我们之中",
+        "description": "触发：*提示克拉伦斯后，然后与他说话\n- \"个人问题\"\n- \"你对吸血鬼有什么发现？\"\n- \"你是什么意思你并不孤单？\"\n\n*游戏BUG：某些物品不会被识别，如果你在开始任务前已经拿过该物品",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -36.25488281250001,
+        33.87041555094183
+      ],
+      "properties": {
+        "subcategoryExternalId": "YOZuCLHGGW",
+        "imageId": null,
+        "externalId": "X0q2bBrozd",
+        "title": "艾米莉失踪",
+        "description": "Trigger: *Speak to Charlotte Ashbury\n- \"Your life in London?\"\n- \"What do you do around here?\"\n- \"How are the locals reacting?\"",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -39.94628906250001,
+        38.34165619279595
+      ],
+      "properties": {
+        "subcategoryExternalId": "YOZuCLHGGW",
+        "imageId": null,
+        "externalId": "saOpFqLmN8",
+        "title": "伦敦孤独美食家的惊喜",
+        "description": "Trigger: *Speak to Calhoun Russel\n- \"Your life in London?\"\n- \"Any interesting local news?\"\n- \"I have specific tastes\"",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -40.38574218750001,
+        40.81380923056961
+      ],
+      "properties": {
+        "subcategoryExternalId": "YOZuCLHGGW",
+        "imageId": null,
+        "externalId": "bXYLY0ZR9N",
+        "title": "回到过去的旅程",
+        "description": "触发条件：*前往乔纳森父亲的办公室",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -67.45605468750001,
+        68.13885164925576
+      ],
+      "properties": {
+        "subcategoryExternalId": "YOZuCLHGGW",
+        "imageId": null,
+        "externalId": "nZgKQwzefC",
+        "title": "潘多拉魔盒",
+        "description": "触发：*与引座员高树对话\n- \"你在伦敦的生活？\"\n- \"你在这里做什么？\"\n- \"有些人认为你是吸血鬼？\"\n- *当你获得笔记本时，如果想要收集品就不要阅读它，但如果你想要提示就阅读笔记本",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        50.894314404311324,
+        73.38231414533652
+      ],
+      "properties": {
+        "subcategoryExternalId": "YOZuCLHGGW",
+        "imageId": null,
+        "externalId": "SfyKo3RYGv",
+        "title": "神秘眼球",
+        "description": "触发条件：*找到所有4个盲文文本并交给梅森·斯旺伯勒。收集1个文本然后交给梅森，然后找到另一个，重复相同过程。\n\n*游戏漏洞：\n1. 如果你收集了所有4个文本，游戏会出错并且不接受这些文本。\n\n2. 我得到了密码但门仍然在寻找密码",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        13.359375,
+        -23.443088931121707
+      ],
+      "properties": {
+        "subcategoryExternalId": "CogFcCHNbB",
+        "imageId": null,
+        "externalId": "mje4ULNNwW",
+        "title": "Edwina Cox",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        41.471888048908,
+        31.130426828785737
+      ],
+      "properties": {
+        "subcategoryExternalId": "ypcKm2CMFy",
+        "imageId": null,
+        "externalId": "Em5TR4WD74",
+        "title": "Clay的斧头",
+        "description": "*拥抱后的奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -29.689865282852146,
+        63.9170922865853
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1175020,
+        "externalId": "zvlnY2uyjt",
+        "title": "Dorothy Crane",
+        "description": "提示 1：多萝西免费提供药品和医药\n- *与巴雷特·刘易斯交谈\n- \"我在找护士多萝西·克兰\"\n- *回答任何问题\n\n提示 2：多萝西在祖国是秘密抵抗者\n- *与托比亚斯·惠特克神父交谈\n- \"我在找护士多萝西·克兰\"\n- \"为什么讨厌克兰护士？\"\n\n提示 3：多萝西在罗马尼亚有一个妹妹\n- *找到写给克兰护士的信",
+        "imagePath": "/game_map_pin/1175020/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        8.261718750000002,
+        69.47296854140573
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1174320,
+        "externalId": "bj8rXQ13B3",
+        "title": "Clayton Darby",
+        "description": "提示 1：克莱顿希望报纸刊登有关白教堂状况的真相\n- \"你在伦敦的调查？\"\n- \"你日落后在这儿做什么？\"\n- \"你冒着生命危险揭露真相？\"\n\n提示 2：克莱顿和克里斯蒂娜·波帕上了床，而他本该采访她\n- *在克里斯蒂娜·波帕提示2后\n- \"私人问题\"\n- \"这个女人真的偷了你的钱包？\"\n- \"你是怎么遇见她的？\"",
+        "imagePath": "/game_map_pin/1174320/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        2.9882812500000004,
+        68.76823505122316
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1174319,
+        "externalId": "kdJeXR7bzV",
+        "title": "Cristina Popa",
+        "description": "提示1：克里斯蒂娜因为是移民而找不到任何体面的工作\n\n提示2：克里斯蒂娜被克莱顿·达比怀疑偷了他的钱包\n- *偷听\n\n提示3：克里斯蒂娜存钱资助她哥哥前往英国\n- *在提示2之后\n- \"个人问题\"\n- \"你偷了克莱顿·达比的钱包吗？\"\n- \"也许克莱顿不一样\"\n\n提示4：克里斯蒂娜和克莱顿·达比互相喜欢\n- *与克莱顿·达比交谈获得提示4\n- *不要把羊毛围巾给克里斯蒂娜",
+        "imagePath": "/game_map_pin/1174319/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        56.63750761141428,
+        36.35055932541308
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1174227,
+        "externalId": "mKP3wIIEZ0",
+        "title": "埃德加·斯旺西博士",
+        "description": "提示 1：埃德加不能忍受家人被吸血鬼杀死\n- *参加完玛丽的葬礼后，直接去见埃德加·斯旺西医生，然后再去圣玛丽教堂\n- “你曾经失去过亲人被吸血鬼杀死吗？”\n\n提示 2：埃德加认为自己是圣保罗会中一个特立独行的人\n- *第4章，去西区之前\n- “在西区的帮助”\n- “圣保罗会在哪里”",
+        "imagePath": "/game_map_pin/1174227/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -36.42016982242593,
+        -4.227029864584509
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1173889,
+        "externalId": "zisK8HK0ED",
+        "title": "肖恩·汉普顿",
+        "description": "Hint 1: Sean was abandoned in a catholic orphanage when he was a baby\n- *Speak to Tom Watts\n- \"I'm looking Sean Hampton?\"\n- \"Did he return from his flock?\"\n\nHint 2: Sean got molested by a priest when he was a child\n- *Speak to Ichabod Throgmorton\n- \"I'm looking for Sean Hampton\"\n- \"I respect your refusal\"",
+        "imagePath": "/game_map_pin/1173889/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -38.935546875,
+        -10.487811882056683
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1176442,
+        "externalId": "TnQXm4H2nE",
+        "title": "洛蒂·帕克斯顿",
+        "description": "Hint 1: Lottie, and her sister Giselle Paxton are poor and homeless since their mother died\n- *Find the Handwritten Prayer\n\nHint 2: Lottie helps a lot of Sean Hampton's charities in his shelter\n- *Speak to Giselle Paxton\n- \"Personal Question\"\n-  \"Resentment between you and your sister?\"\n\"Lottie sees herself as an angel?\"\n\nHint 3: Lottie has always refused  to help the  Wet Boot Boys despite their threats\n- *Find the Burnt Letter",
+        "imagePath": "/game_map_pin/1176442/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -41.93901954487643,
+        -12.520462486636944
+      ],
+      "properties": {
+        "subcategoryExternalId": "TTCG3BZvUZ",
+        "imageId": null,
+        "externalId": "kDbiZfZkKC",
+        "title": "吉赛尔的匕首",
+        "description": "*拥抱后的奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        2.9882812500000004,
+        -23.200960808078566
+      ],
+      "properties": {
+        "subcategoryExternalId": "SK3wxDsuD0",
+        "imageId": null,
+        "externalId": "hu4tcFAVm6",
+        "title": "Tom's Revolver",
+        "description": "*Reward after Embrace",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -72.090783882167,
+        -16.38655885426956
+      ],
+      "properties": {
+        "subcategoryExternalId": "sr7zQVJVr8",
+        "imageId": null,
+        "externalId": "0dxb4d44pU",
+        "title": "Rodney Grader",
+        "description": "*到达斯卡尔斯藏身处后。在哈丽特·琼斯房间附近，有一个楼梯向下走，然后向右走进入一个隧道，找到罗德尼·格雷德。在与他交谈之前获取罗德尼的提示5。睡觉后罗德尼会出现在西码头。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        48.51562500000001,
+        11.480024648555816
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1178235,
+        "externalId": "RtsHU3QwYm",
+        "title": "野兽之腹肥沃丰饶",
+        "description": "*在藏身处的梳妆台上。必须在\"阅后即焚\"任务中",
+        "imagePath": "/game_map_pin/1178235/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -42.531974255483306,
+        61.848294511489954
+      ],
+      "properties": {
+        "subcategoryExternalId": "ypcKm2CMFy",
+        "imageId": null,
+        "externalId": "ASOwqeJAdB",
+        "title": "普通斧头",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -66.88476562500001,
+        72.1548895826075
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1192374,
+        "externalId": "ZngnPHjuDd",
+        "title": "阿洛伊修斯·道森",
+        "description": "提示1：他的双胞胎兄弟死于飞机失事\n- *在与阿洛伊修斯·道森会面前先与卡罗琳·普莱斯交谈\n- \"你认识阿洛伊修斯·道森吗\"\n\n提示2：阿洛伊修斯曾是黄金黎明赫尔墨斯教团的成员，直到1900年\n- *在与阿洛伊修斯·道森会面前先与亚瑟交谈\n- \"你认识阿洛伊修斯·道森吗？\"",
+        "imagePath": "/game_map_pin/1192374/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -65.04639846407977,
+        68.16937923078547
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1194233,
+        "externalId": "7NYwIjOqou",
+        "title": "兄弟会的起源",
+        "description": "*不要阅读个人笔记本以获取此收藏品\n\n背景故事：圣保罗兄弟会盗取",
+        "imagePath": "/game_map_pin/1194233/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -69.17431858168501,
+        65.18924159363274
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "imageId": 1194256,
+        "externalId": "8DtilTWphz",
+        "title": "保卢斯·奥勒利安努斯的回忆录",
+        "description": "*你必须在不查看亚瑟笔记本的情况下完成潘多拉魔盒才能获得兄弟会起源收藏品。在收藏品中，你会在右上角看到一个符号，它代表亚瑟区域入口处的4个方格。序列是鱼-圆圈-方块-圆圈-鱼-菱形，这将打开一扇门",
+        "imagePath": "/game_map_pin/1194256/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -68.51074218750001,
+        65.18303007291382
+      ],
+      "properties": {
+        "subcategoryExternalId": "ypcKm2CMFy",
+        "imageId": 1194251,
+        "externalId": "4GQsSVhnL9",
+        "title": "真正的灭龙者",
+        "description": "*你必须在不打开查看亚瑟手记的情况下完成潘多拉的盒子，以获得兄弟会起源收藏品。在收藏品中，你会看到右上角有一个符号，它代表亚瑟区域入口的4个正方形。顺序是鱼-圆-方形-圆-鱼-菱形，它会打开一扇门",
+        "imagePath": "/game_map_pin/1194251/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        3.8719200211557996,
+        68.8918854162365
+      ],
+      "properties": {
+        "subcategoryExternalId": "TTCG3BZvUZ",
+        "imageId": null,
+        "externalId": "LlEKW0jWmn",
+        "title": "克里斯蒂娜的匕首",
+        "description": "*拥抱后的奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -9.404296875000002,
+        67.75939813204413
+      ],
+      "properties": {
+        "subcategoryExternalId": "ypcKm2CMFy",
+        "imageId": null,
+        "externalId": "Bz5r0ZWQm5",
+        "title": "乔的带刺棍棒",
+        "description": "*当你拥抱乔·彼得森时，你将获得一把小钥匙来打开二楼的箱子",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        10.063476562500002,
+        -34.99400375757576
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1174185,
+        "externalId": "bk2uuDOZvy",
+        "title": "西摩·菲什伯恩",
+        "description": "提示1：西摩是个惯犯杀手\n- \"你在伦敦的生活？\"\n- \"你在这里的角色是什么？\"\n- \"有什么事困扰着你吗？\"\n- *找到血腥项链并交给西摩以获得提示\n\n提示2：西摩嫉妒母亲对鲁弗斯的关注\n- *偷听\n\n提示3：西摩的攻击性似乎被他母亲所压制\n- \"个人问题\"\n- \"杀戮的快感？\"\n- \"抵制你的愤怒？\"",
+        "imagePath": "/game_map_pin/1174185/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        9.052734375000002,
+        -34.234512362369856
+      ],
+      "properties": {
+        "subcategoryExternalId": "ypcKm2CMFy",
+        "imageId": null,
+        "externalId": "Mer5YN6nJK",
+        "title": "西摩·重击",
+        "description": "*拥抱后的奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        1.8896484375000002,
+        -25.20494115356912
+      ],
+      "properties": {
+        "subcategoryExternalId": "TTCG3BZvUZ",
+        "imageId": null,
+        "externalId": "fC8nroaJtj",
+        "title": "萨布丽娜的匕首",
+        "description": "*拥抱后获得",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        11.865234375,
+        -22.63429269379352
+      ],
+      "properties": {
+        "subcategoryExternalId": "SK3wxDsuD0",
+        "imageId": null,
+        "externalId": "sLy0lFjIT2",
+        "title": "Edwina的双管猎枪",
+        "description": "*Reward after Embrace",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -23.027343750000004,
+        -19.476950206488414
+      ],
+      "properties": {
+        "subcategoryExternalId": "TTCG3BZvUZ",
+        "imageId": null,
+        "externalId": "pNGz5nk1jL",
+        "title": "Ichabod的木桩",
+        "description": "*拥抱后的奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -38.528998578159054,
+        31.207210265755474
+      ],
+      "properties": {
+        "subcategoryExternalId": "SK3wxDsuD0",
+        "imageId": null,
+        "externalId": "SqGFH4JWBq",
+        "title": "Clarence自动装填手枪",
+        "description": "*Reward after Embrace",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -36.38671875000001,
+        35.28150065789119
+      ],
+      "properties": {
+        "subcategoryExternalId": "TTCG3BZvUZ",
+        "imageId": null,
+        "externalId": "QROgbO0X8v",
+        "title": "Chralotte的木桩",
+        "description": "*Either by completing Emily is Missing Quest or Embrace",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -43.1982421875,
+        34.92197103616377
+      ],
+      "properties": {
+        "subcategoryExternalId": "ypcKm2CMFy",
+        "imageId": null,
+        "externalId": "rx4YZQeuSX",
+        "title": "路易丝砍刀",
+        "description": "*拥抱后的奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -7.866210937500001,
+        67.7427590666639
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1174817,
+        "externalId": "Q8Ajb7xl9u",
+        "title": "Harry Peterson",
+        "description": "Hint 1: Harry has a frail constitution, and is often sick\n- *After getting Hint 2\n- \"How do you feel?\"\n- \"Why don't you just leave this place?\"\n\nHint 2: Harry did not want to live in Whitechapel in the first place\n- *Use mesmerize to go in the house\n- \"Your life in London?\"\n- \"Not happy to live in Whitechapel?\"\n- *Answer anything\n\nHint 3: Harry has a difficult relationship with his father Joe Peterson\n- *Eavesdrop",
+        "imagePath": "/game_map_pin/1174817/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -7.075195312500001,
+        67.35678538806073
+      ],
+      "properties": {
+        "subcategoryExternalId": "SK3wxDsuD0",
+        "imageId": null,
+        "externalId": "nDK7tEoT7O",
+        "title": "乔的半自动手枪",
+        "description": "*拥抱哈里·彼得森后的奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -62.48888273904173,
+        67.25050737067684
+      ],
+      "properties": {
+        "subcategoryExternalId": "TTCG3BZvUZ",
+        "imageId": null,
+        "externalId": "dEKDp5mlOR",
+        "title": "Charle的警棍",
+        "description": "*拥抱后的奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        42.439475761102926,
+        28.053594427907143
+      ],
+      "properties": {
+        "subcategoryExternalId": "ypcKm2CMFy",
+        "imageId": null,
+        "externalId": "vNJQJsFDLe",
+        "title": "牛顿之剑",
+        "description": "*拥抱后的奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        46.27283862047066,
+        34.85490275089053
+      ],
+      "properties": {
+        "subcategoryExternalId": "TTCG3BZvUZ",
+        "imageId": null,
+        "externalId": "zpockMHD3c",
+        "title": "Gwyneth的外科刀",
+        "description": "*拥抱后的奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        53.67617361400182,
+        40.39399672895098
+      ],
+      "properties": {
+        "subcategoryExternalId": "TTCG3BZvUZ",
+        "imageId": null,
+        "externalId": "31KWoTKAg2",
+        "title": "Throreau的外科刀",
+        "description": "*When you embrace Dr Thoreau Strickland, you will receive a Small Key that will open a chest on the office next to Jonathan's office",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -12.056467389168835,
+        58.13220350485505
+      ],
+      "properties": {
+        "subcategoryExternalId": "SK3wxDsuD0",
+        "imageId": null,
+        "externalId": "NzWYmHB6wt",
+        "title": "Albert的左轮手枪",
+        "description": "*Reward after Embrace",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -31.888431432446243,
+        -21.686082922641678
+      ],
+      "properties": {
+        "subcategoryExternalId": "ypcKm2CMFy",
+        "imageId": null,
+        "externalId": "2Bfnqvj4qZ",
+        "title": "罗德尼的镰刀",
+        "description": "*拥抱后的奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -31.157226562500004,
+        -21.739091217718567
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1194407,
+        "externalId": "ENMIX08xVw",
+        "title": "Rodney Grader",
+        "description": "提示 2：罗德尼害怕湿靴帮的报复\n- \"你在伦敦的生活？\"\n- \"关于这个地区？\"\n\n提示 3：罗德尼是伊妮德·吉灵汉姆之子的朋友\n- \"你在伦敦的生活？\"\n- \"关于本地人物？\"\n\n提示 4：罗德尼杀死湿靴帮成员后逃跑\n- *找到未完成的信并阅读即可获得提示\n\n提示 5：罗德尼的罪行实际上是无意的\n- *与罗德尼进行第二次对话\n- \"你不能留在这里\"",
+        "imagePath": "/game_map_pin/1194407/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        93.07088951897369,
+        63.61961498962225
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "imageId": null,
+        "externalId": "7OiBXyq8k3",
+        "title": "化学家日记",
+        "description": "*击杀其中怪物时获得奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        4.526367187500001,
+        -74.5081553020789
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1191969,
+        "externalId": "BdAXj7dWTy",
+        "title": "嘲笑卫兵",
+        "description": "*On the bookshelf in the 3rd floor office pf the factory\n\nLore: The Guard Of Priwen",
+        "imagePath": "/game_map_pin/1191969/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        44.736328125,
+        3.995780512963038
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1174276,
+        "externalId": "2dzo9DUEet",
+        "title": "龙之禁锢",
+        "description": "*On the corpse in the sewers\n\nLore: The Brotherhood of Saint-Paul Stole",
+        "imagePath": "/game_map_pin/1174276/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        55.72265625,
+        32.7688004848817
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1174880,
+        "externalId": "oCJ6GpKuRo",
+        "title": "关于大蒜和木桩的使用",
+        "description": "*在塞尔玛·豪克罗夫特的床头柜上\n\n传说：吸血鬼的弱点",
+        "imagePath": "/game_map_pin/1174880/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        93.99902343750001,
+        57.468589192089354
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1178207,
+        "externalId": "VMIHzzoOEo",
+        "title": "灭除鼠患",
+        "description": "*在下水道的尸体上\n\n传说：斯卡尔族",
+        "imagePath": "/game_map_pin/1178207/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        86.74804687500001,
+        67.8424164732793
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1178833,
+        "externalId": "BbcpHBBq9a",
+        "title": "神圣符号和星卡尔铜",
+        "description": "*在尸体靠墙的地方\n\n背景故事：吸血鬼的弱点",
+        "imagePath": "/game_map_pin/1178833/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        52.41985009994804,
+        73.26643774159193
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1178196,
+        "externalId": "WeLzKcWQxE",
+        "title": "吸血鬼啃食我们的灵魂！",
+        "description": "*On the drawer in the bedroom\n\nLore: The Need For Blood",
+        "imagePath": "/game_map_pin/1178196/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        21.884765625,
+        63.29293924364835
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1178161,
+        "externalId": "JaJYh2Nwk3",
+        "title": "伟大狩猎：向我们逝去的战友致敬！",
+        "description": "*在二楼的保险箱里\n\n传说：伟大狩猎",
+        "imagePath": "/game_map_pin/1178161/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -11.645507812500002,
+        67.1016555307692
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1174825,
+        "externalId": "9x6jMLpqFL",
+        "title": "专业吸血鬼猎人",
+        "description": "*在哈里·彼得森房子二楼卧室桌子上\n\n传说：普里文守卫",
+        "imagePath": "/game_map_pin/1174825/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -24.433593750000004,
+        66.19600891267761
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1175017,
+        "externalId": "Hp3z0Kt1x0",
+        "title": "Vrykolakas的古董雕像",
+        "description": "*On the shelf in the storage room of Darius Petrescu\n\nLore: The Origin Of Vampires",
+        "imagePath": "/game_map_pin/1175017/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -8.613281250000002,
+        50.00773901463687
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1192392,
+        "externalId": "JTkigdQrY3",
+        "title": "吸血鬼骑士",
+        "description": "On the bookshelf. After getting McCullum's Report, You will receive a theatre key and backstage door will be unlocked. You will go down and continue till you reach a room full of frames of Doris Fletcher's play. You will find a small room in front of the Head Statue and \"The man who was dead\" frame\n\nLore: The Legendary Vampires",
+        "imagePath": "/game_map_pin/1192392/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -17.08176144538392,
+        48.15149387670647
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1179636,
+        "externalId": "ux2rrdNXZN",
+        "title": "血液的威胁",
+        "description": "*On the vampire corpse\n\nLore: The Skals",
+        "imagePath": "/game_map_pin/1179636/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -40.682696030822676,
+        48.061611037617666
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1192405,
+        "externalId": "RIOxtfjTAI",
+        "title": "纯血异端",
+        "description": "*On the table in the shop of Kimura Todao\n\nLore: The Origins Of Vampires",
+        "imagePath": "/game_map_pin/1192405/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -66.84082031250001,
+        68.65655498475738
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1184457,
+        "externalId": "hEJAebL4Ai",
+        "title": "失落知识之罪",
+        "description": "*在亚瑟·高树的桌子上\n\n传说：大狩猎",
+        "imagePath": "/game_map_pin/1184457/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -73.03710937500001,
+        62.935234870604724
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1184441,
+        "externalId": "02da7ZpJ4z",
+        "title": "伏尔科德的暴力",
+        "description": "*Reward after defeating Leon Agustin\n\nLore: Species Of Vampires",
+        "imagePath": "/game_map_pin/1184441/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -51.28417968750001,
+        29.954934549656144
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1179663,
+        "externalId": "2kR5alaz60",
+        "title": "Ascalon 俱乐部的历史和目的",
+        "description": "*在办公室房间的桌子上\n\n知识：阿斯卡隆的故事",
+        "imagePath": "/game_map_pin/1179663/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -53.08593750000001,
+        27.254629577800088
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1179672,
+        "externalId": "sP0MwaTSLk",
+        "title": "血液的娱乐性使用",
+        "description": "*On the basked in the basement. Near the lamp\n\nLore: The Need For Blood",
+        "imagePath": "/game_map_pin/1179672/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -30.362895736809516,
+        17.7766108236754
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1182656,
+        "externalId": "IYfwVHeFaP",
+        "title": "失落图书馆",
+        "description": "*On the left bedside table in the 2nd floor bedroom\n\nLore: The Brotherhood Of Saint-Paul Stole",
+        "imagePath": "/game_map_pin/1182656/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        4.174804687500001,
+        17.476432197195518
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1192384,
+        "externalId": "fhKftnj3eA",
+        "title": "血夜悲剧",
+        "description": "*On the 2nd floor office\n\nLore: The Great Hunt",
+        "imagePath": "/game_map_pin/1192384/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -23.8623046875,
+        -11.910353555774101
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1173790,
+        "externalId": "SnN13RmHgX",
+        "title": "新实践，新战术",
+        "description": "*在箱子里的尸体上",
+        "imagePath": "/game_map_pin/1173790/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -32.03613281250001,
+        -13.32548488559793
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1176480,
+        "externalId": "3BxW9lRyjm",
+        "title": "Skals的起源",
+        "description": "*在酒桶上，夜庇护所外\n\n传说：Skals",
+        "imagePath": "/game_map_pin/1176480/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -29.882812500000004,
+        -24.166802085303225
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1176436,
+        "externalId": "oSgZ0RhmP8",
+        "title": "吸血鬼派系和Skals",
+        "description": "*Buy from Martin Nightingale\n\nLore: The Story Of Ascalon",
+        "imagePath": "/game_map_pin/1176436/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -70.04882812500001,
+        -9.145486056167277
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1176497,
+        "externalId": "0e3KyqsqJE",
+        "title": "伊康族的霸权",
+        "description": "*关于哈丽特·琼斯的房间\n\n传说：吸血鬼的种类",
+        "imagePath": "/game_map_pin/1176497/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        92.373046875,
+        63.665760337788385
+      ],
+      "properties": {
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": null,
+        "externalId": "rlT4jmVmzp",
+        "title": "血女神异端",
+        "description": "*在药柜上，靠近通往安全屋的门。必须在神秘Oculus任务中\n\n传说：传奇吸血鬼",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -7.646484375000001,
+        68.73638345287266
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1174314,
+        "externalId": "RqasMyOk2U",
+        "title": "乔·彼得森",
+        "description": "提示1：乔的敲诈勒索让巴雷特·刘易斯陷入了困难的财务状况\n- *与巴雷特·刘易斯交谈\n\n提示2：乔和巴雷特·刘易斯曾经是好朋友\n- *在提示1之后\n- \"你在伦敦的生活？\"\n- \"你喜欢欺负别人吗？\"\n- *说任何话\n\n提示3：他与儿子哈里的关系很复杂\n- *偷听\n\n提示4：乔因为犯罪名声而找不到合法工作\n- *在他们家里找到拒绝信并阅读",
+        "imagePath": "/game_map_pin/1174314/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -11.293945312500002,
+        68.80004113882613
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1174815,
+        "externalId": "L4rEbn7fKx",
+        "title": "巴雷特·刘易斯",
+        "description": "Hint 1: Barret is in a tough financial situation because of Joe's extortions\n\n- \"Your life in London?\"\n- \"How is business?\"\n\nHint 2: Barrett and Joe Peterson used to be good friends\n- *After Joe Peterson Hint 2\n\nHint 3: Barrett had an affair with Joe Peterson's wife\n- \"Your life in London?\"\n- \"Noticed anything out of the ordinary?\"\n- \"Violence is increasing?\"\n- * Do the Trinkets and More Quest and check the item",
+        "imagePath": "/game_map_pin/1174815/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -2.9882812500000004,
+        70.3335333600625
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1174315,
+        "externalId": "kGx32kKNid",
+        "title": "托比亚斯·惠特克 神父",
+        "description": "Hint 1: Tobias has already killed several sick people during his crusade to cleanse the city\n- \"Personal Question\"\n- \"Have you any family left?\"\n- \"Where did you send him?\"\n\nHint 2: Tobias crusade is funded by his apprentice grave digging activities\n- *After the Holy Crusade Quest\n- \"Personal Question\"\n- \"Your disciple was a grave robber\"",
+        "imagePath": "/game_map_pin/1174315/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        2.9882812500000004,
+        -25.760319754713873
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1173696,
+        "externalId": "7NXSgbASbI",
+        "title": "萨布丽娜·卡文迪什",
+        "description": "提示1：萨布丽娜被汤姆·沃茨教导如何使用枪支来保护自己\n- *偷听\n\n提示2：萨布丽娜隐藏了她对老板汤姆·沃茨的真实感受\n- *阅读撕掉的日记页\n\n提示3：萨布丽娜认为码头很危险，在那里感到不安全\n- *离开码头后返回\n- \"你在伦敦的生活？\"\n- \"关于码头？\"\n- *询问任何事情\n\n提示4：萨布丽娜曾经被一名客户袭击过\n- *在提示1之后\n- \"个人问题\"\n- \"你为什么有枪？\"\n- \"枪支很危险\"",
+        "imagePath": "/game_map_pin/1173696/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -23.11328684525745,
+        -21.24708616940329
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1175348,
+        "externalId": "o5crHsUQyt",
+        "title": "伊卡博德·斯罗格莫顿",
+        "description": "Hint 1: Ichabod believes vampires have killed Jack Gillingham\n- \"Your life in London?\"\n- \"About this neighborhood?\"\n\nHint2: Ichabod considers himself the protector of Sean Hampton's night shelter\n- \"Your life in London?\"\n- \"About your work?\"\n- \"Do you need help?\"\n- *Complete the Vampire Hunter Extraordinaire and any decision will not matter\n\nHint 3: Ichabod is not considered a real vampire hunter by the Guard of Priwen\n- *Find the The Guard of Priwen note and read it",
+        "imagePath": "/game_map_pin/1175348/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -37.00195312500001,
+        34.05265942137599
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1179638,
+        "externalId": "ZNQ5Ploxbh",
+        "title": "夏洛特·阿什伯里",
+        "description": "提示1：夏洛特在阿什伯里女士的孤儿院长大，后来被女士本人收养\n- \"你在伦敦的生活？\"\n- \"关于你的收养？\"\n- \"你是如何遇见阿什伯里女士的？\"\n\n提示2：夏洛特对吸血鬼了解很多，似乎并不害怕他们\n- \"你在伦敦的生活？\"\n- \"你对我了解什么\"\n- *回答任何问题\n\n提示3：夏洛特仍然希望成为吸血鬼，尽管她母亲不同意\n- *找到个人日记并阅读",
+        "imagePath": "/game_map_pin/1179638/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -40.47363281250001,
+        37.055177106660814
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1179642,
+        "externalId": "L5Q1gld6Xe",
+        "title": "卡尔霍恩·拉塞尔",
+        "description": "Hint 2: Calhoun does not consider the seriousness and dangerousness of epidemic\n- \"Your life in London?\"\n- \"Tell me about the neighborhood?\"\n- \"It's false\"\n\nHint 3: Calhoun likes good restaurants and succulent tables\n- \"Your life in London?\"\n- \"Any interesting local news?\"\n- \"Is food all that interests you?\"\nHint 3: Calhoun likes good restaurants and succulent tables\n- \"Your life in London?\"\n- \"Any interesting local news?\"\n- \"Is food all that interests you?\"",
+        "imagePath": "/game_map_pin/1179642/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -42.275390625,
+        34.016241889667036
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1192049,
+        "externalId": "7oKhlCHtrZ",
+        "title": "Louise Teasdale",
+        "description": "Hint 1: Louise's father has tried to rescue her\n- *Find the Pinned Letter and read it\n\nHint 2: Louise 's father has been killed while trying to find and rescue her\n- *Find the Soiled Letter and read it\n\nHint 3: Louise's abductor wanted to make her a vampire\n- *You will receive the Recent Diary after you save Louise. read it to get the hint\n\nHint 4: Louise has run away from her house after a violent argument with her father",
+        "imagePath": "/game_map_pin/1192049/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -31.6192192508633,
+        26.010490499890643
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1192424,
+        "externalId": "z3igyt1B0X",
+        "title": "木村忠雄",
+        "description": "提示1：忠雄被一个发现了他对天文学热情的吸血鬼抓获\n- \"个人问题\"\n- \"告诉我你被绑架的事？\"\n- \"为什么不当场牺牲你？\"\n\n提示2：忠雄是一个怀念家乡的富有地主\n- \"你在伦敦的生活？\"\n- \"你以什么为生？\"\n\n提示3：忠雄离开了家人，多年未见儿子\n- \"个人问题\"\n- \"怀念你的家乡\"\n- \"你的家人怎么样？\"",
+        "imagePath": "/game_map_pin/1192424/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -66.13769531250001,
+        68.00757101804007
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1192089,
+        "externalId": "np15DCRTeI",
+        "title": "Usher Talltree",
+        "description": "Hint 1: Usher seems to know that many Londoners have been recently murdered\n- *Speaking with Usher will trigger the hint\n\nHint 2: Usher is aware of the real circumstances of Mary's death\n- \"Your life in London?\"\n-\"Tell me about your neighborhood\"",
+        "imagePath": "/game_map_pin/1192089/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -56.6375063563042,
+        63.85627930540198
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1192368,
+        "externalId": "7LB003ZQRf",
+        "title": "Carol Price",
+        "description": "Hint 1: Carol's mother has always taken good care of her when she was injured\n- \"Your life in London?\"\n- \"Awake at night?\"\n- \"Work is not easy?\"\n\nHint 2: Carol is often hurt by her \"clumsy\" mother\n- *Eavesdrop\n\nHint 3: Carol seems unable to remove herself from her mother's influence, for now.\n- *After Carolyn Price Hint 4\n- \"Personal Question\"\n- \"Your mother is a threat to you\"\n- \"Your mother will kill you\"",
+        "imagePath": "/game_map_pin/1192368/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -57.568359375,
+        62.87518837993309
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1192110,
+        "externalId": "PAqelZgreI",
+        "title": "Carolyn Price",
+        "description": "Hint 1: Carolyn has always taken good care of her daughter whenever she was injured\n- *Speak to Carol Price\n\nHint 2: Carolyn often hurts her daughter by \"clumsiness\"\n- *Eavesdrop\n\nHint 3: Carolyn admits she has a thing for her former physician, Doctor Jonathan Reid\n- \"Your life in London?\"\n- \"Tell me about your occupation\"\n- \"Tell me about yourself\"\n\nHint 4: Carolyn may be suffering from some unknown mental disorder\n- *After Hint Hint 1 and 2\n- \"Personal Question\"\n- \"You abuse your daughter!\"",
+        "imagePath": "/game_map_pin/1192110/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -12.963867187500002,
+        58.147518599073585
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1174293,
+        "externalId": "570LC7shlF",
+        "title": "Albert Palmer",
+        "description": "提示 1：艾伯特想向湿靴帮证明他有当帮派成员的潜质\n-*提示2后\n- \"私人问题\"\n- \"关于你和父亲的关系？\"\n- \"他可能很危险\"\n\n提示 2：艾伯特偷了父亲的药品\n- *窃听\n\n提示 3：艾伯特加入疝靴帮后本该见帮派首领\n- *必须阅读湿靴帮的笔记",
+        "imagePath": "/game_map_pin/1174293/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -17.182617187500004,
+        59.998986120604464
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1174308,
+        "externalId": "U8jcZQGPPt",
+        "title": "Loretta Swanborough",
+        "description": "Hint 1: The Swanborough miracle elixir is a fraud\n- *Buy the Swanborough elixir and check it on your inventory to trigger hint\n\nHint 2: Loretta believes she gave Mason Swanborough a goal by having him create the miracle elixir\n- \"Personal Question\"\n- \"Why feel so guilty about your brother?\"\n- \"Easing your remorse?\"\n\nHint 3: Loretta still blames herself for Mason Swanborough's accident\n- *Find Loretta's Letter inside Mason Swanborough's house",
+        "imagePath": "/game_map_pin/1174308/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -13.93963552186966,
+        62.82058206684536
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1175067,
+        "externalId": "NgGV2g3LcJ",
+        "title": "萧顺",
+        "description": "提示2：小顺的丈夫死于疾病\n- \"你在伦敦的生活？\"\n- \"关于你丈夫的死？\"\n\n提示3：小顺为没有发现丈夫的病情而感到内疚\n- *提示2之后\n- \"你在伦敦的生活？\"\n- \"你为什么要责备自己？\"\n\n提示4：小顺希望找到一个能发挥自己作用的地方\n- *询问何时在白教堂\n- \"个人问题\"\n- \"你现在感觉如何？\"\n- \"这是明智的态度\"",
+        "imagePath": "/game_map_pin/1175067/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -17.76468522575603,
+        65.06278073027197
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1187528,
+        "externalId": "5TK62kWxVl",
+        "title": "卡多根·贝茨",
+        "description": "Hint 1: Cadogan is making money by renting squalid flats to the Whitechapel migrants\n- \"Your life in London?\"\n- \"What is your business exactly?\"\n- *Answer anything\n\nHint 2: Cadogan sees Dorothy Crane's dispensary as a fine thing, since she keeps his tenants in good health\n-*After seeing Dorothy Crane\n- \"Any new for Nurse Crane's dispensary?\"\n- \"I'm sure you know more\"\n\nHint 3: Cadogan has been attacked by vengeful Skals he used to exploit as his tenants\n- *Find the Petition Letter",
+        "imagePath": "/game_map_pin/1187528/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        15.205078125000002,
+        73.65254484149818
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1175009,
+        "externalId": "Wtu75mxrF8",
+        "title": "Richard Nithercott",
+        "description": "Hint 1: Richard sees Camellia as his muse, and a \"locked mystery\"\n- \"Personal Question\"\n- \"Why seek inspiration in Whitechapel?\"\n- \"Do you not think it a little morbid?\"\n\nHint 2: Richard has never succeeded in poetry\n- *Find the Editor Refusal Letter\n\nHint 3 Richards feels guilty about depending on his parents financial support\n- \"Personal Question\"\n- \"Do you make a living from your writing?\"\n- \"A rick artist is rare\"",
+        "imagePath": "/game_map_pin/1175009/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        40.29785156250001,
+        36.63316209558658
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1174117,
+        "externalId": "bJMpKPCs7X",
+        "title": "科科伦·蒂佩特斯 医生",
+        "description": "Hint 1: Corcoran is convinced that Gwyneth Branagan is overqualified\n- \"Your life in london?\"\n- \"Tell me about the staff?\"\n- \"Positive Characters?\"\n\nHint 2: Corcoran is exhausting himself, and refuse to stop working\n- \"Your life in London?\"\n- \"Tell me about the staff?\"\n- \"Anyone stands out?\"\n\nHint 3: Corcoran is a drug addict\n- *Eavesdrop",
+        "imagePath": "/game_map_pin/1174117/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        48.86718750000001,
+        39.16414104768742
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1173933,
+        "externalId": "lkxpLohkN3",
+        "title": "碧翠斯·戈斯威克",
+        "description": "*关于彭布罗克医院\n_________________________________\n提示 1: 贝亚特丽斯质疑彭布罗克医院的效率\n- “关于接待处的投诉？”",
+        "imagePath": "/game_map_pin/1173933/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        47.724609375,
+        39.740986355883564
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1173932,
+        "externalId": "h8tekcoTv4",
+        "title": "莫蒂默·戈斯威克",
+        "description": "提示1：莫蒂默打算结束自己的生命\n- *偷听\n\n提示2：莫蒂默没有感染西班牙流感\n- *找到M.戈斯维克的医疗档案并阅读\n\n提示3：莫蒂默似乎决心要自杀\n- *在\"阅后即焚\"任务中找到折叠的信件",
+        "imagePath": "/game_map_pin/1173932/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        51.89941406250001,
+        41.934976500546604
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1173912,
+        "externalId": "EYe9oK9MhM",
+        "title": "韦弗利·阿克罗伊德医生",
+        "description": "提示1：韦弗利不赞成现代医学方法\n- \"你在伦敦的生活？\"\n- \"关于彭布罗克医院的事？\"\n\n提示2：韦弗利不会利用法规来贬低梭罗·斯特里克兰，尽管他们是竞争对手\n- *在提示3之后可用\n- \"个人问题\"\n- \"斯特里克兰治愈流感的机会\"\n\n提示3：韦弗利的技能备受推崇，但他被视为傲慢自大\n- *拾取警告信后，前往斯旺西的信件将添加到物品栏中。阅读信件以触发提示",
+        "imagePath": "/game_map_pin/1173912/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        4.042968750000001,
+        -24.08658925822804
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1173694,
+        "externalId": "ClH1fTNW6b",
+        "title": "托·瓦特",
+        "description": "*在蓝绿色海龟酒吧",
+        "imagePath": "/game_map_pin/1173694/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -4.698001092568159,
+        -28.032404296930352
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1174180,
+        "externalId": "E6ccaZKokP",
+        "title": "弓箭手·伍德比德",
+        "description": "提示1：自从安德鲁加入普里温守卫队后，阿彻就没有收到儿子的任何消息\n- *在从吸血鬼手中救出他并与他交谈后\n\n提示2：阿彻曾经领导湿靴帮，当时他们还是个受人尊敬的帮派\n- \"你在伦敦的生活？\"\n- \"关于这个街区？\"\n- \"帮派的情况呢？\"\n\n提示3：阿彻将儿子的失踪归咎于普里温守卫队\n- \"个人问题\"\n- \"告诉我关于普里温守卫队的事？\"",
+        "imagePath": "/game_map_pin/1174180/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -63.36156885426449,
+        66.92679599761574
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1192082,
+        "externalId": "bgbsSCLyNY",
+        "title": "查尔斯·杰罗姆·奥尔布赖特",
+        "description": "提示 1：查尔斯认为一个杀人狂正隐藏在流行病背后\n- “你在伦敦的生活？”\n- “告诉我关于你的社区？”\n- “哪个杀手？”\n\n提示 2：查尔斯因为将无辜之人送上绞刑架而被降职\n- *找到报纸文章并阅读\n\n提示 3：查尔斯不相信死刑\n- *提示2之后\n- “个人问题”\n- “是真的吗，你被降职了？”\n- “死刑是可耻的”",
+        "imagePath": "/game_map_pin/1192082/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        55.85449218750001,
+        40.78054143186033
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1173895,
+        "externalId": "ielYCyyDqj",
+        "title": "拉克什·查达纳",
+        "description": "*在医疗帐篷外\n_________________________________\n提示 1",
+        "imagePath": "/game_map_pin/1173895/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        41.61621093750001,
+        28.188243641850313
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1174206,
+        "externalId": "vuMF53mlkj",
+        "title": "牛顿沼地",
+        "description": "提示 1：纽顿和奥斯瓦尔德·撒切尔在战时被轰炸活埋\n- *与奥斯瓦尔德·撒切尔交谈\n\n提示 2：纽顿和奥斯瓦尔德·撒切尔彼此相爱\n- *窃听\n\n提示 3：纽顿不接受自己的同性恋身份\n- *提示2之后\n- “个人问题”\n- “你对奥斯瓦尔德·撒切尔感觉如何？”\n提示 4：纽顿对老鼠的恐惧让他无法营救失踪的朋友\n- “你在伦敦的生活？”\n- “你为什么留在这里？”",
+        "imagePath": "/game_map_pin/1174206/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        37.074755749719806,
+        35.03879331158827
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1178791,
+        "externalId": "4tofnWhkfg",
+        "title": "奥斯瓦尔德·撒切尔",
+        "description": "提示 1：奥斯瓦尔德和纽顿·布莱特在战争中被活埋\n- “个人问题”\n- “你害怕被封闭”\n- “你被埋葬了”\n\n提示 2：奥斯瓦尔德和纽顿·布莱特彼此相爱\n- *窃听\n\n提示 3：奥斯瓦尔德更倾向于自己处理幽闭恐惧症，并不想要医院治疗\n- “你在伦敦的生活？”\n- “你为什么被锁起来？”\n- “幽闭恐惧症？”",
+        "imagePath": "/game_map_pin/1178791/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        45.263671875,
+        34.66935854524545
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1174119,
+        "externalId": "fROZbdABLL",
+        "title": "格温妮丝·布拉纳根",
+        "description": "Hint 1: Gwyneth is overqualified as a nurse, according to Corcoran Tippets\n- *Speak to Dr Tippets\n\nHint 2: Gwyneth has been suspected of neglecting her professional duties\n- *Find the Letter of Swansea on Dr. Strickland's office\n\nHint 3: Gwyneth has covered Corcoran Tippet's medical error\n- *After Hint 5\n- \"Personal Question\"\n- \"Tippet's medical error\"\n- *Answer anything\n*Do not answer that you will cover for Dr. Tippets, So you won't lose the hint for Dr. Tippet. You have to say it to him.",
+        "imagePath": "/game_map_pin/1174119/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        54.39407276488967,
+        36.603110479461414
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1173888,
+        "externalId": "s7CizTukhw",
+        "title": "皮帕·霍金斯",
+        "description": "*关于彭布罗克医院\n_________________________________\n提示 2：皮帕为能付费的患者预留床位\n- *比阿特丽斯·戈西克的提示\n- “你在伦敦的生活？”\n- “对这里接待的不满？”\n- “告诉我关于你的到来？”",
+        "imagePath": "/game_map_pin/1173888/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        4.086914062500001,
+        -35.6037187406973
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1174148,
+        "externalId": "bETUUHr6g5",
+        "title": "Rufus Kingberry",
+        "description": "Hint 1: Rufus views Stella Fishburn as a mother.\n- \"Personal Question\"\n- \"Are you alone?\"\n- *Answer anything\n\nHint 2: Rufus feels threatened by Seymour Fishburn's behavior\n- *After Seymour Hint 2\n- \"Personal Question\"\n- \"What do you think of Seymour?\"\n- *Answer anything\n\nHint 3: Rufus sole friend is a rat\n- *Eavesdrop\n\nHint 4: Rufus's parents died when he was a child\n- *After Hint 3\n- \"Personal Question\"\n- \"Your only friend is a rat?\"",
+        "imagePath": "/game_map_pin/1174148/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        12.524414062500002,
+        -24.206889622398023
+      ],
+      "properties": {
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1174139,
+        "externalId": "wRUUjwJPMi",
+        "title": "埃德温娜·考克斯",
+        "description": "提示1：埃德维娜和布思·迪格比最近为了报复杀死了一个人\n- \"你在伦敦的生活？\"\n- \"告诉我你的生活？\"\n- \"我完全不感兴趣\"\n\n提示3：埃德维娜怀疑布思·迪格比不忠\n- *在提示2之后\n- \"个人问题\"\n- \"你对布思·迪格比的感情？\"\n- \"我没那么容易震惊\"\n\n提示4：埃德维娜不信任布思·迪格比的领导能力，因为他很迷信\n- \"个人问题\"\n- \"关于布思对怪物的信仰？\"",
+        "imagePath": "/game_map_pin/1174139/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -66.13769531250001,
+        -34.59704151614416
+      ],
+      "properties": {
+        "subcategoryExternalId": "Lv2ntuyQUv",
+        "imageId": 1176490,
+        "externalId": "OGRZi2AxzI",
+        "title": "小袋钱币",
+        "description": "On the corpse in the ground. Spoils of war Quest",
+        "imagePath": "/game_map_pin/1176490/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        9.536132812500002,
+        -61.20679804263029
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -18720.89453125,
+          "y": 31132.76171875,
+          "z": -716.0740966796875
+        },
+        "externalId": "rp4BsIjzGd",
+        "title": "火与阳",
+        "description": "*在第一次介绍动作时你躲藏的房子里。在一楼的书架上\n\n传说：吸血鬼的弱点",
+        "subcategoryExternalId": "XRPLAk7cDZ",
+        "imageId": 1173843,
+        "imagePath": "/game_map_pin/1173843/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        54.2594666740982,
+        73.4335641314445
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -6426.3828125,
+          "y": -29550.330078125,
+          "z": 1243.53125
+        },
+        "externalId": "x42laV7dov",
+        "title": "梅森·斯旺伯勒",
+        "description": "提示1：斯万伯勒奇迹药剂是个骗局\n- *与洛蕾塔·斯万伯勒交谈\n\n提示2：梅森尽管失明但仍在继续练习化学 \n- *偷听\n\n提示3：梅森是最初提出斯万伯勒奇迹药剂想法的人\n- *必须拥有催眠术3级\n- \"私人问题\"\n- \"你姐姐在利用你吗？\"",
+        "subcategoryExternalId": "uKbhQfOkwA",
+        "imageId": 1178185,
+        "imagePath": "/game_map_pin/1178185/{size}.webp"
+      }
+    }
+  ]
+}

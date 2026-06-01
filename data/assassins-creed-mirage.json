@@ -1,0 +1,16 @@
+{
+  "slug": "assassins-creed-mirage",
+  "title": "Assassin's Creed Mirage",
+  "heroUrl": "/assets/images/games/assassins-creed-mirage/hero.webp",
+  "maps": [
+    {
+      "name": "Baghdad",
+      "slug": "baghdad",
+      "thumbnailUrl": "/assets/images/games/assassins-creed-mirage/baghdad.webp",
+      "updatedAt": "2026-02-19T02:04:59Z",
+      "markerCount": 482,
+      "categoryCount": 6,
+      "subcategoryCount": 32
+    }
+  ]
+}

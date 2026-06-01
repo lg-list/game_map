@@ -1,0 +1,3707 @@
+{
+  "metadata": {
+    "externalId": "sbQY4shYEd",
+    "name": "Rainbow Island",
+    "slug": "rainbow-island",
+    "baseTilePath": "https://storage-cdn.wemod.com/maps/3853eb1c-93ec-4e82-8e2c-279d96088ac9/tiles",
+    "isChecklistPublished": true,
+    "isInActiveDevelopment": false,
+    "backgroundColor": "#00618e",
+    "minZoom": 1,
+    "maxZoom": 6,
+    "initialZoom": null,
+    "tmsEnabled": false,
+    "categories": [
+      {
+        "externalId": "CyEa2OACJ7",
+        "gameMapExternalId": "sbQY4shYEd",
+        "title": "收藏品",
+        "color": "#345828",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "oXMSd7YDB5",
+        "gameMapExternalId": "sbQY4shYEd",
+        "title": "未命名子分类",
+        "color": "#38304f",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "subcategories": [
+      {
+        "externalId": "R6zkigHGGL",
+        "categoryExternalId": "CyEa2OACJ7",
+        "title": "地图数据节点",
+        "icon": "roundies:games-and-sports-target",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "CGm2KyRmIw",
+        "categoryExternalId": "CyEa2OACJ7",
+        "title": "研究无人机",
+        "icon": "roundies:utility-2-rocket",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "UmGDmr3oxi",
+        "categoryExternalId": "CyEa2OACJ7",
+        "title": "宝藏舱",
+        "icon": "sphere",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "HydowLNu3R",
+        "categoryExternalId": "oXMSd7YDB5",
+        "title": "加尔多史莱姆",
+        "icon": "smile",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "l8poars97o",
+        "categoryExternalId": "oXMSd7YDB5",
+        "title": "浆果门",
+        "icon": "rhombus",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "e2gadCV3t5",
+        "categoryExternalId": "oXMSd7YDB5",
+        "title": "精炼厂链接",
+        "icon": "loading",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "DRjoCQR4ZA",
+        "categoryExternalId": "oXMSd7YDB5",
+        "title": "传送器",
+        "icon": "portal-exit",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "6vp0CYTxRa",
+        "categoryExternalId": "oXMSd7YDB5",
+        "title": "传送器激活器",
+        "icon": "roundies:home-equipment-plate",
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "playerLocationDeltas": {
+      "deltas": {
+        "scaleX": 0.00009474720214483092,
+        "scaleY": 0.00009863875726407716,
+        "offsetX": -107.26073983920037,
+        "offsetY": 486.7122896684935,
+        "gameCoordsMap": {
+          "x": "x",
+          "y": "z",
+          "z": "y"
+        }
+      },
+      "referencePoints": [
+        {
+          "lngLat": {
+            "lat": 6.300537630541074,
+            "lng": 80.91147265081038
+          },
+          "gameCoords": {
+            "x": 746.1295776367188,
+            "y": 7.159397125244141,
+            "z": 556.03466796875
+          }
+        },
+        {
+          "lngLat": {
+            "lat": -17.63080845617048,
+            "lng": 56.839416747601504
+          },
+          "gameCoords": {
+            "x": 492.2365417480469,
+            "y": 16.12360954284668,
+            "z": 289.9891052246094
+          }
+        }
+      ]
+    }
+  },
+  "features": [
+    {
+      "coordinates": [
+        60.93017578125,
+        -5.769035866122138
+      ],
+      "properties": {
+        "subcategoryExternalId": "CGm2KyRmIw",
+        "imageId": null,
+        "gameCoords": {
+          "x": 538.4854125976562,
+          "y": 33.490234375,
+          "z": 424.4079895019531
+        },
+        "externalId": "tbmPmwPu3M",
+        "title": "",
+        "description": "隧道入口上方",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        62.182617187500014,
+        -0.4394488164139574
+      ],
+      "properties": {
+        "subcategoryExternalId": "CGm2KyRmIw",
+        "imageId": null,
+        "gameCoords": {
+          "x": 550.3560791015625,
+          "y": 36.80165100097656,
+          "z": 480.9556884765625
+        },
+        "externalId": "VP6Y9mMazf",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        58.62304687500001,
+        1.4500404973608028
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 512.3849487304688,
+          "y": 60.599998474121094,
+          "z": 504.399169921875
+        },
+        "externalId": "2l3i6RbzPz",
+        "title": "",
+        "description": "奖励：\n- 蓝图：肉旗",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        80.96923828125001,
+        7.427836528738354
+      ],
+      "properties": {
+        "subcategoryExternalId": "CGm2KyRmIw",
+        "imageId": null,
+        "gameCoords": {
+          "x": 745.9247436523438,
+          "y": 17.548791885375977,
+          "z": 570.8623046875
+        },
+        "externalId": "1RR2YJhmHd",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        89.38476562500001,
+        -18.020527657852327
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 834.1778564453125,
+          "y": 23.36539649963379,
+          "z": 288.925537109375
+        },
+        "externalId": "h8xi2JMJBb",
+        "title": "",
+        "description": "奖励：\n- 蓝图：水果旗",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        94.04296875000001,
+        -18.87510275035656
+      ],
+      "properties": {
+        "subcategoryExternalId": "CGm2KyRmIw",
+        "imageId": null,
+        "gameCoords": {
+          "x": 883.945068359375,
+          "y": 1.4023460149765015,
+          "z": 270.16534423828125
+        },
+        "externalId": "I7aUV4b1IV",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        68.48876953125001,
+        -30.391830328088133
+      ],
+      "properties": {
+        "subcategoryExternalId": "CGm2KyRmIw",
+        "imageId": null,
+        "gameCoords": {
+          "x": 615.9899291992188,
+          "y": 18.13971710205078,
+          "z": 142.00332641601562
+        },
+        "externalId": "2naWlcWUbn",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        75.08056640625001,
+        -37.037639679771374
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 684.7176513671875,
+          "y": 0.9600000381469727,
+          "z": 47.61370086669922
+        },
+        "externalId": "6OPEzIaz9m",
+        "title": "",
+        "description": "奖励：\n- 蓝图：蔬菜旗",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        27.971191406250004,
+        -24.08658925822803
+      ],
+      "properties": {
+        "subcategoryExternalId": "R6zkigHGGL",
+        "imageId": null,
+        "gameCoords": {
+          "x": 190.37380981445312,
+          "y": 3.90000057220459,
+          "z": 214.03932189941406
+        },
+        "externalId": "9TaGgmNsOA",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        19.555664062500018,
+        -17.99963161491185
+      ],
+      "properties": {
+        "subcategoryExternalId": "R6zkigHGGL",
+        "imageId": null,
+        "gameCoords": {
+          "x": 100.26883697509766,
+          "y": 15.970988273620605,
+          "z": 290.16558837890625
+        },
+        "externalId": "rRWAKxbUsT",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        43.5134137592454,
+        -17.352647885885073
+      ],
+      "properties": {
+        "subcategoryExternalId": "HydowLNu3R",
+        "imageId": null,
+        "gameCoords": {
+          "x": 354.1946716308594,
+          "y": -1.7635538578033447,
+          "z": 298.6526794433594
+        },
+        "externalId": "VoZ4cOZJgi",
+        "title": "荧光史莱姆巨兽",
+        "description": "食性：水果\n#\n奖励：\n- 荧光史莱姆\n- 罐子\n#\n解锁通往条纹史莱姆门的路径",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        42.750645911427036,
+        -13.045539997601963
+      ],
+      "properties": {
+        "subcategoryExternalId": "l8poars97o",
+        "imageId": null,
+        "gameCoords": {
+          "x": 345.44537353515625,
+          "y": -2.0198025703430176,
+          "z": 347.54022216796875
+        },
+        "externalId": "T18eBTiSV7",
+        "title": "条纹史莱姆门",
+        "description": "需要条纹史莱姆结晶解锁",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        40.84716796875001,
+        -13.38961959174759
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 317.29339599609375,
+          "y": -1.0900003910064697,
+          "z": 347.8403625488281
+        },
+        "externalId": "QCJZ5BpEfU",
+        "title": "",
+        "description": "在条纹史莱姆门后面\n#\n奖励：\n- 储罐增强器",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        41.87988281250001,
+        -14.732386081418454
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 346.1551818847656,
+          "y": -2.429999828338623,
+          "z": 326.3060302734375
+        },
+        "externalId": "OPIjGnU6lq",
+        "title": "",
+        "description": "在荧光史莱姆巨兽之后的洞穴内\n#\n奖励：\n- 海岸岩石",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        42.07763671875001,
+        -29.70713934813415
+      ],
+      "properties": {
+        "subcategoryExternalId": "DRjoCQR4ZA",
+        "imageId": null,
+        "gameCoords": {
+          "x": 337.7483215332031,
+          "y": 9.419999122619629,
+          "z": 158.2736358642578
+        },
+        "externalId": "AANveEMGGJ",
+        "title": "",
+        "description": "传送到星光海滩\n#\n击败浣熊史莱姆巨兽后激活",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        43.59375000000001,
+        -29.859701442126756
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 345.596435546875,
+          "y": -1.826124906539917,
+          "z": 151.32769775390625
+        },
+        "externalId": "gwRe5hjNdx",
+        "title": "",
+        "description": "奖励：\n- 蓝图：粉色传送站",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        43.26416015625001,
+        -33.02708758002873
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 349.15509033203125,
+          "y": 11.760725975036621,
+          "z": 104.16796875
+        },
+        "externalId": "oxDdWC2AW6",
+        "title": "",
+        "description": "奖励：\n- 蓝图：沙滩伞",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        31.376953125000004,
+        -13.56056174508143
+      ],
+      "properties": {
+        "subcategoryExternalId": "CGm2KyRmIw",
+        "imageId": null,
+        "gameCoords": {
+          "x": 229.65957641601562,
+          "y": 8.655620574951172,
+          "z": 337.1962890625
+        },
+        "externalId": "NcsDfNp7oP",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        35.37597656250001,
+        -8.015715997869052
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 269.6529235839844,
+          "y": 2.442788600921631,
+          "z": 399.3118896484375
+        },
+        "externalId": "yqIruZdH1z",
+        "title": "",
+        "description": "奖励：\n- 心形电池",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        31.311035156250007,
+        -6.489983332670647
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 229.93597412109375,
+          "y": 27.57672119140625,
+          "z": 418.61431884765625
+        },
+        "externalId": "0Wm5VETJ7A",
+        "title": "",
+        "description": "奖励：\n- 蓝图：小巨石",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        35.99121093750001,
+        -0.812961001870832
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 275.1583251953125,
+          "y": -4.324479103088379,
+          "z": 474.2267761230469
+        },
+        "externalId": "4qh9q94i0z",
+        "title": "",
+        "description": "奖励：\n- 蓝图：水力炮塔",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        33.59619140625001,
+        5.287887414011337
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 247.41189575195312,
+          "y": 9.319999694824219,
+          "z": 542.2769165039062
+        },
+        "externalId": "48Za5L4SPb",
+        "title": "",
+        "description": "奖励：\n- 蓝图：温室长椅",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        36.80419921875001,
+        13.197164523281984
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 275.2079772949219,
+          "y": 32.31613540649414,
+          "z": 629.6470947265625
+        },
+        "externalId": "URGoWEkGgS",
+        "title": "",
+        "description": "奖励：\n- 蓝图：音响",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        29.992675781250007,
+        -17.853290114098016
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 207.87811279296875,
+          "y": 19.579999923706055,
+          "z": 288.91961669921875
+        },
+        "externalId": "IVATN4gN0g",
+        "title": "",
+        "description": "奖励：\n- 蓝图：大型粉色盆景",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        30.036621093750004,
+        -18.79191774423444
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 210.18711853027344,
+          "y": 48.560001373291016,
+          "z": 278.1991271972656
+        },
+        "externalId": "EH2Dsw6Bbc",
+        "title": "",
+        "description": "奖励：\n- 蓝图：#1史莱姆舞台",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        30.4541015625,
+        -26.961245770526972
+      ],
+      "properties": {
+        "subcategoryExternalId": "HydowLNu3R",
+        "imageId": null,
+        "gameCoords": {
+          "x": 229.80615234375,
+          "y": 12.670197486877441,
+          "z": 195.21945190429688
+        },
+        "externalId": "VmT1RFPsWR",
+        "title": "棉花胖史莱姆",
+        "description": "饮食：蔬菜\n#\n奖励：\n- 棉花史莱姆\n- 罐子\n#\n解锁通往传送器激活器的路径",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        22.785644531249996,
+        -28.63274679922585
+      ],
+      "properties": {
+        "subcategoryExternalId": "6vp0CYTxRa",
+        "imageId": null,
+        "gameCoords": {
+          "x": 136.31793212890625,
+          "y": -0.8422391414642334,
+          "z": 160.9196319580078
+        },
+        "externalId": "YosQObtvbD",
+        "title": "",
+        "description": "激活传送器",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        23.840332031250004,
+        -24.18684742852122
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 139.0142364501953,
+          "y": -3.219999313354492,
+          "z": 220.51651000976562
+        },
+        "externalId": "PRzSc6agKJ",
+        "title": "",
+        "description": "奖励：\n- 能量芯片",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        23.42285156250003,
+        -21.92266320932589
+      ],
+      "properties": {
+        "subcategoryExternalId": "CGm2KyRmIw",
+        "imageId": null,
+        "gameCoords": {
+          "x": 143.3739013671875,
+          "y": 8.017908096313477,
+          "z": 246.62326049804688
+        },
+        "externalId": "3KYMa2g7vN",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        23.071289062500004,
+        -21.002471054356747
+      ],
+      "properties": {
+        "subcategoryExternalId": "e2gadCV3t5",
+        "imageId": null,
+        "gameCoords": {
+          "x": 139.41714477539062,
+          "y": 8.017908096313477,
+          "z": 253.09967041015625
+        },
+        "externalId": "WgVW8tvP1E",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        14.941406250000004,
+        -28.57487404744696
+      ],
+      "properties": {
+        "subcategoryExternalId": "DRjoCQR4ZA",
+        "imageId": null,
+        "gameCoords": {
+          "x": 59.91117477416992,
+          "y": 7.52903413772583,
+          "z": 164.7431640625
+        },
+        "externalId": "5AxzxR5qrA",
+        "title": "",
+        "description": "传送到星光海滩\n#\n启用激活装置后激活",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        13.864746093750002,
+        -29.036960648558207
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 39.42280960083008,
+          "y": -2.084872007369995,
+          "z": 156.82754516601562
+        },
+        "externalId": "tM2seNjDDh",
+        "title": "",
+        "description": "奖励：\n- 蓝图：秋千",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        18.215332031250004,
+        -16.825574258731464
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 86.21997833251953,
+          "y": 0.8519998788833618,
+          "z": 293.71282958984375
+        },
+        "externalId": "UcYIWvY9OT",
+        "title": "",
+        "description": "奖励：\n- 蓝图：翡翠柏树",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        23.81835937500002,
+        -13.710035342476672
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 140.55189514160156,
+          "y": 19.096162796020508,
+          "z": 334.6821594238281
+        },
+        "externalId": "mMhaUWteRN",
+        "title": "",
+        "description": "奖励：\n- 蓝图：欢乐雕像",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        25.686035156250004,
+        -8.080984688871993
+      ],
+      "properties": {
+        "subcategoryExternalId": "HydowLNu3R",
+        "imageId": null,
+        "gameCoords": {
+          "x": 157.27975463867188,
+          "y": 1.2510002851486206,
+          "z": 383.9595031738281
+        },
+        "externalId": "fSPWpSVXbp",
+        "title": "",
+        "description": "食性：任意\n#\n奖励：\n- 粉色史莱姆\n- 罐子\n#\n解锁间歇泉，可以将你弹到通往传送器激活装置的悬崖上",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        20.500488281250007,
+        -7.667441482726062
+      ],
+      "properties": {
+        "subcategoryExternalId": "6vp0CYTxRa",
+        "imageId": null,
+        "gameCoords": {
+          "x": 113.4505844116211,
+          "y": 13.874882698059082,
+          "z": 403.5367736816406
+        },
+        "externalId": "SGaOw0EJhh",
+        "title": "",
+        "description": "激活传送器",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        13.293457031250002,
+        -8.537565350804016
+      ],
+      "properties": {
+        "subcategoryExternalId": "DRjoCQR4ZA",
+        "imageId": null,
+        "gameCoords": {
+          "x": 45.75242233276367,
+          "y": 12.860320091247559,
+          "z": 392.90045166015625
+        },
+        "externalId": "6TNXbZD0Zw",
+        "title": "",
+        "description": "传送到余烬山谷\n#\n启用激活装置后激活",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        9.008789062500002,
+        -7.340674831854912
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -10.486959457397461,
+          "y": -1.4426106214523315,
+          "z": 411.4092102050781
+        },
+        "externalId": "QX8Lz8qAEZ",
+        "title": "",
+        "description": "奖励：\n- 蓝图：翡翠柏树群",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        10.0634765625,
+        -41.57436130598913
+      ],
+      "properties": {
+        "subcategoryExternalId": "R6zkigHGGL",
+        "imageId": null,
+        "gameCoords": {
+          "x": -8.47960090637207,
+          "y": 20.517301559448242,
+          "z": -13.03072738647461
+        },
+        "externalId": "3QmDbyu3or",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        26.059570312500007,
+        -57.06463027327854
+      ],
+      "properties": {
+        "subcategoryExternalId": "R6zkigHGGL",
+        "imageId": null,
+        "gameCoords": {
+          "x": 164.1138916015625,
+          "y": 12.43382453918457,
+          "z": -281.9853820800781
+        },
+        "externalId": "vaTltKdqf2",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        34.94104184868681,
+        -71.30913265974382
+      ],
+      "properties": {
+        "subcategoryExternalId": "R6zkigHGGL",
+        "imageId": null,
+        "gameCoords": {
+          "x": 264.1743469238281,
+          "y": 54.03982925415039,
+          "z": -654.715087890625
+        },
+        "externalId": "LdqhtLBh8Q",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        9.73388671875,
+        -37.12528628496679
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -14.536993980407715,
+          "y": 0.3845439553260803,
+          "z": 43.65357208251953
+        },
+        "externalId": "ZijZqFnlDE",
+        "title": "",
+        "description": "奖励：\n- 蓝图：花架拱门",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -3.6914062500000004,
+        -43.48481212891601
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -156.42149353027344,
+          "y": -3.491152763366699,
+          "z": -47.31926345825195
+        },
+        "externalId": "JPDTqfsbe3",
+        "title": "",
+        "description": "奖励：\n- 蓝图：沙滩灯",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -2.4829101562500004,
+        -54.851315259686054
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -141.89877319335938,
+          "y": 22.491687774658203,
+          "z": -236.73915100097656
+        },
+        "externalId": "CzeYpYxcop",
+        "title": "",
+        "description": "奖励：\n- 蓝图：金色缠结雕像",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        10.151367187500002,
+        -48.32703913063474
+      ],
+      "properties": {
+        "subcategoryExternalId": "DRjoCQR4ZA",
+        "imageId": null,
+        "gameCoords": {
+          "x": 1.1239075660705566,
+          "y": 12.629999160766602,
+          "z": -128.2479705810547
+        },
+        "externalId": "5ccdQyaZzM",
+        "title": "",
+        "description": "传送到彩虹原野\n#\n启用激活装置后激活",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        8.811035156250002,
+        -47.88688085106898
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -15.656305313110352,
+          "y": 24.55000114440918,
+          "z": -111.68125915527344
+        },
+        "externalId": "nVXwVt176N",
+        "title": "",
+        "description": "奖励：\n- 蓝图：欢快雕像",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        10.546875000000002,
+        -46.42271253466718
+      ],
+      "properties": {
+        "subcategoryExternalId": "l8poars97o",
+        "imageId": null,
+        "gameCoords": {
+          "x": -2.820708751678467,
+          "y": 12.629999160766602,
+          "z": -90.8788833618164
+        },
+        "externalId": "zwZ4z98kon",
+        "title": "猎手史莱姆门",
+        "description": "需要猎手史莱姆结晶解锁",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        19.489746093750004,
+        -44.5591634152918
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 95.44966888427734,
+          "y": 6.210155963897705,
+          "z": -61.539833068847656
+        },
+        "externalId": "ZnNZpf3hoH",
+        "title": "",
+        "description": "奖励：\n- 蓝图：海岸岩柱",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -12.568359375000002,
+        -70.50290843859872
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -241.60562133789062,
+          "y": -4.415804862976074,
+          "z": -617.5892944335938
+        },
+        "externalId": "4v741wSR1Z",
+        "title": "",
+        "description": "奖励：\n- 蓝图：特技炮",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        15.44677734375,
+        -56.09655575056831
+      ],
+      "properties": {
+        "subcategoryExternalId": "CGm2KyRmIw",
+        "imageId": null,
+        "gameCoords": {
+          "x": 49.2285270690918,
+          "y": 4.590000152587891,
+          "z": -258.2658386230469
+        },
+        "externalId": "TmIASsPcbJ",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        19.116210937500004,
+        -54.03358633521084
+      ],
+      "properties": {
+        "subcategoryExternalId": "l8poars97o",
+        "imageId": null,
+        "gameCoords": {
+          "x": 93.43749237060547,
+          "y": 1.0899989604949951,
+          "z": -223.56900024414062
+        },
+        "externalId": "rt7gocSl85",
+        "title": "蜂蜜波特门",
+        "description": "需要蜂蜜波特来解锁",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        21.840820312500004,
+        -55.49130362820423
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 116.4678955078125,
+          "y": 1.5300015211105347,
+          "z": -253.29525756835938
+        },
+        "externalId": "VKE15OTwIi",
+        "title": "",
+        "description": "奖励：\n- 储存电池",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        22.60986328125003,
+        -56.035225783698735
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 123.91075134277344,
+          "y": 26.639999389648438,
+          "z": -257.20306396484375
+        },
+        "externalId": "FxQsi4Kqu7",
+        "title": "",
+        "description": "奖励：\n- 蓝图：紫色传送站",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        25.224609375000004,
+        -55.949199823367444
+      ],
+      "properties": {
+        "subcategoryExternalId": "l8poars97o",
+        "imageId": null,
+        "gameCoords": {
+          "x": 161.24351501464844,
+          "y": 1.0899981260299683,
+          "z": -260.5574951171875
+        },
+        "externalId": "MeTkdnSxBB",
+        "title": "石头史莱姆门",
+        "description": "需要石头史莱姆结晶解锁",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        32.76123046875001,
+        -56.71656572651469
+      ],
+      "properties": {
+        "subcategoryExternalId": "CGm2KyRmIw",
+        "imageId": null,
+        "gameCoords": {
+          "x": 235.29698181152344,
+          "y": 17.809999465942383,
+          "z": -269.53192138671875
+        },
+        "externalId": "s3YSImU6vv",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        32.49755859375001,
+        -55.16631894125084
+      ],
+      "properties": {
+        "subcategoryExternalId": "HydowLNu3R",
+        "imageId": null,
+        "gameCoords": {
+          "x": 228.40426635742188,
+          "y": 15.049997329711914,
+          "z": -245.1039581298828
+        },
+        "externalId": "ubbIEKYezJ",
+        "title": "蜂蜜胖胖史莱姆",
+        "description": "饮食：水果\n#\n奖励：\n- 蜂蜜史莱姆\n- 罐子",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        29.223632812500007,
+        -53.17311920264066
+      ],
+      "properties": {
+        "subcategoryExternalId": "l8poars97o",
+        "imageId": null,
+        "gameCoords": {
+          "x": 199.30043029785156,
+          "y": 5.345481872558594,
+          "z": -211.2327423095703
+        },
+        "externalId": "gw2A7WeRDM",
+        "title": "磷光史莱姆球门",
+        "description": "需要磷光水晶球才能解锁",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        35.94726562500001,
+        -54.36775852406839
+      ],
+      "properties": {
+        "subcategoryExternalId": "l8poars97o",
+        "imageId": null,
+        "gameCoords": {
+          "x": 268.6392517089844,
+          "y": 2.0261878967285156,
+          "z": -223.6945037841797
+        },
+        "externalId": "A0fkYkUP8G",
+        "title": "磷光史莱姆球门",
+        "description": "需要磷光水晶球才能解锁",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        36.36474609375001,
+        -54.711928848406075
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 268.6392517089844,
+          "y": 2.0261878967285156,
+          "z": -223.6945037841797
+        },
+        "externalId": "iaeRKN6bXP",
+        "title": "",
+        "description": "奖励：\n- 蓝图：高大的粉色珊瑚柱",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        32.95898437500001,
+        -52.77618568896169
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 240.4854278564453,
+          "y": -5.186972141265869,
+          "z": -198.56202697753906
+        },
+        "externalId": "VsxEc7t1XW",
+        "title": "",
+        "description": "奖励：\n- 储罐增强器",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        34.34326171875001,
+        -51.38549506922317
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 249.82888793945312,
+          "y": 22.763364791870117,
+          "z": -173.08816528320312
+        },
+        "externalId": "3iIWq6Pif3",
+        "title": "",
+        "description": "奖励：\n- 蓝图：蔬菜史莱姆诱饵",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        46.20849609375,
+        -54.83866361297511
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 377.1850891113281,
+          "y": 15.793578147888184,
+          "z": -239.5498809814453
+        },
+        "externalId": "4nsOycRW40",
+        "title": "",
+        "description": "奖励：\n- 蓝图：苔藓母鸡雕像",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        33.09082031250001,
+        -58.13592099138228
+      ],
+      "properties": {
+        "subcategoryExternalId": "l8poars97o",
+        "imageId": null,
+        "gameCoords": {
+          "x": 248.41311645507812,
+          "y": 10.219999313354492,
+          "z": -304.83648681640625
+        },
+        "externalId": "58WixhAQqg",
+        "title": "钓鱼史莱姆便便门",
+        "description": "需要钓鱼史莱姆球才能解锁",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        39.22119140625,
+        -59.32198054010194
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 304.1866760253906,
+          "y": 19.35999870300293,
+          "z": -324.15667724609375
+        },
+        "externalId": "AlegdUeB4M",
+        "title": "",
+        "description": "奖励：\n- 蓝图：洞穴柱",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        37.11181640625001,
+        -57.37393841871411
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 285.6688232421875,
+          "y": 67.61000061035156,
+          "z": -289.1296691894531
+        },
+        "externalId": "y6k9Bs6NOa",
+        "title": "",
+        "description": "奖励：\n- 蓝图：宽架",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        40.82519531250001,
+        -56.872995663796374
+      ],
+      "properties": {
+        "subcategoryExternalId": "l8poars97o",
+        "imageId": null,
+        "gameCoords": {
+          "x": 312.7890319824219,
+          "y": 16.09000015258789,
+          "z": -272.7560729980469
+        },
+        "externalId": "N0C9afvmH2",
+        "title": "蝴蝶史莱姆门",
+        "description": "需要蝴蝶史莱姆结晶解锁",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        43.50585937499999,
+        -59.65664225341023
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 350.05419921875,
+          "y": 32.88291931152344,
+          "z": -335.3101501464844
+        },
+        "externalId": "tBfHXWB5bV",
+        "title": "",
+        "description": "奖励：\n- 蓝图：摩天轮",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        8.854980468750002,
+        -59.00662762374203
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -20.63823127746582,
+          "y": 21,
+          "z": -323.7592468261719
+        },
+        "externalId": "3eAvz5qAre",
+        "title": "",
+        "description": "奖励：\n- 蓝图：轻松清风风扇",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        16.633300781250004,
+        -65.52206835254366
+      ],
+      "properties": {
+        "subcategoryExternalId": "CGm2KyRmIw",
+        "imageId": null,
+        "gameCoords": {
+          "x": 61.39772033691406,
+          "y": 37.27150344848633,
+          "z": -475.3767395019531
+        },
+        "externalId": "B9k8hPUX9J",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        18.171386718750004,
+        -64.82090711923601
+      ],
+      "properties": {
+        "subcategoryExternalId": "HydowLNu3R",
+        "imageId": null,
+        "gameCoords": {
+          "x": 85.20783996582031,
+          "y": -1.1479071378707886,
+          "z": -455.9688415527344
+        },
+        "externalId": "8CylKtnNB1",
+        "title": "猎手巨史莱姆",
+        "description": "食物：肉类\n#\n奖励：\n- 猎手史莱姆\n- 罐子",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        14.479980468750002,
+        -63.93737246791484
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 48.30913162231445,
+          "y": 0.5399978160858154,
+          "z": -429.8175048828125
+        },
+        "externalId": "rKQG0K84TO",
+        "title": "",
+        "description": "奖励：\n- 蓝图：精致茶杯",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        15.974121093750002,
+        -63.35212928507873
+      ],
+      "properties": {
+        "subcategoryExternalId": "l8poars97o",
+        "imageId": null,
+        "gameCoords": {
+          "x": 38.30955123901367,
+          "y": 32.010005950927734,
+          "z": -424.2049560546875
+        },
+        "externalId": "fS3n67pbnQ",
+        "title": "猎手史莱姆门",
+        "description": "需要猎手史莱姆结晶解锁",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        15.183105468750002,
+        -63.616982339758266
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 49.20766067504883,
+          "y": 14.00999927520752,
+          "z": -427.6852722167969
+        },
+        "externalId": "rWy7ay5FGS",
+        "title": "",
+        "description": "奖励：\n- 蓝图：新手巨史莱姆陷阱",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        14.501953125000002,
+        -67.85070210450823
+      ],
+      "properties": {
+        "subcategoryExternalId": "l8poars97o",
+        "imageId": null,
+        "gameCoords": {
+          "x": 44.57988739013672,
+          "y": -2.9323277473449707,
+          "z": -540.8355712890625
+        },
+        "externalId": "u4ecF8huWD",
+        "title": "石头史莱姆门",
+        "description": "需要石头史莱姆结晶解锁",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        13.029785156250004,
+        -66.55700652350046
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 31.307506561279297,
+          "y": 36.910003662109375,
+          "z": -496.0808410644531
+        },
+        "externalId": "YjKSvXEB1l",
+        "title": "",
+        "description": "奖励：\n- 蓝图：金色棉花雕像",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        15.578613281250002,
+        -66.18713899424186
+      ],
+      "properties": {
+        "subcategoryExternalId": "l8poars97o",
+        "imageId": null,
+        "gameCoords": {
+          "x": 54.87371826171875,
+          "y": 1.600000262260437,
+          "z": -496.9100036621094
+        },
+        "externalId": "vTrhOfVymx",
+        "title": "猎手史莱姆门",
+        "description": "需要猎手史莱姆结晶解锁",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        24.082031250000004,
+        -67.75108007583425
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 140.06724548339844,
+          "y": 63.41274642944336,
+          "z": -540.427734375
+        },
+        "externalId": "0W5V1anpPN",
+        "title": "",
+        "description": "奖励：\n- 蓝图：蓝色红树林",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        19.511718750000004,
+        -68.1960522982067
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 89.80345916748047,
+          "y": 16.839752197265625,
+          "z": -551.2120971679688
+        },
+        "externalId": "L9nvQh9vfC",
+        "title": "",
+        "description": "奖励：\n- 蓝图：高大紫色螺旋蘑菇",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        6.65377923084631,
+        -72.72307623669462
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -41.37714385986328,
+          "y": 11.836348533630371,
+          "z": -703.4345092773438
+        },
+        "externalId": "ZYi9WpFC2G",
+        "title": "",
+        "description": "奖励：\n- 能量芯片",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        20.36865234375,
+        -71.05266461121373
+      ],
+      "properties": {
+        "subcategoryExternalId": "l8poars97o",
+        "imageId": null,
+        "gameCoords": {
+          "x": 101.88690185546875,
+          "y": 79.01287841796875,
+          "z": -648.9270629882812
+        },
+        "externalId": "L8LLyZMvZS",
+        "title": "蝴蝶史莱姆门",
+        "description": "需要蝴蝶史莱姆结晶解锁",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        21.665039062500004,
+        -72.2690029837926
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 114.9697265625,
+          "y": 57.21000289916992,
+          "z": -684.6613159179688
+        },
+        "externalId": "cCgHvv0N6b",
+        "title": "",
+        "description": "奖励：\n- 精确射击模块",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        54.20654296875,
+        -68.9110048456202
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 464.62139892578125,
+          "y": 49.75083541870117,
+          "z": -569.9092407226562
+        },
+        "externalId": "N4xDC5Hgih",
+        "title": "",
+        "description": "奖励：\n- 储罐增强器",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        29.35733987767521,
+        -70.55608710839341
+      ],
+      "properties": {
+        "subcategoryExternalId": "HydowLNu3R",
+        "imageId": null,
+        "gameCoords": {
+          "x": 199.13284301757812,
+          "y": 54.00998306274414,
+          "z": -613.2569580078125
+        },
+        "externalId": "VQ1K8XZYNk",
+        "title": "颤动胖史莱姆",
+        "description": "饮食：花蜜\n#\n奖励：\n- 颤动史莱姆\n- 罐子",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        26.867127198032897,
+        -60.15855736121155
+      ],
+      "properties": {
+        "subcategoryExternalId": "CGm2KyRmIw",
+        "imageId": null,
+        "gameCoords": {
+          "x": 181.08631896972656,
+          "y": 33.61001205444336,
+          "z": -348.7586364746094
+        },
+        "externalId": "IAhGP3ZFsq",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        29.267602483814212,
+        -71.20992596498404
+      ],
+      "properties": {
+        "subcategoryExternalId": "CGm2KyRmIw",
+        "imageId": null,
+        "gameCoords": {
+          "x": 194.7335662841797,
+          "y": 7.390000343322754,
+          "z": -646.7152709960938
+        },
+        "externalId": "mo45DQEooP",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        29.24560546875,
+        -71.6774828543785
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 190.40557861328125,
+          "y": 7.5199995040893555,
+          "z": -667.4622802734375
+        },
+        "externalId": "wLD2cwhwYn",
+        "title": "",
+        "description": "奖励：\n- 蓝图：星光海岸传送门",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        35.25757352403487,
+        -71.99572513791536
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 262.6435852050781,
+          "y": 36.18391418457031,
+          "z": -668.2861328125
+        },
+        "externalId": "S1iIuu1nN2",
+        "title": "",
+        "description": "奖励：\n- 蓝图：弹簧板",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        33.06884765625001,
+        -67.15289820820027
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 238.7325897216797,
+          "y": 43.400001525878906,
+          "z": -524.942626953125
+        },
+        "externalId": "WugETMPYDJ",
+        "title": "",
+        "description": "奖励：\n- 蓝图：星花",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        25.6201171875,
+        -60.93043220292338
+      ],
+      "properties": {
+        "subcategoryExternalId": "l8poars97o",
+        "imageId": null,
+        "gameCoords": {
+          "x": 156.56309509277344,
+          "y": 15.730000495910645,
+          "z": -353.6824645996094
+        },
+        "externalId": "ytBwUtNUQO",
+        "title": "粉色结晶门",
+        "description": "需要粉色结晶来解锁",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        26.674804687500007,
+        -62.58322502941989
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 178.96495056152344,
+          "y": 30.84062385559082,
+          "z": -404.4133605957031
+        },
+        "externalId": "iJqErhvcB8",
+        "title": "",
+        "description": "奖励：\n- 冲刺靴模块",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        28.125000000000007,
+        -61.51221638411366
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 190.43048095703125,
+          "y": 12.499999046325684,
+          "z": -380.8193054199219
+        },
+        "externalId": "X3KB0JKO2i",
+        "title": "",
+        "description": "奖励：\n- 蓝图：根系缠绕",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        40.27587890625001,
+        -64.85827416038332
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 313.76922607421875,
+          "y": 42.97999954223633,
+          "z": -459.02606201171875
+        },
+        "externalId": "9uadkCwC0F",
+        "title": "",
+        "description": "奖励：\n- 蓝图：金色翼蝶雕像",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        45.84658599963097,
+        -63.740747431650945
+      ],
+      "properties": {
+        "subcategoryExternalId": "CGm2KyRmIw",
+        "imageId": null,
+        "gameCoords": {
+          "x": 372.19622802734375,
+          "y": 19.110000610351562,
+          "z": -433.8171691894531
+        },
+        "externalId": "Ea1f37geTl",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        42.41413068444835,
+        -67.48513291137319
+      ],
+      "properties": {
+        "subcategoryExternalId": "HydowLNu3R",
+        "imageId": null,
+        "gameCoords": {
+          "x": 336.1661376953125,
+          "y": 41.78000259399414,
+          "z": -540.1405639648438
+        },
+        "externalId": "q5v0dNmP4V",
+        "title": "浣熊巨史莱姆",
+        "description": "食物：任何\n#\n奖励：\n- 浣熊史莱姆\n- 罐子\n#\n仅在夜间出现",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        42.40722656250001,
+        -67.65938637009877
+      ],
+      "properties": {
+        "subcategoryExternalId": "DRjoCQR4ZA",
+        "imageId": null,
+        "externalId": "MgkWuwqbNF",
+        "title": "",
+        "description": "传送至彩虹原野\n#\n击败浣熊巨史莱姆后激活",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        47.596465179920166,
+        -68.79616468272009
+      ],
+      "properties": {
+        "subcategoryExternalId": "HydowLNu3R",
+        "imageId": null,
+        "gameCoords": {
+          "x": 396.7900390625,
+          "y": -0.6533821821212769,
+          "z": -559.19921875
+        },
+        "externalId": "JIPBMCaKlc",
+        "title": "钓鱼者巨史莱姆",
+        "description": "食物：肉类\n#\n奖励：\n- 钓鱼者史莱姆\n- 罐子",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        46.867675781250014,
+        -68.43958884179987
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": 386.4601135253906,
+          "y": -0.7253031730651855,
+          "z": -547.5960083007812
+        },
+        "externalId": "5iYGrE8vw0",
+        "title": "",
+        "description": "奖励：\n- 蓝图：蘑菇种植箱",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -30.8935546875,
+        6.446317749457663
+      ],
+      "properties": {
+        "subcategoryExternalId": "R6zkigHGGL",
+        "imageId": null,
+        "gameCoords": {
+          "x": -439.90740966796875,
+          "y": 17.139999389648438,
+          "z": 559.165283203125
+        },
+        "externalId": "tzI89MbX7P",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -42.2314453125,
+        22.83694592094386
+      ],
+      "properties": {
+        "subcategoryExternalId": "R6zkigHGGL",
+        "imageId": null,
+        "gameCoords": {
+          "x": -557.757080078125,
+          "y": 47.45000076293945,
+          "z": 745.9887084960938
+        },
+        "externalId": "aZvrmQN2ZM",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -60.692749143174154,
+        -2.561137351709135
+      ],
+      "properties": {
+        "subcategoryExternalId": "R6zkigHGGL",
+        "imageId": null,
+        "gameCoords": {
+          "x": -756.0341186523438,
+          "y": 28.780000686645508,
+          "z": 457.2615966796875
+        },
+        "externalId": "mE3PkFzl12",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -9.118652343750002,
+        -2.0869407308811105
+      ],
+      "properties": {
+        "subcategoryExternalId": "DRjoCQR4ZA",
+        "imageId": null,
+        "gameCoords": {
+          "x": -217.98114013671875,
+          "y": 16.710002899169922,
+          "z": 466.0036926269531
+        },
+        "externalId": "NO1akyUIp1",
+        "title": "",
+        "description": "传送至彩虹原野\n#\n启动激活器后激活",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -7.27294921875,
+        -1.252341676699615
+      ],
+      "properties": {
+        "subcategoryExternalId": "l8poars97o",
+        "imageId": null,
+        "gameCoords": {
+          "x": -185.70639038085938,
+          "y": -0.5129693150520325,
+          "z": 471.9028015136719
+        },
+        "externalId": "8e82TXV6i1",
+        "title": "蝙蝠普洛特门",
+        "description": "需要蝙蝠史莱姆球才能解锁",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -9.667968750000004,
+        -1.3841426927919969
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -210.56008911132812,
+          "y": -1.3858710527420044,
+          "z": 463.478271484375
+        },
+        "externalId": "YjOkeOlY5K",
+        "title": "",
+        "description": "位于蝙蝠结晶门后方\n#\n奖励：\n- 储存单元",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -18.610839843750004,
+        -15.68650957255143
+      ],
+      "properties": {
+        "subcategoryExternalId": "CGm2KyRmIw",
+        "imageId": null,
+        "gameCoords": {
+          "x": -304.704833984375,
+          "y": 7.189823627471924,
+          "z": 306.8138122558594
+        },
+        "externalId": "WlAJWtAc15",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -20.676269531250004,
+        -18.145851771694467
+      ],
+      "properties": {
+        "subcategoryExternalId": "l8poars97o",
+        "imageId": null,
+        "gameCoords": {
+          "x": -352.83587646484375,
+          "y": 0.50644451379776,
+          "z": 295.0504150390625
+        },
+        "externalId": "lJu6ZNsuj7",
+        "title": "钓鱼者结晶",
+        "description": "需要钓鱼史莱姆球才能解锁",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -20.104980468750004,
+        -16.53089842368169
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -325.8326110839844,
+          "y": 5.650000095367432,
+          "z": 302.89776611328125
+        },
+        "externalId": "qaE7Fije8u",
+        "title": "",
+        "description": "在钓鱼者结晶门后的房间里\n#\n奖励：\n- 精确射击模块",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -22.895507812500004,
+        -2.328460368573147
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -354.0653381347656,
+          "y": 19.453245162963867,
+          "z": 459.64630126953125
+        },
+        "externalId": "4aIIgH1ZnQ",
+        "title": "",
+        "description": "奖励：\n- 蓝图：肉类史莱姆诱饵",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -15.205078125000002,
+        1.6477220517969187
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -273.57366943359375,
+          "y": 21.464561462402344,
+          "z": 504.61016845703125
+        },
+        "externalId": "LD7dXwiH2v",
+        "title": "",
+        "description": "奖励：\n- 蓝图：石头蛋灯",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -17.402343750000004,
+        7.602107874702895
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -291.3212890625,
+          "y": 34.87862014770508,
+          "z": 565.0126953125
+        },
+        "externalId": "19Hy4iWMNl",
+        "title": "",
+        "description": "奖励：\n- 喷气背包驱动器",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -19.885253906250007,
+        7.667441482726062
+      ],
+      "properties": {
+        "subcategoryExternalId": "HydowLNu3R",
+        "imageId": null,
+        "gameCoords": {
+          "x": -336.8093566894531,
+          "y": 16.242420196533203,
+          "z": 577.290771484375
+        },
+        "externalId": "g4PNZKYV9I",
+        "title": "石头巨史莱姆",
+        "description": "食物：蔬菜\n#\n奖励：\n- 石头史莱姆\n- 罐子",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -23.532714843750004,
+        12.017830337768217
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -358.6820983886719,
+          "y": 24.55327606201172,
+          "z": 618.0799560546875
+        },
+        "externalId": "9uR7bPf4zS",
+        "title": "",
+        "description": "奖励：\n- 蓝图：风铃",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -22.763671875000007,
+        12.275598890561739
+      ],
+      "properties": {
+        "subcategoryExternalId": "l8poars97o",
+        "imageId": null,
+        "gameCoords": {
+          "x": -339.2933044433594,
+          "y": 17.005104064941406,
+          "z": 663.2342529296875
+        },
+        "externalId": "2wBUTMdNvn",
+        "title": "爆炸波尔特门",
+        "description": "需要3个爆炸球来解锁",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -23.708496093750014,
+        25.601902261115725
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -364.0662841796875,
+          "y": 5.507866859436035,
+          "z": 779.7879028320312
+        },
+        "externalId": "mJLCB3omJI",
+        "title": "",
+        "description": "奖励：\n- 蓝图：粉色条纹灯",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -36.60644531250001,
+        24.74683129841206
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -498.2552490234375,
+          "y": 48.21091079711914,
+          "z": 766.2022705078125
+        },
+        "externalId": "DPbmC8Asck",
+        "title": "",
+        "description": "奖励：\n- 蓝图：圆形缓冲器",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -44.12109375000003,
+        32.379961464357294
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -574.8866577148438,
+          "y": 27.322345733642578,
+          "z": 866.849609375
+        },
+        "externalId": "pq5bME0d7T",
+        "title": "",
+        "description": "奖励：\n- 蓝图：蓝色传送站",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -42.16552734375001,
+        34.30714385628805
+      ],
+      "properties": {
+        "subcategoryExternalId": "CGm2KyRmIw",
+        "imageId": null,
+        "gameCoords": {
+          "x": -558.4328002929688,
+          "y": 49.685001373291016,
+          "z": 885.4000854492188
+        },
+        "externalId": "4NLUa0TQiZ",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -44.208984375000036,
+        33.57801474614402
+      ],
+      "properties": {
+        "subcategoryExternalId": "HydowLNu3R",
+        "imageId": null,
+        "gameCoords": {
+          "x": -581.043212890625,
+          "y": 49.685001373291016,
+          "z": 872.4348754882812
+        },
+        "externalId": "OdLgDQ9HZA",
+        "title": "虎斑巨史莱姆",
+        "description": "食物：肉类\n#\n奖励：\n- 虎斑史莱姆\n- 罐子",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -43.63769531250001,
+        33.596318961132695
+      ],
+      "properties": {
+        "subcategoryExternalId": "DRjoCQR4ZA",
+        "imageId": null,
+        "gameCoords": {
+          "x": -581.043212890625,
+          "y": 49.685001373291016,
+          "z": 872.4348754882812
+        },
+        "externalId": "3cY5nJ081f",
+        "title": "",
+        "description": "传送至彩虹原野\n#\n击败虎斑巨史莱姆后可用",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        36.05712890625001,
+        3.84233163115492
+      ],
+      "properties": {
+        "subcategoryExternalId": "DRjoCQR4ZA",
+        "imageId": null,
+        "gameCoords": {
+          "x": 277.398193359375,
+          "y": 0.2640548348426819,
+          "z": 522.0477294921875
+        },
+        "externalId": "6Hc09ye6bQ",
+        "title": "",
+        "description": "传送至余烬谷\n#\n击败虎斑巨史莱姆后激活",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -39.57275390625001,
+        17.957832102272448
+      ],
+      "properties": {
+        "subcategoryExternalId": "HydowLNu3R",
+        "imageId": null,
+        "gameCoords": {
+          "x": -533.207275390625,
+          "y": 38.099998474121094,
+          "z": 692.640869140625
+        },
+        "externalId": "0NfjCjiBqb",
+        "title": "",
+        "description": "食物：蔬菜\n#\n奖励：\n- 水晶史莱姆\n- 罐子",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -39.39697265625001,
+        15.897942401022064
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -528.951171875,
+          "y": -2.4599974155426025,
+          "z": 655.3399658203125
+        },
+        "externalId": "XCxhfcGWtA",
+        "title": "",
+        "description": "奖励：\n- 蓝图：快乐雕像",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -40.869140625000014,
+        14.689881366618792
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -544.0240478515625,
+          "y": 18.938661575317383,
+          "z": 649.233154296875
+        },
+        "externalId": "NH3GcxnM2K",
+        "title": "",
+        "description": "奖励：\n- 心形电池",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -48.80126953125001,
+        17.497389400663835
+      ],
+      "properties": {
+        "subcategoryExternalId": "l8poars97o",
+        "imageId": null,
+        "gameCoords": {
+          "x": -632.352294921875,
+          "y": 37.540550231933594,
+          "z": 678.9560546875
+        },
+        "externalId": "1uIgAXmDSk",
+        "title": "三重结晶门",
+        "description": "需要以下结晶来解锁：\n- 爆炸结晶\n- 虎斑结晶\n- 蝙蝠结晶",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -48.44970703125001,
+        18.29194973355034
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -636.3031005859375,
+          "y": 37.95225524902344,
+          "z": 687.28759765625
+        },
+        "externalId": "qud6UbG2iH",
+        "title": "",
+        "description": "位于结晶门所在的房间内\n#\n奖励：\n- 蓝图：高大琥珀柏树",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -46.47216796875001,
+        18.271086109608888
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -609.0400390625,
+          "y": 61.4434814453125,
+          "z": 695.3028564453125
+        },
+        "externalId": "y58Hqn6b7l",
+        "title": "",
+        "description": "奖励：\n- 蓝图：金色钓鱼者雕像",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -55.54687500000001,
+        24.726874870506975
+      ],
+      "properties": {
+        "subcategoryExternalId": "DRjoCQR4ZA",
+        "imageId": null,
+        "gameCoords": {
+          "x": -692.709716796875,
+          "y": 14.939998626708984,
+          "z": 760.2637939453125
+        },
+        "externalId": "vUZSXlzMSu",
+        "title": "",
+        "description": "传送至粉雪悬崖\n#\n打开三重结晶门后可用",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -38.64990234375001,
+        7.7327650627298254
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -519.9605712890625,
+          "y": 6.39000129699707,
+          "z": 573.3049926757812
+        },
+        "externalId": "6HFNJuDhe7",
+        "title": "",
+        "description": "奖励：\n- 蓝图：温室灯",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -38.91357421875,
+        3.4037578795775687
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -520.2650146484375,
+          "y": 32.650001525878906,
+          "z": 523.949462890625
+        },
+        "externalId": "Iq4oMVHoj4",
+        "title": "",
+        "description": "奖励：\n- 蓝图：琥珀柏树丛",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -31.66259765625,
+        1.955186833756514
+      ],
+      "properties": {
+        "subcategoryExternalId": "CGm2KyRmIw",
+        "imageId": null,
+        "gameCoords": {
+          "x": -444.51409912109375,
+          "y": 20.684711456298828,
+          "z": 505.30560302734375
+        },
+        "externalId": "eseJxHO3AL",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -31.135253906250004,
+        -0.2856433479945082
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -443.59173583984375,
+          "y": 37.602447509765625,
+          "z": 482.67962646484375
+        },
+        "externalId": "ooDKvP7gL2",
+        "title": "",
+        "description": "奖励：\n- 蓝图：冲刺板",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -32.32177734375001,
+        -7.14449884964732
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -451.6452331542969,
+          "y": 3.8899998664855957,
+          "z": 407.7080383300781
+        },
+        "externalId": "N04pSky0xM",
+        "title": "",
+        "description": "奖励：\n- 蓝图：丰盛茶杯",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -36.89208984375001,
+        -11.264612212504431
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -502.9640808105469,
+          "y": -3.6426329612731934,
+          "z": 358.8268127441406
+        },
+        "externalId": "dSI3vB5n4r",
+        "title": "",
+        "description": "奖励：\n- 蓝图：手推车",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -38.935546875,
+        -6.162400921526597
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -522.1856079101562,
+          "y": 29.917715072631836,
+          "z": 421.19720458984375
+        },
+        "externalId": "8Slt5uAETZ",
+        "title": "",
+        "description": "奖励：\n- 真空储罐",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -45.02197265624999,
+        -18.437924653474425
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -591.6698608398438,
+          "y": 81.82821655273438,
+          "z": 278.8671875
+        },
+        "externalId": "HBoXM1J51o",
+        "title": "",
+        "description": "奖励：\n- 蓝图：金色鸡雕像",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -38.47412109375001,
+        -16.741427547003596
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -516.5003662109375,
+          "y": -2.373114824295044,
+          "z": 296.2313537597656
+        },
+        "externalId": "1ZcwTADOm9",
+        "title": "",
+        "description": "奖励：\n- 蓝图：加速器",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -48.47167968750001,
+        -22.30942584120018
+      ],
+      "properties": {
+        "subcategoryExternalId": "DRjoCQR4ZA",
+        "imageId": null,
+        "gameCoords": {
+          "x": -624.9567260742188,
+          "y": 66.03500366210938,
+          "z": 243.10086059570312
+        },
+        "externalId": "8MVmq2Fzsb",
+        "title": "",
+        "description": "传送至粉雪悬崖\n#\n击败剑齿虎巨史莱姆后激活",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -48.80126953125001,
+        -23.825551306884762
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -626.5383911132812,
+          "y": 23.951627731323242,
+          "z": 215.70193481445312
+        },
+        "externalId": "QqF4UV1bVB",
+        "title": "",
+        "description": "奖励：\n- 蓝图：展示柜",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -65.19287109375001,
+        -25.3638822727402
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -801.6136474609375,
+          "y": 7.380396842956543,
+          "z": 192.97801208496094
+        },
+        "externalId": "iBj66nfxCm",
+        "title": "",
+        "description": "奖励：\n- 蓝图：旋转木马",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -53.54736328125001,
+        -16.404470456702423
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -675.4692993164062,
+          "y": 26.149999618530273,
+          "z": 304.7118835449219
+        },
+        "externalId": "Ygpq5nGtsh",
+        "title": "",
+        "description": "奖励：\n- 蓝图：盆栽植物",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -56.140136718750014,
+        -12.340001834116308
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -705.9406127929688,
+          "y": 6.386434555053711,
+          "z": 341.7737731933594
+        },
+        "externalId": "L1kjmziSdT",
+        "title": "",
+        "description": "奖励：\n- 蓝图：岩浆池",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -46.867675781250014,
+        -10.768555807732355
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -608.88671875,
+          "y": 47.99257278442383,
+          "z": 366.8500061035156
+        },
+        "externalId": "ULh0KtZ1OW",
+        "title": "",
+        "description": "奖励：\n- 蓝图：石笋",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -46.31835937500001,
+        -10.379765224421433
+      ],
+      "properties": {
+        "subcategoryExternalId": "CGm2KyRmIw",
+        "imageId": null,
+        "gameCoords": {
+          "x": -606.292724609375,
+          "y": 32.544456481933594,
+          "z": 365.21270751953125
+        },
+        "externalId": "u0ZZkLDcjL",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -53.12988281250001,
+        -6.90461404723807
+      ],
+      "properties": {
+        "subcategoryExternalId": "HydowLNu3R",
+        "imageId": null,
+        "gameCoords": {
+          "x": -668.2022705078125,
+          "y": 14.373344421386719,
+          "z": 409.9593505859375
+        },
+        "externalId": "uSqWhxDJmO",
+        "title": "胖胖史莱姆",
+        "description": "饮食：水果\n#\n奖励：\n- 蝙蝠史莱姆\n- 罐子",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -61.43554687500001,
+        -6.31529853833004
+      ],
+      "properties": {
+        "subcategoryExternalId": "CGm2KyRmIw",
+        "imageId": null,
+        "gameCoords": {
+          "x": -755.2022094726562,
+          "y": 42.501522064208984,
+          "z": 415.89385986328125
+        },
+        "externalId": "mJJPZaYenf",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -60.908203125,
+        -6.90461404723807
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -754.8273315429688,
+          "y": 20.510000228881836,
+          "z": 404.94390869140625
+        },
+        "externalId": "mAPdsOVuKb",
+        "title": "",
+        "description": "奖励：\n- 蓝图：高岩浆块",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -66.24755859375001,
+        -9.557417356841313
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -810.7847900390625,
+          "y": -2.66013765335083,
+          "z": 382.9949645996094
+        },
+        "externalId": "WuNzRSZ6ro",
+        "title": "",
+        "description": "奖励：\n- 蓝图：金色旋风雕像",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -60.84228515625001,
+        0.5493079911125136
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -759.2324829101562,
+          "y": 18.39592170715332,
+          "z": 488.2452697753906
+        },
+        "externalId": "PZyrb7XlQO",
+        "title": "",
+        "description": "奖励：\n- 蓝图：中型棕榈树",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -56.31591796875,
+        5.244127581489536
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -700.0291748046875,
+          "y": 31.216014862060547,
+          "z": 546.39990234375
+        },
+        "externalId": "i0BuDmdN17",
+        "title": "",
+        "description": "奖励：\n- 蓝图：水果史莱姆诱饵",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -49.21875000000001,
+        2.8333171968553046
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -633.867431640625,
+          "y": 32.14617919921875,
+          "z": 516.1502685546875
+        },
+        "externalId": "Xel2XlifgM",
+        "title": "",
+        "description": "奖励：\n- 蓝图：灰色传送站",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -73.14697265625001,
+        2.9869273933348808
+      ],
+      "properties": {
+        "subcategoryExternalId": "HydowLNu3R",
+        "imageId": null,
+        "gameCoords": {
+          "x": -880.4714965820312,
+          "y": 11.809999465942383,
+          "z": 508.2755432128906
+        },
+        "externalId": "D0CGl8L8V8",
+        "title": "爆炸戈尔多",
+        "description": "食物：肉类\n#\n奖励：\n- 爆炸史莱姆\n- 罐子",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -74.72900390625001,
+        1.8234225930141614
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -903.3657836914062,
+          "y": 12.426308631896973,
+          "z": 504.0271301269531
+        },
+        "externalId": "5NEvI9xnZV",
+        "title": "",
+        "description": "奖励：\n- 蓝图：余烬谷传送门",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -74.39941406250001,
+        1.4720060101903414
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -903.3657836914062,
+          "y": 12.426308631896973,
+          "z": 504.0271301269531
+        },
+        "externalId": "wrBsKgeCk1",
+        "title": "",
+        "description": "奖励：\n- 奇异钻石",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -75.95947265625,
+        1.8453839885731895
+      ],
+      "properties": {
+        "subcategoryExternalId": "CGm2KyRmIw",
+        "imageId": null,
+        "gameCoords": {
+          "x": -918.5677490234375,
+          "y": 7.252532005310059,
+          "z": 499.79144287109375
+        },
+        "externalId": "f1V1zAxNkh",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -97.44159764789492,
+        0.7943990065299857
+      ],
+      "properties": {
+        "subcategoryExternalId": "DRjoCQR4ZA",
+        "imageId": null,
+        "gameCoords": {
+          "x": -1142.94775390625,
+          "y": 22.60787010192871,
+          "z": 499.2254333496094
+        },
+        "externalId": "VSx5p8Tk5W",
+        "title": "",
+        "description": "传送至灰色迷宫\n#\n需要辐射投影仪才能激活传送门",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        31.53347167880404,
+        -76.69959378327194
+      ],
+      "properties": {
+        "subcategoryExternalId": "DRjoCQR4ZA",
+        "imageId": null,
+        "gameCoords": {
+          "x": 218.27850341796875,
+          "y": 31.825719833374023,
+          "z": -866.4093627929688
+        },
+        "externalId": "BdqlLRXU5c",
+        "title": "",
+        "description": "传送至灰色迷宫\n#\n需要辐射投影仪才能激活传送门",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -56.77734375000001,
+        61.585492181523676
+      ],
+      "properties": {
+        "subcategoryExternalId": "DRjoCQR4ZA",
+        "imageId": null,
+        "gameCoords": {
+          "x": -709.0075073242188,
+          "y": 5.830000400543213,
+          "z": 1351.5361328125
+        },
+        "externalId": "MtHd8SBIx7",
+        "title": "",
+        "description": "传送至粉雪悬崖\n#\n打开三重结晶门后可用",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -43.81347656250005,
+        70.18510275498969
+      ],
+      "properties": {
+        "subcategoryExternalId": "R6zkigHGGL",
+        "imageId": null,
+        "gameCoords": {
+          "x": -579.029052734375,
+          "y": 84.2850112915039,
+          "z": 1580.7332763671875
+        },
+        "externalId": "ySSS95q6th",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -67.21435546875001,
+        73.88591809512963
+      ],
+      "properties": {
+        "subcategoryExternalId": "R6zkigHGGL",
+        "imageId": null,
+        "gameCoords": {
+          "x": -818.3806762695312,
+          "y": 8.089627265930176,
+          "z": 1706.38671875
+        },
+        "externalId": "XwtFRnnaPk",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -53.503417968750014,
+        63.74363097533546
+      ],
+      "properties": {
+        "subcategoryExternalId": "CGm2KyRmIw",
+        "imageId": null,
+        "gameCoords": {
+          "x": -677.816650390625,
+          "y": 16.30934715270996,
+          "z": 1402.7098388671875
+        },
+        "externalId": "pdm4B9HEQ3",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -59.83154296875001,
+        67.55055883056923
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -742.3929443359375,
+          "y": 9.787931442260742,
+          "z": 1495.3570556640625
+        },
+        "externalId": "AXQbmJ5z2f",
+        "title": "",
+        "description": "奖励：\n- 蓝图：寒冷史莱姆堆",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -58.51318359375001,
+        68.6005051457494
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -730.4821166992188,
+          "y": 49.54484939575195,
+          "z": 1526.0277099609375
+        },
+        "externalId": "nGa2fvrYuk",
+        "title": "",
+        "description": "奖励：\n- 蓝图：冰立方",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -67.30224609375001,
+        67.06743335108297
+      ],
+      "properties": {
+        "subcategoryExternalId": "CGm2KyRmIw",
+        "imageId": null,
+        "gameCoords": {
+          "x": -821.3832397460938,
+          "y": 44.322418212890625,
+          "z": 1481.206298828125
+        },
+        "externalId": "vPnPGYwr9y",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -68.42285156250001,
+        67.42436394630627
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -836.81689453125,
+          "y": 68.96147918701172,
+          "z": 1494.533935546875
+        },
+        "externalId": "NI90v9JmCp",
+        "title": "",
+        "description": "奖励：\n- 能量芯片",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -72.94921875000001,
+        65.89268028960208
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -882.04638671875,
+          "y": 20.330419540405273,
+          "z": 1452.20849609375
+        },
+        "externalId": "rDDg2nIqq2",
+        "title": "",
+        "description": "奖励：\n- 蓝图：冰灯",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -69.10400390625001,
+        68.38299634059615
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "gameCoords": {
+          "x": -840.488525390625,
+          "y": 28.167631149291992,
+          "z": 1526.5394287109375
+        },
+        "externalId": "2fzrcC2zbg",
+        "title": "",
+        "description": "悬崖下方\n#\n奖励：\n- 蓝图：雪地传送站",
+        "imageId": 1255026,
+        "imagePath": "/game_map_pin/1255026/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -65.93994140625001,
+        69.06071203808125
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -809.4718627929688,
+          "y": -2.4423391819000244,
+          "z": 1543.083984375
+        },
+        "externalId": "Kt1e8v7iW3",
+        "title": "",
+        "description": "奖励：\n- 蓝图：霜冻外壳",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -67.23632812500001,
+        71.7050925307212
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -822.1646728515625,
+          "y": -4.28692626953125,
+          "z": 1629.130126953125
+        },
+        "externalId": "FyGFmHJ9VU",
+        "title": "",
+        "description": "奖励：\n- 蓝图：雪地灌木",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -58.51318359375001,
+        72.47527631092942
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -731.6171264648438,
+          "y": 33.67647171020508,
+          "z": 1651.6754150390625
+        },
+        "externalId": "ebU7Ed8C1t",
+        "title": "",
+        "description": "奖励：\n- 蓝图：冰冻火焰",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -59.875488281250014,
+        75.34228194427303
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -747.5360107421875,
+          "y": 22.595643997192383,
+          "z": 1766.93798828125
+        },
+        "externalId": "lJZ42TVgwu",
+        "title": "",
+        "description": "奖励：\n- 蓝图：宏伟雪花",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -48.142089843750014,
+        73.95893887377511
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -626.3014526367188,
+          "y": 38.16413879394531,
+          "z": 1718.7042236328125
+        },
+        "externalId": "rUI3MBA88F",
+        "title": "",
+        "description": "奖励：\n- 储存电池",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -52.536621093750014,
+        73.27102964870332
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -671.6653442382812,
+          "y": 42.89463424682617,
+          "z": 1681.0152587890625
+        },
+        "externalId": "nOksr4Qyg3",
+        "title": "",
+        "description": "奖励：\n- 蓝图：水力喷淋",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -51.416015625,
+        72.62025182357988
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -656.486572265625,
+          "y": 0.32416820526123047,
+          "z": 1659.271728515625
+        },
+        "externalId": "wNVztc1gdF",
+        "title": "",
+        "description": "奖励：\n- 蓝图：造雪机",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -48.20800781250001,
+        72.67922441671936
+      ],
+      "properties": {
+        "subcategoryExternalId": "HydowLNu3R",
+        "imageId": null,
+        "gameCoords": {
+          "x": -626.0458984375,
+          "y": 68.77313995361328,
+          "z": 1651.334716796875
+        },
+        "externalId": "2KQQvVIomr",
+        "title": "剑齿戈尔多",
+        "description": "食物：肉类\n#\n奖励：\n- 剑齿史莱姆\n- 罐子",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -47.74658203125,
+        72.6071204002755
+      ],
+      "properties": {
+        "subcategoryExternalId": "DRjoCQR4ZA",
+        "imageId": null,
+        "gameCoords": {
+          "x": -626.0458984375,
+          "y": 68.77313995361328,
+          "z": 1651.334716796875
+        },
+        "externalId": "WFxfBeS21p",
+        "title": "",
+        "description": "传送至余烬谷\n#\n击败剑齿戈尔多后激活",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -40.23193359375001,
+        69.94537515128906
+      ],
+      "properties": {
+        "subcategoryExternalId": "CGm2KyRmIw",
+        "imageId": null,
+        "gameCoords": {
+          "x": -536.56591796875,
+          "y": 68.30001068115234,
+          "z": 1565.3817138671875
+        },
+        "externalId": "jUk3eizKmY",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -43.30810546875001,
+        71.26553875788557
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -564.175537109375,
+          "y": 52.032371520996094,
+          "z": 1623.53369140625
+        },
+        "externalId": "q2KkdzPihk",
+        "title": "",
+        "description": "奖励：\n- 蓝图：极光松树",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -50.4931640625,
+        67.23806155909898
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -649.7632446289062,
+          "y": 0.08371440321207047,
+          "z": 1484.5196533203125
+        },
+        "externalId": "0sehnlfnW2",
+        "title": "",
+        "description": "奖励：\n- 蓝图：水晶尖塔",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -54.99755859375001,
+        70.22231091600497
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -691.6256713867188,
+          "y": 42.070003509521484,
+          "z": 1579.4864501953125
+        },
+        "externalId": "TfYOZFiM7q",
+        "title": "",
+        "description": "奖励：\n- 蓝图：雪地长椅",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -45.76904296875001,
+        70.45885925640687
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -592.25634765625,
+          "y": -4.141000747680664,
+          "z": 1586.7984619140625
+        },
+        "externalId": "m1QvbllSE0",
+        "title": "",
+        "description": "奖励：\n- 蓝图：火焰花",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -44.86816406250001,
+        69.8471934342866
+      ],
+      "properties": {
+        "subcategoryExternalId": "CGm2KyRmIw",
+        "imageId": null,
+        "gameCoords": {
+          "x": -586.382568359375,
+          "y": 9.366721153259277,
+          "z": 1567.1451416015625
+        },
+        "externalId": "l5193H92R6",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -49.306640625,
+        69.88501003874241
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -636.8834228515625,
+          "y": 122.19766235351562,
+          "z": 1566.6549072265625
+        },
+        "externalId": "kZGBbsYNIG",
+        "title": "",
+        "description": "山顶上\n#\n奖励：\n- 精准模块",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -50.36132812500001,
+        69.74094412836399
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -643.1143798828125,
+          "y": 51.65938186645508,
+          "z": 1563.438720703125
+        },
+        "externalId": "rNZ7GDCeMJ",
+        "title": "",
+        "description": "奖励：\n- 蓝图：粉雪悬崖传送门",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -50.82275390625,
+        70.56149224990759
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -650.2523193359375,
+          "y": 91.28081512451172,
+          "z": 1586.32568359375
+        },
+        "externalId": "GV5Xe6VpPc",
+        "title": "",
+        "description": "奖励：\n- 蓝图：雪地传送器",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -56.909179687500014,
+        58.64265251657599
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -712.0764770507812,
+          "y": -4.480081558227539,
+          "z": 1276.1806640625
+        },
+        "externalId": "qBmlab8b6L",
+        "title": "",
+        "description": "奖励：\n- 冰川水晶",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -71.43310546875001,
+        73.65254484149818
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -865.2991943359375,
+          "y": 28.9993953704834,
+          "z": 1706.7197265625
+        },
+        "externalId": "Rbm4JAPbio",
+        "title": "",
+        "description": "奖励：\n- 3x 阳光树汁",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -74.94873046875001,
+        76.48604560648228
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -902.088623046875,
+          "y": 44.492000579833984,
+          "z": 1819.25390625
+        },
+        "externalId": "Cphp31hW33",
+        "title": "",
+        "description": "奖励：\n- 蓝图：冰树",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -91.14257812499999,
+        75.24186616026975
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -1074.8505859375,
+          "y": 8.358476638793945,
+          "z": 1761.2061767578125
+        },
+        "externalId": "xxHB4ZrXwa",
+        "title": "",
+        "description": "奖励：\n- 蓝图：极光花",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -85.40771265522645,
+        70.34096728950519
+      ],
+      "properties": {
+        "subcategoryExternalId": "UmGDmr3oxi",
+        "imageId": null,
+        "gameCoords": {
+          "x": -1010.8594970703125,
+          "y": 21.61005401611328,
+          "z": 1576.0677490234375
+        },
+        "externalId": "zNr1mKrrDl",
+        "title": "",
+        "description": "奖励：\n- 蓝图：雪花球",
+        "imagePath": ""
+      }
+    }
+  ]
+}

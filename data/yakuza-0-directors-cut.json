@@ -1,0 +1,16 @@
+{
+  "slug": "yakuza-0-directors-cut",
+  "title": "Yakuza 0 Director's Cut",
+  "heroUrl": "/assets/images/games/yakuza-0-directors-cut/hero.webp",
+  "maps": [
+    {
+      "name": "Kamurocho",
+      "slug": "kamurocho",
+      "thumbnailUrl": "/assets/images/games/yakuza-0-directors-cut/kamurocho.webp",
+      "updatedAt": "2026-02-20T01:36:37Z",
+      "markerCount": 283,
+      "categoryCount": 8,
+      "subcategoryCount": 23
+    }
+  ]
+}

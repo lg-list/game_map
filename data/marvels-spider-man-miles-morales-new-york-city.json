@@ -1,0 +1,3501 @@
+{
+  "metadata": {
+    "externalId": "12MMIjoZ55",
+    "name": "New York City",
+    "slug": "new-york-city",
+    "baseTilePath": "https://storage-cdn.wemod.com/maps/b4e611d0-e8f5-4ca4-a858-19365de0fff0/tiles",
+    "isChecklistPublished": true,
+    "isInActiveDevelopment": false,
+    "backgroundColor": "#102c44",
+    "minZoom": 1,
+    "maxZoom": 6,
+    "initialZoom": null,
+    "tmsEnabled": false,
+    "categories": [
+      {
+        "externalId": "Yqm0w0PE0Q",
+        "gameMapExternalId": "12MMIjoZ55",
+        "title": "Side Missions",
+        "color": "#ea9148",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "ufrJZGLWD4",
+        "gameMapExternalId": "12MMIjoZ55",
+        "title": "Main Missions",
+        "color": "#dfbc0c",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "jgcT7NmLRv",
+        "gameMapExternalId": "12MMIjoZ55",
+        "title": "Points of Interest",
+        "color": "#56cbaf",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "3nBDybwNHw",
+        "gameMapExternalId": "12MMIjoZ55",
+        "title": "Items",
+        "color": "#8a84bf",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "zgT5c17HPf",
+        "gameMapExternalId": "12MMIjoZ55",
+        "title": "References",
+        "color": "#d362d5",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "JEBkKevH1t",
+        "gameMapExternalId": "12MMIjoZ55",
+        "title": "Fast Travel",
+        "color": "#15d5ef",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "Pk2eHemr8e",
+        "gameMapExternalId": "12MMIjoZ55",
+        "title": "Criminal Dens",
+        "color": "#ac1b22",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "subcategories": [
+      {
+        "externalId": "MgfYi55fdA",
+        "categoryExternalId": "Yqm0w0PE0Q",
+        "title": "Spider-Trainings",
+        "icon": "roundies:games-and-sports-weights",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "mLXFjHNIZ9",
+        "categoryExternalId": "Yqm0w0PE0Q",
+        "title": "FNSM App Requests",
+        "icon": "roundies:electronics-smartphone",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "4JowAfAtku",
+        "categoryExternalId": "Yqm0w0PE0Q",
+        "title": "Activities",
+        "icon": "triangle-warning",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "cORttAYPZJ",
+        "categoryExternalId": "ufrJZGLWD4",
+        "title": "Act 1",
+        "icon": "checkbox",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "WeqvHEGKr9",
+        "categoryExternalId": "ufrJZGLWD4",
+        "title": "Act 2",
+        "icon": "checkbox",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "E2Lg0Lc8Vf",
+        "categoryExternalId": "ufrJZGLWD4",
+        "title": "Act 3",
+        "icon": "checkbox",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "rSNBKsn1wS",
+        "categoryExternalId": "jgcT7NmLRv",
+        "title": "Home",
+        "icon": "roundies:architecture-home-house",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "3gsxI16XYR",
+        "categoryExternalId": "jgcT7NmLRv",
+        "title": "Grave",
+        "icon": "cross-religion",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "EhqagRYo6K",
+        "categoryExternalId": "jgcT7NmLRv",
+        "title": "Stan Lee and Mick",
+        "icon": "roundies:home-equipment-fork-and-spoon",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "dnpQTYkeUv",
+        "categoryExternalId": "3nBDybwNHw",
+        "title": "Hidden Caches",
+        "icon": "treasure-chest",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "eq0ZBjecTr",
+        "categoryExternalId": "3nBDybwNHw",
+        "title": "Time Capsules",
+        "icon": "time-past",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "WIFnMFNeJD",
+        "categoryExternalId": "3nBDybwNHw",
+        "title": "Sound Samples",
+        "icon": "music",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "HTy20e2vaD",
+        "categoryExternalId": "3nBDybwNHw",
+        "title": "Postcards",
+        "icon": "roundies:business-and-finance-pay-with-credit-card-front",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "yJEIr5D25Z",
+        "categoryExternalId": "zgT5c17HPf",
+        "title": "Easter Egg",
+        "icon": "roundies:animals-snake-egg",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "k9eGsZ4I9r",
+        "categoryExternalId": "JEBkKevH1t",
+        "title": "Stations",
+        "icon": "roundies:transportation-train",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "cRLdA6lRTV",
+        "categoryExternalId": "Pk2eHemr8e",
+        "title": "Roxxon Labs",
+        "icon": "roundies:architecture-small-building",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "6vkhvgJ3wr",
+        "categoryExternalId": "Pk2eHemr8e",
+        "title": "Underground Hideouts",
+        "icon": "roundies:airport-and-hotels-warehouse-storage",
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "playerLocationDeltas": null
+  },
+  "features": [
+    {
+      "coordinates": [
+        -36.732641745027536,
+        77.6007381197476
+      ],
+      "properties": {
+        "subcategoryExternalId": "MgfYi55fdA",
+        "imageId": 1379920,
+        "videoId": 1379921,
+        "externalId": "FO9VzbpbBU",
+        "title": "Combat Challenge 1.0",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Harlem* |\n#\n| **Scoring:** |\n| :-----------: |\n| Amazing: *5 hits* |\n| Spectacular: *10 hits* |\n| Ultimate: *25 hits* |\n#\n| **Unlocks:** |\n| :-----------: |\n|***Spin Cycle***||\n#\n| **Rewards:** |\n| :-----------: |\n|***Activity Token***||\n#\n**Note:**\n#\n*Activity Tokens are used to upgrade gears and suits.*\n#\n*Completing all Spider-Training Challenges unlocks Miles Morales 2020 Suit.*",
+        "imagePath": "/game_map_pin/1379920/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/0be15c53dbe045a01c6a35e80b440a009127a609"
+      }
+    },
+    {
+      "coordinates": [
+        -43.23008674574058,
+        69.89481765878676
+      ],
+      "properties": {
+        "subcategoryExternalId": "MgfYi55fdA",
+        "imageId": 1379942,
+        "videoId": 1379943,
+        "externalId": "WLdnN3adRE",
+        "title": "穿越挑战 1.0",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *上西区* |\n#\n| **评分：** |\n| :-----------: |\n| 惊人：*> 60秒* |\n| 壮观：*< 60秒* |\n| 终极：*< 45秒* |\n#\n| **解锁：** |\n| :-----------: |\n|***定点发射加速***||\n#\n| **奖励：** |\n| :-----------: |\n|***活动代币***||\n#\n**注意：**\n#\n*活动代币用于升级装备和战衣。*\n#\n*完成所有蜘蛛训练挑战可解锁迈尔斯·莫拉莱斯2020战衣。*",
+        "imagePath": "/game_map_pin/1379942/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/9468e97ce9ff95e294a7675674fd2ea9ca57bc9d"
+      }
+    },
+    {
+      "coordinates": [
+        39.86835409866845,
+        -0.47572814565353383
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1380077,
+        "videoId": 1380078,
+        "externalId": "7xtLvxKhxu",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *中城区* |\n| *位于建筑物的屋顶。* |\n#\n| **奖励：** |\n| :-----------: |\n|***科技零件***||\n#\n**注意：**\n#\n*科技零件用于升级装备和套装。*",
+        "imagePath": "/game_map_pin/1380077/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/58ecf7532d4053dc9af401b0663d759a0682db7a"
+      }
+    },
+    {
+      "coordinates": [
+        13.954037272657416,
+        6.940901792066654
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1380083,
+        "videoId": 1380084,
+        "externalId": "PK75XWqrtD",
+        "title": "地下储藏室",
+        "description": "| **区域：** |\n| :-----------: |\n| *中城区* |\n| *位于建筑物旁边的一些脚手架内。* |\n#\n| **奖励：** |\n| :-----------: |\n|***科技零件***||\n#\n**注意：**\n#\n*科技零件用于升级装备和套装。*",
+        "imagePath": "/game_map_pin/1380083/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/a1e1cc5dc78535f763097785a041ee56a489e16b"
+      }
+    },
+    {
+      "coordinates": [
+        30.81236195639471,
+        -23.67695634857604
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1380093,
+        "videoId": 1380094,
+        "externalId": "4OSsxzIpWR",
+        "title": "地下储藏室",
+        "description": "| **区域：** |\n| :-----------: |\n| *中城区* |\n| *位于两座建筑物之间的屋顶上。* |\n#\n| **奖励：** |\n| :-----------: |\n|***科技零件***||\n#\n**注意：**\n#\n*科技零件用于升级装备和套装。*",
+        "imagePath": "/game_map_pin/1380093/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/09fc0af9be411cd96161677e13cd03618188ba0e"
+      }
+    },
+    {
+      "coordinates": [
+        -9.892183621661786,
+        -25.17930461346691
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1380101,
+        "videoId": 1380102,
+        "externalId": "a76V82SZlf",
+        "title": "地下储藏室",
+        "description": "| **区域：** |\n| :-----------: |\n| *中城区* |\n| *位于建筑物顶部弯曲的阳光甲板上，由一些地下士兵守卫。* |\n#\n| **奖励：** |\n| :-----------: |\n|***科技零件***||\n#\n**注意：**\n#\n*科技零件用于升级装备和套装。*",
+        "imagePath": "/game_map_pin/1380101/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/3570e9007dfb1d9e351820a63353804baec6b302"
+      }
+    },
+    {
+      "coordinates": [
+        27.335370383526595,
+        -42.47419828206406
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1380106,
+        "videoId": 1380107,
+        "externalId": "6Pb3FfijWL",
+        "title": "地下储藏室",
+        "description": "| **区域：** |\n| :-----------: |\n| *唐人街* |\n| *位于建筑物屋顶的围栏笼子内。* |\n#\n| **奖励：** |\n| :-----------: |\n|***科技零件***||\n#\n**注意：**\n#\n*科技零件用于升级装备和套装。*",
+        "imagePath": "/game_map_pin/1380106/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/bc592ef0e0dcb9c1909260d7b8ea28b450547e8c"
+      }
+    },
+    {
+      "coordinates": [
+        54.890684462466226,
+        -40.96350414461102
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1380112,
+        "videoId": 1380113,
+        "externalId": "t8kAHuUWUj",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *唐人街* |\n| *位于屋顶上一个木箱内，由一些地下士兵守卫。* |\n#\n| **奖励：** |\n| :-----------: |\n|***科技零件***||\n#\n**注意：**\n#\n*科技零件用于升级装备和套装。*",
+        "imagePath": "/game_map_pin/1380112/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/7c5a1f534d0cfe2766ef416f0420ef1801109229"
+      }
+    },
+    {
+      "coordinates": [
+        52.73998392346002,
+        -55.704703893293114
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1380124,
+        "videoId": 1380125,
+        "externalId": "VF51SWBTqf",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *唐人街* |\n| *位于停车场电梯的三楼。* |\n#\n| **奖励：** |\n| :-----------: |\n|***科技零件***||\n#\n**注意：**\n#\n*科技零件用于升级装备和套装。*",
+        "imagePath": "/game_map_pin/1380124/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/252ea00102b64210b0bad90de59205175ebe7bb8"
+      }
+    },
+    {
+      "coordinates": [
+        62.77843310095281,
+        -65.29399399427986
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1380126,
+        "videoId": 1380127,
+        "externalId": "04KgLPBSdn",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *唐人街* |\n| *位于屋顶上，旁边有带刺铁丝网围栏。* |\n#\n| **奖励：** |\n| :-----------: |\n|***科技零件***||\n#\n**注意：**\n#\n*科技零件用于升级装备和套装。*",
+        "imagePath": "/game_map_pin/1380126/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/d47df61fdf0cbbbf82ee4dce47ae4e98328fed96"
+      }
+    },
+    {
+      "coordinates": [
+        -11.977599853287558,
+        -46.17106794542792
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1380763,
+        "videoId": 1380764,
+        "externalId": "wwjOIbcxWu",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *格林威治* |\n| *位于一个罗克森加油站内，加油站旁边。* |\n#\n| **奖励：** |\n| :-----------: |\n|***科技零件***||\n#\n**注意：**\n#\n*拉动入口左上方的齿轮，然后用你的蛛网发射器多次射网，准备好在获取宝箱后对付两个攻击的地下组织士兵。*\n#\n*科技零件用于升级装备和套装。*",
+        "imagePath": "/game_map_pin/1380763/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/9bedb9069896e502179474f4503159570e251f6f"
+      }
+    },
+    {
+      "coordinates": [
+        -14.457103411750069,
+        -58.5037149261733
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1381198,
+        "videoId": 1381199,
+        "externalId": "9oTUeGnIZI",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **区域:** |\n| :-----------: |\n| *格林威治* |\n| *位于建筑物的通道上。* |\n#\n| **奖励:** |\n| :-----------: |\n|***科技零件***||\n#\n**注意:**\n#\n*科技零件用于升级装备和套装。*",
+        "imagePath": "/game_map_pin/1381198/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/96ffde266a9e909d4f40bc4d98c7dc8d3e82e6a8"
+      }
+    },
+    {
+      "coordinates": [
+        18.171339694880032,
+        -68.37567988510528
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1381202,
+        "videoId": 1381203,
+        "externalId": "qaOzgdT4ps",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **地区:** |\n| :-----------: |\n| *金融区* |\n| *位于建筑物屋顶垃圾容器旁边楼梯下方。* |\n#\n| **奖励:** |\n| :-----------: |\n|***科技部件***||\n#\n**注意:**\n#\n*科技部件用于升级装备和套装。*",
+        "imagePath": "/game_map_pin/1381202/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/07579ee343b94bf3a7e7d02725fd3e7628ec9c6a"
+      }
+    },
+    {
+      "coordinates": [
+        -13.909732570926224,
+        -72.5379331733968
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1381207,
+        "videoId": 1381208,
+        "externalId": "VvvCSIS9w8",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *金融区* |\n| *位于圆顶屋顶建筑物顶部的木箱内。* |\n#\n| **奖励：** |\n| :-----------: |\n|***科技零件***||\n#\n**注意：**\n#\n*科技零件用于升级装备和战衣。*",
+        "imagePath": "/game_map_pin/1381207/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/12fd09b4bebb4adc94f10baf7fee47509c120401"
+      }
+    },
+    {
+      "coordinates": [
+        28.564092825009,
+        -80.15627587987875
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1381216,
+        "videoId": 1381217,
+        "externalId": "eCSYrrSRMI",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *金融区* |\n| *位于建筑物的码头内，由三名地下士兵守卫。* |\n#\n| **奖励：** |\n| :-----------: |\n|***科技零件***||\n#\n**注意：**\n#\n*科技零件用于升级装备和套装。*",
+        "imagePath": "/game_map_pin/1381216/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/7ac6e911b545c11b144a9408659af14e08418358"
+      }
+    },
+    {
+      "coordinates": [
+        37.509084800965326,
+        -75.98132384951474
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1381245,
+        "videoId": 1381246,
+        "externalId": "xnDCPdrLp0",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *金融区* |\n| *位于一个标有地下组织标志的货运集装箱内。* |\n#\n| **奖励：** |\n| :-----------: |\n|***科技零件***||\n#\n**注意：**\n#\n*进入货运集装箱，穿过下方的隧道，然后到上方查看宝箱。*\n#\n*科技零件用于升级装备和套装。*",
+        "imagePath": "/game_map_pin/1381245/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/e539546f7f5286bc950fe6f35fca2a390fa213fa"
+      }
+    },
+    {
+      "coordinates": [
+        -68.09876105833139,
+        -11.37528250846384
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1381464,
+        "videoId": 1381465,
+        "externalId": "pu2paRK5rO",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *地狱厨房* |\n| *位于建筑边缘蓝色起重机下方。* |\n#\n| **奖励：** |\n| :-----------: |\n|***科技零件***||\n#\n**注意：**\n#\n*科技零件用于升级装备和套装。*",
+        "imagePath": "/game_map_pin/1381464/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/202c57688de32aca2213110d0b3c139c411c700f"
+      }
+    },
+    {
+      "coordinates": [
+        -33.556621189804616,
+        19.20815493064046
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1381467,
+        "videoId": 1381468,
+        "externalId": "mJTRixTRN8",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *地狱厨房* |\n| *位于屋顶的一个房间内，旁边有一台黄色起重机。* |\n#\n| **奖励：** |\n| :-----------: |\n|***科技零件***||\n#\n**注意：**\n#\n*砸碎阻挡入口的木箱或拉开旁边的门。*\n#\n*科技零件用于升级装备和战衣。*",
+        "imagePath": "/game_map_pin/1381467/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/c90a8a4c2fb2f7f7d61668b9ffdf225b84630b45"
+      }
+    },
+    {
+      "coordinates": [
+        -25.854100292941297,
+        30.912241126817406
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1381475,
+        "videoId": 1381476,
+        "externalId": "Ec7Gv7UfG1",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *地狱厨房* |\n| *位于菲斯克大厦旋转门处，地面入口被一些铁丝网围栏阻挡。* |\n#\n| **奖励：** |\n| :-----------: |\n|***科技零件***||\n#\n**注意：**\n#\n*拾取后，三名地下士兵将会攻击。*\n#\n*科技零件用于升级装备和战衣。*",
+        "imagePath": "/game_map_pin/1381475/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/336055d197417e23690f2373146a85c9a2e8d106"
+      }
+    },
+    {
+      "coordinates": [
+        -12.774538147701293,
+        46.044625678485716
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1381510,
+        "videoId": 1381511,
+        "externalId": "yYNPF5jgx8",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Central Park* |\n| *Located in a room blocked by a wooden wall at the front of the Angel Statue Fountain.* |\n#\n| **Rewards:** |\n| :-----------: |\n|***Tech Parts***||\n#\n**Note:**\n#\n*Tech Parts are used to upgrade gears and suits.*",
+        "imagePath": "/game_map_pin/1381510/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/e7160e566016d8c712bdfd356d748456daafa30f"
+      }
+    },
+    {
+      "coordinates": [
+        -13.860607324030497,
+        68.37290880239419
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1381534,
+        "videoId": 1381535,
+        "externalId": "gMox3cJ6qs",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Central Park* |\n| *Located inside the Blockhouse No. 1.* |\n#\n| **Rewards:** |\n| :-----------: |\n|***Tech Parts***||\n#\n**Note:**\n#\n*Tech Parts are used to upgrade gears and suits.*",
+        "imagePath": "/game_map_pin/1381534/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/d09c6dc200a699d0f63a4680f8efbef20ee330b3"
+      }
+    },
+    {
+      "coordinates": [
+        -34.122108218533185,
+        55.75558774433674
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1381593,
+        "videoId": 1381594,
+        "externalId": "fnkVfR8ApX",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Upper West Side* |\n| *Located on the rooftop of the building, between the piles of concrete mix.* |\n#\n| **Rewards:** |\n| :-----------: |\n|***Tech Parts***||\n#\n**Note:**\n#\n*Tech Parts are used to upgrade gears and suits.*",
+        "imagePath": "/game_map_pin/1381593/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/e9607d675eaeff6408fbc08dd7a8bd72889a38b4"
+      }
+    },
+    {
+      "coordinates": [
+        -40.235594801041884,
+        63.944451973200785
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1381597,
+        "videoId": 1381598,
+        "externalId": "x4svoUhTSl",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Upper West Side* |\n| *Located inside a gray tent on the rooftop of the building.* |\n#\n| **Rewards:** |\n| :-----------: |\n|***Tech Parts***||\n#\n**Note:**\n#\n*Tech Parts are used to upgrade gears and suits.*",
+        "imagePath": "/game_map_pin/1381597/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/079b71303aa9bca0a4d66aa1e8e93aeecfddcb88"
+      }
+    },
+    {
+      "coordinates": [
+        -71.55818113342508,
+        73.90176422585256
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1381602,
+        "videoId": 1381603,
+        "externalId": "ig5kaLSLfk",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Harlem* |\n| *Located between a pile of shipping crates blocked by a wooden crate, guarded by multiple Underground Soldiers.* |\n#\n| **Rewards:** |\n| :-----------: |\n|***Tech Parts***||\n#\n**Note:**\n#\n*Tech Parts are used to upgrade gears and suits.*",
+        "imagePath": "/game_map_pin/1381602/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/d6b1500df65673bd27b5bf4b7acd028cd74bbf0b"
+      }
+    },
+    {
+      "coordinates": [
+        -41.033409289024576,
+        78.99896493556918
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1381615,
+        "videoId": 1381616,
+        "externalId": "NR8vVWu727",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Harlem* |\n| *Located inside a Roxxon outlet, beside the gas station.* |\n#\n| **Rewards:** |\n| :-----------: |\n|***Tech Parts***||\n#\n**Note:**\n#\n*Pull the gear on the upper right of the entrance then web it multiple times with your web shooter.*\n#\n*Tech Parts are used to upgrade gears and suits.*",
+        "imagePath": "/game_map_pin/1381615/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/201dd7ecddd9ef79435ee5b189efeacb723e8bfa"
+      }
+    },
+    {
+      "coordinates": [
+        29.75954519429311,
+        66.53174004957091
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1381635,
+        "videoId": 1381636,
+        "externalId": "1bHoReYXHw",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Upper East Side* |\n| *Located inside a Roxxon outlet, beside the gas station.* |\n#\n| **Rewards:** |\n| :-----------: |\n|***Tech Parts***||\n#\n**Note:**\n#\n*Pull the gear on the upper left of the entrance then web it multiple times with your web shooter.*\n#\n*Tech Parts are used to upgrade gears and suits.*",
+        "imagePath": "/game_map_pin/1381635/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/2d7f9bc6c4636c2bd406901121e9ae676b216e4b"
+      }
+    },
+    {
+      "coordinates": [
+        28.0883229843256,
+        54.16657849555986
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1381640,
+        "videoId": 1381641,
+        "externalId": "e2BWv2n38c",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Upper East Side* |\n| *Located inside a hidden room blocked by a large wooden wall with an Underground Symbol on it, beside a small round fountain.* |\n#\n| **Rewards:** |\n| :-----------: |\n|***Tech Parts***||\n#\n**Note:**\n#\n*Tech Parts are used to upgrade gears and suits.*",
+        "imagePath": "/game_map_pin/1381640/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/e3922d3c893cd455203ef63324efccd746301604"
+      }
+    },
+    {
+      "coordinates": [
+        4.762774547366348,
+        51.84502706804531
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1381644,
+        "videoId": 1381645,
+        "externalId": "0fY9tzM4ja",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **地区：** |\n| :-----------: |\n| *上东区* |\n| *位于建筑旁脚手架后方。* |\n#\n| **奖励：** |\n| :-----------: |\n|***科技零件***||\n#\n**注意：**\n#\n*拉下中间的脚手架然后向左转进入。*\n#\n*科技零件用于升级装备和战衣。*",
+        "imagePath": "/game_map_pin/1381644/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/000d2533bca6758820ae586bc21494a4c0c7f3e9"
+      }
+    },
+    {
+      "coordinates": [
+        14.776192285324385,
+        35.8371028222999
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1381647,
+        "videoId": 1381648,
+        "externalId": "TBulz3CtAt",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *中城* |\n| *位于图书馆建筑的屋顶上。* |\n#\n| **奖励：** |\n| :-----------: |\n|***科技零件***||\n#\n**注意：**\n#\n*科技零件用于升级装备和战衣。*",
+        "imagePath": "/game_map_pin/1381647/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/d70e9c31ad1c018061fc094b2de656a70f5b3fcf"
+      }
+    },
+    {
+      "coordinates": [
+        9.75269473103998,
+        75.39141444170417
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1382009,
+        "videoId": 1382010,
+        "externalId": "7S86ZrZz2E",
+        "title": "F.E.A.S.T.",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Harlem* |\n#\n#\n| **Easter Egg** |\n| :-----------: |\n| *F.E.A.S.T. stands for \"Food, Emergency Aid, Shelter & Training\", a non-profit charitable organization.* |",
+        "imagePath": "/game_map_pin/1382009/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/d395cade641df74fcb9ad61a695c8a396bf2de74"
+      }
+    },
+    {
+      "coordinates": [
+        -20.354347200789505,
+        75.87453659895678
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1382015,
+        "videoId": 1382016,
+        "externalId": "058tCr2cvr",
+        "title": "\"酒吧\"",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *哈林区* |\n#\n#\n| **彩蛋** |\n| :-----------: |\n| *无名酒吧，隐藏在其秘密且不断变化的位置中，这是一个超级反派们可以聚在一起的地方。* |",
+        "imagePath": "/game_map_pin/1382015/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/585c407b6783360643b9f4d8f7f1c41b0d9e684e"
+      }
+    },
+    {
+      "coordinates": [
+        -40.242434023361426,
+        71.85557907065808
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1382027,
+        "videoId": 1382028,
+        "externalId": "3Wt6Vv7aOI",
+        "title": "F.E.A.S.T.",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Harlem* |\n#\n#\n| **Easter Egg** |\n| :-----------: |\n| *F.E.A.S.T. stands for \"Food, Emergency Aid, Shelter & Training\", a non-profit charitable organization.* |",
+        "imagePath": "/game_map_pin/1382027/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/ee74dfec20cdce8d38ffa71ca72983fa9f47a777"
+      }
+    },
+    {
+      "coordinates": [
+        -38.499736121478804,
+        67.08229538779693
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1382040,
+        "videoId": 1382041,
+        "externalId": "kOjNihU8E3",
+        "title": "帝国州立大学",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *上西城* |\n#\n#\n| **彩蛋** |\n| :-----------: |\n| *帝国州立大学（ESU）是一所虚构的大学，其校友包括彼得·帕克、哈利·奥斯本和格温·史黛西。* |",
+        "imagePath": "/game_map_pin/1382040/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/316de973290775ac37e484717c53b2b726d9f921"
+      }
+    },
+    {
+      "coordinates": [
+        -70.08403057360255,
+        64.36050454381999
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383123,
+        "videoId": 1383124,
+        "externalId": "MMzDhAEZkL",
+        "title": "Oscorp Science Center",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Upper West Side* |\n#\n#\n| **Easter Egg** |\n| :-----------: |\n| *Science museum run by Oscorp Industries, taken over by The Underground to store their NuForm samples.* |",
+        "imagePath": "/game_map_pin/1383123/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/45e91515ddcfccbbafe8cacd9aa3e7fe4b666221"
+      }
+    },
+    {
+      "coordinates": [
+        -43.8610642464819,
+        64.61197609123508
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383128,
+        "videoId": 1383129,
+        "externalId": "qpkTBDjqqD",
+        "title": "H.E.A.R.T. 诊所",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Upper West Side* |\n#\n#\n| **Easter Egg** |\n| :-----------: |\n| *H.E.A.R.T. stands for \"Hospital for Emergency Aid and Recuperative Therapy\", founded by Dr. Elias Wirtham (secretly the vigilante Cardiac).* |",
+        "imagePath": "/game_map_pin/1383128/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/ee407e0f29951f4b2bdba9b02b76ecea887ab20d"
+      }
+    },
+    {
+      "coordinates": [
+        -29.86448221522889,
+        65.99779470648957
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383133,
+        "videoId": 1383134,
+        "externalId": "iLeOCEP7Pl",
+        "title": "Tricorp Research Foundation",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Upper West Side* |\n#\n| **Easter Egg** |\n| :-----------: |\n| *Private brain trust founded by Dr. Twaki, served as a hotbed for the best scientific minds.* |",
+        "imagePath": "/game_map_pin/1383133/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/e35a79d2bba5ed0fbbf9f2b303b4d05c6115a690"
+      }
+    },
+    {
+      "coordinates": [
+        -44.93239363836574,
+        58.26265363526599
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383138,
+        "videoId": 1383139,
+        "externalId": "mEv2djgwIc",
+        "title": "F.E.A.S.T.",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Upper West Side* |\n#\n#\n| **Easter Egg** |\n| :-----------: |\n| *F.E.A.S.T. stands for \"Food, Emergency Aid, Shelter & Training\", a non-profit charitable organization.* |",
+        "imagePath": "/game_map_pin/1383138/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/037c2677724a2c65753a940e0f8389c74b40cd87"
+      }
+    },
+    {
+      "coordinates": [
+        -25.279827757317832,
+        55.643870608630635
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383145,
+        "videoId": 1383146,
+        "externalId": "n8L9CxHNL6",
+        "title": "罗斯曼大厦",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *上西区* |\n#\n| **彩蛋** |\n| :-----------: |\n| *以漫威游戏副总裁兼创意总监比尔·罗斯曼的名字命名。* |",
+        "imagePath": "/game_map_pin/1383145/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/f27b3c5fc24d67666779fbd474f544924be7da08"
+      }
+    },
+    {
+      "coordinates": [
+        -39.10367027408378,
+        13.386246456559519
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383155,
+        "videoId": 1383156,
+        "externalId": "ksMB21zajF",
+        "title": "福格韦尔健身房",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *地狱厨房* |\n#\n| **彩蛋** |\n| :-----------: |\n| *由杰克·默多克拥有并经营的拳击馆，杰克·默多克是马特·默多克（夜魔侠）的父亲。* |",
+        "imagePath": "/game_map_pin/1383155/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/923a6bf127c06524a09b2794ee5ff2034057f811"
+      }
+    },
+    {
+      "coordinates": [
+        -51.533274933191336,
+        5.769560996650682
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383161,
+        "videoId": 1383162,
+        "externalId": "AEyQ8zvwSK",
+        "title": "罗克森能源公司",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *地狱厨房* |\n#\n| **彩蛋** |\n| :-----------: |\n| *罗克森公司的据点之一，第一个主线任务地点。* |",
+        "imagePath": "/game_map_pin/1383161/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/3e3d1d88315280a614e77127efc2dcdca2fe5da4"
+      }
+    },
+    {
+      "coordinates": [
+        -34.55008471975793,
+        5.4817431299800035
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383270,
+        "videoId": 1383271,
+        "externalId": "Dkc4bS3FDu",
+        "title": "纳尔逊与默多克律师事务所",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *地狱厨房* |\n#\n| **彩蛋** |\n| :-----------: |\n| *位于纽约市的律师事务所，由福吉·尼尔森和马特·默多克（夜魔侠）创立。* |",
+        "imagePath": "/game_map_pin/1383270/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/a6274683a30f5afad3a0874d7fb272d65f6729a0"
+      }
+    },
+    {
+      "coordinates": [
+        -32.85819018850799,
+        4.4310143007839145
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383276,
+        "videoId": 1383277,
+        "externalId": "6Xken3RMVj",
+        "title": "乔西酒吧",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *地狱厨房* |\n#\n| **彩蛋** |\n| :-----------: |\n| *这是一家昏暗的酒吧，经常作为小罪犯和有组织犯罪集团的聚会点。它受到夜魔侠的监视。* |",
+        "imagePath": "/game_map_pin/1383276/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/7cb98934efa853fba7c955ba3b673b855ab21335"
+      }
+    },
+    {
+      "coordinates": [
+        -38.72059462737238,
+        -1.4209788756426605
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383291,
+        "videoId": 1383292,
+        "externalId": "Aq1r1vfagN",
+        "title": "别名调查事务所",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *地狱厨房* |\n#\n| **彩蛋** |\n| :-----------: |\n| *由杰西卡·琼斯拥有和经营的私人侦探事务所。* |",
+        "imagePath": "/game_map_pin/1383291/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/cacae9ea91599700b1580b34f125fb37c3caee48"
+      }
+    },
+    {
+      "coordinates": [
+        -32.58507435243024,
+        -27.249148049543145
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383302,
+        "videoId": 1383303,
+        "externalId": "akA2Mfb41b",
+        "title": "克林顿救济所",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *地狱厨房* |\n#\n| **彩蛋** |\n| :-----------: |\n| *也被称为\"圣安娜无家可归者收容所\"，由玛格丽特·默多克经营的教堂，她是马特·默多克（夜魔侠）的母亲。* |",
+        "imagePath": "/game_map_pin/1383302/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/0031d20202113d6db025130ca68e969447f4b8b0"
+      }
+    },
+    {
+      "coordinates": [
+        -24.645851520920303,
+        31.906594227503163
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383151,
+        "videoId": 1383152,
+        "externalId": "u9crUcK8XL",
+        "title": "菲斯克大厦",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *地狱厨房* |\n#\n| **彩蛋** |\n| :-----------: |\n| *菲斯克工业大厦作为金并（威尔逊·菲斯克）的合法公众形象，暗中却充当着非法犯罪活动的中央枢纽。* |",
+        "imagePath": "/game_map_pin/1383151/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/2adc37c3598a5cb66445a13878a5a6c937c23010"
+      }
+    },
+    {
+      "coordinates": [
+        -52.77813082300558,
+        28.526069922065048
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383153,
+        "videoId": 1383154,
+        "externalId": "RGT9d8HIRS",
+        "title": "F.E.A.S.T.",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *地狱厨房* |\n#\n#\n| **彩蛋** |\n| :-----------: |\n| *F.E.A.S.T. 代表\"食物、紧急援助、庇护所和培训\"，是一个非营利慈善组织。* |",
+        "imagePath": "/game_map_pin/1383153/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/17b2d6a31caa08d82724c32091f7cf93fb3279fb"
+      }
+    },
+    {
+      "coordinates": [
+        13.45281593097593,
+        38.09159384569557
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1381878,
+        "videoId": 1381879,
+        "externalId": "ff8fms5oDt",
+        "title": "H.E.A.R.T. 诊所",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Upper East Side* |\n#\n| **Easter Egg** |\n| :-----------: |\n| *H.E.A.R.T. stands for \"Hospital for Emergency Aid and Recuperative Therapy\", founded by Dr. Elias Wirtham (secretly the vigilante Cardiac).* |",
+        "imagePath": "/game_map_pin/1381878/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/cf6c106b138b40377d1683d99789fdcd896c18a1"
+      }
+    },
+    {
+      "coordinates": [
+        20.890145672770245,
+        54.87185330310476
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1381982,
+        "videoId": 1381983,
+        "externalId": "l8P1f2t3iZ",
+        "title": "Avengers Tower",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Upper East Side* |\n#\n| **Easter Egg** |\n| :-----------: |\n| *Avengers Tower, formerly known as Stark Tower constructed by Tony Stark.* |",
+        "imagePath": "/game_map_pin/1381982/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/dd49beb47fe7ca3aaaaec91f210ee1418e9c5b85"
+      }
+    },
+    {
+      "coordinates": [
+        29.783069764804395,
+        64.81001668759171
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1381991,
+        "videoId": 1381992,
+        "externalId": "rsaaZ5z1GM",
+        "title": "Black Wing Tavern",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Upper East Side* |\n#\n| **Easter Egg** |\n| :-----------: |\n| *An outdoor bar named after Blackwing.* |",
+        "imagePath": "/game_map_pin/1381991/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/80621b8ede6732bda445534e442f5000ab3edff0"
+      }
+    },
+    {
+      "coordinates": [
+        33.02816860045223,
+        70.89512849838121
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1381996,
+        "videoId": 1381997,
+        "externalId": "WRmWEvf29i",
+        "title": "奥斯本工业",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Harlem* |\n#\n| **Easter Egg** |\n| :-----------: |\n| *Oscorp, also known as Oscorp Industries, a large tech company that was founded by Norman Osborn.* |",
+        "imagePath": "/game_map_pin/1381996/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/15c2175792ab25eb35d9da65a8b0d099a5f378a2"
+      }
+    },
+    {
+      "coordinates": [
+        29.32096446158394,
+        73.48168625173321
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1381999,
+        "videoId": 1382000,
+        "externalId": "3Psq8aKy5x",
+        "title": "Roxxon Plaza",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Harlem* |\n#\n| **Easter Egg** |\n| :-----------: |\n| *Roxxon Plaza built in Harlem with Roxxon's first NuForm reactor at its center.* |",
+        "imagePath": "/game_map_pin/1381999/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/80b4e677432d4de1a3be232d2ed0f2d5548b8508"
+      }
+    },
+    {
+      "coordinates": [
+        -50.61135650213083,
+        80.66133604038072
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1382033,
+        "videoId": 1382034,
+        "externalId": "pjTjzpBhxi",
+        "title": "Parkers' Graves",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Harlem* |\n#\n| **Easter Egg** |\n| :-----------: |\n| *Uncle Ben and Aunt May's graves.* |",
+        "imagePath": "/game_map_pin/1382033/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/2f5d01a0eacbc0877434429887e75b145da3191e"
+      }
+    },
+    {
+      "coordinates": [
+        -19.500405263622497,
+        -10.585638247224665
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383308,
+        "videoId": 1383309,
+        "externalId": "qDSw12UDO9",
+        "title": "号角日报",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *中城区* |\n#\n| **彩蛋** |\n| :-----------: |\n| *小报报纸，以耸人听闻的报道和对蜘蛛侠的负面描述而闻名，通常由主编J·乔纳·詹姆森推动。* |",
+        "imagePath": "/game_map_pin/1383308/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/05aaf19a9dad6efdc771810f4deedf871fde2ca6"
+      }
+    },
+    {
+      "coordinates": [
+        36.67095900973234,
+        -14.549988944401633
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383355,
+        "videoId": 1383356,
+        "externalId": "STFdWetBtv",
+        "title": "菲斯克大厦",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *中城区* |\n#\n| **彩蛋** |\n| :-----------: |\n| *菲斯克工业大厦作为金并（威尔逊·菲斯克）的合法公众形象，同时秘密地作为非法犯罪活动的中心枢纽。* |",
+        "imagePath": "/game_map_pin/1383355/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/dc3609297e376858b57a2d396b718a3a3663437a"
+      }
+    },
+    {
+      "coordinates": [
+        31.48541213473237,
+        -9.306420463864427
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383371,
+        "videoId": 1383372,
+        "externalId": "A6uHJGPQsk",
+        "title": "赛姆卡里亚大使馆",
+        "description": "***\n#\n| **地区：** |\n| :-----------: |\n| *中城区* |\n#\n| **彩蛋** |\n| :-----------: |\n| *辛卡利亚王国大使馆，被银貂和她的精英团队野性战队用作总部。* |",
+        "imagePath": "/game_map_pin/1383371/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/832c5e07036eee92b0ed44d1afe2820cd4cf6a31"
+      }
+    },
+    {
+      "coordinates": [
+        33.02586993436836,
+        2.7075585375312414
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383380,
+        "videoId": 1383381,
+        "externalId": "AEDfrueKJ5",
+        "title": "瓦坎达大使馆",
+        "description": "***\n#\n| **区域:** |\n| :-----------: |\n| *中城* |\n#\n| **彩蛋** |\n| :-----------: |\n| *代表瓦坎达国家，黑豹的故乡，以外交身份出现。* |",
+        "imagePath": "/game_map_pin/1383380/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/08aa5120592350f98350971acee9565327eaeb91"
+      }
+    },
+    {
+      "coordinates": [
+        12.097413820889471,
+        29.033375432954855
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383348,
+        "videoId": 1383349,
+        "externalId": "hOlUnOCyUh",
+        "title": "Insomniac Games",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *中城区* |\n#\n| **彩蛋** |\n| :-----------: |\n| *负责制作漫威蜘蛛侠系列游戏的创作者们。* |",
+        "imagePath": "/game_map_pin/1383348/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/a1a0a05c8fdd56e939ded65e9527cc908c0f6f94"
+      }
+    },
+    {
+      "coordinates": [
+        7.087648195888789,
+        27.504634379999715
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383333,
+        "videoId": 1383334,
+        "externalId": "YQYVhTfclo",
+        "title": "兰德公司",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *中城* |\n#\n| **彩蛋** |\n| :-----------: |\n| *研究投资公司，由温德尔·兰德创立，他是丹尼尔·兰德（铁拳）的父亲，后来被其联合创始人哈罗德·米查姆杀害。* |",
+        "imagePath": "/game_map_pin/1383333/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/ae519a37e75761f3216571034dff7f62ed893ff3"
+      }
+    },
+    {
+      "coordinates": [
+        -5.2417209591119445,
+        25.81421660322087
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383322,
+        "videoId": 1383323,
+        "externalId": "xlZL9GAsId",
+        "title": "奥斯本工业",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *中城* |\n#\n| **彩蛋** |\n| :-----------: |\n| *奥斯本集团，也被称为奥斯本工业，是由诺曼·奥斯本创立的大型科技公司。* |",
+        "imagePath": "/game_map_pin/1383322/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/871d404e76ace897071fe6df490742dc94617c92"
+      }
+    },
+    {
+      "coordinates": [
+        -52.91081379633772,
+        80.2515020055555
+      ],
+      "properties": {
+        "subcategoryExternalId": "3gsxI16XYR",
+        "imageId": 1382035,
+        "videoId": 1382036,
+        "externalId": "1hp8TyCL6l",
+        "title": "杰斐逊·戴维斯墓",
+        "description": "***\n#\n| **地区：** |\n| :-----------: |\n| *哈莱姆区* |\n#\n| **信息：** |\n| :-----------: |\n| *杰弗逊·戴维斯的墓地，迈尔斯·莫拉莱斯的父亲。* |\n#\n| **解锁：** |\n| :-----------: |\n|***\"永不放弃\"成就***||",
+        "imagePath": "/game_map_pin/1382035/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/113c0a2619a08f2a174520c52566d65c32ea1c67"
+      }
+    },
+    {
+      "coordinates": [
+        4.931345910681301,
+        -38.408111428384395
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383397,
+        "videoId": 1383398,
+        "externalId": "fv8nbaeDdD",
+        "title": "事实频道新闻",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *格林威治* |\n#\n| **彩蛋** |\n| :-----------: |\n| *新闻频道，J·乔纳·詹姆逊和辛迪·沐恩（丝克）等知名角色曾在此工作。* |",
+        "imagePath": "/game_map_pin/1383397/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/aa03373fca974c0e208906ecfc496682082ecf43"
+      }
+    },
+    {
+      "coordinates": [
+        8.351976285294683,
+        -47.93895863970974
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383409,
+        "videoId": 1383410,
+        "externalId": "D802kJlvmw",
+        "title": "帝国州立大学",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *格林威治* |\n#\n#\n| **彩蛋** |\n| :-----------: |\n| *帝国州立大学（ESU）是一所虚构的大学，其校友包括彼得·帕克、哈里·奥斯本和格温·史黛西。* |",
+        "imagePath": "/game_map_pin/1383409/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/f3b6d77670abb06d71abc49f865d1399584a7639"
+      }
+    },
+    {
+      "coordinates": [
+        13.951572794137235,
+        -56.0799517203009
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383414,
+        "videoId": 1383415,
+        "externalId": "RmpzhPHUAd",
+        "title": "至圣所",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *格林威治* |\n#\n| **彩蛋** |\n| :-----------: |\n| *史蒂芬·文森特·斯特兰奇博士（奇异博士）的住所和总部。* |",
+        "imagePath": "/game_map_pin/1383414/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/0cc6b45b2d600f28b0a810404cc0c977c544e49e"
+      }
+    },
+    {
+      "coordinates": [
+        -24.062542629825913,
+        -47.10253523104075
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383405,
+        "videoId": 1383406,
+        "externalId": "HWeXYL4rqJ",
+        "title": "梅森修理店",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *格林威治* |\n#\n| **彩蛋** |\n| :-----------: |\n| *由理查德\"里克\"梅森拥有的商店，菲恩·梅森的哥哥。* |",
+        "imagePath": "/game_map_pin/1383405/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/292029c6a21c661705892487cbb0f4735880c2ec"
+      }
+    },
+    {
+      "coordinates": [
+        -34.89506216107628,
+        -46.81760248142889
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383401,
+        "videoId": 1383402,
+        "externalId": "02IGdIIjYI",
+        "title": "奥克塔维厄斯工业",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *格林威治* |\n#\n| **彩蛋** |\n| :-----------: |\n| *由奥托·奥克塔维斯创立并拥有的科技研究公司，彼得·帕克曾在此担任实验室助理。* |",
+        "imagePath": "/game_map_pin/1383401/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/75b3d06b9ac86cac95908b983ca1ede4709da4c8"
+      }
+    },
+    {
+      "coordinates": [
+        30.0064212554594,
+        -33.63883096811056
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383426,
+        "videoId": 1383427,
+        "externalId": "22G0lx7mft",
+        "title": "H.E.A.R.T. 诊所",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *唐人街* |\n#\n| **彩蛋** |\n| :-----------: |\n| *H.E.A.R.T. 代表\"急救和康复治疗医院\"，由伊莱亚斯·沃瑟姆博士创立（他秘密身份是义警卡迪亚克）。* |",
+        "imagePath": "/game_map_pin/1383426/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/a71ccf9533ca340451c6419bb687cce3b662a58e"
+      }
+    },
+    {
+      "coordinates": [
+        40.8730800051236,
+        -47.493700385348035
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383436,
+        "videoId": 1383437,
+        "externalId": "0CTpLiKjVW",
+        "title": "F.E.A.S.T.",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *唐人街* |\n#\n#\n| **彩蛋** |\n| :-----------: |\n| *F.E.A.S.T. 代表\"食物、紧急援助、庇护所和培训\"，是一个非营利慈善组织。* |",
+        "imagePath": "/game_map_pin/1383436/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/21cf7dfc4b1c808956e69bf7f2ee7990889c42cb"
+      }
+    },
+    {
+      "coordinates": [
+        71.20288163026723,
+        -50.86899464560892
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383474,
+        "videoId": 1383475,
+        "externalId": "k35cmY5Idn",
+        "title": "蜘蛛侠之家",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *唐人街* |\n#\n| **彩蛋** |\n| :-----------: |\n| *彼得·帕克之前的公寓。* |",
+        "imagePath": "/game_map_pin/1383474/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/5736d953a7a1878335edeac14a6697da245858a2"
+      }
+    },
+    {
+      "coordinates": [
+        35.86295849305793,
+        -56.78161541938277
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383443,
+        "videoId": 1383444,
+        "externalId": "6SXgIqkPII",
+        "title": "里奥餐厅",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *唐人街* |\n#\n| **彩蛋** |\n| :-----------: |\n| *由雷米宇宙（地球-96283）的里奥和彼得·帕克拥有的披萨店，被蜘蛛侠团队用作藏身之处。* |",
+        "imagePath": "/game_map_pin/1383443/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/094bf29c17af861c250b69d473e140bcf1a2c06f"
+      }
+    },
+    {
+      "coordinates": [
+        44.622900690870296,
+        -61.814749634563505
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383450,
+        "videoId": 1383451,
+        "externalId": "jnfn9hi6lo",
+        "title": "罗克森工业集团",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *唐人街* |\n#\n| **彩蛋** |\n| :-----------: |\n| *罗克森公司的据点之一。* |",
+        "imagePath": "/game_map_pin/1383450/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/0da00dc092c01db2238f6bbb44c8fa568d5a1c7c"
+      }
+    },
+    {
+      "coordinates": [
+        72.28059360972628,
+        -65.66296477122451
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383470,
+        "videoId": 1383471,
+        "externalId": "paWbz09VXS",
+        "title": "H.E.A.R.T. 诊所",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *唐人街* |\n#\n| **彩蛋** |\n| :-----------: |\n| *H.E.A.R.T. 代表\"急救和康复治疗医院\"，由伊莱亚斯·沃瑟姆博士创立（他秘密身份是义警卡迪亚克）。* |",
+        "imagePath": "/game_map_pin/1383470/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/f55843b3fd70013ee0f305e956ce2e020a8367e9"
+      }
+    },
+    {
+      "coordinates": [
+        37.632872847795085,
+        -71.36389683930356
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383502,
+        "videoId": 1383503,
+        "externalId": "W1uKS4cycL",
+        "title": "损伤控制",
+        "description": "***\n#\n| **区域:** |\n| :-----------: |\n| *金融区* |\n#\n| **彩蛋** |\n| :-----------: |\n| *美国损害控制部是一个政府支持的组织，主要负责清理超能力事件的后果和管理涉及超级英雄战斗的善后工作，由美国联邦政府和史塔克工业的托尼·史塔克共同成立。* |",
+        "imagePath": "/game_map_pin/1383502/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/b12d3a243c8e707515886849600306a2cfdc9ccf"
+      }
+    },
+    {
+      "coordinates": [
+        31.370665816544886,
+        -71.87655737646205
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383496,
+        "videoId": 1383497,
+        "externalId": "ywy6Oc4vOK",
+        "title": "F.E.A.S.T.",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *金融区* |\n#\n#\n| **彩蛋** |\n| :-----------: |\n| *F.E.A.S.T. 代表\"食物、紧急援助、住所和培训\"，是一个非营利慈善组织。* |",
+        "imagePath": "/game_map_pin/1383496/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/34fc9dbcae5a8c7968f7671c4f8ad07f481b047d"
+      }
+    },
+    {
+      "coordinates": [
+        -1.5069123675211245,
+        -66.79916839854764
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383486,
+        "videoId": 1383487,
+        "externalId": "PNLbo0a09z",
+        "title": "消防站",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *金融区* |\n#\n| **彩蛋** |\n| :-----------: |\n| *消防站，云梯消防队第8分队，这是对著名超自然喜剧系列电影《捉鬼敢死队》的致敬。* |",
+        "imagePath": "/game_map_pin/1383486/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/70bd32e6c22535fead03ed69b16cbda1af91e58f"
+      }
+    },
+    {
+      "coordinates": [
+        13.817179973419513,
+        -74.00255035597326
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383491,
+        "videoId": 1383492,
+        "externalId": "bJ79cKTHuQ",
+        "title": "纪念碑",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *金融区* |\n#\n| **彩蛋** |\n| :-----------: |\n| *市政厅爆炸案纪念碑。* |",
+        "imagePath": "/game_map_pin/1383491/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/654de99757b8d77edaf74f495bf72b4310bbe218"
+      }
+    },
+    {
+      "coordinates": [
+        10.665946390451893,
+        -78.0636567696449
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383506,
+        "videoId": 1383507,
+        "externalId": "kQNzpIxxld",
+        "title": "罗克森大厦",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *金融区* |\n#\n| **彩蛋** |\n| :-----------: |\n| *罗克森公司的一个据点。* |",
+        "imagePath": "/game_map_pin/1383506/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/fb1df98d9a594925af5edc1f2536d8cc86434b2e"
+      }
+    },
+    {
+      "coordinates": [
+        8.644462015451609,
+        -79.11076159956207
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1383513,
+        "videoId": 1383515,
+        "externalId": "oAvuiDRZSQ",
+        "title": "破伤风雕像",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *金融区* |\n#\n| **彩蛋** |\n| :-----------: |\n| *一只具有传送能力的异人族巨型斗牛犬。他为异人族皇室担任护卫和忠诚的保护者。* |",
+        "imagePath": "/game_map_pin/1383513/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/094496ac98ae0b27e911fead0393ca5b90f62965"
+      }
+    },
+    {
+      "coordinates": [
+        -32.33228859520409,
+        55.60285519705215
+      ],
+      "properties": {
+        "subcategoryExternalId": "EhqagRYo6K",
+        "imageId": 1383559,
+        "videoId": 1383560,
+        "externalId": "DKOAnupKYR",
+        "title": "斯坦·李雕像和米克餐厅",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *上西区* |\n#\n| **信息：** |\n| :-----------: |\n| *已故斯坦·李的客串，漫威的主要创意领袖。* |\n| *彼得·帕克和玛丽·简·沃森是米克餐厅的常客。* |\n#\n| **解锁：** |\n| :-----------: |\n|***\"镇上最棒薯条\"成就***||",
+        "imagePath": "/game_map_pin/1383559/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/4bfc05192c260d70440e06d7fd69fecf01f90d34"
+      }
+    },
+    {
+      "coordinates": [
+        21.11560395790636,
+        73.64473007128336
+      ],
+      "properties": {
+        "subcategoryExternalId": "4JowAfAtku",
+        "imageId": 1383604,
+        "videoId": 1383605,
+        "externalId": "drRDeiq36a",
+        "title": "Looters!!!",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Harlem* |\n#\n| **Rewards:** |\n| :-----------: |\n|***10 Activity Tokens***|\n#\n**Note:**\n#\n*Complete Main Mission ***\"Harlem Trains Out of Service\"*** to unlock.*\n#\n*Activity Tokens are used to upgrade gears and suits.*",
+        "imagePath": "/game_map_pin/1383604/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/e8af9205000e84c2abe622108b593e5103b78c2b"
+      }
+    },
+    {
+      "coordinates": [
+        21.412688237956132,
+        74.52532662507542
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1383602,
+        "videoId": 1383603,
+        "externalId": "wjJGYuzBTe",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *哈林区* |\n| *位于一栋建设中的建筑物内。* |\n#\n| **奖励：** |\n| :-----------: |\n|***科技零件***||\n#\n**注意：**\n#\n*完成主线任务***\"哈林区火车停运\"***以解锁。*\n#\n*科技零件用于升级装备和套装。*",
+        "imagePath": "/game_map_pin/1383602/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/d58eabdcd2c4e5c05b86767a985736f65edccd78"
+      }
+    },
+    {
+      "coordinates": [
+        16.664932864278114,
+        47.839712754344134
+      ],
+      "properties": {
+        "subcategoryExternalId": "MgfYi55fdA",
+        "imageId": 1383633,
+        "videoId": 1383634,
+        "externalId": "l3vxM9ehXg",
+        "title": "潜行挑战 1.0",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *上东区* |\n#\n| **评分：** |\n| :-----------: |\n| 惊人：*>480秒* |\n| 壮观：*< 480秒* |\n| 终极：*< 240秒* |\n#\n| **解锁：** |\n| :-----------: |\n|***无声步伐***||\n#\n| **奖励：** |\n| :-----------: |\n|***活动代币***||\n#\n**注意：**\n#\n*完成主线任务***\"哈莱姆列车停运\"***以解锁。*",
+        "imagePath": "/game_map_pin/1383633/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/4495a824b20b991b094144ef52063ab7c55f2ea7"
+      }
+    },
+    {
+      "coordinates": [
+        -32.26395485598644,
+        -43.32851944071652
+      ],
+      "properties": {
+        "subcategoryExternalId": "MgfYi55fdA",
+        "imageId": 1383669,
+        "videoId": 1383670,
+        "externalId": "PYAIorBnwA",
+        "title": "潜行挑战2.0",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *格林威治* |\n#\n| **评分：** |\n| :-----------: |\n| 惊人：*> 480秒* |\n| 壮观：*< 480秒* |\n| 终极：*< 240秒* |\n#\n| **解锁：** |\n| :-----------: |\n|***恐吓战术***||\n#\n| **奖励：** |\n| :-----------: |\n|***活动代币***||\n#\n**注意：**\n#\n*完成前置任务***\"潜行挑战1.0\"***以解锁。*",
+        "imagePath": "/game_map_pin/1383669/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/e7b1db77b329ab01acdcc53e118e9ea201dee4f2"
+      }
+    },
+    {
+      "coordinates": [
+        -12.413554513104259,
+        -75.40654156674842
+      ],
+      "properties": {
+        "subcategoryExternalId": "MgfYi55fdA",
+        "imageId": 1383683,
+        "videoId": 1383684,
+        "externalId": "o1R4F6AD4H",
+        "title": "隐秘挑战 3.0",
+        "description": "***\n#\n| **区域:** |\n| :-----------: |\n| *金融区* |\n#\n| **评分:** |\n| :-----------: |\n| 惊人: *> 480 秒* |\n| 壮观: *< 480 秒* |\n| 极致: *< 240 秒* |\n#\n| **解锁:** |\n| :-----------: |\n|***突袭***||\n#\n| **奖励:** |\n| :-----------: |\n|***活动代币***||\n#\n**注意:**\n#\n*完成前置任务 ***\"潜行挑战 2.0\"*** 以解锁。*",
+        "imagePath": "/game_map_pin/1383683/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/2b8755b76c6ae66feed11a57fbbbea6ebd4b597d"
+      }
+    },
+    {
+      "coordinates": [
+        8.377990559306454,
+        -48.84719049550122
+      ],
+      "properties": {
+        "subcategoryExternalId": "MgfYi55fdA",
+        "imageId": 1383695,
+        "videoId": 1383696,
+        "externalId": "E2AG7nWyaW",
+        "title": "最终试炼",
+        "description": "***\n#\n| **区域:** |\n| :-----------: |\n| *格林威治* |\n#\n| **奖励:** |\n| :-----------: |\n|***迈尔斯·莫拉莱斯2020套装***|\n#\n**注意:**\n#\n*完成以下蜘蛛训练以解锁:*\n#\n***[移动挑战3.0](wemod:\\/\\/maps\\/64515\\/364?location=OtQwd91VMe)***\n#\n***[战斗挑战3.0](wemod:\\/\\/maps\\/64515\\/364?location=ljTpcIajvV)***\n#\n***[潜行挑战3.0](wemod:\\/\\/maps\\/64515\\/364?location=o1R4F6AD4H)***\n#\n*完成以解锁***迈尔斯·莫拉莱斯2020套装***。*",
+        "imagePath": "/game_map_pin/1383695/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/a775183b0d9f375d9147585b7346a62f8fbb2c8f"
+      }
+    },
+    {
+      "coordinates": [
+        -15.113877552998787,
+        57.10751356618724
+      ],
+      "properties": {
+        "subcategoryExternalId": "MgfYi55fdA",
+        "imageId": 1380011,
+        "videoId": 1380012,
+        "externalId": "OtQwd91VMe",
+        "title": "穿越挑战 3.0",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *中央公园* |\n#\n| **评分：** |\n| :-----------: |\n| 惊人：*> 75秒* |\n| 壮观：*< 75秒* |\n| 终极：*< 60秒* |\n#\n| **解锁：** |\n| :-----------: |\n|***快速拉链***||\n#\n| **奖励：** |\n| :-----------: |\n|***活动代币***||\n#\n**注意：**\n#\n*完成前置任务***\"穿越挑战2.0\"***以解锁。*\n#\n*活动代币用于升级装备和战衣。*",
+        "imagePath": "/game_map_pin/1380011/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/c5aa129c8498af5ec629478e09d748f7a70bd70b"
+      }
+    },
+    {
+      "coordinates": [
+        -30.08606882580537,
+        -4.829781375481801
+      ],
+      "properties": {
+        "subcategoryExternalId": "MgfYi55fdA",
+        "imageId": 1380000,
+        "videoId": 1380001,
+        "externalId": "QaTe177SeX",
+        "title": "穿越挑战2.0",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *地狱厨房* |\n#\n| **评分：** |\n| :-----------: |\n| 惊人：*> 60秒* |\n| 壮观：*< 60秒* |\n| 终极：*< 45秒* |\n#\n| **解锁：** |\n| :-----------: |\n|***快速恢复***||\n#\n| **奖励：** |\n| :-----------: |\n|***活动代币***||\n#\n**注意：**\n#\n*完成前置任务***\"穿越挑战1.0\"***以解锁。*\n#\n*活动代币用于升级装备和套装。*",
+        "imagePath": "/game_map_pin/1380000/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/e08c6ed222b9f98120cd1d3aa5627d2d61cbf4e8"
+      }
+    },
+    {
+      "coordinates": [
+        28.631659644642582,
+        -33.61075517832845
+      ],
+      "properties": {
+        "subcategoryExternalId": "MgfYi55fdA",
+        "imageId": 1379995,
+        "videoId": 1379996,
+        "externalId": "ljTpcIajvV",
+        "title": "战斗挑战 3.0",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *唐人街* |\n#\n| **评分：** |\n| :-----------: |\n| 惊人：*3次空中击倒* |\n| 壮观：*5次空中击倒* |\n| 终极：*8次空中击倒* |\n#\n| **解锁：** |\n| :-----------: |\n|***空中元帅***||\n#\n| **奖励：** |\n| :-----------: |\n|***活动代币***||\n#\n**注意：**\n#\n*完成前置任务***\"战斗挑战2.0\"***以解锁。*\n#\n*活动代币用于升级装备和套装。*",
+        "imagePath": "/game_map_pin/1379995/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/95593c2f196b490e2361e25ae9fc154d8ac29463"
+      }
+    },
+    {
+      "coordinates": [
+        37.89003083186344,
+        -14.569699594780715
+      ],
+      "properties": {
+        "subcategoryExternalId": "MgfYi55fdA",
+        "imageId": 1379988,
+        "videoId": 1379989,
+        "externalId": "KT4rmlIHe4",
+        "title": "战斗挑战 2.0",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *中城* |\n#\n| **评分：** |\n| :-----------: |\n| 惊人：*3次命中* |\n| 壮观：*2次命中* |\n| 终极：*1次命中* |\n#\n| **解锁：** |\n| :-----------: |\n|***报复***||\n#\n| **奖励：** |\n| :-----------: |\n|***活动代币***||\n#\n**注意：**\n#\n*完成前置任务***\"战斗挑战 1.0\"***以解锁。*\n#\n*活动代币用于升级装备和套装。*",
+        "imagePath": "/game_map_pin/1379988/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/71aeb2e4d97bde6e2be23692da128a7a6649486e"
+      }
+    },
+    {
+      "coordinates": [
+        40.61399425917543,
+        -50.02879073624997
+      ],
+      "properties": {
+        "subcategoryExternalId": "mLXFjHNIZ9",
+        "imageId": 1384305,
+        "videoId": 1384306,
+        "externalId": "afOCBYsNKX",
+        "title": "我的卡车被困了",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *唐人街* |\n#\n| **奖励：** |\n| :-----------: |\n|***8个活动代币***|\n#\n**注意：**\n#\n*完成主线任务***\"哈莱姆列车停运\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384305/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/49216cab823a3f8a4fccfea4f9bc6bba5f597a63"
+      }
+    },
+    {
+      "coordinates": [
+        10.491293683621677,
+        -80.21783941469148
+      ],
+      "properties": {
+        "subcategoryExternalId": "mLXFjHNIZ9",
+        "imageId": 1384308,
+        "videoId": 1384309,
+        "externalId": "4PTXx1SxIg",
+        "title": "我能拍张照片吗？",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *金融区* |\n#\n| **奖励：** |\n| :-----------: |\n|***8个活动代币***|\n#\n**注意：**\n#\n*完成主线任务***\"哈林火车停运\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384308/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/41fe976408bee48e63fae653f418bbbf9f118e08"
+      }
+    },
+    {
+      "coordinates": [
+        19.676895804249114,
+        19.249027107359424
+      ],
+      "properties": {
+        "subcategoryExternalId": "mLXFjHNIZ9",
+        "imageId": 1384313,
+        "videoId": 1384314,
+        "externalId": "NvVxdAkZoX",
+        "title": "Can't Find my Pigeons",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Midtown* |\n#\n| **Rewards:** |\n| :-----------: |\n|***8 Activity Tokens***|\n#\n**Note:**\n#\n*Complete Main Mission ***\"Harlem Trains Out of Service\"*** to unlock.*",
+        "imagePath": "/game_map_pin/1384313/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/d46f1de568a1ddf51ac6e03900257d86de0366a4"
+      }
+    },
+    {
+      "coordinates": [
+        -42.95376402833625,
+        26.80311222332756
+      ],
+      "properties": {
+        "subcategoryExternalId": "mLXFjHNIZ9",
+        "imageId": 1384319,
+        "videoId": 1384320,
+        "externalId": "jJ9VNLaUkg",
+        "title": "Ice Breaking my Crane",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Hell's Kitchen* |\n#\n| **Rewards:** |\n| :-----------: |\n|***8 Activity Tokens***|\n#\n**Note:**\n#\n*Complete Main Mission ***\"Harlem Trains Out of Service\"*** to unlock.*",
+        "imagePath": "/game_map_pin/1384319/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/27e124672a9d78566ed5d0ec35c7c45e6f53b9f5"
+      }
+    },
+    {
+      "coordinates": [
+        -30.102869938854326,
+        67.26735409377989
+      ],
+      "properties": {
+        "subcategoryExternalId": "mLXFjHNIZ9",
+        "imageId": 1384328,
+        "videoId": 1384329,
+        "externalId": "oDC1LF8G5a",
+        "title": "My Car's Gone!",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Upper West Side* |\n#\n| **Rewards:** |\n| :-----------: |\n|***8 Activity Tokens***|\n#\n**Note:**\n#\n*Complete Main Mission ***\"Harlem Trains Out of Service\"*** to unlock.*",
+        "imagePath": "/game_map_pin/1384328/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/2cc0532dd4bf00daa6f28536d59a4352409353d3"
+      }
+    },
+    {
+      "coordinates": [
+        15.062879312067679,
+        74.28313647188315
+      ],
+      "properties": {
+        "subcategoryExternalId": "rSNBKsn1wS",
+        "imageId": 1380045,
+        "videoId": 1380046,
+        "externalId": "qHfDN30Mow",
+        "title": "迈尔斯·莫拉莱斯的新公寓",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主线任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁***快速旅行***。*",
+        "imagePath": "/game_map_pin/1380045/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/97609ff1847af1741050a50846a91debdbaf9b07"
+      }
+    },
+    {
+      "coordinates": [
+        -21.806115763493693,
+        73.81093187455514
+      ],
+      "properties": {
+        "subcategoryExternalId": "eq0ZBjecTr",
+        "imageId": 1384888,
+        "videoId": 1384889,
+        "externalId": "8HnqNVbf9e",
+        "title": "Wakandan Flag",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Harlem* |\n#\n| **Rewards:** |\n| :-----------: |\n|***3 Activity Tokens***|\n#\n**Note:**\n#\n*On a moving train.*\n#\n*Complete Main Mission ***\"Reconnecting\"*** to unlock.*",
+        "imagePath": "/game_map_pin/1384888/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/8cdb6e2c8468f6ea68ac75c22272d9633495e4de"
+      }
+    },
+    {
+      "coordinates": [
+        -56.500578713874376,
+        60.59943377013144
+      ],
+      "properties": {
+        "subcategoryExternalId": "eq0ZBjecTr",
+        "imageId": 1384854,
+        "videoId": 1384855,
+        "externalId": "q3f3V7V4I8",
+        "title": "Homemade Hot Sauce",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Upper West Side* |\n#\n| **Rewards:** |\n| :-----------: |\n|***3 Activity Tokens***|\n#\n**Note:**\n#\n*Complete Main Mission ***\"Reconnecting\"*** to unlock.*",
+        "imagePath": "/game_map_pin/1384854/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/9dc1ac74af22fb5e611daa9f0e7dfdfe0e006906"
+      }
+    },
+    {
+      "coordinates": [
+        0.4379171167647087,
+        58.27888015870823
+      ],
+      "properties": {
+        "subcategoryExternalId": "eq0ZBjecTr",
+        "imageId": 1384869,
+        "videoId": 1384870,
+        "externalId": "zE81v2g72v",
+        "title": "Deflated Soccer Ball",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Central Park* |\n#\n| **Rewards:** |\n| :-----------: |\n|***3 Activity Tokens***|\n#\n**Note:**\n#\n*Complete Main Mission ***\"Reconnecting\"*** to unlock.*",
+        "imagePath": "/game_map_pin/1384869/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/61a313f265488c3e0ff747c5398e86b3a353c881"
+      }
+    },
+    {
+      "coordinates": [
+        6.881963601476485,
+        67.51297770292817
+      ],
+      "properties": {
+        "subcategoryExternalId": "eq0ZBjecTr",
+        "imageId": 1384872,
+        "videoId": 1384873,
+        "externalId": "mxvne5ddof",
+        "title": "Old Library Book",
+        "description": "***\n#\n| **区域：** |\n| :---------: |\n| *上东区* |\n#\n| **奖励：** |\n| :---------: |\n|***3个活动代币***|\n#\n**注意：**\n#\n*完成主要任务***\"重新连接\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384872/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/21cf7fdaca57f6d749708baf9192f9d4d7909cba"
+      }
+    },
+    {
+      "coordinates": [
+        28.270008473549296,
+        62.544758674006374
+      ],
+      "properties": {
+        "subcategoryExternalId": "eq0ZBjecTr",
+        "imageId": 1384875,
+        "videoId": 1384876,
+        "externalId": "1HtVEZreXY",
+        "title": "访客身份",
+        "description": "***\n#\n| **区域：** |\n| :---------: |\n| *上东区* |\n#\n| **奖励：** |\n| :---------: |\n|***3个活动代币***|\n#\n**注意：**\n#\n*完成主要任务***\"重新连接\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384875/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/4caf14d924bf1d4828755abd6e6793bf320dfdda"
+      }
+    },
+    {
+      "coordinates": [
+        -38.46031707345878,
+        13.689346240910552
+      ],
+      "properties": {
+        "subcategoryExternalId": "eq0ZBjecTr",
+        "imageId": 1384740,
+        "videoId": 1384741,
+        "externalId": "Azzl8GKPxp",
+        "title": "冷冻干燥消耗品",
+        "description": "***\n#\n| **地区：** |\n| :-----------: |\n| *地狱厨房* |\n#\n| **奖励：** |\n| :-----------: |\n|***3个活动代币***|\n#\n**注意：**\n#\n*完成主线任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***来解锁。*",
+        "imagePath": "/game_map_pin/1384740/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/d0583a91886f2a4877772e15dbd2e60ef6f9c05d"
+      }
+    },
+    {
+      "coordinates": [
+        -45.53492263492521,
+        -23.375910990643945
+      ],
+      "properties": {
+        "subcategoryExternalId": "eq0ZBjecTr",
+        "imageId": 1384725,
+        "videoId": 1384726,
+        "externalId": "5FmAR4wOou",
+        "title": "票根",
+        "description": "***\n#\n| **地区：** |\n| :-----------: |\n| *地狱厨房* |\n#\n| **奖励：** |\n| :-----------: |\n|***3个活动代币***|\n#\n**注意：**\n#\n*完成主线任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***来解锁。*",
+        "imagePath": "/game_map_pin/1384725/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/985a0b4d6582372a3308f28928e24a2650a7c7d7"
+      }
+    },
+    {
+      "coordinates": [
+        -11.423825299594313,
+        10.794497127954912
+      ],
+      "properties": {
+        "subcategoryExternalId": "eq0ZBjecTr",
+        "imageId": 1384775,
+        "videoId": 1384776,
+        "externalId": "lRa3y1XT4V",
+        "title": "3D打印分子",
+        "description": "***\n#\n| **区域:** |\n| :-----------: |\n| *中城区* |\n#\n| **奖励:** |\n| :-----------: |\n|***3个活动代币***|\n#\n**注意:**\n#\n*完成主线任务***\"重新连接\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384775/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/5c9abac9fb5aafd3b0861f9ee2e8029cac9e1c32"
+      }
+    },
+    {
+      "coordinates": [
+        21.239000040551105,
+        6.705973544683843
+      ],
+      "properties": {
+        "subcategoryExternalId": "eq0ZBjecTr",
+        "imageId": 1384813,
+        "videoId": 1384814,
+        "externalId": "b2mshH5XbM",
+        "title": "显卡",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *中城* |\n#\n| **奖励：** |\n| :-----------: |\n|***3个活动代币***|\n#\n**注意：**\n#\n*使用伪装接近。*\n#\n*完成主线任务***\"重新连接\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384813/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/602599e54840f779c8a5fd96eb582f1e2ae52586"
+      }
+    },
+    {
+      "coordinates": [
+        6.58396494837109,
+        -27.55067799457961
+      ],
+      "properties": {
+        "subcategoryExternalId": "eq0ZBjecTr",
+        "imageId": 1384674,
+        "videoId": 1384675,
+        "externalId": "03ad0QoQ9t",
+        "title": "疾速溜冰场",
+        "description": "***\n#\n| **区域:** |\n| :-----------: |\n| *中城区* |\n#\n| **奖励:** |\n| :-----------: |\n|***3个活动代币***|\n#\n**注意:**\n#\n*完成主线任务***\"重新连接\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384674/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/08ea57863a349808d54d0199d58838c6d43458d5"
+      }
+    },
+    {
+      "coordinates": [
+        -38.868119993654176,
+        -59.423498262160265
+      ],
+      "properties": {
+        "subcategoryExternalId": "eq0ZBjecTr",
+        "imageId": 1384606,
+        "videoId": 1384607,
+        "externalId": "BZ8KgArn93",
+        "title": "公寓钥匙",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *格林威治* |\n#\n| **奖励：** |\n| :-----------: |\n|***3个活动代币***|\n#\n**注意：**\n#\n*完成主线任务***\"重新连接\"***即可解锁。*",
+        "imagePath": "/game_map_pin/1384606/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/510ba7165109d4554c0411dff5f40858119357b3"
+      }
+    },
+    {
+      "coordinates": [
+        -0.27418208773161723,
+        -67.30254286887025
+      ],
+      "properties": {
+        "subcategoryExternalId": "eq0ZBjecTr",
+        "imageId": 1384584,
+        "videoId": 1384585,
+        "externalId": "Vcljq28t7u",
+        "title": "AR游泳镜",
+        "description": "***\n#\n| **区域:** |\n| :-----------: |\n| *金融区* |\n#\n| **奖励:** |\n| :-----------: |\n|***3个活动代币***|\n#\n**注意:**\n#\n*完成主线任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***即可解锁。*",
+        "imagePath": "/game_map_pin/1384584/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/d7d37132426578b533a5d7d23202a714b9419b10"
+      }
+    },
+    {
+      "coordinates": [
+        13.86005053114647,
+        -73.27530681885845
+      ],
+      "properties": {
+        "subcategoryExternalId": "eq0ZBjecTr",
+        "imageId": 1384550,
+        "videoId": 1384551,
+        "externalId": "IZJApQAKVM",
+        "title": "涂鸦板和触控笔",
+        "description": "***\n#\n| **区域:** |\n| :-----------: |\n| *金融区* |\n#\n| **奖励:** |\n| :-----------: |\n|***3个活动代币***|\n#\n**注意:**\n#\n*完成主线任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***即可解锁。*",
+        "imagePath": "/game_map_pin/1384550/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/bcf8cb82079631287ea2de4341a049145df3bd4c"
+      }
+    },
+    {
+      "coordinates": [
+        63.88775403148881,
+        -70.81019722002749
+      ],
+      "properties": {
+        "subcategoryExternalId": "eq0ZBjecTr",
+        "imageId": 1384620,
+        "videoId": 1384621,
+        "externalId": "cvplrc2z02",
+        "title": "乒乓球拍",
+        "description": "***\n#\n| **地区：** |\n| :-----------: |\n| *唐人街* |\n#\n| **奖励：** |\n| :-----------: |\n|***3个活动代币***|\n#\n**注意：**\n#\n*完成主线任务***\"重新连接\"***来解锁。*",
+        "imagePath": "/game_map_pin/1384620/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/33d75859574cb38add78edc02b6dc1dbdd2fbd78"
+      }
+    },
+    {
+      "coordinates": [
+        73.84629976875362,
+        -60.63544155971857
+      ],
+      "properties": {
+        "subcategoryExternalId": "eq0ZBjecTr",
+        "imageId": 1384670,
+        "videoId": 1384671,
+        "externalId": "50bY6gXNFJ",
+        "title": "车轮微缩模型",
+        "description": "***\n#\n| **地区：** |\n| :-----------: |\n| *唐人街* |\n#\n| **奖励：** |\n| :-----------: |\n|***3个活动代币***|\n#\n**注意：**\n#\n*完成主线任务***\"重新连接\"***来解锁。*",
+        "imagePath": "/game_map_pin/1384670/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/a38553209b0d9e306fd585012f0fc7946af3426b"
+      }
+    },
+    {
+      "coordinates": [
+        39.2493850701174,
+        -47.25948391496656
+      ],
+      "properties": {
+        "subcategoryExternalId": "mLXFjHNIZ9",
+        "imageId": 1384364,
+        "videoId": 1384365,
+        "externalId": "rzNzlZOCfA",
+        "title": "F.E.A.S.T. 玩具被盗",
+        "description": "***\n#\n| **地区：** |\n| :-----------: |\n| *唐人街* |\n#\n| **奖励：** |\n| :-----------: |\n|***8个活动代币***|\n#\n**注意：**\n#\n*完成主要任务***\"[集结时刻](wemod:\\/\\/maps\\/64515\\/364?location=sVn130WiJi)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384364/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/2f674175b8f0170786a54ce00130881f481546c5"
+      }
+    },
+    {
+      "coordinates": [
+        25.290068631376187,
+        64.69268138553994
+      ],
+      "properties": {
+        "subcategoryExternalId": "mLXFjHNIZ9",
+        "imageId": 1384391,
+        "videoId": 1384392,
+        "externalId": "LgZfMtnhmA",
+        "title": "困在摩天大楼上！",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *上东区* |\n#\n| **奖励：** |\n| :-----------: |\n|***8个活动代币***|\n#\n**注意：**\n#\n*完成主线任务***\"集结时刻\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384391/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/749e4b1a537c32616f603a89b32fac78903214f1"
+      }
+    },
+    {
+      "coordinates": [
+        -10.546075327385239,
+        72.24335361962042
+      ],
+      "properties": {
+        "subcategoryExternalId": "mLXFjHNIZ9",
+        "imageId": 1384395,
+        "videoId": 1384396,
+        "externalId": "NKzlb9Y44V",
+        "title": "Emergency Comms Down",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Harlem* |\n#\n| **Rewards:** |\n| :-----------: |\n|***8 Activity Tokens***|\n#\n**Note:**\n#\n*Complete Main Mission ***\"Time to Rally\"*** to unlock.*",
+        "imagePath": "/game_map_pin/1384395/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/0a31860b89bde9b2fadb84f67bf159feda3e3aef"
+      }
+    },
+    {
+      "coordinates": [
+        35.58706144514207,
+        -72.63039880661202
+      ],
+      "properties": {
+        "subcategoryExternalId": "mLXFjHNIZ9",
+        "imageId": 1384416,
+        "videoId": 1384417,
+        "externalId": "hIe1jEIIG9",
+        "title": "失踪的猫",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *金融区* |\n#\n| **奖励：** |\n| :-----------: |\n|***8个活动代币***|\n#\n**注意：**\n#\n*完成主线任务***\"集结时刻\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384416/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/3c9f0f9099efd0192b5b375a0d8fa65957382e44"
+      }
+    },
+    {
+      "coordinates": [
+        14.899898735879276,
+        -60.37339291976977
+      ],
+      "properties": {
+        "subcategoryExternalId": "mLXFjHNIZ9",
+        "imageId": 1384483,
+        "videoId": 1384484,
+        "externalId": "yw96sxxWsM",
+        "title": "谢谢你，蜘蛛侠！",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *金融区* |\n#\n| **奖励：** |\n| :-----------: |\n|***3个活动代币***|\n#\n| **解锁：** |\n| :-----------: |\n|***上城骄傲套装***|\n#\n**注意：**\n#\n*完成所有***FNSM应用请求***即可解锁。*",
+        "imagePath": "/game_map_pin/1384483/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/84de81e6ab86e309be125b8f7ee917b2f66298dd"
+      }
+    },
+    {
+      "coordinates": [
+        -42.54918291399767,
+        77.4561867931263
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1384894,
+        "videoId": 1384895,
+        "externalId": "bR8f5SobEY",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384894/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/815be8da0ad28dd13fefca5c92b3e1d851272c01"
+      }
+    },
+    {
+      "coordinates": [
+        -9.456978047715666,
+        72.33195697957109
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1384913,
+        "videoId": 1384914,
+        "externalId": "aHVjBXFYh2",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384913/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/f40894871a17f0206866682968d5617e48fe85a9"
+      }
+    },
+    {
+      "coordinates": [
+        23.623129380435017,
+        76.40297072175878
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1384909,
+        "videoId": 1384910,
+        "externalId": "o3ZQXpX5cq",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384909/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/57863a2215ccd5073bc3c5ddc347958872fc72b1"
+      }
+    },
+    {
+      "coordinates": [
+        -41.68706771900966,
+        66.73247681296596
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1384915,
+        "videoId": 1384916,
+        "externalId": "B9OEeFN15S",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384915/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/b78ec563aa8006bb364a2e14ad929733237babaf"
+      }
+    },
+    {
+      "coordinates": [
+        -60.62807623374323,
+        57.03110754684403
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1384921,
+        "videoId": 1384922,
+        "externalId": "10jF19UHHl",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384921/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/b083c35041a9f90e720f9cdb31935ea6fb2485c2"
+      }
+    },
+    {
+      "coordinates": [
+        -42.47669368762618,
+        48.82507575459226
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1384925,
+        "videoId": 1384926,
+        "externalId": "vsSX7AWszU",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384925/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/3be417c9642af8fbc4e2998ba1b8f8f35cd2e829"
+      }
+    },
+    {
+      "coordinates": [
+        -20.052217898997554,
+        59.40585140446498
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1384928,
+        "videoId": 1384929,
+        "externalId": "IRvZ339KwN",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384928/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/bcc7dc8945357a354642899476081c6b909e67a2"
+      }
+    },
+    {
+      "coordinates": [
+        3.2744345978305773,
+        47.610123614939994
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1384932,
+        "videoId": 1384933,
+        "externalId": "YdAJkW3Uao",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384932/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/8cf92c362a6ace3ae2897dd5b6a26853dfb6f94f"
+      }
+    },
+    {
+      "coordinates": [
+        3.1065463169871066,
+        67.32766919802822
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1384930,
+        "videoId": 1384931,
+        "externalId": "XZaEjqIrhl",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384930/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/bb4489a95dbd3115899b410a497bc742fe56e7cd"
+      }
+    },
+    {
+      "coordinates": [
+        41.03285481172463,
+        67.51257149383673
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1384936,
+        "videoId": 1384937,
+        "externalId": "2BXihumgVf",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384936/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/b1432b15baeac71d40fba7a3bdb05d85350fbcc5"
+      }
+    },
+    {
+      "coordinates": [
+        23.63091694676629,
+        54.434632996339445
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1384934,
+        "videoId": 1384935,
+        "externalId": "ZvuC8A0AT6",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384934/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/ea6fa58dd5f66f05db8a917857c90a831f28d65d"
+      }
+    },
+    {
+      "coordinates": [
+        19.6980744402926,
+        35.540691027601525
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1384994,
+        "videoId": 1384995,
+        "externalId": "AxCOTKwD8o",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384994/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/9b61bb6f43c1c54cf2264b154e005f934c12e753"
+      }
+    },
+    {
+      "coordinates": [
+        -42.48394480599927,
+        33.585809325101806
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1384938,
+        "videoId": 1384939,
+        "externalId": "6IlesdmclJ",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384938/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/074115a004833728aebd0659e6ee4096d4967efa"
+      }
+    },
+    {
+      "coordinates": [
+        -47.19336618031883,
+        11.90573584734291
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1384940,
+        "videoId": 1384941,
+        "externalId": "3o4RgMwuN1",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384940/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/dd5e45092d10f43b9f43e188ce3cb642dd708309"
+      }
+    },
+    {
+      "coordinates": [
+        -51.65731300875157,
+        -16.640294415850704
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1384957,
+        "videoId": 1384959,
+        "externalId": "xiaUoaE0A7",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384957/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/04ccd2c2cfebec61f07c7d67bf831b8ee3f6208c"
+      }
+    },
+    {
+      "coordinates": [
+        -21.84134475407049,
+        -10.726359386466072
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1384971,
+        "videoId": 1384972,
+        "externalId": "ZJ825IsLgO",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384971/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/5f4aa20091930d033b06f471ecf9d3569b848e6d"
+      }
+    },
+    {
+      "coordinates": [
+        -9.223280086446408,
+        22.900059159224128
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1384989,
+        "videoId": 1384990,
+        "externalId": "5yJf8ni89k",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384989/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/73009e91b4fee7f7547da585e893cc2c65ac1fba"
+      }
+    },
+    {
+      "coordinates": [
+        4.529893241147988,
+        0.7844021737220714
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1384992,
+        "videoId": 1384993,
+        "externalId": "1dvKi5dbtU",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384992/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/6b3b058b9a293ecfcd353e2955655ebc7a8e59ee"
+      }
+    },
+    {
+      "coordinates": [
+        22.889370901121453,
+        -7.177795164923381
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1384998,
+        "videoId": 1384999,
+        "externalId": "pPzEGknjoC",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384998/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/85f31ee77d986ed9b5df0b84b3f4ee6b35798da7"
+      }
+    },
+    {
+      "coordinates": [
+        40.508610096813925,
+        21.739020544659894
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1384996,
+        "videoId": 1384997,
+        "externalId": "L2DobbOf16",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1384996/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/a71d1431808bd6c8e616376738ae70ee5e97bff3"
+      }
+    },
+    {
+      "coordinates": [
+        13.816553715857083,
+        -32.865671956412584
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1385004,
+        "videoId": 1385005,
+        "externalId": "4Bp5wJDcKu",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1385004/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/25f798661077dc187bc9669a7641b4c5b9dfa2a6"
+      }
+    },
+    {
+      "coordinates": [
+        43.613294158538395,
+        -31.7233446738707
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1385006,
+        "videoId": 1385007,
+        "externalId": "ztEsNsppJq",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1385006/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/8a59f7ec3e3f7ac831a38a90bc1507c692ad9098"
+      }
+    },
+    {
+      "coordinates": [
+        -19.855656160014064,
+        -39.012103509772864
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1385002,
+        "videoId": 1385003,
+        "externalId": "TPQ62hgbnb",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1385002/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/b1c09a6cc8874bf574c49088ec3b46fb22218a5b"
+      }
+    },
+    {
+      "coordinates": [
+        -39.817023973242044,
+        -47.20187449395115
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1385000,
+        "videoId": 1385001,
+        "externalId": "XVZTHqF6Hz",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1385000/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/ca453a5530c11e19e40c88b1be14c499a9aa5843"
+      }
+    },
+    {
+      "coordinates": [
+        -23.71155065609537,
+        -61.95894015402254
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1385021,
+        "videoId": 1385022,
+        "externalId": "Mu31cirElk",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1385021/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/0be44d739f28046cf344a8d9df79f14a84e4766c"
+      }
+    },
+    {
+      "coordinates": [
+        53.55868279841536,
+        -48.15567029343789
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1385008,
+        "videoId": 1385009,
+        "externalId": "Ggy13FCGYi",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1385008/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/f7009fc7440243a91f0bbb95f200197c741e125b"
+      }
+    },
+    {
+      "coordinates": [
+        76.41274625760406,
+        -58.6033138658605
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1385011,
+        "videoId": 1385012,
+        "externalId": "KPtNrEK0aD",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1385011/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/7f58103556e75f9f6e4786ad8b2f1d1dc5e2322c"
+      }
+    },
+    {
+      "coordinates": [
+        33.77658893929774,
+        -59.84371793563697
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1385013,
+        "videoId": 1385014,
+        "externalId": "bceJn3ouAg",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1385013/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/e2fd4d8668ec8857c3946e010d620416dd7dcfda"
+      }
+    },
+    {
+      "coordinates": [
+        51.065883784826525,
+        -67.42509004469966
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1385017,
+        "videoId": 1385018,
+        "externalId": "imGQfa1gE5",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1385017/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/9cec5ea44cf87b1c5a365809db900204ad3f638c"
+      }
+    },
+    {
+      "coordinates": [
+        30.017872353730894,
+        -68.754508104785
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1385029,
+        "videoId": 1385030,
+        "externalId": "PAHKK7mrq3",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1385029/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/2f914fcbfbf08bd9075cd33e03ba457875bfe834"
+      }
+    },
+    {
+      "coordinates": [
+        11.392275833348577,
+        -62.82210275736641
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1385027,
+        "videoId": 1385028,
+        "externalId": "mWgFlHmXk0",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1385027/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/80febc5ac2df4ed7f4aca6b839f32c7f4117f9c4"
+      }
+    },
+    {
+      "coordinates": [
+        19.18969168060883,
+        -73.94082603965609
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1385040,
+        "videoId": 1385041,
+        "externalId": "hpm5CxBwPw",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1385040/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/0378a42c12fd54d664ea2469dd4b0f753b99b4ce"
+      }
+    },
+    {
+      "coordinates": [
+        -7.490701157877453,
+        -74.84691049963575
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1385034,
+        "videoId": 1385035,
+        "externalId": "wyEebRTrAN",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1385034/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/37a329fa64054ba61c0c30012c06aceb8f794abc"
+      }
+    },
+    {
+      "coordinates": [
+        21.566748269192175,
+        -79.47152808257074
+      ],
+      "properties": {
+        "subcategoryExternalId": "k9eGsZ4I9r",
+        "imageId": 1385048,
+        "videoId": 1385049,
+        "externalId": "CCJLYAeCU1",
+        "title": "地铁站",
+        "description": "***\n#\n| **快速旅行** |\n| :-----------: |\n#\n\n**注意：**\n#\n*完成主要任务***\"[重新连接](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"***以解锁。*",
+        "imagePath": "/game_map_pin/1385048/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/5d511cc8ceaff68da5535689b63310bc15806c4f"
+      }
+    },
+    {
+      "coordinates": [
+        10.526883568236258,
+        75.59158829182829
+      ],
+      "properties": {
+        "subcategoryExternalId": "4JowAfAtku",
+        "imageId": 1385232,
+        "videoId": 1385233,
+        "externalId": "t0F8fmBGyK",
+        "title": "Harlem F.E.A.S.T. Shut Down",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *哈莱姆区* |\n#\n| **奖励：** |\n| :-----------: |\n|***10个活动代币***|\n#\n**注意：**\n#\n*完成主线任务***\"有人忘记关灯\"***后解锁。*\n#\n*活动代币用于升级装备和战衣。*",
+        "imagePath": "/game_map_pin/1385232/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/dc2adaf8200d47937ed74dac657bc34fb8da44c9"
+      }
+    },
+    {
+      "coordinates": [
+        9.897259128630452,
+        73.59584230155616
+      ],
+      "properties": {
+        "subcategoryExternalId": "4JowAfAtku",
+        "imageId": 1385308,
+        "videoId": 1385309,
+        "externalId": "inRLeytxL2",
+        "title": "劫匪袭击本地商家",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *哈莱姆区* |\n#\n| **奖励：** |\n| :-----------: |\n|***10个活动代币***|\n#\n**注意：**\n#\n*完成主线任务***\"有人忘记关灯\"***后解锁。*\n#\n*活动代币用于升级装备和战衣。*",
+        "imagePath": "/game_map_pin/1385308/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/e4eb833cc16f4b73894250e09cb53625e60f5a5b"
+      }
+    },
+    {
+      "coordinates": [
+        -51.31621075446574,
+        15.293229157965314
+      ],
+      "properties": {
+        "subcategoryExternalId": "cRLdA6lRTV",
+        "imageId": 1386536,
+        "videoId": 1386537,
+        "externalId": "X01GDU98Sc",
+        "title": "罗克森实验室 - 西区",
+        "description": "***\n#\n| **地区：** |\n| :-----------: |\n| *地狱厨房* |\n#\n| **目标：** |\n| :-----------: |\n| 达成 *60连击* |\n| 执行 *5次墙面终结技* |\n#\n| **奖励：** |\n| :-----------: |\n|***活动代币***|\n|***科技零件***|\n#\n**注意：**\n#\n*完成主线任务 ***\"企业间谍活动\"*** 以解锁。*\n#\n*拉动入口左上方的齿轮，然后用你的蛛网发射器多次向其射网。通过内部的通风口进入实验室。*\n#\n*完成所有罗克森实验室挑战以解锁 ***Under Their Noses*** 成就。*",
+        "imagePath": "/game_map_pin/1386536/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/12b5256dfc0993c8156a7832a438e4a929f50925"
+      }
+    },
+    {
+      "coordinates": [
+        -52.279774377504125,
+        14.09124831745504
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1386571,
+        "videoId": 1386572,
+        "externalId": "yw6MG0sHEQ",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **地区：** |\n| :-----------: |\n| *地狱厨房* |\n| *位于 Roxxon Lab - West 内部。* |\n#\n| **奖励：** |\n| :-----------: |\n|***科技零件***||\n#\n**注意：**\n#\n*完成主线任务 ***\"企业间谍活动\"*** 以解锁。*\n#\n*进入实验室的通风口后，用蛛网粘住第一个风扇，通过并向左转，然后下降进入一个隔离的房间。*\n#\n*科技零件用于升级装备和战衣。*",
+        "imagePath": "/game_map_pin/1386571/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/e82602abf265bfc3070a4995887ef2e2198b86bc"
+      }
+    },
+    {
+      "coordinates": [
+        44.93460854001387,
+        -37.34367637023963
+      ],
+      "properties": {
+        "subcategoryExternalId": "cRLdA6lRTV",
+        "imageId": 1386582,
+        "videoId": 1386583,
+        "externalId": "TA6FMlSDsv",
+        "title": "罗克森实验室 - 东区",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *唐人街* |\n#\n| **目标：** |\n| :-----------: |\n| 执行 *5次天花板处决* |\n| 执行 *5次终结技* |\n#\n| **奖励：** |\n| :-----------: |\n|***活动代币***|\n|***科技部件***|\n#\n**注意：**\n#\n*完成主要任务***「企业间谍」***以解锁。*\n#\n#\n*拉动入口左上方的齿轮，然后用蛛网发射器多次对其射网。通过内部的通风口进入实验室。*\n#\n*完成所有罗克森实验室挑战以解锁***神不知鬼不觉***成就。*",
+        "imagePath": "/game_map_pin/1386582/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/85678995c85178ed234c37dc065ed7430cc26776"
+      }
+    },
+    {
+      "coordinates": [
+        46.12724236567527,
+        -37.31509537370108
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1386592,
+        "videoId": 1386593,
+        "externalId": "o4u366jBv3",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **区域:** |\n| :-----------: |\n| *唐人街* |\n| *位于 Roxxon 实验室 - 东区 内部。* |\n#\n| **奖励:** |\n| :-----------: |\n|***科技零件***||\n#\n**注意:**\n#\n*完成主线任务 ***\"企业间谍\"*** 以解锁。*\n#\n*从门上方的通风口进入。*\n#\n*科技零件用于升级装备和套装。*",
+        "imagePath": "/game_map_pin/1386592/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/5638416bc8cddf435431e72af50145742fb70d0d"
+      }
+    },
+    {
+      "coordinates": [
+        30.18244263678079,
+        -75.0546693205454
+      ],
+      "properties": {
+        "subcategoryExternalId": "cRLdA6lRTV",
+        "imageId": 1386596,
+        "videoId": 1386597,
+        "externalId": "nnsKqFedf4",
+        "title": "罗克森实验室 - 南区",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *金融区* |\n#\n| **目标：** |\n| :-----------: |\n| 执行 *5次栖木击倒* |\n| 使用 *重力井装置拉入10个敌人。* |\n#\n| **奖励：** |\n| :-----------: |\n|***活动代币***|\n|***科技零件***|\n#\n**注意：**\n#\n*完成主线任务 ***\"[企业间谍](wemod:\\/\\/maps\\/64515\\/364?location=5Lts9d78RN)\"*** 以解锁。*\n#\n*拉动入口右上方的齿轮，然后用你的蛛网发射器多次射网。通过内部的通风口进入实验室。*\n#\n*完成所有罗克森实验室挑战以解锁 ***Under Their Noses*** 成就。*",
+        "imagePath": "/game_map_pin/1386596/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/396189db4824a14a26d76d96a285c0b56f11170d"
+      }
+    },
+    {
+      "coordinates": [
+        30.721147245752462,
+        -75.25557467376464
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1386601,
+        "videoId": 1386602,
+        "externalId": "BHuJB6SWKK",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *金融区* |\n| *位于罗克森实验室 - 南区内。* |\n#\n| **奖励：** |\n| :-----------: |\n|***科技零件***||\n#\n**注意：**\n#\n*完成主线任务***\"企业间谍活动\"***以解锁。*\n#\n*启动NuForm反应器，然后将其连接到墙上的三个红色中继器以激活门。*\n#\n*科技零件用于升级装备和战衣。*",
+        "imagePath": "/game_map_pin/1386601/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/021f46569dbc4acf0f6cfba98ba491b4588d85bd"
+      }
+    },
+    {
+      "coordinates": [
+        6.807979487077262,
+        73.27277301946532
+      ],
+      "properties": {
+        "subcategoryExternalId": "4JowAfAtku",
+        "imageId": 1386621,
+        "videoId": 1386622,
+        "externalId": "rdK6Ig34hs",
+        "title": "We've Got a Lead!",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Harlem* |\n#\n| **Rewards:** |\n| :-----------: |\n|***10 Activity Tokens***|\n#\n| **Unlocks:** |\n| :-----------: |\n|***Winter Suit***|\n#\n**Note:**\n#\n*Complete Main Mission ***\"Underground Undercover\"*** to unlock.*\n#\n*Activity Tokens are used to upgrade gears and suits.*",
+        "imagePath": "/game_map_pin/1386621/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/598ed398e84427d3e8ea865b022ff30028511db2"
+      }
+    },
+    {
+      "coordinates": [
+        21.84737705670426,
+        -52.08884483372536
+      ],
+      "properties": {
+        "subcategoryExternalId": "6vkhvgJ3wr",
+        "imageId": 1386640,
+        "videoId": 1386641,
+        "externalId": "vMO4rlMwTu",
+        "title": "地下藏身处 - 格林威治",
+        "description": "***\n#\n| **地区：** |\n| :-----------: |\n| *格林威治* |\n#\n| **目标：** |\n| :-----------: |\n| 在*隐身状态下执行5次击倒* |\n| 使用*毒液跳跃将12名敌人击飞到空中* |\n#\n| **奖励：** |\n| :-----------: |\n|***活动代币***|\n|***科技零件***|\n#\n**注意：**\n#\n*完成主线任务***\"地下卧底\"***以解锁。*\n#\n*完成所有罗克森实验室、地下藏身处挑战和支线任务***\"物质提升\"***以解锁***可编程物质战衣***。*",
+        "imagePath": "/game_map_pin/1386640/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/91ab904164ce6513884b16967ead26ecb7b3ebbf"
+      }
+    },
+    {
+      "coordinates": [
+        20.69767955972864,
+        -51.431283874950665
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1386644,
+        "videoId": 1386645,
+        "externalId": "KD0BGOvHLi",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *格林威治* |\n| *位于[地下藏身处 - 格林威治](wemod:\\/\\/maps\\/64515\\/364?location=vMO4rlMwTu)内。* |\n#\n| **奖励：** |\n| :-----------: |\n|***科技零件***||\n#\n**注意：**\n#\n*完成主线任务***\"[地下卧底](wemod:\\/\\/maps\\/64515\\/364?location=p1ycBELXWk)\"***以解锁。*\n#\n*使用黄色起重机上的齿轮将箱子拉起来，然后多次对齿轮射网，下去查看密室。*\n#\n*科技零件用于升级装备和套装。*",
+        "imagePath": "/game_map_pin/1386644/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/7900379fe311df96b46440b73bae3c5fc6fef7dc"
+      }
+    },
+    {
+      "coordinates": [
+        33.59583828711922,
+        43.43052241271343
+      ],
+      "properties": {
+        "subcategoryExternalId": "6vkhvgJ3wr",
+        "imageId": 1386649,
+        "videoId": 1386650,
+        "externalId": "K8GHPslSdI",
+        "title": "Underground Hideout - Upper East Side",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Upper East Side* |\n#\n| **Objectives:** |\n| :-----------: |\n| *Venom Smash 10 Enemies* |\n| Defeat *5 Enemies using Remote Mines* |\n#\n| **Rewards:** |\n| :-----------: |\n|***Activity Tokens***|\n|***Tech Parts***|\n#\n**Note:**\n#\n*Complete Main Mission ***\"Underground Undercover\"*** to unlock.*\n#\n*Complete all Roxxon Lab, Underground Hideout Challenges and the Side Mission ***\"Matter Up\"*** to unlock the ***Programmable Matter Suit***.*",
+        "imagePath": "/game_map_pin/1386649/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/40be4cb0b851b89427ccae28cded764f9b9cbc46"
+      }
+    },
+    {
+      "coordinates": [
+        32.607068755869136,
+        42.67591206424132
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1386653,
+        "videoId": 1386654,
+        "externalId": "zMVMzTKsvw",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **区域:** |\n| :-----------: |\n| *上东区* |\n| *位于地下藏身处 - 上东区内。* |\n#\n| **奖励:** |\n| :-----------: |\n|***科技零件***||\n#\n**注意:**\n#\n*完成主线任务***\"地下卧底\"***以解锁。*\n#\n*击碎带有地下组织标志的木墙，然后拉动里面的垃圾箱。*\n#\n*科技零件用于升级装备和战衣。*",
+        "imagePath": "/game_map_pin/1386653/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/75f57d5b1a7ae1d58e696636f111e42f639f5062"
+      }
+    },
+    {
+      "coordinates": [
+        -22.584385706440514,
+        67.33856999763154
+      ],
+      "properties": {
+        "subcategoryExternalId": "6vkhvgJ3wr",
+        "imageId": 1386663,
+        "videoId": 1386664,
+        "externalId": "WgbjbfYqyK",
+        "title": "Underground Hideout - Upper West Side",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Upper West Side* |\n#\n| **Objectives:** |\n| :-----------: |\n| *Venom Punch 5 Enemies* |\n| Damage *5 Enemies using Yankable Objects* |\n#\n| **Rewards:** |\n| :-----------: |\n|***Activity Tokens***|\n|***Tech Parts***|\n#\n**Note:**\n#\n*Complete Main Mission ***\"Underground Undercover\"*** to unlock.*\n#\n*Complete all Roxxon Lab, Underground Hideout Challenges and the Side Mission ***\"Matter Up\"*** to unlock the ***Programmable Matter Suit***.*",
+        "imagePath": "/game_map_pin/1386663/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/8f89822c4bd99bf150d1445978d2baaaf04e17c6"
+      }
+    },
+    {
+      "coordinates": [
+        -23.54829220961392,
+        67.61656024975079
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1386672,
+        "videoId": 1386673,
+        "externalId": "mfaqvFIrQQ",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *上西城* |\n| *位于地下藏身处 - 上西城内。* |\n#\n| **奖励：** |\n| :-----------: |\n|***科技零件***||\n#\n**注意：**\n#\n*完成主线任务***\"地下卧底\"***以解锁。*\n#\n*粉碎破裂的墙壁。*\n#\n*科技零件用于升级装备和战衣。*",
+        "imagePath": "/game_map_pin/1386672/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/5eeba2a67a6123b8258b3f93b2af0f7907554f3a"
+      }
+    },
+    {
+      "coordinates": [
+        -36.28196096391284,
+        31.04239255185695
+      ],
+      "properties": {
+        "subcategoryExternalId": "4JowAfAtku",
+        "imageId": 1386690,
+        "videoId": 1386691,
+        "externalId": "R5evgE8425",
+        "title": "Matter Up",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Hell's Kitchen* |\n#\n| **Unlocks:** |\n| :-----------: |\n|***Programmable Matter Suit***|\n#\n**Note:**\n#\n*Complete all Roxxon Lab and Underground Hideout Challenges to unlock.*",
+        "imagePath": "/game_map_pin/1386690/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/77172134475aa4d21954138a0f7f54a8bef813ed"
+      }
+    },
+    {
+      "coordinates": [
+        6.1683607029183065,
+        -81.03586695179456
+      ],
+      "properties": {
+        "subcategoryExternalId": "WIFnMFNeJD",
+        "imageId": 1386744,
+        "videoId": 1386745,
+        "externalId": "k43z8AZn68",
+        "title": "渡轮汽笛",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *金融区* |\n#\n#\n| **录音：** |\n| :-----------: |\n|***录制渡轮汽笛声***|\n#\n| **奖励：** |\n| :-----------: |\n|***活动代币***|\n#\n**注意：**\n#\n*完成主线任务***\"突破噪音\"***即可解锁。*\n#\n*收集所有声音样本以解锁***戴维斯兄弟混音***。*",
+        "imagePath": "/game_map_pin/1386744/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/43837387284e13c54b511454bdae6c7c8c4a0f90"
+      }
+    },
+    {
+      "coordinates": [
+        59.999957672590085,
+        -62.3713427635132
+      ],
+      "properties": {
+        "subcategoryExternalId": "WIFnMFNeJD",
+        "imageId": 1386747,
+        "videoId": 1386748,
+        "externalId": "bGlRDCy7Ce",
+        "title": "风铃",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *唐人街* |\n#\n#\n| **录音：** |\n| :-----------: |\n|***录制悬挂的黄色风铃。***|\n#\n| **奖励：** |\n| :-----------: |\n|***活动代币***|\n#\n**注意：**\n#\n*完成主线任务 ***\"突破噪音\"*** 以解锁。*\n#\n*收集所有音频样本以解锁 ***戴维斯兄弟混音***。*",
+        "imagePath": "/game_map_pin/1386747/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/38b2582803b710e48ce50b0b292ed3a1c5d4315e"
+      }
+    },
+    {
+      "coordinates": [
+        15.406916843451995,
+        -43.974069707110196
+      ],
+      "properties": {
+        "subcategoryExternalId": "WIFnMFNeJD",
+        "imageId": 1386759,
+        "videoId": 1386760,
+        "externalId": "tjbo79Z1Be",
+        "title": "教堂钟声",
+        "description": "***\n#\n| **区域:** |\n| :-----------: |\n| *格林威治* |\n#\n#\n| **录制:** |\n| :-----------: |\n|***录制教堂钟声。***|\n#\n| **奖励:** |\n| :-----------: |\n|***活动代币***|\n#\n**注意:**\n#\n*完成主线任务***\"突破噪音\"***即可解锁。*\n#\n*收集所有声音样本以解锁***戴维斯兄弟混音***。*",
+        "imagePath": "/game_map_pin/1386759/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/c04dd678f01a2ca687d2c7085f4da8212b81d529"
+      }
+    },
+    {
+      "coordinates": [
+        -6.744408554775561,
+        0.6655672727636244
+      ],
+      "properties": {
+        "subcategoryExternalId": "WIFnMFNeJD",
+        "imageId": 1386771,
+        "videoId": 1386772,
+        "externalId": "KIP9tI34IS",
+        "title": "霓虹灯嗡嗡声",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *中城* |\n#\n#\n| **录音：** |\n| :-----------: |\n|***录制红蓝霓虹灯的声音。***|\n#\n| **奖励：** |\n| :-----------: |\n|***活动代币***|\n#\n**注意：**\n#\n*完成主线任务***\"突破噪音\"***以解锁。*\n#\n*收集所有声音样本以解锁***戴维斯兄弟混音***。*",
+        "imagePath": "/game_map_pin/1386771/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/8d895af3591e9e3c064bd09e1f13851ecf5ff554"
+      }
+    },
+    {
+      "coordinates": [
+        -25.272854360551833,
+        48.126747683219946
+      ],
+      "properties": {
+        "subcategoryExternalId": "WIFnMFNeJD",
+        "imageId": 1386786,
+        "videoId": 1386787,
+        "externalId": "bunhOh77re",
+        "title": "消防车引擎",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *上西区* |\n#\n#\n| **录音：** |\n| :-----------: |\n|***在入口处与一群消防员一起录制消防车的引擎声。***|\n#\n| **奖励：** |\n| :-----------: |\n|***活动代币***|\n#\n**注意：**\n#\n*完成主线任务***\"突破噪音\"***即可解锁。*\n#\n*收集所有声音样本以解锁***戴维斯兄弟混音***。*",
+        "imagePath": "/game_map_pin/1386786/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/66aac5d07a9fa2c07db124b694429f199f94785f"
+      }
+    },
+    {
+      "coordinates": [
+        -28.254367780158844,
+        77.20461590099546
+      ],
+      "properties": {
+        "subcategoryExternalId": "WIFnMFNeJD",
+        "imageId": 1386796,
+        "videoId": 1386797,
+        "externalId": "DluMXx8trs",
+        "title": "Train Rumble",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Harlem* |\n#\n#\n| **Recording:** |\n| :-----------: |\n|***Record the passing trains east of this location.***|\n#\n| **Rewards:** |\n| :-----------: |\n|***Activity Tokens***|\n#\n**Note:**\n#\n*Complete Main Mission ***\"Breaking Through the Noise\"*** to unlock.*\n#\n*Collect all Sound Samples to unlock the ***The Davis Brothers Mix***.*",
+        "imagePath": "/game_map_pin/1386796/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/8f86f11615d40edc9b285428fe41e30ecb1947da"
+      }
+    },
+    {
+      "coordinates": [
+        11.83553592217612,
+        60.01822415308416
+      ],
+      "properties": {
+        "subcategoryExternalId": "WIFnMFNeJD",
+        "imageId": 1386804,
+        "videoId": 1386805,
+        "externalId": "fJtpvePld0",
+        "title": "Water Drip",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Upper East Side* |\n#\n#\n| **Recording:** |\n| :-----------: |\n|***Record the water tank above the building, north of this position.***|\n#\n| **Rewards:** |\n| :-----------: |\n|***Activity Tokens***|\n#\n**Note:**\n#\n*Complete Main Mission ***\"Breaking Through the Noise\"*** to unlock.*\n#\n*Collect all Sound Samples to unlock the ***The Davis Brothers Mix***.*",
+        "imagePath": "/game_map_pin/1386804/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/4a0b9aa7604c837183876472ceb1db2d1558f382"
+      }
+    },
+    {
+      "coordinates": [
+        -7.032253068697173,
+        48.50665059251989
+      ],
+      "properties": {
+        "subcategoryExternalId": "WIFnMFNeJD",
+        "imageId": 1386814,
+        "videoId": 1386815,
+        "externalId": "s1eTbI5MHz",
+        "title": "Flock of Pigeons",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Central Park* |\n#\n#\n| **Recording:** |\n| :-----------: |\n|***Record the flock of pigeons near the bridge, use camouflage to approach undetected.***|\n#\n| **Rewards:** |\n| :-----------: |\n|***Activity Tokens***|\n#\n**Note:**\n#\n*Complete Main Mission ***\"Breaking Through the Noise\"*** to unlock.*\n#\n*Collect all Sound Samples to unlock the ***The Davis Brothers Mix***.*",
+        "imagePath": "/game_map_pin/1386814/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/03b2b734fa0311cbfe2a0017f57ddf49651f592f"
+      }
+    },
+    {
+      "coordinates": [
+        -21.2411137070564,
+        71.85322169638133
+      ],
+      "properties": {
+        "subcategoryExternalId": "4JowAfAtku",
+        "imageId": 1386824,
+        "videoId": 1386825,
+        "externalId": "phIOhAoMrG",
+        "title": "回到起点",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *哈莱姆区* |\n#\n| **解锁内容：** |\n| :-----------: |\n|***紫色统治战衣***|\n#\n**注意：**\n#\n*收集所有***声音样本***即可解锁。*",
+        "imagePath": "/game_map_pin/1386824/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/c4002bf33d0055fc40bea4a8488f78467743645f"
+      }
+    },
+    {
+      "coordinates": [
+        2.7799173012573704,
+        72.86451646094667
+      ],
+      "properties": {
+        "subcategoryExternalId": "E2Lg0Lc8Vf",
+        "imageId": 1386923,
+        "videoId": 1386924,
+        "externalId": "T8uOrglx9s",
+        "title": "哈莱姆之战",
+        "description": "***\n#\n| **主要任务** |\n| :-----------: |\n| *第三章的一部分* |\n#\n| **区域：** |\n| :-----------: |\n| *哈莱姆区* |\n#\n| **解锁：** |\n| :-----------: |\n| *回忆小径支线任务* |\n| *猫咪睡衣支线任务* |\n| *终极难度* |\n| *新游戏+* |\n#\n**注意：**\n#\n*完成主要任务***\"像真正的科学家一样\"***即可解锁。*",
+        "imagePath": "/game_map_pin/1386923/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/0771da55db36a9f7aca06a671535c30f893c2752"
+      }
+    },
+    {
+      "coordinates": [
+        21.848087302283574,
+        73.65076521742884
+      ],
+      "properties": {
+        "subcategoryExternalId": "4JowAfAtku",
+        "imageId": 1386941,
+        "videoId": 1386942,
+        "externalId": "8uwbHkirwE",
+        "title": "猫的睡衣",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *哈莱姆区* |\n#\n| **解锁：** |\n| :-----------: |\n|***杂货店猫咪套装***|\n#\n**注意：**\n#\n*完成主线任务***\"哈莱姆之战\"***和支线任务***\"抢劫者！！！\"***即可解锁。*",
+        "imagePath": "/game_map_pin/1386941/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/b9c78f1f5e5c64b88202e3adcfd31ee732e96331"
+      }
+    },
+    {
+      "coordinates": [
+        74.88235074229021,
+        54.78733733631498
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1388156,
+        "videoId": 1388157,
+        "externalId": "6co1z2pvI9",
+        "title": "Raft",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Upper East Side* |\n#\n| **Easter Egg** |\n| :-----------: |\n| *An underwater prison made specifically to house and confine individuals with superhuman abilities.* |",
+        "imagePath": "/game_map_pin/1388156/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/ba2b33cdd13923da8e90e3feccb766186cfb6726"
+      }
+    },
+    {
+      "coordinates": [
+        70.88933745427875,
+        40.8745823522618
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1388177,
+        "videoId": 1388178,
+        "externalId": "BsKG23ay34",
+        "title": "Ryker's Island",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Upper East Side* |\n#\n| **Easter Egg** |\n| :-----------: |\n| *Housed the majority of super criminals until other facilities such as The Vault and The Raft were created.* |",
+        "imagePath": "/game_map_pin/1388177/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/c6b0b6ec193dbbf868ee65f8938fd8976da1c7fd"
+      }
+    },
+    {
+      "coordinates": [
+        -22.273035870589865,
+        57.88279791410204
+      ],
+      "properties": {
+        "subcategoryExternalId": "HTy20e2vaD",
+        "imageId": 1388215,
+        "videoId": 1388216,
+        "externalId": "JFYgl4MLED",
+        "title": "Natural History Museum",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Upper West Side* |\n#\n| **Unlocks:** |\n| :-----------: |\n|***Empire State Building Postcard***|\n#\n**Note:**\n#\n*Complete Side Mission ***\"Memory Lane\"*** to unlock.*",
+        "imagePath": "/game_map_pin/1388215/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/16bf7e1554f9a10402675967b8111d4032dad55a"
+      }
+    },
+    {
+      "coordinates": [
+        11.659798169048372,
+        -11.732596277268158
+      ],
+      "properties": {
+        "subcategoryExternalId": "HTy20e2vaD",
+        "imageId": 1388229,
+        "videoId": 1388230,
+        "externalId": "6j892bucdc",
+        "title": "帝国大厦",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *中城区* |\n#\n| **解锁：** |\n| :-----------: |\n|***[现代艺术博物馆](wemod:\\/\\/maps\\/64515\\/364?location=kaaO9b5qhQ) 明信片***|\n#\n**注意：**\n#\n*收集***\"[自然历史博物馆](wemod:\\/\\/maps\\/64515\\/364?location=JFYgl4MLED)\"明信片***即可解锁。*",
+        "imagePath": "/game_map_pin/1388229/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/23d1d7997840d662ee61ffb628595212b8b40201"
+      }
+    },
+    {
+      "coordinates": [
+        -47.83351560804701,
+        -36.06206279945017
+      ],
+      "properties": {
+        "subcategoryExternalId": "HTy20e2vaD",
+        "imageId": 1388239,
+        "videoId": 1388240,
+        "externalId": "kaaO9b5qhQ",
+        "title": "现代艺术博物馆",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *格林威治* |\n#\n| **解锁：** |\n| :-----------: |\n|***[音乐俱乐部](wemod:\\/\\/maps\\/64515\\/364?location=6UvmecBYPe) 明信片***|\n#\n**注意：**\n#\n*收集***\"[帝国大厦](wemod:\\/\\/maps\\/64515\\/364?location=6j892bucdc)\"明信片***即可解锁。*",
+        "imagePath": "/game_map_pin/1388239/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/f24698660c8a75fc0ef9adce0e7c57f73ca5fb0e"
+      }
+    },
+    {
+      "coordinates": [
+        8.574527041273086,
+        -78.62699040003876
+      ],
+      "properties": {
+        "subcategoryExternalId": "HTy20e2vaD",
+        "imageId": 1388247,
+        "videoId": 1388248,
+        "externalId": "6UvmecBYPe",
+        "title": "音乐俱乐部",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *金融区* |\n#\n| **解锁：** |\n| :-----------: |\n|***海鲜餐厅 明信片***|\n#\n**注意：**\n#\n*收集***\"现代艺术博物馆\"明信片***以解锁。*",
+        "imagePath": "/game_map_pin/1388247/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/5c988bc6a580ec6fbb3ba425a11d64ff862d37b8"
+      }
+    },
+    {
+      "coordinates": [
+        66.77086272962248,
+        -50.60693656844298
+      ],
+      "properties": {
+        "subcategoryExternalId": "HTy20e2vaD",
+        "imageId": 1388257,
+        "videoId": 1388258,
+        "externalId": "f9fkmxbyyd",
+        "title": "海鲜餐厅",
+        "description": "***\n#\n| **区域:** |\n| :-----------: |\n| *唐人街* |\n#\n| **解锁:** |\n| :-----------: |\n|***El Barrio 明信片***|\n#\n**注意:**\n#\n*收集 ***\"音乐俱乐部\" 明信片*** 即可解锁。*",
+        "imagePath": "/game_map_pin/1388257/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/94035a308fc06f905873156a9a5c157589e28bef"
+      }
+    },
+    {
+      "coordinates": [
+        20.46682870049972,
+        64.10897041402058
+      ],
+      "properties": {
+        "subcategoryExternalId": "HTy20e2vaD",
+        "imageId": 1388278,
+        "videoId": 1388279,
+        "externalId": "Exk2y6eqko",
+        "title": "埃尔巴里奥",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *上东区* |\n#\n| **解锁：** |\n| :-----------: |\n|***C. J. Walker公园 明信片***|\n#\n**注意：**\n#\n*收集***\"海鲜餐厅\"明信片***以解锁。*",
+        "imagePath": "/game_map_pin/1388278/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/9a1a59984d9cd2884f3e05b19893a428b66732e1"
+      }
+    },
+    {
+      "coordinates": [
+        15.06008825675201,
+        74.56863802445935
+      ],
+      "properties": {
+        "subcategoryExternalId": "4JowAfAtku",
+        "imageId": 1386936,
+        "videoId": 1386937,
+        "externalId": "AAR00R1kzb",
+        "title": "回忆之路",
+        "description": "***\n#\n| **区域：** |\n| :-----------: |\n| *哈莱姆区* |\n#\n#\n| **解锁：** |\n| :-----------: |\n|***自然历史博物馆 明信片***|\n#\n**注意：**\n#\n*完成主线任务***\"哈莱姆之战\"***即可解锁。*",
+        "imagePath": "/game_map_pin/1386936/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/f2d2bda687cecb62279ab509cee15f65d9b272e4"
+      }
+    },
+    {
+      "coordinates": [
+        7.833398259827959,
+        72.95570103728005
+      ],
+      "properties": {
+        "subcategoryExternalId": "HTy20e2vaD",
+        "imageId": 1388289,
+        "videoId": 1388290,
+        "externalId": "dQjqmTlgiV",
+        "title": "C. J. 沃克公园",
+        "description": "***\n#\n| **地区：** |\n| :-----------: |\n| *哈莱姆区* |\n#\n**注意：**\n#\n*收集***\"El Barrio\"明信片***以解锁。*",
+        "imagePath": "/game_map_pin/1388289/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/02659d5fac08e2662ec00debbd3d89d413f76521"
+      }
+    },
+    {
+      "coordinates": [
+        32.43936324932781,
+        53.8328594439167
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1388308,
+        "videoId": 1388309,
+        "externalId": "tkxWaafhna",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Upper East Side* |\n| Acquired through Main Mission ***\"Curtain Call\"*** |\n#\n| **Rewards:** |\n| :-----------: |\n|***Tech Parts***||\n#\n**Note:**\n#\n*Smash the cracked wall, left side of the female statue.*\n#\n*Tech Parts are used to upgrade gears and suits.*",
+        "imagePath": "/game_map_pin/1388308/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/7153a9b8b810f61bbdb2f4b478ac0c86f0fe1673"
+      }
+    },
+    {
+      "coordinates": [
+        -70.96852988414706,
+        64.8178241642554
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1386898,
+        "videoId": 1386899,
+        "externalId": "dkTFnAfb7m",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Upper West Side* |\n| *Located inside Oscorp Science Center.* |\n#\n| **Rewards:** |\n| :-----------: |\n|***Tech Parts***||\n#\n**Note:**\n#\n*Complete Main Mission ***\"Like Real Scientists\"*** to unlock.*\n#\n*Tech Parts are used to upgrade gears and suits.*",
+        "imagePath": "/game_map_pin/1386898/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/1650a29f83526fd9144f69e7446c724108be0670"
+      }
+    },
+    {
+      "coordinates": [
+        4.60474686239732,
+        -76.40721028134749
+      ],
+      "properties": {
+        "subcategoryExternalId": "dnpQTYkeUv",
+        "imageId": 1388341,
+        "videoId": 1388342,
+        "externalId": "akmJNSEboX",
+        "title": "地下储藏室",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Financial District* |\n| Acquired through Main Mission ***\"Tinker Tailor Spider Spy\"*** |\n#\n| **Rewards:** |\n| :-----------: |\n|***Tech Parts***||\n#\n**Note:**\n#\n*Tech Parts are used to upgrade gears and suits.*",
+        "imagePath": "/game_map_pin/1388341/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/e6c69ba1f6a6e77d88f453f2ab55ed797958df23"
+      }
+    },
+    {
+      "coordinates": [
+        -12.795048823977993,
+        41.06858286324868
+      ],
+      "properties": {
+        "subcategoryExternalId": "cORttAYPZJ",
+        "imageId": 1388366,
+        "videoId": 1388367,
+        "externalId": "qsUM2MUkEC",
+        "title": "分别礼物",
+        "description": "***\n#\n| **主要任务** |\n| :-----------: |\n| *第一章的一部分* |\n#\n| **区域：** |\n| :-----------: |\n| *中央公园* |\n#\n| **解锁：** |\n| :-----------: |\n|***重任在肩战衣***|\n|主要任务 ***\"新的蛛丝发射\"***|\n#\n**注意：**\n#\n*完成第一个任务 ***\"握紧你的蛛丝发射器\"*** 以解锁。*",
+        "imagePath": "/game_map_pin/1388366/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/3453692823603210befc538136a4b062b6a51e91"
+      }
+    },
+    {
+      "coordinates": [
+        -37.21151568744301,
+        77.18178414589914
+      ],
+      "properties": {
+        "subcategoryExternalId": "cORttAYPZJ",
+        "imageId": 1388370,
+        "videoId": 1388371,
+        "externalId": "D08FoN1uN4",
+        "title": "New Thwip",
+        "description": "***\n#\n| **Main Mission** |\n| :-----------: |\n| *Part of Act 1* |\n#\n| **District:** |\n| :-----------: |\n| *Harlem* |\n#\n#\n| **Unlocks:** |\n| :-----------: |\n|***Spider-Training Crimes***|\n|Main Mission ***\"We're Here For You\"***|\n#\n#\n**Note:**\n#\n*Complete Main Mission ***\"Parting Gift\"*** to unlock.*",
+        "imagePath": "/game_map_pin/1388370/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/19a0b9ba5ad094419368d6cb0c2bbebcbced471a"
+      }
+    },
+    {
+      "coordinates": [
+        28.545033817105917,
+        73.47088034445673
+      ],
+      "properties": {
+        "subcategoryExternalId": "cORttAYPZJ",
+        "imageId": 1388376,
+        "videoId": 1388377,
+        "externalId": "ykWiDBvI5s",
+        "title": "We're Here For You",
+        "description": "***\n#\n| **Main Mission** |\n| :-----------: |\n| *Part of Act 1* |\n#\n| **District:** |\n| :-----------: |\n| *Harlem* |\n#\n#\n| **Unlocks:** |\n| :-----------: |\n|Main Mission ***\"La Nochebuena\"***|\n#\n#\n**Note:**\n#\n*Complete Main Mission ***\"New Thwip\"*** to unlock.*",
+        "imagePath": "/game_map_pin/1388376/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/55259c56ab2d9c09c20456819618d94fa5b4ff89"
+      }
+    },
+    {
+      "coordinates": [
+        16.08460061383616,
+        74.30364029580502
+      ],
+      "properties": {
+        "subcategoryExternalId": "cORttAYPZJ",
+        "imageId": 1388382,
+        "videoId": 1388383,
+        "externalId": "utRKavb8fs",
+        "title": "La Nochebuena",
+        "description": "***\n#\n| **Main Mission** |\n| :-----------: |\n| *Part of Act 1* |\n#\n| **District:** |\n| :-----------: |\n| *Harlem* |\n#\n#\n| **Unlocks:** |\n| :-----------: |\n|***FNSM App***|\n|Main Mission ***\"Harlem Trains Out of Service\"***|\n#\n**Note:**\n#\n*Complete Main Mission ***\"We're Here For You\"*** to unlock.*",
+        "imagePath": "/game_map_pin/1388382/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/392239c538373ba95d7c0b5830c3771b10e8b457"
+      }
+    },
+    {
+      "coordinates": [
+        24.874575133554828,
+        75.12518949230582
+      ],
+      "properties": {
+        "subcategoryExternalId": "cORttAYPZJ",
+        "imageId": 1380061,
+        "videoId": 1380062,
+        "externalId": "xQzGYLrlkT",
+        "title": "Harlem Trains Out of Service",
+        "description": "***\n#\n| **Main Mission** |\n| :-----------: |\n| *Part of Act 1* |\n#\n| **District:** |\n| :-----------: |\n| *Harlem* |\n#\n| **Unlocks:** |\n| :-----------: |\n|***Underground Caches***|\n|***Holo-Drone***|\n|Main Mission ***\"Reconnecting\"***|\n#\n**Note:**\n#\n*Complete Main Mission ***\"La Nochebuena\"*** to unlock.*",
+        "imagePath": "/game_map_pin/1380061/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/30bf4bc2bd2f443cd2ce01ad294977928041dfdd"
+      }
+    },
+    {
+      "coordinates": [
+        -50.56536858784389,
+        55.19725693266531
+      ],
+      "properties": {
+        "subcategoryExternalId": "cORttAYPZJ",
+        "imageId": 1384338,
+        "videoId": 1384339,
+        "externalId": "aPAevJsyZM",
+        "title": "Reconnecting",
+        "description": "***\n#\n| **Main Mission** |\n| :-----------: |\n| *Part of Act 1* |\n#\n| **District:** |\n| :-----------: |\n| *Upper West Side* |\n#\n| **Unlocks:** |\n| :-----------: |\n|***Fast Travel***|\n|***Time Capsules***|\n|Main Mission ***\"Time to Rally\"***|\n#\n**Note:**\n#\n*Complete Main Mission ***\"Harlem Trains Out of Service\"*** to unlock.*",
+        "imagePath": "/game_map_pin/1384338/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/83b8dc6dfca334e6d022897e08052dc8441fba7a"
+      }
+    },
+    {
+      "coordinates": [
+        -69.49579003937302,
+        76.9646171838287
+      ],
+      "properties": {
+        "subcategoryExternalId": "cORttAYPZJ",
+        "imageId": 1384346,
+        "videoId": 1384347,
+        "externalId": "sVn130WiJi",
+        "title": "集结时刻",
+        "description": "***\n#\n| **主要任务** |\n| :-----------: |\n| *第一章的一部分* |\n#\n| **区域：** |\n| :-----------: |\n| *哈莱姆区* |\n#\n| **解锁：** |\n| :-----------: |\n|***经典战衣***|\n|主要任务 ***\"[Someone Left the Lights On](wemod:\\/\\/maps\\/64515\\/364?location=mFTzRXjiiU)\"***|\n#\n**注意：**\n#\n*完成主要任务 ***\"[Reconnecting](wemod:\\/\\/maps\\/64515\\/364?location=aPAevJsyZM)\"*** 以解锁。*",
+        "imagePath": "/game_map_pin/1384346/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/86e995a4e728973b88c3a5e51eb4c85484d55ef2"
+      }
+    },
+    {
+      "coordinates": [
+        -22.444304814037366,
+        -46.606890784387566
+      ],
+      "properties": {
+        "subcategoryExternalId": "WeqvHEGKr9",
+        "imageId": 1385097,
+        "videoId": 1385098,
+        "externalId": "mFTzRXjiiU",
+        "title": "有人忘记关灯",
+        "description": "***\n#\n| **主要任务** |\n| :-----------: |\n| *第二章的一部分* |\n#\n| **地区：** |\n| :-----------: |\n| *格林威治* |\n#\n| **解锁：** |\n| :-----------: |\n|主要任务 ***\"[企业间谍活动](wemod:\\/\\/maps\\/64515\\/364?location=5Lts9d78RN)\"***|\n#\n**注意：**\n#\n*完成主要任务 ***\"[集结时刻](wemod:\\/\\/maps\\/64515\\/364?location=sVn130WiJi)\"*** 以解锁。*",
+        "imagePath": "/game_map_pin/1385097/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/17991cc6c43863c6056299900a3b1165ef1a4fcc"
+      }
+    },
+    {
+      "coordinates": [
+        42.14800033731669,
+        -60.08848473348506
+      ],
+      "properties": {
+        "subcategoryExternalId": "WeqvHEGKr9",
+        "imageId": 1385192,
+        "videoId": 1385193,
+        "externalId": "5Lts9d78RN",
+        "title": "企业间谍活动",
+        "description": "***\n#\n| **主要任务** |\n| :-----------: |\n| *第二章的一部分* |\n#\n| **区域：** |\n| :-----------: |\n| *格林威治* |\n#\n| **解锁：** |\n| :-----------: |\n|***罗克森实验室***|\n|***远程矿井***|\n|主要任务 ***\"地下卧底\"***|\n#\n**注意：**\n#\n*完成主要任务 ***\"有人忘记关灯\"*** 来解锁。*",
+        "imagePath": "/game_map_pin/1385192/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/66990f6a34677c6cc9d56e41f8c11880e4049df2"
+      }
+    },
+    {
+      "coordinates": [
+        -23.86926594510581,
+        23.86089734444593
+      ],
+      "properties": {
+        "subcategoryExternalId": "WeqvHEGKr9",
+        "imageId": 1386608,
+        "videoId": 1386609,
+        "externalId": "p1ycBELXWk",
+        "title": "地下卧底",
+        "description": "***\n#\n| **主要任务** |\n| :-----------: |\n| *第二幕的一部分* |\n#\n| **区域：** |\n| :-----------: |\n| *地狱厨房* |\n#\n#\n| **解锁：** |\n| :-----------: |\n|***地下藏身处***|\n|主要任务 ***\"谢幕\"***|\n#\n**注意：**\n#\n*完成主要任务 ***\"企业间谍活动\"*** 即可解锁。*",
+        "imagePath": "/game_map_pin/1386608/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/6b593fb270e61b6b6a8c2a1290fdcca8a726d280"
+      }
+    },
+    {
+      "coordinates": [
+        30.790242729902843,
+        53.813583897127614
+      ],
+      "properties": {
+        "subcategoryExternalId": "WeqvHEGKr9",
+        "imageId": 1386703,
+        "videoId": 1386704,
+        "externalId": "r7XWJ8w3hN",
+        "title": "Curtain Call",
+        "description": "***\n#\n| **Main Mission** |\n| :-----------: |\n| *Part of Act 2* |\n#\n| **District:** |\n| :-----------: |\n| *Upper East Side* |\n|Main Mission ***\"Breaking Through the Noise\"***|\n#\n**Note:**\n#\n*Complete Main Mission ***\"Underground Undercover\"*** to unlock.*",
+        "imagePath": "/game_map_pin/1386703/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/18e0e318ffa23de5e899686b7e535e7a4341d012"
+      }
+    },
+    {
+      "coordinates": [
+        -56.43777580719568,
+        5.927045756558272
+      ],
+      "properties": {
+        "subcategoryExternalId": "E2Lg0Lc8Vf",
+        "imageId": 1386724,
+        "videoId": 1386725,
+        "externalId": "8ToulLcKyi",
+        "title": "突破噪音",
+        "description": "***\n#\n| **主要任务** |\n| :-----------: |\n| *第三章的一部分* |\n#\n| **区域：** |\n| :-----------: |\n| *地狱厨房* |\n#\n| **解锁：** |\n| :-----------: |\n|***声音样本***|\n|主要任务 ***\"修补匠裁缝蜘蛛间谍\"***|\n#\n**注意：**\n#\n*完成主要任务 ***\"谢幕\"*** 以解锁。*",
+        "imagePath": "/game_map_pin/1386724/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/d9d60a700a6cc3b49de1c25b0d13c784ecf030e1"
+      }
+    },
+    {
+      "coordinates": [
+        5.651554580098406,
+        -76.28846663055276
+      ],
+      "properties": {
+        "subcategoryExternalId": "E2Lg0Lc8Vf",
+        "imageId": 1386836,
+        "videoId": 1386837,
+        "externalId": "VpP9NPi9ze",
+        "title": "修补匠裁缝蜘蛛间谍",
+        "description": "***\n#\n| **主要任务** |\n| :-----------: |\n| *第3章的一部分* |\n#\n| **区域：** |\n| :-----------: |\n| *金融区* |\n#\n| **解锁：** |\n| :-----------: |\n|主要任务 ***\"血浓于水\"***|\n#\n**注意：**\n#\n*完成主要任务 ***\"突破噪音\"*** 以解锁。*",
+        "imagePath": "/game_map_pin/1386836/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/1cebff7cdab19794ced39040522827c6f69e1bf0"
+      }
+    },
+    {
+      "coordinates": [
+        -65.87169277503807,
+        66.09290953786433
+      ],
+      "properties": {
+        "subcategoryExternalId": "E2Lg0Lc8Vf",
+        "imageId": 1386881,
+        "videoId": 1386882,
+        "externalId": "naKmJcuqTc",
+        "title": "血浓于水",
+        "description": "***\n#\n| **主要任务** |\n| :-----------: |\n| *第三幕的一部分* |\n#\n| **区域：** |\n| :-----------: |\n| *上西区* |\n#\n| **解锁：** |\n| :-----------: |\n|主要任务 ***\"像真正的科学家\"***|\n#\n**注意：**\n#\n*完成主要任务 ***\"修补匠裁缝蜘蛛间谍\"*** 以解锁。*",
+        "imagePath": "/game_map_pin/1386881/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/c8dfbc2aa8d5e577a50f0a743898347f93a0c0ce"
+      }
+    },
+    {
+      "coordinates": [
+        -64.48185871291658,
+        66.29187587188056
+      ],
+      "properties": {
+        "subcategoryExternalId": "E2Lg0Lc8Vf",
+        "imageId": 1386884,
+        "videoId": 1386885,
+        "externalId": "pAkHnXSxJm",
+        "title": "Like Real Scientists",
+        "description": "***\n#\n| **Main Mission** |\n| :-----------: |\n| *Part of Act 3* |\n#\n| **District:** |\n| :-----------: |\n| *Upper West Side* |\n#\n| **Unlocks:** |\n| :-----------: |\n|Main Mission ***\"The Battle for Harlem\"***|\n#\n**Note:**\n#\n*Complete Main Mission ***\"Thicker than Blood\"*** to unlock.*",
+        "imagePath": "/game_map_pin/1386884/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/6c907efb59a67ffd865855ea9a981a8a83c6746c"
+      }
+    },
+    {
+      "coordinates": [
+        14.702981829668374,
+        73.95427397586721
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1388666,
+        "videoId": 1388667,
+        "externalId": "KUosxDNjKJ",
+        "title": "Apartment Numbers",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Harlem* |\n#\n#\n| **Easter Egg** |\n| :-----------: |\n| *References to Where's Waldo?, Toy Story, Call of Cthulhu, A Nightmare on Elm Street, and Friday the 13th.* |\n#\n**Note:**\n#\n*Use Photo Mode to Zoom.*",
+        "imagePath": "/game_map_pin/1388666/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/abfb6cf8f3142de1a462a4b7a1023483e88a08d0"
+      }
+    },
+    {
+      "coordinates": [
+        13.992702900037642,
+        74.31109123841745
+      ],
+      "properties": {
+        "subcategoryExternalId": "yJEIr5D25Z",
+        "imageId": 1388677,
+        "videoId": 1388678,
+        "externalId": "sWml409Lqc",
+        "title": "The Amazing Spider-Man Vol. 1",
+        "description": "***\n#\n| **District:** |\n| :-----------: |\n| *Harlem* |\n#\n| **Easter Egg** |\n| :-----------: |\n| *Vol. 1 of The Amazing Spider-Man by Stan Lee is seen inside Mile's apartment.* |",
+        "imagePath": "/game_map_pin/1388677/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/364/3dcb333d7c151b10a781c16eab0c4aa3629947af"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "vampyr",
+  "title": "Vampyr",
+  "heroUrl": "/assets/images/games/vampyr/hero.webp",
+  "maps": [
+    {
+      "name": "London",
+      "slug": "london",
+      "thumbnailUrl": "/assets/images/games/vampyr/london.webp",
+      "updatedAt": "2026-02-03T06:25:32Z",
+      "markerCount": 319,
+      "categoryCount": 3,
+      "subcategoryCount": 13
+    }
+  ]
+}

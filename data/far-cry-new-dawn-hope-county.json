@@ -1,0 +1,4583 @@
+{
+  "metadata": {
+    "externalId": "LzaK6Gup8K",
+    "name": "Hope County",
+    "slug": "hope-county",
+    "baseTilePath": "https://storage-cdn.wemod.com/maps/018d7f40-fa42-76d1-9a3e-5bb9fa884f90",
+    "isChecklistPublished": true,
+    "isInActiveDevelopment": false,
+    "backgroundColor": "#1E2E43",
+    "minZoom": 1,
+    "maxZoom": 7,
+    "initialZoom": 3,
+    "tmsEnabled": true,
+    "categories": [
+      {
+        "externalId": "y1zNTr7dCm",
+        "gameMapExternalId": "LzaK6Gup8K",
+        "title": "动物分布地",
+        "color": "#7788a1",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "ViwHjm8AMA",
+        "gameMapExternalId": "LzaK6Gup8K",
+        "title": "收藏品",
+        "color": "#d29979",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "Lk3FwaIgf2",
+        "gameMapExternalId": "LzaK6Gup8K",
+        "title": "地点",
+        "color": "#b36a77",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "0Zzg85g7sY",
+        "gameMapExternalId": "LzaK6Gup8K",
+        "title": "其他",
+        "color": "#d58cb8",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "rrxUbEk2Ux",
+        "gameMapExternalId": "LzaK6Gup8K",
+        "title": "资源",
+        "color": "#56a6d0",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "subcategories": [
+      {
+        "externalId": "fcPgea1c4V",
+        "categoryExternalId": "y1zNTr7dCm",
+        "title": "动物",
+        "icon": "roundies:animals-antalope",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "zHDA6ra0CC",
+        "categoryExternalId": "ViwHjm8AMA",
+        "title": "雇佣枪手",
+        "icon": "roundies:airport-and-hotels-weapon-case",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "F3CY3aqllO",
+        "categoryExternalId": "ViwHjm8AMA",
+        "title": "音乐播放器",
+        "icon": "roundies:electronics-music-player",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "Q7WfRUifML",
+        "categoryExternalId": "ViwHjm8AMA",
+        "title": "照片",
+        "icon": "picture",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "ayrmWUBd87",
+        "categoryExternalId": "ViwHjm8AMA",
+        "title": "专家",
+        "icon": "roundies:camera-and-photography-person-night-image",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "Nd2E9wb9O0",
+        "categoryExternalId": "ViwHjm8AMA",
+        "title": "寻宝游戏",
+        "icon": "treasure-chest",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "i4OC1Lndo0",
+        "categoryExternalId": "Lk3FwaIgf2",
+        "title": "主基地",
+        "icon": "home",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "WqDFl1FhIM",
+        "categoryExternalId": "Lk3FwaIgf2",
+        "title": "地点",
+        "icon": "location-crosshairs",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "XtPsCXQjyR",
+        "categoryExternalId": "Lk3FwaIgf2",
+        "title": "前哨站",
+        "icon": "eye-crossed",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "ND9pNo0yOX",
+        "categoryExternalId": "0Zzg85g7sY",
+        "title": "复活节彩蛋",
+        "icon": "roundies:food-cracked-egg",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "IwCVzv7jZf",
+        "categoryExternalId": "0Zzg85g7sY",
+        "title": "杂项",
+        "icon": "question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "j3IIPvBLAp",
+        "categoryExternalId": "rrxUbEk2Ux",
+        "title": "鱼",
+        "icon": "fish",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "mBNKakMGXm",
+        "categoryExternalId": "rrxUbEk2Ux",
+        "title": "巨兽动物",
+        "icon": "spaghetti-monster-flying",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "h721ldkPEy",
+        "categoryExternalId": "rrxUbEk2Ux",
+        "title": "保险柜",
+        "icon": "roundies:airport-and-hotels-safe",
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "playerLocationDeltas": null
+  },
+  "features": [
+    {
+      "coordinates": [
+        -146.44775390625,
+        -80.5067367735037
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "mBNKakMGXm",
+        "externalId": "qsHVV5hwLu",
+        "title": "巨兽野牛",
+        "description": "***\n***怪物动物***\n***",
+        "subcategoryExternalId": "mBNKakMGXm",
+        "imageId": 976839,
+        "imagePath": "/game_map_pin/976839/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -152.9296875,
+        -81.4532087171711
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "i4OC1Lndo0",
+        "externalId": "6RaKceNcmN",
+        "title": "繁荣",
+        "description": "***家园基地***",
+        "subcategoryExternalId": "i4OC1Lndo0",
+        "imageId": 975136,
+        "imagePath": "/game_map_pin/975136/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -155.72021484375,
+        -81.6851439845468
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "IwCVzv7jZf",
+        "externalId": "ijEsg470gf",
+        "title": "特蕾西的鞋盒",
+        "description": "***一旦你开始在希望郡的第一个任务就可以获得,并将开始亲爱的照片任务。它位于繁荣城的二楼。***",
+        "subcategoryExternalId": "IwCVzv7jZf",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -157.78564453125,
+        -81.6533083558804
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -3908.08520507813,
+          "y": -1938.91638183594,
+          "z": 158.874069213867
+        },
+        "subcategoryId": "zHDA6ra0CC",
+        "externalId": "TYRygiCAp4",
+        "title": "吉娜·格拉",
+        "description": "**雇佣枪手支线任务:**\n- *妈妈越多,问题越多*\n\n**前置条件:**\n- *完成第2章主线剧情*\n- *招募夏基·博肖*",
+        "subcategoryExternalId": "zHDA6ra0CC",
+        "imageId": 976616,
+        "imagePath": "/game_map_pin/976616/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -158.0712890625,
+        -81.096615177468
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Q7WfRUifML",
+        "externalId": "vb3SoxmJTs",
+        "title": "亲爱的照片 #1",
+        "description": "***亲爱的照片#1指南:***\n\n- *第一张照片在繁荣城西边。到达地点后,你需要站在垫子上并拿出照片。然后转向繁荣城方向,将照片对齐。*",
+        "subcategoryExternalId": "Q7WfRUifML",
+        "imageId": 975144,
+        "imagePath": "/game_map_pin/975144/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -171.2548828125,
+        -81.6277527369785
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "j3IIPvBLAp",
+        "externalId": "p4uIGPIz0K",
+        "title": "虹鳟鱼",
+        "description": "***(钓鱼区)***",
+        "subcategoryExternalId": "j3IIPvBLAp",
+        "imageId": 976774,
+        "imagePath": "/game_map_pin/976774/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -152.05078125,
+        -79.7499320750945
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -3854.64306640625,
+          "y": -1720.06384277344,
+          "z": 150.314193725586
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "85BnRAPd9p",
+        "title": "埋藏的货物",
+        "description": "**地点目标:**\n- *胶带(2)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975148,
+        "imagePath": "/game_map_pin/975148/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -138.8232421875,
+        -78.9123836871072
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "ND9pNo0yOX",
+        "externalId": "bnLL4qgpeu",
+        "title": "埋藏的冰箱",
+        "description": "***被木板覆盖的埋藏冰箱。打破它可以看到骨头和一顶软呢帽。***",
+        "subcategoryExternalId": "ND9pNo0yOX",
+        "imageId": 976757,
+        "imagePath": "/game_map_pin/976757/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -135.484454031427,
+        -79.5718983768824
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -3542.04150390625,
+          "y": -1713.67858886719,
+          "z": 104.528198242188
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "lCb697Ee1K",
+        "title": "快乐洞穴",
+        "description": "***(可以在一个小山洞中找到此位置)***\n\n**位置目标：**\n- *元件 (3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975155,
+        "imagePath": "/game_map_pin/975155/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -131.178869000354,
+        -77.145952246
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -3484.49609375,
+          "y": -1534.12902832031,
+          "z": 111.985549926758
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "dUSpwG5Nwp",
+        "title": "爬行者谷仓",
+        "description": "**地点目标:**\n- *齿轮(3)*\n\n**(第三个齿轮在谷仓附近的皮卡车里。)**",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975161,
+        "imagePath": "/game_map_pin/975161/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -145.7521571794,
+        -76.2962034446682
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -3748.58422851563,
+          "y": -1406.89819335938,
+          "z": 139.038116455078
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "OLZJIarHDi",
+        "title": "赌徒之跑",
+        "description": "**地点目标：**\n- *泉水 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975164,
+        "imagePath": "/game_map_pin/975164/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -162.0558681169,
+        -75.8949437343863
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "ayrmWUBd87",
+        "externalId": "iDCnvcLu1y",
+        "title": "豆子",
+        "description": "**专家故事任务:**\n- *连败*\n\n***(完成连败任务以招募豆子)***",
+        "subcategoryExternalId": "ayrmWUBd87",
+        "imageId": 976555,
+        "imagePath": "/game_map_pin/976555/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -162.8029384294,
+        -75.6573969966418
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -4049.95532226563,
+          "y": -1387.18591308594,
+          "z": 115.94384765625
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "Pd42wAojkq",
+        "title": "维基豆荚地",
+        "description": "**地点目标:**\n- *胶带 (3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975302,
+        "imagePath": "/game_map_pin/975302/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -169.2628993669,
+        -74.6209029452904
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "j3IIPvBLAp",
+        "externalId": "yZ5BbEftsE",
+        "title": "牛鳟",
+        "description": "***(钓鱼区)***",
+        "subcategoryExternalId": "j3IIPvBLAp",
+        "imageId": 976769,
+        "imagePath": "/game_map_pin/976769/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -163.17632054485,
+        -73.8451289838749
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -4067.42333984375,
+          "y": -1263.77966308594,
+          "z": 99.7381820678711
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "9LX48QR0Rh",
+        "title": "苦涩溪流",
+        "description": "**地点目标:**\n- *零件(3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975298,
+        "imagePath": "/game_map_pin/975298/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -136.82373046875,
+        -73.5408551627393
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -3566.81762695313,
+          "y": -1252.33911132813,
+          "z": 134.031066894531
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "9K0EbK0QyT",
+        "title": "布拉德伯里森林",
+        "description": "**地点目标：**\n- *胶带 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975168,
+        "imagePath": "/game_map_pin/975168/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -136.42822265625,
+        -73.5843779424106
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "dbgQRTiEjd",
+        "title": "",
+        "description": "**保险箱位置:**\n- *在***布拉德伯里森林***中找到。*\n\n**保险箱奖励:**\n- *钛金属(18)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 976863,
+        "imagePath": "/game_map_pin/976863/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -135.999755859375,
+        -73.6401713721668
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "F3CY3aqllO",
+        "externalId": "20xBatAgmn",
+        "title": "音乐播放器 #1",
+        "description": "**音乐播放器位置:**\n- *在***布拉德伯里森林***的小木屋内。打破木板以进入。*",
+        "subcategoryExternalId": "F3CY3aqllO",
+        "imageId": 975627,
+        "imagePath": "/game_map_pin/975627/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -153.0615234375,
+        -71.9313439403574
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -3835.16552734375,
+          "y": -1119.25073242188,
+          "z": 138.289657592773
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "OkCMaghA7t",
+        "title": "The FANG中心",
+        "description": "**地点目标:**\n- *齿轮(6)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975174,
+        "imagePath": "/game_map_pin/975174/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -152.149658203125,
+        -72.1279362810558
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Nd2E9wb9O0",
+        "externalId": "iaKGUOFgJg",
+        "title": "为谁钟熊鸣",
+        "description": "**寻宝任务位置:**\n- *你可以在***FANG中心***附近找到这个便条。有3只泰迪熊的旧展示柜。找到后敲响FANG中心的铃铛并杀死熊以获得地下掩体的钥匙。*",
+        "subcategoryExternalId": "Nd2E9wb9O0",
+        "imageId": 976644,
+        "imagePath": "/game_map_pin/976644/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -152.2265625,
+        -71.6498329432346
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "ND9pNo0yOX",
+        "externalId": "dENZr9Kgqr",
+        "title": "布默",
+        "description": "***进入掩体并向墓中投掷爆炸物以揭示彩蛋。***",
+        "subcategoryExternalId": "ND9pNo0yOX",
+        "imageId": 976764,
+        "imagePath": "/game_map_pin/976764/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -152.7978515625,
+        -71.4970369009542
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "loknkt8JiW",
+        "title": "",
+        "description": "**保险箱位置：**\n- *FANG中心的掩体内*\n\n**保险箱奖励：**\n- *钛金（15）*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 976861,
+        "imagePath": "/game_map_pin/976861/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -156.005859375,
+        -68.4315128453752
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -3912.69213867188,
+          "y": -942.702331542969,
+          "z": 142.14924621582
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "wVa1zmeA8L",
+        "title": "粗人悬崖",
+        "description": "**地点目标:**\n- *弹簧(3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975332,
+        "imagePath": "/game_map_pin/975332/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -143.458082077596,
+        -61.2033747121044
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -3679.51220703125,
+          "y": -626.556579589844,
+          "z": 160.360321044922
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "ba8qx6DqQW",
+        "title": "Fithgate",
+        "description": "**地点目标:**\n- *胶带 (3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975339,
+        "imagePath": "/game_map_pin/975339/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -138.076171875,
+        -60.7376858345093
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "j3IIPvBLAp",
+        "externalId": "ABawGjUwsr",
+        "title": "奇努克三文鱼",
+        "description": "***(钓鱼区)***",
+        "subcategoryExternalId": "j3IIPvBLAp",
+        "imageId": 976776,
+        "imagePath": "/game_map_pin/976776/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -160.5322265625,
+        -50.9307380237182
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -4007.29321289063,
+          "y": -293.923095703125,
+          "z": 279.96142578125
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "jH2CbT7tZO",
+        "title": "审判者的坟墓",
+        "description": "**位置目标：**\n- *元件 (6)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975341,
+        "imagePath": "/game_map_pin/975341/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -163.0810546875,
+        -51.5087424588033
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "ayrmWUBd87",
+        "externalId": "ttpnzgY0gM",
+        "title": "塞琳",
+        "description": "**专家故事任务:**\n- *深潜*\n\n***(完成深潜任务以招募塞琳)***",
+        "subcategoryExternalId": "ayrmWUBd87",
+        "imageId": 976565,
+        "imagePath": "/game_map_pin/976565/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -164.0478515625,
+        -51.0690166596039
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "jQNP4vP5jm",
+        "title": "保险箱 x2",
+        "description": "***可以在帮助塞琳时找到***",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -128.9794921875,
+        -81.2550322990594
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "j3IIPvBLAp",
+        "externalId": "9bsENsz1fM",
+        "title": "小口黑鲈鱼",
+        "description": "***(钓鱼区)***",
+        "subcategoryExternalId": "j3IIPvBLAp",
+        "imageId": 976779,
+        "imagePath": "/game_map_pin/976779/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -119.6630859375,
+        -79.9205477976945
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "Bpk1yOKhh8",
+        "title": "",
+        "description": "**保险箱位置:**\n- *在***莱氏父女航空***对面。位于建筑物后面。*\n\n**保险箱奖励:**\n- *钛金属(18)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977679,
+        "imagePath": "/game_map_pin/977679/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        110.687062394971,
+        -66.0473656083434
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 974.022827148438,
+          "y": -838.706604003906,
+          "z": 122.014526367188
+        },
+        "subcategoryId": "zHDA6ra0CC",
+        "externalId": "FzoHtFfHUV",
+        "title": "赫克·德鲁布曼小子",
+        "description": "**雇佣枪手支线任务:**\n- *失误之日*",
+        "subcategoryExternalId": "zHDA6ra0CC",
+        "imageId": 976612,
+        "imagePath": "/game_map_pin/976612/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -49.7558842007898,
+        -8.20546162330723
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1998.39562988281,
+          "y": 664.31884765625,
+          "z": 134.717819213867
+        },
+        "subcategoryId": "zHDA6ra0CC",
+        "externalId": "fkBGL1O7Ma",
+        "title": "赫拉修",
+        "description": "**雇佣枪手支线任务:**\n- *爱上一头野猪*",
+        "subcategoryExternalId": "zHDA6ra0CC",
+        "imageId": 976636,
+        "imagePath": "/game_map_pin/976636/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -95.29541015625,
+        -80.1298696474896
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -2818.5654296875,
+          "y": -1768.77270507813,
+          "z": 107.967781066895
+        },
+        "subcategoryId": "zHDA6ra0CC",
+        "externalId": "DqLhFc5yOO",
+        "title": "杰洛姆牧师",
+        "description": "**雇佣枪手支线任务:**\n- *杰罗姆回家*",
+        "subcategoryExternalId": "zHDA6ra0CC",
+        "imageId": 976619,
+        "imagePath": "/game_map_pin/976619/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -89.4287109375,
+        -62.3903694381427
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -2719.52026367188,
+          "y": -686.719482421875,
+          "z": 180.596862792969
+        },
+        "subcategoryId": "zHDA6ra0CC",
+        "externalId": "TcUfKiRH0H",
+        "title": "添伯",
+        "description": "**雇佣枪手支线任务:**\n- *狗吃狗的世界*",
+        "subcategoryExternalId": "zHDA6ra0CC",
+        "imageId": 976622,
+        "imagePath": "/game_map_pin/976622/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -38.759765625,
+        -59.6233252231302
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1760.0146484375,
+          "y": -532.484313964844,
+          "z": 187.801818847656
+        },
+        "subcategoryId": "zHDA6ra0CC",
+        "externalId": "R5HR9ztsEl",
+        "title": "娜娜",
+        "description": "**雇佣枪手支线任务:**\n- *乌鸦的脚,鹰的眼*",
+        "subcategoryExternalId": "zHDA6ra0CC",
+        "imageId": 976632,
+        "imagePath": "/game_map_pin/976632/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -7.294921875,
+        -80.1110195775913
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "F3CY3aqllO",
+        "externalId": "N1Rxv2tMmO",
+        "title": "音乐播放器 #3",
+        "description": "**音乐播放器位置:**\n- *在***菲尔莫尔的小屋***中找到,进入门口进入地下掩体。*",
+        "subcategoryExternalId": "F3CY3aqllO",
+        "imageId": 976454,
+        "imagePath": "/game_map_pin/976454/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -54.5361328125,
+        -78.8700484929157
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "F3CY3aqllO",
+        "externalId": "kqNqGddCWe",
+        "title": "音乐播放器 #2",
+        "description": "**音乐播放器位置:**\n- *在***大麦克谷地***中找到,进入门口进入地下掩体。*",
+        "subcategoryExternalId": "F3CY3aqllO",
+        "imageId": 976450,
+        "imagePath": "/game_map_pin/976450/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -76.2890625,
+        -70.1403642720717
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "F3CY3aqllO",
+        "externalId": "iWQKBQKZRu",
+        "title": "音乐播放器 #4",
+        "description": "**音乐播放器位置:**\n- *在***死气十字路口***附近的湖中找到,音乐播放器位于房子内,需要使用抓钩进入。*",
+        "subcategoryExternalId": "F3CY3aqllO",
+        "imageId": 976457,
+        "imagePath": "/game_map_pin/976457/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -64.775390625,
+        -46.4378568950242
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "F3CY3aqllO",
+        "externalId": "IPNSVhgr1y",
+        "title": "音乐播放器 #5",
+        "description": "**音乐播放器位置:**\n- *在***福比舍的记忆***的洞穴内找到,需要使用抓钩爬上洞内的ledge。*",
+        "subcategoryExternalId": "F3CY3aqllO",
+        "imageId": 976464,
+        "imagePath": "/game_map_pin/976464/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -9.228515625,
+        -48.6909603909255
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "F3CY3aqllO",
+        "externalId": "gkn1ldLxII",
+        "title": "音乐播放器 #6",
+        "description": "**音乐播放器位置:**\n- *在***谢尔盖的地方***找到,打破木块以进入火车车厢。*",
+        "subcategoryExternalId": "F3CY3aqllO",
+        "imageId": 976469,
+        "imagePath": "/game_map_pin/976469/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        38.935546875,
+        -49.8379824530848
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "F3CY3aqllO",
+        "externalId": "XARMKNgNYZ",
+        "title": "音乐播放器 #7",
+        "description": "**音乐播放器位置:**\n- *在***塞恩的庇护所***找到,你需要打破木块以获得音乐播放器。*",
+        "subcategoryExternalId": "F3CY3aqllO",
+        "imageId": 976470,
+        "imagePath": "/game_map_pin/976470/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        63.017578125,
+        -69.3648312367254
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "F3CY3aqllO",
+        "externalId": "OFen5NRIgG",
+        "title": "音乐播放器#8",
+        "description": "**音乐播放器位置:**\n- *在***腐肠隘口***找到,进入房子后你会发现音乐播放器被锁在门后。你可以在房间另一侧找到钥匙,或者如果你已经解锁了开锁技能也可以使用。*",
+        "subcategoryExternalId": "F3CY3aqllO",
+        "imageId": 976473,
+        "imagePath": "/game_map_pin/976473/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        80.859375,
+        -19.7667035517169
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "F3CY3aqllO",
+        "externalId": "r8NX6DoCF2",
+        "title": "音乐播放器 #9",
+        "description": "**音乐播放器位置:**\n- *在***被遗忘的营房***找到,进入后音乐播放器被锁在门后。钥匙在桌子下面,或者你可以使用开锁技能。*",
+        "subcategoryExternalId": "F3CY3aqllO",
+        "imageId": 976475,
+        "imagePath": "/game_map_pin/976475/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        32.23388671875,
+        9.47073567413091
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "F3CY3aqllO",
+        "externalId": "ZP2XlORJdc",
+        "title": "音乐播放器#10",
+        "description": "**音乐播放器位置:**\n- *在***墓水***找到,进入房子后音乐播放器位于锁着的门后。你可以在冰箱里找到钥匙或使用开锁技能。*",
+        "subcategoryExternalId": "F3CY3aqllO",
+        "imageId": 976477,
+        "imagePath": "/game_map_pin/976477/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -113.02734375,
+        -80.9630040605593
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Q7WfRUifML",
+        "externalId": "RAkI4sAziM",
+        "title": "亲爱的照片 #2",
+        "description": "***亲爱的照片#2指南:***\n\n- *第二张照片在***莱氏父女航空***的西南方向,靠近地图底部区域。要对齐这张照片,你必须从相机位置看向主房子。*",
+        "subcategoryExternalId": "Q7WfRUifML",
+        "imageId": 976485,
+        "imagePath": "/game_map_pin/976485/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -103.623046875,
+        -76.0267090692086
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Q7WfRUifML",
+        "externalId": "QhrpGvDzhK",
+        "title": "亲爱的照片 #3",
+        "description": "***亲爱的照片#3指南:***\n\n- *第三张照片在***修车厂前哨***的马路对面,在田野附近可以找到拍照位置。要对齐需要转身看向被毁坏的水塔。*",
+        "subcategoryExternalId": "Q7WfRUifML",
+        "imageId": 976489,
+        "imagePath": "/game_map_pin/976489/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -8.06396484375,
+        -70.4588592564069
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Q7WfRUifML",
+        "externalId": "24y1vNihPg",
+        "title": "亲爱的照片#4",
+        "description": "***亲爱的照片#4指南:***\n\n- *第四张照片在***炼油厂前哨***的北边,只需对准炼油厂前哨拍照。*",
+        "subcategoryExternalId": "Q7WfRUifML",
+        "imageId": 976492,
+        "imagePath": "/game_map_pin/976492/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -5.0537109375,
+        -42.7147321853946
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Q7WfRUifML",
+        "externalId": "ceag1el4YO",
+        "title": "亲爱的照片 #5",
+        "description": "***亲爱的照片#5指南:***\n\n- *第五张照片在***破碎之泪***的海岸边,要对齐这张照片确保你站在地毯上并将照片对准断桥。*",
+        "subcategoryExternalId": "Q7WfRUifML",
+        "imageId": 976499,
+        "imagePath": "/game_map_pin/976499/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -28.32275390625,
+        -28.7291304834302
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Q7WfRUifML",
+        "externalId": "R9wBO3czsX",
+        "title": "亲爱的摄影作品 #6",
+        "description": "***亲爱的照片#6指南:***\n\n- *第六张照片在***食品储藏室前哨***。位置就在马路对面。要对齐照片只需回望前哨并对准照片。*",
+        "subcategoryExternalId": "Q7WfRUifML",
+        "imageId": 976514,
+        "imagePath": "/game_map_pin/976514/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        104.1943359375,
+        -43.1971672825013
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Q7WfRUifML",
+        "externalId": "gZYTIQsWAE",
+        "title": "亲爱的照片 #7",
+        "description": "***亲爱的照片#7指南:***\n\n- *第七张照片在***博肖城堡***的东侧。要对齐照片你需要将照片对准该位置。*",
+        "subcategoryExternalId": "Q7WfRUifML",
+        "imageId": 976506,
+        "imagePath": "/game_map_pin/976506/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        22.763671875,
+        41.2117215105479
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Q7WfRUifML",
+        "externalId": "AqAHQWs2EW",
+        "title": "亲爱的照片 #8",
+        "description": "***亲爱的照片#8指南:***\n\n- *第八张照片在***旧营地***。它位于旧伊甸之门营地的南边。要对齐照片只需向北看向教堂。*",
+        "subcategoryExternalId": "Q7WfRUifML",
+        "imageId": 976523,
+        "imagePath": "/game_map_pin/976523/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        39.111328125,
+        82.6622668145771
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Q7WfRUifML",
+        "externalId": "u5Pgt260LG",
+        "title": "亲爱的照片 #9",
+        "description": "***亲爱的照片#9指南:***\n\n- *第九张照片在***约瑟夫的庇护所***。你必须完成进入幻境故事任务才能进入这个位置。*",
+        "subcategoryExternalId": "Q7WfRUifML",
+        "imageId": 976529,
+        "imagePath": "/game_map_pin/976529/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -59.161376953125,
+        -75.8854118478837
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "ayrmWUBd87",
+        "externalId": "mnmIWvCLS5",
+        "title": "格蕾丝·阿姆斯特朗",
+        "description": "**专家故事任务：**\n- *蜂群末日*\n\n***(完成蜂群末日任务来招募格蕾丝·阿姆斯特朗)***",
+        "subcategoryExternalId": "ayrmWUBd87",
+        "imageId": 976575,
+        "imagePath": "/game_map_pin/976575/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        101.4697265625,
+        -43.7869583731156
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "ayrmWUBd87",
+        "externalId": "cMxVLxIWol",
+        "title": "沙尔基·博肖",
+        "description": "**专家故事任务：**\n- *照看任务*\n\n***(完成照看任务来招募沙基·博肖)***",
+        "subcategoryExternalId": "ayrmWUBd87",
+        "imageId": 976578,
+        "imagePath": "/game_map_pin/976578/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        57.98583984375,
+        -11.5015569009325
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "ayrmWUBd87",
+        "externalId": "X3Sjvruh3Y",
+        "title": "Nick Rye",
+        "description": "***\n***尼克·赖***\n***\n\n**特别任务:**\n- *大逃亡*\n\n***(完成大逃亡任务招募尼克·赖)***",
+        "subcategoryExternalId": "ayrmWUBd87",
+        "imageId": 976579,
+        "imagePath": "/game_map_pin/976579/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -112.08251953125,
+        -72.3557893167748
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Nd2E9wb9O0",
+        "externalId": "gMKZhh57e9",
+        "title": "变得混乱",
+        "description": "**寻宝地点：**\n- *地点在***帕克的保险库***。爬上屋顶，从屋顶窗口破坏门锁以进入并关闭电源。*",
+        "subcategoryExternalId": "Nd2E9wb9O0",
+        "imageId": 976651,
+        "imagePath": "/game_map_pin/976651/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -44.97802734375,
+        -80.8063650503593
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Nd2E9wb9O0",
+        "externalId": "Naz5nhzL7k",
+        "title": "高雅艺术",
+        "description": "**寻宝地点：**\n- *在***齐隆工作室***的粉色谷仓中。使用抓钩从谷仓后部进入。*",
+        "subcategoryExternalId": "Nd2E9wb9O0",
+        "imageId": 976658,
+        "imagePath": "/game_map_pin/976658/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -44.022216796875,
+        -65.3759936529161
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Nd2E9wb9O0",
+        "externalId": "wHpsEgiZRZ",
+        "title": "射击练习",
+        "description": "**寻宝地点：**\n- *信件位于***娜丁的废品场***的箱子里。沿着滑索进入一个小洞穴，以到达地堡的另一侧。*",
+        "subcategoryExternalId": "Nd2E9wb9O0",
+        "imageId": 976665,
+        "imagePath": "/game_map_pin/976665/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -94.21875,
+        -48.8791671489602
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Nd2E9wb9O0",
+        "externalId": "LwbI9L2Cwu",
+        "title": "谜语中的鱼",
+        "description": "**寻宝地点：**\n- *位于***斯凯拉的谜题***。地堡密码的线索在房子里面。*",
+        "subcategoryExternalId": "Nd2E9wb9O0",
+        "imageId": 976678,
+        "imagePath": "/game_map_pin/976678/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -66.64306640625,
+        -21.9226632093259
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Nd2E9wb9O0",
+        "externalId": "iBgj9aykQk",
+        "title": "救援者潜行",
+        "description": "**寻宝地点：**\n- *在***苦难瀑布***附近。进入洞穴寻找储藏物。*",
+        "subcategoryExternalId": "Nd2E9wb9O0",
+        "imageId": 976683,
+        "imagePath": "/game_map_pin/976683/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        2.19799314605116,
+        -32.4241245490702
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Nd2E9wb9O0",
+        "externalId": "vw8xalVJdD",
+        "title": "最完美的计划",
+        "description": "**寻宝地点：**\n- *位于损坏的铁路桥下。*",
+        "subcategoryExternalId": "Nd2E9wb9O0",
+        "imageId": 976699,
+        "imagePath": "/game_map_pin/976699/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        30.8056640625,
+        -24.427145340082
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Nd2E9wb9O0",
+        "externalId": "CcS8wko8US",
+        "title": "燃烧之魂",
+        "description": "**寻宝地点：**\n- *位于***伊甸之火***。*",
+        "subcategoryExternalId": "Nd2E9wb9O0",
+        "imageId": 976703,
+        "imagePath": "/game_map_pin/976703/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        58.3154296875,
+        -17.3506383760488
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Nd2E9wb9O0",
+        "externalId": "icpdJlATQ5",
+        "title": "顺其自然",
+        "description": "**寻宝地点：**\n- *在***机械师的笼子***附近河对岸的小洞穴内。沿着河边走就能找到储藏物。*",
+        "subcategoryExternalId": "Nd2E9wb9O0",
+        "imageId": 976715,
+        "imagePath": "/game_map_pin/976715/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        77.76123046875,
+        -59.6566422534102
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "Nd2E9wb9O0",
+        "externalId": "lYiMn5KewC",
+        "title": "点亮它们",
+        "description": "**寻宝地点：**\n- *位于***牙齿教堂***。*",
+        "subcategoryExternalId": "Nd2E9wb9O0",
+        "imageId": 976724,
+        "imagePath": "/game_map_pin/976724/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -113.09326171875,
+        -80.5609426403762
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -3218.99462890625,
+          "y": -1780.65295410156,
+          "z": 110.063056945801
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "CaQavk6udN",
+        "title": "赖伊和女儿航空",
+        "description": "**位置目标：**\n- *零件 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975362,
+        "imagePath": "/game_map_pin/975362/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -122.45361328125,
+        -77.9064655335818
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -3296.099609375,
+          "y": -1557.32775878906,
+          "z": 111.244575500488
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "d8bGvzp1fI",
+        "title": "劳雷尔的小屋",
+        "description": "**地点目标：**\n- *胶带 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975361,
+        "imagePath": "/game_map_pin/975361/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -122.7392578125,
+        -73.9285527855223
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -3297.57177734375,
+          "y": -1241.16174316406,
+          "z": 115.671669006348
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "Rqgac7xNs2",
+        "title": "生锈的银行",
+        "description": "**位置目标：**\n- *弹簧 (2)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975359,
+        "imagePath": "/game_map_pin/975359/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -117.31201171875,
+        -72.1750787470153
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -3216.48266601563,
+          "y": -1123.22058105469,
+          "z": 129.135040283203
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "TNhZDtomOr",
+        "title": "高塔",
+        "description": "**地点目标：**\n- *胶带 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975358,
+        "imagePath": "/game_map_pin/975358/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -111.20361328125,
+        -71.8808768913962
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -3094.64208984375,
+          "y": -1090.78466796875,
+          "z": 121.896675109863
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "AmuFPtNoNR",
+        "title": "帕克的金库",
+        "description": "**位置目标：**\n- *元件 (6)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975357,
+        "imagePath": "/game_map_pin/975357/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -132.275390625,
+        -70.4735529328086
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -3491.748046875,
+          "y": -1062.30078125,
+          "z": 108.374221801758
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "IwRhDzqIxn",
+        "title": "迪克的洞穴",
+        "description": "**位置目标：**\n- *齿轮 (3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975351,
+        "imagePath": "/game_map_pin/975351/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -132.86865234375,
+        -65.4582609786481
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -3496.2509765625,
+          "y": -824.054626464844,
+          "z": 136.344741821289
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "vYqpjZqSUq",
+        "title": "达文波特平原",
+        "description": "**地点目标：**\n- *胶带 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975349,
+        "imagePath": "/game_map_pin/975349/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -109.16015625,
+        -67.9581478610157
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -3030.12280273438,
+          "y": -853.412231445313,
+          "z": 146.656661987305
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "CuxKCS6Gab",
+        "title": "斯戴尔斯帕克山",
+        "description": "**地点目标：**\n- *齿轮 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975353,
+        "imagePath": "/game_map_pin/975353/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -122.607421875,
+        -53.4880455360562
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -3321.703125,
+          "y": -376.457885742188,
+          "z": 213.362548828125
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "i7Gz3a9mTK",
+        "title": "多佛斯派克山",
+        "description": "**地点目标：**\n- *齿轮 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975346,
+        "imagePath": "/game_map_pin/975346/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -93.8232421875,
+        -80.2161227560442
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -2814.64208984375,
+          "y": -1764.46398925781,
+          "z": 107.48526763916
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "BvBmoeqTWk",
+        "title": "拉蒙的瞭望塔",
+        "description": "**地点目标:**\n- *零件(3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975363,
+        "imagePath": "/game_map_pin/975363/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -78.8201864327677,
+        -78.2980837621756
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -2521.9326171875,
+          "y": -1588.66418457031,
+          "z": 113.515754699707
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "SpcfhUuQNr",
+        "title": "信号中断",
+        "description": "**地点目标:**\n- *胶带(2)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975365,
+        "imagePath": "/game_map_pin/975365/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -72.4481161202677,
+        -80.1879206364534
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -2403.98217773438,
+          "y": -1753.40625,
+          "z": 115.722778320313
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "k5J288r1Fe",
+        "title": "死狗山",
+        "description": "**地点目标：**\n- *齿轮 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975367,
+        "imagePath": "/game_map_pin/975367/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -76.4208984375,
+        -81.8112852031087
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -2434.9267578125,
+          "y": -1949.59204101563,
+          "z": 113.472259521484
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "XSTMMVKUgY",
+        "title": "凯勒特的嚎叫",
+        "description": "**位置目标：**\n- *元件 (6)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975366,
+        "imagePath": "/game_map_pin/975366/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -59.326171875,
+        -80.503112101851
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -2139.0048828125,
+          "y": -1781.7470703125,
+          "z": 109.425704956055
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "vVCXW6PTA4",
+        "title": "老红的坟墓",
+        "description": "**地点目标:**\n- *弹簧(3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975378,
+        "imagePath": "/game_map_pin/975378/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -54.4921875,
+        -78.929273205974
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -2095.16137695313,
+          "y": -1620.67370605469,
+          "z": 105.20401763916
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "ayyxVtxE5O",
+        "title": "大迈克山谷",
+        "description": "**位置目标：**\n- *齿轮 (2)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975379,
+        "imagePath": "/game_map_pin/975379/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -45.9228515625,
+        -80.7252686227758
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1877.6259765625,
+          "y": -1863.9677734375,
+          "z": 109.387016296387
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "kUKiygWYk0",
+        "title": "阿特利耶·希隆",
+        "description": "**位置目标：**\n- *弹簧 (6)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975380,
+        "imagePath": "/game_map_pin/975380/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -32.958984375,
+        -79.456521615941
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1648.59094238281,
+          "y": -1684.51159667969,
+          "z": 107.514671325684
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "zWoH5L6aYm",
+        "title": "索耶湾",
+        "description": "**地点目标:**\n- *胶带 (3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975381,
+        "imagePath": "/game_map_pin/975381/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -23.37890625,
+        -81.4858019878354
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1523.99560546875,
+          "y": -1928.81335449219,
+          "z": 101.141487121582
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "lNKfs2BpiJ",
+        "title": "库普卡的小屋",
+        "description": "**地点目标：**\n- *泉水 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975382,
+        "imagePath": "/game_map_pin/975382/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -6.767578125,
+        -80.1336353902688
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1198.71215820313,
+          "y": -1769.00842285156,
+          "z": 108.008308410645
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "reQMqS6LOr",
+        "title": "菲尔莫的小屋",
+        "description": "**地点目标:**\n- *胶带 (3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975383,
+        "imagePath": "/game_map_pin/975383/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -13.798828125,
+        -77.9340551969026
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1303.42199707031,
+          "y": -1577.59582519531,
+          "z": 120.842384338379
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "yYafvYzTCS",
+        "title": "平铁废地",
+        "description": "**地点目标：**\n- *齿轮 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975386,
+        "imagePath": "/game_map_pin/975386/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -24.158935546875,
+        -77.2496301619093
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1490.01989746094,
+          "y": -1504.64123535156,
+          "z": 131.971923828125
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "xLsRpwQVPy",
+        "title": "伍德森的林地",
+        "description": "**地点目标：**\n- *齿轮 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975388,
+        "imagePath": "/game_map_pin/975388/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -58.4912109375,
+        -75.8880907461295
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -2110.85034179688,
+          "y": -1366.65600585938,
+          "z": 118.327140808105
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "eYWXAqazHs",
+        "title": "废料农场",
+        "description": "**地点目标：**\n- *齿轮 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975390,
+        "imagePath": "/game_map_pin/975390/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -62.578125,
+        -72.8160737187899
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -2233.96997070313,
+          "y": -1203.30578613281,
+          "z": 131.464340209961
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "ky2svnjG3h",
+        "title": "雷德勒山谷",
+        "description": "**地点目标:**\n- *胶带 (3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975392,
+        "imagePath": "/game_map_pin/975392/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -59.5458984375,
+        -68.3829963405962
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -2151.81030273438,
+          "y": -965.580444335938,
+          "z": 171.816101074219
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "Lvm2p0g5q3",
+        "title": "书虫岭",
+        "description": "**地点目标：**\n- *胶带 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975406,
+        "imagePath": "/game_map_pin/975406/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -87.0556640625,
+        -68.496040228395
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -2670.59252929688,
+          "y": -936.054931640625,
+          "z": 134.282211303711
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "P5kSrZsIIT",
+        "title": "死气沉沉的十字路口",
+        "description": "**位置目标：**\n- *零件 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975374,
+        "imagePath": "/game_map_pin/975374/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -88.7255859375,
+        -62.6741433466909
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -2697.53442382813,
+          "y": -654.630065917969,
+          "z": 183.446365356445
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "HkRrr2tNy0",
+        "title": "肉堡",
+        "description": "**地点目标：**\n- *泉水 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975373,
+        "imagePath": "/game_map_pin/975373/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -94.3505859375,
+        -48.0780789434986
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -2786.591796875,
+          "y": -227.968185424805,
+          "z": 254.811904907227
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "zBRItki1GF",
+        "title": "斯凯拉的谜题",
+        "description": "**位置目标：**\n- *元件 (6)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975370,
+        "imagePath": "/game_map_pin/975370/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -30.2783203125,
+        -73.0738435127722
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1599.81127929688,
+          "y": -1233.12963867188,
+          "z": 142.47541809082
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "TkmFVh7npS",
+        "title": "惩罚通道",
+        "description": "**位置目标：**\n- *零件 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975394,
+        "imagePath": "/game_map_pin/975394/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -2.9443359375,
+        -68.6085208463989
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1130.0283203125,
+          "y": -946.972595214844,
+          "z": 128.875396728516
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "rT2EoRISrL",
+        "title": "贫瘠十字路口",
+        "description": "**地点目标:**\n- *零件(3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975396,
+        "imagePath": "/game_map_pin/975396/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -13.9925774267966,
+        -68.009082330638
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1321.25341796875,
+          "y": -946.193542480469,
+          "z": 149.668899536133
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "krHYjxoISX",
+        "title": "锯骨小径",
+        "description": "**地点目标：**\n- *泉水 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975399,
+        "imagePath": "/game_map_pin/975399/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -30.1025390625,
+        -65.1276379565212
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1619.29467773438,
+          "y": -794.731384277344,
+          "z": 183.541748046875
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "IIf3XjFOCh",
+        "title": "罗伯特的休憩",
+        "description": "***\n***位置目标：***\n***\n\n**位置目标：**\n- *胶带 (3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975401,
+        "imagePath": "/game_map_pin/975401/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -44.6484375,
+        -65.5493666881153
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1902.74108886719,
+          "y": -797.956604003906,
+          "z": 186.600601196289
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "e4gQeBLWv1",
+        "title": "娜娜定的废品堆",
+        "description": "**位置目标：**\n- *元件 (6)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975404,
+        "imagePath": "/game_map_pin/975404/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -55.107421875,
+        -62.4107287530686
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -2069.5556640625,
+          "y": -688.908874511719,
+          "z": 197.054580688477
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "Aa1vZidrlV",
+        "title": "叛徒悬崖",
+        "description": "**地点目标：**\n- *胶带 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975408,
+        "imagePath": "/game_map_pin/975408/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -38.0899533115211,
+        -59.0327505097575
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1751.18859863281,
+          "y": -531.045532226563,
+          "z": 187.239868164063
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "gxzusdu9Ri",
+        "title": "娜娜的栖息地",
+        "description": "**地点目标:**\n- *胶带 (3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975412,
+        "imagePath": "/game_map_pin/975412/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -12.0743283115211,
+        -58.6233197996502
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1347.39245605469,
+          "y": -540.514831542969,
+          "z": 132.920379638672
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "n407zuH1vh",
+        "title": "秃鹰的藏宝",
+        "description": "**地点目标:**\n- *齿轮(6)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975414,
+        "imagePath": "/game_map_pin/975414/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -9.580078125,
+        -49.3823727870096
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1225.80322265625,
+          "y": -237.202117919922,
+          "z": 135.80876159668
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "ru16xf8dBD",
+        "title": "谢尔盖的地方",
+        "description": "**地点目标:**\n- *弹簧(3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975416,
+        "imagePath": "/game_map_pin/975416/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -26.71875,
+        -44.6217540962333
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1584.38354492188,
+          "y": -93.9743194580078,
+          "z": 187.725479125977
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "xVPIztPFws",
+        "title": "私酒贩子通道",
+        "description": "**位置目标：**\n- *零件 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975419,
+        "imagePath": "/game_map_pin/975419/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -46.1865234375,
+        -43.7393520791547
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1920.96520996094,
+          "y": -91.9127044677734,
+          "z": 237.418029785156
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "pYsq0ZojNe",
+        "title": "霍华德之丘",
+        "description": "**地点目标:**\n- *胶带 (3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975420,
+        "imagePath": "/game_map_pin/975420/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -68.9941406250001,
+        -55.453941329433
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -2285.37915039063,
+          "y": -476.498443603516,
+          "z": 158.699020385742
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "rg1CKqn84i",
+        "title": "黑肺矿",
+        "description": "**地点目标：**\n- *战利品: 6x 部件*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975314,
+        "imagePath": "/game_map_pin/975314/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -64.248046875,
+        -45.6447682177519
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -2241.34985351563,
+          "y": -145.414428710938,
+          "z": 210.674545288086
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "u4zgfc6VaL",
+        "title": "弗罗比舍的回忆",
+        "description": "**地点目标:**\n- *弹簧(3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975423,
+        "imagePath": "/game_map_pin/975423/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -6.064453125,
+        -39.0277188402116
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1173.99670410156,
+          "y": 22.4680442810059,
+          "z": 140.496795654297
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "uvgAIifOMD",
+        "title": "碎泪",
+        "description": "**位置目标：**\n- *齿轮 (3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975449,
+        "imagePath": "/game_map_pin/975449/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -19.16015625,
+        -33.1375511923461
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1454.13061523438,
+          "y": 149.733001708984,
+          "z": 172.098922729492
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "HrTHtRmx6c",
+        "title": "老牙农场",
+        "description": "**地点目标：**\n- *泉水 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975447,
+        "imagePath": "/game_map_pin/975447/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -69.41162109375,
+        -20.9203969139719
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -2356.25122070313,
+          "y": 418.625427246094,
+          "z": 245.244522094727
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "jUD1UqEeqd",
+        "title": "悲惨瀑布",
+        "description": "**位置目标：**\n- *零件 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975427,
+        "imagePath": "/game_map_pin/975427/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -49.921875,
+        -7.77630850377619
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1990.10888671875,
+          "y": 655.436096191406,
+          "z": 133.775161743164
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "n6Bi59wdAD",
+        "title": "艾尔斯诺农场",
+        "description": "**地点目标：**\n- *胶带 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975431,
+        "imagePath": "/game_map_pin/975431/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -19.51171875,
+        -2.92109701870845
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1446.02221679688,
+          "y": 708.990051269531,
+          "z": 124.583221435547
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "itJ2vwUBQT",
+        "title": "碎骨坑",
+        "description": "**位置目标：**\n- *元件 (6)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975433,
+        "imagePath": "/game_map_pin/975433/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -6.17431640625,
+        -15.1357643545958
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1195.72473144531,
+          "y": 553.080749511719,
+          "z": 126.307411193848
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "M4vFr0khMt",
+        "title": "花园景观沙漠",
+        "description": "**地点目标：**\n- *齿轮 (3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975445,
+        "imagePath": "/game_map_pin/975445/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        10.283203125,
+        -23.0392977477697
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -862.614562988281,
+          "y": 346.966613769531,
+          "z": 124.645294189453
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "HCmVfHzQXX",
+        "title": "旧项目",
+        "description": "**地点目标：**\n- *泉水 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975538,
+        "imagePath": "/game_map_pin/975538/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        32.0361328125,
+        -24.726874870507
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -463.808135986328,
+          "y": 373.287536621094,
+          "z": 156.192901611328
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "cdw4MIZxL1",
+        "title": "伊甸园的火堆",
+        "description": "**地点目标：**\n- *部件 (5)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975536,
+        "imagePath": "/game_map_pin/975536/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        25.3564453125,
+        -15.1145528719441
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -559.649597167969,
+          "y": 521.748168945313,
+          "z": 131.885543823242
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "4mhvJxsvLF",
+        "title": "麦克林的休息处",
+        "description": "**地点目标：**\n- *胶带 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975539,
+        "imagePath": "/game_map_pin/975539/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        32.34375,
+        -3.99578051296303
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -478.999359130859,
+          "y": 719.7958984375,
+          "z": 131.89811706543
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "D4p6eErmo5",
+        "title": "巴洛的悲叹",
+        "description": "**地点目标:**\n- *胶带 (3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975541,
+        "imagePath": "/game_map_pin/975541/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        6.6796875,
+        -0.96675099976663
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -917.867919921875,
+          "y": 787.379943847656,
+          "z": 121.862998962402
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "sAteAO5A3a",
+        "title": "亡者之塔",
+        "description": "**位置目标：**\n- *齿轮 (3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975566,
+        "imagePath": "/game_map_pin/975566/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        14.4580078125,
+        2.28455066023697
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -814.199035644531,
+          "y": 841.03857421875,
+          "z": 122.600708007813
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "t4hzuudtsT",
+        "title": "空站",
+        "description": "**地点目标:**\n- *零件(3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975569,
+        "imagePath": "/game_map_pin/975569/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        10.810546875,
+        7.36246686553575
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -845.2626953125,
+          "y": 921.373046875,
+          "z": 117.236221313477
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "3WJ44F6T5M",
+        "title": "格林码头",
+        "description": "**位置目标：**\n- *零件 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975573,
+        "imagePath": "/game_map_pin/975573/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        7.55859375,
+        16.1302620120348
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -905.574890136719,
+          "y": 1097.20874023438,
+          "z": 109.197311401367
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "p3rUoitUJa",
+        "title": "沉船小屋",
+        "description": "**地点目标:**\n- *零件(3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975578,
+        "imagePath": "/game_map_pin/975578/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        14.765625,
+        10.7037917116807
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -794.957702636719,
+          "y": 1027.8466796875,
+          "z": 126.855659484863
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "bBuxdRXcEI",
+        "title": "古十字",
+        "description": "**地点目标：**\n- *胶带 (6)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975574,
+        "imagePath": "/game_map_pin/975574/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        18.74267578125,
+        15.5807107391621
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -702.114196777344,
+          "y": 1098.42370605469,
+          "z": 114.659843444824
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "AfMWR6JBKK",
+        "title": "开端",
+        "description": "**地点目标：**\n- *泉水 (2)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975580,
+        "imagePath": "/game_map_pin/975580/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        31.5087890625,
+        26.7848473610512
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -460.449768066406,
+          "y": 1310.98596191406,
+          "z": 121.560348510742
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "I4VJCv0fUH",
+        "title": "行星盖伊·马维尔",
+        "description": "**位置目标：**\n- *零件 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975583,
+        "imagePath": "/game_map_pin/975583/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        32.8271484375,
+        34.343436068483
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -438.748565673828,
+          "y": 1477.5185546875,
+          "z": 116.450668334961
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "FffNe69ncy",
+        "title": "法官的堡垒",
+        "description": "**地点目标:**\n- *泉水 (3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975588,
+        "imagePath": "/game_map_pin/975588/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        26.1474609375,
+        43.3571382221105
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -558.153442382813,
+          "y": 1705.51879882813,
+          "z": 108.568382263184
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "C4dnlBnQnl",
+        "title": "旧复合体",
+        "description": "**地点目标:**\n- *齿轮(6)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975591,
+        "imagePath": "/game_map_pin/975591/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        39.990234375,
+        57.633639928857
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -350.225738525391,
+          "y": 2028.46179199219,
+          "z": 111.788154602051
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "9GDllhxbL6",
+        "title": "新伊甸",
+        "description": "**地点目标:**\n- *齿轮(6)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975601,
+        "imagePath": "/game_map_pin/975601/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        28.8720703125,
+        67.6426763079604
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -499.756927490234,
+          "y": 2506.42114257813,
+          "z": 114.090324401855
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "gcqsh43k3B",
+        "title": "南新伊甸门",
+        "description": "**地点目标:**\n- *泉水 (3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975603,
+        "imagePath": "/game_map_pin/975603/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        44.8681640625,
+        67.0845504850747
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -236.663558959961,
+          "y": 2485.197265625,
+          "z": 126.649360656738
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "dcMhMYBNgS",
+        "title": "艾萨克的小屋",
+        "description": "**位置目标：**\n- *齿轮 (3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975605,
+        "imagePath": "/game_map_pin/975605/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        45,
+        70.4662074222656
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -241.922409057617,
+          "y": 2675.06005859375,
+          "z": 118.594581604004
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "rY9BqV8fp6",
+        "title": "幽灵宝宝小屋",
+        "description": "**地点目标：**\n- *胶带 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975607,
+        "imagePath": "/game_map_pin/975607/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        27.26806640625,
+        78.3360915313242
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -573.582153320313,
+          "y": 3217.28369140625,
+          "z": 121.871780395508
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "yAsXilEwPu",
+        "title": "北新伊甸门",
+        "description": "**地点目标:**\n- *泉水 (3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975610,
+        "imagePath": "/game_map_pin/975610/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        38.49609375,
+        82.9698652851739
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -385.652374267578,
+          "y": 3785.4228515625,
+          "z": 136.492553710938
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "ugIpXLM4vg",
+        "title": "约瑟夫的避难所",
+        "description": "**位置目标：**\n- *元件 (6)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975614,
+        "imagePath": "/game_map_pin/975614/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        32.255859375,
+        9.53574899813363
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -447.496948242188,
+          "y": 959.550170898438,
+          "z": 114.091148376465
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "Ah9ZLs0qGn",
+        "title": "坟墓之水",
+        "description": "**地点目标：**\n- *齿轮 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975543,
+        "imagePath": "/game_map_pin/975543/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        45.68115234375,
+        6.29345876039399
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -217.175308227539,
+          "y": 955.672790527344,
+          "z": 133.061553955078
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "zgJ2qpHBjV",
+        "title": "金葵角落",
+        "description": "**地点目标：**\n- *泉水 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975559,
+        "imagePath": "/game_map_pin/975559/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        70.0048828125,
+        19.642587534013
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 213.449798583984,
+          "y": 1176.83288574219,
+          "z": 108.450531005859
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "UP1FBRCUJE",
+        "title": "虫湾",
+        "description": "**地点目标:**\n- *泉水 (3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975561,
+        "imagePath": "/game_map_pin/975561/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        56.4697265625,
+        -11.6522364041154
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 20.4417819976807,
+          "y": 591.996765136719,
+          "z": 221.597381591797
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "EkuMOWWTjo",
+        "title": "润滑油猴子之笼",
+        "description": "**地点目标:**\n- *泉水 (3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975534,
+        "imagePath": "/game_map_pin/975534/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        79.6728515625,
+        -19.766703551717
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 408.5625,
+          "y": 463.822998046875,
+          "z": 188.521759033203
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "t4d4n6QAhi",
+        "title": "被遗忘的兵营",
+        "description": "**地点目标:**\n- *零件(3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975530,
+        "imagePath": "/game_map_pin/975530/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        73.30078125,
+        -34.7054934102255
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 297.607696533203,
+          "y": 167.997421264648,
+          "z": 281.498626708984
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "W9zwOMuWaJ",
+        "title": "死亡路线",
+        "description": "**地点目标：**\n- *胶带 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975526,
+        "imagePath": "/game_map_pin/975526/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        52.4267578125,
+        -35.9957853864203
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -81.8262329101563,
+          "y": 43.0023231506348,
+          "z": 384.646423339844
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "euWYKznYJJ",
+        "title": "伊甸之炎",
+        "description": "**地点目标:**\n- *齿轮(6)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975528,
+        "imagePath": "/game_map_pin/975528/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        12.535400390625,
+        -72.3357982745325
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -779.454406738281,
+          "y": -1077.96435546875,
+          "z": 117.278991699219
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "KDMtzR0kKH",
+        "title": "肉磨机",
+        "description": "**地点目标：**\n- *泉水 (6)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975464,
+        "imagePath": "/game_map_pin/975464/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        15.29296875,
+        -68.8793576107695
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -754.815551757813,
+          "y": -965.015808105469,
+          "z": 112.235260009766
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "4tPwx0zByb",
+        "title": "罗娜的泪水",
+        "description": "**地点目标:**\n- *零件(3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975465,
+        "imagePath": "/game_map_pin/975465/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        17.6220703125,
+        -59.0857385698195
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -710.759521484375,
+          "y": -561.231201171875,
+          "z": 116.217781066895
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "zQnLSIVyNm",
+        "title": "奥布里的疤痕",
+        "description": "**地点目标：**\n- *齿轮 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975498,
+        "imagePath": "/game_map_pin/975498/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        2.57227587188756,
+        -52.068887108089
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -966.863708496094,
+          "y": -303.889099121094,
+          "z": 123.763290405273
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "Pp0hCucqB7",
+        "title": "恶魔岸",
+        "description": "**位置目标：**\n- *零件 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975502,
+        "imagePath": "/game_map_pin/975502/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        18.4130859375,
+        -47.3090342477478
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -763.533630371094,
+          "y": -184.795272827148,
+          "z": 167.88395690918
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "biLZcU1Xkn",
+        "title": "花园点",
+        "description": "**地点目标:**\n- *胶带 (3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975505,
+        "imagePath": "/game_map_pin/975505/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        38.9363094298197,
+        -48.5636290323987
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -372.959381103516,
+          "y": -195.31689453125,
+          "z": 234.277053833008
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "M7nqEdqxzZ",
+        "title": "塞恩的圣所",
+        "description": "**地点目标:**\n- *胶带 (3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975511,
+        "imagePath": "/game_map_pin/975511/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        59.552548242761,
+        -48.2496392807786
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 34.320629119873,
+          "y": -188.778915405273,
+          "z": 307.53076171875
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "g7dNzCVm2c",
+        "title": "褪色小径",
+        "description": "**地点目标：**\n- *泉水 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975518,
+        "imagePath": "/game_map_pin/975518/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        82.448056055261,
+        -46.7655431789201
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 438.099456787109,
+          "y": -148.945327758789,
+          "z": 219.141510009766
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "1esZlzh9pF",
+        "title": "死人磨坊",
+        "description": "**地点目标：**\n- *胶带 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975522,
+        "imagePath": "/game_map_pin/975522/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        101.8212890625,
+        -43.897892391258
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 733.518188476563,
+          "y": -94.1216888427734,
+          "z": 174.609069824219
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "VZLysZhXRK",
+        "title": "夏多波肖庄园",
+        "description": "**地点目标：**\n- *齿轮 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975524,
+        "imagePath": "/game_map_pin/975524/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        42.9345703125,
+        -63.8212876526138
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -262.789794921875,
+          "y": -719.153259277344,
+          "z": 164.509231567383
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "jAWvJhr49J",
+        "title": "软木小屋",
+        "description": "**位置目标：**\n- *齿轮 (3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975467,
+        "imagePath": "/game_map_pin/975467/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        55.634765625,
+        -55.825973254619
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -42.8328971862793,
+          "y": -409.825256347656,
+          "z": 176.932266235352
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "d5IzheWTlw",
+        "title": "失落小屋",
+        "description": "**地点目标:**\n- *泉水 (3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975494,
+        "imagePath": "/game_map_pin/975494/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        62.5341796875,
+        -57.7276192162149
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 90.1649932861328,
+          "y": -449.052337646484,
+          "z": 242.547805786133
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "48U9y5w7qW",
+        "title": "克纳德的驻地",
+        "description": "**地点目标:**\n- *零件(3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975493,
+        "imagePath": "/game_map_pin/975493/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        76.8603515625,
+        -59.6010954903213
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 349.992370605469,
+          "y": -527.970886230469,
+          "z": 269.839202880859
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "oXht4DG8PZ",
+        "title": "牙齿教堂",
+        "description": "**地点目标：**\n- *泉水 (6)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975491,
+        "imagePath": "/game_map_pin/975491/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        63.3251953125,
+        -69.3183200694907
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 128.306381225586,
+          "y": -968.728088378906,
+          "z": 137.579071044922
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "76N8K7JemP",
+        "title": "烈酒通道",
+        "description": "**地点目标：**\n- *齿轮 (4)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975470,
+        "imagePath": "/game_map_pin/975470/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        90.3515625,
+        -75.1295041089449
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 606.553649902344,
+          "y": -1243.14514160156,
+          "z": 129.880477905273
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "L3ObEtf3cK",
+        "title": "子弹农场",
+        "description": "**地点目标：**\n- *齿轮 (6)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975482,
+        "imagePath": "/game_map_pin/975482/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        91.3623046875,
+        -68.5603836866416
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 534.672546386719,
+          "y": -959.790954589844,
+          "z": 111.880592346191
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "ZztNP0bf08",
+        "title": "废物隧道",
+        "description": "**地点目标:**\n- *胶带 (3)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975485,
+        "imagePath": "/game_map_pin/975485/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        78.995542432876,
+        -65.3887312223439
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 404.248901367188,
+          "y": -808.827331542969,
+          "z": 183.601669311523
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "qI1D8o0qVv",
+        "title": "火焰者的洞穴",
+        "description": "**地点目标：**\n- *部件 (2)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975489,
+        "imagePath": "/game_map_pin/975489/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        117.333984375,
+        -66.3551362028856
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 984.155578613281,
+          "y": -842.389282226563,
+          "z": 122.667785644531
+        },
+        "subcategoryId": "WqDFl1FhIM",
+        "externalId": "csLxC9cZGX",
+        "title": "傻瓜隧道",
+        "description": "**地点目标：**\n- *齿轮 (5)*",
+        "subcategoryExternalId": "WqDFl1FhIM",
+        "imageId": 975487,
+        "imagePath": "/game_map_pin/975487/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        2.548828125,
+        37.4399740522706
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "XtPsCXQjyR",
+        "externalId": "y2b3yWeq2R",
+        "title": "岛屿",
+        "description": "**位置目标：**\n- *解放前哨站*\n\n**完成位置后的奖励：**\n- *基础级别奖励*",
+        "subcategoryExternalId": "XtPsCXQjyR",
+        "imageId": 976739,
+        "imagePath": "/game_map_pin/976739/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -90.615234375,
+        -75.2530566048355
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "XtPsCXQjyR",
+        "externalId": "bWlZDHbgOH",
+        "title": "碎车铺",
+        "description": "**位置目标：**\n- *解放前哨站*\n\n**完成位置后的奖励：**\n- *基础级别奖励*",
+        "subcategoryExternalId": "XtPsCXQjyR",
+        "imageId": 976742,
+        "imagePath": "/game_map_pin/976742/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -113.627189450585,
+        -62.1798690271804
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "XtPsCXQjyR",
+        "externalId": "1nlS3F8F0a",
+        "title": "断裂熔炉",
+        "description": "**位置目标：**\n- *解放前哨站*\n\n**完成位置后的奖励：**\n- *基础级别奖励*",
+        "subcategoryExternalId": "XtPsCXQjyR",
+        "imageId": 976743,
+        "imagePath": "/game_map_pin/976743/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -11.5576171875,
+        -71.4691241898968
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "XtPsCXQjyR",
+        "externalId": "INFnaOxk9N",
+        "title": "精炼厂",
+        "description": "**位置目标：**\n- *解放前哨站*\n\n**完成位置后的奖励：**\n- *基础级别奖励*",
+        "subcategoryExternalId": "XtPsCXQjyR",
+        "imageId": 976749,
+        "imagePath": "/game_map_pin/976749/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -47.6692041117718,
+        -51.1975152718375
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "XtPsCXQjyR",
+        "externalId": "87KcdXR0yd",
+        "title": "信号点",
+        "description": "**位置目标：**\n- *解放前哨站*\n\n**完成位置后的奖励：**\n- *基础级别奖励*",
+        "subcategoryExternalId": "XtPsCXQjyR",
+        "imageId": 976746,
+        "imagePath": "/game_map_pin/976746/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -34.8046875,
+        -27.2155562090297
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "XtPsCXQjyR",
+        "externalId": "SorkdZWzCq",
+        "title": "食品储藏室",
+        "description": "**位置目标：**\n- *解放前哨站*\n\n**完成位置后的奖励：**\n- *基础级别奖励*",
+        "subcategoryExternalId": "XtPsCXQjyR",
+        "imageId": 976744,
+        "imagePath": "/game_map_pin/976744/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        50.44921875,
+        -59.5788510466319
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "XtPsCXQjyR",
+        "externalId": "eZGzLYAMAg",
+        "title": "圣木材",
+        "description": "**位置目标：**\n- *解放前哨站*\n\n**完成位置后的奖励：**\n- *基础级别奖励*",
+        "subcategoryExternalId": "XtPsCXQjyR",
+        "imageId": 976734,
+        "imagePath": "/game_map_pin/976734/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        99.755859375,
+        -60.8449105736491
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "XtPsCXQjyR",
+        "externalId": "TaV6KelxBp",
+        "title": "拖车镇",
+        "description": "**位置目标：**\n- *解放前哨站*\n\n**完成位置后的奖励：**\n- *基础级别奖励*",
+        "subcategoryExternalId": "XtPsCXQjyR",
+        "imageId": 976732,
+        "imagePath": "/game_map_pin/976732/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        92.197265625,
+        -28.7676591056912
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "XtPsCXQjyR",
+        "externalId": "lUX5I6GOiq",
+        "title": "空园",
+        "description": "**位置目标：**\n- *解放前哨站*\n\n**完成位置后的奖励：**\n- *基础级别奖励*",
+        "subcategoryExternalId": "XtPsCXQjyR",
+        "imageId": 976736,
+        "imagePath": "/game_map_pin/976736/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        69.2578125,
+        -2.54798787147138
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "XtPsCXQjyR",
+        "externalId": "RkrUnKqbuC",
+        "title": "饮水洞",
+        "description": "**位置目标：**\n- *解放前哨站*\n\n**完成位置后的奖励：**\n- *基础级别奖励*",
+        "subcategoryExternalId": "XtPsCXQjyR",
+        "imageId": 976738,
+        "imagePath": "/game_map_pin/976738/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        35.15625,
+        76.0373165761654
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "j3IIPvBLAp",
+        "externalId": "ikgfZQfJbB",
+        "title": "恶魔鱼",
+        "description": "***(钓鱼区)***",
+        "subcategoryExternalId": "j3IIPvBLAp",
+        "imageId": 976829,
+        "imagePath": "/game_map_pin/976829/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        23.203125,
+        32.3242755888766
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "j3IIPvBLAp",
+        "externalId": "IUQBK2QdQe",
+        "title": "牛鳟",
+        "description": "***(钓鱼区)***",
+        "subcategoryExternalId": "j3IIPvBLAp",
+        "imageId": 976827,
+        "imagePath": "/game_map_pin/976827/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        57.744140625,
+        32.6948659778751
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "j3IIPvBLAp",
+        "externalId": "ZJebpnMbNa",
+        "title": "划水鲟",
+        "description": "***(钓鱼区)***",
+        "subcategoryExternalId": "j3IIPvBLAp",
+        "imageId": 976824,
+        "imagePath": "/game_map_pin/976824/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -128.935546875,
+        -72.7119031080366
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "j3IIPvBLAp",
+        "externalId": "vgtEs2WTlR",
+        "title": "小口黑鲈鱼",
+        "description": "***(钓鱼区)***",
+        "subcategoryExternalId": "j3IIPvBLAp",
+        "imageId": 976778,
+        "imagePath": "/game_map_pin/976778/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -98.02001953125,
+        -80.7323485464832
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "j3IIPvBLAp",
+        "externalId": "kEiZJt3fER",
+        "title": "虹鳟鱼",
+        "description": "***(钓鱼区)***",
+        "subcategoryExternalId": "j3IIPvBLAp",
+        "imageId": 976782,
+        "imagePath": "/game_map_pin/976782/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -68.73046875,
+        -83.8299454239804
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "j3IIPvBLAp",
+        "externalId": "CaQ2FGFg6L",
+        "title": "奇努克三文鱼",
+        "description": "***(钓鱼区)***",
+        "subcategoryExternalId": "j3IIPvBLAp",
+        "imageId": 976786,
+        "imagePath": "/game_map_pin/976786/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -79.7607421875,
+        -76.9007089258869
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "j3IIPvBLAp",
+        "externalId": "GrmVC1tcqd",
+        "title": "牛鳟",
+        "description": "***(钓鱼区)***",
+        "subcategoryExternalId": "j3IIPvBLAp",
+        "imageId": 976784,
+        "imagePath": "/game_map_pin/976784/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -48.7180146234958,
+        -79.3571327460111
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "j3IIPvBLAp",
+        "externalId": "Q2hezZr7cr",
+        "title": "牛鳟",
+        "description": "***(钓鱼区)***",
+        "subcategoryExternalId": "j3IIPvBLAp",
+        "imageId": 976789,
+        "imagePath": "/game_map_pin/976789/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -59.0625,
+        -41.2778064673818
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "j3IIPvBLAp",
+        "externalId": "QQHIJXd6LY",
+        "title": "虹鳟鱼",
+        "description": "***(钓鱼区)***",
+        "subcategoryExternalId": "j3IIPvBLAp",
+        "imageId": 976791,
+        "imagePath": "/game_map_pin/976791/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -59.8974609375,
+        -18.1876065524946
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "j3IIPvBLAp",
+        "externalId": "qEX2FnwQsj",
+        "title": "小口黑鲈鱼",
+        "description": "***(钓鱼区)***",
+        "subcategoryExternalId": "j3IIPvBLAp",
+        "imageId": 976793,
+        "imagePath": "/game_map_pin/976793/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -35.5078125,
+        -3.42569152441806
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "j3IIPvBLAp",
+        "externalId": "LMfcT8FoI8",
+        "title": "奇努克三文鱼",
+        "description": "***(钓鱼区)***",
+        "subcategoryExternalId": "j3IIPvBLAp",
+        "imageId": 976795,
+        "imagePath": "/game_map_pin/976795/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -0.703125,
+        -53.5403073915002
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "j3IIPvBLAp",
+        "externalId": "QkG9uwCleZ",
+        "title": "恶魔鱼",
+        "description": "***(钓鱼区)***",
+        "subcategoryExternalId": "j3IIPvBLAp",
+        "imageId": 976805,
+        "imagePath": "/game_map_pin/976805/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        11.513671875,
+        -59.5343180010956
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "j3IIPvBLAp",
+        "externalId": "jazEoMn8th",
+        "title": "小口黑鲈鱼",
+        "description": "***(钓鱼区)***",
+        "subcategoryExternalId": "j3IIPvBLAp",
+        "imageId": 976806,
+        "imagePath": "/game_map_pin/976806/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        5.009765625,
+        -71.3570665496271
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "j3IIPvBLAp",
+        "externalId": "WFCJp2eNOg",
+        "title": "奇努克三文鱼",
+        "description": "***(钓鱼区)***",
+        "subcategoryExternalId": "j3IIPvBLAp",
+        "imageId": 976809,
+        "imagePath": "/game_map_pin/976809/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        38.3203125,
+        -60.7161977935771
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "j3IIPvBLAp",
+        "externalId": "tdyqid6l0N",
+        "title": "恶魔鱼",
+        "description": "***(钓鱼区)***",
+        "subcategoryExternalId": "j3IIPvBLAp",
+        "imageId": 976812,
+        "imagePath": "/game_map_pin/976812/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        67.0166015625,
+        -72.046839893794
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "j3IIPvBLAp",
+        "externalId": "aWXENOlPKx",
+        "title": "大口黑鲈",
+        "description": "***(钓鱼区)***",
+        "subcategoryExternalId": "j3IIPvBLAp",
+        "imageId": 976814,
+        "imagePath": "/game_map_pin/976814/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        103.4912109375,
+        -69.037141712752
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "j3IIPvBLAp",
+        "externalId": "MLed3jlQ84",
+        "title": "牛鳟",
+        "description": "***(钓鱼区)***",
+        "subcategoryExternalId": "j3IIPvBLAp",
+        "imageId": 976817,
+        "imagePath": "/game_map_pin/976817/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        91.1865234375,
+        -48.2246726495652
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "j3IIPvBLAp",
+        "externalId": "NslIZ2V15a",
+        "title": "恶魔鱼",
+        "description": "***(钓鱼区)***",
+        "subcategoryExternalId": "j3IIPvBLAp",
+        "imageId": 976819,
+        "imagePath": "/game_map_pin/976819/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        102.7001953125,
+        -19.3111433550646
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "j3IIPvBLAp",
+        "externalId": "n7TjgXtbfv",
+        "title": "小口黑鲈鱼",
+        "description": "***(钓鱼区)***",
+        "subcategoryExternalId": "j3IIPvBLAp",
+        "imageId": 976822,
+        "imagePath": "/game_map_pin/976822/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        41.7919921875,
+        62.124436245495
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "mBNKakMGXm",
+        "externalId": "IvYK9MtSEe",
+        "title": "巨兽熊",
+        "description": "***\n***怪物动物***\n***",
+        "subcategoryExternalId": "mBNKakMGXm",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        42.5390625,
+        -25.6415263730658
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "mBNKakMGXm",
+        "externalId": "kiI7kjlsd2",
+        "title": "巨兽美洲狮",
+        "description": "***\n***怪物动物***\n***",
+        "subcategoryExternalId": "mBNKakMGXm",
+        "imageId": 976833,
+        "imagePath": "/game_map_pin/976833/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        55.4150390625,
+        -74.0074402898852
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "mBNKakMGXm",
+        "externalId": "UrbfguKDwr",
+        "title": "巨兽野猪",
+        "description": "***\n***怪物动物***\n***",
+        "subcategoryExternalId": "mBNKakMGXm",
+        "imageId": 976836,
+        "imagePath": "/game_map_pin/976836/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -62.490234375,
+        -78.5430435358955
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "mBNKakMGXm",
+        "externalId": "3kcQWQM7eV",
+        "title": "巨兽野牛",
+        "description": "***\n***怪物动物***\n***",
+        "subcategoryExternalId": "mBNKakMGXm",
+        "imageId": 976842,
+        "imagePath": "/game_map_pin/976842/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -71.54296875,
+        -39.7747694852955
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "mBNKakMGXm",
+        "externalId": "tYRoHYrwgH",
+        "title": "巨兽美洲狮",
+        "description": "***\n***怪物动物***\n***",
+        "subcategoryExternalId": "mBNKakMGXm",
+        "imageId": 976851,
+        "imagePath": "/game_map_pin/976851/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        24.58740234375,
+        43.3091910998569
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "AaRv8j39QR",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***旧建筑群***。位于建筑群西侧。*\n\n**保险箱奖励：**\n- *钛金 (20)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977818,
+        "imagePath": "/game_map_pin/977818/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        70.59814453125,
+        19.8493939584227
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "BZOWukKJm0",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***虫湾***。位于房屋内。打破窗户的木板即可进入。*\n\n**保险箱奖励：**\n- *钛金 (18)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977812,
+        "imagePath": "/game_map_pin/977812/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        32.49755859375,
+        8.90678000752024
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "aMuSJEvXvt",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***墓水***。位于房屋内上锁的浴室旁，靠近音乐播放器。*\n\n**保险箱奖励：**\n- *钛金 (15)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977801,
+        "imagePath": "/game_map_pin/977801/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        45.0439453125,
+        5.74717407665138
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "uxXnLvNEKE",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***蜀葵角***。位于房屋内。*\n\n**保险箱奖励：**\n- *钛金 (17)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977806,
+        "imagePath": "/game_map_pin/977806/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        91.065673828125,
+        -75.4944057789528
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "XwklFKMB6w",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***子弹农场***。位于建筑物屋顶。*\n\n**保险箱奖励：**\n- *钛金 (15)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977768,
+        "imagePath": "/game_map_pin/977768/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        99.8876953125,
+        -61.6481624585239
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "HFgGokFXmH",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***拖车镇前哨***。如果你解放了前哨站，位于直升机停机坪的二楼。*\n\n**保险箱奖励：**\n- *钛金 (15)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977776,
+        "imagePath": "/game_map_pin/977776/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        46.23046875,
+        -59.8061600402065
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "cp93VL6aAG",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***神圣木材前哨***。位于小屋内*\n\n**保险箱奖励：**\n- *钛金 (19)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977783,
+        "imagePath": "/game_map_pin/977783/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        47.999267578125,
+        -59.4785688319264
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "fONIi97Fio",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***神圣木材前哨***。位于二楼床铺之间。*\n\n**保险箱奖励：**\n- *钛金 (17)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977781,
+        "imagePath": "/game_map_pin/977781/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        56.07421875,
+        -55.825973254619
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "El2ebCjwSn",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***失落小屋***。位于小屋后面的地堡内。*\n\n**保险箱奖励：**\n- *钛金 (15)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977785,
+        "imagePath": "/game_map_pin/977785/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        11.282958984375,
+        -72.3857348141907
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "SivxhXVPrr",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***绞肉机***。位于一个类似办公室的小房间内。*\n\n**保险箱奖励：**\n- *钛金 (15)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977761,
+        "imagePath": "/game_map_pin/977761/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -8.6572265625,
+        -71.0455288193359
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "4nTl6wvczp",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***炼油厂前哨***。位于西侧建筑物下方。*\n\n**保险箱奖励：**\n- *钛金 (18)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977756,
+        "imagePath": "/game_map_pin/977756/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        3.570556640625,
+        -50.3244227393094
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "upQupSEmmT",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***恶魔银行***。位于北部，是一座被毁的房子。*\n\n**保险箱奖励：**\n- *钛金 (16)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977788,
+        "imagePath": "/game_map_pin/977788/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        9.86572265625,
+        -23.1403599878861
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "cL4aYKccvn",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***旧项目***。位于房屋内。打破房屋后窗的木板即可进入。*\n\n**保险箱奖励：**\n- *钛金 (15)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977795,
+        "imagePath": "/game_map_pin/977795/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -5.4931640625,
+        -15.0721235458117
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "EtZehuFvVy",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***花园景观沙漠***。位于小屋内。打破木板即可进入。*\n\n**保险箱奖励：**\n- *钛金 (15)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977797,
+        "imagePath": "/game_map_pin/977797/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -34.892578125,
+        -29.7071393481341
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "ovcIAcx2CU",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***食品储藏所前哨***。位于建筑物内。钥匙位于仓库后方。*\n\n**保险箱奖励：**\n- *钛金 (15)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977755,
+        "imagePath": "/game_map_pin/977755/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -114.697265625,
+        -80.4449305218134
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "6I8P7DaZhS",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***莱氏父女航空***。位于血迹斑斑的床垫旁边。*\n\n**保险箱奖励：**\n- *钛金 (19)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977681,
+        "imagePath": "/game_map_pin/977681/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -112.1923828125,
+        -80.5537329501453
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "P78aOYKjR3",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***莱氏父女航空***。位于房屋二楼。*\n\n**保险箱奖励：**\n- *钛金 (16)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977682,
+        "imagePath": "/game_map_pin/977682/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -123.046875,
+        -77.9340551969026
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "BWHeUfWlBp",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***劳雷尔的棚屋***。*\n\n**保险箱奖励：**\n- *钛金 (17)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 976927,
+        "imagePath": "/game_map_pin/976927/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -93.7573242187501,
+        -75.4861480936826
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "SWroHZzkwv",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***切碎站前哨***。位于酒吧内。*\n\n**保险箱奖励：**\n- *钛金 (18)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977695,
+        "imagePath": "/game_map_pin/977695/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -95.6121422535375,
+        -76.1799635594051
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "XS69vQ6nyM",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***切碎站前哨***。位于前哨站对面的教堂内。*\n\n**保险箱奖励：**\n- *钛金 (19)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977689,
+        "imagePath": "/game_map_pin/977689/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -96.9744469410375,
+        -75.2923873034317
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "Vl6HccD7tc",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***切碎站前哨***。位于前哨站外的废墟房屋内。*\n\n**保险箱奖励：**\n- *钛金 (17)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977686,
+        "imagePath": "/game_map_pin/977686/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -111.55517578125,
+        -71.8254130935383
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "Hp2PAnrfvo",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***帕克的金库***。*\n\n**保险箱位置：**\n- *钛金 (16)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 976917,
+        "imagePath": "/game_map_pin/976917/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -112.65380859375,
+        -71.9653876991312
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "RxBkhflpBQ",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***帕克的金库***。第二个保险箱位于地堡内。*\n\n**保险箱位置：**\n- *钛金 (17)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 976921,
+        "imagePath": "/game_map_pin/976921/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -132.978515625,
+        -70.5102406851433
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "GiJjR8n3am",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***迪克的洞***。*\n\n**保险箱奖励：**\n- *钛金 (16)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 976866,
+        "imagePath": "/game_map_pin/976866/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -132.1875,
+        -65.3668368922632
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "QEuyjB9Ihg",
+        "title": "",
+        "description": "**保险柜位置：**\n- *位于***达文波特平原***。*\n\n**保险柜奖励：**\n- *钛金 (15)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 976874,
+        "imagePath": "/game_map_pin/976874/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -86.2646484375,
+        -68.4153522093893
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "bGD3Zg2cT6",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***死气加油站***。位于加油站内。*\n\n**保险箱奖励：**\n- *钛金 (16)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977696,
+        "imagePath": "/game_map_pin/977696/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -113.8623046875,
+        -60.7591595022699
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "dQzD2qPWSt",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***破碎熔炉前哨***。*\n\n**保险箱奖励：**\n- *钛金 (18)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 976884,
+        "imagePath": "/game_map_pin/976884/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -121.728515625,
+        -53.4880455360562
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "ZwE0djvgs1",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***多弗斯派克山***。*\n\n**保险箱奖励：**\n- *钛金 (16)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 976881,
+        "imagePath": "/game_map_pin/976881/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -94.9658203125,
+        -48.8936153614802
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "P7wwSxvkSC",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***斯凯拉之谜***。位于房屋入口。*\n\n**保险箱奖励：**\n- *钛金 (20)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977702,
+        "imagePath": "/game_map_pin/977702/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -89.7264053348316,
+        -62.4232281721547
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "DsDUyVFFZN",
+        "title": "",
+        "description": "**保险柜位置：**\n- *位于***肉堡***。位于你找到Timber的小办公室里面。*\n\n**保险柜奖励：**\n- *钛金 (18)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977700,
+        "imagePath": "/game_map_pin/977700/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -47.4169921875,
+        -51.6452940493054
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "2vEHBUDzNE",
+        "title": "",
+        "description": "**保险箱存放位置：**\n- *发现于 ***信号点前哨***。位于建筑物下方。打破木板以进入。*\n\n**保险箱奖励：**\n- *钛金（16）*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977751,
+        "imagePath": "/game_map_pin/977751/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -66.939697265625,
+        -55.2603381029246
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "b1sRdzvLdi",
+        "title": "",
+        "description": "**保险箱存放位置：**\n- *发现于 ***黑肺矿***。位于煤矿入口。打破木头以进入。*\n\n**保险箱奖励：**\n- *钛金（20）*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977749,
+        "imagePath": "/game_map_pin/977749/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -54.66796875,
+        -61.9854279373869
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "gyjZEs87ra",
+        "title": "",
+        "description": "**安全存放位置：**\n- *位于***叛徒之崖***。位于地堡内部。入口在一个小棚屋里。*\n\n**安全存放奖励：**\n- *钛金属 (18)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977742,
+        "imagePath": "/game_map_pin/977742/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -42.626953125,
+        -67.3059757441447
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "vochlt2r2N",
+        "title": "",
+        "description": "**保险柜位置：**\n- *位于***纳丁的废货场***。沿着废货场后面的小路走，你会在一个小棚子前找到保险柜。*\n\n**保险柜奖励：**\n- *钛金 (16)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977737,
+        "imagePath": "/game_map_pin/977737/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -58.86474609375,
+        -67.8216895160807
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "VybdWfiv5E",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***书虫脊***。位于小房子后面。被可破坏的箱子和木平台覆盖。*\n\n**保险箱奖励：**\n- *钛金 (20)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977732,
+        "imagePath": "/game_map_pin/977732/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -62.1826171875,
+        -72.7053721549377
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "UyuuHPx3zt",
+        "title": "",
+        "description": "**保险箱存放位置：**\n- *发现于 ***雷德勒的凹地***。位于建筑内的一个小储物室。*\n\n**保险箱奖励：**\n- *钛金（16）*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977727,
+        "imagePath": "/game_map_pin/977727/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -59.205322265625,
+        -75.5822021686347
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "UliPKb2THU",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***废金属农场***。位于集装箱内。攀爬进入即可。*\n\n**保险箱奖励：**\n- *钛金 (18)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977725,
+        "imagePath": "/game_map_pin/977725/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -24.466552734375,
+        -77.1522775821406
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "xHb0VY9ASg",
+        "title": "",
+        "description": "**保险箱存放位置：**\n- *发现于 ***伍德森谷地***。位于建筑的阁楼。入口在一楼，通过打破天花板上的木板来进入。*\n\n**保险箱奖励：**\n- *钛金（17）*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977757,
+        "imagePath": "/game_map_pin/977757/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -75.5419921875,
+        -77.4946071968732
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "bsT8wLxZTV",
+        "title": "",
+        "description": "**保险箱存放位置：**\n- *位于 ***破碎信号*** 的对面。位于被埋的建筑内，打破木板以进入。*\n\n**保险箱奖励：**\n- *钛金（20）*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977704,
+        "imagePath": "/game_map_pin/977704/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -53.8330078125,
+        -78.7848987265054
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "Jz7DJ699he",
+        "title": "",
+        "description": "**保险箱位置：**\n- *位于***大迈克的山谷***。位于地堡内。*\n\n**保险箱奖励：**\n- *钛金 (18)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977718,
+        "imagePath": "/game_map_pin/977718/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -59.8974609375,
+        -80.4449305218134
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "P0j6J7GBRC",
+        "title": "",
+        "description": "**保险箱存放位置：**\n- *发现于 ***老红的坟墓***。位于房子内部。*\n\n**保险箱奖励：**\n- *钛金（15）*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977712,
+        "imagePath": "/game_map_pin/977712/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -75.4541015625,
+        -81.9908211937552
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "1ncexqA8OG",
+        "title": "",
+        "description": "**保险箱存放位置：**\n- *发现于 ***凯勒特之嚎***。位于三个储罐下方。打破木板以进入。*\n\n**保险箱奖励：**\n- *钛金（17）*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977710,
+        "imagePath": "/game_map_pin/977710/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -76.2890625,
+        -81.9908211937552
+      ],
+      "properties": {
+        "gameCoords": null,
+        "subcategoryId": "h721ldkPEy",
+        "externalId": "pjwwdPo8fK",
+        "title": "",
+        "description": "**安全存放位置：**\n- *位于***凯勒特之嚎***。位于三个轮胎旁边的集装箱顶部。*\n\n**安全存放奖励：**\n- *钛金属 (16)*",
+        "subcategoryExternalId": "h721ldkPEy",
+        "imageId": 977709,
+        "imagePath": "/game_map_pin/977709/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -149.8095703125,
+        -78.7335005077847
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -3851.9873046875,
+          "y": -1723.99035644531,
+          "z": 149.41780090332
+        },
+        "subcategoryId": "fcPgea1c4V",
+        "externalId": "ZjWWziSOTC",
+        "title": "白尾鹿",
+        "description": "***\n***动物***\n***",
+        "subcategoryExternalId": "fcPgea1c4V",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        55.634765625,
+        -49.8379824530848
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -75.8469467163086,
+          "y": -242.689163208008,
+          "z": 295.267303466797
+        },
+        "subcategoryId": "fcPgea1c4V",
+        "externalId": "wZTIK6834a",
+        "title": "叉角羚",
+        "description": "***\n***动物***\n***",
+        "subcategoryExternalId": "fcPgea1c4V",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        94.7021484375,
+        -68.1224824116167
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 678.464416503906,
+          "y": -917.353576660156,
+          "z": 166.671142578125
+        },
+        "subcategoryId": "fcPgea1c4V",
+        "externalId": "M9ALC6LBHQ",
+        "title": "野狗",
+        "description": "***\n***动物***\n***",
+        "subcategoryExternalId": "fcPgea1c4V",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        73.619384765625,
+        -20.3446269438297
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 301.108520507813,
+          "y": 427.528594970703,
+          "z": 194.450149536133
+        },
+        "subcategoryId": "fcPgea1c4V",
+        "externalId": "KNxa4NpFm6",
+        "title": "麋鹿",
+        "description": "***\n***动物***\n***",
+        "subcategoryExternalId": "fcPgea1c4V",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        40.462646484375,
+        3.29408222831282
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -308.971649169922,
+          "y": 866.897888183594,
+          "z": 143.636337280273
+        },
+        "subcategoryId": "fcPgea1c4V",
+        "externalId": "79XX29TuGL",
+        "title": "驯鹿",
+        "description": "***\n***动物***\n***",
+        "subcategoryExternalId": "fcPgea1c4V",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -92.8564453125,
+        -81.6851439845468
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -2687.685546875,
+          "y": -1980.72985839844,
+          "z": 105.598075866699
+        },
+        "subcategoryId": "fcPgea1c4V",
+        "externalId": "2vbaEzsgbJ",
+        "title": "野猪",
+        "description": "***\n***动物***\n***",
+        "subcategoryExternalId": "fcPgea1c4V",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -111.708984375,
+        -69.565225901491
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -3113.18676757813,
+          "y": -999.20556640625,
+          "z": 125.936431884766
+        },
+        "subcategoryId": "fcPgea1c4V",
+        "externalId": "QPH52FuXR3",
+        "title": "狼獾",
+        "description": "***\n***动物***\n***",
+        "subcategoryExternalId": "fcPgea1c4V",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -23.3349609375,
+        -78.8275536987864
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1488.68249511719,
+          "y": -1641.15075683594,
+          "z": 122.620323181152
+        },
+        "subcategoryId": "fcPgea1c4V",
+        "externalId": "9oU0yZV2SR",
+        "title": "灰狼",
+        "description": "***\n***动物***\n***",
+        "subcategoryExternalId": "fcPgea1c4V",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -9.84375,
+        -27.9555910046425
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1225.34997558594,
+          "y": 230.462768554688,
+          "z": 155.564788818359
+        },
+        "subcategoryId": "fcPgea1c4V",
+        "externalId": "1AjrNGdRyJ",
+        "title": "野牛",
+        "description": "***\n***动物***\n***",
+        "subcategoryExternalId": "fcPgea1c4V",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -70.400390625,
+        -74.6832503005186
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -2353.88037109375,
+          "y": -1324.76110839844,
+          "z": 114.815780639648
+        },
+        "subcategoryId": "fcPgea1c4V",
+        "externalId": "jcTc5YpuVw",
+        "title": "野牛",
+        "description": "***\n***动物***\n***",
+        "subcategoryExternalId": "fcPgea1c4V",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -11.568603515625,
+        -80.8098749907281
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -1288.90405273438,
+          "y": -1890.48046875,
+          "z": 106.435279846191
+        },
+        "subcategoryId": "fcPgea1c4V",
+        "externalId": "wNcgv0aLzE",
+        "title": "麋鹿",
+        "description": "***\n***动物***\n***",
+        "subcategoryExternalId": "fcPgea1c4V",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -115.55419921875,
+        -77.7442829713122
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -3182.86547851563,
+          "y": -1536.67211914063,
+          "z": 112.704010009766
+        },
+        "subcategoryId": "fcPgea1c4V",
+        "externalId": "c4snKjvlYD",
+        "title": "美洲黑熊",
+        "description": "***\n***动物***\n***",
+        "subcategoryExternalId": "fcPgea1c4V",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        92.63671875,
+        -37.6490340215787
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 653.939453125,
+          "y": 73.6246185302734,
+          "z": 194.65251159668
+        },
+        "subcategoryId": "fcPgea1c4V",
+        "externalId": "1LAAAOfbxM",
+        "title": "灰熊",
+        "description": "***\n***动物***\n***",
+        "subcategoryExternalId": "fcPgea1c4V",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -82.705078125,
+        -80.5176025659875
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -2602.0302734375,
+          "y": -1798.57421875,
+          "z": 113.906478881836
+        },
+        "subcategoryId": "fcPgea1c4V",
+        "externalId": "61drfP5Bb4",
+        "title": "美洲狮",
+        "description": "***\n***动物***\n***",
+        "subcategoryExternalId": "fcPgea1c4V",
+        "imageId": null,
+        "imagePath": ""
+      }
+    }
+  ]
+}

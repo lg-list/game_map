@@ -1,0 +1,6168 @@
+{
+  "metadata": {
+    "externalId": "uvFZnKZdUt",
+    "name": "Pelican Town and Farm",
+    "slug": "pelican-town-and-farm",
+    "baseTilePath": "https://storage-cdn.wemod.com/maps/d168a581-a5f6-4339-8729-fce56a52a5a2/tiles",
+    "isChecklistPublished": true,
+    "isInActiveDevelopment": false,
+    "backgroundColor": null,
+    "minZoom": 1,
+    "maxZoom": 6,
+    "initialZoom": null,
+    "tmsEnabled": false,
+    "categories": [
+      {
+        "externalId": "n9p8R7JqGi",
+        "gameMapExternalId": "uvFZnKZdUt",
+        "title": "地点",
+        "color": "#E53935",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "zvwvbV2vow",
+        "gameMapExternalId": "uvFZnKZdUt",
+        "title": "觅食",
+        "color": "#388E3C",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "KfR2ebGzbm",
+        "gameMapExternalId": "uvFZnKZdUt",
+        "title": "兴趣点",
+        "color": "#BA68C8",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "CM0FGg9fH9",
+        "gameMapExternalId": "uvFZnKZdUt",
+        "title": "钓鱼点",
+        "color": "#babd1f",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "vKA9Yz973S",
+        "gameMapExternalId": "uvFZnKZdUt",
+        "title": "怪物",
+        "color": "#1565C0",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "subcategories": [
+      {
+        "externalId": "VCH6EpsWFq",
+        "categoryExternalId": "n9p8R7JqGi",
+        "title": "NPC房屋",
+        "icon": "roundies:architecture-house-home",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "mRB6vPCpPG",
+        "categoryExternalId": "n9p8R7JqGi",
+        "title": "节庆活动",
+        "icon": "roundies:utility-3-flag-one",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "KgS4QJ2MuQ",
+        "categoryExternalId": "zvwvbV2vow",
+        "title": "春季",
+        "icon": "flower",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "bWgkgw77MJ",
+        "categoryExternalId": "zvwvbV2vow",
+        "title": "夏季",
+        "icon": "sun",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "gdvX9XZXL1",
+        "categoryExternalId": "zvwvbV2vow",
+        "title": "秋季",
+        "icon": "leaf",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "RmBRYKkht9",
+        "categoryExternalId": "zvwvbV2vow",
+        "title": "冬季",
+        "icon": "snowflake",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "G7dc5zkr6s",
+        "categoryExternalId": "zvwvbV2vow",
+        "title": "硬木",
+        "icon": "tree-deciduous",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "2ap3hkjMJC",
+        "categoryExternalId": "KfR2ebGzbm",
+        "title": "蛋蛋节（鸡蛋位置）",
+        "icon": "roundies:animals-egg",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "O2b9fFLJs4",
+        "categoryExternalId": "KfR2ebGzbm",
+        "title": "杂项",
+        "icon": "cursor",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "e1fs1axBrJ",
+        "categoryExternalId": "CM0FGg9fH9",
+        "title": "山中湖",
+        "icon": "mountain",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "qs550vyozy",
+        "categoryExternalId": "CM0FGg9fH9",
+        "title": "河流（鹈鹕镇内）",
+        "icon": "water",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "3Efr6YlN6G",
+        "categoryExternalId": "CM0FGg9fH9",
+        "title": "河流（煤渣森林）",
+        "icon": "water-ladder",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "qGMVp5NHVj",
+        "categoryExternalId": "CM0FGg9fH9",
+        "title": "海洋",
+        "icon": "roundies:energy-electric-water",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "eBiKEfbWQs",
+        "categoryExternalId": "CM0FGg9fH9",
+        "title": "森林池塘",
+        "icon": "water-lower",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "utBmaOgR08",
+        "categoryExternalId": "CM0FGg9fH9",
+        "title": "矿井",
+        "icon": "space-station-moon",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "lKBck64bGQ",
+        "categoryExternalId": "CM0FGg9fH9",
+        "title": "秘密森林池塘",
+        "icon": "trees",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "hQdOQy1Bnc",
+        "categoryExternalId": "CM0FGg9fH9",
+        "title": "沙漠",
+        "icon": "cactus",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "ZNuYj11Nwf",
+        "categoryExternalId": "CM0FGg9fH9",
+        "title": "下水道",
+        "icon": "vector-circle",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "zB5WzDQoY5",
+        "categoryExternalId": "CM0FGg9fH9",
+        "title": "女巫沼泽",
+        "icon": "hat-witch",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "9qzMJjcue6",
+        "categoryExternalId": "CM0FGg9fH9",
+        "title": "夜市",
+        "icon": "roundies:camera-and-photography-night-brightness",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "y2Uhzm9hZG",
+        "categoryExternalId": "vKA9Yz973S",
+        "title": "史莱姆",
+        "icon": "spaghetti-monster-flying",
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "playerLocationDeltas": null
+  },
+  "features": [
+    {
+      "coordinates": [
+        68.91894911067087,
+        -60.15008997259469
+      ],
+      "properties": {
+        "externalId": "FC8ngCsL8j",
+        "title": "长鳍金枪鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 |🍂秋季 & ❄️冬季| 上午6:00 - 上午11:00 / 下午6:00 - 下午2:00 | 玻璃纤维竿、铱制鱼竿和竹竿 |",
+        "subcategoryExternalId": "qGMVp5NHVj",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        70.07602487973469,
+        -60.17857036795731
+      ],
+      "properties": {
+        "externalId": "panRd1Xasx",
+        "title": "鯷鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 |🍂秋季 & 🌱春季| 任何 | 任何 |",
+        "subcategoryExternalId": "qGMVp5NHVj",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        71.35043894223477,
+        -60.287658413260836
+      ],
+      "properties": {
+        "externalId": "RxXhin0OIG",
+        "title": "鸟蛤湾",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 |所有季节| 任何 | 蟹笼|",
+        "subcategoryExternalId": "qGMVp5NHVj",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        72.44907175473452,
+        -60.374667637334035
+      ],
+      "properties": {
+        "externalId": "O47JZY8xSd",
+        "title": "螃蟹",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 |所有季节| 任何 | 蟹笼|",
+        "subcategoryExternalId": "qGMVp5NHVj",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        73.85532175473531,
+        -60.30943246740655
+      ],
+      "properties": {
+        "externalId": "2hZ3vS7LfV",
+        "title": "鳗鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 |🌱春季 & 🍂秋季| 下午4:00 - 凌晨2:00 | 玻璃纤维竿、铱金竿和竹竿 |",
+        "subcategoryExternalId": "qGMVp5NHVj",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -41.341598864917074,
+        43.73433749764203
+      ],
+      "properties": {
+        "externalId": "NOs53lxRQD",
+        "title": "韭葱",
+        "description": "*这是一个可能的生成位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        64.31917148664093,
+        -52.557565313354964
+      ],
+      "properties": {
+        "externalId": "MXdupICSAM",
+        "title": "",
+        "description": "可以使用300个木材修复。",
+        "subcategoryExternalId": "O2b9fFLJs4",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -60.21819191491434,
+        39.120685621363094
+      ],
+      "properties": {
+        "externalId": "h2hv0fFrLM",
+        "title": "野山葵",
+        "description": "",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -56.87020157265293,
+        42.06035999836371
+      ],
+      "properties": {
+        "externalId": "FlJjNsrges",
+        "title": "韭葱",
+        "description": "",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -47.456444097456085,
+        42.06035999836371
+      ],
+      "properties": {
+        "externalId": "rM9FCZLQep",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        75.3055170672339,
+        -60.32031405540823
+      ],
+      "properties": {
+        "externalId": "7dF8wGsK1P",
+        "title": "比目鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 |🌱春季 & ☀️夏季| 上午6:00 - 晚上8:00 | 玻璃纤维杆、铱金杆和竹杆 |",
+        "subcategoryExternalId": "qGMVp5NHVj",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        76.77768503598497,
+        -60.40723632940562
+      ],
+      "properties": {
+        "externalId": "PtHesuUnP2",
+        "title": "比目鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 |🌱春季,☀️夏季 & ❄️冬季 | 上午 6:00 - 上午 11:00 / 晚上 7:00 - 凌晨 2:00 | 玻璃纤维钓竿、铱金钓竿和竹钓竿 |",
+        "subcategoryExternalId": "qGMVp5NHVj",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        68.867528785985,
+        -61.01987923371472
+      ],
+      "properties": {
+        "externalId": "7E7yAGtZ8d",
+        "title": "鲱鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 |🌱春季 & ❄️冬季| 任何 | 玻璃纤维钓竿、铱金钓竿和竹钓竿 |",
+        "subcategoryExternalId": "qGMVp5NHVj",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        70.07602487973469,
+        -61.12615966724687
+      ],
+      "properties": {
+        "externalId": "NFnV1ZyYas",
+        "title": "龙虾",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 所有季节 | 任何 | 蟹笼 |",
+        "subcategoryExternalId": "qGMVp5NHVj",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        71.52622019223509,
+        -61.136768099637536
+      ],
+      "properties": {
+        "externalId": "6fIJooTRB3",
+        "title": "贻贝",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 所有季节 | 任何 | 蟹笼 |",
+        "subcategoryExternalId": "qGMVp5NHVj",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        72.73471628598483,
+        -61.104932112232554
+      ],
+      "properties": {
+        "externalId": "Gexia27Vvr",
+        "title": "章鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 |☀️夏季 | 下午6:00 - 凌晨1:00 | 玻璃纤维鱼竿、铱金鱼竿和竹竿 |",
+        "subcategoryExternalId": "qGMVp5NHVj",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        74.00913034848492,
+        -61.136768099637536
+      ],
+      "properties": {
+        "externalId": "sGHmg4Zdda",
+        "title": "牡蛎",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 所有季节 | 任何 | 蟹笼 |",
+        "subcategoryExternalId": "qGMVp5NHVj",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        75.52524362973384,
+        -61.06243421797478
+      ],
+      "properties": {
+        "externalId": "pFA4evmAyW",
+        "title": "河豚鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 |☀️夏季 | 下午12:00 - 下午4:00 | 玻璃纤维竿、铱金竿和竹竿 |",
+        "subcategoryExternalId": "qGMVp5NHVj",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        77.06332956723531,
+        -61.104932112232554
+      ],
+      "properties": {
+        "externalId": "UP5UGA1VtN",
+        "title": "红鲻鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 |☀️夏季 & ❄️冬季 | 上午6:00 - 下午7:00 | 玻璃纤维竿、铱金竿和竹竿 |",
+        "subcategoryExternalId": "qGMVp5NHVj",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        68.867528785985,
+        -62.08732882672307
+      ],
+      "properties": {
+        "externalId": "IAwMijF13R",
+        "title": "红鲷鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 |☀️夏季、🍂秋季和❄️冬季 | 上午6:00 - 下午7:00 | 任何 |",
+        "subcategoryExternalId": "qGMVp5NHVj",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        70.27377878598392,
+        -62.09761303923073
+      ],
+      "properties": {
+        "externalId": "kGRmDZv6Bi",
+        "title": "沙丁鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 |🌱春季、🍂秋季和❄️冬季 | 上午6:00 - 下午7:00 | 任何 |",
+        "subcategoryExternalId": "qGMVp5NHVj",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        71.65805612973395,
+        -62.13871504919486
+      ],
+      "properties": {
+        "externalId": "LfXukraLCc",
+        "title": "海参",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 |🍂秋季 & ❄️冬季 | 6:00 AM - 7:00 PM | 任何 |",
+        "subcategoryExternalId": "qGMVp5NHVj",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        73.06430612973477,
+        -62.08732882672307
+      ],
+      "properties": {
+        "externalId": "JXb9sZTPfg",
+        "title": "海草",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任意 | 所有季节 | 任意 | 任意 |",
+        "subcategoryExternalId": "qGMVp5NHVj",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        74.33872019223483,
+        -62.02555032211348
+      ],
+      "properties": {
+        "externalId": "MbAzoTBfQj",
+        "title": "虾",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 所有季节 | 任何 | 蟹笼 |",
+        "subcategoryExternalId": "qGMVp5NHVj",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        75.65707956723452,
+        -62.01524169182524
+      ],
+      "properties": {
+        "externalId": "j0V4A5JPEl",
+        "title": "鱿鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 |❄️冬季 | 下午6:00 - 上午2:00 | 玻璃纤维杆、铱金杆和竹竿 |",
+        "subcategoryExternalId": "qGMVp5NHVj",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        77.28305612973526,
+        -61.99461395544795
+      ],
+      "properties": {
+        "externalId": "KDac9CxUr8",
+        "title": "超级黄瓜",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任意 | ☀️夏季 & 🍂秋季 | 下午6:00 - 凌晨2:00 | 玻璃纤维钓竿、铱金钓竿和竹钓竿 |",
+        "subcategoryExternalId": "qGMVp5NHVj",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        68.81110049041092,
+        -63.15123802585332
+      ],
+      "properties": {
+        "externalId": "HjEac0HMWu",
+        "title": "罗非鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | ☀️夏季 & 🍂秋季 | 上午6:00 - 下午2:00 | 玻璃纤维竿、铱金竿和竹竿 |",
+        "subcategoryExternalId": "qGMVp5NHVj",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        70.39313174041018,
+        -63.1710785660645
+      ],
+      "properties": {
+        "externalId": "UbU9XB6lla",
+        "title": "金枪鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任意 | ☀️夏季 & ❄️冬季 | 上午6:00 - 下午7:00 | 玻璃纤维竿、铱金竿和竹竿 |",
+        "subcategoryExternalId": "qGMVp5NHVj",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        69.0016365346334,
+        63.288147561810234
+      ],
+      "properties": {
+        "externalId": "VFTcsvGy6S",
+        "title": "女巫沼泽",
+        "description": "",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1539818,
+        "imagePath": "/game_map_pin/1539818/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        26.902452242207033,
+        -34.527850755994706
+      ],
+      "properties": {
+        "externalId": "JrE5SqEmQ5",
+        "title": "史莱姆杰克",
+        "description": "# 钓鱼点（变异虫巢内部）\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任意 | 所有季节 | 任意 | 玻璃纤维鱼竿、铱金鱼竿和竹鱼竿 |",
+        "subcategoryExternalId": "ZNuYj11Nwf",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        27.74039477858966,
+        -34.64511168355859
+      ],
+      "properties": {
+        "externalId": "IvlQvcpZyn",
+        "title": "变异鲤鱼",
+        "description": "# 钓鱼点（变异虫巢内部）\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 所有季节 | 任何 | 任何 |",
+        "subcategoryExternalId": "ZNuYj11Nwf",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        28.69545746266425,
+        -34.64511168355859
+      ],
+      "properties": {
+        "externalId": "JDW8zTBphz",
+        "title": "放射性鲤鱼",
+        "description": "# 钓鱼点（变异虫巢内部）\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 所有季节 | 任何 | 任何 |",
+        "subcategoryExternalId": "ZNuYj11Nwf",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        68.42218659433283,
+        63.88190240834149
+      ],
+      "properties": {
+        "externalId": "E2QcELXELV",
+        "title": "虚空鲑鱼",
+        "description": "# 钓鱼点（女巫沼泽内部）\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 所有季节 | 任何 | 玻璃纤维竿、铱金竿和竹竿 |",
+        "subcategoryExternalId": "zB5WzDQoY5",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        69.57204595120373,
+        63.89771652726088
+      ],
+      "properties": {
+        "externalId": "vYZpO4WLWE",
+        "title": "鲶鱼",
+        "description": "# 钓鱼点（女巫沼泽内部）\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 所有季节 | 任何 | 玻璃纤维竿、铱金竿和竹竿 |",
+        "subcategoryExternalId": "zB5WzDQoY5",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        31.14398266739792,
+        -59.75904816833241
+      ],
+      "properties": {
+        "externalId": "nAW4tsYWef",
+        "title": "午夜乌贼",
+        "description": "# 钓鱼点（夜市）\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何天气 | 下午5:00 - 凌晨2:00 | 冬季15日至17日 | 玻璃纤维鱼竿、铱金鱼竿和竹鱼竿 |",
+        "subcategoryExternalId": "9qzMJjcue6",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        31.18112931132285,
+        -60.53619737995635
+      ],
+      "properties": {
+        "externalId": "WlxKvvkVCg",
+        "title": "水滴鱼",
+        "description": "# 钓鱼点（夜市）\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何天气 | 下午5:00 - 凌晨2:00 | 冬季15日至17日 | 玻璃纤维鱼竿、铱金鱼竿和竹鱼竿 |",
+        "subcategoryExternalId": "9qzMJjcue6",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        31.18112931132285,
+        -61.35214934920959
+      ],
+      "properties": {
+        "externalId": "pF8qEuKfG4",
+        "title": "幽灵鱼",
+        "description": "# 钓鱼点（夜市）\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何天气 | 下午5:00 - 凌晨2:00 | 冬季15日至17日 | 玻璃纤维鱼竿、铱金鱼竿和竹鱼竿 |",
+        "subcategoryExternalId": "9qzMJjcue6",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        103.18893245782948,
+        45.8459710656833
+      ],
+      "properties": {
+        "externalId": "soo8iIf64N",
+        "title": "葡萄园",
+        "description": "",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        85.86828364045016,
+        42.846498832738234
+      ],
+      "properties": {
+        "externalId": "309VyUqcPA",
+        "title": "牛头镇",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 所有季节 | 任何 | 任何 |",
+        "subcategoryExternalId": "e1fs1axBrJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        86.75227265283115,
+        42.75940453997387
+      ],
+      "properties": {
+        "externalId": "yVRl75jZ6d",
+        "title": "鲤鱼镇",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 所有季节 | 任何 | 任何 |",
+        "subcategoryExternalId": "e1fs1axBrJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        87.74812223088082,
+        42.6781108636047
+      ],
+      "properties": {
+        "externalId": "4ryfZPvyIC",
+        "title": "鲢鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 所有季节 | 任何 | 玻璃纤维竿、铱金竿和竹竿 |",
+        "subcategoryExternalId": "e1fs1axBrJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        88.78823179017712,
+        42.661839348368915
+      ],
+      "properties": {
+        "externalId": "nKAsV856Lb",
+        "title": "大口黑鲈",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 所有季节 | 上午6:00 - 下午7:00 | 玻璃纤维竿、铱金竿和竹竿 |",
+        "subcategoryExternalId": "e1fs1axBrJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        89.8947313213439,
+        42.44992210678768
+      ],
+      "properties": {
+        "externalId": "bT9YhnPnFg",
+        "title": "午夜鲤鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 🍂秋季 & ❄️冬季 | 晚上10:00 - 凌晨2:00 | 玻璃纤维竿、铱金竿和竹竿 |",
+        "subcategoryExternalId": "e1fs1axBrJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        85.93346299976594,
+        41.82634871312939
+      ],
+      "properties": {
+        "externalId": "ZMdMymbr3P",
+        "title": "岩鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 |❄️冬季| 任何 | 玻璃纤维杆、铱金杆和竹制鱼竿 |",
+        "subcategoryExternalId": "e1fs1axBrJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        86.88505259656966,
+        41.859321401380186
+      ],
+      "properties": {
+        "externalId": "zLyqO4cr08",
+        "title": "栖木",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任意 |❄️冬季 | 任意 | 任意 |",
+        "subcategoryExternalId": "e1fs1axBrJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        87.96942213711418,
+        41.743842665019486
+      ],
+      "properties": {
+        "externalId": "wqNaZxrrqn",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "e1fs1axBrJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        89.05379167765682,
+        41.743842665019486
+      ],
+      "properties": {
+        "externalId": "sfdfL324tN",
+        "title": "彩虹鳟鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 |☀️夏季 | 上午6:00 - 下午7:00 | 任何 |",
+        "subcategoryExternalId": "e1fs1axBrJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        90.04790989636865,
+        41.661877198238386
+      ],
+      "properties": {
+        "externalId": "A8swlXE5f5",
+        "title": "鲟鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 |❄️冬季 &☀️夏季 | 上午6:00 - 下午7:00 | 玻璃纤维竿、铱金鱼竿和竹竿 |",
+        "subcategoryExternalId": "e1fs1axBrJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        86.02025160292214,
+        40.88014839321576
+      ],
+      "properties": {
+        "externalId": "y0bFgniAK4",
+        "title": "梭鲈鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 雨天 |❄️冬季 &🍂秋季 | 12:00 PM - 2:00 AM | 任意 |",
+        "subcategoryExternalId": "e1fs1axBrJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        87.148881124713,
+        40.762920441762816
+      ],
+      "properties": {
+        "externalId": "ivOuiOGs80",
+        "title": "传奇鱼类 I",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 雨天 |🌱春季 | 12:00 PM - 2:00 AM | 任意 - 钓鱼等级10 |",
+        "subcategoryExternalId": "e1fs1axBrJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        87.92595881065108,
+        40.74090695461598
+      ],
+      "properties": {
+        "externalId": "aojqvS8YYl",
+        "title": "传说鱼类 II",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 所有季节 | 任何 | 任何 - 钓鱼等级10 |",
+        "subcategoryExternalId": "e1fs1axBrJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        102.60170918003791,
+        40.41207661859215
+      ],
+      "properties": {
+        "externalId": "OVV2kKm65b",
+        "title": "葡萄园",
+        "description": "",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        103.36321502379946,
+        38.817309651380924
+      ],
+      "properties": {
+        "externalId": "JMN7Dq1awu",
+        "title": "葡萄园",
+        "description": "",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -77.58487280227946,
+        -47.07423230739197
+      ],
+      "properties": {
+        "externalId": "FVAUWwxGMg",
+        "title": "虹鳟鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 晴天 |☀️夏季| 上午6:00 - 下午7:00 | 任意 |",
+        "subcategoryExternalId": "3Efr6YlN6G",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -74.18740353660516,
+        -46.537591288990306
+      ],
+      "properties": {
+        "externalId": "NQsjaCRXlo",
+        "title": "多拉多",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 |全季节 | 任何 | 玻璃纤维竿、铱制鱼竿和竹竿 |",
+        "subcategoryExternalId": "3Efr6YlN6G",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -72.30572825100138,
+        -45.48489286656807
+      ],
+      "properties": {
+        "externalId": "Qv5naONLB7",
+        "title": "鲦鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 所有季节 | 任何 | 玻璃纤维竿、铱金竿和竹竿 |",
+        "subcategoryExternalId": "3Efr6YlN6G",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -69.9288444727697,
+        -44.77265787261997
+      ],
+      "properties": {
+        "externalId": "97hSuXBoFN",
+        "title": "鲷鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 全季节 | 下午6:00 - 凌晨2:00 | 任何 |",
+        "subcategoryExternalId": "3Efr6YlN6G",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -66.66070239418909,
+        -45.04343059458389
+      ],
+      "properties": {
+        "externalId": "QaRPcQY70F",
+        "title": "鲶鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 雨天 | 🌱春季 & 🍂秋季 | 6:00 AM - 12:00 AM | 玻璃纤维竿、铱金竿和竹竿 |",
+        "subcategoryExternalId": "3Efr6YlN6G",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -65.04037089825255,
+        -43.47128133508717
+      ],
+      "properties": {
+        "externalId": "7aSZfENDPk",
+        "title": "鳕鱼角",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任意 |❄️冬季 | 任意 | 玻璃纤维钓竿、铱制钓竿和竹制钓竿 |",
+        "subcategoryExternalId": "3Efr6YlN6G",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -62.06105169604601,
+        -42.63100950850025
+      ],
+      "properties": {
+        "externalId": "sdsW8sIXix",
+        "title": "鲈鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任意 |❄️冬季 | 任意 | 任意 |",
+        "subcategoryExternalId": "3Efr6YlN6G",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -58.87265746210586,
+        -42.05150219529835
+      ],
+      "properties": {
+        "externalId": "uTrGFUHaii",
+        "title": "梭子鱼河",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 |☀️夏季 &❄️冬季 | 任何 | 玻璃纤维杆、铱金杆和竹竿 |",
+        "subcategoryExternalId": "3Efr6YlN6G",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -54.90023185916364,
+        -41.89606529645468
+      ],
+      "properties": {
+        "externalId": "mmhnL57JKx",
+        "title": "鲑鱼镇",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 |🍂秋季 | 上午6:00 - 下午7:00 | 玻璃纤维鱼竿、铱制鱼竿和竹制鱼竿 |",
+        "subcategoryExternalId": "3Efr6YlN6G",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -51.5027625934915,
+        -41.073805493445555
+      ],
+      "properties": {
+        "externalId": "nYgnyzBSsw",
+        "title": "鲱鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 🌱春季、☀️夏季和🍂秋季 | 上午9:00 - 凌晨2:00 | 任何 |",
+        "subcategoryExternalId": "3Efr6YlN6G",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -49.9346998554885,
+        -37.51547707588614
+      ],
+      "properties": {
+        "externalId": "W0nWpWUb2W",
+        "title": "小口黑鲈",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任意 | 🌱春季 & 🍂秋季 | 任意 | 任意 |",
+        "subcategoryExternalId": "3Efr6YlN6G",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -45.49185543114555,
+        -36.0926198416948
+      ],
+      "properties": {
+        "externalId": "HRd3UpWn30",
+        "title": "太阳鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 晴天，有风 | 🌱春季 & ☀️夏季 | 上午6:00 - 下午7:00 | 任意 |",
+        "subcategoryExternalId": "3Efr6YlN6G",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -42.094386165469274,
+        -36.05037190023027
+      ],
+      "properties": {
+        "externalId": "UJ5V96h15p",
+        "title": "虎鳟鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 晴天、刮风 | 🍂秋季 & ❄️冬季 | 上午6:00 - 下午7:00 | 玻璃纤维、铱金鱼竿和竹鱼竿 |",
+        "subcategoryExternalId": "3Efr6YlN6G",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -82.37255816963977,
+        -28.250008166132268
+      ],
+      "properties": {
+        "externalId": "hsD5uJl1kT",
+        "title": "午夜鲤鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 🍂秋季 & ❄️冬季 | 任何 | 玻璃纤维、铱金鱼竿和竹鱼竿 |",
+        "subcategoryExternalId": "eBiKEfbWQs",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -80.41313884879278,
+        -28.30151912245247
+      ],
+      "properties": {
+        "externalId": "s3oUkUkjbq",
+        "title": "栖木",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任意 |❄️冬季 | 任意 | 任意 |",
+        "subcategoryExternalId": "eBiKEfbWQs",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -78.36598433447872,
+        -28.35300515377901
+      ],
+      "properties": {
+        "externalId": "2rpvv9k4j0",
+        "title": "狗鱼湖",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 |☀️夏季 &❄️冬季 | 任何 | 玻璃纤维钓竿、铱制钓竿和竹制钓竿 |",
+        "subcategoryExternalId": "eBiKEfbWQs",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -76.28958475567471,
+        -28.481610991964907
+      ],
+      "properties": {
+        "externalId": "39d8cd6kRA",
+        "title": "小嘴鲈鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 🌱春季 & 🍂秋季 | 任何 | 任何 |",
+        "subcategoryExternalId": "eBiKEfbWQs",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -81.40747104145956,
+        -30.189660430928136
+      ],
+      "properties": {
+        "externalId": "74xJ1ljnrz",
+        "title": "梭子鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 下雨 | 🍂秋季 & ❄️冬季 | 任何 | 任何 |\n\n# 也可以使用求雨图腾召唤。",
+        "subcategoryExternalId": "eBiKEfbWQs",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -132.022643746688,
+        -18.508085027600686
+      ],
+      "properties": {
+        "externalId": "NHQeuEKhxT",
+        "title": "鲶鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 雨天 | 🌱春季 & 🍂秋季 | 上午6:00 - 午夜12:00 | 玻璃纤维竿、铱金竿和竹竿 |",
+        "subcategoryExternalId": "lKBck64bGQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -134.52472653082216,
+        -18.692270759002255
+      ],
+      "properties": {
+        "externalId": "39zUeQbheA",
+        "title": "鲤鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任意 | 所有季节 | 任意 | 任意 |",
+        "subcategoryExternalId": "lKBck64bGQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -133.23724703995697,
+        -20.18121552814587
+      ],
+      "properties": {
+        "externalId": "JqlxYDpPjh",
+        "title": "森林跳鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 所有季节 | 任何 | 玻璃纤维杆、铱杆和竹竿 |",
+        "subcategoryExternalId": "lKBck64bGQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        66.22429774513833,
+        16.805495042587907
+      ],
+      "properties": {
+        "externalId": "krxENMfWQZ",
+        "title": "钓鱼者",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 |🍂秋季 | 任何 | 任何钓鱼竿 - 3级钓鱼 |",
+        "subcategoryExternalId": "qs550vyozy",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        66.09718057558149,
+        15.053526809968687
+      ],
+      "properties": {
+        "externalId": "oi4y0q1jUu",
+        "title": "钓鱼女士",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 |🍂秋季 | 所有季节 | 任何钓鱼竿 - 3级钓鱼 |",
+        "subcategoryExternalId": "qs550vyozy",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        50.60192821589655,
+        -4.7048282802174555
+      ],
+      "properties": {
+        "externalId": "nTY9D4ITcJ",
+        "title": "鲷鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任意 | 所有季节 | 下午6:00 - 凌晨2:00 | 任意 |",
+        "subcategoryExternalId": "qs550vyozy",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        51.46901486541256,
+        -6.494628531458574
+      ],
+      "properties": {
+        "externalId": "7AYSwVrgw2",
+        "title": "鲶鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 雨天 | 🌱春季 & 🍂秋季 | 上午6:00 - 午夜12:00 | 玻璃纤维杆、铱金杆和竹竿 |",
+        "subcategoryExternalId": "qs550vyozy",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        53.13205248459175,
+        -7.362038781604355
+      ],
+      "properties": {
+        "externalId": "73TXSFXVEF",
+        "title": "鳕鱼岬",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任意 |❄️冬季 | 任意 | 玻璃纤维竿、铱金竿和竹竿 |",
+        "subcategoryExternalId": "qs550vyozy",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        52.11731766610987,
+        -11.448922016589236
+      ],
+      "properties": {
+        "externalId": "GkxphkdVzP",
+        "title": "栖木",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 |❄️冬季 | 任何 | 任何 |",
+        "subcategoryExternalId": "qs550vyozy",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        52.54012384047746,
+        -13.786781190179482
+      ],
+      "properties": {
+        "externalId": "WwnJzNZK9X",
+        "title": "梭鱼湖",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 |☀️夏季 &❄️冬季 | 任何 | 玻璃纤维竿、铱金鱼竿和竹竿 |",
+        "subcategoryExternalId": "qs550vyozy",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        54.79509010375992,
+        -14.442843128096712
+      ],
+      "properties": {
+        "externalId": "TYbhojJXTg",
+        "title": "彩虹鳟鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 晴天 |☀️夏季| 上午6:00 - 下午7:00 | 任意 |",
+        "subcategoryExternalId": "qs550vyozy",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        56.82455974072485,
+        -14.851907289892267
+      ],
+      "properties": {
+        "externalId": "kW4qSpzv6i",
+        "title": "沙德",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 🌱春季、☀️夏季和🍂秋季 | 上午9:00 - 凌晨2:00 | 任何 |",
+        "subcategoryExternalId": "qs550vyozy",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        57.58561085458712,
+        -17.450802929948637
+      ],
+      "properties": {
+        "externalId": "HwMBpVZMhh",
+        "title": "小嘴鲈鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 🌱春季 & 🍂秋季 | 任何 | 任何 |",
+        "subcategoryExternalId": "qs550vyozy",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        56.90912097559877,
+        -20.22490485911139
+      ],
+      "properties": {
+        "externalId": "5oqI5TzXsb",
+        "title": "虎鳟鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 晴天，多风 | 🍂秋季 & ❄️冬季 | 上午6:00 - 下午7:00 | 玻璃纤维钓竿、铱金钓竿和竹制钓竿 |",
+        "subcategoryExternalId": "qs550vyozy",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        55.358831669584504,
+        -22.169502066756294
+      ],
+      "properties": {
+        "externalId": "DjOtLHgDxS",
+        "title": "梭鱼湖",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 雨天 | 🍂秋季 & ❄️冬季 | 任何时间 | 任何工具 |\n\n# 也可以使用雨之图腾召唤。",
+        "subcategoryExternalId": "qs550vyozy",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        81.40149992504473,
+        54.74734627070683
+      ],
+      "properties": {
+        "externalId": "6nQeQWgCJb",
+        "title": "幽灵鱼 (20层 / 60层)",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 所有季节 | 任何 | 玻璃纤维竿、铱金竿和竹竿 |",
+        "subcategoryExternalId": "utBmaOgR08",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        82.89145133391145,
+        54.74734627070683
+      ],
+      "properties": {
+        "externalId": "hYdISfhasd",
+        "title": "冰霜管道（第60层）",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 所有季节 | 任何 | 玻璃纤维竿、铱金竿和竹竿 |",
+        "subcategoryExternalId": "utBmaOgR08",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        84.34113378578041,
+        54.817013932742185
+      ],
+      "properties": {
+        "externalId": "WUUxlAPa3n",
+        "title": "熔岩鳗鱼（第100层）",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 所有季节 | 任何 | 玻璃纤维竿、铱金竿和竹竿 |",
+        "subcategoryExternalId": "utBmaOgR08",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        85.71027832365735,
+        54.6775585506233
+      ],
+      "properties": {
+        "externalId": "0PjVpH93PQ",
+        "title": "石头鱼（20层）",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 所有季节 | 任何 | 玻璃纤维竿、铱金竿和竹竿 |",
+        "subcategoryExternalId": "utBmaOgR08",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -135.73533545375605,
+        41.61465955527461
+      ],
+      "properties": {
+        "externalId": "VjB8kAVP0F",
+        "title": "沙鱼",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 所有季节 | 上午6:00 - 晚上8:00 | 玻璃纤维杆、铱制鱼竿和竹竿 |",
+        "subcategoryExternalId": "hQdOQy1Bnc",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -133.85767077443353,
+        41.31314517118517
+      ],
+      "properties": {
+        "externalId": "kpMp8Suo8g",
+        "title": "蝎鲤",
+        "description": "# 钓鱼点\n|天气|季节|时间|钓鱼工具|\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 任何 | 所有季节 | 上午6:00 - 晚上8:00 | 玻璃纤维杆、铱制鱼竿和竹竿 |",
+        "subcategoryExternalId": "hQdOQy1Bnc",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -24.563607935866884,
+        29.010610364637643
+      ],
+      "properties": {
+        "externalId": "lduGlC0wdh",
+        "title": "韭葱",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -20.07943683797481,
+        33.52446973373563
+      ],
+      "properties": {
+        "externalId": "3oh09vBDDi",
+        "title": "水仙花",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -18.739104806725294,
+        33.54278529917927
+      ],
+      "properties": {
+        "externalId": "eaxj7QBNhY",
+        "title": "水仙花",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -17.05153067082938,
+        26.327222365046026
+      ],
+      "properties": {
+        "externalId": "bUABlL0YF7",
+        "title": "野山葵",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -10.71082816576569,
+        29.455039563725506
+      ],
+      "properties": {
+        "externalId": "CGR4ZpcTDK",
+        "title": "水仙花",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -10.15691274467477,
+        25.860397856527683
+      ],
+      "properties": {
+        "externalId": "MPI3EaLdeM",
+        "title": "韭葱",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        15.779828433455776,
+        12.572407134941656
+      ],
+      "properties": {
+        "externalId": "5pfBkwGS1F",
+        "title": "",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        12.275830153102135,
+        3.4615689868434742
+      ],
+      "properties": {
+        "externalId": "spLmniyDmd",
+        "title": "水仙花",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        45.09224796629937,
+        3.4223002084207934
+      ],
+      "properties": {
+        "externalId": "vosz9PogRq",
+        "title": "水仙花",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        48.689962838398884,
+        -16.089283502621583
+      ],
+      "properties": {
+        "externalId": "8yaSAWgsbH",
+        "title": "水仙花",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        63.53227807335915,
+        -28.740041916726838
+      ],
+      "properties": {
+        "externalId": "8GpzfHDlZn",
+        "title": "水仙花",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -125.84158334270558,
+        -13.181938621795553
+      ],
+      "properties": {
+        "externalId": "9p7YuS2PnZ",
+        "title": "羊肚菌",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -123.51753126285213,
+        -13.181938621795553
+      ],
+      "properties": {
+        "externalId": "WMb6pAgGya",
+        "title": "普通蘑菇",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -118.55815293161626,
+        -13.289278493380166
+      ],
+      "properties": {
+        "externalId": "H5GUd8HwhC",
+        "title": "普通蘑菇",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -94.60697310223202,
+        -21.468073832067688
+      ],
+      "properties": {
+        "externalId": "WcRcA23pLX",
+        "title": "",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -59.7087334518134,
+        -24.030443260874264
+      ],
+      "properties": {
+        "externalId": "vyk4HNlrIg",
+        "title": "野山葵",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -51.756401770665946,
+        -24.014436009740265
+      ],
+      "properties": {
+        "externalId": "lWKtXynJqz",
+        "title": "野山葵",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -64.47251603000012,
+        -26.559072943238625
+      ],
+      "properties": {
+        "externalId": "JJekJOF7CV",
+        "title": "野山葵",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -63.56781224870403,
+        -27.14202206164476
+      ],
+      "properties": {
+        "externalId": "2tOyvGwAla",
+        "title": "野山葵",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -57.68751703045871,
+        -36.50015269244471
+      ],
+      "properties": {
+        "externalId": "tAlG5nr0XO",
+        "title": "蒲公英",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -75.7986025903349,
+        -37.21006516970524
+      ],
+      "properties": {
+        "externalId": "mjxqgMw4Kj",
+        "title": "野山葵",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -90.00548004102868,
+        -30.10403819322036
+      ],
+      "properties": {
+        "externalId": "zA4oTRTmRq",
+        "title": "",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -77.64298531716945,
+        -42.78811505137153
+      ],
+      "properties": {
+        "externalId": "sig1fa4Jg6",
+        "title": "蒲公英",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -91.27540388846994,
+        -46.467953591342095
+      ],
+      "properties": {
+        "externalId": "KWj7ONd3U8",
+        "title": "",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -94.40465895550027,
+        -47.36663465834516
+      ],
+      "properties": {
+        "externalId": "nPvCdUb1Aa",
+        "title": "",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -97.58718684008116,
+        -50.44519597767963
+      ],
+      "properties": {
+        "externalId": "yykzJ8KD8y",
+        "title": "",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -76.8567711355125,
+        -58.53909190960209
+      ],
+      "properties": {
+        "externalId": "2Of3pUPaGW",
+        "title": "野山葵",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -49.63966363920187,
+        -55.04670003590659
+      ],
+      "properties": {
+        "externalId": "MJHcwXVYqO",
+        "title": "大葱",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -41.8345725092008,
+        -56.295257937233785
+      ],
+      "properties": {
+        "externalId": "THstn3u3G2",
+        "title": "大葱",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -120.9061143613374,
+        31.38027937717699
+      ],
+      "properties": {
+        "externalId": "Klibawh7tH",
+        "title": "仙人掌果",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的绝佳方式。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -118.414114737093,
+        25.156958217585455
+      ],
+      "properties": {
+        "externalId": "Jx4GuUhK5p",
+        "title": "",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的绝佳方式。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -130.1880936549139,
+        30.44161862146794
+      ],
+      "properties": {
+        "externalId": "WB2RbknmDQ",
+        "title": "仙人掌果",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的绝佳方式。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -125.56475035659273,
+        22.912729879543463
+      ],
+      "properties": {
+        "externalId": "0cXBovGn2l",
+        "title": "仙人掌果",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的绝佳方式。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -129.92985726195124,
+        24.569086921896556
+      ],
+      "properties": {
+        "externalId": "DXd3661u9W",
+        "title": "椰子",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的绝佳方式。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -129.74283267507116,
+        23.181307219412133
+      ],
+      "properties": {
+        "externalId": "a4qr0q8bLr",
+        "title": "",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的绝佳方式。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -133.08267642507116,
+        23.92655359549886
+      ],
+      "properties": {
+        "externalId": "rmCTiYYwl1",
+        "title": "",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的绝佳方式。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        32.211849090754185,
+        -50.30759260202636
+      ],
+      "properties": {
+        "externalId": "C508e24wH6",
+        "title": "蛤蜊海滩",
+        "description": "# 注意：*标记的地点表示这些资源可能随机出现的位置。*\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        36.64773879864657,
+        -52.632967670467345
+      ],
+      "properties": {
+        "externalId": "6e5DgV7STy",
+        "title": "文物挖掘点",
+        "description": "# 注意：*标记的地点表示这些资源可能随机出现的位置。*\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        41.133833684821155,
+        -52.632967670467345
+      ],
+      "properties": {
+        "externalId": "R9DKzI54Iy",
+        "title": "文物挖掘点",
+        "description": "# 注意：*标记的地点表示这些资源可能随机出现的位置。*\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        43.24334102872942,
+        -51.93655971206314
+      ],
+      "properties": {
+        "externalId": "npyN8S29dx",
+        "title": "贻贝",
+        "description": "# 注意：*标记的地点表示这些资源可能随机出现的位置。*\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        45.100569894554894,
+        -50.80514824102062
+      ],
+      "properties": {
+        "externalId": "l6ao85nRx2",
+        "title": "蛤蜊海滩",
+        "description": "# 注意：*标记的地点表示这些资源可能随机出现的位置。*\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        70.2287523089885,
+        -53.80973535940166
+      ],
+      "properties": {
+        "externalId": "AA2FYYB4rn",
+        "title": "珊瑚",
+        "description": "# 注意：*标记的地点表示这些资源可能随机出现的位置。*\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        74.08203935150422,
+        -56.00694981587565
+      ],
+      "properties": {
+        "externalId": "k5TuOTWBi1",
+        "title": "海胆",
+        "description": "# 注意：*标记的地点表示这些资源可能随机出现的位置。*\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        78.0256378090794,
+        -49.77271684334992
+      ],
+      "properties": {
+        "externalId": "Cd8dNyolJZ",
+        "title": "蛤蜊海滩",
+        "description": "# 注意：*标记的地点表示这些资源可能随机出现的位置。*\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        83.92598359293174,
+        -50.10209918220366
+      ],
+      "properties": {
+        "externalId": "0JFrBl1O0T",
+        "title": "文物地点",
+        "description": "# 注意：*标记的地点表示这些资源可能随机出现的位置。*\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        53.333540532395716,
+        49.90115165317857
+      ],
+      "properties": {
+        "externalId": "o6ElgHRAoi",
+        "title": "文物挖掘点",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        55.62299472078618,
+        38.50358698709968
+      ],
+      "properties": {
+        "externalId": "G2i76ZZspL",
+        "title": "文物挖掘点",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        73.04873363837342,
+        50.08408124082658
+      ],
+      "properties": {
+        "externalId": "Sau4jdOvbY",
+        "title": "韭葱",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        82.97483196021938,
+        37.86457654512134
+      ],
+      "properties": {
+        "externalId": "6eTKtYtxpI",
+        "title": "野山葵",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        89.51295416248536,
+        50.240205552869696
+      ],
+      "properties": {
+        "externalId": "Xl9Z6HXspD",
+        "title": "韭葱",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -23.00100404307875,
+        29.236819679741103
+      ],
+      "properties": {
+        "externalId": "gKNbRW4TeL",
+        "title": "葡萄园",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -22.398012750695926,
+        26.658068202520823
+      ],
+      "properties": {
+        "externalId": "1Scz2NLRYc",
+        "title": "",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -11.313424509697882,
+        29.09637475590769
+      ],
+      "properties": {
+        "externalId": "zMTZ7r52Y3",
+        "title": "葡萄园",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -57.389434600015576,
+        37.40296742332943
+      ],
+      "properties": {
+        "externalId": "5cMluk87PD",
+        "title": "葡萄园",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -60.15303190296592,
+        39.99372747922024
+      ],
+      "properties": {
+        "externalId": "usfcDjMIk3",
+        "title": "葡萄园",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -59.559770184215495,
+        40.647077545716655
+      ],
+      "properties": {
+        "externalId": "Axrh6YQbmH",
+        "title": "葡萄园",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -53.07464839807605,
+        44.20667529610253
+      ],
+      "properties": {
+        "externalId": "ZESAApifSD",
+        "title": "葡萄园",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -46.0084694045394,
+        44.930078564914254
+      ],
+      "properties": {
+        "externalId": "4nUD3Nty5t",
+        "title": "香料浆果",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -43.01983445051795,
+        43.95412274869818
+      ],
+      "properties": {
+        "externalId": "9W0yk4rBLI",
+        "title": "葡萄园",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -35.946442864423545,
+        42.29627329349137
+      ],
+      "properties": {
+        "externalId": "CQLSp6RT9d",
+        "title": "葡萄园",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        15.819872889040994,
+        14.28020235187617
+      ],
+      "properties": {
+        "externalId": "GWFBdU8e4B",
+        "title": "甜豌豆",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        14.751399699878107,
+        6.760844063966005
+      ],
+      "properties": {
+        "externalId": "c1GL9PZZ6f",
+        "title": "甜豌豆",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -116.93226609559449,
+        -21.587619374676265
+      ],
+      "properties": {
+        "externalId": "PReAfZxmPc",
+        "title": "蕨菜",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -113.73350991045574,
+        -11.947949174093807
+      ],
+      "properties": {
+        "externalId": "Z5KFdrqXM2",
+        "title": "红蘑菇",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -119.78829840375403,
+        -13.563506932570732
+      ],
+      "properties": {
+        "externalId": "kfTcFCPyJl",
+        "title": "蕨菜",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -125.15763914309423,
+        -13.702285193761526
+      ],
+      "properties": {
+        "externalId": "xg3eyqIzU5",
+        "title": "红蘑菇",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -60.13902180161956,
+        -26.712377900096556
+      ],
+      "properties": {
+        "externalId": "MHvZ0I8JuO",
+        "title": "常见蘑菇",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -51.06837828947394,
+        -32.811718325911855
+      ],
+      "properties": {
+        "externalId": "Q1bZrHSRl2",
+        "title": "",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -62.0463947341339,
+        -37.356719902392456
+      ],
+      "properties": {
+        "externalId": "Y466hQ5OHm",
+        "title": "常见蘑菇",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -87.59227199570469,
+        -35.9754642021055
+      ],
+      "properties": {
+        "externalId": "FKrIx1XhPF",
+        "title": "常见蘑菇",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -90.88068499695983,
+        -36.745153200799685
+      ],
+      "properties": {
+        "externalId": "X9R3FEecM9",
+        "title": "辣莓地",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -94.74492049260225,
+        -34.69179198435143
+      ],
+      "properties": {
+        "externalId": "0sbSAB4eAR",
+        "title": "常见蘑菇",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -91.45470218402916,
+        -45.92048300980505
+      ],
+      "properties": {
+        "externalId": "YFcSMWVS7k",
+        "title": "香料浆果",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        46.05709492776151,
+        -34.67703743308662
+      ],
+      "properties": {
+        "externalId": "G4lvbQ8tgU",
+        "title": "甜豌豆",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        75.10423334600134,
+        12.56996155481336
+      ],
+      "properties": {
+        "externalId": "VCO3ZOUGaK",
+        "title": "甜豌豆",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        48.55779731537541,
+        -16.15313932049051
+      ],
+      "properties": {
+        "externalId": "dWIu9DvuIb",
+        "title": "甜豌豆",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        73.87657042163025,
+        -32.233956020670014
+      ],
+      "properties": {
+        "externalId": "F0BjMR55PJ",
+        "title": "甜豌豆",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        49.089427174844076,
+        39.20919109677297
+      ],
+      "properties": {
+        "externalId": "9axgGhHIFI",
+        "title": "葡萄园",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        67.19263029583797,
+        44.770759685928226
+      ],
+      "properties": {
+        "externalId": "D8hdx6litk",
+        "title": "葡萄园",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        69.59762488487806,
+        47.74024330427616
+      ],
+      "properties": {
+        "externalId": "klghAYdZAs",
+        "title": "香料浆果",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        74.30944229315574,
+        44.04884927660336
+      ],
+      "properties": {
+        "externalId": "0EgOutdSTF",
+        "title": "香料浆果",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        90.12720083368362,
+        48.917127328739014
+      ],
+      "properties": {
+        "externalId": "us26kr7bne",
+        "title": "葡萄园",
+        "description": "# 夏季觅食提供了星露谷全境各种新鲜的时令物品。你可以在地图各处找到葡萄、香料浆果和甜豌豆等物品。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        38.17077060322748,
+        -51.13585117111598
+      ],
+      "properties": {
+        "externalId": "6SMXZJ5s4M",
+        "title": "牡蛎海滩",
+        "description": "# 注意：*标记的地点表示这些资源可能随机出现的位置。*\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        36.9259037953594,
+        -53.307625722078384
+      ],
+      "properties": {
+        "externalId": "TpJIV3KOp4",
+        "title": "彩虹贝壳",
+        "description": "# 注意：*标记的地点表示这些资源可能随机出现的位置。*\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        47.778276252312594,
+        -50.54392892674458
+      ],
+      "properties": {
+        "externalId": "wjsGDEPI4J",
+        "title": "彩虹贝壳",
+        "description": "# 注意：*标记的地点表示这些资源可能随机出现的位置。*\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        47.31926146453583,
+        -52.68760445720371
+      ],
+      "properties": {
+        "externalId": "P0MvLn0lIn",
+        "title": "贻贝",
+        "description": "# 注意：*标记的地点表示这些资源可能随机出现的位置。*\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        44.384291043767206,
+        -53.68152597228794
+      ],
+      "properties": {
+        "externalId": "lpCYGNJOIP",
+        "title": "彩虹贝壳",
+        "description": "# 注意：*标记的地点表示这些资源可能随机出现的位置。*\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        50.16663621387994,
+        -55.4069104733963
+      ],
+      "properties": {
+        "externalId": "FRtYMWIl8Z",
+        "title": "彩虹贝壳",
+        "description": "# 注意：*标记的地点表示这些资源可能随机出现的位置。*\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        70.83099822742875,
+        -50.81208782062066
+      ],
+      "properties": {
+        "externalId": "EOJEUuPtXX",
+        "title": "彩虹贝壳",
+        "description": "# 注意：*标记的地点表示这些资源可能随机出现的位置。*\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        75.89360697388051,
+        -51.01608093042497
+      ],
+      "properties": {
+        "externalId": "9TWzcXQbSG",
+        "title": "",
+        "description": "# 注意：*标记的地点表示这些资源可能随机出现的位置。*\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ☀️夏季 | 觅食 |",
+        "subcategoryExternalId": "bWgkgw77MJ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -54.19667260858114,
+        40.41118737787602
+      ],
+      "properties": {
+        "externalId": "wJ1iH0kZf2",
+        "title": "野梅林",
+        "description": "# 秋季觅食会在星露谷各地带来各种丰富多彩的季节性发现。你可以在不同区域发现野梅子、榛子、黑莓和普通蘑菇。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -55.37569487671347,
+        43.43195773931211
+      ],
+      "properties": {
+        "externalId": "NUOn4eBmRS",
+        "title": "黑莓农场",
+        "description": "# 秋季觅食会在星露谷各地带来各种丰富多彩的季节性发现。你可以在不同区域发现野梅子、榛子、黑莓和普通蘑菇。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -51.91722955685793,
+        42.1826064826287
+      ],
+      "properties": {
+        "externalId": "u0K0wzjFaS",
+        "title": "榛子",
+        "description": "# 秋季觅食会在星露谷各地带来各种丰富多彩的季节性发现。你可以在不同区域发现野梅子、榛子、黑莓和普通蘑菇。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -49.45438304119904,
+        44.71192621270001
+      ],
+      "properties": {
+        "externalId": "dUBx39da4k",
+        "title": "野梅林",
+        "description": "# 秋季觅食会在星露谷各地带来各种丰富多彩的季节性发现。你可以在不同区域发现野梅子、榛子、黑莓和普通蘑菇。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -44.37148704080499,
+        44.094222658378584
+      ],
+      "properties": {
+        "externalId": "kYxBvLxDvM",
+        "title": "黑莓农场",
+        "description": "# 秋季觅食会在星露谷各地带来各种丰富多彩的季节性发现。你可以在不同区域发现野梅子、榛子、黑莓和普通蘑菇。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -38.822396953373755,
+        41.92050106495722
+      ],
+      "properties": {
+        "externalId": "Gt8vyvBCQk",
+        "title": "野梅林",
+        "description": "# 秋季觅食会在星露谷各地带来各种丰富多彩的季节性发现。你可以在不同区域发现野梅子、榛子、黑莓和普通蘑菇。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -21.620175354572666,
+        33.44534456689621
+      ],
+      "properties": {
+        "externalId": "0hT9TzLvl1",
+        "title": "野梅林",
+        "description": "# 秋季觅食会在星露谷各地带来各种丰富多彩的季节性发现。你可以在不同区域发现野梅子、榛子、黑莓和普通蘑菇。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -21.7371083433749,
+        29.66002228627312
+      ],
+      "properties": {
+        "externalId": "lOBN84Ph5w",
+        "title": "野梅林",
+        "description": "# 秋季觅食会在星露谷各地带来各种丰富多彩的季节性发现。你可以在不同区域发现野梅子、榛子、黑莓和普通蘑菇。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -21.58324884395506,
+        27.887967611093018
+      ],
+      "properties": {
+        "externalId": "2H8prmkx77",
+        "title": "榛子",
+        "description": "# 秋季觅食会在星露谷各地带来各种丰富多彩的季节性发现。你可以在不同区域发现野梅子、榛子、黑莓和普通蘑菇。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -16.981833465417907,
+        29.303753011651054
+      ],
+      "properties": {
+        "externalId": "R9PvaZROmZ",
+        "title": "榛子",
+        "description": "# 秋季觅食会在星露谷各地带来各种丰富多彩的季节性发现。你可以在不同区域发现野梅子、榛子、黑莓和普通蘑菇。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -16.776582962250984,
+        27.68280539087219
+      ],
+      "properties": {
+        "externalId": "01978n05ra",
+        "title": "榛子",
+        "description": "# 秋季觅食会在星露谷各地带来各种丰富多彩的季节性发现。你可以在不同区域发现野梅子、榛子、黑莓和普通蘑菇。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -13.560975849661276,
+        25.578326439956214
+      ],
+      "properties": {
+        "externalId": "KDhQUZPLWr",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -10.499757791676217,
+        27.902575033088638
+      ],
+      "properties": {
+        "externalId": "Hv0UlDo2mN",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        11.233674719840366,
+        8.09826118928541
+      ],
+      "properties": {
+        "externalId": "0NlSb639TN",
+        "title": "黑莓农场",
+        "description": "# 秋季觅食会在星露谷各地带来各种丰富多彩的季节性发现。你可以在不同区域发现野梅子、榛子、黑莓和普通蘑菇。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        21.71686954252351,
+        2.5085612374156625
+      ],
+      "properties": {
+        "externalId": "DVmAFKeWNX",
+        "title": "黑莓农场",
+        "description": "# 秋季觅食会在星露谷各地带来各种丰富多彩的季节性发现。你可以在不同区域发现野梅子、榛子、黑莓和普通蘑菇。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        38.98147020765046,
+        -8.787693070866666
+      ],
+      "properties": {
+        "externalId": "4ZiKRkzimG",
+        "title": "黑莓农场",
+        "description": "# 秋季觅食会在星露谷各地带来各种丰富多彩的季节性发现。你可以在不同区域发现野梅子、榛子、黑莓和普通蘑菇。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        60.68730699460451,
+        -34.26304051385229
+      ],
+      "properties": {
+        "externalId": "N30UCZPlai",
+        "title": "黑莓农场",
+        "description": "# 秋季觅食会在星露谷各地带来各种丰富多彩的季节性发现。你可以在不同区域发现野梅子、榛子、黑莓和普通蘑菇。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        74.32281029481916,
+        -19.05140962328184
+      ],
+      "properties": {
+        "externalId": "yPScmyAdUF",
+        "title": "黑莓农场",
+        "description": "# 秋季觅食会在星露谷各地带来各种丰富多彩的季节性发现。你可以在不同区域发现野梅子、榛子、黑莓和普通蘑菇。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        63.698651232592255,
+        45.30999282185124
+      ],
+      "properties": {
+        "externalId": "KSgpNOciLg",
+        "title": "榛子",
+        "description": "# 秋季觅食会在星露谷各地带来各种丰富多彩的季节性发现。你可以在不同区域发现野梅子、榛子、黑莓和普通蘑菇。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        73.67717279232807,
+        47.305802593663685
+      ],
+      "properties": {
+        "externalId": "43X1t4M3Qg",
+        "title": "野梅林",
+        "description": "# 秋季觅食会在星露谷各地带来各种丰富多彩的季节性发现。你可以在不同区域发现野梅子、榛子、黑莓和普通蘑菇。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -53.44085860891552,
+        -29.348909194563454
+      ],
+      "properties": {
+        "externalId": "Gd20aMeHi7",
+        "title": "野梅林",
+        "description": "# 秋季觅食会在星露谷各地带来各种丰富多彩的季节性发现。你可以在不同区域发现野梅子、榛子、黑莓和普通蘑菇。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -61.748704357106206,
+        -30.02677344133526
+      ],
+      "properties": {
+        "externalId": "HFLhXnbPsT",
+        "title": "野梅林",
+        "description": "# 秋季觅食会在星露谷各地带来各种丰富多彩的季节性发现。你可以在不同区域发现野梅子、榛子、黑莓和普通蘑菇。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -75.97761143964591,
+        -39.25891408089296
+      ],
+      "properties": {
+        "externalId": "JKUwpAlfhG",
+        "title": "榛子",
+        "description": "# 秋季觅食会在星露谷各地带来各种丰富多彩的季节性发现。你可以在不同区域发现野梅子、榛子、黑莓和普通蘑菇。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -98.89591183463538,
+        -50.34473318076729
+      ],
+      "properties": {
+        "externalId": "fOXOaIrKe7",
+        "title": "黑莓农场",
+        "description": "# 秋季觅食会在星露谷各地带来各种丰富多彩的季节性发现。你可以在不同区域发现野梅子、榛子、黑莓和普通蘑菇。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -57.02292490682102,
+        -58.93120290961321
+      ],
+      "properties": {
+        "externalId": "mDQyQpU6tl",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -39.69642510254266,
+        -50.51310632444365
+      ],
+      "properties": {
+        "externalId": "X8lzRuOBHe",
+        "title": "黑莓农场",
+        "description": "# 秋季觅食会在星露谷各地带来各种丰富多彩的季节性发现。你可以在不同区域发现野梅子、榛子、黑莓和普通蘑菇。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        34.04654344800443,
+        -52.07645026444539
+      ],
+      "properties": {
+        "externalId": "DZahP6P400",
+        "title": "鸟蛤",
+        "description": "# 注意：*标记的地点显示这些资源可能随机出现的位置。*\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季 | 觅食 |",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        49.41247986319067,
+        -54.14007360871348
+      ],
+      "properties": {
+        "externalId": "8V9ntXZtv0",
+        "title": "鸟蛤",
+        "description": "# 注意：*标记的地点显示这些资源可能随机出现的位置。*\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季 | 觅食 |",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -50.573132998665926,
+        37.02198924661771
+      ],
+      "properties": {
+        "externalId": "jfNCgLYUWM",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -48.91898866958502,
+        37.497400911556085
+      ],
+      "properties": {
+        "externalId": "EQ0yu6d0Q8",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -48.32621615782,
+        34.184633096776196
+      ],
+      "properties": {
+        "externalId": "6ARTISMXVB",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -41.319175827496906,
+        33.73900896207816
+      ],
+      "properties": {
+        "externalId": "6GUZDDuZEj",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -59.731807065627734,
+        41.98395433368552
+      ],
+      "properties": {
+        "externalId": "YPlQFkYl8S",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -48.72229275246849,
+        42.585397113981514
+      ],
+      "properties": {
+        "externalId": "QJPvnxP1SR",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        71.3402668678396,
+        47.19666771636511
+      ],
+      "properties": {
+        "externalId": "RIUU4wNHnR",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        73.68251206677664,
+        51.58062781006501
+      ],
+      "properties": {
+        "externalId": "oe4Ja4yihC",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        75.5212046705162,
+        43.73820836360474
+      ],
+      "properties": {
+        "externalId": "pVIKlRuN5b",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        18.83053815021472,
+        20.005141847455846
+      ],
+      "properties": {
+        "externalId": "ytj7Hb6b3Z",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        31.805778587878336,
+        18.412060042991897
+      ],
+      "properties": {
+        "externalId": "8Lf40KEQeH",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        9.09022579853854,
+        13.66616053589631
+      ],
+      "properties": {
+        "externalId": "RXSgb8LziA",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        34.76899771463431,
+        -21.747233245797005
+      ],
+      "properties": {
+        "externalId": "AQYtcxmDZc",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        31.675815613384913,
+        -35.81111465432618
+      ],
+      "properties": {
+        "externalId": "sSAL3g2p5c",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        5.837277141632228,
+        -32.17668042155058
+      ],
+      "properties": {
+        "externalId": "loOCRfqHUi",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -29.204592909841352,
+        -56.50769566453118
+      ],
+      "properties": {
+        "externalId": "0gTJmBQFkv",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -53.77463127848645,
+        -57.05548688973809
+      ],
+      "properties": {
+        "externalId": "1xqcboIxjs",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -39.41504298098323,
+        -51.51618812269714
+      ],
+      "properties": {
+        "externalId": "fNeXMFTNuQ",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -46.574654740673,
+        -49.5491403233557
+      ],
+      "properties": {
+        "externalId": "BnxmnQlAvr",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -42.69783439918152,
+        -45.629723679434285
+      ],
+      "properties": {
+        "externalId": "zYtjdns2Mo",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -48.419270870900164,
+        -46.518947590882
+      ],
+      "properties": {
+        "externalId": "Pj0rjj1hmV",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -50.54526912268582,
+        -46.151983818298675
+      ],
+      "properties": {
+        "externalId": "i7CryyTf6X",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -78.16673451482248,
+        -57.26519777032226
+      ],
+      "properties": {
+        "externalId": "sTuImzIFeJ",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -82.6375837796071,
+        -56.132373700699674
+      ],
+      "properties": {
+        "externalId": "TGVv4W8vaR",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -92.23584059281559,
+        -55.42911535305255
+      ],
+      "properties": {
+        "externalId": "yB1Weembfq",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -94.06121354583156,
+        -57.381645709469055
+      ],
+      "properties": {
+        "externalId": "ZQFgrx2fcG",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -91.49208104471484,
+        -43.08904513017417
+      ],
+      "properties": {
+        "externalId": "9M8maZVBWx",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -94.74146813660512,
+        -38.47338515413814
+      ],
+      "properties": {
+        "externalId": "FxcJ1yeocx",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -91.89112858232444,
+        -37.031123234829984
+      ],
+      "properties": {
+        "externalId": "9iKdcn5Z00",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -88.94539825397737,
+        -33.338004637666124
+      ],
+      "properties": {
+        "externalId": "QKscYENtJ4",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -88.617217517069,
+        -36.7059374168935
+      ],
+      "properties": {
+        "externalId": "Gr0AFvq0c4",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -87.77307115238946,
+        -41.41257774615278
+      ],
+      "properties": {
+        "externalId": "sa5C4GcPla",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -85.8659256618171,
+        -42.3668001763751
+      ],
+      "properties": {
+        "externalId": "On3dvwIu0a",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -81.48738920918457,
+        -35.74622867496246
+      ],
+      "properties": {
+        "externalId": "GtWZR0eyP5",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -76.86169777190105,
+        -36.80613328419575
+      ],
+      "properties": {
+        "externalId": "WgzE6T6Qh9",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -69.13932176909182,
+        -38.5627033719031
+      ],
+      "properties": {
+        "externalId": "X0oIcvmb1N",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -67.22800980192505,
+        -37.39755073547846
+      ],
+      "properties": {
+        "externalId": "SEVtNm1rA5",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -67.72586402362762,
+        -34.93155325834301
+      ],
+      "properties": {
+        "externalId": "uGPca3TDzJ",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -58.228859892820694,
+        -29.72504551371094
+      ],
+      "properties": {
+        "externalId": "vZpQ4Ui9WX",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -58.04127181178045,
+        -28.19321046721337
+      ],
+      "properties": {
+        "externalId": "U5c6x2Mpq1",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -49.2871613632515,
+        -29.616383938807274
+      ],
+      "properties": {
+        "externalId": "0rwsUrMsHe",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -71.02640531102467,
+        -17.149397919704782
+      ],
+      "properties": {
+        "externalId": "8dCV97BQec",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -81.81705117446062,
+        -16.52804676832322
+      ],
+      "properties": {
+        "externalId": "ifWm0l4853",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -88.7369470539789,
+        -18.4699067665464
+      ],
+      "properties": {
+        "externalId": "Ix6Y739pv9",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -89.53942717727054,
+        -16.348126234219677
+      ],
+      "properties": {
+        "externalId": "DI3tPcUdEo",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -93.47878267989921,
+        -16.18498166611508
+      ],
+      "properties": {
+        "externalId": "g8FQOKcCBN",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -56.321264628038534,
+        -13.698208130920719
+      ],
+      "properties": {
+        "externalId": "NxS5PiIkJ9",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -111.2551936446519,
+        -20.171996048536585
+      ],
+      "properties": {
+        "externalId": "GLB476iJJv",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -115.9867573047568,
+        -20.11847678537292
+      ],
+      "properties": {
+        "externalId": "Cyqcxq7n8D",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -128.27172078370404,
+        -22.692309301067738
+      ],
+      "properties": {
+        "externalId": "KILFCXwOw2",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -130.1244414939863,
+        -22.955025641167396
+      ],
+      "properties": {
+        "externalId": "z5MOVmGdNL",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -121.11930695741361,
+        -15.832074324814386
+      ],
+      "properties": {
+        "externalId": "OHvc57k5Fp",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -123.68627789901447,
+        -16.61429517011024
+      ],
+      "properties": {
+        "externalId": "ZQR9XrCYdt",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -120.4332870094337,
+        -6.960312990789319
+      ],
+      "properties": {
+        "externalId": "KHw14yxI0H",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -123.88219787011282,
+        -7.158324157693528
+      ],
+      "properties": {
+        "externalId": "kH2gLacG2T",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -128.6707683213034,
+        -11.712140568660203
+      ],
+      "properties": {
+        "externalId": "pz4mznPF4M",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -130.1244414939863,
+        -10.733611493259616
+      ],
+      "properties": {
+        "externalId": "cFqsP2tTip",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -131.6921282488403,
+        -7.158324157693528
+      ],
+      "properties": {
+        "externalId": "iTCyiIXd8e",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        75.63890922547193,
+        38.08259464225728
+      ],
+      "properties": {
+        "externalId": "tyux9Tg9as",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        81.99462612642071,
+        37.834529522857295
+      ],
+      "properties": {
+        "externalId": "iUYk9JfBb7",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        100.56285938911861,
+        49.81070278848793
+      ],
+      "properties": {
+        "externalId": "qniCWwOjPf",
+        "title": "黑莓丛",
+        "description": "# 黑莓丛仅在秋季开花，结出可以直接从散布在山谷各处的灌木丛中采摘的浆果。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天至第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -54.593865305768574,
+        -38.450048927638996
+      ],
+      "properties": {
+        "externalId": "IhfdOb52Qg",
+        "title": "番红花",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -9.870522695823553,
+        26.873574920310787
+      ],
+      "properties": {
+        "externalId": "5OUTl8bLw2",
+        "title": "番红花",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        71.45471246485852,
+        45.93122179552435
+      ],
+      "properties": {
+        "externalId": "AfuGMsaD8o",
+        "title": "番红花",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -38.89896629496323,
+        44.26072241901994
+      ],
+      "properties": {
+        "externalId": "IhP73XVHf6",
+        "title": "番红花",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -24.287508768266576,
+        34.11985723445602
+      ],
+      "properties": {
+        "externalId": "5A7yN3TPSw",
+        "title": "水晶果实",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -23.58933136736971,
+        34.065069914449765
+      ],
+      "properties": {
+        "externalId": "u25F9N3YbY",
+        "title": "番红花",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -20.74694248862025,
+        33.52667193167758
+      ],
+      "properties": {
+        "externalId": "L9MFjwK6uU",
+        "title": "冬青树林",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -22.90679310804535,
+        27.721954507702876
+      ],
+      "properties": {
+        "externalId": "Any4MRBXSu",
+        "title": "番红花",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -25.581929699722934,
+        29.144742753203474
+      ],
+      "properties": {
+        "externalId": "M7p3PcpgGS",
+        "title": "冬青树林",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        69.85094686079654,
+        51.33308125280783
+      ],
+      "properties": {
+        "externalId": "cKod3ZKDay",
+        "title": "番红花",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        82.66678486489712,
+        39.471141685255816
+      ],
+      "properties": {
+        "externalId": "FWWBEHLMq1",
+        "title": "番红花",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        62.08387187934599,
+        38.86429419900924
+      ],
+      "properties": {
+        "externalId": "QTU8SG12ER",
+        "title": "冬青树林",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        60.708335646609214,
+        38.93120266477561
+      ],
+      "properties": {
+        "externalId": "YtT9j5QjGH",
+        "title": "番红花",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        73.74124641760176,
+        12.816571299882781
+      ],
+      "properties": {
+        "externalId": "sjikIsTqq5",
+        "title": "番红花",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        59.57799253692937,
+        19.45991723802267
+      ],
+      "properties": {
+        "externalId": "B7tluoqPNd",
+        "title": "冬青树林",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        26.108984472293713,
+        14.757951831942506
+      ],
+      "properties": {
+        "externalId": "zCwZTji6eo",
+        "title": "番红花",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        76.37376670958338,
+        -34.41315916355224
+      ],
+      "properties": {
+        "externalId": "NLiA05obU9",
+        "title": "冬青树林",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        15.47505286232439,
+        5.328139653588835
+      ],
+      "properties": {
+        "externalId": "J9HeFdrIXh",
+        "title": "冬青树林",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -109.20634918441016,
+        -8.052348775189913
+      ],
+      "properties": {
+        "externalId": "6upJZVK8jT",
+        "title": "冬青树林",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -120.62298650911862,
+        -12.78733801653874
+      ],
+      "properties": {
+        "externalId": "JnelirngNC",
+        "title": "冬青树林",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -122.15163580408151,
+        -11.03526580748074
+      ],
+      "properties": {
+        "externalId": "UToGbPDTwD",
+        "title": "冬青树林",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -127.30536771281467,
+        -12.829926882040297
+      ],
+      "properties": {
+        "externalId": "P1e9d31sw3",
+        "title": "冬青树林",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -117.58752576626267,
+        -22.047521416194158
+      ],
+      "properties": {
+        "externalId": "6R8U4n4xW7",
+        "title": "冬青树林",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -118.91963443758775,
+        -22.431573539567793
+      ],
+      "properties": {
+        "externalId": "dZO9HfaSR4",
+        "title": "冬青树林",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -55.27472900835309,
+        -24.072647378573365
+      ],
+      "properties": {
+        "externalId": "RW3c5jTl4P",
+        "title": "水晶果实",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -60.208766060048106,
+        -31.47781566201602
+      ],
+      "properties": {
+        "externalId": "DoPfsnWgHz",
+        "title": "番红花",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -68.57045961437726,
+        -40.27960900591541
+      ],
+      "properties": {
+        "externalId": "66E1EvwI6F",
+        "title": "番红花",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -90.855215917231,
+        -50.95304170208442
+      ],
+      "properties": {
+        "externalId": "XHry4GO3uC",
+        "title": "水晶果实",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -42.39110075683294,
+        -50.61495494993852
+      ],
+      "properties": {
+        "externalId": "FHV3NBwTad",
+        "title": "番红花",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -56.796058473579635,
+        -56.66297998791321
+      ],
+      "properties": {
+        "externalId": "cpLpjd61Ft",
+        "title": "番红花",
+        "description": "# 冬季觅食在星露谷提供的物品较少但独特。你可以在雪中找到埋藏或散落的冬根、水晶果实、雪山药和番红花。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        45.3902459941128,
+        -52.89382804403032
+      ],
+      "properties": {
+        "externalId": "Tjbi4K1cgH",
+        "title": "鹦鹉螺贝壳",
+        "description": "# 注意：*标记的地点显示这些资源可能随机出现的位置。*\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        40.73593723084417,
+        -50.43491858921821
+      ],
+      "properties": {
+        "externalId": "vkuQHhcwY3",
+        "title": "鹦鹉螺贝壳",
+        "description": "# 注意：*标记的地点显示这些资源可能随机出现的位置。*\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        38.56531789730346,
+        -54.01230944569184
+      ],
+      "properties": {
+        "externalId": "HgwN57hUuw",
+        "title": "鹦鹉螺贝壳",
+        "description": "# 注意：*标记的地点显示这些资源可能随机出现的位置。*\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| ❄️冬季 | 觅食 |",
+        "subcategoryExternalId": "RmBRYKkht9",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -110.90148872997642,
+        -8.894680820149247
+      ],
+      "properties": {
+        "externalId": "pqyN94fKax",
+        "title": "",
+        "description": "# 硬木是通过砍伐大树桩和原木获得的坚固制作材料。它用于制作高级工具、建筑物和特殊制作配方。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 所有季节 | 伐木 |\n\n# 注意：*每天刷新，但仅在秘密森林中。*",
+        "subcategoryExternalId": "G7dc5zkr6s",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -121.72461871940507,
+        -9.659299107306808
+      ],
+      "properties": {
+        "externalId": "n2CM1bWela",
+        "title": "",
+        "description": "# 硬木是通过砍伐大树桩和原木获得的坚固制作材料。它用于制作高级工具、建筑物和特殊制作配方。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 所有季节 | 伐木 |\n\n# 注意：*每天刷新，但仅在秘密森林中。*",
+        "subcategoryExternalId": "G7dc5zkr6s",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -124.82364943221098,
+        -9.080194839319347
+      ],
+      "properties": {
+        "externalId": "3d2NYQtblK",
+        "title": "",
+        "description": "# 硬木是通过砍伐大树桩和原木获得的坚固制作材料。它用于制作高级工具、建筑物和特殊制作配方。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 所有季节 | 伐木 |\n\n# 注意：*每天刷新，但仅在秘密森林中。*",
+        "subcategoryExternalId": "G7dc5zkr6s",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -123.62629665680863,
+        -11.66646330893792
+      ],
+      "properties": {
+        "externalId": "l71uzXRDTk",
+        "title": "",
+        "description": "# 硬木是通过砍伐大树桩和原木获得的坚固制作材料。它用于制作高级工具、建筑物和特殊制作配方。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 所有季节 | 伐木 |\n\n# 注意：*每天刷新，但仅在秘密森林中。*",
+        "subcategoryExternalId": "G7dc5zkr6s",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -118.60211050119739,
+        -21.398172660483283
+      ],
+      "properties": {
+        "externalId": "DOQ4DhtmgR",
+        "title": "",
+        "description": "# 硬木是通过砍伐大树桩和原木获得的坚固制作材料。它用于制作高级工具、建筑物和特殊制作配方。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 所有季节 | 伐木 |\n\n# 注意：*每天刷新，但仅在秘密森林中。*",
+        "subcategoryExternalId": "G7dc5zkr6s",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -114.14138447518874,
+        -21.17941830216226
+      ],
+      "properties": {
+        "externalId": "3hwo1QYgNJ",
+        "title": "",
+        "description": "# 硬木是通过砍伐大树桩和原木获得的坚固制作材料。它用于制作高级工具、建筑物和特殊制作配方。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 所有季节 | 伐木 |\n\n# 注意：*每天刷新，但仅在秘密森林中。*",
+        "subcategoryExternalId": "G7dc5zkr6s",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -74.4910201497361,
+        -5.824995711251972
+      ],
+      "properties": {
+        "externalId": "wH7wEGDQ5P",
+        "title": "",
+        "description": "# 硬木是一种坚固的制作材料，通过砍伐大树桩和原木获得。它用于制作高级工具、建筑物和特殊制作配方。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 所有季节 | 伐木 |",
+        "subcategoryExternalId": "G7dc5zkr6s",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -71.99040612075794,
+        -2.300961009731836
+      ],
+      "properties": {
+        "externalId": "fmnm2wmnx4",
+        "title": "",
+        "description": "# 硬木是一种坚固的制作材料，通过砍伐大树桩和原木获得。它用于制作高级工具、建筑物和特殊制作配方。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 所有季节 | 伐木 |",
+        "subcategoryExternalId": "G7dc5zkr6s",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -77.48088474960103,
+        -2.5725208528408814
+      ],
+      "properties": {
+        "externalId": "sX2RgQEuuK",
+        "title": "",
+        "description": "# 硬木是一种坚固的制作材料，通过砍伐大树桩和原木获得。它用于制作高级工具、建筑物和特殊制作配方。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 所有季节 | 伐木 |",
+        "subcategoryExternalId": "G7dc5zkr6s",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -66.71737219008668,
+        0.3621153946773461
+      ],
+      "properties": {
+        "externalId": "bMrJnx4qLl",
+        "title": "",
+        "description": "# 硬木是一种坚固的制作材料，通过砍伐大树桩和原木获得。它用于制作高级工具、建筑物和特殊制作配方。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 所有季节 | 伐木 |",
+        "subcategoryExternalId": "G7dc5zkr6s",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -73.83868605522002,
+        6.166822281481316
+      ],
+      "properties": {
+        "externalId": "Dg0sEGlyxq",
+        "title": "",
+        "description": "# 硬木是一种坚固的制作材料，通过砍伐大树桩和原木获得。它用于制作高级工具、建筑物和特殊制作配方。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 所有季节 | 伐木 |",
+        "subcategoryExternalId": "G7dc5zkr6s",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -77.10035652779989,
+        1.9925512847968605
+      ],
+      "properties": {
+        "externalId": "qjZJaWskVn",
+        "title": "",
+        "description": "# 硬木是一种坚固的制作材料，通过砍伐大树桩和原木获得。它用于制作高级工具、建筑物和特殊制作配方。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 所有季节 | 伐木 |",
+        "subcategoryExternalId": "G7dc5zkr6s",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        12.030451787315911,
+        -27.115378677111806
+      ],
+      "properties": {
+        "externalId": "OOoT8bSRF8",
+        "title": "乔迪的家",
+        "description": "# 乔迪的房子位于鹈鹕镇，是*乔迪*、*萨姆*、*肯特*和*文森特*的家。这是一个温馨的家庭住宅，经常充满温暖和欢声笑语。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1531027,
+        "imagePath": "/game_map_pin/1531027/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        20.528031971217956,
+        -28.145571738676523
+      ],
+      "properties": {
+        "externalId": "NAEoeEOdjI",
+        "title": "艾米丽的房子",
+        "description": "# Emily的房子位于鹈鹕镇西南部，她与妹妹*Haley*住在一起。这里以其充满活力的室内装饰而闻名，体现了Emily多彩而富有创造力的个性。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1531028,
+        "imagePath": "/game_map_pin/1531028/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        27.876699378535903,
+        -33.67751235120479
+      ],
+      "properties": {
+        "externalId": "JzD60PMeQL",
+        "title": "下水道",
+        "description": "# 下水道可以在向博物馆捐赠一定数量的物品后解锁。一旦你贡献了足够的物品，*冈瑟*将奖励你生锈钥匙，让你可以进入玛妮牧场附近或鹈鹕镇的下水道入口。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1545564,
+        "imagePath": "/game_map_pin/1545564/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        43.349101197384044,
+        -25.65284993630395
+      ],
+      "properties": {
+        "externalId": "odqVtjvCWe",
+        "title": "刘易斯的房子",
+        "description": "# 路易斯的房子位于鹈鹕镇的中心，是镇长的住所。房子保养得很好，体现了他管理镇务的职责。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1531029,
+        "imagePath": "/game_map_pin/1531029/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        33.46732136304516,
+        -18.216343733382757
+      ],
+      "properties": {
+        "externalId": "FfYtqxjVhW",
+        "title": "星之果酒馆",
+        "description": "# 星之果沙龙是鹈鹕镇一个热闹的聚会场所，当地人在这里放松、用餐和享用饮品。它由*格斯*经营，经常举办活动和小游戏。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1531062,
+        "imagePath": "/game_map_pin/1531062/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        39.11405269695402,
+        -17.296480682764965
+      ],
+      "properties": {
+        "externalId": "ZsR51LB0rf",
+        "title": "达斯蒂",
+        "description": "# 达斯提是一只友好的狗，住在星之果沙龙旁边的围栏区域。虽然一开始很害羞，但他是一个忠诚的伙伴，随着你逐渐了解他，他会变得亲近起来",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        52.72938845758412,
+        -16.93399203064709
+      ],
+      "properties": {
+        "externalId": "cmG8ZXrT29",
+        "title": "帕姆的房子",
+        "description": "# 帕姆的房子是一个位于鹈鹕镇河边的小拖车屋。这里是帕姆和她的女儿*佩妮*居住的地方，帕姆经常在驾驶镇上巴士的间隙在这里休息。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1531031,
+        "imagePath": "/game_map_pin/1531031/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        42.45751203939852,
+        -13.356254789130432
+      ],
+      "properties": {
+        "externalId": "A9xa70kjrR",
+        "title": "一河路",
+        "description": "# 一号河路是帕姆和佩妮升级后的家，在资助了帕姆的房屋升级后建造。这是一个舒适的永久住所，取代了她们的旧拖车。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1531030,
+        "imagePath": "/game_map_pin/1531030/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        28.244931473479056,
+        -8.903088801106023
+      ],
+      "properties": {
+        "externalId": "Qu9pC5Mb32",
+        "title": "鹈鹕镇医院",
+        "description": "# 鹈鹕镇诊所，由*哈维*经营，为镇民提供医疗服务。玩家可以前往进行健康检查，或在因疲劳或受伤而昏倒后前往恢复。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1531034,
+        "imagePath": "/game_map_pin/1531034/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        33.54531119967808,
+        -9.081562620858449
+      ],
+      "properties": {
+        "externalId": "N3ZsZLT3py",
+        "title": "皮埃尔杂货店",
+        "description": "# 皮埃尔杂货店是鹈鹕镇的主要商店，您可以在这里购买种子、树苗和农业用品。它由皮埃尔经营，同时也是镇上的社区中心。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1531038,
+        "imagePath": "/game_map_pin/1531038/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        39.07751108223553,
+        15.705706752187098
+      ],
+      "properties": {
+        "externalId": "k67hwukhTg",
+        "title": "社区中心",
+        "description": "# 社区中心是鹈鹕镇的一座老建筑，可以通过完成收集包来修复。复兴它能让镇民团结在一起，并解锁新的奖励和功能。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1531118,
+        "imagePath": "/game_map_pin/1531118/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        65.19303556803192,
+        -24.373606709817366
+      ],
+      "properties": {
+        "externalId": "35pYKtQngF",
+        "title": "铁匠铺",
+        "description": "# 铁匠铺由*克林特*经营，位于小镇东部靠近河边的地方。在这里，你可以升级工具、处理晶球，以及购买矿石或煤炭。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1531047,
+        "imagePath": "/game_map_pin/1531047/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        72.0285524459203,
+        -28.301073467287658
+      ],
+      "properties": {
+        "externalId": "3v54tqtwGy",
+        "title": "博物馆",
+        "description": "# 博物馆由*冈瑟*管理，您可以在这里捐赠在山谷周围发现的文物和矿物。填满收藏可以获得奖励并帮助恢复展品。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1531052,
+        "imagePath": "/game_map_pin/1531052/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        70.69116870894283,
+        -35.725792929080896
+      ],
+      "properties": {
+        "externalId": "9Db2OaUp68",
+        "title": "社区花园",
+        "description": "# 社区花园是鹈鹕镇的一块小型共享菜地，居民们在这里一起种植时令作物。它象征着团队合作和小镇紧密团结的精神。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        65.80570128265347,
+        -5.702312317829708
+      ],
+      "properties": {
+        "externalId": "4BKWpQMckp",
+        "title": "鹈鹕镇电影中心",
+        "description": "# 鹈鹕镇电影院是一个现代化的场所，玩家可以在这里观看电影并邀请村民一起度过愉快的时光。如果社区中心得到修复，它将取代*Joja超市*建筑。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1541500,
+        "imagePath": "/game_map_pin/1541500/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        67.64490575249243,
+        -5.372397617439034
+      ],
+      "properties": {
+        "externalId": "11Qz909CHd",
+        "title": "Joja超市",
+        "description": "# JojaMart是一家位于鹈鹕镇郊区的大型超市，由*Joja公司*经营。它提供便利的购物服务，但代表着相对于本地商店更加企业化的选择。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1531043,
+        "imagePath": "/game_map_pin/1531043/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        68.90881788016719,
+        -5.7168468580246525
+      ],
+      "properties": {
+        "externalId": "M5HsVCIhtc",
+        "title": "废弃的Joja超市",
+        "description": "# 废弃的Joja超市是Joja公司离开小镇后留下的破败建筑。它后来对解锁特殊的游戏后期事件和秘密变得重要。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1533619,
+        "imagePath": "/game_map_pin/1533619/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        56.96938985174057,
+        -50.19947876558894
+      ],
+      "properties": {
+        "externalId": "bthjigbh73",
+        "title": "艾利欧特的房子",
+        "description": "# 艾利欧特的房子是一间位于海滩上的小木屋，就在威利商店的东北方。这是一个舒适的地方，摆满了书籍和写作材料，体现了他对文学的热爱。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1532164,
+        "imagePath": "/game_map_pin/1532164/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        46.0767781907567,
+        -58.32809982918423
+      ],
+      "properties": {
+        "externalId": "kTLNcHh2Y9",
+        "title": "鱼店",
+        "description": "# 鱼店，由威利在海滩码头经营，销售钓鱼装备并收购你每日的渔获。在店内，你还会发现威利的船，游戏后期可以修理这艘船前往姜岛开启新的冒险。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1531094,
+        "imagePath": "/game_map_pin/1531094/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -34.60329202583907,
+        -29.546161828874247
+      ],
+      "properties": {
+        "externalId": "vUDBKHxcWP",
+        "title": "莉亚的小屋",
+        "description": "# 莉亚小屋是一个小巧的、充满艺术气息的家，位于玛妮牧场南边的森林里。它体现了她对自然、创意和简单生活的热爱。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1531071,
+        "imagePath": "/game_map_pin/1531071/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -37.73944444948452,
+        -49.13779908425394
+      ],
+      "properties": {
+        "externalId": "3RafAdyPJI",
+        "title": "精通洞穴",
+        "description": "# 精通洞穴是一个隐藏区域，在所有技能达到完全精通后解锁。在这里，玩家可以获得强大的奖励，展示他们的奉献精神和进步。\n\n| 等级 | 所需精通点数 | 所需总精通点数 |\n| :-----------: | :-----------: | :-----------: |\n| ⭐ | 10,000 | 10,000 |\n| ⭐⭐ | 15,000| 25,000 |\n| ⭐⭐⭐ | 20,000 | 45,000 |\n| ⭐⭐⭐⭐ | 25,000 | 70,000 |\n| ⭐⭐⭐⭐⭐ | 30,000 | 100,000 |\n\n# 注意：玩家可以通过提升技能等级和进行相关活动（如农业、钓鱼、采矿、觅食和战斗）来获得精通点数。随着他们在各个领域获得经验，总精通度会增加，最终解锁新的特权和奖励。*精通点数只有在玩家所有技能都达到10级后才能开始积累。*",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1539845,
+        "imagePath": "/game_map_pin/1539845/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -41.39758662831693,
+        -58.8874469244217
+      ],
+      "properties": {
+        "externalId": "Xr1qnIEQa2",
+        "title": "下水道出口",
+        "description": "# 下水道出口连接着地下隧道和鹈鹕镇南部的森林区域。它提供了在探索下水道后快速到达外面的途径。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -98.49135205721743,
+        -22.759817961294004
+      ],
+      "properties": {
+        "externalId": "uCeECLekoU",
+        "title": "法师塔",
+        "description": "# 法师塔位于西南森林中，是神秘法师*拉斯莫迪乌斯*的家。在这里，玩家可以了解魔法元素、药水和山谷的秘密。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1531111,
+        "imagePath": "/game_map_pin/1531111/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -66.12100177190347,
+        22.85891866692137
+      ],
+      "properties": {
+        "externalId": "gxc5YPUcHg",
+        "title": "温室",
+        "description": "",
+        "subcategoryExternalId": "O2b9fFLJs4",
+        "imageId": 1531116,
+        "imagePath": "/game_map_pin/1531116/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -62.26407699578394,
+        27.23182663674001
+      ],
+      "properties": {
+        "externalId": "ATTAOEME0w",
+        "title": "农场洞穴",
+        "description": "# 农场洞穴是玩家农场中的一个特殊区域，在与法师达到一定好友等级后解锁。在洞穴内，玩家可以选择拥有掉落季节性水果的果蝠，或者随时间生长便于收获的蘑菇。",
+        "subcategoryExternalId": "O2b9fFLJs4",
+        "imageId": 1531076,
+        "imagePath": "/game_map_pin/1531076/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -136.58975302487056,
+        25.091207118011326
+      ],
+      "properties": {
+        "externalId": "WufIPrscDR",
+        "title": "桑迪的商店",
+        "description": "# 桑迪的商店，也被称为绿洲，位于卡利科沙漠，由桑迪经营。它提供鹈鹕镇找不到的独特种子、物品和饮品。在通过社区中心或Joja路线修复巴士后，可以进入该商店。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1532133,
+        "imagePath": "/game_map_pin/1532133/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -114.89488264741446,
+        37.502854482433165
+      ],
+      "properties": {
+        "externalId": "ZEuvaI4KcN",
+        "title": "沙漠商人",
+        "description": "# 沙漠商人是在卡利科沙漠中发现的神秘商人。交易不使用金币，而是使用特定物品进行，以换取稀有货物和独特材料。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1532136,
+        "imagePath": "/game_map_pin/1532136/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        54.95603341987797,
+        44.76013441356287
+      ],
+      "properties": {
+        "externalId": "DccQZIrNia",
+        "title": "木匠铺",
+        "description": "# 木匠铺由*罗宾*经营，位于鹈鹕镇北部的山区。它提供房屋升级、农场建筑和制作材料，同时也是罗宾、德米特里厄斯、玛鲁和塞巴斯蒂安的家。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1531086,
+        "imagePath": "/game_map_pin/1531086/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -67.33327606586973,
+        -14.190177476728934
+      ],
+      "properties": {
+        "externalId": "HTk3oIvAdC",
+        "title": "巨树桩",
+        "description": "# 巨大树桩是森林深处的一个大型地标，也是友好浣熊家族的家园。它们会在达到觅食精通里程碑后出现，提供特殊的清理任务和独特奖励。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1541347,
+        "imagePath": "/game_map_pin/1541347/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        65.68997089949869,
+        51.92350612452003
+      ],
+      "properties": {
+        "externalId": "OTlCKEbS1F",
+        "title": "莱纳斯的帐篷",
+        "description": "# 莱纳斯的帐篷位于鹈鹕镇北部的山区，靠近湖边。这里是莱纳斯过着简朴、自给自足生活的地方，他喜欢亲近自然。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1531087,
+        "imagePath": "/game_map_pin/1531087/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        77.37502314121144,
+        50.898784389636376
+      ],
+      "properties": {
+        "externalId": "XN4U7Mm3hn",
+        "title": "铜锅",
+        "description": "# 玩家能够获得第一个铜制淘金盘的区域。",
+        "subcategoryExternalId": "O2b9fFLJs4",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        81.89941255560666,
+        52.74634560960234
+      ],
+      "properties": {
+        "externalId": "ZwkKYsFK3Y",
+        "title": "矿井入口",
+        "description": "# 矿井位于鹈鹕镇东北部的山区，共有120层，充满了矿石、宝石和怪物。到达最终层会奖励玩家珍贵的宝藏，并解锁卡利科沙漠中骷髅洞穴的通道。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1531129,
+        "imagePath": "/game_map_pin/1531129/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        96.33185386886726,
+        51.630395460964195
+      ],
+      "properties": {
+        "externalId": "FwB4Gjwb99",
+        "title": "冒险者公会",
+        "description": "# 冒险者公会位于矿井以东，由*马龙*和*吉尔*经营。这里是玩家在游戏早期解锁后可以购买武器、装备和领取杀怪奖励的地方。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1532071,
+        "imagePath": "/game_map_pin/1532071/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        114.27310889332551,
+        46.725499645514276
+      ],
+      "properties": {
+        "externalId": "hXpBkFnX7Y",
+        "title": "黄金镰刀位置",
+        "description": "# 黄金镰刀洞穴，也被称为采石场矿井，位于采石场附近桥梁的北侧。在里面，玩家可以与敌人战斗并找到黄金镰刀，这是一个效率更高的强力工具升级。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1532076,
+        "imagePath": "/game_map_pin/1532076/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        22.50323472682365,
+        -17.208272711511455
+      ],
+      "properties": {
+        "externalId": "ULCOZ5FB1z",
+        "title": "幽灵节",
+        "description": "# 幽灵节是鹈鹕镇在🍂秋季27日举办的秋季节日。节日包含闹鬼迷宫、糖果和与村民们的趣味活动。",
+        "subcategoryExternalId": "mRB6vPCpPG",
+        "imageId": 1541554,
+        "imagePath": "/game_map_pin/1541554/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        23.56636841204707,
+        -17.254485240051082
+      ],
+      "properties": {
+        "externalId": "Fzh9fgR082",
+        "title": "星露谷集市",
+        "description": "# 星露谷集市是在🍂秋季16日在城镇广场举行的秋季节庆。玩家可以玩游戏、参加比赛，展示农作物和手工制品来获得奖品和代币。",
+        "subcategoryExternalId": "mRB6vPCpPG",
+        "imageId": 1541546,
+        "imagePath": "/game_map_pin/1541546/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        24.467805693281974,
+        -17.176518662375116
+      ],
+      "properties": {
+        "externalId": "wN3pi7Oeee",
+        "title": "蛋蛋节",
+        "description": "# 复活节彩蛋节是在鹈鹕镇举办的春季活动，时间为🌱春季第13天。玩家可以与村民一起参加有趣的寻蛋比赛，找到隐藏的彩蛋就能赢得奖品。",
+        "subcategoryExternalId": "mRB6vPCpPG",
+        "imageId": 1532159,
+        "imagePath": "/game_map_pin/1532159/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        25.290244777513067,
+        -17.402193882289254
+      ],
+      "properties": {
+        "externalId": "2d69dLJM4x",
+        "title": "冬日星辰节",
+        "description": "# 冬日星辰节是在鹈鹕镇举行的冬季节日，时间为❄️冬季25日。这是一个关于给予的庆典，玩家可以与村民交换礼物，一起享受节日活动。",
+        "subcategoryExternalId": "mRB6vPCpPG",
+        "imageId": 1542780,
+        "imagePath": "/game_map_pin/1542780/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -54.64659885377783,
+        -26.307235357645474
+      ],
+      "properties": {
+        "externalId": "stIuWipNQ3",
+        "title": "冰雪节",
+        "description": "# 冰雪节是在鹈鹕镇镇广场举行的冬季活动，时间是❄️冬季第8天。玩家可以享受滑冰、参加比赛，并与村民们一起玩乐。",
+        "subcategoryExternalId": "mRB6vPCpPG",
+        "imageId": 1542765,
+        "imagePath": "/game_map_pin/1542765/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -54.184427303222634,
+        -39.023688768244014
+      ],
+      "properties": {
+        "externalId": "g91m3P6LKy",
+        "title": "鳟鱼德比",
+        "description": "# 鳟鱼节是一个为期两天的夏季节日，在☀️夏季第20天和第21天举行，地点在煤渣森林靠近玛妮牧场的河边。活动从清晨持续到深夜，玩家通过钓彩虹鳟鱼来竞赛，彩虹鳟鱼在节日期间的任何时间和任何天气下都可以钓到。",
+        "subcategoryExternalId": "mRB6vPCpPG",
+        "imageId": 1541436,
+        "imagePath": "/game_map_pin/1541436/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -129.48576112231933,
+        -55.8716521962063
+      ],
+      "properties": {
+        "externalId": "aLB9IOxpwb",
+        "title": "花卉节",
+        "description": "# 花卉节是在鹈鹕镇举行的春季活动，时间为🌱春季24日。村民们聚集在一起展示他们最喜爱的花朵，玩家可以参加友好的插花比赛来赢取奖品。",
+        "subcategoryExternalId": "mRB6vPCpPG",
+        "imageId": 1533623,
+        "imagePath": "/game_map_pin/1533623/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        76.33173998036841,
+        10.575517268417798
+      ],
+      "properties": {
+        "externalId": "TOlfeAQGa6",
+        "title": "书商",
+        "description": "# 书商，在某些版本中被称为玛妮的流动书贩，会在鹈鹕镇的节日和特殊活动中出现。他们出售稀有和独特的书籍，玩家可以将其添加到收藏中或用于赠礼。",
+        "subcategoryExternalId": "mRB6vPCpPG",
+        "imageId": 1533617,
+        "imagePath": "/game_map_pin/1533617/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        52.60910788367369,
+        -53.0841588455203
+      ],
+      "properties": {
+        "externalId": "2uSj9Kt9cm",
+        "title": "夏威夷宴会节",
+        "description": "# Luau是在夏季11日☀️在鹈鹕镇海滩举行的夏季节日。村民们聚集在一起为公共汤品贡献食材，你贡献的食材质量会影响节日的结果和奖励。",
+        "subcategoryExternalId": "mRB6vPCpPG",
+        "imageId": 1533627,
+        "imagePath": "/game_map_pin/1533627/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        46.7466858123864,
+        -53.74464486469085
+      ],
+      "properties": {
+        "externalId": "BDJ6uw09kg",
+        "title": "鱿鱼节",
+        "description": "# 鱿鱼节是一个为期两天的冬季活动，在❄️冬季12日和13日于鹈鹕镇海滩举行。在节日期间，玩家参加投掷鱿鱼比赛，瞄准目标以赢取奖品。",
+        "subcategoryExternalId": "mRB6vPCpPG",
+        "imageId": 1542771,
+        "imagePath": "/game_map_pin/1542771/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        36.777764717916284,
+        -59.49117658552136
+      ],
+      "properties": {
+        "externalId": "hq8DK1yKG7",
+        "title": "月光水母之舞",
+        "description": "# 月光水母之舞是在夏季第28天在鹈鹕镇海滩举行的夏季节日。村民们聚集在一起观看发光的水母沿着海岸迁徙，创造出一个神奇的夜晚景象。",
+        "subcategoryExternalId": "mRB6vPCpPG",
+        "imageId": 1533630,
+        "imagePath": "/game_map_pin/1533630/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -116.54975874275627,
+        39.382078659785236
+      ],
+      "properties": {
+        "externalId": "kFYhCmbXkW",
+        "title": "沙漠节（3天）",
+        "description": "# 沙漠节是在卡利科沙漠于☀️夏季7日举行的特殊活动。村民们聚集在一起，通过游戏、音乐和独特的沙漠主题活动来庆祝。",
+        "subcategoryExternalId": "mRB6vPCpPG",
+        "imageId": 1533614,
+        "imagePath": "/game_map_pin/1533614/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -136.78793019100752,
+        -14.717234390984771
+      ],
+      "properties": {
+        "externalId": "IAt6xkMcmX",
+        "title": "绿色史莱姆",
+        "description": "# 史莱姆是在星露谷物语的洞穴和森林中发现的胶状生物。它们的颜色和大小各不相同，被击败时会掉落有用的物品，并为冒险者提供早期的战斗经验。",
+        "subcategoryExternalId": "y2Uhzm9hZG",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -136.41229010460683,
+        -22.432398849556236
+      ],
+      "properties": {
+        "externalId": "qju1IxDY3y",
+        "title": "绿色史莱姆",
+        "description": "# 史莱姆是在星露谷物语的洞穴和森林中发现的胶状生物。它们的颜色和大小各不相同，被击败时会掉落有用的物品，并为冒险者提供早期的战斗经验。",
+        "subcategoryExternalId": "y2Uhzm9hZG",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -129.08730841979272,
+        -21.21190043132418
+      ],
+      "properties": {
+        "externalId": "Cvfb7MUkku",
+        "title": "",
+        "description": "# 史莱姆是在星露谷物语的洞穴和森林中发现的胶状生物。它们的颜色和大小各不相同，被击败时会掉落有用的物品，并为冒险者提供早期的战斗经验。",
+        "subcategoryExternalId": "y2Uhzm9hZG",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -124.32137482358338,
+        -10.618017948141173
+      ],
+      "properties": {
+        "externalId": "FtguvQITtP",
+        "title": "绿色史莱姆",
+        "description": "# 史莱姆是在星露谷物语的洞穴和森林中发现的胶状生物。它们的颜色和大小各不相同，被击败时会掉落有用的物品，并为冒险者提供早期的战斗经验。",
+        "subcategoryExternalId": "y2Uhzm9hZG",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -121.17538909997731,
+        -10.917851045764294
+      ],
+      "properties": {
+        "externalId": "bJeFpTiish",
+        "title": "绿色史莱姆",
+        "description": "# 史莱姆是在星露谷物语的洞穴和森林中发现的胶状生物。它们的颜色和大小各不相同，被击败时会掉落有用的物品，并为冒险者提供早期的战斗经验。",
+        "subcategoryExternalId": "y2Uhzm9hZG",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -114.39039003937226,
+        -13.442020392324878
+      ],
+      "properties": {
+        "externalId": "Md37XicSum",
+        "title": "绿色史莱姆",
+        "description": "# 史莱姆是在星露谷物语的洞穴和森林中发现的胶状生物。它们的颜色和大小各不相同，被击败时会掉落有用的物品，并为冒险者提供早期的战斗经验。",
+        "subcategoryExternalId": "y2Uhzm9hZG",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -109.06099631355676,
+        -21.21190043131989
+      ],
+      "properties": {
+        "externalId": "PsCluHy09l",
+        "title": "绿色史莱姆",
+        "description": "# 史莱姆是在星露谷物语的洞穴和森林中发现的胶状生物。它们的颜色和大小各不相同，被击败时会掉落有用的物品，并为冒险者提供早期的战斗经验。",
+        "subcategoryExternalId": "y2Uhzm9hZG",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        6.30975843498527,
+        -32.18594733169175
+      ],
+      "properties": {
+        "externalId": "jZzIE1CKVw",
+        "title": "",
+        "description": "# 在星露谷物语的复活节彩蛋节期间，五彩斑斓的彩蛋被藏在镇广场的各个角落等待玩家寻找。按正确顺序收集彩蛋或收集最多彩蛋的玩家将获得奖品，并在村民中赢得吹嘘的资本。",
+        "subcategoryExternalId": "2ap3hkjMJC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        17.25990554470974,
+        -30.237614825610656
+      ],
+      "properties": {
+        "externalId": "JAREXQhSvx",
+        "title": "",
+        "description": "# 在星露谷物语的复活节彩蛋节期间，五彩斑斓的彩蛋被藏在镇广场的各个角落等待玩家寻找。按正确顺序收集彩蛋或收集最多彩蛋的玩家将获得奖品，并在村民中赢得吹嘘的资本。",
+        "subcategoryExternalId": "2ap3hkjMJC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        29.57026002846834,
+        -34.897026622315444
+      ],
+      "properties": {
+        "externalId": "MdPkxmp1OM",
+        "title": "",
+        "description": "# 在星露谷物语的复活节彩蛋节期间，五彩斑斓的彩蛋被藏在镇广场的各个角落等待玩家寻找。按正确顺序收集彩蛋或收集最多彩蛋的玩家将获得奖品，并在村民中赢得吹嘘的资本。",
+        "subcategoryExternalId": "2ap3hkjMJC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        34.7681965971787,
+        -37.24744732398345
+      ],
+      "properties": {
+        "externalId": "HvxTa9kALr",
+        "title": "",
+        "description": "# 在星露谷物语的复活节彩蛋节期间，五彩斑斓的彩蛋被藏在镇广场的各个角落等待玩家寻找。按正确顺序收集彩蛋或收集最多彩蛋的玩家将获得奖品，并在村民中赢得吹嘘的资本。",
+        "subcategoryExternalId": "2ap3hkjMJC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        40.477419881324295,
+        -40.037864435620264
+      ],
+      "properties": {
+        "externalId": "S9LSlTQIbb",
+        "title": "",
+        "description": "# 在星露谷物语的复活节彩蛋节期间，五彩斑斓的彩蛋被藏在镇广场的各个角落等待玩家寻找。按正确顺序收集彩蛋或收集最多彩蛋的玩家将获得奖品，并在村民中赢得吹嘘的资本。",
+        "subcategoryExternalId": "2ap3hkjMJC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        49.967781267460964,
+        -34.295389302017824
+      ],
+      "properties": {
+        "externalId": "8NurDD2OEI",
+        "title": "",
+        "description": "# 在星露谷物语的复活节彩蛋节期间，五彩斑斓的彩蛋被藏在镇广场的各个角落等待玩家寻找。按正确顺序收集彩蛋或收集最多彩蛋的玩家将获得奖品，并在村民中赢得吹嘘的资本。",
+        "subcategoryExternalId": "2ap3hkjMJC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        53.68895949898422,
+        -32.751784127839464
+      ],
+      "properties": {
+        "externalId": "nKWjh4BXoJ",
+        "title": "",
+        "description": "# 在星露谷物语的复活节彩蛋节期间，五彩斑斓的彩蛋被藏在镇广场的各个角落等待玩家寻找。按正确顺序收集彩蛋或收集最多彩蛋的玩家将获得奖品，并在村民中赢得吹嘘的资本。",
+        "subcategoryExternalId": "2ap3hkjMJC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        46.505654371224665,
+        -30.77009629664785
+      ],
+      "properties": {
+        "externalId": "hvlqngZtnp",
+        "title": "",
+        "description": "# 在星露谷物语的复活节彩蛋节期间，五彩斑斓的彩蛋被藏在镇广场的各个角落等待玩家寻找。按正确顺序收集彩蛋或收集最多彩蛋的玩家将获得奖品，并在村民中赢得吹嘘的资本。",
+        "subcategoryExternalId": "2ap3hkjMJC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        38.67280242461709,
+        -31.846559289606667
+      ],
+      "properties": {
+        "externalId": "eNsVB6D57Y",
+        "title": "",
+        "description": "# 在星露谷物语的复活节彩蛋节期间，五彩斑斓的彩蛋被藏在镇广场的各个角落等待玩家寻找。按正确顺序收集彩蛋或收集最多彩蛋的玩家将获得奖品，并在村民中赢得吹嘘的资本。",
+        "subcategoryExternalId": "2ap3hkjMJC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        36.015501236499006,
+        -28.471318107698423
+      ],
+      "properties": {
+        "externalId": "OfB3HtRvvh",
+        "title": "",
+        "description": "# 在星露谷物语的复活节彩蛋节期间，五彩斑斓的彩蛋被藏在镇广场的各个角落等待玩家寻找。按正确顺序收集彩蛋或收集最多彩蛋的玩家将获得奖品，并在村民中赢得吹嘘的资本。",
+        "subcategoryExternalId": "2ap3hkjMJC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        30.112566393377506,
+        -28.869595002367568
+      ],
+      "properties": {
+        "externalId": "fh4PjnFIDV",
+        "title": "",
+        "description": "# 在星露谷物语的复活节彩蛋节期间，五彩斑斓的彩蛋被藏在镇广场的各个角落等待玩家寻找。按正确顺序收集彩蛋或收集最多彩蛋的玩家将获得奖品，并在村民中赢得吹嘘的资本。",
+        "subcategoryExternalId": "2ap3hkjMJC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        15.741447722928427,
+        -22.67174016336591
+      ],
+      "properties": {
+        "externalId": "oEaTHXEqoX",
+        "title": "",
+        "description": "# 在星露谷物语的复活节彩蛋节期间，五彩斑斓的彩蛋被藏在镇广场的各个角落等待玩家寻找。按正确顺序收集彩蛋或收集最多彩蛋的玩家将获得奖品，并在村民中赢得吹嘘的资本。",
+        "subcategoryExternalId": "2ap3hkjMJC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        9.50492452632352,
+        -23.817771607696756
+      ],
+      "properties": {
+        "externalId": "rJ6iDBts9T",
+        "title": "",
+        "description": "# 在星露谷物语的复活节彩蛋节期间，五彩斑斓的彩蛋被藏在镇广场的各个角落等待玩家寻找。按正确顺序收集彩蛋或收集最多彩蛋的玩家将获得奖品，并在村民中赢得吹嘘的资本。",
+        "subcategoryExternalId": "2ap3hkjMJC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        15.502132835253462,
+        -17.09063552800741
+      ],
+      "properties": {
+        "externalId": "mzDNe1cRS0",
+        "title": "",
+        "description": "# 在星露谷物语的复活节彩蛋节期间，五彩斑斓的彩蛋被藏在镇广场的各个角落等待玩家寻找。按正确顺序收集彩蛋或收集最多彩蛋的玩家将获得奖品，并在村民中赢得吹嘘的资本。",
+        "subcategoryExternalId": "2ap3hkjMJC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        8.695963414111816,
+        -13.020125243006078
+      ],
+      "properties": {
+        "externalId": "3Dh4AieVpJ",
+        "title": "",
+        "description": "# 在星露谷物语的复活节彩蛋节期间，五彩斑斓的彩蛋被藏在镇广场的各个角落等待玩家寻找。按正确顺序收集彩蛋或收集最多彩蛋的玩家将获得奖品，并在村民中赢得吹嘘的资本。",
+        "subcategoryExternalId": "2ap3hkjMJC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        18.21255428615143,
+        -12.31494428555186
+      ],
+      "properties": {
+        "externalId": "OCD83Ia22v",
+        "title": "",
+        "description": "# 在星露谷物语的复活节彩蛋节期间，五彩斑斓的彩蛋被藏在镇广场的各个角落等待玩家寻找。按正确顺序收集彩蛋或收集最多彩蛋的玩家将获得奖品，并在村民中赢得吹嘘的资本。",
+        "subcategoryExternalId": "2ap3hkjMJC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        26.102892287651514,
+        -9.713813192984318
+      ],
+      "properties": {
+        "externalId": "dCzZu4hzaJ",
+        "title": "",
+        "description": "# 在星露谷物语的复活节彩蛋节期间，五彩斑斓的彩蛋被藏在镇广场的各个角落等待玩家寻找。按正确顺序收集彩蛋或收集最多彩蛋的玩家将获得奖品，并在村民中赢得吹嘘的资本。",
+        "subcategoryExternalId": "2ap3hkjMJC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        24.115249890327448,
+        -5.955342379400221
+      ],
+      "properties": {
+        "externalId": "qonkv7zX53",
+        "title": "",
+        "description": "# 在星露谷物语的复活节彩蛋节期间，五彩斑斓的彩蛋被藏在镇广场的各个角落等待玩家寻找。按正确顺序收集彩蛋或收集最多彩蛋的玩家将获得奖品，并在村民中赢得吹嘘的资本。",
+        "subcategoryExternalId": "2ap3hkjMJC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        20.501354622463964,
+        -6.015245623456437
+      ],
+      "properties": {
+        "externalId": "d2OmLsOrd7",
+        "title": "",
+        "description": "# 在星露谷物语的复活节彩蛋节期间，五彩斑斓的彩蛋被藏在镇广场的各个角落等待玩家寻找。按正确顺序收集彩蛋或收集最多彩蛋的玩家将获得奖品，并在村民中赢得吹嘘的资本。",
+        "subcategoryExternalId": "2ap3hkjMJC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        33.69207235015929,
+        -22.36112696213098
+      ],
+      "properties": {
+        "externalId": "YZOSFaXe6t",
+        "title": "",
+        "description": "# 在星露谷物语的复活节彩蛋节期间，五彩斑斓的彩蛋被藏在镇广场的各个角落等待玩家寻找。按正确顺序收集彩蛋或收集最多彩蛋的玩家将获得奖品，并在村民中赢得吹嘘的资本。",
+        "subcategoryExternalId": "2ap3hkjMJC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        41.22102082485662,
+        -22.58375801777828
+      ],
+      "properties": {
+        "externalId": "OCvK0n0x8U",
+        "title": "",
+        "description": "# 在星露谷物语的复活节彩蛋节期间，五彩斑斓的彩蛋被藏在镇广场的各个角落等待玩家寻找。按正确顺序收集彩蛋或收集最多彩蛋的玩家将获得奖品，并在村民中赢得吹嘘的资本。",
+        "subcategoryExternalId": "2ap3hkjMJC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        48.32834818498674,
+        -25.389892594750776
+      ],
+      "properties": {
+        "externalId": "DQxzUpPSJl",
+        "title": "",
+        "description": "# 在星露谷物语的复活节彩蛋节期间，五彩斑斓的彩蛋被藏在镇广场的各个角落等待玩家寻找。按正确顺序收集彩蛋或收集最多彩蛋的玩家将获得奖品，并在村民中赢得吹嘘的资本。",
+        "subcategoryExternalId": "2ap3hkjMJC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        56.27891777432956,
+        -17.952182511409987
+      ],
+      "properties": {
+        "externalId": "Xfn0bpzNyc",
+        "title": "",
+        "description": "# 在星露谷物语的复活节彩蛋节期间，五彩斑斓的彩蛋被藏在镇广场的各个角落等待玩家寻找。按正确顺序收集彩蛋或收集最多彩蛋的玩家将获得奖品，并在村民中赢得吹嘘的资本。",
+        "subcategoryExternalId": "2ap3hkjMJC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        45.678158321930255,
+        -11.607863509529054
+      ],
+      "properties": {
+        "externalId": "aM645q1Yct",
+        "title": "",
+        "description": "# 在星露谷物语的复活节彩蛋节期间，五彩斑斓的彩蛋被藏在镇广场的各个角落等待玩家寻找。按正确顺序收集彩蛋或收集最多彩蛋的玩家将获得奖品，并在村民中赢得吹嘘的资本。",
+        "subcategoryExternalId": "2ap3hkjMJC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        39.233378427574394,
+        -13.957236170362137
+      ],
+      "properties": {
+        "externalId": "QmqFSN5i0O",
+        "title": "",
+        "description": "# 在星露谷物语的复活节彩蛋节期间，五彩斑斓的彩蛋被藏在镇广场的各个角落等待玩家寻找。按正确顺序收集彩蛋或收集最多彩蛋的玩家将获得奖品，并在村民中赢得吹嘘的资本。",
+        "subcategoryExternalId": "2ap3hkjMJC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        41.58241035168538,
+        -7.331333220345897
+      ],
+      "properties": {
+        "externalId": "yJ7EU0emBp",
+        "title": "",
+        "description": "# 在星露谷物语的复活节彩蛋节期间，五彩斑斓的彩蛋被藏在镇广场的各个角落等待玩家寻找。按正确顺序收集彩蛋或收集最多彩蛋的玩家将获得奖品，并在村民中赢得吹嘘的资本。",
+        "subcategoryExternalId": "2ap3hkjMJC",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        13.90009333969536,
+        -28.921582489425717
+      ],
+      "properties": {
+        "externalId": "IagCjSovcJ",
+        "title": "垃圾桶",
+        "description": "# 星露谷物语中的垃圾桶是玩家可以丢弃不需要物品的地方。偶尔，它也可能包含一些有用的或随机的物品可供收集。",
+        "subcategoryExternalId": "O2b9fFLJs4",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        17.94306208969556,
+        -30.54329094373265
+      ],
+      "properties": {
+        "externalId": "124MEG4qdC",
+        "title": "垃圾桶",
+        "description": "# 星露谷物语中的垃圾桶是玩家可以丢弃不需要物品的地方。偶尔，它也可能包含一些有用的或随机的物品可供收集。",
+        "subcategoryExternalId": "O2b9fFLJs4",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        35.812643570249264,
+        -18.84655742448537
+      ],
+      "properties": {
+        "externalId": "EYA57VssOS",
+        "title": "垃圾桶",
+        "description": "# 星露谷物语中的垃圾桶是玩家可以丢弃不需要物品的地方。偶尔，它也可能包含一些有用的或随机的物品可供收集。",
+        "subcategoryExternalId": "O2b9fFLJs4",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        38.984158453466705,
+        -15.076766090680167
+      ],
+      "properties": {
+        "externalId": "i2mA0ZhgQ2",
+        "title": "垃圾桶",
+        "description": "# 星露谷物语中的垃圾桶是玩家可以丢弃不需要物品的地方。偶尔，它也可能包含一些有用的或随机的物品可供收集。",
+        "subcategoryExternalId": "O2b9fFLJs4",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        76.32157974711185,
+        -10.246532394396198
+      ],
+      "properties": {
+        "externalId": "rBAirWNASD",
+        "title": "垃圾桶",
+        "description": "# 星露谷物语中的垃圾桶是玩家可以丢弃不需要物品的地方。偶尔，它也可能包含一些有用的或随机的物品可供收集。",
+        "subcategoryExternalId": "O2b9fFLJs4",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        45.53884736221664,
+        -32.23463795130385
+      ],
+      "properties": {
+        "externalId": "HtuCG9jTrx",
+        "title": "委托板（秋季）",
+        "description": "# 请求板位于鹈鹕镇镇长刘易斯家外面。玩家可以完成村民在板上发布的请求来获得奖励并改善与社区的关系。",
+        "subcategoryExternalId": "O2b9fFLJs4",
+        "imageId": 1541492,
+        "imagePath": "/game_map_pin/1541492/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        62.002943822934924,
+        -31.842907496928206
+      ],
+      "properties": {
+        "externalId": "ialNOfPusl",
+        "title": "冰淇淋摊",
+        "description": "# 冰淇淋摊是位于鹈鹕镇铁匠铺外的小贩摊位。它销售玩家和村民在夏季喜爱的甜品。",
+        "subcategoryExternalId": "O2b9fFLJs4",
+        "imageId": 1541335,
+        "imagePath": "/game_map_pin/1541335/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        73.24259330488931,
+        -23.97414336706501
+      ],
+      "properties": {
+        "externalId": "QRPDv7vpSd",
+        "title": "矿车",
+        "description": "# 矿车是一个快速旅行系统，连接着星露谷的各个地点。修复后，它允许玩家快速到达矿井、采石场和其他重要区域。",
+        "subcategoryExternalId": "O2b9fFLJs4",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        24.38179646336289,
+        16.710391374579714
+      ],
+      "properties": {
+        "externalId": "kDaGSbNjmw",
+        "title": "科罗布斯位置",
+        "description": "# 在出现在公交车站并跟随脚印后，Krobus会给玩家放大镜来揭示秘密笔记。",
+        "subcategoryExternalId": "O2b9fFLJs4",
+        "imageId": 1542761,
+        "imagePath": "/game_map_pin/1542761/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -25.251087923162856,
+        35.11480938266229
+      ],
+      "properties": {
+        "externalId": "DfnxmlDPDf",
+        "title": "矿车(公交站)",
+        "description": "# 矿车是一个快速旅行系统，连接着星露谷的各个地点。修复后，它允许玩家快速到达矿井、采石场和其他重要区域。",
+        "subcategoryExternalId": "O2b9fFLJs4",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -49.58524124657589,
+        36.33103046731152
+      ],
+      "properties": {
+        "externalId": "tFagp8j8aS",
+        "title": "浆果篮",
+        "description": "# 莱纳斯在黑莓任务中丢失的篮子。",
+        "subcategoryExternalId": "O2b9fFLJs4",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -79.04875595846403,
+        25.7386934525196
+      ],
+      "properties": {
+        "externalId": "JTknoUPCrz",
+        "title": "爷爷的神龛",
+        "description": "# 爷爷的神龛位于玩家的农舍内，是接受爷爷年度评价的地方。在神龛中放置优质物品并完成成就可以获得奖励并提高你的最终评级。",
+        "subcategoryExternalId": "O2b9fFLJs4",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -72.03626459215849,
+        35.80271951584534
+      ],
+      "properties": {
+        "externalId": "iO8cwstPNE",
+        "title": "隧道",
+        "description": "# 隧道是星露谷物语中连接矿井和铁路区域的通道。它为玩家提供了一条捷径，可以快速往返于山区和山谷南部之间。",
+        "subcategoryExternalId": "O2b9fFLJs4",
+        "imageId": 1542759,
+        "imagePath": "/game_map_pin/1542759/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -116.93279125864557,
+        43.15395244478239
+      ],
+      "properties": {
+        "externalId": "VUoLydu7GL",
+        "title": "银河之剑",
+        "description": "# 在这三根金棒中间举起彩虹碎片来获得银河剑。",
+        "subcategoryExternalId": "O2b9fFLJs4",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -135.7029910984915,
+        30.68912080717341
+      ],
+      "properties": {
+        "externalId": "2tqr93jhvS",
+        "title": "龙骨",
+        "description": "# 齐先生任务线的一部分。",
+        "subcategoryExternalId": "O2b9fFLJs4",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -135.79883256646755,
+        46.56615897332216
+      ],
+      "properties": {
+        "externalId": "KREGKMBQ7z",
+        "title": "骷髅洞穴入口",
+        "description": "# 骷髅洞穴是位于卡利科沙漠的一个具有挑战性的地牢。里面充满了强悍的怪物和珍贵的矿石（如铱矿石），为愿意探索其深处的冒险者提供稀有宝藏和独特奖励。",
+        "subcategoryExternalId": "O2b9fFLJs4",
+        "imageId": 1532149,
+        "imagePath": "/game_map_pin/1532149/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -135.26998858281883,
+        -9.177775745453047
+      ],
+      "properties": {
+        "externalId": "8sRmCaCGHN",
+        "title": "老师傅卡诺利",
+        "description": "# 老大师卡诺里是位于秘密森林西北角的石像。要解锁其奖励，玩家必须向它赠送*甜宝石浆果*，这种浆果可以用从*旅行货车*购买的*稀有种子*种植。一旦给予，雕像会给予一个星之果实，提升玩家的最大能量值。",
+        "subcategoryExternalId": "O2b9fFLJs4",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -84.18017454052412,
+        -17.160052417210665
+      ],
+      "properties": {
+        "externalId": "zOYHrta6Cy",
+        "title": "旅行商人",
+        "description": "# 旅行商车是一个移动商店，每逢周五和周日会出现在煤渣森林中。它出售稀有种子、独特物品以及鹈鹕镇常规商店中买不到的季节性商品。",
+        "subcategoryExternalId": "O2b9fFLJs4",
+        "imageId": 1531130,
+        "imagePath": "/game_map_pin/1531130/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -31.734384702015774,
+        -52.92058333161509
+      ],
+      "properties": {
+        "externalId": "l8ww93Iz7g",
+        "title": "罗宾遗失的斧头",
+        "description": "# 罗宾的丢失斧头是星露谷物语中的一个特殊任务，玩家需要帮助罗宾找到她丢失的斧头。完成任务可以获得与罗宾的友谊点数，并可能解锁额外的对话或奖励。",
+        "subcategoryExternalId": "O2b9fFLJs4",
+        "imageId": 1539853,
+        "imagePath": "/game_map_pin/1539853/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -38.259940614432026,
+        -20.984366155736225
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 5184,
+          "y": 1232,
+          "z": 0
+        },
+        "externalId": "tje4hRi0r5",
+        "title": "玛妮的牧场",
+        "description": "# 玛妮牧场位于鹈鹕镇南部，提供动物、用品和农场建筑。这里也是玛妮、谢恩和贾斯的家，周围环绕着舒适的谷仓和牧场。\n\n# 注意：你也可以在这里找到镇长刘易斯的短裤。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1531068,
+        "imagePath": "/game_map_pin/1531068/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -80.5227446824022,
+        -57.27898138015671
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 2223.25,
+          "y": 6211,
+          "z": 0
+        },
+        "externalId": "HGrnIY5Zac",
+        "title": "废弃房屋",
+        "description": "# 废弃的房子，也被称为帽子商店，位于森林的南部。在达成某些成就后，会有一只老鼠在那里开店，出售各种帽子作为你进步的奖励。",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1545648,
+        "imagePath": "/game_map_pin/1545648/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        126.83012721698697,
+        49.510468238489665
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 8062.5,
+          "y": 773,
+          "z": 0
+        },
+        "externalId": "AosRKfSlNc",
+        "title": "矿车",
+        "description": "# 矿车是一个快速旅行系统，连接着星露谷各个地点。一旦修复后，它可以让玩家快速到达矿井、采石场和其他关键区域。\n\n# 传送到：\n\n- 矿井\n- 小镇\n- 巴士站",
+        "subcategoryExternalId": "O2b9fFLJs4",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        42.553480973303294,
+        56.61728926127279
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 774.75,
+          "y": 3687,
+          "z": 0
+        },
+        "externalId": "rLcDry05bY",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "VCH6EpsWFq",
+        "imageId": 1539806,
+        "imagePath": "/game_map_pin/1539806/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        42.60098634491362,
+        -60.21760349183116
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 1627,
+          "y": 2243.5,
+          "z": 0
+        },
+        "externalId": "6AWxMTVLhV",
+        "title": "夜市",
+        "description": "# 夜市是在鹈鹕镇海滩举办的冬季活动，时间为❄️冬季15日至17日。每晚都有独特的商贩、小游戏和稀有物品供玩家探索和购买。",
+        "subcategoryExternalId": "mRB6vPCpPG",
+        "imageId": 1542773,
+        "imagePath": "/game_map_pin/1542773/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        45.590038891658565,
+        11.580844972423108
+      ],
+      "properties": {
+        "externalId": "hpxub2FtLs",
+        "title": "水仙花",
+        "description": "# 春季觅食是开始你的星露谷物语之旅的好方法。随着季节的开始，你可以找到野韭菜、蒲公英、水仙花和野辣根等野生植物。\n\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🌱春季 | 觅食 |\n\n# 注意：*标记的地点表示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "KgS4QJ2MuQ",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -63.82523764382954,
+        -23.668094561118394
+      ],
+      "properties": {
+        "externalId": "UYamlhLGl8",
+        "title": "黑莓丛",
+        "description": "黑莓灌木仅在秋季开花，结出的浆果可以直接从散布在山谷周围的灌木丛中采摘。它们会在几天后重新生长，使其成为绝佳的季节性觅食水果来源。\n| 季节 | 技能 |\n| :-----------: | :-----------: |\n| 🍂秋季（黑莓季节第8天到第11天） | 觅食 |\n\n# 注意：*标记的地点显示这些资源可能随机出现的位置。*",
+        "subcategoryExternalId": "gdvX9XZXL1",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -108.52101368936763,
+        -11.424567971871824
+      ],
+      "properties": {
+        "externalId": "0W9IRzeUqh",
+        "title": "绿色史莱姆",
+        "description": "# 史莱姆是在星露谷物语的洞穴和森林中发现的胶状生物。它们的颜色和大小各不相同，被击败时会掉落有用的物品，并为冒险者提供早期的战斗经验。",
+        "subcategoryExternalId": "y2Uhzm9hZG",
+        "imageId": null,
+        "imagePath": ""
+      }
+    }
+  ]
+}

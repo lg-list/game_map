@@ -1,0 +1,16 @@
+{
+  "slug": "ark-survival-ascended",
+  "title": "ARK: Survival Ascended",
+  "heroUrl": "/assets/images/games/ark-survival-ascended/hero.webp",
+  "maps": [
+    {
+      "name": "The Island",
+      "slug": "the-island",
+      "thumbnailUrl": "/assets/images/games/ark-survival-ascended/the-island.webp",
+      "updatedAt": "2026-03-23T13:58:05Z",
+      "markerCount": 641,
+      "categoryCount": 5,
+      "subcategoryCount": 14
+    }
+  ]
+}

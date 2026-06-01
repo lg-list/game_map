@@ -1,0 +1,16 @@
+{
+  "slug": "watch-dogs-2",
+  "title": "Watch Dogs 2",
+  "heroUrl": "/assets/images/games/watch-dogs-2/hero.webp",
+  "maps": [
+    {
+      "name": "San Francisco",
+      "slug": "san-francisco",
+      "thumbnailUrl": "/assets/images/games/watch-dogs-2/san-francisco.webp",
+      "updatedAt": "2026-04-28T08:20:48Z",
+      "markerCount": 553,
+      "categoryCount": 5,
+      "subcategoryCount": 25
+    }
+  ]
+}

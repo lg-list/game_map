@@ -1,0 +1,16 @@
+{
+  "slug": "v-rising",
+  "title": "V Rising",
+  "heroUrl": "/assets/images/games/v-rising/hero.webp",
+  "maps": [
+    {
+      "name": "Vardoran",
+      "slug": "vardoran",
+      "thumbnailUrl": "/assets/images/games/v-rising/vardoran.webp",
+      "updatedAt": "2026-01-23T07:22:32Z",
+      "markerCount": 1549,
+      "categoryCount": 4,
+      "subcategoryCount": 24
+    }
+  ]
+}

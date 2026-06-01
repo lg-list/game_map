@@ -1,0 +1,4349 @@
+{
+  "metadata": {
+    "externalId": "J6n4l5XTpG",
+    "name": "Bywater",
+    "slug": "bywater",
+    "baseTilePath": "https://storage-cdn.wemod.com/maps/72e7b557-80b9-49b7-8e32-678bec0e57a1/tiles",
+    "isChecklistPublished": true,
+    "isInActiveDevelopment": false,
+    "backgroundColor": null,
+    "minZoom": 1,
+    "maxZoom": 6,
+    "initialZoom": null,
+    "tmsEnabled": false,
+    "categories": [
+      {
+        "externalId": "1MGC3vDviX",
+        "gameMapExternalId": "J6n4l5XTpG",
+        "title": "镇民",
+        "color": "#000000",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "tmjtfIQLky",
+        "gameMapExternalId": "J6n4l5XTpG",
+        "title": "百科全书",
+        "color": "#008f00",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "uOgZaB4Rzm",
+        "gameMapExternalId": "J6n4l5XTpG",
+        "title": "位置",
+        "color": "#b356a2",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "BtrKlzm9aQ",
+        "gameMapExternalId": "J6n4l5XTpG",
+        "title": "附加物品",
+        "color": "#785e5e",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "QktPpoug5Y",
+        "gameMapExternalId": "J6n4l5XTpG",
+        "title": "故事线",
+        "color": "#ff0000",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "subcategories": [
+      {
+        "externalId": "4BjvdOTsac",
+        "categoryExternalId": "1MGC3vDviX",
+        "title": "玛丽金·波茨",
+        "icon": "roundies:business-and-finance-customer-service-woman",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "NRJyVxgn5R",
+        "categoryExternalId": "1MGC3vDviX",
+        "title": "罗西·卡顿",
+        "icon": "roundies:architecture-worker-woman",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "Jl6rFTt1XL",
+        "categoryExternalId": "1MGC3vDviX",
+        "title": "柳树·图克",
+        "icon": "roundies:airport-and-hotels-woman",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "HjGLbtO1Cx",
+        "categoryExternalId": "1MGC3vDviX",
+        "title": "诺拉·伯罗斯",
+        "icon": "roundies:airport-and-hotels-woman-chef",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "KtVxEW3vac",
+        "categoryExternalId": "1MGC3vDviX",
+        "title": "莉莉·科顿",
+        "icon": "woman-head",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "RILVKjRQ2y",
+        "categoryExternalId": "1MGC3vDviX",
+        "title": "沙人",
+        "icon": "roundies:utility-3-add-woman",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "JqdaIHp3Fm",
+        "categoryExternalId": "1MGC3vDviX",
+        "title": "黛西·图克",
+        "icon": "roundies:maternity-laugh-girl",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "wIDQ7rjnzl",
+        "categoryExternalId": "1MGC3vDviX",
+        "title": "年轻的汤姆·科顿",
+        "icon": "gingerbread-man",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "gra5R7YXxh",
+        "categoryExternalId": "1MGC3vDviX",
+        "title": "老诺克斯",
+        "icon": "man-head",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "fHDk4VDXhx",
+        "categoryExternalId": "1MGC3vDviX",
+        "title": "奥洛·普劳德福特",
+        "icon": "roundies:airport-and-hotels-man",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "k0ewLNK0vO",
+        "categoryExternalId": "1MGC3vDviX",
+        "title": "福斯科·伯罗斯",
+        "icon": "roundies:architecture-worker-man",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "cIapfNnbrl",
+        "categoryExternalId": "1MGC3vDviX",
+        "title": "德尔菲尼娅·烈酒巴克",
+        "icon": "roundies:business-and-finance-customer-service-man",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "lhiQgWJlGc",
+        "categoryExternalId": "1MGC3vDviX",
+        "title": "尼菲",
+        "icon": "roundies:business-and-finance-employee-man",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "S5rgYdHD5Q",
+        "categoryExternalId": "1MGC3vDviX",
+        "title": "霍布森·霍恩布洛尔",
+        "icon": "roundies:business-and-finance-man",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "gT44pOtIeE",
+        "categoryExternalId": "1MGC3vDviX",
+        "title": "农夫科顿",
+        "icon": "roundies:holidays-gingerbread-man",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "5LSlHqgK0I",
+        "categoryExternalId": "tmjtfIQLky",
+        "title": "水果",
+        "icon": "roundies:food-apple",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "yAVTlaGGga",
+        "categoryExternalId": "tmjtfIQLky",
+        "title": "蔬菜",
+        "icon": "radish",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "QRg83org3I",
+        "categoryExternalId": "tmjtfIQLky",
+        "title": "丰盛蔬菜",
+        "icon": "carrot",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "XTjLKr6GVa",
+        "categoryExternalId": "tmjtfIQLky",
+        "title": "调料",
+        "icon": "roundies:roundies-freebie-plant",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "9oXjq0xuJg",
+        "categoryExternalId": "tmjtfIQLky",
+        "title": "杂项",
+        "icon": "square-quote",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "fEqZIAXwZv",
+        "categoryExternalId": "uOgZaB4Rzm",
+        "title": "邮箱",
+        "icon": "mailbox",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "R3cQ7VHfjO",
+        "categoryExternalId": "uOgZaB4Rzm",
+        "title": "家园",
+        "icon": "roundies:architecture-fence-round-door",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "LBaPwI24iR",
+        "categoryExternalId": "uOgZaB4Rzm",
+        "title": "池塘",
+        "icon": "fish",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "n3PNhb1w9Z",
+        "categoryExternalId": "uOgZaB4Rzm",
+        "title": "商店",
+        "icon": "baht-sign",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "J9hIKoC0Nh",
+        "categoryExternalId": "uOgZaB4Rzm",
+        "title": "地标",
+        "icon": "roundies:world-monuments-stonehenge",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "hy1ThhkKQU",
+        "categoryExternalId": "uOgZaB4Rzm",
+        "title": "标志",
+        "icon": "roundies:animals-sea-star",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "bZYRziubsO",
+        "categoryExternalId": "uOgZaB4Rzm",
+        "title": "旅店",
+        "icon": "leaf",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "PIMhlLKuH7",
+        "categoryExternalId": "BtrKlzm9aQ",
+        "title": "木材",
+        "icon": "trees",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "b0yq3FMJlf",
+        "categoryExternalId": "QktPpoug5Y",
+        "title": "传说",
+        "icon": "scroll-torah",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "M5lxVaRH6r",
+        "categoryExternalId": "QktPpoug5Y",
+        "title": "故事道具",
+        "icon": "box",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "VlMNgSszrv",
+        "categoryExternalId": "QktPpoug5Y",
+        "title": "故事任务",
+        "icon": "clipboard-list-check",
+        "excludeFromChecklists": true,
+        "description": ""
+      }
+    ],
+    "playerLocationDeltas": {
+      "deltas": {
+        "scaleX": 4.7573337445688957e-7,
+        "scaleY": -0.0004933701147287269,
+        "offsetX": 12.568724483407578,
+        "offsetY": -56.791050060162334,
+        "gameCoordsMap": {
+          "x": "y",
+          "y": "x",
+          "z": "z"
+        }
+      },
+      "referencePoints": [
+        {
+          "lngLat": {
+            "lat": 1.3333744582430143,
+            "lng": -69.33950596558088
+          },
+          "gameCoords": {
+            "x": -129.94691467285156,
+            "y": 8.900724411010742,
+            "z": 4.56270694732666
+          }
+        },
+        {
+          "lngLat": {
+            "lat": -2.8200577712310064,
+            "lng": 52.77624431427574
+          },
+          "gameCoords": {
+            "x": 97.98053741455078,
+            "y": 15.360542297363281,
+            "z": -5.697506904602051
+          }
+        }
+      ]
+    }
+  },
+  "features": [
+    {
+      "coordinates": [
+        0.6373749644158977,
+        -19.932701108581384
+      ],
+      "properties": {
+        "externalId": "qUvEJPAqkH",
+        "title": "",
+        "description": "# 你经常能在下午时分看到他在村庄广场放松，或者在白水村标志附近徘徊。\n\n# 注意：\n- 奥洛是你将遇到的第一个村民。奥洛会引导你回家，为你指出邮箱的位置，并向你展示如何与霍比特人同胞分享丰盛的一餐。\n\n# 提示：\n- 如果你看到霍比特人头上有标记，和他们交谈，他们可能有东西给你。\n\n# 与霍比特人共享用餐有助于推进你的里程碑奖励：\n- 等级6：解锁新的钓鱼地点\n- 等级10：他会给你感情礼物\n\n\\n\\n\\n\n\n# *\"最善良的霍比特人，奥洛出生在白水村，生活在白水村，这就是他抱负的全部。他毫无怨言、满腔热忱地投递日常邮件，因为这是一项需要完成的工作。\"*",
+        "subcategoryExternalId": "fHDk4VDXhx",
+        "imageId": 1446906,
+        "imagePath": "/game_map_pin/1446906/{size}.webp",
+        "videoId": 1446907,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/c0c6fde015ed50fdab504ae417abcd0550d90fb5"
+      }
+    },
+    {
+      "coordinates": [
+        0.3322082752886786,
+        -34.33267174115468
+      ],
+      "properties": {
+        "externalId": "ZijJGGpetI",
+        "title": "",
+        "description": "#\n\n# 注意：\n- 走到炉灶前烹饪，然后使用餐桌分享你的食物。\n- 想要在白水镇交朋友并取得进展？只需为当地人提供一些*美味*的餐点！",
+        "subcategoryExternalId": "R3cQ7VHfjO",
+        "imageId": 1447149,
+        "imagePath": "/game_map_pin/1447149/{size}.webp",
+        "videoId": 1447150,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/9e3b459c08697b5d8a1dc5fb6d12132f9eef92e6"
+      }
+    },
+    {
+      "coordinates": [
+        -1.6161496917579257,
+        -24.94415596011187
+      ],
+      "properties": {
+        "externalId": "hkhBlxRiGy",
+        "title": "",
+        "description": "# 你会发现它就在 Orlo 后面不远处。\n\n# 注意：\n- 你可以在这里查看新信件和归档信件。",
+        "subcategoryExternalId": "fEqZIAXwZv",
+        "imageId": 1447016,
+        "imagePath": "/game_map_pin/1447016/{size}.webp",
+        "videoId": 1447017,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/406423c8b78bdd3b28f5ddd034273b101d4bdfb0"
+      }
+    },
+    {
+      "coordinates": [
+        -7.8172678241621725,
+        -14.908494053195
+      ],
+      "properties": {
+        "externalId": "Ugg8BDyil9",
+        "title": "老鲁比的池塘",
+        "description": "# 在你第一次遇到奥洛的地点附近发现。\n\n# 注意\n在这里钓鱼有机会钓到这些鱼：\n- 破晓鲦鱼\n- 石鳅\n- 拜沃特白条鱼",
+        "subcategoryExternalId": "LBaPwI24iR",
+        "imageId": 1447202,
+        "imagePath": "/game_map_pin/1447202/{size}.webp",
+        "videoId": 1447203,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/f6d62ba3cd06d5bb6e75afb119c5576a70196632"
+      }
+    },
+    {
+      "coordinates": [
+        -22.817844467753332,
+        -24.958204674298287
+      ],
+      "properties": {
+        "externalId": "CPGmWDMRSU",
+        "title": "斯佩拉奇",
+        "description": "# 位于河岸附近倒下的原木正前方。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 蔬菜 |\n| 偏好 | 秋季 |\n\n# *\"小小的脆嫩美味棒；快乐的束束。据说这些生长在地下潮湿的土壤中，年复一年地在同一个地方发芽，延续了许多年。\"*",
+        "subcategoryExternalId": "QRg83org3I",
+        "imageId": 1447238,
+        "imagePath": "/game_map_pin/1447238/{size}.webp",
+        "videoId": 1447239,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/be99ee539dc10aabbc8e1c8890f3ba420d2ab497"
+      }
+    },
+    {
+      "coordinates": [
+        -22.277355395645543,
+        -24.425825949014637
+      ],
+      "properties": {
+        "externalId": "yBTntNP1hO",
+        "title": "马勃菌",
+        "description": "# 位于河岸边倒下的原木前方。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 蘑菇 |\n| 偏好 | 秋季和夏季 |\n\n# *\"一个巨大而耀眼的蘑菇。既可以作为美餐，也可以用力踢一脚让它滚下山坡。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1447256,
+        "imagePath": "/game_map_pin/1447256/{size}.webp",
+        "videoId": 1447257,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/11c6fcd6ab61294fb87a49cfc39cf279c6f6438a"
+      }
+    },
+    {
+      "coordinates": [
+        -34.54833468747009,
+        -27.727237813483697
+      ],
+      "properties": {
+        "externalId": "3nLWwiHtMz",
+        "title": "马勃菌",
+        "description": "# 位于河岸附近大石头旁边。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 蘑菇 |\n| 偏好 | 秋季和夏季 |\n\n# *\"一个巨大而光彩夺目的蘑菇。既可以作为一顿美餐，也可以用力踢一脚让它滚下山坡。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1447261,
+        "imagePath": "/game_map_pin/1447261/{size}.webp",
+        "videoId": 1447262,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/3ebb17c13dc464e8a10e0b16bfc7c705ac99662b"
+      }
+    },
+    {
+      "coordinates": [
+        -55.73675253989009,
+        -22.017267195741454
+      ],
+      "properties": {
+        "externalId": "QkLWAlEZzb",
+        "title": "鸡油菌",
+        "description": "# 你可以在大树下找到这种蔬菜。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 偏好 | 夏季和春季 |\n\n# *\"一种非常漂亮的蘑菇，颜色鲜艳如鳟鱼的腹部。褶边看起来有点像裙子，多么古雅\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1447269,
+        "imagePath": "/game_map_pin/1447269/{size}.webp",
+        "videoId": 1447270,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/b9510799b951a1fd6d226050b231a785f5a1bfbf"
+      }
+    },
+    {
+      "coordinates": [
+        -52.597546001601046,
+        -9.680572166105748
+      ],
+      "properties": {
+        "externalId": "fxJSmBiPvv",
+        "title": "野牛肉地",
+        "description": "# 你可以发现这种蔬菜附着在大树的树干上。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 咸味 |\n| 类型 | 蘑菇 |\n| 偏好 | 夏季和秋季 |\n\n# *\"它看起来真的很像一小块牛肉，如果你不是亲自从树桩上摘下来的话，肯定会被骗到。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1449018,
+        "imagePath": "/game_map_pin/1449018/{size}.webp",
+        "videoId": 1449019,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/d13981392956b518da689e20628f5f8eba78125f"
+      }
+    },
+    {
+      "coordinates": [
+        -57.697287859669714,
+        -3.270368884463096
+      ],
+      "properties": {
+        "externalId": "tDL4F3Gzvx",
+        "title": "马勃菌",
+        "description": "# 你可以在桥边找到这个马勃菌。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 蘑菇 |\n| 偏好 | 秋季和夏季 |\n\n# *\"一个巨大的绚烂蘑菇。无论是作为一餐，还是用力一踢让它滚下山坡，都是不错的选择。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1447303,
+        "imagePath": "/game_map_pin/1447303/{size}.webp",
+        "videoId": 1447304,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/d7da3ef77641205d00fe6a9e3b2ab9478b22eefb"
+      }
+    },
+    {
+      "coordinates": [
+        -56.12844493787587,
+        3.74695557864554
+      ],
+      "properties": {
+        "externalId": "pouf5Kx4aU",
+        "title": "斯佩拉奇",
+        "description": "# 在河岸边山坡向下倾斜的地方发现。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 蔬菜 |\n| 偏好 | 秋季 |\n\n# *\"小小的脆嫩美味棒；快乐的小束。据说这些生长在地下潮湿的土壤中，年复一年地在同一个地方发芽，经年累月。\"*",
+        "subcategoryExternalId": "QRg83org3I",
+        "imageId": 1447316,
+        "imagePath": "/game_map_pin/1447316/{size}.webp",
+        "videoId": 1447317,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/994913782a2f36154df2b49f8e93c6a663c2af27"
+      }
+    },
+    {
+      "coordinates": [
+        -61.97792988910959,
+        8.181797179018417
+      ],
+      "properties": {
+        "externalId": "voQD8tX27E",
+        "title": "斯佩拉奇",
+        "description": "# 在河岸边山坡向下倾斜的地方发现。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 蔬菜 |\n| 偏好 | 秋季 |\n\n# *\"小小的脆嫩美味棒；快乐的小束。据说这些生长在地下潮湿的土壤中，年复一年地在同一个地方发芽，经年累月。\"*",
+        "subcategoryExternalId": "QRg83org3I",
+        "imageId": 1447324,
+        "imagePath": "/game_map_pin/1447324/{size}.webp",
+        "videoId": 1447325,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/ad5476685762e9688b3342667d86b90ab2c6b49e"
+      }
+    },
+    {
+      "coordinates": [
+        -58.76487970382615,
+        5.467937163937691
+      ],
+      "properties": {
+        "externalId": "b2vxDwvQGe",
+        "title": "斯佩拉奇",
+        "description": "# 在河岸边山坡向下倾斜的地方发现。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 蔬菜 |\n| 偏好 | 秋季 |\n\n# *\"小小的脆嫩美味棒；快乐的小束。据说这些生长在地下潮湿的土壤中，年复一年地在同一个地方发芽，经年累月。\"*",
+        "subcategoryExternalId": "QRg83org3I",
+        "imageId": 1447326,
+        "imagePath": "/game_map_pin/1447326/{size}.webp",
+        "videoId": 1447327,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/ae28460038722be5eecb1eb444a4f8afff929234"
+      }
+    },
+    {
+      "coordinates": [
+        -31.59436496739653,
+        32.82202777837297
+      ],
+      "properties": {
+        "externalId": "yfqoOjohpH",
+        "title": "沙人的商店",
+        "description": "",
+        "subcategoryExternalId": "n3PNhb1w9Z",
+        "imageId": 1449357,
+        "imagePath": "/game_map_pin/1449357/{size}.webp",
+        "videoId": 1449358,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/9f82717e9897fc1a4b1745feb2c83705b3928ab9"
+      }
+    },
+    {
+      "coordinates": [
+        -26.14939331074271,
+        -14.361096758787738
+      ],
+      "properties": {
+        "externalId": "zOlsF2E9ak",
+        "title": "瞭望山",
+        "description": "",
+        "subcategoryExternalId": "J9hIKoC0Nh",
+        "imageId": 1447376,
+        "imagePath": "/game_map_pin/1447376/{size}.webp",
+        "videoId": 1447377,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/a666ab85a3526e3e3b1b16eb4acf74536e3a19c4"
+      }
+    },
+    {
+      "coordinates": [
+        -24.852701227619036,
+        -12.078927137771515
+      ],
+      "properties": {
+        "externalId": "EGV4urvgxS",
+        "title": "接骨木村",
+        "description": "# 位于瞭望山外围及其城墙沿线。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 浆果 |\n| 偏好季节 | 夏季和秋季 |\n\n# *\"也许是最苦的浆果，正如大多数接骨木果实一样。\"*",
+        "subcategoryExternalId": "5LSlHqgK0I",
+        "imageId": 1447396,
+        "imagePath": "/game_map_pin/1447396/{size}.webp",
+        "videoId": 1447397,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/1a2e8e20981683a25270aa96f5488e2013883443"
+      }
+    },
+    {
+      "coordinates": [
+        -21.515954552008623,
+        -17.190753753596255
+      ],
+      "properties": {
+        "externalId": "HvMphI7R0B",
+        "title": "接骨木村",
+        "description": "# 位于瞭望山外围，沿着山壁生长。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦涩 |\n| 偏好 | 夏季和秋季 |\n\n# *\"也许是浆果中最苦的，正如大多数接骨木浆果一样。\"*",
+        "subcategoryExternalId": "5LSlHqgK0I",
+        "imageId": 1447423,
+        "imagePath": "/game_map_pin/1447423/{size}.webp",
+        "videoId": 1447424,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/cc1b33e56e70ae9a5cb3a931b7185ca814be0a4d"
+      }
+    },
+    {
+      "coordinates": [
+        -18.118965596039402,
+        -14.158368713907308
+      ],
+      "properties": {
+        "externalId": "8unmJD0WQV",
+        "title": "奥洛的家",
+        "description": "",
+        "subcategoryExternalId": "R3cQ7VHfjO",
+        "imageId": 1447429,
+        "imagePath": "/game_map_pin/1447429/{size}.webp",
+        "videoId": 1447430,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/dc5e23001ce5a31a422c60028bf9aeaf183f7a11"
+      }
+    },
+    {
+      "coordinates": [
+        -23.862965103415974,
+        -0.22263741849424434
+      ],
+      "properties": {
+        "externalId": "gDxV5T6Hoe",
+        "title": "篱芥菜地",
+        "description": "# 在奥洛家附近发现，位于大东路沿线的白树旁。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 夏季和秋季 |\n\n# *\"一种辛辣的植物，这些植物在大路沿线到处都有生长，甚至一直延伸到布理！\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1447439,
+        "imagePath": "/game_map_pin/1447439/{size}.webp",
+        "videoId": 1447440,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/8f11a02d6d8e3428cbb6ef1eb219133987ae3620"
+      }
+    },
+    {
+      "coordinates": [
+        -11.695568297489814,
+        -8.406846565539226
+      ],
+      "properties": {
+        "externalId": "GMmCVrZBnN",
+        "title": "篱芥菜地",
+        "description": "# 位于大树旁边，靠近男孩在草地上休息的地方。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 夏季和秋季 |\n\n# *\"一种辛辣的植物，这些植物在大道沿线到处都有生长，甚至一直延伸到布理！\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1447460,
+        "imagePath": "/game_map_pin/1447460/{size}.webp",
+        "videoId": 1447461,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/00c7f91cee07ee7a6cba31c5d53681f338292080"
+      }
+    },
+    {
+      "coordinates": [
+        12.146919997499737,
+        -1.4117918487091856
+      ],
+      "properties": {
+        "externalId": "nkw5pmtgEf",
+        "title": "东大路",
+        "description": "",
+        "subcategoryExternalId": "J9hIKoC0Nh",
+        "imageId": 1447474,
+        "imagePath": "/game_map_pin/1447474/{size}.webp",
+        "videoId": 1447475,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/739497ac8ef60a7f6efed12620275c16e99ff1b0"
+      }
+    },
+    {
+      "coordinates": [
+        -0.5041832530708064,
+        -4.911091614720746
+      ],
+      "properties": {
+        "externalId": "XMxClwAKwG",
+        "title": "拜沃特标志",
+        "description": "",
+        "subcategoryExternalId": "J9hIKoC0Nh",
+        "imageId": 1447479,
+        "imagePath": "/game_map_pin/1447479/{size}.webp",
+        "videoId": 1447480,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/8eb619409915100d63f3588196f54852222ded81"
+      }
+    },
+    {
+      "coordinates": [
+        -21.189942158414738,
+        -39.55874649933513
+      ],
+      "properties": {
+        "externalId": "6GdP2lJiq1",
+        "title": "篱芥菜地",
+        "description": "# 坐落在山顶上，俯瞰着白树附近的小池塘。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 口味 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 夏季和秋季 |\n\n# *\"一种辛辣的植物，这些在大道沿线到处都有生长，甚至一直延伸到布理！\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1447516,
+        "imagePath": "/game_map_pin/1447516/{size}.webp",
+        "videoId": 1447517,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/13b903300d40c8baaaf1196e3cc66db3e3f9cb61"
+      }
+    },
+    {
+      "coordinates": [
+        -22.832321728557588,
+        -40.30880097857054
+      ],
+      "properties": {
+        "externalId": "qTDbx6xBnM",
+        "title": "胡椒草地",
+        "description": "# 栖息在山丘顶上，俯瞰着木栅栏附近的小池塘。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草本植物 |\n| 偏好 | 夏季和春季 |\n\n# *\"这种植物里的小种子充满了浓烈的香料味，很容易让你措手不及。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1447526,
+        "imagePath": "/game_map_pin/1447526/{size}.webp",
+        "videoId": 1447527,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/57fe4babb5ae2c1e3663809adb3df326d6f796c9"
+      }
+    },
+    {
+      "coordinates": [
+        -1.6173154265880783,
+        -46.32456636157279
+      ],
+      "properties": {
+        "externalId": "mgA9oOVBCm",
+        "title": "棉花农场",
+        "description": "",
+        "subcategoryExternalId": "R3cQ7VHfjO",
+        "imageId": 1447557,
+        "imagePath": "/game_map_pin/1447557/{size}.webp",
+        "videoId": 1447558,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/480f47da4306bf82a9e4fc06a3a8d259c55431db"
+      }
+    },
+    {
+      "coordinates": [
+        2.5091823680467655,
+        -49.740799037535545
+      ],
+      "properties": {
+        "externalId": "kWRLn3k6qX",
+        "title": "",
+        "description": "# 你经常会发现罗西在棉花农场照料作物，就在你家南边。她从早到晚都在那里工作。\n\n# 注意：\n- 随着故事的推进，她将担任园艺俱乐部领导者的角色。完成俱乐部任务板任务后回到她那里领取奖励。\n\n# 提示：\n- 如果你看到霍比特人头上有标记，和他们交谈，他们可能有东西给你。\n\n# 与霍比特人共享餐食有助于推进你的里程碑奖励：\n- 等级3：解锁交易\n- 等级6：秘密沼泽区域\n- 等级10：更多交易选择。\n\n# *\"一个聪明的小女孩，眼中闪烁着光芒，仿佛没有什么能阻挡她。充满了霍比特人的良好理智，她拥有她父亲在园艺方面的所有聪慧，以及她母亲的全部自信。\"*",
+        "subcategoryExternalId": "NRJyVxgn5R",
+        "imageId": 1447590,
+        "imagePath": "/game_map_pin/1447590/{size}.webp",
+        "videoId": 1447591,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/2218bc49029804695859cc1abcb9b706d465f16f"
+      }
+    },
+    {
+      "coordinates": [
+        18.13797488465076,
+        -50.951683940970995
+      ],
+      "properties": {
+        "externalId": "XUMQhqLDjF",
+        "title": "斯佩拉奇",
+        "description": "# 在可以看到成群动物的田野上发现。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 蔬菜 |\n| 偏好 | 秋季 |\n\n# *\"小小的脆嫩美味棒；快乐的束状物。据说这些生长在地下湿润的土壤中，年复一年地在同一个地方发芽，历经岁月。\"*",
+        "subcategoryExternalId": "QRg83org3I",
+        "imageId": 1447603,
+        "imagePath": "/game_map_pin/1447603/{size}.webp",
+        "videoId": 1447604,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/89ffef183fa0aec0f26d7005c6f384b870550086"
+      }
+    },
+    {
+      "coordinates": [
+        23.63899173811609,
+        -51.07614781687929
+      ],
+      "properties": {
+        "externalId": "4hh0jBDZDF",
+        "title": "鸡油菌",
+        "description": "# 你可以在大树下找到这种蔬菜。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 偏好 | 夏季和春季 |\n\n# *\"一种非常漂亮的蘑菇，颜色鲜艳如鳟鱼的腹部。褶边看起来有点像裙子，多么古雅\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1447634,
+        "imagePath": "/game_map_pin/1447634/{size}.webp",
+        "videoId": 1447635,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/1275918f585db1df9af12202ce44883fc4041c53"
+      }
+    },
+    {
+      "coordinates": [
+        24.25398434612194,
+        -53.55043311143879
+      ],
+      "properties": {
+        "externalId": "8rheisl04r",
+        "title": "野牛肉地",
+        "description": "# 你可以发现这种蔬菜紧贴在树干上生长。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 咸味 |\n| 类型 | 蘑菇 |\n| 偏好 | 夏季和秋季 |\n\n# *\"它看起来真的很像一小块牛肉，如果你不是亲自从树桩上采摘的话，肯定会被骗到。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1447709,
+        "imagePath": "/game_map_pin/1447709/{size}.webp",
+        "videoId": 1447710,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/255e7cbf1d54fcdceaad390eb3fb4bdb59046bb4"
+      }
+    },
+    {
+      "coordinates": [
+        0.17366231907593033,
+        -19.03258909306001
+      ],
+      "properties": {
+        "externalId": "SJtJok5GKJ",
+        "title": "温暖的欢迎",
+        "description": "|解锁|\n| :-----------: |\n|绿龙酒馆|\n\n# 与奥洛交谈以继续故事。\n\n# 注意：\n- 奥洛会在与你一起享用早餐后，将丰富大黄派食谱给你。\n\n# *\"奥洛·普劳德福特热情欢迎你来到拜沃特，并帮助你安顿到新家中。\"*",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1447743,
+        "imagePath": "/game_map_pin/1447743/{size}.webp",
+        "videoId": 1447744,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/0e0b6d464e72f5513357c1cb067fea7106a66316"
+      }
+    },
+    {
+      "coordinates": [
+        -18.488812872567223,
+        21.98138298077643
+      ],
+      "properties": {
+        "externalId": "9s3XkQavW1",
+        "title": "绿龙酒馆",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|[热情欢迎](wemod:\\/\\/maps\\/95759\\/517?location=SJtJok5GKJ)|[找到立足点](wemod:\\/\\/maps\\/95759\\/517?location=97TCunwPfA)|\n\n# 跟随鸟儿前往绿龙酒馆。\n\n# 注意：\n- 当你接近绿龙酒馆时，会触发一段过场动画。",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1449306,
+        "imagePath": "/game_map_pin/1449306/{size}.webp",
+        "videoId": 1449307,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/c0bb963dc6cc8679b3d9b11261a40cfbec64db6c"
+      }
+    },
+    {
+      "coordinates": [
+        14.786779867283173,
+        -58.43317996568901
+      ],
+      "properties": {
+        "externalId": "8lxD6T6yWz",
+        "title": "棉花农场池塘",
+        "description": "# 位于棉花农场场地内。\n\n# 注意：\n在这里钓鱼有机会钓到以下鱼类：\n- 鲈鱼\n- 鲫鱼\n- 鲤鱼",
+        "subcategoryExternalId": "LBaPwI24iR",
+        "imageId": 1447776,
+        "imagePath": "/game_map_pin/1447776/{size}.webp",
+        "videoId": 1447777,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/fa8da5fff7ffb79cf679134d27abb0b6b61c2daf"
+      }
+    },
+    {
+      "coordinates": [
+        27.48755542255887,
+        -35.53568162034681
+      ],
+      "properties": {
+        "externalId": "8Hes225dvG",
+        "title": "",
+        "description": "# 黛西在柳树工坊度过她的一天，经常可以在花园的绿荫中找到她在玩耍或阅读。\n\n# 提示：\n- 如果你看到霍比特人头上有标记，和他们说话，他们可能有东西给你。\n\n# 与霍比特人共进餐食有助于推进你的里程碑奖励：\n- 等级3：解锁穆玛岛作为共餐地点\n- 等级10：解锁交易\n- 等级1、2和4-9：解锁食谱和果酱交易\n\n# *\"柳树的女儿，黛西对周围等待探索的广阔世界充满了欢乐和兴奋。她拥有妈妈的勇气，总是冒险进入森林寻找有趣的东西！\"*",
+        "subcategoryExternalId": "JqdaIHp3Fm",
+        "imageId": 1447817,
+        "imagePath": "/game_map_pin/1447817/{size}.webp",
+        "videoId": 1447818,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/35a43aec5bc30ab586e5f9e323e2b57c1a05a4f2"
+      }
+    },
+    {
+      "coordinates": [
+        24.310106042247213,
+        -39.22451263944569
+      ],
+      "properties": {
+        "externalId": "7VNN5P0Tup",
+        "title": "柳树工坊",
+        "description": "",
+        "subcategoryExternalId": "n3PNhb1w9Z",
+        "imageId": 1448685,
+        "imagePath": "/game_map_pin/1448685/{size}.webp",
+        "videoId": 1448686,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/8d3344e582801ce20dd677ebac2a65ade2a8d0f9"
+      }
+    },
+    {
+      "coordinates": [
+        29.50401368314141,
+        -38.70188443588402
+      ],
+      "properties": {
+        "externalId": "TSgfZdnwyy",
+        "title": "",
+        "description": "# Willow 在她的工作坊里度过每一天，专心致志地修修补补，工作坊就在你的霍比特洞穴东南方。到了晚上，她仍在那里，与 Daisy 一起在花园里享受宁静的时光，手里经常拿着一本书。\n\n# 注意事项：\n- 她可以用她的栗子、榛子或胡桃来交换你的风倒木。\n- 如果你有足够的资金，可以购买座椅、架子和储物柜、桌子以及衣柜。\n\n# 提示：\n- 如果你看到霍比特人头上有标记，和他们交谈，他们可能有东西给你。\n\n# 与霍比特人共进餐食有助于推进你的里程碑奖励：\n- 等级 3：获得进入家中前门和前厅的权限\n- 等级 6：获得进入后房间和厨房旁走廊的权限\n- 等级 10：解锁进入大型中央房间和连接所有房间的内部走廊的权限。\n\n# *\"聪明而独立的 Willow 是一位木工大师，如果拜水镇的问题都与木材有关的话，她能解决所有问题。无论你在哪里找到 Willow，她的女儿 Daisy 都不会离得太远。\"",
+        "subcategoryExternalId": "Jl6rFTt1XL",
+        "imageId": 1447836,
+        "imagePath": "/game_map_pin/1447836/{size}.webp",
+        "videoId": 1447837,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/fd4e9df01478cb5e1e249751552512045586594f"
+      }
+    },
+    {
+      "coordinates": [
+        -1.5754675920493355,
+        -49.288233822130536
+      ],
+      "properties": {
+        "externalId": "u7naF6SXV3",
+        "title": "",
+        "description": "# Lily 从前往棉花农场的快速旅行开始她的一天，但她把剩下的时间都花在她拥有的绿龙酒馆里。\n\n# 注意：\n- 随着你在传说中的进展，她将担任烹饪俱乐部领袖的角色。完成俱乐部公告板任务后回到她那里领取奖励。\n\n# 提示：\n- 如果你看到霍比特人头上有标记，和他们交谈，他们可能有东西给你。\n\n# 与霍比特人共进餐有助于推进你的里程碑奖励：\n- 等级 3：解锁绿龙酒馆作为共餐场所\n- 等级 6：解锁交易\n- 等级 10：随着升级，更多交易选择将变得可用。\n\n# *\"作为一生都住在拜沃特的霍比特人和绿龙酒馆的老板娘，Lily 是一位出色的厨师，对家人充满了爱。她天性慈母般的温柔，如果可能的话，她愿意照亮拜沃特每一个霍比特人的日子！\"",
+        "subcategoryExternalId": "KtVxEW3vac",
+        "imageId": 1448669,
+        "imagePath": "/game_map_pin/1448669/{size}.webp",
+        "videoId": 1448671,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/0a8ca66e597ffa60fab7b408289252e1c3ee8b77"
+      }
+    },
+    {
+      "coordinates": [
+        32.64207940844685,
+        -31.23464000037073
+      ],
+      "properties": {
+        "externalId": "8s3EAgInJn",
+        "title": "马勃菌",
+        "description": "# 位于河流附近，靠近桥梁和柳树工坊。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 蘑菇 |\n| 偏好季节 | 秋季和夏季 |\n\n# *\"一个巨大而美丽的蘑菇。既可以作为一顿美餐，也可以用力踢一脚让它滚下山坡。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1448696,
+        "imagePath": "/game_map_pin/1448696/{size}.webp",
+        "videoId": 1448697,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/f9bfecb6f6c9d4b0b92350d85ec7a45dad99d5e5"
+      }
+    },
+    {
+      "coordinates": [
+        62.4549057123331,
+        -36.81103167159625
+      ],
+      "properties": {
+        "externalId": "0TmsHrcd6b",
+        "title": "森林",
+        "description": "",
+        "subcategoryExternalId": "J9hIKoC0Nh",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        49.35725776788357,
+        -29.55055959093135
+      ],
+      "properties": {
+        "externalId": "G4KzWlNO0o",
+        "title": "斯佩拉奇",
+        "description": "# 在前往森林的路上发现，沿着主路。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 蔬菜 |\n| 偏好 | 秋季 |\n\n# *\"小小的脆嫩喜悦之棒；快乐的束缚。据说这些生长在地下的湿润土壤中，年复一年地在同一个地方发芽，持续了很多年。\"*",
+        "subcategoryExternalId": "QRg83org3I",
+        "imageId": 1448713,
+        "imagePath": "/game_map_pin/1448713/{size}.webp",
+        "videoId": 1448714,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/94eb5ad16fc770a154210e6c90b1d4c4a4e27aa4"
+      }
+    },
+    {
+      "coordinates": [
+        53.051284765367825,
+        -22.26908634739624
+      ],
+      "properties": {
+        "externalId": "MGQmhFVIwJ",
+        "title": "",
+        "description": "# 德尔菲喜欢待在家附近，通常在她的花园里或在外面觅食。晚上，她会照料植物，然后回到屋内。\n\n# 注意：\n她可以用以下物品与你的物品进行交换：\n- 芳香杏果酱 = 6个你的篱芥菜\n- 美味蔓越莓果酱 = 6个你的胡椒草\n- 香甜李子果酱 = 6个你的欧芹\n- 清爽桃子果酱 = 6个你的旱金莲\n\n随着你在传说中的进展，她将担任觅食俱乐部领袖的角色。完成俱乐部任务板任务后回到她那里领取奖励。\n\n# 提示：\n- 如果你看到霍比特人头上有标记，和他们交谈，他们可能有东西给你。\n\n# 与霍比特人共享用餐有助于推进你的里程碑奖励：\n- 等级3：解锁德尔菲尼娅的屋顶作为共享用餐场所\n- 等级6：解锁森林空地区域\n- 等级10：解锁蜂箱\n\n# *\"白水村的治疗师，就像她已故的母亲一样（尽管可以说没那么成功）。她温暖、友好，欢迎所有人。白水村没有霍比特人比德尔菲尼娅更了解森林的恩赐。\"*",
+        "subcategoryExternalId": "cIapfNnbrl",
+        "imageId": 1448719,
+        "imagePath": "/game_map_pin/1448719/{size}.webp",
+        "videoId": 1448720,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/310e095425563e53dd57a2f5b592339b485d0737"
+      }
+    },
+    {
+      "coordinates": [
+        47.991554484497016,
+        -20.5428379457164
+      ],
+      "properties": {
+        "externalId": "qmZTeFVq01",
+        "title": "飞燕草之树",
+        "description": "",
+        "subcategoryExternalId": "R3cQ7VHfjO",
+        "imageId": 1448734,
+        "imagePath": "/game_map_pin/1448734/{size}.webp",
+        "videoId": 1448735,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/f48e886904bcfe7fdce62d7310f6d50157978cb8"
+      }
+    },
+    {
+      "coordinates": [
+        38.213923878225955,
+        -19.833091695625953
+      ],
+      "properties": {
+        "externalId": "aixPfjCGFB",
+        "title": "鸡油菌",
+        "description": "# 这种蔬菜可以在作为小径遮篷的大树下找到。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辣味 |\n| 偏好 | 夏季和春季 |\n\n# *\"一种非常漂亮的蘑菇，颜色鲜艳如鳟鱼的腹部。褶皱看起来有点像裙子，真是别致\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1448742,
+        "imagePath": "/game_map_pin/1448742/{size}.webp",
+        "videoId": 1448743,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/f4bf3f827d7cb6c25c02773ca3ac8e08b88b2dd5"
+      }
+    },
+    {
+      "coordinates": [
+        47.17579298911372,
+        -1.3026624693394808
+      ],
+      "properties": {
+        "externalId": "PC5IyaVnSQ",
+        "title": "三法新石",
+        "description": "# 随着你的进展，你将能够在三芬石装饰和举办共享聚餐，这里可以容纳中等数量的参与者。前往你的写字台来在这个新地点组织一场共享聚餐吧！",
+        "subcategoryExternalId": "J9hIKoC0Nh",
+        "imageId": 1448769,
+        "imagePath": "/game_map_pin/1448769/{size}.webp",
+        "videoId": 1448770,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/17234c109109903824c9f2d2530eec170c3ab1ba"
+      }
+    },
+    {
+      "coordinates": [
+        42.51671721685187,
+        -6.307462250197148
+      ],
+      "properties": {
+        "externalId": "p50WBHqd2f",
+        "title": "篱芥菜地",
+        "description": "# 在主路上发现，就在三法新石旁边。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 夏季和秋季 |\n\n# *\"一种辛辣的植物，这些在大路沿线到处都有生长，甚至一直延伸到布理！\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1448749,
+        "imagePath": "/game_map_pin/1448749/{size}.webp",
+        "videoId": 1448750,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/82e2b6e8e2e6f461c83239d837386e0bff1fe380"
+      }
+    },
+    {
+      "coordinates": [
+        56.81472100301423,
+        -10.528019651998648
+      ],
+      "properties": {
+        "externalId": "iL2O2nAnez",
+        "title": "接骨木村",
+        "description": "# 在通往山丘的木板下发现。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦涩 |\n| 类型 | 浆果 |\n| 偏好季节 | 夏季和秋季 |\n\n# *\"也许是所有浆果中最苦的，正如大多数接骨木果常有的特点。\"*",
+        "subcategoryExternalId": "5LSlHqgK0I",
+        "imageId": 1448755,
+        "imagePath": "/game_map_pin/1448755/{size}.webp",
+        "videoId": 1448756,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/0305decea58e2abf24b20e372e01b896a9726178"
+      }
+    },
+    {
+      "coordinates": [
+        63.476182919635846,
+        -47.18157613151411
+      ],
+      "properties": {
+        "externalId": "t9mMsyiqHj",
+        "title": "树根池",
+        "description": "# 在这里钓鱼有机会钓到这些鱼：\n- 石鳅\n- 银鲂\n- 普通鲮鱼\n- 普通鲂鱼\n- 蓝鳍鮈鱼\n- 拜沃特鲌鱼",
+        "subcategoryExternalId": "LBaPwI24iR",
+        "imageId": 1448795,
+        "imagePath": "/game_map_pin/1448795/{size}.webp",
+        "videoId": 1448796,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/fbdee45b8b5eb0dc9f3ab974d4b535c4f46e000b"
+      }
+    },
+    {
+      "coordinates": [
+        54.76621052058147,
+        -47.81497701896216
+      ],
+      "properties": {
+        "externalId": "QIlzUXdhIQ",
+        "title": "意外之木",
+        "description": "# 在前往树根池的路上，它位于木拱门附近。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 偏好 | 四季皆宜 |\n\n# *\"从夏尔微风中飘落的木屑。这是非常优质的木材！\"*",
+        "subcategoryExternalId": "PIMhlLKuH7",
+        "imageId": 1448802,
+        "imagePath": "/game_map_pin/1448802/{size}.webp",
+        "videoId": 1448803,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/97d5c4b11685fd29c2d2c0e6b2d2eee649cf3244"
+      }
+    },
+    {
+      "coordinates": [
+        55.50527679354215,
+        -44.97034362397814
+      ],
+      "properties": {
+        "externalId": "q4H2I81tUY",
+        "title": "马勃菌",
+        "description": "# 在前往树根池的路上发现，位于山顶木拱旁边。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 蘑菇 |\n| 偏好季节 | 秋季和夏季 |\n\n# *\"一个巨大而亮眼的蘑菇。既可以作为美食，也可以用力一踢让它滚下山坡。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1448816,
+        "imagePath": "/game_map_pin/1448816/{size}.webp",
+        "videoId": 1448817,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/64fa4f703ba2f415d0adfda3ce639dde0f0fee44"
+      }
+    },
+    {
+      "coordinates": [
+        44.246396711294125,
+        -40.08361884865562
+      ],
+      "properties": {
+        "externalId": "PfsKt2USVB",
+        "title": "黑莓",
+        "description": "# 起初很难发现，除非你检查果实，因为这棵树混在高草丛中。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 酸味 |\n| 类型 | 浆果 |\n| 偏好 | 夏季和秋季 |\n\n# *\"令人惊叹的是，这些小黑浆果竟然如此酸涩。\"*",
+        "subcategoryExternalId": "5LSlHqgK0I",
+        "imageId": 1448823,
+        "imagePath": "/game_map_pin/1448823/{size}.webp",
+        "videoId": 1448824,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/988f1e6a979d3ac92a29eda6a6f41a32b9a09670"
+      }
+    },
+    {
+      "coordinates": [
+        36.890723060421294,
+        -34.19492938875656
+      ],
+      "properties": {
+        "externalId": "5DL5NvHG3n",
+        "title": "意外之木",
+        "description": "# 在草地上的树下发现。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 偏好 | 所有季节 |\n\n# *\"被夏尔的微风吹落的木屑。这是非常好的优质木材！\"*",
+        "subcategoryExternalId": "PIMhlLKuH7",
+        "imageId": 1448833,
+        "imagePath": "/game_map_pin/1448833/{size}.webp",
+        "videoId": 1448834,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/69e902be397b2b72ad5a9e5a0b3f0f03f04b6d85"
+      }
+    },
+    {
+      "coordinates": [
+        35.54436930916981,
+        -38.45569423895523
+      ],
+      "properties": {
+        "externalId": "e5amYiJOY8",
+        "title": "鸡油菌",
+        "description": "# 它位于一棵树下，旁边有两根树枝叠放在一起。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 偏好 | 夏季和春季 |\n\n# *\"一种非常漂亮的蘑菇，颜色鲜艳得像鳟鱼的腹部。那些褶边看起来有点像裙子，多么古雅\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1448841,
+        "imagePath": "/game_map_pin/1448841/{size}.webp",
+        "videoId": 1448842,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/42272d31974f8e6f73d10c2cb9684b0d48d9ead9"
+      }
+    },
+    {
+      "coordinates": [
+        34.953300622059004,
+        -37.39852781793512
+      ],
+      "properties": {
+        "externalId": "bWqAHOS5Jw",
+        "title": "便士面包",
+        "description": "# 它位于两棵叠放的树木和用于劈木头的传送带中间。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 蘑菇 |\n| 偏好季节 | 夏季和秋季 |\n\n# *\"一个饱满的小蘑菇，外观像柔软的面包。它有着微妙但独特的苦味。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1448847,
+        "imagePath": "/game_map_pin/1448847/{size}.webp",
+        "videoId": 1448848,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/9789fe9cbba802d09117354cf174d2e2ff7bfd90"
+      }
+    },
+    {
+      "coordinates": [
+        -27.632987173855724,
+        -31.947804651698178
+      ],
+      "properties": {
+        "externalId": "tHtYoMgdy6",
+        "title": "野牛肉地",
+        "description": "# 你可以发现这种蔬菜紧贴在树干上生长。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 咸味 |\n| 类型 | 蘑菇 |\n| 偏好 | 夏季和秋季 |\n\n# *\"它看起来真的很像一小块牛肉，如果你不是亲自从树桩上采摘的话，肯定会被骗到。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1448917,
+        "imagePath": "/game_map_pin/1448917/{size}.webp",
+        "videoId": 1448918,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/12f198f7720f860341d37189baac95bbecfcf89c"
+      }
+    },
+    {
+      "coordinates": [
+        -26.77132891769591,
+        -32.66280953406061
+      ],
+      "properties": {
+        "externalId": "m0jNpp2wOJ",
+        "title": "便士面包",
+        "description": "# 野牛肉和这种蔬菜都可以在同一棵树上找到，只需检查草地并采集这种蘑菇。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 蘑菇 |\n| 偏好 | 夏季和秋季 |\n\n# *\"一种丰满的小蘑菇，外观像柔软的面包。它有着微妙但独特的苦味。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1448919,
+        "imagePath": "/game_map_pin/1448919/{size}.webp",
+        "videoId": 1448920,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/6eb676e163a1bd2cc1bda54814f5b75e3382dbb3"
+      }
+    },
+    {
+      "coordinates": [
+        -57.54264157373635,
+        -17.64129283447177
+      ],
+      "properties": {
+        "externalId": "dwjTbcdrNM",
+        "title": "斯佩拉奇",
+        "description": "# 在稻田附近的小径上发现。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜 |\n| 类型 | 蔬菜 |\n| 偏好 | 秋季 |\n\n# *\"小巧酥脆的美味棒状物；快乐的束装。据说这些生长在地下的湿润土壤中，年复一年在同一个地方发芽，经久不衰。\"*",
+        "subcategoryExternalId": "QRg83org3I",
+        "imageId": 1448921,
+        "imagePath": "/game_map_pin/1448921/{size}.webp",
+        "videoId": 1448922,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/68a41d1c8a2e76e631f6167dc2a744049cae57b3"
+      }
+    },
+    {
+      "coordinates": [
+        -56.54907844986984,
+        -28.715943150928844
+      ],
+      "properties": {
+        "externalId": "mB7sMEgzZP",
+        "title": "覆盆子",
+        "description": "# 在河岸边发现，靠近一棵细树和几丛灌木。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜 |\n| 类型 | 浆果 |\n| 偏好 | 夏季 |\n\n# *\"一种很好的浆果，相当甜，鲜红色。\"*",
+        "subcategoryExternalId": "5LSlHqgK0I",
+        "imageId": 1448956,
+        "imagePath": "/game_map_pin/1448956/{size}.webp",
+        "videoId": 1448957,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/7449db7b1f7c1772b1bdeeca78975817bda66d8e"
+      }
+    },
+    {
+      "coordinates": [
+        -56.517571817663665,
+        -30.663195742013166
+      ],
+      "properties": {
+        "externalId": "LaTSk811Vd",
+        "title": "篱芥菜地",
+        "description": "# 在覆盆子植物旁发现。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 夏季和秋季 |\n\n# *\"一种辛辣的植物，这些植物在大道沿线到处都有生长，甚至一直延伸到布理！\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1448961,
+        "imagePath": "/game_map_pin/1448961/{size}.webp",
+        "videoId": 1448962,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/ffb26adf868fcca7cf21771f9724054adee55b21"
+      }
+    },
+    {
+      "coordinates": [
+        -58.65667833719925,
+        -29.660622857728313
+      ],
+      "properties": {
+        "externalId": "t1irk2nhTH",
+        "title": "便士面包",
+        "description": "# 它与灌木丛长在一起。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 蘑菇 |\n| 偏好 | 夏季和秋季 |\n\n# *\"一种饱满的小蘑菇，外观像柔软的面包。它有着微妙但独特的苦味。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1448970,
+        "imagePath": "/game_map_pin/1448970/{size}.webp",
+        "videoId": 1448972,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/9beff9763b39536fd213877904fae1ece7cd50e2"
+      }
+    },
+    {
+      "coordinates": [
+        -65.83476137851805,
+        -5.379834539486737
+      ],
+      "properties": {
+        "externalId": "1GhbF6QWCG",
+        "title": "野牛肉地",
+        "description": "# 这种蔬菜可以在树干和石柱上找到。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 咸味 |\n| 类型 | 蘑菇 |\n| 偏好 | 夏季和秋季 |\n\n# *\"它看起来真的像一小块牛肉，如果你不是亲自从树桩上采摘的话，肯定会被骗到。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1448986,
+        "imagePath": "/game_map_pin/1448986/{size}.webp",
+        "videoId": 1448987,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/fade4944cbe76370f5b65b1400799f1281a8d46b"
+      }
+    },
+    {
+      "coordinates": [
+        -69.16492881410262,
+        -6.810476793961314
+      ],
+      "properties": {
+        "externalId": "hkrztCEuua",
+        "title": "篱芥菜地",
+        "description": "# 在覆盆子丛附近的山坡上发现。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 夏季和秋季 |\n\n# *\"一种辛辣的植物，沿着大道到处都有生长，甚至一直延伸到布理！\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1448990,
+        "imagePath": "/game_map_pin/1448990/{size}.webp",
+        "videoId": 1448991,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/ecb83cf7141448770b971345fa28d4652df92536"
+      }
+    },
+    {
+      "coordinates": [
+        -68.19260768721205,
+        -6.059671435594581
+      ],
+      "properties": {
+        "externalId": "iGe3GkvzbF",
+        "title": "覆盆子",
+        "description": "# 在芥菜附近的山坡上发现。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜 |\n| 类型 | 浆果 |\n| 偏好 | 夏季 |\n\n# *\"一颗好浆果，相当甜，呈鲜艳的红色。\"*",
+        "subcategoryExternalId": "5LSlHqgK0I",
+        "imageId": 1448998,
+        "imagePath": "/game_map_pin/1448998/{size}.webp",
+        "videoId": 1448999,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/d5ff50b8cf0d26aad6ba43a2012de9c91d7c242d"
+      }
+    },
+    {
+      "coordinates": [
+        -67.65625648350378,
+        -3.9989658982562304
+      ],
+      "properties": {
+        "externalId": "QYvhvTX2MY",
+        "title": "斯佩拉奇",
+        "description": "# 就在篱芥菜和覆盆子下方，靠近你拾取野牛肉的区域。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜 |\n| 类型 | 蔬菜 |\n| 偏好 | 秋天 |\n\n# *\"小小的脆嫩美味棒；快乐的束捆。据说这些生长在地下湿润的土壤中，年复一年在同一个地方发芽，经久不衰。\"*",
+        "subcategoryExternalId": "QRg83org3I",
+        "imageId": 1449002,
+        "imagePath": "/game_map_pin/1449002/{size}.webp",
+        "videoId": 1449003,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/05294eace309d3e7900887ff48d7d94ff32e99d2"
+      }
+    },
+    {
+      "coordinates": [
+        -59.375687042789465,
+        -3.2135032518661006
+      ],
+      "properties": {
+        "externalId": "I9Xe153hc5",
+        "title": "篱芥菜地",
+        "description": "# 位于河岸边的石径旁。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 夏季和秋季 |\n\n# *\"一种辛辣的植物，这些植物在大道沿线到处都有生长，甚至一直延伸到布理！\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1449026,
+        "imagePath": "/game_map_pin/1449026/{size}.webp",
+        "videoId": 1449027,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/c61bffa359126e2c96de339ba26b58f9f1915caa"
+      }
+    },
+    {
+      "coordinates": [
+        -68.58428720570771,
+        -1.5219610229440406
+      ],
+      "properties": {
+        "externalId": "NdW1O5PzG4",
+        "title": "篱芥菜地",
+        "description": "# 在被阻挡的拱道入口处发现。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 夏季和秋季 |\n\n# *\"一种辛辣的植物，这些在大路沿线到处都有生长，甚至一直延伸到布理！\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1449032,
+        "imagePath": "/game_map_pin/1449032/{size}.webp",
+        "videoId": 1449033,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/510d1663e53d62dfee0f258f03c2df70348dfbf8"
+      }
+    },
+    {
+      "coordinates": [
+        -69.01167536721363,
+        -3.3335643151668393
+      ],
+      "properties": {
+        "externalId": "CHB7gJOMnX",
+        "title": "胡椒草地",
+        "description": "# 在被封锁的拱形通道入口处发现。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 夏季和春季 |\n\n# *\"这种植物中的小种子充满了强烈的香料，很容易让你措手不及。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1449036,
+        "imagePath": "/game_map_pin/1449036/{size}.webp",
+        "videoId": 1449037,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/8536a632c61e9688e1ab014904cb6d4c7b2e3d87"
+      }
+    },
+    {
+      "coordinates": [
+        -40.102351869256694,
+        -1.8708238839420233
+      ],
+      "properties": {
+        "externalId": "DaZTmITKQj",
+        "title": "便士面包",
+        "description": "# 在白树下发现。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 蘑菇 |\n| 偏好 | 夏季和秋季 |\n\n# *\"一种饱满的小蘑菇，外观像柔软的面包。它有着微妙但独特的苦味。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1449054,
+        "imagePath": "/game_map_pin/1449054/{size}.webp",
+        "videoId": 1449055,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/e0b48be8b51c0740eed9d83c38925b7ca25581ca"
+      }
+    },
+    {
+      "coordinates": [
+        -34.08648239959865,
+        -1.0873105124606326
+      ],
+      "properties": {
+        "externalId": "nAvAxH7fxq",
+        "title": "意外之木",
+        "description": "# 你可以在那棵白树下找到它。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 偏好 | 所有季节 |\n\n# *\"从夏尔各处微风中飘落的木片。这是品质非常好的木材！\"*",
+        "subcategoryExternalId": "PIMhlLKuH7",
+        "imageId": 1449059,
+        "imagePath": "/game_map_pin/1449059/{size}.webp",
+        "videoId": 1449060,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/3b35c868c5304b6455a6a019da2729366e7341b1"
+      }
+    },
+    {
+      "coordinates": [
+        -33.097600469948844,
+        0.3590765763476753
+      ],
+      "properties": {
+        "externalId": "N9QrQETGP9",
+        "title": "便士面包",
+        "description": "# 你可以在大石头旁边的白树下找到它。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 蘑菇 |\n| 偏好 | 夏季和秋季 |\n\n# *\"一种丰满的小蘑菇，外观像柔软的面包。它有着微妙但独特的苦味。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1449061,
+        "imagePath": "/game_map_pin/1449061/{size}.webp",
+        "videoId": 1449062,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/e1457bcb538c44a47ab775efa411b8e4b86d444d"
+      }
+    },
+    {
+      "coordinates": [
+        -31.471623907450123,
+        -2.013553350271522
+      ],
+      "properties": {
+        "externalId": "XnTnlUncqR",
+        "title": "篱芥菜地",
+        "description": "# 你可以在一块大石头旁边找到它。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 夏季和秋季 |\n\n# *\"一种辛辣的植物，这些植物在大道沿线到处生长，甚至一直延伸到布理！\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1449064,
+        "imagePath": "/game_map_pin/1449064/{size}.webp",
+        "videoId": 1449065,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/c6d8d3402103f390b74badcebf3c78f9f0832af2"
+      }
+    },
+    {
+      "coordinates": [
+        -34.10467694869766,
+        -7.289198609853827
+      ],
+      "properties": {
+        "externalId": "7YmUvtGKI1",
+        "title": "篱芥菜地",
+        "description": "# 在这棵树旁的位置，有三株独行菜植物。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 夏季和秋季 |\n\n# *\"一种辛辣的植物，这些植物在大道沿线到处都有生长，甚至一直延伸到布理！\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1449072,
+        "imagePath": "/game_map_pin/1449072/{size}.webp",
+        "videoId": 1449073,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/59e17841ef6a9d19bc23d992921673817ba29d7a"
+      }
+    },
+    {
+      "coordinates": [
+        -33.94439906234274,
+        -9.939525959265524
+      ],
+      "properties": {
+        "externalId": "jSUlhlPl9S",
+        "title": "接骨木村",
+        "description": "# 草地中刻有雕刻的石头旁边。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦涩 |\n| 类型 | 浆果 |\n| 偏好 | 夏季和秋季 |\n\n# *\"也许是浆果中最苦涩的，正如大多数长者一样。\"*",
+        "subcategoryExternalId": "5LSlHqgK0I",
+        "imageId": 1449078,
+        "imagePath": "/game_map_pin/1449078/{size}.webp",
+        "videoId": 1449079,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/8516b10bb69e3a27419388fe44203023b9500829"
+      }
+    },
+    {
+      "coordinates": [
+        -23.601720370178356,
+        -21.008590368653145
+      ],
+      "properties": {
+        "externalId": "t3fAzBnlrC",
+        "title": "马勃菌",
+        "description": "# 位于霍比特人房屋窗户附近。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 蘑菇 |\n| 偏好 | 秋季和夏季 |\n\n# *\"一个巨大的绝佳蘑菇。无论是作为一顿饭，还是用力一踢让它滚下山坡，都是不错的选择。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1449080,
+        "imagePath": "/game_map_pin/1449080/{size}.webp",
+        "videoId": 1449081,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/05fcaf52a7d3666ed0c3ff97a402c50bbd493e30"
+      }
+    },
+    {
+      "coordinates": [
+        4.962545555945923,
+        -2.8388655259761464
+      ],
+      "properties": {
+        "externalId": "TgtRknvHwz",
+        "title": "篱芥菜地",
+        "description": "# 位于木棚旁边。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 夏季和秋季 |\n\n# *\"一种辛辣的植物，这些植物在大道沿线到处都有生长，甚至一直延伸到布理！\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1449086,
+        "imagePath": "/game_map_pin/1449086/{size}.webp",
+        "videoId": 1449087,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/1132d3b19e35facff0f9d14b88016c7578322270"
+      }
+    },
+    {
+      "coordinates": [
+        -7.15216475818977,
+        12.16733159209673
+      ],
+      "properties": {
+        "externalId": "FZlMMZHfX3",
+        "title": "村庄广场",
+        "description": "",
+        "subcategoryExternalId": "J9hIKoC0Nh",
+        "imageId": 1449089,
+        "imagePath": "/game_map_pin/1449089/{size}.webp",
+        "videoId": 1449090,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/a756d8c7b1e6d123ff660736cc8d6a621fe41452"
+      }
+    },
+    {
+      "coordinates": [
+        -12.394665308493387,
+        13.136633444537424
+      ],
+      "properties": {
+        "externalId": "bgRO3I024D",
+        "title": "",
+        "description": "# 白天，霍布森在村庄广场照料他的店铺，晚上他会去位于广场东边的常春藤酒馆喝一杯。\n\n# 注意：\n根据你拥有的金钱数量，你可以购买以下物品（每天补货）：\n- 黑胡椒\n- 丁香\n- 柠檬\n- 葡萄干\n- 盐\n- 糖\n\n# 提示：\n- 如果你看到霍比特人头上有标记，与他们交谈，他们可能有东西给你。\n\n# 与霍比特人共享用餐有助于推进你的里程碑奖励：\n- 等级 3：店铺升级\n- 等级 6：店铺升级\n- 等级 10：感人礼物\n\n# *\"关于霍布森能说什么呢？真的。霍布森的一切都来源可疑，价值存疑。他某处藏着一些诚实。如果他找到了，他会试图卖给你。\"*",
+        "subcategoryExternalId": "S5rgYdHD5Q",
+        "imageId": 1449110,
+        "imagePath": "/game_map_pin/1449110/{size}.webp",
+        "videoId": 1449111,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/19ccae9e660a6bea6ce441f47a5ee852bdcceaeb"
+      }
+    },
+    {
+      "coordinates": [
+        -6.618670376379924,
+        16.87556323509554
+      ],
+      "properties": {
+        "externalId": "v3wCWIlgcj",
+        "title": "洞穴屋的商店与住宅",
+        "description": "",
+        "subcategoryExternalId": "n3PNhb1w9Z",
+        "imageId": 1449108,
+        "imagePath": "/game_map_pin/1449108/{size}.webp",
+        "videoId": 1449109,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/e0f18c43ed4738b30b905af8a084ae8e790a31a9"
+      }
+    },
+    {
+      "coordinates": [
+        -5.802019908791067,
+        19.188622477038862
+      ],
+      "properties": {
+        "externalId": "8YgPmWfPbK",
+        "title": "",
+        "description": "# 诺拉白天在地洞商店工作，商店从村庄广场的北侧进入，晚上她会去绿龙酒馆喝一杯。\n\n# 注意：\n你可以根据你拥有的金钱数量购买以下物品：\n- 上装\n- 下装\n- 配饰\n- 外套\n\n# 提示：\n- 如果你看到霍比特人头上有标记，和他们交谈，他们可能有东西给你。\n\n# 与霍比特人共进餐食有助于推进你的里程碑奖励：\n- 等级3：新的服装选择\n- 等级6：新的服装选择\n- 等级10：解锁新区域\n\n# *\"诺拉与她的兄弟福斯科一起由科顿家族抚养长大。诺拉天性极其好奇。受到比尔博·巴金斯故事的启发，她是一个狂热的纪念品收藏家，每件收藏品都有自己的故事要讲述。\"*",
+        "subcategoryExternalId": "HjGLbtO1Cx",
+        "imageId": 1449106,
+        "imagePath": "/game_map_pin/1449106/{size}.webp",
+        "videoId": 1449107,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/89dcd6a153931e8169757847bdc39d11772027dc"
+      }
+    },
+    {
+      "coordinates": [
+        -7.039650990880574,
+        19.429124330225164
+      ],
+      "properties": {
+        "externalId": "lQbNq6QnBP",
+        "title": "",
+        "description": "# 白天，福斯科在伯罗斯商店工作，晚上则和妻子一起在绿龙酒馆。\n\n# 注意：\n如果资金充足，您可以购买以下物品：\n- 厨房和餐厅用品\n- 罐子和陶器\n- 零碎物品\n- 纪念品\n- 墙面装饰（需要高友谊等级）\n- 照明设备（需要高友谊等级）\n\n# 提示：\n- 如果您看到霍比特人头上有标记，请与他们交谈，他们可能有东西要给您。\n\n# 与霍比特人共进晚餐有助于推进您的里程碑奖励：\n- 等级3：商店新增物品\n- 等级6：商店新增物品\n- 等级10：商店新增物品\n\n# *\"与妹妹诺拉一起经营商店，两人在大多数时候都是截然相反的。福斯科一丝不苟，是个完美主义者，比拜沃特的其他人有着更高的美学鉴赏力。至少他自己是这么认为的。\"*",
+        "subcategoryExternalId": "k0ewLNK0vO",
+        "imageId": 1449112,
+        "imagePath": "/game_map_pin/1449112/{size}.webp",
+        "videoId": 1449113,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/d416b81d27e8927e9259980c51b05d288904f4ae"
+      }
+    },
+    {
+      "coordinates": [
+        -9.89622385294183,
+        24.484839305860007
+      ],
+      "properties": {
+        "externalId": "rMns28SucF",
+        "title": "尼菲的铁匠铺",
+        "description": "",
+        "subcategoryExternalId": "R3cQ7VHfjO",
+        "imageId": 1449126,
+        "imagePath": "/game_map_pin/1449126/{size}.webp",
+        "videoId": 1449127,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/c3787bb66d6154d51ae8cbc19c3902715a0143fa"
+      }
+    },
+    {
+      "coordinates": [
+        9.391583548920437,
+        16.41109502804467
+      ],
+      "properties": {
+        "externalId": "6AleX81FtM",
+        "title": "啤酒花田",
+        "description": "# 位于河岸边一些灌木丛附近。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 偏好 | 秋季 |\n\n# *\"一种有趣而神秘的谷物，深受霍比特人和矮人喜爱，它能制成出人意料的美味奶酪，在拜沃特很受一些人的青睐。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1449161,
+        "imagePath": "/game_map_pin/1449161/{size}.webp",
+        "videoId": 1449162,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/6c5410d0caa2967d6d212f99a7ca0f7b87dedac5"
+      }
+    },
+    {
+      "coordinates": [
+        8.63878908623488,
+        15.176392840726066
+      ],
+      "properties": {
+        "externalId": "BogpulozmQ",
+        "title": "斯佩拉奇",
+        "description": "# 位于河岸边一些灌木丛附近。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜 |\n| 类型 | 蔬菜 |\n| 偏好 | 秋季 |\n\n# *\"小小的脆嫩美味棒；快乐的束束。据说这些生长在地下湿润的土壤中，年复一年地在同一个地方发芽，历经岁月。\"*",
+        "subcategoryExternalId": "QRg83org3I",
+        "imageId": 1449133,
+        "imagePath": "/game_map_pin/1449133/{size}.webp",
+        "videoId": 1449134,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/194ee31276b1b6f8e329a8afaa957815af876ceb"
+      }
+    },
+    {
+      "coordinates": [
+        9.95714846123434,
+        5.286042568751824
+      ],
+      "properties": {
+        "externalId": "3unWA0XJbP",
+        "title": "常春藤丛酒馆",
+        "description": "",
+        "subcategoryExternalId": "bZYRziubsO",
+        "imageId": 1449153,
+        "imagePath": "/game_map_pin/1449153/{size}.webp",
+        "videoId": 1449154,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/cb1312f52df95eef5450ebf6923f77235a6c0dd5"
+      }
+    },
+    {
+      "coordinates": [
+        21.467424902924478,
+        4.46040955580834
+      ],
+      "properties": {
+        "externalId": "xqBtw71JFU",
+        "title": "石桥",
+        "description": "",
+        "subcategoryExternalId": "hy1ThhkKQU",
+        "imageId": 1449183,
+        "imagePath": "/game_map_pin/1449183/{size}.webp",
+        "videoId": 1449184,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/749874a8a5aafc6bda8ff0f3ca59394f33c45104"
+      }
+    },
+    {
+      "coordinates": [
+        22.360039336292118,
+        0.04215947585551305
+      ],
+      "properties": {
+        "externalId": "QfWXAXsOXT",
+        "title": "老石桥水潭",
+        "description": "# 在这里钓鱼有机会钓到以下鱼类：\n- 鲈鱼\n- 裂纹鲑鱼\n- 黎明鲦鱼\n- 完好鲑鱼",
+        "subcategoryExternalId": "LBaPwI24iR",
+        "imageId": 1449185,
+        "imagePath": "/game_map_pin/1449185/{size}.webp",
+        "videoId": 1449186,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/34f43e7ffab26d7b10556a6fb8f805efbc0a5f9a"
+      }
+    },
+    {
+      "coordinates": [
+        24.683453853318923,
+        1.0584122812174286
+      ],
+      "properties": {
+        "externalId": "YeI7hjHLZU",
+        "title": "榛子林",
+        "description": "# 位于树下草地上，楼梯旁边。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜 |\n| 类型 | 坚果 |\n| 偏好 | 夏季和秋季 |\n\n# *\"它们为甜食食谱增添了绝妙的口感，但单独食用时有一种类似甜点的味道。\"*",
+        "subcategoryExternalId": "9oXjq0xuJg",
+        "imageId": 1449187,
+        "imagePath": "/game_map_pin/1449187/{size}.webp",
+        "videoId": 1449188,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/cec25058048d0865a617a08eeb877a5323addf55"
+      }
+    },
+    {
+      "coordinates": [
+        25.67623062962369,
+        0.904574657936152
+      ],
+      "properties": {
+        "externalId": "j6IAxzajTM",
+        "title": "便士面包",
+        "description": "# 位于树下草地上，楼梯旁边。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 蘑菇 |\n| 偏好 | 夏季和秋季 |\n\n# *\"一种饱满的小蘑菇，外观像柔软的面包。它有着微妙但独特的苦味。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1449192,
+        "imagePath": "/game_map_pin/1449192/{size}.webp",
+        "videoId": 1449193,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/719c219932fd4312f6439469e8a5f94825c303af"
+      }
+    },
+    {
+      "coordinates": [
+        29.73520692356209,
+        -7.25548322168315
+      ],
+      "properties": {
+        "externalId": "vXbX6qGQQf",
+        "title": "斯佩拉奇",
+        "description": "# 在河岸边的草地上发现。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜 |\n| 类型 | 蔬菜 |\n| 偏好 | 秋季 |\n\n# *\"小小的脆嫩美味棒；快乐的束束。据说这些生长在地下湿润的土壤中，年复一年地在同一个地方发芽，经年不息。\"*",
+        "subcategoryExternalId": "QRg83org3I",
+        "imageId": 1449195,
+        "imagePath": "/game_map_pin/1449195/{size}.webp",
+        "videoId": 1449196,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/2faa958f034cf92d1211006bcf038991b02f29d2"
+      }
+    },
+    {
+      "coordinates": [
+        32.696294957996884,
+        -15.631228912492702
+      ],
+      "properties": {
+        "externalId": "PVxZt9IdHp",
+        "title": "马勃菌",
+        "description": "# 位于河流附近，灌木丛旁边。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 蘑菇 |\n| 偏好 | 秋季和夏季 |\n\n# *\"一个巨大而出色的蘑菇。既可以作为一顿美餐，也可以用力踢一脚让它滚下山坡。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1449198,
+        "imagePath": "/game_map_pin/1449198/{size}.webp",
+        "videoId": 1449199,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/3c2ae00fff05a9aeec20aa2752c3fa5ca20f4566"
+      }
+    },
+    {
+      "coordinates": [
+        35.99422751359603,
+        -13.081812220442771
+      ],
+      "properties": {
+        "externalId": "xwMbNqdN41",
+        "title": "榛子林",
+        "description": "# 位于树下的草地上。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 坚果 |\n| 偏好 | 夏季和秋季 |\n\n# *\"它们为甜食食谱增添了绝妙的口感，但单独食用时有着类似甜点的味道。\"*",
+        "subcategoryExternalId": "9oXjq0xuJg",
+        "imageId": 1449200,
+        "imagePath": "/game_map_pin/1449200/{size}.webp",
+        "videoId": 1449201,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/671e3b5edf7726e539e3880a7aca7d35438b9096"
+      }
+    },
+    {
+      "coordinates": [
+        32.022891812664994,
+        -10.457222169102252
+      ],
+      "properties": {
+        "externalId": "UTNOPQpLhl",
+        "title": "胡椒草地",
+        "description": "# 在河岸边的草地上发现。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 夏季和春季 |\n\n# *\"这种植物中的小种子蕴含着浓烈的香料味，很容易让你措手不及。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1449202,
+        "imagePath": "/game_map_pin/1449202/{size}.webp",
+        "videoId": 1449203,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/590c3ddbf65cb2d5227d803f2d5d461d5d9ca07e"
+      }
+    },
+    {
+      "coordinates": [
+        34.213428461691166,
+        -5.249690626700755
+      ],
+      "properties": {
+        "externalId": "lKMqqUK2iO",
+        "title": "榛子林",
+        "description": "# 位于树下的草地上。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 坚果 |\n| 偏好 | 夏季和秋季 |\n\n# *\"它们为甜食食谱增添了绝妙的口感，但单独食用时有着类似甜点的味道。\"*",
+        "subcategoryExternalId": "9oXjq0xuJg",
+        "imageId": 1449204,
+        "imagePath": "/game_map_pin/1449204/{size}.webp",
+        "videoId": 1449205,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/d254d0e1ded1bb6dc335fe8c1373d841a5abddc1"
+      }
+    },
+    {
+      "coordinates": [
+        25.363748383976713,
+        13.910824443427003
+      ],
+      "properties": {
+        "externalId": "6TWQbkZO1v",
+        "title": "老诺克的地洞屋",
+        "description": "",
+        "subcategoryExternalId": "R3cQ7VHfjO",
+        "imageId": 1449206,
+        "imagePath": "/game_map_pin/1449206/{size}.webp",
+        "videoId": 1449207,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/9401a7994e0e7867709cc5869a16eee6f3874eaf"
+      }
+    },
+    {
+      "coordinates": [
+        25.363748383976713,
+        20.57674128289794
+      ],
+      "properties": {
+        "externalId": "0wF8Tz0Pek",
+        "title": "醋栗",
+        "description": "# 这丛灌木位于老诺克小屋范围内的篝火附近。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 酸 |\n| 类型 | 浆果 |\n| 偏好 | 夏季 |\n\n# *\"如果你要在此刻挑选一个好果子，那'醋栗'绝对是首选。你确信奥洛会喜欢这个双关语的。\"*",
+        "subcategoryExternalId": "5LSlHqgK0I",
+        "imageId": 1449208,
+        "imagePath": "/game_map_pin/1449208/{size}.webp",
+        "videoId": 1449209,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/844be760519979877754b1573b035f5036e848ba"
+      }
+    },
+    {
+      "coordinates": [
+        38.749451532985745,
+        6.477759933045348
+      ],
+      "properties": {
+        "externalId": "xoaXWUx1hs",
+        "title": "篱芥菜地",
+        "description": "# 在奥洛家附近发现，位于大东路沿线的白树旁。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 夏季和秋季 |\n\n# *\"一种辛辣的植物，这些植物在大路沿线到处都有生长，甚至一直延伸到布理！\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1449211,
+        "imagePath": "/game_map_pin/1449211/{size}.webp",
+        "videoId": 1449212,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/5876ffb268a9fe6c572a2d78dba15d7ae859b433"
+      }
+    },
+    {
+      "coordinates": [
+        39.48033665967719,
+        11.11552456786444
+      ],
+      "properties": {
+        "externalId": "RSx2PfTbBe",
+        "title": "便士面包",
+        "description": "# 位于树下的草地上，靠近一些蜂箱。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 蘑菇 |\n| 偏好 | 夏季和秋季 |\n\n# *\"一个丰满的小蘑菇，外观像柔软的面包。它有着微妙但独特的苦味。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1449250,
+        "imagePath": "/game_map_pin/1449250/{size}.webp",
+        "videoId": 1449251,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/6545d25a018249d2d39e5a1ffd0c27b14ffad0a6"
+      }
+    },
+    {
+      "coordinates": [
+        44.43768569305101,
+        4.647701639134155
+      ],
+      "properties": {
+        "externalId": "QqkXDy0jVq",
+        "title": "醋栗",
+        "description": "# 位于一群蜂箱附近，这丛灌木就在近处。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 酸味 |\n| 类型 | 浆果 |\n| 偏好 | 夏季 |\n\n# *\"如果你要在此刻挑选一个好果子，那'莓'有疑问应该是醋栗。你确信奥洛会喜欢这个的。\"*",
+        "subcategoryExternalId": "5LSlHqgK0I",
+        "imageId": 1449257,
+        "imagePath": "/game_map_pin/1449257/{size}.webp",
+        "videoId": 1449258,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/b9bee5f6c8f6d77812d86b1264edf987a27620e1"
+      }
+    },
+    {
+      "coordinates": [
+        25.86692258125214,
+        15.075264640947978
+      ],
+      "properties": {
+        "externalId": "97TCunwPfA",
+        "title": "站稳脚跟",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|绿龙酒馆|朋友的餐桌|\n\n# 与霍比特人交谈，了解更多关于丢失的规则之书的信息。\n\n# 提示：\n- 你需要按顺序完成以下任务来完成你的传说（随着传说的进展，其中一些会有支线传说）：\n\n|任务|解锁|\n| :-----------: | :-----------: |\n|寻找并询问老诺克斯|初次捕获|\n|寻找并询问农夫科顿|从小事做起|\n|寻找并询问德尔菲妮·白兰地巴克|蝴蝶基础|\n|寻找并询问柳树·图克|--|\n|寻找并询问莉莉·科顿|秘密配料|\n\n# 注意事项：\n推进故事以学习以下食谱。\n- 非常美味的鱼饼\n- 清爽土豆豆子\n- 塔克博罗煎饼\n- 酥脆鱼肉派",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1449552,
+        "imagePath": "/game_map_pin/1449552/{size}.webp",
+        "videoId": 1449553,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/63c192192a488eff6e725c99197c3f3d7853a2ff"
+      }
+    },
+    {
+      "coordinates": [
+        -8.598923714665403,
+        13.760423052576499
+      ],
+      "properties": {
+        "externalId": "yz2xEdiqF6",
+        "title": "",
+        "description": "# 你第一次遇到他是在绿龙酒馆。白天，农夫科顿在村庄广场的商店里；夜晚，他会前往绿龙酒馆。\n\n# 注意：\n出售的种子因季节和你要寻找的物品而异。\n\n# 提示：\n- 如果你看到霍比特人头上有标记，与他们交谈，他们可能有东西给你。\n\n# 与霍比特人共享用餐有助于推进你的里程碑奖励：\n- 等级3：1只鸡\n- 等级6：1只鸡\n- 等级10：1只鸡\n\n# *\"科顿家族是水边村的创始家族之一，科顿农场是夏尔最好的农场之一。和蔼可亲但性格倔强，农夫科顿为他的家庭和村庄感到无比自豪。\"*",
+        "subcategoryExternalId": "gT44pOtIeE",
+        "imageId": 1449326,
+        "imagePath": "/game_map_pin/1449326/{size}.webp",
+        "videoId": 1449327,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/47bad6478490d9ba8481011924254abdb2bafd90"
+      }
+    },
+    {
+      "coordinates": [
+        -16.702151089797866,
+        24.75716275052166
+      ],
+      "properties": {
+        "externalId": "zW7yQHrCM9",
+        "title": "啤酒花田",
+        "description": "# 位于一丛灌木和箭头路标旁边。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 偏好 | 秋季 |\n\n# *\"一种有趣而神秘的谷物，深受霍比特人和矮人喜爱，能制成出人意料的美味奶酪，在白水镇很受一些人的青睐。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1449331,
+        "imagePath": "/game_map_pin/1449331/{size}.webp",
+        "videoId": 1449332,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/39c7834f5fece95b6ee22b322ac83a8393eae488"
+      }
+    },
+    {
+      "coordinates": [
+        -15.095607487547596,
+        29.777388339890067
+      ],
+      "properties": {
+        "externalId": "44C8TBkFry",
+        "title": "啤酒花田",
+        "description": "# 位于一口井旁边。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 偏好 | 秋季 |\n\n# *\"一种有趣而神秘的谷物，深受霍比特人和矮人喜爱，它能制成出人意料的美味奶酪，对拜水镇的一些人来说非常珍贵。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1449351,
+        "imagePath": "/game_map_pin/1449351/{size}.webp",
+        "videoId": 1449352,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/1cdaa67b314e630f91f121b447f07f38d7aa121e"
+      }
+    },
+    {
+      "coordinates": [
+        -36.641465467479065,
+        35.26103726099275
+      ],
+      "properties": {
+        "externalId": "rcMmSfMvii",
+        "title": "",
+        "description": "# 桑迪曼总是在磨坊里忙碌，整天整晚都在那里工作，甚至可能通宵达旦。磨坊位于绿龙酒馆的西北方。他首次出现在绿龙酒馆的过场动画中。\n\n# 注意：\n根据你拥有的金钱数量，你可以购买以下物品：\n- 大麦\n- 面粉\n- 燕麦\n- 酵母\n\n# 提示：\n- 如果你看到霍比特人头上有标记，与他们交谈，他们可能有东西给你。\n\n# 与霍比特人共进餐食有助于推进你的里程碑奖励：\n- 等级3：商店升级\n- 等级6：商店升级\n- 等级10：商店升级\n\n# *\"霍比屯磨坊的主人，不过他很乐意卖东西给拜沃特的霍比特人。如果他们不喜欢他的价格，欢迎他们去别处。下一个磨坊在十英里之外。\"*",
+        "subcategoryExternalId": "RILVKjRQ2y",
+        "imageId": 1449359,
+        "imagePath": "/game_map_pin/1449359/{size}.webp",
+        "videoId": 1449360,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/440eea1b83252ea4a4c0c7cad9534ef511c7b9e8"
+      }
+    },
+    {
+      "coordinates": [
+        -30.88146822052383,
+        22.08122890648555
+      ],
+      "properties": {
+        "externalId": "wru7tqG5ex",
+        "title": "篱芥菜地",
+        "description": "# 位于斜坡附近，白色栅栏和圆形窗户旁边。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 夏季和秋季 |\n\n# *\"一种辛辣的植物，这些植物在大道沿线到处都有生长，甚至一直延伸到布理！\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1449367,
+        "imagePath": "/game_map_pin/1449367/{size}.webp",
+        "videoId": 1449368,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/1d157aad3cf2c6916733bd14c2fc384dc2ccdc6c"
+      }
+    },
+    {
+      "coordinates": [
+        -35.55530699335523,
+        11.984471701354934
+      ],
+      "properties": {
+        "externalId": "GUmjoNP4SN",
+        "title": "便士面包",
+        "description": "# 它位于一棵倒下的大树树干旁边。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 蘑菇 |\n| 偏好 | 夏季和秋季 |\n\n# *\"一个圆润的小蘑菇，外观像柔软的面包。它有着微妙但独特的苦味。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1449375,
+        "imagePath": "/game_map_pin/1449375/{size}.webp",
+        "videoId": 1449376,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/f731fa20a9ea20c8ba4c6ed45c630a86dfe4d782"
+      }
+    },
+    {
+      "coordinates": [
+        -38.675424180856396,
+        20.085813101996408
+      ],
+      "properties": {
+        "externalId": "K12FjDmeH9",
+        "title": "胡椒草地",
+        "description": "# 你会立刻在草丛中注意到它，因为它是唯一挺立的东西。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 香草 |\n| 偏好 | 夏季和春季 |\n\n# *\"这种植物中的小种子充满了浓郁的香料，很容易让你措手不及。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1449381,
+        "imagePath": "/game_map_pin/1449381/{size}.webp",
+        "videoId": 1449382,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/5602fcdf3e26a73fba3c27efbaf48eb6805d339c"
+      }
+    },
+    {
+      "coordinates": [
+        -38.983041368356396,
+        22.906748704321927
+      ],
+      "properties": {
+        "externalId": "1wGTS31vIi",
+        "title": "马勃菌",
+        "description": "# 你会在一块大石头附近、紧挨着一棵树的地方发现这种蘑菇。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 蘑菇 |\n| 偏好 | 秋季和夏季 |\n\n# *\"一个巨大而出色的蘑菇。无论是作为一顿美餐，还是用力一踢让它滚下山坡，都是不错的选择。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1449387,
+        "imagePath": "/game_map_pin/1449387/{size}.webp",
+        "videoId": 1449388,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/f2be063fe947764c7000fc6ffe23a69ae61e56f2"
+      }
+    },
+    {
+      "coordinates": [
+        -49.015841036788856,
+        30.10813597825772
+      ],
+      "properties": {
+        "externalId": "HQm3Xlm89z",
+        "title": "篱芥菜地",
+        "description": "# 在桑迪曼土地边界发现。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草本植物 |\n| 偏好 | 夏季和秋季 |\n\n# *\"一种辛辣的植物，这些植物在大道沿线到处都有生长，甚至一直延伸到布理！\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1449407,
+        "imagePath": "/game_map_pin/1449407/{size}.webp",
+        "videoId": 1449408,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/795cb7ba125498cbe4e6dbb27abbc286d40113be"
+      }
+    },
+    {
+      "coordinates": [
+        -61.9268568691878,
+        31.742914337074552
+      ],
+      "properties": {
+        "externalId": "g3pITYeOnK",
+        "title": "马勃菌",
+        "description": "# 你会在草地上发现这个蘑菇，靠近一块大石头，上面搁着一根树枝。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 蘑菇 |\n| 偏好季节 | 秋季和夏季 |\n\n# *\"一个巨大的亮丽蘑菇。既可以作为一顿美餐，也可以狠狠踢一脚让它滚下山坡。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1449423,
+        "imagePath": "/game_map_pin/1449423/{size}.webp",
+        "videoId": 1449424,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/1a9a1580ff8ce2de0a1b6f34eda2647b30c9a772"
+      }
+    },
+    {
+      "coordinates": [
+        -59.97045115764128,
+        35.26365739131626
+      ],
+      "properties": {
+        "externalId": "gNeHddaFNf",
+        "title": "覆盆子",
+        "description": "# 你可以在作为地图边界的灌木丛中找到它。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜 |\n| 类型 | 浆果 |\n| 偏好 | 夏季 |\n\n# *\"一种好浆果，相当甜，鲜红色。\"*",
+        "subcategoryExternalId": "5LSlHqgK0I",
+        "imageId": 1449425,
+        "imagePath": "/game_map_pin/1449425/{size}.webp",
+        "videoId": 1449426,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/938113c737a8539b09d7413b19f54863e16b0bc3"
+      }
+    },
+    {
+      "coordinates": [
+        -65.09966836473043,
+        34.846603826244106
+      ],
+      "properties": {
+        "externalId": "Mv2kt6Nq33",
+        "title": "胡椒草地",
+        "description": "# 你会在地图边缘的边界灌木丛中看到它。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 夏季和春季 |\n\n# *\"这种植物中的小种子充满了浓郁的香料，很容易让你措手不及。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1449430,
+        "imagePath": "/game_map_pin/1449430/{size}.webp",
+        "videoId": 1449431,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/061548bf67ef400eb70e43a9c0b6faa0c182871f"
+      }
+    },
+    {
+      "coordinates": [
+        -59.914121489730874,
+        24.76316507676401
+      ],
+      "properties": {
+        "externalId": "z6sVENQq6p",
+        "title": "斯佩拉奇",
+        "description": "# 你会在这片草地上发现三根芦笋排成一线。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 蔬菜 |\n| 偏好 | 秋季 |\n\n# *\"小巧酥脆的美味棒状物；快乐的束状蔬菜。据说这些生长在地下潮湿的土壤中，年复一年地在同一个地方发芽生长。\"*",
+        "subcategoryExternalId": "QRg83org3I",
+        "imageId": 1449434,
+        "imagePath": "/game_map_pin/1449434/{size}.webp",
+        "videoId": 1449435,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/3c4d372a7355e9ae768108796c24a2b56459ad8d"
+      }
+    },
+    {
+      "coordinates": [
+        -55.255918364737255,
+        33.684465032057105
+      ],
+      "properties": {
+        "externalId": "rwpuuFXUOi",
+        "title": "鸡油菌",
+        "description": "# 你会在一棵细树的根部找到它。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 偏好 | 夏季和春季 |\n\n# *\"一种非常漂亮的蘑菇，颜色鲜艳，就像鳟鱼的肚子一样。那些褶皱看起来有点像裙子，多么雅致\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1449438,
+        "imagePath": "/game_map_pin/1449438/{size}.webp",
+        "videoId": 1449439,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/d06236993ff2d1d170d6b3d9a9e29fb7a6ec5787"
+      }
+    },
+    {
+      "coordinates": [
+        -49.98561906637636,
+        34.54601513930952
+      ],
+      "properties": {
+        "externalId": "FeOHUTyLxD",
+        "title": "便士面包",
+        "description": "# 位于石拱门入口附近的灌木丛中，周围环绕着草地。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 蘑菇 |\n| 偏好 | 夏季和秋季 |\n\n# *\"一种丰满的小蘑菇，外观像柔软的面包。它有着微妙但独特的苦味。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1449442,
+        "imagePath": "/game_map_pin/1449442/{size}.webp",
+        "videoId": 1449443,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/b4c473017d673700f48a7ac5932b5c5888062d2f"
+      }
+    },
+    {
+      "coordinates": [
+        -48.10037734320446,
+        23.94072434823225
+      ],
+      "properties": {
+        "externalId": "b462zywM9Q",
+        "title": "斯佩拉奇",
+        "description": "# 你会在这片草地上发现两株芦笋排成一线。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 口味 | 甜味 |\n| 类型 | 蔬菜 |\n| 偏好 | 秋季 |\n\n# *\"小小脆嫩的美味棒；快乐的束状物。据说这些生长在地下湿润的土壤中，年复一年地在同一个地方发芽，经年累月。\"*",
+        "subcategoryExternalId": "QRg83org3I",
+        "imageId": 1449444,
+        "imagePath": "/game_map_pin/1449444/{size}.webp",
+        "videoId": 1449445,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/f81aafa24689b53500911fc328f51df14e1c1ca0"
+      }
+    },
+    {
+      "coordinates": [
+        -44.86776928097396,
+        4.110950947819887
+      ],
+      "properties": {
+        "externalId": "ujMOIEQYA6",
+        "title": "胡椒草地",
+        "description": "# 位于四棵白色细长树木根部区域。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 夏季和春季 |\n\n# *\"这种植物中的小种子充满了浓烈的香料味，很容易让你措手不及。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1449448,
+        "imagePath": "/game_map_pin/1449448/{size}.webp",
+        "videoId": 1449449,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/1b99df74fa0f40002650e95d4f8e7c3043ee1d0c"
+      }
+    },
+    {
+      "coordinates": [
+        -62.22122215837227,
+        13.502006788651826
+      ],
+      "properties": {
+        "externalId": "fs6AW5VFCS",
+        "title": "鸡油菌",
+        "description": "# 这可以在一棵大树的根部找到。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 偏好 | 夏季和春季 |\n\n# *\"一种非常漂亮的蘑菇，颜色鲜艳得像鳟鱼的腹部。褶皱看起来有点像裙子，多么别致\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1449455,
+        "imagePath": "/game_map_pin/1449455/{size}.webp",
+        "videoId": 1449456,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/11123db807716adcdf7959050c4d2694ea1ed800"
+      }
+    },
+    {
+      "coordinates": [
+        -63.607519456235266,
+        16.54765176506008
+      ],
+      "properties": {
+        "externalId": "IQBiorXEmv",
+        "title": "野牛肉地",
+        "description": "# 你可以发现这种蔬菜附着在大树的树干上。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 咸味 |\n| 类型 | 蘑菇 |\n| 偏好 | 夏季和秋季 |\n\n# *\"它看起来真的很像一小块牛肉，如果你不是亲自从树桩上摘下来的话，肯定会被骗到。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1449459,
+        "imagePath": "/game_map_pin/1449459/{size}.webp",
+        "videoId": 1449460,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/8b1600cad9383b5b08df7829e0dafbbdd3dbc123"
+      }
+    },
+    {
+      "coordinates": [
+        16.317462670835596,
+        -28.276353732562193
+      ],
+      "properties": {
+        "externalId": "fQGAwDR4pF",
+        "title": "桃子镇",
+        "description": "# 地上可以找到几个桃子，从树上掉落下来。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜 |\n| 偏好 | 夏季和秋季 |\n\n# *\"一层令人愉悦的绒毛，带着生长中夕阳的色彩，包围着这个果实。\"*",
+        "subcategoryExternalId": "5LSlHqgK0I",
+        "imageId": 1449470,
+        "imagePath": "/game_map_pin/1449470/{size}.webp",
+        "videoId": 1449471,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/a7a299af98859e5eab0c971851b5ffb9196099ea"
+      }
+    },
+    {
+      "coordinates": [
+        20.57388474815039,
+        -23.21786655421046
+      ],
+      "properties": {
+        "externalId": "Mn6UGLoB1o",
+        "title": "桃子镇",
+        "description": "# 地上可以找到几个桃子，从树上掉落下来。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜 |\n| 偏好 | 夏季和秋季 |\n\n# *\"一层令人愉悦的绒毛，带着生长中夕阳的色彩，包围着这个果实。\"*",
+        "subcategoryExternalId": "5LSlHqgK0I",
+        "imageId": 1449478,
+        "imagePath": "/game_map_pin/1449478/{size}.webp",
+        "videoId": 1449479,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/33dfed385b3cf0ce525ce7becd6ba418fa4ca9f9"
+      }
+    },
+    {
+      "coordinates": [
+        11.257478498121941,
+        -17.996228444808565
+      ],
+      "properties": {
+        "externalId": "jv4MlyQtv2",
+        "title": "胡椒草地",
+        "description": "# 这个位置靠近河岸区域和附近的石桥。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草本植物 |\n| 偏好 | 夏季和春季 |\n\n# *\"这种植物中的小种子充满了浓郁的香料，很容易让你措手不及。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1449482,
+        "imagePath": "/game_map_pin/1449482/{size}.webp",
+        "videoId": 1449483,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/88f5d51a665a4c0f8b8632af9402f0d69189bbc1"
+      }
+    },
+    {
+      "coordinates": [
+        12.554172053611637,
+        -21.259945856063283
+      ],
+      "properties": {
+        "externalId": "LiVsTQQ3gc",
+        "title": "胡椒草地",
+        "description": "# 这个位置靠近河岸区域和附近的石桥。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草本植物 |\n| 偏好 | 夏季和春季 |\n\n# *\"这种植物中的小种子充满了浓郁的香料，很容易让你措手不及。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1449484,
+        "imagePath": "/game_map_pin/1449484/{size}.webp",
+        "videoId": 1449485,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/620f4b901bda58cc04610f9cc30f89e2c9d69932"
+      }
+    },
+    {
+      "coordinates": [
+        24.042695961013635,
+        -17.298226073819535
+      ],
+      "properties": {
+        "externalId": "DNunz6Eu01",
+        "title": "篱芥菜地",
+        "description": "# 位于山坡草地上。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 夏季和秋季 |\n\n# *\"一种辛辣的植物，这些植物在大道沿线到处都有生长，甚至一直延伸到布理！\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1449488,
+        "imagePath": "/game_map_pin/1449488/{size}.webp",
+        "videoId": 1449489,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/972511fd04f169bc96663447c47aedc11d37bbd6"
+      }
+    },
+    {
+      "coordinates": [
+        23.887736263898034,
+        -15.12507987834016
+      ],
+      "properties": {
+        "externalId": "P78dmriBYE",
+        "title": "黑莓",
+        "description": "# 起初很难发现，除非你检查果实，因为这棵树混在高草丛中。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 酸味 |\n| 类型 | 浆果 |\n| 偏好 | 夏季和秋季 |\n\n# *\"令人惊叹的是，这些小黑浆果竟然如此酸涩。\"*",
+        "subcategoryExternalId": "5LSlHqgK0I",
+        "imageId": 1449496,
+        "imagePath": "/game_map_pin/1449496/{size}.webp",
+        "videoId": 1449497,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/17bd433b6e615d9c64c68cb10c3f112c766ce9e9"
+      }
+    },
+    {
+      "coordinates": [
+        21.498124789009324,
+        -11.506023710558736
+      ],
+      "properties": {
+        "externalId": "OjSn0Fc4sG",
+        "title": "胡椒草地",
+        "description": "# 在两块巨石之间发现的。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 夏季和春季 |\n\n# *\"这种植物中的小种子充满了浓烈的香料，很容易让你措手不及。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1449500,
+        "imagePath": "/game_map_pin/1449500/{size}.webp",
+        "videoId": 1449501,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/1f094fccd96c87218d4cea5e0a95f641507aea24"
+      }
+    },
+    {
+      "coordinates": [
+        21.52571302128007,
+        -6.3413213622502695
+      ],
+      "properties": {
+        "externalId": "D9INNOL1CS",
+        "title": "胡椒草地",
+        "description": "# 位于倒在地上的树干旁边。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 夏季和春季 |\n\n# *\"这种植物中的小种子充满了浓烈的香料，很容易让你措手不及。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1449509,
+        "imagePath": "/game_map_pin/1449509/{size}.webp",
+        "videoId": 1449510,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/e0d50bbc3e06ceb47b0ff0d11883f3e111c4db4a"
+      }
+    },
+    {
+      "coordinates": [
+        18.89744766737857,
+        -4.819292298566069
+      ],
+      "properties": {
+        "externalId": "WHJDmGImEC",
+        "title": "胡椒草地",
+        "description": "# 坐落在河边。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草本植物 |\n| 偏好 | 夏季和春季 |\n\n# *\"这种植物中的小种子充满了浓郁的香料味，很容易让你措手不及。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1449513,
+        "imagePath": "/game_map_pin/1449513/{size}.webp",
+        "videoId": 1449514,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/36eca40453fef18f5830f8dcd5676278f189cf4a"
+      }
+    },
+    {
+      "coordinates": [
+        11.120885651075355,
+        -15.139706248135937
+      ],
+      "properties": {
+        "externalId": "h38mPqO1kY",
+        "title": "胡椒草地",
+        "description": "# 在由三棵树形成的三角形中心处发现。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 夏季和春季 |\n\n# *\"这种植物中的小种子充满了浓郁的香料，很容易让你措手不及。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1449517,
+        "imagePath": "/game_map_pin/1449517/{size}.webp",
+        "videoId": 1449518,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/c47ad92828c9fdbee6bf20a5dd4839d939ab0ce5"
+      }
+    },
+    {
+      "coordinates": [
+        24.987043597516873,
+        -34.25574799223885
+      ],
+      "properties": {
+        "externalId": "kBwIKYjkD8",
+        "title": "马勃菌",
+        "description": "# 它位于两棵树的中间。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜 |\n| 类型 | 蘑菇 |\n| 偏好 | 秋季和夏季 |\n\n# *\"一个巨大的绚丽蘑菇。无论是作为一顿美餐，还是用力一踢让它滚下山坡，都是不错的选择。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1449522,
+        "imagePath": "/game_map_pin/1449522/{size}.webp",
+        "videoId": 1449523,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/db45c40e7f917b009b3f9f093cc8a46619bd32fa"
+      }
+    },
+    {
+      "coordinates": [
+        26.401951369600084,
+        14.506410771274261
+      ],
+      "properties": {
+        "externalId": "volW86zUzl",
+        "title": "",
+        "description": "# 在寻找立足点之旅中，你将第一次遇到他。从村庄广场出发，向东穿过石桥，在桥北找到老诺克斯的霍比特洞。白天，他在码头钓鱼；夜晚，他在常春藤丛酒馆。\n\n# 注意：\n- 随着传说的推进，他将担任钓鱼俱乐部领袖的角色。完成俱乐部任务板任务后回到他那里领取奖励。\n\n# 提示：\n- 如果你看到霍比特人头上有标记，和他们交谈，他们可能有东西给你。\n\n# 与霍比特人共进晚餐有助于推进里程碑奖励：\n- 等级3：1只鸡\n- 等级6：1只鸡\n- 等级10：1只鸡\n\n# *\"老诺克斯能跟空房间吵起来。不过他确实有一些软肋，主要是对钓鱼和吃鱼的喜爱。但他会上钩还是不会呢？\"*",
+        "subcategoryExternalId": "gra5R7YXxh",
+        "imageId": 1450964,
+        "imagePath": "/game_map_pin/1450964/{size}.webp",
+        "videoId": 1450965,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/54dfa1bd9ca8ace3dd1a6593bc8dc58ea6cd3f11"
+      }
+    },
+    {
+      "coordinates": [
+        1.8541935882226994,
+        -6.277947900807291
+      ],
+      "properties": {
+        "externalId": "rtSc0mmLD9",
+        "title": "篱芥菜地",
+        "description": "# 位于副水镇标志附近。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 口味 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 夏季和秋季 |\n\n# *\"一种辛辣的植物，这些植物在大道沿线到处都有生长，甚至一直延伸到布理！\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1450929,
+        "imagePath": "/game_map_pin/1450929/{size}.webp",
+        "videoId": 1450930,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/e8c8bf3d74b77537e0eff331eeb562a0d367ecbb"
+      }
+    },
+    {
+      "coordinates": [
+        6.933070343980177,
+        -5.503443572248955
+      ],
+      "properties": {
+        "externalId": "vwjPsNy6Co",
+        "title": "篱芥菜地",
+        "description": "# 位于东大道标记附近。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草本植物 |\n| 偏好 | 夏季和秋季 |\n\n# *\"一种辛辣的植物，这些植物在大道沿线到处都有生长，甚至一直延伸到布理！\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1450934,
+        "imagePath": "/game_map_pin/1450934/{size}.webp",
+        "videoId": 1450936,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/7c0b6e1372d0e261d06e2ed03d8ec618310f0fa2"
+      }
+    },
+    {
+      "coordinates": [
+        -4.450356575737658,
+        13.017782520675894
+      ],
+      "properties": {
+        "externalId": "IO8QABd5E9",
+        "title": "",
+        "description": "# 汤姆·卡顿白天在村庄广场对面经营他的摊位。晚上，他可以在绿龙旅店找到，就像他已故的父亲一样。\n\n# 提示：\n- 如果你看到霍比特人头上有标记，与他们交谈，他们可能有东西给你。\n\n# 与霍比特人共进餐有助于推进你的里程碑奖励：\n- 等级3：商店升级（更多选择）\n- 等级6：商店升级（更多选择）\n- 等级10：1只鸡\n\n# *\"一个温和却笨拙的家伙，是下一个将接管著名卡顿农场的霍比特人。一个勤劳善良的霍比特人，他爱护动物就像爱护家人一样。\"*",
+        "subcategoryExternalId": "wIDQ7rjnzl",
+        "imageId": 1450942,
+        "imagePath": "/game_map_pin/1450942/{size}.webp",
+        "videoId": 1450945,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/4f4b4598a82be8c67ca531ed338e4c9a2c52b3a5"
+      }
+    },
+    {
+      "coordinates": [
+        10.533804987441556,
+        8.637787604309793
+      ],
+      "properties": {
+        "externalId": "rZIQvEDcD5",
+        "title": "初次捕获",
+        "description": "|前置要求|\n| :-----------: |\n|初试身手|\n\n# 老诺克斯想要一些鱼来看看你的钓鱼技巧进展如何。\n\n# 注意：\n- 老诺克斯会在老红宝石池教你如何钓鱼。钓到三条鱼，然后再和他对话。\n\n# 任务：\n- 装备钓鱼竿\n- 钓到一条鱼\n- 钓到三条鱼\n- 回到老诺克斯那里\n\n# 奖励：\n- 1份奶油\n- 1份牛奶\n- 20货币",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1451023,
+        "imagePath": "/game_map_pin/1451023/{size}.webp",
+        "videoId": 1451024,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/b24ad6925e736f96b331e4b10a69e3edd7ff66b6"
+      }
+    },
+    {
+      "coordinates": [
+        9.476369949613115,
+        10.905716486567854
+      ],
+      "properties": {
+        "externalId": "jRa9WXre94",
+        "title": "",
+        "description": "# 白天你会在她的铁匠铺找到Nefi，从广场向东北方向走然后左转。到了晚上，她通常在常春藤灌木酒馆。\n\n# 注意：\n作为你物品的回报，他提供：\n- 用你的3个鸡蛋换他的1块培根\n- 用你的3个鸡蛋换他的1块猪肉\n- 用你的1个鸡蛋换他的1块培根油\n\n# 提示：\n- 如果你看到霍比特人头上有标记，和他们交谈，他们可能有东西给你。\n\n# 与霍比特人共享用餐有助于推进你的里程碑奖励：\n- 等级3：解锁勺子码头钓鱼点\n- 等级6：将浇水壶升级为大浇水壶\n- 等级10：将大浇水壶升级为超大浇水壶\n\n# *\"Nefi是来自蓝山的技艺精湛的铁匠。她精通锻造和锤击，说话直率。但如果有只鸭子信任她靠近熊熊烈火，她一定是善良的。\"*",
+        "subcategoryExternalId": "lhiQgWJlGc",
+        "imageId": 1454702,
+        "imagePath": "/game_map_pin/1454702/{size}.webp",
+        "videoId": 1454703,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/2c915c98de509c7a9ad2191d56b2504d6764e618"
+      }
+    },
+    {
+      "coordinates": [
+        12.71087712414544,
+        9.252240118562739
+      ],
+      "properties": {
+        "externalId": "wNUvWLEqLr",
+        "title": "",
+        "description": "# 你可以在白天和晚上在常春藤丛酒馆（村庄广场东侧）找到万寿菊。\n\n# 提示：\n- 如果你看到霍比特人头上有标记，和他们交谈，他们可能有东西给你。\n\n# 与霍比特人共进餐有助于推进你的里程碑奖励：\n- 等级3：解锁常春藤丛酒馆作为共餐场所\n- 等级6：解锁交易\n- 等级10：交易升级\n\n# *\"作为常春藤丛酒馆的老板，万寿菊比拜沃特的任何其他霍比特人都见识过更多的世界。她务实、善良，像最好的客栈老板应有的那样温暖。\"*",
+        "subcategoryExternalId": "4BjvdOTsac",
+        "imageId": 1451058,
+        "imagePath": "/game_map_pin/1451058/{size}.webp",
+        "videoId": 1451059,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/ff8c8899a816d6d2aeba37a9f3954bc2cd227adb"
+      }
+    },
+    {
+      "coordinates": [
+        -1.3235206456029118,
+        -33.20440359954426
+      ],
+      "properties": {
+        "externalId": "U5gKyVq57g",
+        "title": "从小事做起",
+        "description": "|要求|\n| :-----------: |\n|Finding Your Feet|\n\n# 为了检验你的园艺技能，农夫科顿希望你给他带来一些蔬菜。\n\n# 注意：\n- 老诺克斯准备教你园艺，并会给你一个小浇水壶开始。\n\n# 任务：\n- 前往你的家庭花园\n- 打开背包中的种子袋\n- 种植三颗蔬菜种子\n- 给蔬菜种子浇水\n- 带着三个蔬菜回到农夫科顿那里\n\n# 奖励：\n- 铲子（你可以用铲子从菜园中移除植物）",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1451195,
+        "imagePath": "/game_map_pin/1451195/{size}.webp",
+        "videoId": 1451196,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/5e96668dc5da8282269d81454ff378df673998fd"
+      }
+    },
+    {
+      "coordinates": [
+        55.328630355649636,
+        -19.697985040955302
+      ],
+      "properties": {
+        "externalId": "xpTRWnBG6R",
+        "title": "蝴蝶基础",
+        "description": "|要求|\\n| :-----------: |\\n|[初来乍到](wemod:\\/\\/maps\\/95759\\/517?location=97TCunwPfA)|\\n\\n# 德尔菲妮姆想与你分享她对蝴蝶习性的知识。\\n\\n# 任务：\\n- 跟随白蝴蝶并收集一个蘑菇\\n- 跟随黄蝴蝶并收集一个调料\\n- 返回德尔菲妮姆\\n\\n# 奖励：\\n- 2x 大黄",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1451203,
+        "imagePath": "/game_map_pin/1451203/{size}.webp",
+        "videoId": 1451204,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/13aba5c61aa9f195a6d265930c0fb700aa85de79"
+      }
+    },
+    {
+      "coordinates": [
+        1.5417744786915648,
+        -33.458001577775065
+      ],
+      "properties": {
+        "externalId": "LWPHtK5VZP",
+        "title": "朋友之桌",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|Finding Your Feet|The Bywater Village Campaign|\n\n# 是时候召集朋友们共享一场值得铭记的盛宴了。\n\n# 任务：\n- 为诺拉和福斯科准备两顿饭。\n- 在家中使用你的写字台邀请诺拉和福斯科共进晚餐。\n- 等到第二天。\n- 第二次早餐后，你的下一个任务是在写字台里找到诺拉的钥匙并使用它。\n- 将规则手册带给奥洛\n- 将规则手册带给诺拉（在交出手册之前，看看她是否有任何礼物要给）\n\n# 奖励：\n- 2x 牛肉\n- 1x 南瓜",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1451241,
+        "imagePath": "/game_map_pin/1451241/{size}.webp",
+        "videoId": 1451242,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/86d696725982fcd3cf820dc1542a8c0f7472851f"
+      }
+    },
+    {
+      "coordinates": [
+        0.09039791915213868,
+        -32.05253568792088
+      ],
+      "properties": {
+        "externalId": "NAoexvz9mV",
+        "title": "秘密配料",
+        "description": "|需求|\n| :-----------: |\n|Finding Your Feet|\n\n# 莉莉要求你给她带一些食物。作为回报，她会分享她的秘密配料。\n\n# 任务：\n- 烹饪三顿饭\n- 烹饪完成后，回到莉莉·科顿那里",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1451239,
+        "imagePath": "/game_map_pin/1451239/{size}.webp",
+        "videoId": 1451240,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/3b7d41a5bbff6815e4eace6956f304eb48e9d171"
+      }
+    },
+    {
+      "coordinates": [
+        -51.827324921299436,
+        10.463461472562258
+      ],
+      "properties": {
+        "externalId": "KS3i2DChMv",
+        "title": "白色按钮",
+        "description": "# 这种蘑菇生长在草地上，稍微往山坡上一点的地方。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 酸味 |\n| 类型 | 蘑菇 |\n| 偏好 | 秋季 |\n\n# *\"这些蘑菇相当可爱，你几乎可以把它们摘下来当作外套的纽扣使用。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1451275,
+        "imagePath": "/game_map_pin/1451275/{size}.webp",
+        "videoId": 1451276,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/56fbb7bcb45938f9f0a52bb9694b06ab47e23c1a"
+      }
+    },
+    {
+      "coordinates": [
+        -44.18659120013132,
+        17.002115532074697
+      ],
+      "properties": {
+        "externalId": "JiKffvqgRI",
+        "title": "苹果",
+        "description": "# 这个物品从草原上的树上掉落。等它掉下来后捡起来。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜 |\n| 偏好 | 秋季和冬季 |\n\n# *\"一个如此酥脆红润的苹果，让你想起了童年，那时你一口咬下去就掉了几颗牙！就像黛西一样。\"*",
+        "subcategoryExternalId": "5LSlHqgK0I",
+        "imageId": 1451281,
+        "imagePath": "/game_map_pin/1451281/{size}.webp",
+        "videoId": 1451282,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/2cfe14d9b504ebae9b3c6c0a216a81227ece4a95"
+      }
+    },
+    {
+      "coordinates": [
+        -45.94113005462239,
+        19.31443914383739
+      ],
+      "properties": {
+        "externalId": "3hgFGTqtZ8",
+        "title": "白色按钮",
+        "description": "# 这种蘑菇生长在蜂箱附近，就在蜂箱前面。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 酸味 |\n| 类型 | 蘑菇 |\n| 偏好 | 秋季 |\n\n# *\"这些蘑菇非常可爱，你几乎可以把它们摘下来用作外套的纽扣。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1451301,
+        "imagePath": "/game_map_pin/1451301/{size}.webp",
+        "videoId": 1451302,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/a406d9cba82d69b4acbe18f4ab3cdb8fd9a25dbc"
+      }
+    },
+    {
+      "coordinates": [
+        -69.28854681057099,
+        30.767446512397285
+      ],
+      "properties": {
+        "externalId": "SIw8Gvte7O",
+        "title": "白色按钮",
+        "description": "# 这种蘑菇生长在河岸附近。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 酸味 |\n| 类型 | 蘑菇 |\n| 偏好 | 秋季 |\n\n# *\"这些蘑菇非常可爱，你几乎可以把它们摘下来用作外套的纽扣。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1451305,
+        "imagePath": "/game_map_pin/1451305/{size}.webp",
+        "videoId": 1451306,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/af6d1d3f3eca1eddc9fdded9449d7110c1aa3d01"
+      }
+    },
+    {
+      "coordinates": [
+        -62.309542140009086,
+        22.324321560840545
+      ],
+      "properties": {
+        "externalId": "Tv1oAM8nXS",
+        "title": "白色按钮",
+        "description": "# 这种蘑菇生长在倒下的树干附近的草地上。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 酸味 |\n| 类型 | 蘑菇 |\n| 偏好 | 秋季 |\n\n# *\"这些蘑菇非常可爱，你几乎可以把它们摘下来当作外套的纽扣。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1451309,
+        "imagePath": "/game_map_pin/1451309/{size}.webp",
+        "videoId": 1451310,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/bf7d95c16ca63b5203ece29cf351473fb39897c4"
+      }
+    },
+    {
+      "coordinates": [
+        -42.293836160775385,
+        -11.682325470115046
+      ],
+      "properties": {
+        "externalId": "Krj2IxnJIH",
+        "title": "葡萄园",
+        "description": "# 你会在葡萄园里找到葡萄，就在石径的上方。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 浆果 |\n| 偏好 | 秋季 |\n\n# *\"每一颗小果实都蕴含着美妙的风味爆发。你几乎有种冲动想用脚踩碎它们，尽管那样做也没什么用。\"*",
+        "subcategoryExternalId": "5LSlHqgK0I",
+        "imageId": 1451311,
+        "imagePath": "/game_map_pin/1451311/{size}.webp",
+        "videoId": 1451312,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/79ee7bfe81645a037a54df784acf8fd677ebb892"
+      }
+    },
+    {
+      "coordinates": [
+        -3.7261444026074173,
+        12.351867289321788
+      ],
+      "properties": {
+        "externalId": "DMFdEREBKL",
+        "title": "小汤姆的麻烦",
+        "description": "|需求|\n| :-----------: |\n|朋友聚会|\n\n# 这个支线故事会随着你在主线剧情中的进展而解锁。\n\n# 任务：\n- 询问小汤姆·卡顿近况如何\n- 为毛茛夫人获取一些蔬菜（2种或更多）\n- 找到毛茛夫人并引诱她回到农场",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1451340,
+        "imagePath": "/game_map_pin/1451340/{size}.webp",
+        "videoId": 1451341,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/6dcd4e1f69972c1f24e0f5b6aad08d7d142c4968"
+      }
+    },
+    {
+      "coordinates": [
+        -1.470958598195864,
+        -22.686969218338774
+      ],
+      "properties": {
+        "externalId": "KOT7Abmams",
+        "title": "拜水村战役",
+        "description": "|要求|解锁|\n| :-----------: | :-----------: |\n|朋友聚会|拜沃特俱乐部|\n\n# 拜沃特被广泛认为是夏尔最好的村庄……或者说，一旦它被官方认可，就会是最好的。\n\n# 任务：\n- 等待评估员的回复。\n- 明天回来检查你的邮箱。\n- 参加常春藤丛酒馆的会议。\n- 等待村庄活动的回音。\n- 第二次检查你的邮箱。\n\n# 奖励：\n- 橙色南瓜",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1451354,
+        "imagePath": "/game_map_pin/1451354/{size}.webp",
+        "videoId": 1451355,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/ecb13f8a9a6b7eee9879dbc5ebebc12fb8276cdf"
+      }
+    },
+    {
+      "coordinates": [
+        0.3307992143043066,
+        -25.256578496185185
+      ],
+      "properties": {
+        "externalId": "gTzzSCHnnL",
+        "title": "福斯科家具店",
+        "description": "|前置要求|\n| :-----------: |\n|拜沃特村战役|\n\n# 该传说在大村庄会议期间查看邮箱时立即触发。\n\n# 注意：\n- 在福斯科的家具支线传说期间，务必检查他是否有礼物给你。\n\n# 任务：\n- 去看看福斯科\n\n# 奖励：\n- 福斯科的工匠弯椅\n- 福斯科的工匠摇椅\n- 福斯科的工匠脚凳",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1451352,
+        "imagePath": "/game_map_pin/1451352/{size}.webp",
+        "videoId": 1451353,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/565cdf1df54b3c5a6d5ebfa56c4f524c19751101"
+      }
+    },
+    {
+      "coordinates": [
+        40.68413201805774,
+        8.503903332948624
+      ],
+      "properties": {
+        "externalId": "fhJhpXFCa5",
+        "title": "李子镇",
+        "description": "# 这个物品从草地上的树上掉落。掉落后将其拾起。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 酸 |\n| 偏好 | 秋季和冬季 |\n\n# *\"一种奇妙的紫色水果，其颜色如此浓郁，几乎能让你关心国王和他们的王朝。\"*",
+        "subcategoryExternalId": "5LSlHqgK0I",
+        "imageId": 1451385,
+        "imagePath": "/game_map_pin/1451385/{size}.webp",
+        "videoId": 1451386,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/aead5de45d767f3f22c398cb7c5bd787e78df120"
+      }
+    },
+    {
+      "coordinates": [
+        0.1989632768039371,
+        -23.45514178792206
+      ],
+      "properties": {
+        "externalId": "vS7j50VKfY",
+        "title": "霍布森的投资",
+        "description": "|要求|\n| :-----------: |\n|拜沃特村庄战役|\n\n# 这个故事在大村庄会议期间查看邮箱时立即触发。\n\n# 任务：\n- 向霍布森询问这封信\n- 尝试向桑迪曼出售\n- 尝试向农夫科顿出售\n- 等待霍布森的消息\n- 一天后（游戏内）查看邮箱\n- 等待诺拉的消息\n- 查看邮箱\n- 向诺拉询问这封信",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1451434,
+        "imagePath": "/game_map_pin/1451434/{size}.webp",
+        "videoId": 1451435,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/28a06dc46d724190f24e3712baec58db6c511829"
+      }
+    },
+    {
+      "coordinates": [
+        -3.4045523481963755,
+        -22.88954434436009
+      ],
+      "properties": {
+        "externalId": "X16kupVVpM",
+        "title": "飞燕草自制药剂",
+        "description": "|需求|\n| :-----------: |\n|拜沃特村庄战役|\n\n# 这个故事在大村庄会议期间检查邮箱时立即触发。\n\n# 任务：\n- 与飞燕草谈论福斯科的治疗请求。\n- 为飞燕草收集3种草药\n- 找到飞燕草把草药给她。\n- 去查看福斯科的情况。\n- 回到飞燕草那里寻求更多帮助\n- 烹饪一顿酸味餐点\n- 把酸味餐点带给飞燕草\n- 看看福斯科是否感觉好些了\n\n# 奖励：\n- 2x 面粉\n- 20x 金钱",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1451437,
+        "imagePath": "/game_map_pin/1451437/{size}.webp",
+        "videoId": 1451438,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/e2a68ae337f8c3bcac834d7e3f40703807de7892"
+      }
+    },
+    {
+      "coordinates": [
+        53.93590391695503,
+        -29.820598787911507
+      ],
+      "properties": {
+        "externalId": "XTSH02W4i2",
+        "title": "白色按钮",
+        "description": "# 这种蘑菇生长在草地上，河流旁边。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 酸味 |\n| 类型 | 蘑菇 |\n| 偏好 | 秋季 |\n\n# *\"这些蘑菇非常可爱，你几乎可以把它们摘下来当作外套的纽扣。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1451439,
+        "imagePath": "/game_map_pin/1451439/{size}.webp",
+        "videoId": 1451440,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/f09b7eab18c978ce58e98d0f46257c3acf671226"
+      }
+    },
+    {
+      "coordinates": [
+        50.28728916884302,
+        -24.069166696044533
+      ],
+      "properties": {
+        "externalId": "rciRh0mM0g",
+        "title": "白色按钮",
+        "description": "# 这种蘑菇生长在草地上，河流旁边。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 酸味 |\n| 类型 | 蘑菇 |\n| 偏好 | 秋季 |\n\n# *\"这些蘑菇非常可爱，你几乎可以把它们摘下来当作外套的纽扣。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1451441,
+        "imagePath": "/game_map_pin/1451441/{size}.webp",
+        "videoId": 1451442,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/4b4271d11f555b846de96a91aec80b5df1c6f92c"
+      }
+    },
+    {
+      "coordinates": [
+        35.69513523367192,
+        2.720346212113938
+      ],
+      "properties": {
+        "externalId": "4TR5Akqcob",
+        "title": "榛子林",
+        "description": "# 位于树下的草地上，石径旁边。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 坚果 |\n| 偏好 | 夏季和秋季 |\n\n# *\"它们为甜品食谱增添了绝妙的口感，但单独食用时本身就有着类似甜点的味道。\"*",
+        "subcategoryExternalId": "9oXjq0xuJg",
+        "imageId": 1451448,
+        "imagePath": "/game_map_pin/1451448/{size}.webp",
+        "videoId": 1451449,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/f6520079c95820c95ea74f0a07350ed960e6b1d0"
+      }
+    },
+    {
+      "coordinates": [
+        35.32257316471501,
+        7.493436745157567
+      ],
+      "properties": {
+        "externalId": "JhJqPhI1uR",
+        "title": "李子镇",
+        "description": "# 这个物品从草地上的树上掉落。掉落后将其拾起。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 酸 |\n| 偏好 | 秋季和冬季 |\n\n# *\"一种奇妙的紫色水果，其颜色如此浓郁，几乎能让你关心国王和他们的王朝。\"*",
+        "subcategoryExternalId": "5LSlHqgK0I",
+        "imageId": 1451450,
+        "imagePath": "/game_map_pin/1451450/{size}.webp",
+        "videoId": 1451451,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/6904ae1465f64ef91b36e9524f61648d430448dc"
+      }
+    },
+    {
+      "coordinates": [
+        -3.6103649528051562,
+        17.663900714408413
+      ],
+      "properties": {
+        "externalId": "kuQEgk4Xs0",
+        "title": "拜沃特俱乐部",
+        "description": "|需求|解锁条件|\n| :-----------: | :-----------: |\n|水滨村战役|恢复觅食俱乐部|\n\n# 不知为何，恢复水滨村俱乐部往日荣光的重任落在了你的肩上。\n\n# 任务：\n- 前往商店\n- 在觅食俱乐部重新开张之前，需要招募一些新成员\n- 老诺克斯需要一些说服才会同意重启钓鱼俱乐部\n- 园艺俱乐部唯一的问题就是决定由谁来管理\n- 莉莉很想开始烹饪，但在她能开办烹饪俱乐部之前需要先修好一些东西\n- 所有俱乐部都准备就绪后，玛丽戈德需要帮助寻找并修复俱乐部公告板\n\n# 注意：\n- 与恢复（空白）俱乐部传说相关联。",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1451482,
+        "imagePath": "/game_map_pin/1451482/{size}.webp",
+        "videoId": 1451483,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/2e51441b2e5257508d735228167d6cf0243fb81b"
+      }
+    },
+    {
+      "coordinates": [
+        -3.434583702805469,
+        19.247872940196203
+      ],
+      "properties": {
+        "externalId": "gy2H30l8U6",
+        "title": "恢复觅食俱乐部",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|拜沃特俱乐部|恢复钓鱼俱乐部|\n\n# 前往商店时故事将激活。\n\n# 任务：\n- 邀请黛西加入觅食俱乐部\n- 收集3块风落木（1/ 2 / 3）\n- 带着木材回到威洛\n- 回到诺拉\n- （巧妙地）说服德尔菲领导觅食俱乐部\n- 准备好开始觅食时告诉德尔菲尼娅\n- 跟随德尔菲尼娅\n- 与德菲尼娅交谈\n- 觅食3样物品\n\n# 注意事项：\n俱乐部进度越高，你获得的里程碑奖励就越好：\n-  2级奖励：提灯（与夜间环境产生反应）\n- 3级奖励：+5格背包升级\n- 4级奖励：+5格背包升级\n- 5级奖励：+5格背包升级 & 俱乐部装饰物品",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1454543,
+        "imagePath": "/game_map_pin/1454543/{size}.webp",
+        "videoId": 1454544,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/1ac552f6ced9c91e504ea40e0946d41deff9ac6c"
+      }
+    },
+    {
+      "coordinates": [
+        68.32515543170169,
+        -9.704544129521864
+      ],
+      "properties": {
+        "externalId": "FPWidgkeqm",
+        "title": "栗子",
+        "description": "# 一旦从树上掉落，就会出现在地面上。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 偏好 | 秋季和冬季 |\n\n# *\"这样一个坚硬而僵硬的坚果，如果烹饪得当，很容易就能变得美妙而香滑。\"*",
+        "subcategoryExternalId": "9oXjq0xuJg",
+        "imageId": 1454594,
+        "imagePath": "/game_map_pin/1454594/{size}.webp",
+        "videoId": 1454595,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/732016865591c5d84c2b003a75cf6b65444d2207"
+      }
+    },
+    {
+      "coordinates": [
+        15.13489680314828,
+        9.642099350768177
+      ],
+      "properties": {
+        "externalId": "khtpZIe1Ly",
+        "title": "恢复钓鱼俱乐部",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|恢复觅食社团|恢复园艺社团|\n\n# 在完成\"恢复觅食社团\"之后，这个传说将故事继续推进。\n\n# 任务：\n- 询问万寿菊如何说服老诺克斯领导钓鱼社团\n- 与老诺克斯共进晚餐\n\n# 奖励\n- 华丽夏日鱼汤食谱（共进晚餐后与老诺克斯对话）\n\n# 注意事项：\n社团进度越高，你获得的里程碑奖励就越好：\n- 2级奖励：\"精良\"钓鱼竿\n- 3级奖励：\"熟练\"钓鱼竿\n- 4级奖励：\"高级\"钓鱼竿\n- 5级奖励：\"大师\"钓鱼竿和社团装饰物品",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1454604,
+        "imagePath": "/game_map_pin/1454604/{size}.webp",
+        "videoId": 1454605,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/e7265d335e4f27e5523e1ff5d05962eee27bba02"
+      }
+    },
+    {
+      "coordinates": [
+        13.93438938259689,
+        -56.25963024972551
+      ],
+      "properties": {
+        "externalId": "YniO1tKNPt",
+        "title": "发现",
+        "description": "|需求|\n| :-----------: |\n|发现|\n\n# 发现中的首要任务。",
+        "subcategoryExternalId": "VlMNgSszrv",
+        "imageId": 1454647,
+        "imagePath": "/game_map_pin/1454647/{size}.webp",
+        "videoId": 1454648,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/166e95759e59813e7cbc1b85b9668574be355191"
+      }
+    },
+    {
+      "coordinates": [
+        68.65851151655067,
+        -49.172792824718485
+      ],
+      "properties": {
+        "externalId": "9tRKf1z9Uq",
+        "title": "发现",
+        "description": "|需求|\n| :-----------: |\n|发现|\n\n# 发现传说中的第二个任务。",
+        "subcategoryExternalId": "VlMNgSszrv",
+        "imageId": 1454668,
+        "imagePath": "/game_map_pin/1454668/{size}.webp",
+        "videoId": 1454669,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/080bc5ca06f8a45cdd2d2b9097fc741f69d9f171"
+      }
+    },
+    {
+      "coordinates": [
+        -10.435400983012897,
+        15.669950295924082
+      ],
+      "properties": {
+        "externalId": "01CFKhzE9D",
+        "title": "恢复园艺俱乐部",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|恢复钓鱼俱乐部|恢复烹饪俱乐部|\n\n# 在\"恢复钓鱼俱乐部\"之后，这个传说继续推进故事。\n\n# 任务：\n- 说服农夫科顿领导园艺俱乐部\n- 向罗西询问一些园艺技巧\n- 向罗西展示2星蔬菜\n\n# 提示：\n- 随着你通过俱乐部任务提升园艺等级，期待获得新花园地块等奖励！\n\n# 备注：\n你的俱乐部进度越深入，你将获得的里程碑奖励就越好：\n-  等级2奖励：有了新的花园空间，通往东方的道路已经显现。\n- 等级3奖励：你的花园扩大了！通往南方的新道路现在开放了。\n- 等级4奖励：通往北方的新道路现在开放了。\n- 等级5奖励：通往西方的新道路现在开放了&俱乐部装饰物品",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1454704,
+        "imagePath": "/game_map_pin/1454704/{size}.webp",
+        "videoId": 1454705,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/ebe2cf905742cdea8bcfc6f9f0dbd377f70cfab1"
+      }
+    },
+    {
+      "coordinates": [
+        -1.756107235867404,
+        -50.76918547765175
+      ],
+      "properties": {
+        "externalId": "SxxhuL4aH1",
+        "title": "恢复烹饪俱乐部",
+        "description": "|要求|解锁|\n| :-----------: | :-----------: |\n|恢复园艺俱乐部|俱乐部公告板\n\n# 在\"恢复园艺俱乐部\"之后，这个故事继续推进。\n\n# 任务：\n- 说服莉莉经营烹饪俱乐部\n- 请求奈菲修理破损的搅拌碗\n- 从隧道中取回奈菲的夹子\n- 带着夹子回到奈菲那里\n- 将修好的碗归还给莉莉\n\n# 提示：\n- 随着你通过俱乐部任务提升园艺等级，预期会获得新烹饪台等奖励！\n\n# 备注：\n你的俱乐部进度越高，获得的里程碑奖励就越好：\n- 等级2奖励：解锁搅拌碗\n- 等级3奖励：解锁平底锅\n- 等级4奖励：解锁腌制罐\n- 等级5奖励：研钵和杵 & 俱乐部装饰物品",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1454803,
+        "imagePath": "/game_map_pin/1454803/{size}.webp",
+        "videoId": 1454804,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/edfe08ff27c8f2156c0d679bfdb55dec3121b2af"
+      }
+    },
+    {
+      "coordinates": [
+        -5.086848679707089,
+        22.904894952506666
+      ],
+      "properties": {
+        "externalId": "o16c87W7Z0",
+        "title": "尼菲的钳子",
+        "description": "# 仔细沿着隧道内的木制通道寻找，找到内菲的钳子。",
+        "subcategoryExternalId": "VlMNgSszrv",
+        "imageId": 1454846,
+        "imagePath": "/game_map_pin/1454846/{size}.webp",
+        "videoId": 1454847,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/2d318efda6dff840edc31aa578462974b36561a3"
+      }
+    },
+    {
+      "coordinates": [
+        14.228873101795415,
+        6.695095487549452
+      ],
+      "properties": {
+        "externalId": "NU8B4kpaYd",
+        "title": "俱乐部公告板",
+        "description": "|要求|解锁|\n| :-----------: | :-----------: |\n|恢复烹饪俱乐部|拜沃特村庄战役\n\n# 在\"恢复烹饪俱乐部\"之后，这个故事继续向前发展。\n\n# 任务：\n- 向玛丽戈德询问俱乐部公告板的事情\n- 找到俱乐部公告板",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1454884,
+        "imagePath": "/game_map_pin/1454884/{size}.webp",
+        "videoId": 1454885,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/041a69a91386ab3d678d6a687b921616250fb1a1"
+      }
+    },
+    {
+      "coordinates": [
+        8.496854933098064,
+        6.163790316198359
+      ],
+      "properties": {
+        "externalId": "BYFLONpk3j",
+        "title": "俱乐部公告板",
+        "description": "|需求条件|\n| :-----------: | \n|俱乐部公告板|\n\n# 与发光的藤蔓互动，你的霍比特人会整理它们并露出俱乐部公告板。\n\n# 注意：\n- 一旦俱乐部公告板显露出来，就会出现几个工作招聘信息。可以自由选择，每个都有自己的奖励。",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1454893,
+        "imagePath": "/game_map_pin/1454893/{size}.webp",
+        "videoId": 1454894,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/3f169762f605375f887a6f7b88731f5226307976"
+      }
+    },
+    {
+      "coordinates": [
+        -3.234907204636528,
+        -26.582176513042548
+      ],
+      "properties": {
+        "externalId": "14aV3heMWp",
+        "title": "拜水村战役",
+        "description": "|要求|\n| :-----------: | :-----------: | \n|俱乐部公告板|\n\n# 要继续村庄战役，让你的霍比特人睡觉或选择提早休息。\n\n# 任务：\n- 等待村庄战役的回复。\n- 查看你的邮箱\n\n# 白水狼\n- 查看你的邮箱将触发这个故事。\n\n# 任务：\n- 与 诺拉 谈论村庄战役\n- 询问 老诺克斯 狼长什么样\n- 询问 万寿菊·波茨 狼长什么样\n- 询问 农夫科顿\n- 等待 福斯科福斯科 制作完狼头\n- 查看你的邮箱\n- 前往商店\n- 觅食3根 尖棍 用于狼头\n- 前往白水门\n- 等待村庄战役的回复\n- 查看你的邮箱\n\n|解锁|\n| :-----------: |\n|[白水一瞥](--)|",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1454951,
+        "imagePath": "/game_map_pin/1454951/{size}.webp",
+        "videoId": 1454952,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/f11ea4e79f8bea8f56a749b2f09801dd982b9f4a"
+      }
+    },
+    {
+      "coordinates": [
+        -0.723888285696205,
+        -27.070824934015782
+      ],
+      "properties": {
+        "externalId": "1DzjNHD4Mn",
+        "title": "尼菲的学徒期",
+        "description": "# 推进故事将触发这个传说。请务必检查你的邮箱。\n\n# 任务：\n- 向 Nefi 询问关于信件的事\n- 给 Nefi 带一顿饭\n- 与 Nefi 和 Lily 共进晚餐\n\n# 奖励：\n- 1x 鸡蛋\n- 20x 金钱\n\n# 提示：\n- 他们可能有东西要给你，所以别忘了去看看。",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1454935,
+        "imagePath": "/game_map_pin/1454935/{size}.webp",
+        "videoId": 1454936,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/04be1abe17bedf201bf73885fe6a6333e429bad7"
+      }
+    },
+    {
+      "coordinates": [
+        -4.001944807582987,
+        -24.639991540098322
+      ],
+      "properties": {
+        "externalId": "T9np2psRw3",
+        "title": "与奈菲的友谊",
+        "description": "|要求|\n| :-----------: |\n|奈菲的学徒期|\n\n# 检查你的邮箱并寻找奈菲的信件。\n\n# 任务：\n- 去见奈菲\n\n# 奖励：\n- 勺子码头区域",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1455037,
+        "imagePath": "/game_map_pin/1455037/{size}.webp",
+        "videoId": 1455038,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/3f9bbf317109024d4b21a4c29ac4864550efa0b1"
+      }
+    },
+    {
+      "coordinates": [
+        -10.514004352272366,
+        -8.245847376658688
+      ],
+      "properties": {
+        "externalId": "xiyQAxRK7u",
+        "title": "尖刺木棍",
+        "description": "# 地上的这根树枝是完成狼头所需的。",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1455047,
+        "imagePath": "/game_map_pin/1455047/{size}.webp",
+        "videoId": 1455048,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/7649106a422390fe4b86daff9e6b79e9335cda85"
+      }
+    },
+    {
+      "coordinates": [
+        -4.732235068595685,
+        28.20968086304454
+      ],
+      "properties": {
+        "externalId": "cGG7SyJJGR",
+        "title": "勺子码头",
+        "description": "# 在这里钓鱼有机会钓到以下鱼类：\n- 鲤鱼\n- 不明鱼类\n- 鲫鱼\n- 尖刺破裂鱼\n- 拜沃特白条鱼\n- 蓝鳍鮈鱼\n- 鲈鱼\n- 石鳅",
+        "subcategoryExternalId": "LBaPwI24iR",
+        "imageId": 1455063,
+        "imagePath": "/game_map_pin/1455063/{size}.webp",
+        "videoId": 1455064,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/1c15548d196a1bd32adb63ccef1cf3658cf607d0"
+      }
+    },
+    {
+      "coordinates": [
+        -8.268568077805156,
+        17.580134418422574
+      ],
+      "properties": {
+        "externalId": "4lM4fYRf49",
+        "title": "白水镇风情",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|河水狼|河水村庄战役|\n\n# 继\"河水狼\"之后，这个传说将故事向前推进。\n\n# 任务：\n- 向福斯科询问村庄战役\n- 与小汤姆·科顿谈论河水料理\n- 与威洛·图克谈论河水料理\n- 与桑迪曼谈论河水料理\n- 与莉莉·科顿分享每个人的食谱想法\n- 制作四份河水料理\n- 在三法新石与威洛、桑迪曼、小汤姆和诺拉分享河水料理\n\n# 奖励：\n- 1x 卷心菜苗\n- 20x 金钱\n\n# 注意：\n- 跟随他们并检查他们是否为你携带了什么东西。",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1455078,
+        "imagePath": "/game_map_pin/1455078/{size}.webp",
+        "videoId": 1455079,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/9c762120fb8b4485bbd486cd31790c42297c6d01"
+      }
+    },
+    {
+      "coordinates": [
+        -2.747705865886303,
+        -25.348449286904454
+      ],
+      "properties": {
+        "externalId": "VkWaRzwwX0",
+        "title": "拜水村战役",
+        "description": "|要求|解锁|\n| :-----------: | :-----------: |\n|拜沃特的味道|评估员|\n\n# 任务：\n- 等待村庄战役的回复。\n- 检查你的邮箱",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1455983,
+        "imagePath": "/game_map_pin/1455983/{size}.webp",
+        "videoId": 1455984,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/322461ac0b4e0d3720a7ded603901fcd1103d78e"
+      }
+    },
+    {
+      "coordinates": [
+        69.01444306226512,
+        -22.730376635372394
+      ],
+      "properties": {
+        "externalId": "Ps46PEatVc",
+        "title": "胡桃镇",
+        "description": "# 可以在草地上从树上掉落后收集。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 坚果 |\n| 偏好 | 秋季和冬季 |\n\n# *\"一些霍比特人说，从它们的形状可以看出它们对大脑和智力有好处。沙地人对此很了解，要是它对人的善良也有同样的效果就好了。\"*",
+        "subcategoryExternalId": "9oXjq0xuJg",
+        "imageId": 1455120,
+        "imagePath": "/game_map_pin/1455120/{size}.webp",
+        "videoId": 1455121,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/d5d22c0a741a0600f2e9d84b3f74739b76bfde1b"
+      }
+    },
+    {
+      "coordinates": [
+        60.13800592747677,
+        -38.73854584890795
+      ],
+      "properties": {
+        "externalId": "69BPTQpIZp",
+        "title": "栗子",
+        "description": "# 一旦从树上掉落，就会出现在地面上。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 偏好 | 秋季和冬季 |\n\n# *\"这样一个坚硬而僵硬的坚果，如果烹饪得当，很容易就能变得美妙而香滑。\"*",
+        "subcategoryExternalId": "9oXjq0xuJg",
+        "imageId": 1455125,
+        "imagePath": "/game_map_pin/1455125/{size}.webp",
+        "videoId": 1455126,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/89819767fddb3ec40234e7d3d796e67b4ba0e64d"
+      }
+    },
+    {
+      "coordinates": [
+        -3.7861462028048436,
+        15.812326299606312
+      ],
+      "properties": {
+        "externalId": "zInzfaRd8u",
+        "title": "评估官",
+        "description": "|要求|解锁|\n| :-----------: | :-----------: |\n|水边村战役|奥洛的重要时刻|\n\n# 接续\"水边村战役\"，此故事展开下一章节。\n\n# 任务：\n- 前往商店会见奥洛\n- 在水边村标志会见农夫科顿进行导览\n- 确保科顿农场状况良好\n- 修复破损的围栏\n- 前往露比的池塘\n- 在池塘附近找到老诺克斯的裤子（在石围栏旁，小径边找到）\n- 用旧马车堵住通往桑迪曼家的道路\n- 拖延评估员和桑迪曼\n- 回到奥洛处\n- 在水边村标志下与所有人会面\n\n# 奖励：\n- 2只鸡\n- 1份菠菜\n- 50金币\n\n# 注意：\n水边村战役将在此故事后触发。\n# 任务：\n- 等待村庄战役的消息（让你的霍比特人睡觉或选择提早休息）\n- 检查你的邮箱并阅读信件以解锁下一个故事。\n\n# *\"是时候说服评估员水边村是个真正的村庄了。但并非一切都按计划进行...\"*",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1455993,
+        "imagePath": "/game_map_pin/1455993/{size}.webp",
+        "videoId": 1455994,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/b343212a79cbac16ce54ffed93cc97d0499771b6"
+      }
+    },
+    {
+      "coordinates": [
+        -1.9784744968221162,
+        -25.71677462258495
+      ],
+      "properties": {
+        "externalId": "vYXWKdImo8",
+        "title": "拜水村战役",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|评估员|[--](--) \n\n# 从\"评估员\"继续，这个故事展开下一章节。\n\n# 任务：\n- 等待村庄竞选的消息（让你的霍比特人睡觉或选择提早休息）\n- 查看你的邮箱\n\n# *\"每个人都同意拜沃特是整个夏尔最好的村庄！或者说，一旦它被正式宣布为村庄，它就能成为最好的。\"*",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1456085,
+        "imagePath": "/game_map_pin/1456085/{size}.webp",
+        "videoId": 1456086,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/60165b9daaefd479f8cd5e7fc523480ec7260461"
+      }
+    },
+    {
+      "coordinates": [
+        2.1089104817064026,
+        -1.5864965836099856
+      ],
+      "properties": {
+        "externalId": "lKEetHUWvR",
+        "title": "纳斯图里安",
+        "description": "# 这种草药生长在木屋附近，但只在春季和秋季生长。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 春季和秋季 |\n\n# *\"如此美丽明亮，飞燕草坚持说它在全日照下生长得最好，而且整株都可以食用。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1456160,
+        "imagePath": "/game_map_pin/1456160/{size}.webp",
+        "videoId": 1456161,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/2166a916d5bbf516ac91086162f7573b3cb81f8c"
+      }
+    },
+    {
+      "coordinates": [
+        1.009465625210396,
+        -2.864006156578384
+      ],
+      "properties": {
+        "externalId": "JL2V7jEIEo",
+        "title": "纳斯图里安",
+        "description": "# 这种草药生长在灌木丛附近，但只在春季和秋季生长。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 春季和秋季 |\n\n# *\"如此美丽明亮，飞燕草坚持认为它在充足阳光下生长得最好，而且整株植物都可以食用。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1456166,
+        "imagePath": "/game_map_pin/1456166/{size}.webp",
+        "videoId": 1456167,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/e9394057caecf0cd33b4523573e0a1bc2e076976"
+      }
+    },
+    {
+      "coordinates": [
+        -2.6822465615835256,
+        -9.884317199760986
+      ],
+      "properties": {
+        "externalId": "LN7LL8Cj4I",
+        "title": "胡桃镇",
+        "description": "# 从树上掉落到地面后可以收集。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦涩 |\n| 类型 | 坚果 |\n| 偏好季节 | 秋季和冬季 |\n\n# *\"一些霍比特人说，从它们的形状可以看出它们对大脑和智力有好处。沙人对此颇有了解，要是它对人的善良也有同样效果就好了。\"*",
+        "subcategoryExternalId": "9oXjq0xuJg",
+        "imageId": 1456172,
+        "imagePath": "/game_map_pin/1456172/{size}.webp",
+        "videoId": 1456173,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/90245f21ce33834415224f1779f939811d508e1c"
+      }
+    },
+    {
+      "coordinates": [
+        -49.282081847322075,
+        6.752971951387977
+      ],
+      "properties": {
+        "externalId": "R3wFjHMCR7",
+        "title": "帕斯利",
+        "description": "# 这种草药生长在草地上，稍微往山坡上一点的地方。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 草药 |\n| 偏好 | 春季和冬季 |\n\n# *\"它有着相当浓烈的苦味。它鲜艳的颜色可以为你制作的任何类型的餐点增添绝佳的装饰效果。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1456190,
+        "imagePath": "/game_map_pin/1456190/{size}.webp",
+        "videoId": 1456191,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/80372dc509927adff4b8326c1d36a20ff74fd6f9"
+      }
+    },
+    {
+      "coordinates": [
+        -52.50816941848137,
+        17.956674743531053
+      ],
+      "properties": {
+        "externalId": "2AEft3dNeh",
+        "title": "莫雷尔",
+        "description": "# 这种蘑菇生长在树根部。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 蘑菇 |\n| 偏好季节 | 春季和冬季 |\n\n# *\"这个图案看起来像一头牛，特别是浑身沾满泥巴的样子。幸运的是，它的味道很苦，完全不像牛肉。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1456192,
+        "imagePath": "/game_map_pin/1456192/{size}.webp",
+        "videoId": 1456193,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/5a82fc6af2314ed81cd710aa1a1586541674f4c6"
+      }
+    },
+    {
+      "coordinates": [
+        -65.4053703500161,
+        18.536575643312162
+      ],
+      "properties": {
+        "externalId": "nzsQXkESbO",
+        "title": "莫雷尔",
+        "description": "# 这种蘑菇生长在树根部。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 蘑菇 |\n| 偏好季节 | 春季和冬季 |\n\n# *\"这个图案看起来像一头牛，特别是浑身沾满泥巴的样子。幸运的是，它的味道很苦，完全不像牛肉。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1456198,
+        "imagePath": "/game_map_pin/1456198/{size}.webp",
+        "videoId": 1456199,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/bb78ace57123a70d2163282933eeaa35e154400d"
+      }
+    },
+    {
+      "coordinates": [
+        -19.93932989175309,
+        23.97649410644253
+      ],
+      "properties": {
+        "externalId": "9PAvdCfHn0",
+        "title": "奥洛的重要时刻",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|评估者|灰袍流浪者|\n\n# 这是\"评估者\"的直接续篇，这个传说延续了故事情节。\n\n# 任务：\n- 拜访绿龙酒馆\n- 送递内菲的包裹\n- 送递桑迪曼的包裹\n- 送递老诺克斯的包裹\n- 送递罗西的信件\n- 送递德尔菲的信件\n- 回到绿龙酒馆查看\n\n# 奖励：\n- 1x 萝卜\n\n# 注意：\n拜沃特村庄战役将在此传说之后触发。\n# 任务：\n- 等待德尔菲妮的回信（让你的霍比特人睡觉或选择提早休息）\n- 检查你的邮箱并阅读信件以解锁下一个传说。\n\n# *\"奥洛面前有一项重大工作。当他忙碌时，他需要你的帮助。\"*",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1456310,
+        "imagePath": "/game_map_pin/1456310/{size}.webp",
+        "videoId": 1456311,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/12940b03cdeb9748e0e02e3f6a3bcbd4155ea164"
+      }
+    },
+    {
+      "coordinates": [
+        -19.202048234621998,
+        -24.695651503533867
+      ],
+      "properties": {
+        "externalId": "UxWHepdvcs",
+        "title": "帕斯利",
+        "description": "# 这种草药生长在草地上，靠近河边。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 草药 |\n| 偏好 | 春季和冬季 |\n\n# *\"它有着相当浓烈的苦味。它绚烂的色彩会成为你制作的任何餐点的绝佳装饰。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1456225,
+        "imagePath": "/game_map_pin/1456225/{size}.webp",
+        "videoId": 1456226,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/a4f7ff2b28de96bf3ccf2869243b1cf79bafd752"
+      }
+    },
+    {
+      "coordinates": [
+        -24.61652294241287,
+        -24.259947734137995
+      ],
+      "properties": {
+        "externalId": "8aemKdCLO8",
+        "title": "纳斯图里安",
+        "description": "# 这种草药生长在河边，但只在春季和秋季生长。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 春季和秋季 |\n\n# *\"如此美丽明亮，飞燕草坚持认为它在充足的阳光下生长得最好，而且整株植物都是可食用的。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1456232,
+        "imagePath": "/game_map_pin/1456232/{size}.webp",
+        "videoId": 1456233,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/ee32e91950058ac6e6e0c73533de041a5e909eb1"
+      }
+    },
+    {
+      "coordinates": [
+        -25.485295320715522,
+        -26.45575601573681
+      ],
+      "properties": {
+        "externalId": "9ZWubznu2b",
+        "title": "雪白蜡伞菌",
+        "description": "# 你可以在草地上找到这种蘑菇，在山坡上一点的地方。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 蘑菇 |\n| 喜好 | 冬季 |\n\n# *\"它闪闪发光的白色，就像雪一样。它有一种相当复杂的甜味，比酸挞之类的要复杂得多\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1456234,
+        "imagePath": "/game_map_pin/1456234/{size}.webp",
+        "videoId": 1456237,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/c69cf6aeb4751e9c04c6bb00cf0b5a868bd44e29"
+      }
+    },
+    {
+      "coordinates": [
+        -27.93844699981858,
+        -27.466174660034184
+      ],
+      "properties": {
+        "externalId": "WWznORFARE",
+        "title": "胡桃镇",
+        "description": "# 可以在草地上从树上掉落后收集。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦涩 |\n| 类型 | 坚果 |\n| 偏好 | 秋季和冬季 |\n\n# *\"一些霍比特人说，你可以从它们的形状看出它们对大脑和智力有好处。桑迪曼很了解这些，要是它们也能让人变得善良就好了。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1456239,
+        "imagePath": "/game_map_pin/1456239/{size}.webp",
+        "videoId": 1456240,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/8b9fd375149e5d78a1371175f0ba0729385fefe4"
+      }
+    },
+    {
+      "coordinates": [
+        -33.38766574981858,
+        -27.73877955310472
+      ],
+      "properties": {
+        "externalId": "3fCPa3DhGI",
+        "title": "纳斯图里安",
+        "description": "# 这种草药可以在春季和秋季的草地中找到。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 春季和秋季 |\n\n# *\"如此美丽明亮，飞燕草坚持认为它在全日照下生长得最好，而且整株植物都可以食用。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1456243,
+        "imagePath": "/game_map_pin/1456243/{size}.webp",
+        "videoId": 1456244,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/cd1c81c53736e602656a86526784d49d175913cb"
+      }
+    },
+    {
+      "coordinates": [
+        -39.320282937318126,
+        -23.902719555683106
+      ],
+      "properties": {
+        "externalId": "Mq4jdRWfyl",
+        "title": "胡桃镇",
+        "description": "# 可以在草地上从树上掉落后收集。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 坚果 |\n| 偏好 | 秋季和冬季 |\n\n# *\"一些霍比特人说，从它们的形状可以看出它们对大脑和智力有好处。沙地人对此很了解，要是它对人的善良也有同样的效果就好了。\"*",
+        "subcategoryExternalId": "9oXjq0xuJg",
+        "imageId": 1456249,
+        "imagePath": "/game_map_pin/1456249/{size}.webp",
+        "videoId": 1456250,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/9f014e68437db020dcdd338b7247083170b834fd"
+      }
+    },
+    {
+      "coordinates": [
+        -45.1291374526742,
+        -20.579894633290692
+      ],
+      "properties": {
+        "externalId": "1Neo7C87XB",
+        "title": "天鹅绒茎杆",
+        "description": "# 这种蘑菇嵌在树干中。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 酸味 |\n| 类型 | 蘑菇 |\n| 偏好 | 冬季 |\n\n# *\"它看起来就像美味的热饼，如果不是因为意外的粘滑和海绵质地，你会咬一口。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1456251,
+        "imagePath": "/game_map_pin/1456251/{size}.webp",
+        "videoId": 1456252,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/44c9185db482a5e442f7fd1d727082a1761a4573"
+      }
+    },
+    {
+      "coordinates": [
+        -55.26619171592233,
+        -17.302181899725326
+      ],
+      "properties": {
+        "externalId": "JfPHvcDdPj",
+        "title": "纳斯图里安",
+        "description": "# 这种草药生长在草地上，靠近大树的地方。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 春季和秋季 |\n\n# *\"如此美丽明亮，飞燕草坚持认为它在全日照下生长得最好，而且整株植物都可以食用。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1456259,
+        "imagePath": "/game_map_pin/1456259/{size}.webp",
+        "videoId": 1456260,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/0e4bcbca6f4c500b143d29ce2654f7b247f93c68"
+      }
+    },
+    {
+      "coordinates": [
+        -59.097692725552264,
+        -19.244994782462882
+      ],
+      "properties": {
+        "externalId": "N9L4FS2zAr",
+        "title": "莫雷尔",
+        "description": "# 在石墙边的灌木丛下寻找这种蘑菇。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 蘑菇 |\n| 偏好 | 春季和冬季 |\n\n# *\"这个图案看起来像一头牛，特别是浑身沾满泥巴的样子。幸运的是，它的味道很苦，完全不像牛肉。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1456261,
+        "imagePath": "/game_map_pin/1456261/{size}.webp",
+        "videoId": 1456262,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/8b6c55e259eb0c1d9eaf11742095d22bab183e7a"
+      }
+    },
+    {
+      "coordinates": [
+        -56.46097397555103,
+        -20.567187035569887
+      ],
+      "properties": {
+        "externalId": "FZA1SN51iq",
+        "title": "莫雷尔",
+        "description": "# 你会在树根处找到这种蘑菇。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 蘑菇 |\n| 偏好 | 春季和冬季 |\n\n# *\"这个图案看起来像一头牛，特别是浑身沾满泥巴的样子。幸运的是，它的味道很苦，一点也不像牛肉。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1456265,
+        "imagePath": "/game_map_pin/1456265/{size}.webp",
+        "videoId": 1456266,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/92bacb1bd496807ddd4c4a8a7fd7610c6656b9a7"
+      }
+    },
+    {
+      "coordinates": [
+        -56.237988858378074,
+        -22.865358771881432
+      ],
+      "properties": {
+        "externalId": "8uvHbCpM8j",
+        "title": "天鹅绒茎杆",
+        "description": "# 这种蘑菇嵌在树干中。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 酸味 |\n| 类型 | 蘑菇 |\n| 偏好 | 冬季 |\n\n# *\"它看起来就像美味的热饼，如果不是因为意外的粘滑和海绵质地，你会咬一口。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1456270,
+        "imagePath": "/game_map_pin/1456270/{size}.webp",
+        "videoId": 1456271,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/edfded2cb70a18f7f2e51f10478c5f2d594c2af5"
+      }
+    },
+    {
+      "coordinates": [
+        -56.358807064147754,
+        -18.433464480118488
+      ],
+      "properties": {
+        "externalId": "mEF1CWQ7az",
+        "title": "雪白蜡伞菌",
+        "description": "# 你可以在草地里找到这种蘑菇，就在蜂巢附近。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 蘑菇 |\n| 偏好 | 冬季 |\n\n# *\"它闪着白光，就像雪一样。它有一种相当复杂的甜味，与酸果之类的东西相比\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1456274,
+        "imagePath": "/game_map_pin/1456274/{size}.webp",
+        "videoId": 1456275,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/89614b04994df534749188227dbc39817ce8a61c"
+      }
+    },
+    {
+      "coordinates": [
+        -61.13285424538715,
+        -9.029892927706769
+      ],
+      "properties": {
+        "externalId": "d8eCQRrxHO",
+        "title": "天鹅绒茎杆",
+        "description": "# 这个蘑菇藏在树干里。走几步你就能采到一些羊肚菌。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 酸味 |\n| 类型 | 蘑菇 |\n| 偏好 | 冬季 |\n\n# *\"它看起来就像美味的热饼，如果不是因为意想不到的粘滑和海绵质地，你都想咬一口。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1456278,
+        "imagePath": "/game_map_pin/1456278/{size}.webp",
+        "videoId": 1456279,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/fcde96911db5656b6ecb9ae05c38bd9cdba5a59e"
+      }
+    },
+    {
+      "coordinates": [
+        -67.24544122232167,
+        -14.567767578364922
+      ],
+      "properties": {
+        "externalId": "w9vwVG3C4W",
+        "title": "雪白蜡伞菌",
+        "description": "# 你可以在草地上，靠近灌木丛的地方找到这种蘑菇。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 蘑菇 |\n| 偏好 | 冬季 |\n\n# *\"它闪着白光，就像雪一样。它有一种相比酸挞之类的东西更为复杂的甜味\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1456280,
+        "imagePath": "/game_map_pin/1456280/{size}.webp",
+        "videoId": 1456281,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/798ef143f8bda44d4bfd9c5363fbb270cfa619ba"
+      }
+    },
+    {
+      "coordinates": [
+        -35.14376925229385,
+        -15.079303625534592
+      ],
+      "properties": {
+        "externalId": "NyljARHXlc",
+        "title": "帕斯利",
+        "description": "# 这种草药生长在草地上，靠近葡萄藤附近。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 草药 |\n| 偏好 | 春季和冬季 |\n\n# *\"它有着相当浓烈的苦味。它绚烂的色彩会成为你制作的任何类型餐点的绝佳装饰。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1456282,
+        "imagePath": "/game_map_pin/1456282/{size}.webp",
+        "videoId": 1456283,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/fc8514e4eec0ac48a46c6488b6353f26e8e2443c"
+      }
+    },
+    {
+      "coordinates": [
+        -42.14902485736806,
+        -5.2945527374397585
+      ],
+      "properties": {
+        "externalId": "40JFMxpUfu",
+        "title": "雪白蜡伞菌",
+        "description": "# 这种蘑菇生长在草地上，就在木桥附近的山坡上。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 蘑菇 |\n| 偏好 | 冬季 |\n\n# *\"它闪闪发光，洁白如雪。它有一种相当复杂的甜味，与酸果之类的东西相比\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1456289,
+        "imagePath": "/game_map_pin/1456289/{size}.webp",
+        "videoId": 1456290,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/6d1932352e9b87e67322224a9ce4dbf00a01efd5"
+      }
+    },
+    {
+      "coordinates": [
+        -44.30128553682823,
+        7.490661935692344
+      ],
+      "properties": {
+        "externalId": "e44qj8r7mP",
+        "title": "雪白蜡伞菌",
+        "description": "# 你可以在草地上的树下找到这种蘑菇。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 蘑菇 |\n| 偏好 | 冬季 |\n\n# *\"它闪闪发光呈白色，就像雪一样。与酸味的东西相比，它有着相当复杂的甜味\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1456295,
+        "imagePath": "/game_map_pin/1456295/{size}.webp",
+        "videoId": 1456296,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/3876b5e83539ae7990813acc3b69e35031ddf4fd"
+      }
+    },
+    {
+      "coordinates": [
+        -50.23390272432701,
+        11.003395109292228
+      ],
+      "properties": {
+        "externalId": "s8oNZ9ZKUD",
+        "title": "雪白蜡伞菌",
+        "description": "# 你可以在草地上找到这种蘑菇，靠近一块大石头的地方。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 种类 | 蘑菇 |\n| 偏好 | 冬季 |\n\n# *\"它闪烁着白色的光泽，就像雪一样。与酸味果子之类的东西相比，它有着相当复杂的甜味\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1456301,
+        "imagePath": "/game_map_pin/1456301/{size}.webp",
+        "videoId": 1456302,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/31e01c7f069d9c1c9f8d4eba8edfe32668523667"
+      }
+    },
+    {
+      "coordinates": [
+        -56.38461643031188,
+        26.637150595781534
+      ],
+      "properties": {
+        "externalId": "Vwuo3vHjIw",
+        "title": "雪白蜡伞菌",
+        "description": "# 在草地上发现，这种蘑菇隐藏在树下和一些灌木丛旁边。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 蘑菇 |\n| 偏好 | 冬季 |\n\n# *\"它闪着白光，就像雪一样。与酸味食物相比，它有着相当复杂的甜味\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1456305,
+        "imagePath": "/game_map_pin/1456305/{size}.webp",
+        "videoId": 1456306,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/e603c5861a8e9598bfba9e12e88dbc61aefdc008"
+      }
+    },
+    {
+      "coordinates": [
+        -43.572304194192526,
+        25.198620545593343
+      ],
+      "properties": {
+        "externalId": "dYXFvCJD5M",
+        "title": "帕斯利",
+        "description": "# 这种草药生长在草地上，稍微往山坡上一点的地方。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 草药 |\n| 偏好 | 春季和冬季 |\n\n# *\"它有着相当浓烈的苦味。它鲜艳的颜色可以为你制作的任何类型的餐点增添绝佳的装饰效果。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1456307,
+        "imagePath": "/game_map_pin/1456307/{size}.webp",
+        "videoId": 1456308,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/d7f87464af929265ccc59258503b45a4a7efab69"
+      }
+    },
+    {
+      "coordinates": [
+        37.64200573559819,
+        8.02053458175503
+      ],
+      "properties": {
+        "externalId": "G87YANXgXq",
+        "title": "雪白蜡伞菌",
+        "description": "# 你可以在草地上找到这种蘑菇，就在两棵树的中间。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 蘑菇 |\n| 偏好 | 冬季 |\n\n# *\"它闪着白光，就像雪一样。它有一种相当复杂的甜味，与酸味食物形成对比\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1456312,
+        "imagePath": "/game_map_pin/1456312/{size}.webp",
+        "videoId": 1456313,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/8ce096e6feefd56cb5361dbfe9ec79e3fdb7f3cb"
+      }
+    },
+    {
+      "coordinates": [
+        38.235258877563865,
+        11.817120618658791
+      ],
+      "properties": {
+        "externalId": "1Oqu5GFadR",
+        "title": "天鹅绒茎杆",
+        "description": "# 这种蘑菇嵌在树干中。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 酸味 |\n| 类型 | 蘑菇 |\n| 偏好 | 冬季 |\n\n# *\"它看起来就像美味的热饼，如果不是因为意外的粘滑和海绵质地，你会咬一口。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1456318,
+        "imagePath": "/game_map_pin/1456318/{size}.webp",
+        "videoId": 1456319,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/6e95197c0c0e683e95bb5ee13febd000a8806214"
+      }
+    },
+    {
+      "coordinates": [
+        34.43769459570757,
+        20.974558253455555
+      ],
+      "properties": {
+        "externalId": "EocLJj6PBQ",
+        "title": "纳斯图里安",
+        "description": "# 这种草药生长在河边，但只在春季和秋季生长。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 春季和秋季 |\n\n# *\"如此美丽明亮，飞燕草坚持认为它在充足的阳光下生长得最好，而且整株植物都是可食用的。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1456320,
+        "imagePath": "/game_map_pin/1456320/{size}.webp",
+        "videoId": 1456321,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/4073945416935405ccf9b4f34d008b8e5f68df49"
+      }
+    },
+    {
+      "coordinates": [
+        27.887110164995846,
+        -2.1020437031277766
+      ],
+      "properties": {
+        "externalId": "QCVOjlf7w9",
+        "title": "雪白蜡伞菌",
+        "description": "# 你可以在草地里找到这种蘑菇。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 蘑菇 |\n| 偏好 | 冬季 |\n\n# *\"它闪着白光，就像雪一样。它有一种甜味，与酸果之类的东西相比，这种甜味相当复杂\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1456322,
+        "imagePath": "/game_map_pin/1456322/{size}.webp",
+        "videoId": 1456323,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/e5bbd1009baa252a8a800c9129c81077c3fcc385"
+      }
+    },
+    {
+      "coordinates": [
+        28.062891414988655,
+        -4.9089984110976985
+      ],
+      "properties": {
+        "externalId": "7C4czj5801",
+        "title": "雪白蜡伞菌",
+        "description": "# 你可以在草地上找到这种蘑菇。附近，你还会发现一个金莲花和一个雪白蜡伞可以采集。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 甜味 |\n| 类型 | 蘑菇 |\n| 偏好 | 冬季 |\n\n# *\"它闪着白光，就像雪一样。它有一种相当复杂的甜味，与酸果之类的东西相比\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1456324,
+        "imagePath": "/game_map_pin/1456324/{size}.webp",
+        "videoId": 1456325,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/49126c7d677532721fc3ac08deceeb10c154b0ae"
+      }
+    },
+    {
+      "coordinates": [
+        25.87603183169074,
+        -29.35639417689149
+      ],
+      "properties": {
+        "externalId": "Ww6zeHZ9vj",
+        "title": "莫雷尔",
+        "description": "# 这种蘑菇生长在树根部。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 蘑菇 |\n| 偏好季节 | 春季和冬季 |\n\n# *\"这个图案看起来像一头牛，特别是浑身沾满泥巴的样子。幸运的是，它的味道很苦，完全不像牛肉。\"*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1456331,
+        "imagePath": "/game_map_pin/1456331/{size}.webp",
+        "videoId": 1456332,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/7f326b210eb0507909acbe8025fab3010717c93e"
+      }
+    },
+    {
+      "coordinates": [
+        -28.303780564799865,
+        15.761476083702277
+      ],
+      "properties": {
+        "externalId": "S0LdminILE",
+        "title": "丢失的油脂包裹",
+        "description": "# 推进故事以遇到这个传说物品。\n\n# 注意：\n- 将此物品交给沙人，他会奖励你湖景。\n\n# *\"轴承油脂，用于大型转动装置。\"*",
+        "subcategoryExternalId": "M5lxVaRH6r",
+        "imageId": 1456339,
+        "imagePath": "/game_map_pin/1456339/{size}.webp",
+        "videoId": 1456340,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/35d9d7acdae9fbe466edc411287075d9410e205f"
+      }
+    },
+    {
+      "coordinates": [
+        -15.307147185744185,
+        -40.76576301918453
+      ],
+      "properties": {
+        "externalId": "xzTGBJKFUp",
+        "title": "帕斯利",
+        "description": "# 这种草药生长在草地上，稍微往山坡上一点的地方。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 草药 |\n| 偏好 | 春季和冬季 |\n\n# *\"它有着相当浓烈的苦味。它鲜艳的颜色可以为你制作的任何类型的餐点增添绝佳的装饰效果。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1456348,
+        "imagePath": "/game_map_pin/1456348/{size}.webp",
+        "videoId": 1456349,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/5c606952e37ef05611dffb6f5b867ed8be6eeb82"
+      }
+    },
+    {
+      "coordinates": [
+        -11.220233123239154,
+        -38.80738572372235
+      ],
+      "properties": {
+        "externalId": "UPd2CXnYJu",
+        "title": "帕斯利",
+        "description": "# 这种草药生长在草地上，稍微往山坡上一点的地方。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 草药 |\n| 偏好 | 春季和冬季 |\n\n# *\"它有着相当浓烈的苦味。它鲜艳的颜色可以为你制作的任何类型的餐点增添绝佳的装饰效果。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1456351,
+        "imagePath": "/game_map_pin/1456351/{size}.webp",
+        "videoId": 1456352,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/5ddc92a6794ae75ecd220847c26f826468cced1b"
+      }
+    },
+    {
+      "coordinates": [
+        -14.384295623239069,
+        -38.291865881299096
+      ],
+      "properties": {
+        "externalId": "rsp4LHMHgO",
+        "title": "帕斯利",
+        "description": "# 这种草药生长在草地上，在一条狭窄的小径旁。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 草药 |\n| 偏好 | 春季和冬季 |\n\n# *\"它有着相当浓烈的苦味。它鲜艳的颜色会是你制作的任何餐点的绝佳装饰。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1456355,
+        "imagePath": "/game_map_pin/1456355/{size}.webp",
+        "videoId": 1456356,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/a5156efaf5e5de9aeb57dfad5e74cdc4ede6f00c"
+      }
+    },
+    {
+      "coordinates": [
+        -12.306331696374599,
+        -36.32801838146028
+      ],
+      "properties": {
+        "externalId": "4DjGLYGa6A",
+        "title": "帕斯利",
+        "description": "# 这种草药生长在草地上，稍微往山坡上一点的地方。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 草药 |\n| 偏好 | 春季和冬季 |\n\n# *\"它有着相当浓烈的苦味。它鲜艳的颜色可以为你制作的任何类型的餐点增添绝佳的装饰效果。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1456357,
+        "imagePath": "/game_map_pin/1456357/{size}.webp",
+        "videoId": 1456358,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/6a2e688e93df666dd9bf3afdd4c37b84c38b7403"
+      }
+    },
+    {
+      "coordinates": [
+        -11.143615871128844,
+        -9.682307018969283
+      ],
+      "properties": {
+        "externalId": "OJVHeMsSOO",
+        "title": "纳斯图里安",
+        "description": "# 这种草药生长在树下，但只在春季和秋季。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 辛辣 |\n| 类型 | 草药 |\n| 偏好 | 春季和秋季 |\n\n# *\"如此美丽明亮，飞燕草坚持认为它在充足阳光下生长得最好，而且整株植物都可以食用。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1456361,
+        "imagePath": "/game_map_pin/1456361/{size}.webp",
+        "videoId": 1456362,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/6bc94fba19c8285869fd64982d8b7646f029d0f3"
+      }
+    },
+    {
+      "coordinates": [
+        23.761904146336178,
+        10.92585094215211
+      ],
+      "properties": {
+        "externalId": "RclF8I9KWB",
+        "title": "发现",
+        "description": "|要求|\n| :-----------: |\n|发现|\n\n# 发现传说中的最后任务。",
+        "subcategoryExternalId": "VlMNgSszrv",
+        "imageId": 1456365,
+        "imagePath": "/game_map_pin/1456365/{size}.webp",
+        "videoId": 1456366,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/8c6860ae54a7c08ce11aff638f36b7c4246c5a73"
+      }
+    },
+    {
+      "coordinates": [
+        29.081422297576523,
+        -34.49446088375762
+      ],
+      "properties": {
+        "externalId": "DqRrDDU1K5",
+        "title": "发现",
+        "description": "|要求|\n| :-----------: |\n|恢复觅食俱乐部|\n\n# 通过与黛西交谈，这个传说将被解锁。\n\n# 任务：\n- \"在湖心，立着一棵树。在它的根部，你会找到你所寻求的。\" \n- \"在森林的心脏地带，它在呼唤。河流不流淌的地方，它坠落。水不潺潺的地方，它咆哮。\"\n- \"一个没有脚也没有轮子的旅行者，它的旅程结束了，现在它的龙骨在休息。\"（注意：仅在传说\"奥洛的重要时刻\"期间可用）\n\n# 注意：\n- 完成发现传说后，看看黛西是否有什么新消息。\n- 与发光的漂浮物体互动。",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1456371,
+        "imagePath": "/game_map_pin/1456371/{size}.webp",
+        "videoId": 1456372,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/0f7106ec54f9dc2c631564c31d5fa54e92aff2f1"
+      }
+    },
+    {
+      "coordinates": [
+        -5.786308021023672,
+        14.165140917066125
+      ],
+      "properties": {
+        "externalId": "0YlY1zsOWC",
+        "title": "灰色漫游者",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|奥洛的重要时刻|奥洛的更重要时刻|\n\n# 这是\"奥洛的重要时刻\"的直接续篇，延续了故事情节。\n\n# 任务：\n- 与神秘陌生人见面！\n- 在老桥搜寻德尔菲的踪迹\n- 跟随花朵的踪迹\n- 接近德尔菲妮亚姆\n\n# 注意：\n拜沃特村庄战役将在此传说之后触发。\n# 任务：\n- 等待评估员的回复（让你的霍比特人睡觉或选择早点休息）\n- 检查你的邮箱并阅读信件以解锁下一个传说。",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1456526,
+        "imagePath": "/game_map_pin/1456526/{size}.webp",
+        "videoId": 1456527,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/b70fd2cfddb8c2f768a768b9cd8780956d4eee4f"
+      }
+    },
+    {
+      "coordinates": [
+        -2.4668687610759434,
+        -23.75789929713349
+      ],
+      "properties": {
+        "externalId": "UzgtXFYhuq",
+        "title": "在芦苇丛上",
+        "description": "|要求|\n| :-----------: |\n| 白水村战役|\n\n# 此任务在灰袍行者结束且白水村战役完成后可用。与您的邮箱互动以找到老诺克斯的信件。\n\n# 任务：\n- 询问老诺克斯关于信件的事。\n- 清除灯芯草杂草。\n- 拾取未知物体。\n- 返回老诺克斯处。\n- 询问诺拉关于奇怪物体的事。\n\n# 奖励：\n- 1x 白色蓬松土豆\n- 1x 登丹人传家宝（装饰品）\n\n*帮助老诺克斯会带来奇怪的发现。*",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1457361,
+        "imagePath": "/game_map_pin/1457361/{size}.webp",
+        "videoId": 1457362,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/9a2ded204321b47c972065e8e58332dccf54db1d"
+      }
+    },
+    {
+      "coordinates": [
+        -20.437188801352846,
+        19.910772904111994
+      ],
+      "properties": {
+        "externalId": "6aiMIrfgt2",
+        "title": "奥洛的更重要时刻",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|灰袍流浪者|第一届拜沃特节庆|\n\n# 在完成\"灰袍流浪者\"之后，这个传说展开了故事的下一部分。\n\n# 任务：\n- 向莉莉询问评估员的事情\n- 给莉莉带一个辣味馅饼\n- 等待评估员的回复\n- 检查你的邮箱\n- 在常春藤丛酒馆与村民见面讨论桑迪曼的计划\n- 给莉莉带一份3星级餐点\n\n# 注意：\n拜沃特村庄战役将在这个传说之后触发。\n# 任务：\n- 等待村庄战役的回复（让你的霍比特人睡觉或选择提前休息）\n- 检查你的邮箱并阅读信件以解锁下一个传说。\n\n*在拜沃特成为村庄之前，它需要一个新的治安官。但选择一个人并不容易。*",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1457459,
+        "imagePath": "/game_map_pin/1457459/{size}.webp",
+        "videoId": 1457460,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/1af0584b8b0705bba01399f792b0b5df1c7913ef"
+      }
+    },
+    {
+      "coordinates": [
+        17.112576672613983,
+        -15.760913712541907
+      ],
+      "properties": {
+        "externalId": "kEfDwzsUwZ",
+        "title": "贤者",
+        "description": "# 你会在草地里发现这种草药，就在斜坡上一点点的地方。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦 |\n| 类型 | 草药 |\n| 偏好 | 春天 |\n\n*一种芳香的草药，叶子上有着令人愉悦的绒毛。摆弄它很有趣，也许这就是为什么你会偶尔看到诺克斯在摆弄它们的原因。*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1459255,
+        "imagePath": "/game_map_pin/1459255/{size}.webp",
+        "videoId": 1459256,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/62a42333834d087cef46bda083c4cdab19b202fe"
+      }
+    },
+    {
+      "coordinates": [
+        18.87038917261401,
+        -15.887753337124366
+      ],
+      "properties": {
+        "externalId": "QwNillUCbe",
+        "title": "帕斯利",
+        "description": "# 这种草药生长在草地上，稍微往山坡上一点的地方。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 草药 |\n| 偏好 | 春季和冬季 |\n\n# *\"它有着相当浓烈的苦味。它鲜艳的颜色可以为你制作的任何类型的餐点增添绝佳的装饰效果。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1457710,
+        "imagePath": "/game_map_pin/1457710/{size}.webp",
+        "videoId": 1457711,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/025d173b5bdb39814bc4847e13155e980100d594"
+      }
+    },
+    {
+      "coordinates": [
+        -33.0498172953499,
+        -8.570234083105149
+      ],
+      "properties": {
+        "externalId": "QuHMYCfVUF",
+        "title": "欧芹草",
+        "description": "# 这种草药生长在草地里，沿着斜坡向上爬一小段路就能找到。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 草药 |\n| 偏好 | 春季 |\n\n*棉花太太经常用它来做饭，老诺克斯在洗澡日会把它涂满全身。真的，选择权在你。*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1457722,
+        "imagePath": "/game_map_pin/1457722/{size}.webp",
+        "videoId": 1457723,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/0b534ef56a36e7493700f8430c61b704089f60b6"
+      }
+    },
+    {
+      "coordinates": [
+        -26.066148553190203,
+        -9.083370443541597
+      ],
+      "properties": {
+        "externalId": "Ku1umcDhdW",
+        "title": "欧芹草",
+        "description": "# 这种草药生长在草地里，沿着斜坡向上爬一小段路就能找到。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 草药 |\n| 偏好 | 春季 |\n\n*棉花太太经常用它来做饭，老诺克斯在洗澡日会把它涂满全身。真的，选择权在你。*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1457730,
+        "imagePath": "/game_map_pin/1457730/{size}.webp",
+        "videoId": 1457731,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/ac3172f0ced72f8a8a73db4475f5284359bbd1a7"
+      }
+    },
+    {
+      "coordinates": [
+        -24.12572886661721,
+        -19.142234038990537
+      ],
+      "properties": {
+        "externalId": "21NWSu83E5",
+        "title": "",
+        "description": "# 这种草药生长在草地里，沿着斜坡向上爬一小段路就能找到。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 草药 |\n| 偏好 | 春季 |\n\n*棉花太太经常用它来做饭，老诺克斯在洗澡日会把它涂满全身。真的，选择权在你。*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1457734,
+        "imagePath": "/game_map_pin/1457734/{size}.webp",
+        "videoId": 1457735,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/62352402a0a3647548270ca16db37565e3f67258"
+      }
+    },
+    {
+      "coordinates": [
+        -29.60456092281163,
+        -18.872437000024348
+      ],
+      "properties": {
+        "externalId": "ZQrITcRlIM",
+        "title": "欧芹草",
+        "description": "# 这种草药生长在草地里，沿着斜坡向上爬一小段路就能找到。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 草药 |\n| 偏好 | 春季 |\n\n*棉花太太经常用它来做饭，老诺克斯在洗澡日会把它涂满全身。真的，选择权在你。*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1457739,
+        "imagePath": "/game_map_pin/1457739/{size}.webp",
+        "videoId": 1457740,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/70d2bdf9bf0caa4e0ec616d848d24b636ed4ae9a"
+      }
+    },
+    {
+      "coordinates": [
+        -39.2495881884025,
+        -17.081118709870736
+      ],
+      "properties": {
+        "externalId": "AWT6KSS3Oz",
+        "title": "帕斯利",
+        "description": "# 这种草药生长在草地上，靠近葡萄藤附近。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 草药 |\n| 偏好 | 春季和冬季 |\n\n# *\"它有着相当浓烈的苦味。它绚烂的色彩会成为你制作的任何类型餐点的绝佳装饰。\"*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1457743,
+        "imagePath": "/game_map_pin/1457743/{size}.webp",
+        "videoId": 1457744,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/6022e2abb5e6832a9a6d4896ca1054e175a4269c"
+      }
+    },
+    {
+      "coordinates": [
+        -48.51156204548357,
+        -20.65241803095961
+      ],
+      "properties": {
+        "externalId": "XABNQquAEY",
+        "title": "蓝紫蘑菇",
+        "description": "# 在树下寻找这种蘑菇。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 酸味 |\n| 类型 | 蘑菇 |\n| 偏好 | 春季 |\n\n*这种蘑菇拥有丰富的紫色色调，就像李子一样。但味道完全不像，咬一小口就会让你皱起眉头。*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1457745,
+        "imagePath": "/game_map_pin/1457745/{size}.webp",
+        "videoId": 1457746,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/a982a843d9c41008bddbb89aa41630bdf8603832"
+      }
+    },
+    {
+      "coordinates": [
+        -57.90235593368783,
+        -21.02416336818459
+      ],
+      "properties": {
+        "externalId": "wO03ToIa8Z",
+        "title": "蓝紫蘑菇",
+        "description": "# 在树下寻找这种蘑菇。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 酸味 |\n| 类型 | 蘑菇 |\n| 偏好 | 春季 |\n\n*这种蘑菇拥有丰富的紫色色调，就像李子一样。但味道完全不像，咬一小口就会让你皱起眉头。*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1457760,
+        "imagePath": "/game_map_pin/1457760/{size}.webp",
+        "videoId": 1457761,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/1bc68e7c60f05dc13e3de12976403a99cd74e948"
+      }
+    },
+    {
+      "coordinates": [
+        49.53053699414326,
+        4.045455804913374
+      ],
+      "properties": {
+        "externalId": "drDhuLoSm8",
+        "title": "贤者",
+        "description": "# 在三法丁石周围发现，这种草药很容易识别。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 草药 |\n| 偏好 | 春季 |\n\n*一种芳香的草药，叶子上有着令人愉悦的绒毛。把玩起来很有趣，也许这就是为什么你时不时看到诺克斯在摆弄它们的原因。*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1457782,
+        "imagePath": "/game_map_pin/1457782/{size}.webp",
+        "videoId": 1457783,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/bdc32f7785bb22212e620318be8d81907ccfdb56"
+      }
+    },
+    {
+      "coordinates": [
+        51.64028894096873,
+        -1.6538722213898183
+      ],
+      "properties": {
+        "externalId": "DwCcS7OBOa",
+        "title": "贤者",
+        "description": "# 在三法丁石周围发现，这种草药很容易识别。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 草药 |\n| 偏好 | 春季 |\n\n*一种芳香的草药，叶子上有着令人愉悦的绒毛。把玩起来很有趣，也许这就是为什么你时不时看到诺克斯在摆弄它们的原因。*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1457784,
+        "imagePath": "/game_map_pin/1457784/{size}.webp",
+        "videoId": 1457785,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/d4b1bc2b3481532ea78a10116d9f219d8f84b3b6"
+      }
+    },
+    {
+      "coordinates": [
+        -26.865254374183678,
+        -37.58439149853508
+      ],
+      "properties": {
+        "externalId": "ow4IwL0bRB",
+        "title": "迪尔",
+        "description": "# 这种草药在草地上随处可见，很容易注意到。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 酸味 |\n| 类型 | 草药 |\n| 偏好 | 春季 |\n\n*如果使用得当，它甚至能让最不舒服的霍比特人安然入睡。没有白水村的霍比特人这样使用它，因为它的烹饪用途更佳。*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1457889,
+        "imagePath": "/game_map_pin/1457889/{size}.webp",
+        "videoId": 1457890,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/3962043436653403bdcdefaf209bc4108721be66"
+      }
+    },
+    {
+      "coordinates": [
+        -38.90604494683535,
+        8.070414170546641
+      ],
+      "properties": {
+        "externalId": "PFq88uBtyX",
+        "title": "迪尔",
+        "description": "# 这种草药在草地上随处可见，很容易注意到。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 酸味 |\n| 类型 | 草药 |\n| 偏好 | 春季 |\n\n*如果使用得当，它甚至能让最不舒服的霍比特人安然入睡。没有白水村的霍比特人这样使用它，因为它的烹饪用途更佳。*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1457891,
+        "imagePath": "/game_map_pin/1457891/{size}.webp",
+        "videoId": 1457892,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/76b126b97b10275dcd124ce13cbcdcbc9bf7d056"
+      }
+    },
+    {
+      "coordinates": [
+        -0.7586899892442034,
+        -23.622462466929207
+      ],
+      "properties": {
+        "externalId": "Rd1uMfVMxz",
+        "title": "第一届拜沃特节",
+        "description": "|需求|解锁|\n| :-----------: | :-----------: |\n|奥洛的更重要时刻|村庄之最|\n||给公主的蛋糕|\n\n# 查看你的邮箱来开始这个故事。前置条件：在\"奥洛的更好时刻\"之后完成拜沃特战役。\n\n# 任务：\n- 与奥洛和诺拉共进晚餐\n- 询问薇洛关于老图克餐食的事\n- 向福斯科要一些彩旗\n- 在城镇广场挂起彩旗\n- 把拜沃特特色菜带给诺拉\n- 等待听到节日开始的消息！\n- 查看你的邮箱\n- 在拜沃特节上与甘道夫见面\n- 与享受节日的人们交谈\n- 与甘道夫交谈\n- 请评估员宣布他的公告\n\n*通过一些努力工作，拜沃特即将举办其史上第一个节日。*",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1457908,
+        "imagePath": "/game_map_pin/1457908/{size}.webp",
+        "videoId": 1457909,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/97c8f90bf7b5cef7a843ce07bd0293d0a992c261"
+      }
+    },
+    {
+      "coordinates": [
+        -0.636560693716433,
+        -25.473332934975517
+      ],
+      "properties": {
+        "externalId": "YNXt4Pynro",
+        "title": "失踪的穆玛",
+        "description": "# 随着故事的推进以及你与黛西和薇洛关系的加深，这个故事将会开放。请留意你邮箱中的信件。\n\n# 任务：\n- 向薇洛询问关于信件的事\n- 询问黛西是否安好\n- 在河边寻找莫玛\n- 告诉薇洛关于莫玛的事\n- 等待薇洛的消息\n- 向薇洛询问关于信件的事\n\n# 奖励：\n- 1x 美味蔓越莓\n- 2x 大黄\n- 莫玛之岛（可用作共享用餐地点）\n\n*黛西丢失了珍贵的东西，需要你来帮忙找到它。*",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1458033,
+        "imagePath": "/game_map_pin/1458033/{size}.webp",
+        "videoId": 1458034,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/4045dd3b95c1805ec0564ed463e0e64235a0fc16"
+      }
+    },
+    {
+      "coordinates": [
+        11.898063636367027,
+        20.593338981502143
+      ],
+      "properties": {
+        "externalId": "dRBxiEFIx3",
+        "title": "神秘沼泽",
+        "description": "",
+        "subcategoryExternalId": "hy1ThhkKQU",
+        "imageId": 1458845,
+        "imagePath": "/game_map_pin/1458845/{size}.webp",
+        "videoId": 1458846,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/8a9ce5e6039370582e36d5929611315d89dd2b8e"
+      }
+    },
+    {
+      "coordinates": [
+        -15.504223082045996,
+        31.37574458324734
+      ],
+      "properties": {
+        "externalId": "J8ARwlEmrh",
+        "title": "失踪的穆玛",
+        "description": "|需求|\n| :-----------: |\n|失踪的穆玛|\n\n# 在《失踪的穆玛》故事中可以找到穆玛的位置。",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1458859,
+        "imagePath": "/game_map_pin/1458859/{size}.webp",
+        "videoId": 1458860,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/e959f623ec732ede98580fa99bec37f46d2feabc"
+      }
+    },
+    {
+      "coordinates": [
+        -15.884273881492192,
+        34.2234194734268
+      ],
+      "properties": {
+        "externalId": "vv0gwcsmCl",
+        "title": "穆玛岛",
+        "description": "|要求|\n| :-----------: |\n|失踪的穆玛|\n\n# 完成\"失踪的穆玛\"传说后，此区域将变为可进入。",
+        "subcategoryExternalId": "hy1ThhkKQU",
+        "imageId": 1458939,
+        "imagePath": "/game_map_pin/1458939/{size}.webp",
+        "videoId": 1458940,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/3ebde464ab85db438331693e8569d9f765029381"
+      }
+    },
+    {
+      "coordinates": [
+        22.068573538336835,
+        16.42416550463136
+      ],
+      "properties": {
+        "externalId": "Izksr97EAB",
+        "title": "诺克码头 - 禁止擅入",
+        "description": "# 提升与老诺克斯的友谊度以解锁对这个池塘的访问权限。\n\n# 注意：\n在这里钓鱼有机会捕获以下鱼类：\n- 鲈鱼\n- 鲫鱼\n- 不知道\n- 有刺和裂缝的\n- 裂缝鲑鱼\n- 普通鲤鱼\n- 无裂缝鲑鱼\n\n| 鱼类 | 天气 | 季节 | 时间 |\n| :-----------: | :-----------: | :-----------: | :-----------: |\n| 大伙伴 | 下雨 | 所有季节 | 夜晚 |\n| 不知道 | 干燥 | 夏季和春季 | 傍晚 |\n| 小胡须 | 下雨 | 夏季和秋季 | 傍晚 |\n| 梭鱼 | 干燥 | 秋季 | 早晨 |\n| 丁鱥 | 干燥 | 夏季和秋季 | 下午 |",
+        "subcategoryExternalId": "LBaPwI24iR",
+        "imageId": 1459004,
+        "imagePath": "/game_map_pin/1459004/{size}.webp",
+        "videoId": 1459005,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/7ddcad0ed388cc7233b6fb8a3fe9e49876a3e480"
+      }
+    },
+    {
+      "coordinates": [
+        -69.96193104766732,
+        2.77805623380047
+      ],
+      "properties": {
+        "externalId": "ZvJfDcxZbB",
+        "title": "古石塔",
+        "description": "# 提升与诺拉·伯罗斯的友谊度以解锁进入这个池塘的权限。\n\n# 注意\n在这里钓鱼有机会捕获这些鱼类：\n- 普通鲤鱼\n- 银鲂\n- 月光鲑鱼",
+        "subcategoryExternalId": "LBaPwI24iR",
+        "imageId": 1459028,
+        "imagePath": "/game_map_pin/1459028/{size}.webp",
+        "videoId": 1459029,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/3e7f89cfa44dfc0394db2397e904c39e135767a3"
+      }
+    },
+    {
+      "coordinates": [
+        -54.007334818621075,
+        -21.261880862192243
+      ],
+      "properties": {
+        "externalId": "gElFwvsyNd",
+        "title": "贤者",
+        "description": "# 你会在草地上发现这种草药，就在斜坡上一点的地方。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 草药 |\n| 偏好 | 春季 |\n\n*一种芳香的草药，叶子上有着令人愉悦的绒毛。很有趣可以拿来玩，也许这就是为什么你时不时会看到诺克斯在摆弄它们的原因。*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1459259,
+        "imagePath": "/game_map_pin/1459259/{size}.webp",
+        "videoId": 1459260,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/cf3e961cffe60ce73109ef191f4e42a5784da74d"
+      }
+    },
+    {
+      "coordinates": [
+        -58.311712285454774,
+        -14.931023650172847
+      ],
+      "properties": {
+        "externalId": "PVVs4a4UD8",
+        "title": "迪尔",
+        "description": "# 这种草药在草地上随处可见，很容易注意到。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 酸味 |\n| 类型 | 草药 |\n| 偏好 | 春季 |\n\n*如果使用得当，它甚至能让最不舒服的霍比特人安然入睡。没有白水村的霍比特人这样使用它，因为它的烹饪用途更佳。*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1459265,
+        "imagePath": "/game_map_pin/1459265/{size}.webp",
+        "videoId": 1459266,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/5aa37d25bc783fa4f1b8281a51258d25919d3cbf"
+      }
+    },
+    {
+      "coordinates": [
+        -64.55194666045293,
+        -15.693951647469532
+      ],
+      "properties": {
+        "externalId": "pyWoFwkgwK",
+        "title": "欧芹草",
+        "description": "# 这种草药生长在草地里，沿着斜坡向上爬一小段路就能找到。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 类型 | 草药 |\n| 偏好 | 春季 |\n\n*棉花太太经常用它来做饭，老诺克斯在洗澡日会把它涂满全身。真的，选择权在你。*",
+        "subcategoryExternalId": "XTjLKr6GVa",
+        "imageId": 1459269,
+        "imagePath": "/game_map_pin/1459269/{size}.webp",
+        "videoId": 1459270,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/ffb3420c3036fd76b3d44d50d6f04add6c6bc84f"
+      }
+    },
+    {
+      "coordinates": [
+        -51.41574513359828,
+        -8.452423310580798
+      ],
+      "properties": {
+        "externalId": "oQrNoSnB65",
+        "title": "蓝紫蘑菇",
+        "description": "# 在树下寻找这种蘑菇。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 酸味 |\n| 类型 | 蘑菇 |\n| 偏好 | 春季 |\n\n*这种蘑菇拥有丰富的紫色色调，就像李子一样。但味道完全不像，咬一小口就会让你皱起眉头。*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1459273,
+        "imagePath": "/game_map_pin/1459273/{size}.webp",
+        "videoId": 1459274,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/fe144c2e2b8a126cfa49cd6fcad1f57c81bbfaf9"
+      }
+    },
+    {
+      "coordinates": [
+        1.9375836388470589,
+        -24.2104686304409
+      ],
+      "properties": {
+        "externalId": "RIIfsfKeCo",
+        "title": "公主的蛋糕",
+        "description": "|需求条件|\n| :-----------: |\n|第一届拜沃特节|\n\n# 节日结束后，您会注意到邮箱里有新信件，请查看这两封信。\n\n# 任务：\n- 向沙地曼询问关于信件的事\n- 寻找飞燕草\n- 为莉莉·科顿带来3个浆果\n\n# 奖励：\n- 1x 成熟覆盆子果酱\n- 1x 红宝石土豆\n\n*当沙地曼遇到问题时，一位意想不到的英雄拯救了这一天。*",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1459418,
+        "imagePath": "/game_map_pin/1459418/{size}.webp",
+        "videoId": 1459419,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/122697c355ef4c080b9a6bbf84c245ca1a8d9890"
+      }
+    },
+    {
+      "coordinates": [
+        1.9495507019599359,
+        -22.622357963870755
+      ],
+      "properties": {
+        "externalId": "3GX3MAlRjj",
+        "title": "最佳村庄",
+        "description": "|要求|\n| :-----------: | \n|第一届拜沃特节庆|\n\n# 节庆结束后，你会注意到邮箱里有新的信件，请查看这些信件。\n\n# 任务：\n- 与奥洛对话\n- 与福斯科对话\n\n*拜沃特现在已经是一个村庄了。但总会有另一个故事等待书写。路永远延续下去...*",
+        "subcategoryExternalId": "b0yq3FMJlf",
+        "imageId": 1459420,
+        "imagePath": "/game_map_pin/1459420/{size}.webp",
+        "videoId": 1459421,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/33426976f9077482aed3c1a65fa105b05a66b71c"
+      }
+    },
+    {
+      "coordinates": [
+        -16.346097575122343,
+        26.620908073497276
+      ],
+      "properties": {
+        "externalId": "7znnZlVFLD",
+        "title": "啤酒花田",
+        "description": "# 位于圆弧附近。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 味道 | 苦味 |\n| 偏好 | 夏季 |\n\n*一种有趣而神秘的谷物，深受霍比特人和矮人喜爱，它能制成出人意料的美味奶酪，对拜沃特的一些人来说非常珍贵。*",
+        "subcategoryExternalId": "yAVTlaGGga",
+        "imageId": 1460813,
+        "imagePath": "/game_map_pin/1460813/{size}.webp",
+        "videoId": 1460814,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/cf4f210e85c27776c5ede4b2d20182cc7f463c14"
+      }
+    },
+    {
+      "coordinates": [
+        -75.05330589533322,
+        13.508200237312849
+      ],
+      "properties": {
+        "externalId": "ZGnjDpuRx3",
+        "title": "杏子村",
+        "description": "# 位于白日梦想家果园。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 口味 | 酸味 |\n| 偏好 | 秋季 |\n\n# *\"一个不错大小的水果，既适合换取金币也适合食用。它几乎散发着橙色的光芒，也许霍布森会接受这些作为付款。\"*",
+        "subcategoryExternalId": "5LSlHqgK0I",
+        "imageId": 1465509,
+        "imagePath": "/game_map_pin/1465509/{size}.webp",
+        "videoId": 1465510,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/da01c8666150f7c7b7a531200737907b5ea7d5b1"
+      }
+    },
+    {
+      "coordinates": [
+        -71.74134529986648,
+        14.561656386343444
+      ],
+      "properties": {
+        "externalId": "vb93YhUzpu",
+        "title": "杏子村",
+        "description": "# 位于白日梦想家果园。\n\n|类别|描述|\n| :-----------: | :-----------: |\n| 口味 | 酸味 |\n| 偏好 | 秋季 |\n\n# *\"一个不错大小的水果，既适合换取金币也适合食用。它几乎散发着橙色的光芒，也许霍布森会接受这些作为付款。\"*",
+        "subcategoryExternalId": "5LSlHqgK0I",
+        "imageId": 1465523,
+        "imagePath": "/game_map_pin/1465523/{size}.webp",
+        "videoId": 1465524,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/fb24f003aa3a575efad9d2ec954031cbc9ba91cd"
+      }
+    },
+    {
+      "coordinates": [
+        -75.12105125969117,
+        18.120079146739045
+      ],
+      "properties": {
+        "externalId": "uO17amYKdq",
+        "title": "白日梦者果园",
+        "description": "# 当你与霍比特人的友谊达到一定等级后，此地点将变得可进入。",
+        "subcategoryExternalId": "J9hIKoC0Nh",
+        "imageId": 1465821,
+        "imagePath": "/game_map_pin/1465821/{size}.webp",
+        "videoId": 1465822,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/517/572c220b406b15b656b5b06637f1d886ed4a5fac"
+      }
+    }
+  ]
+}

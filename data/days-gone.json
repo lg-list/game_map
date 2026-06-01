@@ -1,0 +1,16 @@
+{
+  "slug": "days-gone",
+  "title": "Days Gone",
+  "heroUrl": "/assets/images/games/days-gone/hero.webp",
+  "maps": [
+    {
+      "name": "World",
+      "slug": "world",
+      "thumbnailUrl": "/assets/images/games/days-gone/world.webp",
+      "updatedAt": "2026-01-30T06:14:14Z",
+      "markerCount": 517,
+      "categoryCount": 4,
+      "subcategoryCount": 22
+    }
+  ]
+}

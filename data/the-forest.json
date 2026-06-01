@@ -1,0 +1,16 @@
+{
+  "slug": "the-forest",
+  "title": "The Forest",
+  "heroUrl": "/assets/images/games/the-forest/hero.webp",
+  "maps": [
+    {
+      "name": "The Peninsula",
+      "slug": "the-forest",
+      "thumbnailUrl": "/assets/images/games/the-forest/the-forest.webp",
+      "updatedAt": "2026-04-29T04:54:56Z",
+      "markerCount": 694,
+      "categoryCount": 4,
+      "subcategoryCount": 57
+    }
+  ]
+}

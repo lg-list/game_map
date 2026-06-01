@@ -1,0 +1,16 @@
+{
+  "slug": "metal-gear-solid-v-tpp",
+  "title": "Metal Gear Solid V: TPP",
+  "heroUrl": "/assets/images/games/metal-gear-solid-v-tpp/hero.webp",
+  "maps": [
+    {
+      "name": "Afghanistan",
+      "slug": "afghanistan",
+      "thumbnailUrl": "/assets/images/games/metal-gear-solid-v-tpp/afghanistan.webp",
+      "updatedAt": "2026-04-28T07:32:20Z",
+      "markerCount": 543,
+      "categoryCount": 5,
+      "subcategoryCount": 10
+    }
+  ]
+}

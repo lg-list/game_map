@@ -1,0 +1,16 @@
+{
+  "slug": "sleeping-dogs-definitive-edition",
+  "title": "Sleeping Dogs: Definitive Edition",
+  "heroUrl": "/assets/images/games/sleeping-dogs-definitive-edition/hero.webp",
+  "maps": [
+    {
+      "name": "Hong Kong",
+      "slug": "sleeping-dogs-hong-kong",
+      "thumbnailUrl": "/assets/images/games/sleeping-dogs-definitive-edition/sleeping-dogs-hong-kong.webp",
+      "updatedAt": "2026-02-12T10:47:03Z",
+      "markerCount": 618,
+      "categoryCount": 5,
+      "subcategoryCount": 36
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "medieval-dynasty",
+  "title": "Medieval Dynasty",
+  "heroUrl": "/assets/images/games/medieval-dynasty/hero.webp",
+  "maps": [
+    {
+      "name": "The Valley",
+      "slug": "the-valley",
+      "thumbnailUrl": "/assets/images/games/medieval-dynasty/the-valley.webp",
+      "updatedAt": "2026-02-18T05:09:37Z",
+      "markerCount": 486,
+      "categoryCount": 2,
+      "subcategoryCount": 15
+    }
+  ]
+}

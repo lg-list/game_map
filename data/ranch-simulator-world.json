@@ -1,0 +1,964 @@
+{
+  "metadata": {
+    "externalId": "4zdrECTeT7",
+    "name": "World",
+    "slug": "world",
+    "baseTilePath": "https://storage-cdn.wemod.com/maps/47ac57bf-6c2f-4c21-8e2e-a86aa7827434/tiles",
+    "isChecklistPublished": true,
+    "isInActiveDevelopment": false,
+    "backgroundColor": "#8c977c",
+    "minZoom": 1,
+    "maxZoom": 6,
+    "initialZoom": null,
+    "tmsEnabled": false,
+    "categories": [
+      {
+        "externalId": "NVst2qDvVQ",
+        "gameMapExternalId": "4zdrECTeT7",
+        "title": "兴趣区域",
+        "color": "#4153af",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "V8v7c4CyXa",
+        "gameMapExternalId": "4zdrECTeT7",
+        "title": "支线任务与活动",
+        "color": "#c548c7",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "qEGdafiLjK",
+        "gameMapExternalId": "4zdrECTeT7",
+        "title": "资源",
+        "color": "#d07225",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "subcategories": [
+      {
+        "externalId": "9PcpUXjZtp",
+        "categoryExternalId": "NVst2qDvVQ",
+        "title": "牧场",
+        "icon": "roundies:architecture-barn",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "d25Qfxd5Cb",
+        "categoryExternalId": "NVst2qDvVQ",
+        "title": "五金店",
+        "icon": "hammer",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "Tf7XBPvTYo",
+        "categoryExternalId": "NVst2qDvVQ",
+        "title": "未命名子类别",
+        "icon": "roundies:energy-gasoline",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "UFPNMJoAL8",
+        "categoryExternalId": "NVst2qDvVQ",
+        "title": "汽车商店",
+        "icon": "cars",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "e05itbZMjn",
+        "categoryExternalId": "NVst2qDvVQ",
+        "title": "最佳汉堡",
+        "icon": "cheeseburger",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "wMUeWKWKm9",
+        "categoryExternalId": "NVst2qDvVQ",
+        "title": "综合商店",
+        "icon": "shopping-basket",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "m46Ofi0nEk",
+        "categoryExternalId": "NVst2qDvVQ",
+        "title": "拍卖",
+        "icon": "chalkboard-user",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "FW1WLIuI95",
+        "categoryExternalId": "NVst2qDvVQ",
+        "title": "银行",
+        "icon": "roundies:business-and-finance-bank",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "FG1X1yqYMS",
+        "categoryExternalId": "NVst2qDvVQ",
+        "title": "钓鱼码头",
+        "icon": "fishing-rod",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "xAtsc3NYAB",
+        "categoryExternalId": "NVst2qDvVQ",
+        "title": "营地",
+        "icon": "roundies:architecture-tent",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "BLwasSvSXD",
+        "categoryExternalId": "NVst2qDvVQ",
+        "title": "瞭望塔",
+        "icon": "roundies:world-monuments-tower",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "7naG1OUFYx",
+        "categoryExternalId": "V8v7c4CyXa",
+        "title": "牧场主",
+        "icon": "face-cowboy-hat",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "aacwABR56f",
+        "categoryExternalId": "V8v7c4CyXa",
+        "title": "未命名子分类",
+        "icon": "target",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "WvYN41Khkv",
+        "categoryExternalId": "V8v7c4CyXa",
+        "title": "宝藏",
+        "icon": "treasure-chest",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "Q1kva2LAyB",
+        "categoryExternalId": "qEGdafiLjK",
+        "title": "油库",
+        "icon": "roundies:energy-oil-extraction",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "5WZVb3qKNE",
+        "categoryExternalId": "qEGdafiLjK",
+        "title": "蜂巢",
+        "icon": "roundies:animals-bee",
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "playerLocationDeltas": {
+      "deltas": {
+        "scaleX": 0.007114679394109915,
+        "scaleY": -0.006987303790811329,
+        "offsetX": 18447.490037162715,
+        "offsetY": -55911.03612635848,
+        "gameCoordsMap": {
+          "x": "x",
+          "y": "y",
+          "z": "z"
+        }
+      },
+      "referencePoints": [
+        {
+          "lngLat": {
+            "lat": -39.819385286776075,
+            "lng": -32.77955271563738
+          },
+          "gameCoords": {
+            "x": -7484.946892987073,
+            "y": -22132.20934251021,
+            "z": -38530.68389976686
+          }
+        },
+        {
+          "lngLat": {
+            "lat": 67.56662936344972,
+            "lng": 43.066650707335384
+          },
+          "gameCoords": {
+            "x": 52518.21738811856,
+            "y": -127935.16798011871,
+            "z": -36793.91761772141
+          }
+        }
+      ]
+    }
+  },
+  "features": [
+    {
+      "coordinates": [
+        8.173306685586539,
+        6.196719891011128
+      ],
+      "properties": {
+        "subcategoryExternalId": "d25Qfxd5Cb",
+        "imageId": 1357560,
+        "videoId": 1357561,
+        "gameCoords": {
+          "x": 24897.565903364946,
+          "y": -60602.117474332124,
+          "z": -39819.848097898524
+        },
+        "externalId": "aRSUk9s1VI",
+        "title": "",
+        "description": "# 五金店\n\n# 备注：\n\n- 玩家可以在此处购买/出售资源\n- 主要出售玩家牧场所需的工具。\n#\n***兴趣点*** *是游戏中玩家可以获得有价值物品的位置，无论是用于剧情进展、探索、资源收集、买卖。*",
+        "imagePath": "/game_map_pin/1357560/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/04654d7c243cd9a67aad2e605110fac0cfc032f2"
+      }
+    },
+    {
+      "coordinates": [
+        -56.60730552432172,
+        9.900212817069587
+      ],
+      "properties": {
+        "subcategoryExternalId": "Tf7XBPvTYo",
+        "imageId": 1357574,
+        "videoId": 1357575,
+        "gameCoords": {
+          "x": -24829.572296831167,
+          "y": -64447.099362893925,
+          "z": -34887.61545246721
+        },
+        "externalId": "yiPWZszTF7",
+        "title": "",
+        "description": "# 加油站\n\n# 备注：\n\n- 玩家可以在此处购买资源\n- 主要出售用于玩家车辆的汽油。\n#\n***兴趣点*** *是游戏中玩家可以获得有价值物品的位置，无论是用于剧情进展、探索、资源收集、买卖。*",
+        "imagePath": "/game_map_pin/1357574/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/2bcbbd54bb0f9cbe84259e6ac6eda7459a769be1"
+      }
+    },
+    {
+      "coordinates": [
+        -14.23941661231379,
+        -14.82293397632644
+      ],
+      "properties": {
+        "subcategoryExternalId": "UFPNMJoAL8",
+        "imageId": 1357577,
+        "videoId": 1357578,
+        "gameCoords": {
+          "x": 7403.578473126546,
+          "y": -43726.06343056438,
+          "z": -38786.27631895039
+        },
+        "externalId": "NOMLz6QWx9",
+        "title": "",
+        "description": "# 汽车商店\n\n# 注意：\n\n- 在这里买卖汽车。\n- 玩家也可以在这里定制汽车。\n\n#\n***兴趣点*** *是游戏中玩家可以获得有价值物品的位置，无论是为了故事进展、探索、资源收集、买卖。*",
+        "imagePath": "/game_map_pin/1357577/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/0b95e07ff928bcd161453410b1e5549fc332fedd"
+      }
+    },
+    {
+      "coordinates": [
+        -13.227650752832545,
+        -0.9712553878209036
+      ],
+      "properties": {
+        "subcategoryExternalId": "e05itbZMjn",
+        "imageId": 1357584,
+        "videoId": 1357585,
+        "gameCoords": {
+          "x": 8532.94353554936,
+          "y": -55343.77765993487,
+          "z": -39835.27066575593
+        },
+        "externalId": "oV0MhgBDtM",
+        "title": "",
+        "description": "# 最佳汉堡\n\n# 备注：\n\n- 玩家可以在此处出售资源\n- 对他们需要的特定资源提供倍率加成。\n#\n***兴趣点*** *是游戏中玩家可以获得有价值物品的位置，无论是用于剧情进展、探索、资源收集、买卖。*",
+        "imagePath": "/game_map_pin/1357584/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/89bcf0efad79e8aba864ade3d222663f1b0d919c"
+      }
+    },
+    {
+      "coordinates": [
+        10.054404701817504,
+        -46.96150693705774
+      ],
+      "properties": {
+        "subcategoryExternalId": "wMUeWKWKm9",
+        "imageId": 1357586,
+        "videoId": 1357587,
+        "gameCoords": {
+          "x": 25213.59762846652,
+          "y": -13857.707409869907,
+          "z": -35865.85701594355
+        },
+        "externalId": "RYNkAsJKdy",
+        "title": "",
+        "description": "# 综合商店\n\n# 注意：\n\n- 玩家可以在这里买卖资源\n- 主要销售牲畜、牲畜用品和农作物。\n#\n***兴趣点*** *是游戏中玩家可以获得有价值物品的位置，无论是为了故事进展、探索、资源收集、买卖。*",
+        "imagePath": "/game_map_pin/1357586/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/7438f01f6aaf44ecc7529558e33a8e08023a43c3"
+      }
+    },
+    {
+      "coordinates": [
+        -10.612442439659958,
+        35.00487206955154
+      ],
+      "properties": {
+        "subcategoryExternalId": "7naG1OUFYx",
+        "imageId": 1358224,
+        "videoId": 1358225,
+        "gameCoords": {
+          "x": 10028.308355319345,
+          "y": -84847.35425122149,
+          "z": -38534.734259819576
+        },
+        "externalId": "XoNcyXBqQY",
+        "title": "女牧场主",
+        "description": "# 提供(3)个支线任务。\n#\n|任务|要求|\n| :-----------: | :-----------: |\n|早餐|带来(6)个鸡蛋和(2)份猪肉|\n|清理(不可重复)|移除旧风车和牧场的垃圾|\n|讨厌的狐狸|杀死(2)只狐狸|\n\n# 注意：\n\n- 如果你靠得太近，狐狸会逃跑。\n- 最好留下一对狐狸来帮助完成猎人的捕食者任务。\n\n***支线任务*** *是游戏中帮助你赚钱和/或获得物品的活动。*",
+        "imagePath": "/game_map_pin/1358224/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/185ff4c0243c2c9330c90e308a86ec6945441c26"
+      }
+    },
+    {
+      "coordinates": [
+        50.68706309689415,
+        -45.848680197828465
+      ],
+      "properties": {
+        "subcategoryExternalId": "aacwABR56f",
+        "imageId": 1357597,
+        "videoId": 1357598,
+        "gameCoords": {
+          "x": 58242.62280895828,
+          "y": -14229.392389448607,
+          "z": -25862.879835075
+        },
+        "externalId": "7APmjW1gIc",
+        "title": "",
+        "description": "# 提供(3)个支线任务。\n#\n|任务|要求|\n| :------: | :------: |\n|狩猎|交付(8)份野味|\n|灵活的兔子|捕获并交付(1)只兔子|\n|射杀掠食者（不可重复）|击杀(5)个掠食者|\n\n# 备注：\n\n- 完成第三个任务后奖励玩家*步枪*。\n- 建议利用女牧场主的讨厌的狐狸任务。\n\n***支线任务*** *是游戏中帮助你赚取金钱和/或获得物品的活动。*",
+        "imagePath": "/game_map_pin/1357597/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/bba36ab1c87be3b2d5ffcd78fc130676ffcfb979"
+      }
+    },
+    {
+      "coordinates": [
+        -38.60773023415953,
+        -14.621469583431505
+      ],
+      "properties": {
+        "subcategoryExternalId": "Q1kva2LAyB",
+        "imageId": 1357615,
+        "videoId": 1357616,
+        "gameCoords": {
+          "x": -11707.318348185818,
+          "y": -44188.5653816826,
+          "z": -38060.85997855426
+        },
+        "externalId": "rPcmJwLDFT",
+        "title": "",
+        "description": "# 油藏\n\n# 备注：\n\n- *油藏*的可能位置之一。\n- 一次只能建造两个钻井平台。\n- 寻找地面上的黑色粘稠物。\n#\n***油井*** *是钻入地下以提取原油的钻孔，原油是一种有限的化石燃料资源。*",
+        "imagePath": "/game_map_pin/1357615/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/63016fae90eb6ab791c3f9f6af6262bfe4aadc5b"
+      }
+    },
+    {
+      "coordinates": [
+        -29.21650407596414,
+        0.21158054900134005
+      ],
+      "properties": {
+        "subcategoryExternalId": "Q1kva2LAyB",
+        "imageId": 1357655,
+        "videoId": 1357656,
+        "gameCoords": {
+          "x": -5190.972940851101,
+          "y": -56550.368173687,
+          "z": -38162.92882216645
+        },
+        "externalId": "m5oLEHsk2I",
+        "title": "",
+        "description": "# 油藏\n\n# 备注：\n\n- *油藏*的可能位置之一。\n- 一次只能建造两个钻井平台。\n- 寻找地面上的黑色粘稠物。\n#\n***油井*** *是钻入地下以提取原油的钻孔，原油是一种有限的化石燃料资源。*",
+        "imagePath": "/game_map_pin/1357655/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/2e186952f761927456da9516dcdb15292b71232f"
+      }
+    },
+    {
+      "coordinates": [
+        -40.84911572248015,
+        28.618539106087326
+      ],
+      "properties": {
+        "subcategoryExternalId": "Q1kva2LAyB",
+        "imageId": 1357668,
+        "videoId": 1357669,
+        "gameCoords": {
+          "x": -13681.098132976094,
+          "y": -78440.04132556754,
+          "z": -33403.84743759661
+        },
+        "externalId": "9lHN0lHtjc",
+        "title": "",
+        "description": "# 油藏\n\n# 备注：\n\n- *油藏*的可能位置之一。\n- 一次只能建造两个钻井平台。\n- 寻找地面上的黑色粘稠物。\n#\n***油井*** *是钻入地下以提取原油的钻孔，原油是一种有限的化石燃料资源。*",
+        "imagePath": "/game_map_pin/1357668/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/880a85021c30a1bae11b1a201f5b077acfb5a0de"
+      }
+    },
+    {
+      "coordinates": [
+        -4.323617165143418,
+        39.39827345282416
+      ],
+      "properties": {
+        "subcategoryExternalId": "Q1kva2LAyB",
+        "imageId": 1358140,
+        "videoId": 1358141,
+        "gameCoords": {
+          "x": 14286.603193931493,
+          "y": -89634.0442306258,
+          "z": -38429.56725823921
+        },
+        "externalId": "dD7AakyUPM",
+        "title": "",
+        "description": "# 油藏\n\n# 备注：\n\n- *油藏*的可能位置之一。\n- 一次只能建造两个钻井平台。\n- 寻找地面上的黑色粘稠物。\n#\n***油井*** *是钻入地下以提取原油的钻孔，原油是一种有限的化石燃料资源。*",
+        "imagePath": "/game_map_pin/1358140/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/4b81ad8766511090087cfc0460e531cfe15536c1"
+      }
+    },
+    {
+      "coordinates": [
+        0.023783578196514554,
+        44.985586830872165
+      ],
+      "properties": {
+        "subcategoryExternalId": "Q1kva2LAyB",
+        "imageId": 1358147,
+        "videoId": 1358148,
+        "gameCoords": {
+          "x": 18615.780568228332,
+          "y": -94965.68231069285,
+          "z": -38275.659013292854
+        },
+        "externalId": "cfUQUK44UK",
+        "title": "",
+        "description": "# 油藏\n\n# 备注：\n\n- *油藏*的可能位置之一。\n- 一次只能建造两个钻井平台。\n- 寻找地面上的黑色粘稠物。\n#\n***油井*** *是钻入地下以提取原油的钻孔，原油是一种有限的化石燃料资源。*",
+        "imagePath": "/game_map_pin/1358147/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/7ce88ca0e026273c5eb6409364838f8338606c6f"
+      }
+    },
+    {
+      "coordinates": [
+        23.058265168497485,
+        2.9290223700793945
+      ],
+      "properties": {
+        "subcategoryExternalId": "Q1kva2LAyB",
+        "imageId": 1358153,
+        "videoId": 1358154,
+        "gameCoords": {
+          "x": 35760.27056877147,
+          "y": -58569.22198197086,
+          "z": -38705.00623902502
+        },
+        "externalId": "kVTzMXsrzh",
+        "title": "",
+        "description": "# 油藏\n\n# 备注：\n\n- *油藏*的可能位置之一。\n- 一次只能建造两个钻井平台。\n- 寻找地面上的黑色粘稠物。\n#\n***油井*** *是钻入地下以提取原油的钻孔，原油是一种有限的化石燃料资源。*",
+        "imagePath": "/game_map_pin/1358153/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/9559fccdb3e50275d3208b0101b473bc03ecd6ba"
+      }
+    },
+    {
+      "coordinates": [
+        20.676866153056437,
+        23.51057938970108
+      ],
+      "properties": {
+        "subcategoryExternalId": "Q1kva2LAyB",
+        "imageId": 1358162,
+        "videoId": 1358163,
+        "gameCoords": {
+          "x": 34948.27017093534,
+          "y": -74782.89279575524,
+          "z": -38134.5256322322
+        },
+        "externalId": "JGBAHT2cda",
+        "title": "",
+        "description": "# 油藏\n\n# 备注：\n\n- *油藏*的可能位置之一。\n- 一次只能建造两个钻井平台。\n- 寻找地面上的黑色粘稠物。\n#\n***油井*** *是钻入地下以提取原油的钻孔，原油是一种有限的化石燃料资源。*",
+        "imagePath": "/game_map_pin/1358162/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/4db3db21df42fa867c832e123a254473b01f352c"
+      }
+    },
+    {
+      "coordinates": [
+        29.762891595222612,
+        32.67410044282454
+      ],
+      "properties": {
+        "subcategoryExternalId": "Q1kva2LAyB",
+        "imageId": 1358165,
+        "videoId": 1358166,
+        "gameCoords": {
+          "x": 42441.31508623812,
+          "y": -82569.19320727828,
+          "z": -38001.20511513369
+        },
+        "externalId": "33GKrhlEBK",
+        "title": "",
+        "description": "# 油藏\n\n# 备注：\n\n- *油藏*的可能位置之一。\n- 一次只能建造两个钻井平台。\n- 寻找地面上的黑色粘稠物。\n#\n***油井*** *是钻入地下以提取原油的钻孔，原油是一种有限的化石燃料资源。*",
+        "imagePath": "/game_map_pin/1358165/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/217e823f30df42ad10f88c038084bdb2f79b02bb"
+      }
+    },
+    {
+      "coordinates": [
+        53.81128167953574,
+        -21.077869551355874
+      ],
+      "properties": {
+        "subcategoryExternalId": "Q1kva2LAyB",
+        "imageId": 1358176,
+        "videoId": 1358177,
+        "gameCoords": {
+          "x": 60899.489361705135,
+          "y": -37989.3897002104,
+          "z": -34366.10869637264
+        },
+        "externalId": "ipucoNf24W",
+        "title": "",
+        "description": "# 油藏\n\n# 备注：\n\n- *油藏*的可能位置之一。\n- 一次只能建造两个钻井平台。\n- 寻找地面上的黑色粘稠物。\n#\n***油井*** *是钻入地下以提取原油的钻孔，原油是一种有限的化石燃料资源。*",
+        "imagePath": "/game_map_pin/1358176/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/5d943cc59a61663c0b9533e78db0cfeb19d1268b"
+      }
+    },
+    {
+      "coordinates": [
+        26.007949952747424,
+        -36.88701451664215
+      ],
+      "properties": {
+        "subcategoryExternalId": "Q1kva2LAyB",
+        "imageId": 1358202,
+        "videoId": 1358203,
+        "gameCoords": {
+          "x": 39387.52552899962,
+          "y": -24268.332789563596,
+          "z": -35852.01894991648
+        },
+        "externalId": "wSlehVFbHO",
+        "title": "",
+        "description": "# 油藏\n\n# 备注：\n\n- *油藏*的可能位置之一。\n- 一次只能建造两个钻井平台。\n- 寻找地面上的黑色粘稠物。\n#\n***油井*** *是钻入地下以提取原油的钻孔，原油是一种有限的化石燃料资源。*",
+        "imagePath": "/game_map_pin/1358202/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/9c487d8784db781896cfda5095bf3af0801d3b29"
+      }
+    },
+    {
+      "coordinates": [
+        3.811609046595237,
+        -43.21225010248805
+      ],
+      "properties": {
+        "subcategoryExternalId": "Q1kva2LAyB",
+        "imageId": 1358215,
+        "videoId": 1358216,
+        "gameCoords": {
+          "x": 21251.77397649413,
+          "y": -18148.721704269,
+          "z": -36352.368065750066
+        },
+        "externalId": "vnUk6t3TYT",
+        "title": "",
+        "description": "# 油藏\n\n# 备注：\n\n- *油藏*的可能位置之一。\n- 一次只能建造两个钻井平台。\n- 寻找地面上的黑色粘稠物。\n#\n***油井*** *是钻入地下以提取原油的钻孔，原油是一种有限的化石燃料资源。*",
+        "imagePath": "/game_map_pin/1358215/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/92bf1898de7bde69cb46992c2d00aac8f04abcee"
+      }
+    },
+    {
+      "coordinates": [
+        -19.693704680779916,
+        26.003653428826837
+      ],
+      "properties": {
+        "subcategoryExternalId": "m46Ofi0nEk",
+        "imageId": 1358307,
+        "videoId": 1358308,
+        "gameCoords": {
+          "x": 3524.699562026168,
+          "y": -76396.57771666814,
+          "z": -37813.71400050058
+        },
+        "externalId": "YQl5uEdUz7",
+        "title": "威廉的牲畜拍卖场",
+        "description": "# 威廉的牲畜拍卖场\n\n# 注意：\n\n- 切换时，它会将玩家重定向到拍卖行。\n#\n***兴趣点*** *是游戏中玩家可以获得有价值物品的位置，无论是为了故事进展、探索、资源收集、买卖。*",
+        "imagePath": "/game_map_pin/1358307/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/d2a7150e291bc0e91f1f65463b4802c46a1766dd"
+      }
+    },
+    {
+      "coordinates": [
+        -32.90815131661776,
+        19.32194008465372
+      ],
+      "properties": {
+        "subcategoryExternalId": "5WZVb3qKNE",
+        "imageId": 1358426,
+        "videoId": 1358427,
+        "gameCoords": {
+          "x": -6462.025993990894,
+          "y": -71167.16294579377,
+          "z": -36025.34588530273
+        },
+        "externalId": "TRLbDhvOAc",
+        "title": "",
+        "description": "# 蜂巢\n\n# 注意：\n\n- *蜂巢*的可能位置之一 - 搜索这个区域。\n- 该区域内可能有(3-5)个*蜂巢*。\n- 在玩家牧场外的未砍伐树木上生成。\n- 带上*养蜂烟熏器*\n#\n***蜂巢*** *是蜂蜜的来源，可以作为另一个被动收入来源。*",
+        "imagePath": "/game_map_pin/1358426/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/be5ea764b06ee59445ef0809bf2cb5b1cb30fa89"
+      }
+    },
+    {
+      "coordinates": [
+        -4.5461860490572406,
+        23.86647192079994
+      ],
+      "properties": {
+        "subcategoryExternalId": "5WZVb3qKNE",
+        "imageId": 1358494,
+        "videoId": 1358495,
+        "gameCoords": {
+          "x": 15197.074754802585,
+          "y": -73435.11166505898,
+          "z": -39459.52060221681
+        },
+        "externalId": "b5fNusZiXm",
+        "title": "",
+        "description": "# 蜂巢\n\n# 注意：\n\n- *蜂巢*的可能位置之一 - 搜索这个区域。\n- 该区域内可能有(3)个*蜂巢*。\n- 在玩家牧场外的未砍伐树木上生成。\n- 带上*养蜂烟熏器*\n#\n***蜂巢*** *是蜂蜜的来源，可以作为另一个被动收入来源。*",
+        "imagePath": "/game_map_pin/1358494/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/328c52d2b70a10105eba89ed05b4d38a3b027107"
+      }
+    },
+    {
+      "coordinates": [
+        8.237866476379764,
+        -14.012232504823942
+      ],
+      "properties": {
+        "subcategoryExternalId": "5WZVb3qKNE",
+        "imageId": 1358509,
+        "videoId": 1358510,
+        "gameCoords": {
+          "x": 25548.467739079882,
+          "y": -44402.21822594992,
+          "z": -36308.56649827031
+        },
+        "externalId": "WfxRuRQmFh",
+        "title": "",
+        "description": "# 蜂巢\n\n# 注意：\n\n- *蜂巢*的可能位置之一 - 搜索这个区域。\n- 该区域内可能有(4)个*蜂巢*。\n- 在玩家牧场外的未砍伐树木上生成。\n- 带上*养蜂烟熏器*\n#\n***蜂巢*** *是蜂蜜的来源，可以作为另一个被动收入来源。*",
+        "imagePath": "/game_map_pin/1358509/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/bf546b24632d2a84ab6787ca4a5976e3134ca131"
+      }
+    },
+    {
+      "coordinates": [
+        13.869613222274381,
+        -55.85307585944337
+      ],
+      "properties": {
+        "subcategoryExternalId": "5WZVb3qKNE",
+        "imageId": 1358537,
+        "videoId": 1358538,
+        "gameCoords": {
+          "x": 30971.882395116736,
+          "y": -2135.08726546302,
+          "z": -33720.94148514793
+        },
+        "externalId": "xXm8BiB5mF",
+        "title": "",
+        "description": "# 蜂巢\n\n# 注意：\n\n- *蜂巢*的可能位置之一 - 搜索这个区域。\n- 该区域内可能有(6)个*蜂巢*。\n- 在玩家牧场外的未砍伐树木上生成。\n- 带上*养蜂烟熏器*\n#\n***蜂巢*** *是蜂蜜的来源，可以作为另一个被动收入来源。*",
+        "imagePath": "/game_map_pin/1358537/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/29d718570e2421a77abbf8fa64d366e157ea0e30"
+      }
+    },
+    {
+      "coordinates": [
+        -34.73382137204845,
+        -30.988577880964606
+      ],
+      "properties": {
+        "subcategoryExternalId": "m46Ofi0nEk",
+        "imageId": 1359011,
+        "videoId": 1359012,
+        "gameCoords": {
+          "x": -8563.797357909049,
+          "y": -29268.15622994335,
+          "z": -38529.33088314974
+        },
+        "externalId": "hNnfZgQy5W",
+        "title": "",
+        "description": "# 威廉的牲畜拍卖场\n\n# 注意：\n\n- 切换时，它会将玩家重定向到拍卖行。\n#\n***兴趣点*** *是游戏中玩家可以获得有价值物品的位置，无论是为了故事进展、探索、资源收集、买卖。*",
+        "imagePath": "/game_map_pin/1359011/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/25501c926f3dc35c9405748398e93864588b4a7d"
+      }
+    },
+    {
+      "coordinates": [
+        53.61727192149041,
+        51.7182406978113
+      ],
+      "properties": {
+        "subcategoryExternalId": "7naG1OUFYx",
+        "imageId": 1359043,
+        "videoId": 1359044,
+        "gameCoords": {
+          "x": 60103.13349031892,
+          "y": -102873.24668925433,
+          "z": -37575.848720169284
+        },
+        "externalId": "wICOKsg4p3",
+        "title": "男性牧场主",
+        "description": "# 提供 (4) 个支线任务。\n#\n|任务|要求|\n| :-----------: | :-----------: |\n|拆除（不可重复）|拆除旧谷仓|\n|重建|交付 (64) 个木板|\n|运送|从加油站运送燃料拖车|\n|宝藏|找到 (3) 个物品|\n\n# 注意：\n\n- 参考地图查看*古代宝藏*的位置。\n\n***支线任务*** *是游戏中帮助你赚钱和/或获得物品的活动。*",
+        "imagePath": "/game_map_pin/1359043/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/ad2eefe50302a2ea138bdde69302acfd2bffd62c"
+      }
+    },
+    {
+      "coordinates": [
+        16.33778247285221,
+        65.99689503139786
+      ],
+      "properties": {
+        "subcategoryExternalId": "WvYN41Khkv",
+        "imageId": 1359083,
+        "videoId": 1359084,
+        "gameCoords": {
+          "x": 32752.89439920747,
+          "y": -127036.90099993108,
+          "z": -34174.27727219277
+        },
+        "externalId": "finSLgZzlH",
+        "title": "匕首",
+        "description": "# 古代宝藏\n\n# 注意：\n\n- 古代宝藏任务中所需的宝藏之一。\n- 从地面上的骨骸中获取。",
+        "imagePath": "/game_map_pin/1359083/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/68c5fb372161dcaad4cbfe4d1c29a307e71f4145"
+      }
+    },
+    {
+      "coordinates": [
+        -63.86728379343843,
+        22.512460103633643
+      ],
+      "properties": {
+        "subcategoryExternalId": "WvYN41Khkv",
+        "imageId": 1359096,
+        "videoId": 1359097,
+        "gameCoords": {
+          "x": -31009.039196086815,
+          "y": -73738.1145772005,
+          "z": -32826.06391310422
+        },
+        "externalId": "Xtp2WbLFaD",
+        "title": "高脚杯",
+        "description": "# 远古宝藏\n\n# 注意：\n\n- 远古宝藏任务中需要的宝藏之一。\n- 从*加油站*向东北方向前进，高脚杯在两块巨石后面的箱子里。",
+        "imagePath": "/game_map_pin/1359096/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/e77fe097bf5e28dab59e7f8cd514b008b76b921a"
+      }
+    },
+    {
+      "coordinates": [
+        96.74073561452542,
+        -4.353171273270135
+      ],
+      "properties": {
+        "subcategoryExternalId": "WvYN41Khkv",
+        "imageId": 1359103,
+        "videoId": 1359104,
+        "gameCoords": {
+          "x": 93719.9039564969,
+          "y": -50689.86453482081,
+          "z": -23913.856274618218
+        },
+        "externalId": "BpscnPzhf3",
+        "title": "头盔",
+        "description": "# 远古宝藏\n\n# 注意：\n\n- 远古宝藏任务中需要的宝藏之一。\n- 从猎人小屋向东北方向前进。通往山脉的路径会变得可见。头盔在棺材里。",
+        "imagePath": "/game_map_pin/1359103/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/32cd35a48c2b8d08469a25122958f2779ee4f147"
+      }
+    },
+    {
+      "coordinates": [
+        -15.67363863940301,
+        -14.836945613330315
+      ],
+      "properties": {
+        "subcategoryExternalId": "m46Ofi0nEk",
+        "imageId": 1359246,
+        "videoId": 1359247,
+        "gameCoords": {
+          "x": 7619.06082490096,
+          "y": -43870.42526396703,
+          "z": -38788.79707191687
+        },
+        "externalId": "cadvTJorzF",
+        "title": "",
+        "description": "# 威廉的牲畜拍卖场\n\n# 注意：\n\n- 切换时，它会将玩家重定向到拍卖行。\n#\n***兴趣点*** *是游戏中玩家可以获得有价值物品的位置，无论是为了故事进展、探索、资源收集、买卖。*",
+        "imagePath": "/game_map_pin/1359246/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/4d91b76132123b60d10e6a307e510144d10cc712"
+      }
+    },
+    {
+      "coordinates": [
+        -12.96706319949081,
+        -12.324233264379174
+      ],
+      "properties": {
+        "subcategoryExternalId": "FW1WLIuI95",
+        "imageId": 1359274,
+        "videoId": 1359275,
+        "gameCoords": {
+          "x": 8521.629166144747,
+          "y": -45744.04729299522,
+          "z": -38786.49616652031
+        },
+        "externalId": "etWQbUAm9L",
+        "title": "",
+        "description": "# 银行\n\n# 注意：\n\n- 玩家可以在这里贷款。\n\n#\n***兴趣点*** *是游戏中玩家可以获得有价值物品的位置，无论是为了故事进展、探索、资源收集、买卖。*",
+        "imagePath": "/game_map_pin/1359274/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/5539336e76ddf62e7c016a6aa38653cc5bf2c1f0"
+      }
+    },
+    {
+      "coordinates": [
+        7.392664804789575,
+        -47.29437263068701
+      ],
+      "properties": {
+        "subcategoryExternalId": "m46Ofi0nEk",
+        "imageId": 1361327,
+        "videoId": 1361328,
+        "gameCoords": {
+          "x": 24513.007665195597,
+          "y": -13389.179258673652,
+          "z": -35844.03372847365
+        },
+        "externalId": "V90h4q2v8g",
+        "title": "",
+        "description": "# 威廉的牲畜拍卖场\n\n# 注意：\n\n- 切换时，它会将玩家重定向到拍卖行。\n#\n***兴趣点*** *是游戏中玩家可以获得有价值物品的位置，无论是为了故事进展、探索、资源收集、买卖。*",
+        "imagePath": "/game_map_pin/1361327/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/833334b2af86ebee996133f5a165c1655711d802"
+      }
+    },
+    {
+      "coordinates": [
+        8.247984777915832,
+        2.2496659073054275
+      ],
+      "properties": {
+        "subcategoryExternalId": "m46Ofi0nEk",
+        "imageId": 1362073,
+        "videoId": 1362074,
+        "gameCoords": {
+          "x": 25312.757827356912,
+          "y": -57465.345712780145,
+          "z": -39835.20087181327
+        },
+        "externalId": "K6H50Ns6sQ",
+        "title": "",
+        "description": "# 威廉的牲畜拍卖场\n\n# 注意：\n\n- 切换时，它会将玩家重定向到拍卖行。\n#\n***兴趣点*** *是游戏中玩家可以获得有价值物品的位置，无论是为了故事进展、探索、资源收集、买卖。*",
+        "imagePath": "/game_map_pin/1362073/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/b665e205490fde97846540821e6e073b640f67d8"
+      }
+    },
+    {
+      "coordinates": [
+        8.546547322218771,
+        52.41650005328813
+      ],
+      "properties": {
+        "subcategoryExternalId": "FG1X1yqYMS",
+        "imageId": 1364392,
+        "videoId": 1364393,
+        "externalId": "A9SgRYpuGQ",
+        "title": "",
+        "description": "# Fishing Dock\n\n# Note:\n\n- Not yet functional in-game. Stay posted for more updates from developers.\n#\n***Place of Interest***  *are locations in-game where players can get something of value, whether for story progression, exploration, resource gathering, buying or selling.*",
+        "imagePath": "/game_map_pin/1364392/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/0772ceaeb5bba58b23150acea598c2eb4eabc98f"
+      }
+    },
+    {
+      "coordinates": [
+        43.066650707335384,
+        67.56662936344972
+      ],
+      "properties": {
+        "subcategoryExternalId": "xAtsc3NYAB",
+        "imageId": 1364397,
+        "videoId": 1364398,
+        "gameCoords": {
+          "x": 52518.21738811856,
+          "y": -127935.16798011871,
+          "z": -36793.91761772141
+        },
+        "externalId": "GGf6RW4bSg",
+        "title": "",
+        "description": "# Campsite\n\n# Note:\n\n- There will be (2) tents that are available to use at this site.\n#\n***Place of Interest***  *are locations in-game where players can get something of value, whether for story progression, exploration, resource gathering, buying or selling.*",
+        "imagePath": "/game_map_pin/1364397/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/d9010265ef00527a3a6399f9419e56410ad69eea"
+      }
+    },
+    {
+      "coordinates": [
+        16.583565810521208,
+        36.059845670834974
+      ],
+      "properties": {
+        "subcategoryExternalId": "BLwasSvSXD",
+        "imageId": 1364405,
+        "videoId": 1364406,
+        "gameCoords": {
+          "x": 31200.409385335548,
+          "y": -84067.88243161971,
+          "z": -36536.97725600332
+        },
+        "externalId": "QBeZQLVGZq",
+        "title": "",
+        "description": "# Watchtower\n\n# Note:\n\n- Provides a scenic view of the lake.\n#\n***Place of Interest***  *are locations in-game where players can get something of value, whether for story progression, exploration, resource gathering, buying or selling.*",
+        "imagePath": "/game_map_pin/1364405/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/7054ac7014162726b348b1b9223add6f2e79e427"
+      }
+    },
+    {
+      "coordinates": [
+        -32.77955271563738,
+        -39.819385286776075
+      ],
+      "properties": {
+        "subcategoryExternalId": "9PcpUXjZtp",
+        "imageId": 1357568,
+        "videoId": 1357569,
+        "gameCoords": {
+          "x": -7484.946892987073,
+          "y": -22132.20934251021,
+          "z": -38530.68389976686
+        },
+        "externalId": "VvLwEEDNgJ",
+        "title": "",
+        "description": "# Ranch\n\n# Note:\n\n- Player's sandbox area where you can build your own farm.\n\n#\n***Place of Interest***  *are locations in-game where players can get something of value, whether for story progression, exploration, resource gathering, buying or selling.*",
+        "imagePath": "/game_map_pin/1357568/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/340/09626c80d76cf631b794f9f33bbaaa72920d94e5"
+      }
+    }
+  ]
+}

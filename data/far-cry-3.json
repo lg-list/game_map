@@ -1,0 +1,16 @@
+{
+  "slug": "far-cry-3",
+  "title": "Far Cry 3",
+  "heroUrl": "/assets/images/games/far-cry-3/hero.webp",
+  "maps": [
+    {
+      "name": "Rock Island",
+      "slug": "rock-island",
+      "thumbnailUrl": "/assets/images/games/far-cry-3/rock-island.webp",
+      "updatedAt": "2026-01-29T08:21:26Z",
+      "markerCount": 5751,
+      "categoryCount": 7,
+      "subcategoryCount": 53
+    }
+  ]
+}

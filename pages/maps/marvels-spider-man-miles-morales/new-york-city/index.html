@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Marvel's Spider-Man: Miles Morales New York City locations map - Side Missions, Main Missions, Points of Interest, Items</title>
+    <meta name="description" content="Find Marvel's Spider-Man: Miles Morales New York City side missions, main missions, points of interest, items on a focused map page for long-tail." />
+    <meta name="keywords" content="Marvel's Spider-Man: Miles Morales New York City locations, Marvel's Spider-Man: Miles Morales New York City resource map, Marvel's Spider-Man: Miles Morales New York City collectibles, Marvel's Spider-Man: Miles Morales New York City marker list" />
+    <link rel="icon" href="/favicon.ico" sizes="32x32" type="image/x-icon" />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body class="map-body">
+    <header class="map-topbar">
+      <a class="brand" href="/" aria-label="Game Map Hub home"><img class="brand-logo" src="/logo.png" alt="Game Map Hub" /></a>
+      <div class="map-title-block"><a href="/maps/marvels-spider-man-miles-morales/">Marvel&#039;s Spider-Man: Miles Morales</a><strong>New York City</strong></div>
+    </header>
+
+    <main class="interactive-layout" data-page="map-detail" data-map-data="/data/marvels-spider-man-miles-morales-new-york-city.json" data-tile-key="marvels-spider-man-miles-morales/new-york-city" data-tile-zoom="6">
+      <aside class="map-control-panel">
+        <label class="map-search"><span>Search markers</span><input id="marker-search" type="search" placeholder="Search locations, items, resources..." /></label>
+        <div class="marker-results" id="marker-results" aria-live="polite"></div>
+        <div class="filter-actions" aria-label="Category filter actions"><button id="show-all-markers" type="button">Show all</button><button id="hide-all-markers" type="button">Hide all</button></div>
+        <div class="category-list" id="category-list"></div>
+      </aside>
+
+      <section class="map-stage" aria-label="Marvel's Spider-Man: Miles Morales New York City location map">
+        <div class="map-toolbar">
+          <button class="icon-button" id="zoom-out" type="button" aria-label="Zoom out">-</button>
+          <button class="icon-button" id="zoom-in" type="button" aria-label="Zoom in">+</button>
+          <button class="ghost-button" id="reset-map" type="button">Reset</button>
+          <span id="marker-count">Loading map...</span>
+        </div>
+        <div class="tile-viewport" id="tile-viewport"><canvas class="tile-canvas" id="tile-canvas" aria-hidden="true"></canvas><div class="tile-surface" id="tile-surface"></div></div>
+        <article class="marker-detail" id="marker-detail"><span>Selected marker</span><strong>New York City</strong><p>Use search or category filters to find side missions, main missions, points of interest, items on this Marvel's Spider-Man: Miles Morales map.</p></article>
+      </section>
+    </main>
+
+    <script src="/script.js"></script>
+  </body>
+</html>

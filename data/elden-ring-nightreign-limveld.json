@@ -1,0 +1,3174 @@
+{
+  "metadata": {
+    "externalId": "edHAVEoYEc",
+    "name": "Limveld",
+    "slug": "limveld",
+    "baseTilePath": "https://storage-cdn.wemod.com/maps/cef93408-f2f7-43df-8405-5216e81f82d0/tiles",
+    "isChecklistPublished": true,
+    "isInActiveDevelopment": false,
+    "backgroundColor": "#000000",
+    "minZoom": 1,
+    "maxZoom": 4,
+    "initialZoom": null,
+    "tmsEnabled": false,
+    "categories": [
+      {
+        "externalId": "3JcbmBNiev",
+        "gameMapExternalId": "edHAVEoYEc",
+        "title": "未命名子分类",
+        "color": "#6ea0ab",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "eZlaih3g2k",
+        "gameMapExternalId": "edHAVEoYEc",
+        "title": "敌人",
+        "color": "#8ea856",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "rXNqoDBWN0",
+        "gameMapExternalId": "edHAVEoYEc",
+        "title": "服务",
+        "color": "#88209d",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "subcategories": [
+      {
+        "externalId": "by63erbvPU",
+        "categoryExternalId": "3JcbmBNiev",
+        "title": "未命名子类别",
+        "icon": "castle",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "lmvDraPFqr",
+        "categoryExternalId": "3JcbmBNiev",
+        "title": "未命名子分类",
+        "icon": "roundies:architecture-church",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "9HiZWLbYNE",
+        "categoryExternalId": "3JcbmBNiev",
+        "title": "堡垒",
+        "icon": "fort",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "AIW0AzWsbm",
+        "categoryExternalId": "3JcbmBNiev",
+        "title": "永恒监牢",
+        "icon": "aperture",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "VNwOhfH7py",
+        "categoryExternalId": "3JcbmBNiev",
+        "title": "大教堂",
+        "icon": "roundies:world-monuments-blue-domed-church-in-santorini-greece",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "QLklLtYMUA",
+        "categoryExternalId": "3JcbmBNiev",
+        "title": "主营地",
+        "icon": "roundies:architecture-tent",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "ntHA9zxAlx",
+        "categoryExternalId": "3JcbmBNiev",
+        "title": "遗迹",
+        "icon": "roundies:architecture-family-house",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "nd9gRyPruG",
+        "categoryExternalId": "3JcbmBNiev",
+        "title": "巫师高塔",
+        "icon": "roundies:world-monuments-tower",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "bqbWcoymQB",
+        "categoryExternalId": "3JcbmBNiev",
+        "title": "城镇",
+        "icon": "house-building",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "9eMyga1VVr",
+        "categoryExternalId": "3JcbmBNiev",
+        "title": "赐福点",
+        "icon": "loading",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "uUc5TVOO66",
+        "categoryExternalId": "3JcbmBNiev",
+        "title": "幽灵鹰之树",
+        "icon": "roundies:animals-bird_1",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "VJSGrkH1kr",
+        "categoryExternalId": "3JcbmBNiev",
+        "title": "灵魂溪流",
+        "icon": "fire-smoke",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "y9Rpbs6Wdb",
+        "categoryExternalId": "3JcbmBNiev",
+        "title": "隧道入口",
+        "icon": "roundies:world-monuments-stonehenge",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "VZuK4Zbvyf",
+        "categoryExternalId": "3JcbmBNiev",
+        "title": "强化",
+        "icon": "power",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "j5xQqimGbK",
+        "categoryExternalId": "3JcbmBNiev",
+        "title": "任务目标",
+        "icon": "material:flag_circle",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "sVbLCyE1n9",
+        "categoryExternalId": "3JcbmBNiev",
+        "title": "埋藏宝藏",
+        "icon": "treasure-chest",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "ShomhP7hI2",
+        "categoryExternalId": "3JcbmBNiev",
+        "title": "锻造坊",
+        "icon": "roundies:architecture-monument",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "5Lh1KGEj0C",
+        "categoryExternalId": "3JcbmBNiev",
+        "title": "沼泽",
+        "icon": "roundies:architecture-modern-home",
+        "excludeFromChecklists": false,
+        "description": ""
+      },
+      {
+        "externalId": "G7GfnZH0mw",
+        "categoryExternalId": "eZlaih3g2k",
+        "title": "野外首领",
+        "icon": "face-smile-horns",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "ZZDIxSTzZl",
+        "categoryExternalId": "rXNqoDBWN0",
+        "title": "未命名子分类",
+        "icon": "roundies:business-and-finance-money-bag",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "IksjzhHVKR",
+        "categoryExternalId": "rXNqoDBWN0",
+        "title": "锻造台",
+        "icon": "hammer-crash",
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "playerLocationDeltas": {
+      "deltas": {
+        "scaleX": 0.00004900446260191743,
+        "scaleY": -0.00004863724973088277,
+        "offsetX": 749.7789294543211,
+        "offsetY": 763.5767862409575,
+        "gameCoordsMap": {
+          "x": "x",
+          "y": "y",
+          "z": "z"
+        }
+      },
+      "referencePoints": [
+        {
+          "lngLat": {
+            "lat": -23.389273509396617,
+            "lng": 83.89952117954334
+          },
+          "gameCoords": {
+            "x": 1206.951416015625,
+            "y": 893.7380981445312,
+            "z": 0
+          }
+        },
+        {
+          "lngLat": {
+            "lat": 49.9815116494286,
+            "lng": -69.40107035860605
+          },
+          "gameCoords": {
+            "x": 371.60919189453125,
+            "y": 450.55401611328125,
+            "z": 0
+          }
+        }
+      ]
+    }
+  },
+  "features": [
+    {
+      "coordinates": [
+        42.5835148650786,
+        -16.880135541580216
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZZDIxSTzZl",
+        "imageId": 1372933,
+        "videoId": 1372934,
+        "externalId": "veKpGHti36",
+        "title": "",
+        "description": "",
+        "imagePath": "/game_map_pin/1372933/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/f6b8e7c4163280e5cc49264159caaf114a862f48"
+      }
+    },
+    {
+      "coordinates": [
+        42.068186989044136,
+        -17.941707812226525
+      ],
+      "properties": {
+        "subcategoryExternalId": "IksjzhHVKR",
+        "imageId": 1372935,
+        "videoId": 1372936,
+        "externalId": "NO1l8f670W",
+        "title": "",
+        "description": "",
+        "imagePath": "/game_map_pin/1372935/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/961599372f995f67a79bec8aa1150372dcc821c9"
+      }
+    },
+    {
+      "coordinates": [
+        -27.898718869107967,
+        -55.13930297386554
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZZDIxSTzZl",
+        "imageId": 1373038,
+        "videoId": 1373039,
+        "externalId": "V60NDJ5qUp",
+        "title": "",
+        "description": "",
+        "imagePath": "/game_map_pin/1373038/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/f10d3be6687a8233082fd2fc7b0f5e226e742f01"
+      }
+    },
+    {
+      "coordinates": [
+        -22.994983792343533,
+        40.473558129243884
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZZDIxSTzZl",
+        "imageId": 1374690,
+        "videoId": 1374691,
+        "externalId": "QjjZGbJsPz",
+        "title": "",
+        "description": "# 仅当主营地位于此区域时才可进入。",
+        "imagePath": "/game_map_pin/1374690/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/e634b0d9aea716741c8728ec4ef79c6f71029c20"
+      }
+    },
+    {
+      "coordinates": [
+        -40.435695402677226,
+        -13.400637609010303
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZZDIxSTzZl",
+        "imageId": 1374165,
+        "videoId": 1374166,
+        "externalId": "aGBzewrCMI",
+        "title": "",
+        "description": "# 仅当主营地位于此区域时才可访问。",
+        "imagePath": "/game_map_pin/1374165/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/901e9d2ab008364ebdb3937568256770df09e9a5"
+      }
+    },
+    {
+      "coordinates": [
+        -53.28271748213429,
+        51.68859205733045
+      ],
+      "properties": {
+        "subcategoryExternalId": "VZuK4Zbvyf",
+        "imageId": 1376904,
+        "videoId": 1376905,
+        "externalId": "9LH4fkQgJk",
+        "title": "",
+        "description": "# 注意：\n\n- 只能从流地大山之巅进入，此物品位于山顶附近一个雪花形状的水晶旁。",
+        "imagePath": "/game_map_pin/1376904/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/86cdebb8f4a00fe124ffa00d74859d8b71fe9ed8"
+      }
+    },
+    {
+      "coordinates": [
+        2.1612913073860227,
+        -2.750511519877392
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZZDIxSTzZl",
+        "imageId": 1378555,
+        "videoId": 1378556,
+        "externalId": "Noe5lhw9NC",
+        "title": "",
+        "description": "",
+        "imagePath": "/game_map_pin/1378555/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/6e65d3440c10a07ae7fa22b6e144918e08f5d2f9"
+      }
+    },
+    {
+      "coordinates": [
+        3.391760057385312,
+        -2.3114881705435266
+      ],
+      "properties": {
+        "subcategoryExternalId": "IksjzhHVKR",
+        "imageId": 1378558,
+        "videoId": 1378559,
+        "externalId": "Hhb18LcQw7",
+        "title": "",
+        "description": "",
+        "imagePath": "/game_map_pin/1378558/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/adfb6e99cf48e21f983ad817310d82b44024ff2d"
+      }
+    },
+    {
+      "coordinates": [
+        -7.506677442614176,
+        -22.618613949010054
+      ],
+      "properties": {
+        "subcategoryExternalId": "IksjzhHVKR",
+        "imageId": 1378564,
+        "videoId": 1378565,
+        "externalId": "Cqn8E2yMmZ",
+        "title": "",
+        "description": "",
+        "imagePath": "/game_map_pin/1378564/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/d68574dbfe7c6a7f8a86789dc5e9972624d897b8"
+      }
+    },
+    {
+      "coordinates": [
+        -6.364099317612784,
+        -21.068650323367464
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZZDIxSTzZl",
+        "imageId": 1378566,
+        "videoId": 1378567,
+        "externalId": "fNYuVI0pi2",
+        "title": "",
+        "description": "",
+        "imagePath": "/game_map_pin/1378566/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/7c8f6b06c381dea10ef6e1853a859853d1ab19c0"
+      }
+    },
+    {
+      "coordinates": [
+        -26.105827560701073,
+        -60.364358260269
+      ],
+      "properties": {
+        "subcategoryExternalId": "9HiZWLbYNE",
+        "imageId": 1374212,
+        "videoId": 1374213,
+        "externalId": "ZLTvbxi7lJ",
+        "title": "",
+        "description": "*注意：\n变幻地标——此位置的建筑结构会在每次运行时发生变化。*\n> 要塞通常有一个首领、几个宝箱和物品箱。顶层的侧室通常包含一个宝箱、一个武器架——法杖，以及一张揭示隐藏物品的纸条。",
+        "imagePath": "/game_map_pin/1374212/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/8bc1879c13dfa4197181dc2b59f3eb853bd0f224"
+      }
+    },
+    {
+      "coordinates": [
+        -59.10392920849452,
+        -37.351073675198414
+      ],
+      "properties": {
+        "subcategoryExternalId": "9HiZWLbYNE",
+        "imageId": 1374192,
+        "videoId": 1374193,
+        "externalId": "i9NgJNxALk",
+        "title": "",
+        "description": "*注意：\n变幻地标——此位置的建筑结构会在每次运行时发生变化。*\n> 要塞通常有一个首领、几个宝箱和物品箱。顶层的侧室通常包含一个宝箱、一个武器架——法杖，以及一张揭示隐藏物品的纸条。",
+        "imagePath": "/game_map_pin/1374192/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/293258419426c5ca71dea23677d4c395a930723c"
+      }
+    },
+    {
+      "coordinates": [
+        -59.09085881698219,
+        13.06784325081233
+      ],
+      "properties": {
+        "subcategoryExternalId": "9HiZWLbYNE",
+        "imageId": 1374109,
+        "videoId": 1374110,
+        "externalId": "G8Trf3xQ8Q",
+        "title": "",
+        "description": "*注意：\n变幻地标——此位置的建筑结构会在每次运行时发生变化。*\n> 要塞通常有一个首领、几个宝箱和物品箱。顶层的侧室通常包含一个宝箱、一个武器架——法杖，以及一张揭示隐藏物品的纸条。",
+        "imagePath": "/game_map_pin/1374109/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/f781272f65d6b426f5cb8ab12656899f760a14b3"
+      }
+    },
+    {
+      "coordinates": [
+        -69.40107035860605,
+        49.9815116494286
+      ],
+      "properties": {
+        "subcategoryExternalId": "9HiZWLbYNE",
+        "imageId": 1374115,
+        "videoId": 1374116,
+        "externalId": "o7WBjHtYqQ",
+        "title": "",
+        "description": "*注意：\n变幻地标——此位置的建筑结构会在每次运行时发生变化。*\n> 要塞通常有一个首领、几个宝箱和物品箱。顶层的侧室通常包含一个宝箱、一个武器架——法杖，以及一张揭示隐藏物品的纸条。",
+        "imagePath": "/game_map_pin/1374115/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/ef17ee9103411deab738ef32180fe436b8025c33"
+      }
+    },
+    {
+      "coordinates": [
+        20.919520642998748,
+        18.69947474942491
+      ],
+      "properties": {
+        "subcategoryExternalId": "9HiZWLbYNE",
+        "imageId": 1377754,
+        "videoId": 1377756,
+        "externalId": "AJ2hi7Cujz",
+        "title": "",
+        "description": "*注意：\n变幻地标——此位置的建筑结构会在每次运行时发生变化。*\n> 要塞通常有一个首领、几个宝箱和物品箱。顶层的侧室通常包含一个宝箱、一个武器架——法杖，以及一张揭示隐藏物品的纸条。",
+        "imagePath": "/game_map_pin/1377754/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/9d8373b4f18bbd1440193092398434e910db6b48"
+      }
+    },
+    {
+      "coordinates": [
+        30.670104308570103,
+        -45.607208633816555
+      ],
+      "properties": {
+        "subcategoryExternalId": "9HiZWLbYNE",
+        "imageId": 1373465,
+        "videoId": 1373466,
+        "externalId": "cOAb55kKlH",
+        "title": "",
+        "description": "*注意：\n变幻地标——此位置的建筑结构会在每次运行时发生变化。*\n> 要塞通常有一个首领、几个宝箱和物品箱。顶层的侧室通常包含一个宝箱、一个武器架——法杖，以及一张揭示隐藏物品的纸条。",
+        "imagePath": "/game_map_pin/1373465/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/3082f24afedc6b762e3a139fcc1ff10e4b9dd8e3"
+      }
+    },
+    {
+      "coordinates": [
+        69.22271776296043,
+        -53.05376418333028
+      ],
+      "properties": {
+        "subcategoryExternalId": "9HiZWLbYNE",
+        "imageId": 1373937,
+        "videoId": 1373938,
+        "externalId": "HAXDfkDDb3",
+        "title": "",
+        "description": "*注意：\n变幻地标——此位置的建筑结构会在每次运行时发生变化。*\n> 要塞通常有一个首领、几个宝箱和物品箱。顶层的侧室通常包含一个宝箱、一个武器架——法杖，以及一张揭示隐藏物品的纸条。",
+        "imagePath": "/game_map_pin/1373937/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/4c4a53ac922297c113dbf0eddb7c81341c484d91"
+      }
+    },
+    {
+      "coordinates": [
+        69.53364487733239,
+        -33.154177135129395
+      ],
+      "properties": {
+        "subcategoryExternalId": "9HiZWLbYNE",
+        "imageId": 1374012,
+        "videoId": 1374013,
+        "externalId": "QoZvnBVOYV",
+        "title": "",
+        "description": "*注意：\n变幻地标——此位置的建筑结构会在每次运行时发生变化。*\n> 要塞通常有一个首领、几个宝箱和物品箱。顶层的侧室通常包含一个宝箱、一个武器架——法杖，以及一张揭示隐藏物品的纸条。",
+        "imagePath": "/game_map_pin/1374012/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/765fffeeb51952024cfe3473cd00451c90c03699"
+      }
+    },
+    {
+      "coordinates": [
+        43.97566812233873,
+        9.16157810604885
+      ],
+      "properties": {
+        "subcategoryExternalId": "9HiZWLbYNE",
+        "imageId": 1373614,
+        "videoId": 1373615,
+        "externalId": "YO05JJzLJM",
+        "title": "",
+        "description": "*注意：\n变幻地标——此位置的建筑结构会在每次运行时发生变化。*\n> 要塞通常有一个首领、几个宝箱和物品箱。顶层的侧室通常包含一个宝箱、一个武器架——法杖，以及一张揭示隐藏物品的纸条。",
+        "imagePath": "/game_map_pin/1373614/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/3985f348445a1952b0e3f12d260105f22bc4c0ad"
+      }
+    },
+    {
+      "coordinates": [
+        73.77874602941216,
+        21.71241386684619
+      ],
+      "properties": {
+        "subcategoryExternalId": "9HiZWLbYNE",
+        "imageId": 1376343,
+        "videoId": 1376344,
+        "externalId": "lHWMZlOnEe",
+        "title": "",
+        "description": "*注意：\n变幻地标——此位置的建筑结构会在每次运行时发生变化。*\n> 要塞通常有一个首领、几个宝箱和物品箱。顶层的侧室通常包含一个宝箱、一个武器架——法杖，以及一张揭示隐藏物品的纸条。",
+        "imagePath": "/game_map_pin/1376343/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/38a24db7270f4d82309b843d08965d79d945588d"
+      }
+    },
+    {
+      "coordinates": [
+        58.608001120875656,
+        59.22778115262517
+      ],
+      "properties": {
+        "subcategoryExternalId": "9HiZWLbYNE",
+        "imageId": 1377781,
+        "videoId": 1377782,
+        "externalId": "XSoTw7oFtS",
+        "title": "",
+        "description": "*注意：\n变幻地标——此位置的建筑结构会在每次运行时发生变化。*\n> 要塞通常有一个首领、几个宝箱和物品箱。顶层的侧室通常包含一个宝箱、一个武器架——法杖，以及一张揭示隐藏物品的纸条。",
+        "imagePath": "/game_map_pin/1377781/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/fac0cd7b1fcc1734b59e6f90df6b8cc846861458"
+      }
+    },
+    {
+      "coordinates": [
+        37.2383316017833,
+        49.57006599337441
+      ],
+      "properties": {
+        "subcategoryExternalId": "9HiZWLbYNE",
+        "externalId": "fHFtTUzW2H",
+        "title": "",
+        "description": "*注意：\n变幻地标——此位置的建筑结构会在每次运行时发生变化。*\n> 要塞通常有一个首领、几个宝箱和物品箱。顶层的侧室通常包含一个宝箱、一个武器架——法杖，以及一张揭示隐藏物品的纸条。",
+        "imageId": 1377656,
+        "imagePath": "/game_map_pin/1377656/{size}.webp",
+        "videoId": 1377657,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/d0ecf4e8a3680526950282d7dd3770c89c7ad4f7"
+      }
+    },
+    {
+      "coordinates": [
+        32.84008933639939,
+        -21.13015482440538
+      ],
+      "properties": {
+        "subcategoryExternalId": "9HiZWLbYNE",
+        "imageId": 1373602,
+        "videoId": 1373603,
+        "externalId": "NMm8mdHenE",
+        "title": "",
+        "description": "*注意：\n变幻地标——此位置的建筑结构会在每次运行时发生变化。*\n> 要塞通常有一个首领、几个宝箱和物品箱。顶层的侧室通常包含一个宝箱、一个武器架——法杖，以及一张揭示隐藏物品的纸条。",
+        "imagePath": "/game_map_pin/1373602/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/8d0ad914e4dc4a91b99279ab188a223fa938ff30"
+      }
+    },
+    {
+      "coordinates": [
+        -28.486079541111877,
+        -59.75243210108862
+      ],
+      "properties": {
+        "subcategoryExternalId": "VNwOhfH7py",
+        "imageId": 1375006,
+        "videoId": 1375007,
+        "externalId": "PvZU27nCe9",
+        "title": "",
+        "description": "> 大教堂内有一个低/中级Boss、多个宝箱、物品箱和武器架 —— 为亡灵/隐士使用者提供神圣印记。\n\n*注意：\n移动地标 —— 此位置的建筑结构会在每次游戏中发生变化。*",
+        "imagePath": "/game_map_pin/1375006/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/65b0b22492cb03644e9d94d398fa848edfa3bd44"
+      }
+    },
+    {
+      "coordinates": [
+        -49.2844939079429,
+        -18.451283315379428
+      ],
+      "properties": {
+        "subcategoryExternalId": "VNwOhfH7py",
+        "imageId": 1374240,
+        "videoId": 1374241,
+        "externalId": "JovWW0U8Fs",
+        "title": "",
+        "description": "> 大教堂内有一个低/中级Boss、多个宝箱、物品箱和武器架 —— 为亡灵/隐士使用者提供神圣印记。\n\n*注意：\n移动地标 —— 此位置的建筑结构会在每次游戏中发生变化。*",
+        "imagePath": "/game_map_pin/1374240/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/a5427fe7e6e1554a48ab9a5343e4ef5da14dee1d"
+      }
+    },
+    {
+      "coordinates": [
+        -60.8286494373007,
+        11.915556559772696
+      ],
+      "properties": {
+        "subcategoryExternalId": "VNwOhfH7py",
+        "imageId": 1374119,
+        "videoId": 1374120,
+        "externalId": "cloWk5G70C",
+        "title": "",
+        "description": "> 大教堂内有一个低/中级Boss、多个宝箱、物品箱和武器架 —— 为亡灵/隐士使用者提供神圣印记。\n\n*注意：\n移动地标 —— 此位置的建筑结构会在每次游戏中发生变化。*",
+        "imagePath": "/game_map_pin/1374119/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/79cb5b7c18bb9e498e5a2fb988a12cff16aa0c69"
+      }
+    },
+    {
+      "coordinates": [
+        29.96697930856996,
+        -47.540282004421144
+      ],
+      "properties": {
+        "subcategoryExternalId": "VNwOhfH7py",
+        "imageId": 1377473,
+        "videoId": 1377474,
+        "externalId": "YSQoAv7SOJ",
+        "title": "",
+        "description": "> 大教堂内有一个低/中级Boss、多个宝箱、物品箱和武器架 —— 为亡灵/隐士使用者提供神圣印记。\n\n*注意：\n移动地标 —— 此位置的建筑结构会在每次游戏中发生变化。*",
+        "imagePath": "/game_map_pin/1377473/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/088ce3c78f7b4668aebe9659419b51d700dd77bf"
+      }
+    },
+    {
+      "coordinates": [
+        67.79843553966086,
+        -53.677997255401564
+      ],
+      "properties": {
+        "subcategoryExternalId": "VNwOhfH7py",
+        "imageId": 1374006,
+        "videoId": 1374007,
+        "externalId": "LsBJ5zHyfM",
+        "title": "",
+        "description": "> 大教堂内有一个低/中级Boss、多个宝箱、物品箱和武器架 —— 为亡灵/隐士使用者提供神圣印记。\n\n*注意：\n移动地标 —— 此位置的建筑结构会在每次游戏中发生变化。*",
+        "imagePath": "/game_map_pin/1374006/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/a86b8b315312f01c830d9fb6658d233508331e1f"
+      }
+    },
+    {
+      "coordinates": [
+        -21.27795527155419,
+        44.74087842831511
+      ],
+      "properties": {
+        "subcategoryExternalId": "VNwOhfH7py",
+        "imageId": 1374103,
+        "videoId": 1374104,
+        "externalId": "WdcI9g97qO",
+        "title": "",
+        "description": "> 大教堂内有一个低/中级Boss、多个宝箱、物品箱和武器架 —— 为亡灵/隐士使用者提供神圣印记。\n\n*注意：\n移动地标 —— 此位置的建筑结构会在每次游戏中发生变化。*",
+        "imagePath": "/game_map_pin/1374103/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/419ae46caeddb5e7d2944f9f24d0c5eb0b455689"
+      }
+    },
+    {
+      "coordinates": [
+        -25.314284849543412,
+        63.802157167122516
+      ],
+      "properties": {
+        "subcategoryExternalId": "VNwOhfH7py",
+        "imageId": 1374701,
+        "videoId": 1374702,
+        "externalId": "qhwdxfIW9C",
+        "title": "",
+        "description": "> 大教堂内有一个低/中级Boss、多个宝箱、物品箱和武器架 —— 为亡灵/隐士使用者提供神圣印记。\n\n*注意：\n移动地标 —— 此位置的建筑结构会在每次游戏中发生变化。*",
+        "imagePath": "/game_map_pin/1374701/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/3d6256efd6845ad6d490a906d4b6eba70e097e7b"
+      }
+    },
+    {
+      "coordinates": [
+        58.93734964665336,
+        60.09993458007676
+      ],
+      "properties": {
+        "subcategoryExternalId": "VNwOhfH7py",
+        "imageId": 1377670,
+        "videoId": 1377671,
+        "externalId": "sDI4T301c9",
+        "title": "",
+        "description": "> 大教堂内有一个低/中级Boss、多个宝箱、物品箱和武器架 —— 为亡灵/隐士使用者提供神圣印记。\n\n*注意：\n移动地标 —— 此位置的建筑结构会在每次游戏中发生变化。*",
+        "imagePath": "/game_map_pin/1377670/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/88bff0383526c3c5979c4f77f8593bf0f6ab576f"
+      }
+    },
+    {
+      "coordinates": [
+        35.3720169295201,
+        47.49169763926071
+      ],
+      "properties": {
+        "subcategoryExternalId": "VNwOhfH7py",
+        "externalId": "fFdc9BWt9S",
+        "title": "",
+        "description": "> 大教堂内有一个低/中级Boss、多个宝箱、物品箱和武器架 —— 为亡灵/隐士使用者提供神圣印记。\n\n*注意：\n移动地标 —— 此位置的建筑结构会在每次游戏中发生变化。*",
+        "imageId": 1377715,
+        "imagePath": "/game_map_pin/1377715/{size}.webp",
+        "videoId": 1377716,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/df7bcef0e325738645d2adeda8f5aa2e21d33646"
+      }
+    },
+    {
+      "coordinates": [
+        24.177864473507242,
+        16.658921480715193
+      ],
+      "properties": {
+        "subcategoryExternalId": "VNwOhfH7py",
+        "imageId": 1376205,
+        "videoId": 1376206,
+        "externalId": "zBWgm51Q6D",
+        "title": "",
+        "description": "> 大教堂内有一个低/中级Boss、多个宝箱、物品箱和武器架 —— 为亡灵/隐士使用者提供神圣印记。\n\n*注意：\n移动地标 —— 此位置的建筑结构会在每次游戏中发生变化。*",
+        "imagePath": "/game_map_pin/1376205/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/b4e32fb0b605b5ed90c5353ec47fccf0b3fc4d5d"
+      }
+    },
+    {
+      "coordinates": [
+        45.56976598442429,
+        8.84308048189996
+      ],
+      "properties": {
+        "subcategoryExternalId": "VNwOhfH7py",
+        "imageId": 1373616,
+        "videoId": 1373617,
+        "externalId": "pBxOVMyOJa",
+        "title": "",
+        "description": "> 大教堂内有一个低/中级Boss、多个宝箱、物品箱和武器架 —— 为亡灵/隐士使用者提供神圣印记。\n\n*注意：\n移动地标 —— 此位置的建筑结构会在每次游戏中发生变化。*",
+        "imagePath": "/game_map_pin/1373616/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/f0b3b0f51e5732a0857c5f490d4f0acddb27c89d"
+      }
+    },
+    {
+      "coordinates": [
+        70.41169558282743,
+        -34.54242919050645
+      ],
+      "properties": {
+        "subcategoryExternalId": "VNwOhfH7py",
+        "imageId": 1374071,
+        "videoId": 1374072,
+        "externalId": "oQH9hQaSTS",
+        "title": "",
+        "description": "> 大教堂内有一个低/中级Boss、多个宝箱、物品箱和武器架 —— 为亡灵/隐士使用者提供神圣印记。\n\n*注意：\n移动地标 —— 此位置的建筑结构会在每次游戏中发生变化。*",
+        "imagePath": "/game_map_pin/1374071/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/5fb012e864af81c7f3f2b6647692f61a11b1c53d"
+      }
+    },
+    {
+      "coordinates": [
+        31.504098494491473,
+        -21.997863789062308
+      ],
+      "properties": {
+        "subcategoryExternalId": "VNwOhfH7py",
+        "imageId": 1377774,
+        "videoId": 1377775,
+        "externalId": "P6oSaZ6yNI",
+        "title": "",
+        "description": "> 大教堂内有一个低/中级Boss、多个宝箱、物品箱和武器架 —— 为亡灵/隐士使用者提供神圣印记。\n\n*注意：\n移动地标 —— 此位置的建筑结构会在每次游戏中发生变化。*",
+        "imagePath": "/game_map_pin/1377774/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/57edff5c2c482c111e75b6ba3b8513a8a3bf93a3"
+      }
+    },
+    {
+      "coordinates": [
+        75.24670290647856,
+        20.528780093789408
+      ],
+      "properties": {
+        "subcategoryExternalId": "VNwOhfH7py",
+        "imageId": 1376341,
+        "videoId": 1376342,
+        "externalId": "zi5MuduNNS",
+        "title": "",
+        "description": "> 大教堂内有一个低/中级Boss、多个宝箱、物品箱和武器架 —— 为亡灵/隐士使用者提供神圣印记。\n\n*注意：\n移动地标 —— 此位置的建筑结构会在每次游戏中发生变化。*",
+        "imagePath": "/game_map_pin/1376341/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/f542e62f2871afc86ebe5da08eac7cf4a617d61d"
+      }
+    },
+    {
+      "coordinates": [
+        -26.871424791146694,
+        -59.47386716720763
+      ],
+      "properties": {
+        "subcategoryExternalId": "QLklLtYMUA",
+        "imageId": 1374178,
+        "videoId": 1374179,
+        "externalId": "8C1y69ttbQ",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——此位置的结构在每次运行中都会发生变化。*\n> 主营地设有多部分Boss，小Boss散布在区域周围。击败它们全部以消耗共享生命值。这些位置充满了可获得经验值的敌人和可获得战利品的宝箱。",
+        "imagePath": "/game_map_pin/1374178/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/02008d0f30b92bd081dc382e983c8d341cc20985"
+      }
+    },
+    {
+      "coordinates": [
+        -58.713249435701044,
+        -38.67592495234196
+      ],
+      "properties": {
+        "subcategoryExternalId": "QLklLtYMUA",
+        "imageId": 1374236,
+        "videoId": 1374237,
+        "externalId": "9053QT10qC",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——此位置的结构在每次运行中都会发生变化。*\n> 主营地设有多部分Boss，小Boss散布在区域周围。击败它们全部以消耗共享生命值。这些位置充满了可获得经验值的敌人和可获得战利品的宝箱。",
+        "imagePath": "/game_map_pin/1374236/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/14155a953eae924c7d191627f0388434a28f6dd6"
+      }
+    },
+    {
+      "coordinates": [
+        -50.762013318482445,
+        -17.70718935408584
+      ],
+      "properties": {
+        "subcategoryExternalId": "QLklLtYMUA",
+        "imageId": 1374187,
+        "videoId": 1374188,
+        "externalId": "jH0C3DYaMe",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——此位置的结构在每次运行中都会发生变化。*\n> 主营地设有多部分Boss，小Boss散布在区域周围。击败它们全部以消耗共享生命值。这些位置充满了可获得经验值的敌人和可获得战利品的宝箱。",
+        "imagePath": "/game_map_pin/1374187/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/469f04933f4bc2691037e51b7c9d57bf671e28c4"
+      }
+    },
+    {
+      "coordinates": [
+        -69.43537859954304,
+        48.7783062980821
+      ],
+      "properties": {
+        "subcategoryExternalId": "QLklLtYMUA",
+        "imageId": 1374703,
+        "videoId": 1374704,
+        "externalId": "cyKNbje48D",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——此位置的结构在每次运行中都会发生变化。*\n> 主营地设有多部分Boss，小Boss散布在区域周围。击败它们全部以消耗共享生命值。这些位置充满了可获得经验值的敌人和可获得战利品的宝箱。",
+        "imagePath": "/game_map_pin/1374703/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/67e068838f6fbcaa810efa74097f464fe2db8904"
+      }
+    },
+    {
+      "coordinates": [
+        -25.418530351423982,
+        64.5803690262201
+      ],
+      "properties": {
+        "subcategoryExternalId": "QLklLtYMUA",
+        "imageId": 1374884,
+        "videoId": 1374885,
+        "externalId": "EWDeGTEjNI",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——此位置的结构在每次运行中都会发生变化。*\n> 主营地设有多部分Boss，小Boss散布在区域周围。击败它们全部以消耗共享生命值。这些位置充满了可获得经验值的敌人和可获得战利品的宝箱。",
+        "imagePath": "/game_map_pin/1374884/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/4ec9f2018f43592609e9b79836e3cfb513b4179e"
+      }
+    },
+    {
+      "coordinates": [
+        -21.88655047454435,
+        43.61264915598019
+      ],
+      "properties": {
+        "subcategoryExternalId": "QLklLtYMUA",
+        "imageId": 1374692,
+        "videoId": 1374693,
+        "externalId": "URZNkYdrBA",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——此位置的结构在每次运行中都会发生变化。*\n> 主营地设有多部分Boss，小Boss散布在区域周围。击败它们全部以消耗共享生命值。这些位置充满了可获得经验值的敌人和可获得战利品的宝箱。",
+        "imagePath": "/game_map_pin/1374692/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/b2b1405a44f91d5930a33f13446e717c3449febe"
+      }
+    },
+    {
+      "coordinates": [
+        31.201424360131853,
+        -46.945264594796946
+      ],
+      "properties": {
+        "subcategoryExternalId": "QLklLtYMUA",
+        "imageId": 1376322,
+        "videoId": 1376323,
+        "externalId": "NPgsuQ3j45",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——此位置的结构在每次运行中都会发生变化。*\n> 主营地设有多部分Boss，小Boss散布在区域周围。击败它们全部以消耗共享生命值。这些位置充满了可获得经验值的敌人和可获得战利品的宝箱。",
+        "imagePath": "/game_map_pin/1376322/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/a19c5941f3f5061ee9de676eede81c1e73c373ca"
+      }
+    },
+    {
+      "coordinates": [
+        68.9404006587439,
+        -51.59727710475283
+      ],
+      "properties": {
+        "subcategoryExternalId": "QLklLtYMUA",
+        "imageId": 1373794,
+        "videoId": 1373795,
+        "externalId": "gJnYgos5N4",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——此位置的结构在每次运行中都会发生变化。*\n> 主营地设有多部分Boss，小Boss散布在区域周围。击败它们全部以消耗共享生命值。这些位置充满了可获得经验值的敌人和可获得战利品的宝箱。",
+        "imagePath": "/game_map_pin/1373794/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/fa343f1746f46139df91787337244ea8d7a86c7c"
+      }
+    },
+    {
+      "coordinates": [
+        69.35447948106096,
+        -35.73143500118835
+      ],
+      "properties": {
+        "subcategoryExternalId": "QLklLtYMUA",
+        "imageId": 1374858,
+        "videoId": 1374859,
+        "externalId": "5BBBsiOHUQ",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——此位置的结构在每次运行中都会发生变化。*\n> 主营地设有多部分Boss，小Boss散布在区域周围。击败它们全部以消耗共享生命值。这些位置充满了可获得经验值的敌人和可获得战利品的宝箱。",
+        "imagePath": "/game_map_pin/1374858/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/1293e32d3a72ac806a4c9caef92fed47fa360c4a"
+      }
+    },
+    {
+      "coordinates": [
+        34.676926659851205,
+        -22.868276455038497
+      ],
+      "properties": {
+        "subcategoryExternalId": "QLklLtYMUA",
+        "imageId": 1372945,
+        "videoId": 1372946,
+        "externalId": "CAuC19WrCS",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——此位置的结构在每次运行中都会发生变化。*\n> 主营地设有多部分Boss，小Boss散布在区域周围。击败它们全部以消耗共享生命值。这些位置充满了可获得经验值的敌人和可获得战利品的宝箱。",
+        "imagePath": "/game_map_pin/1372945/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/3d8d5d3e65586fe8a7127c82e057a884cff14165"
+      }
+    },
+    {
+      "coordinates": [
+        45.332739997429655,
+        10.525085237851883
+      ],
+      "properties": {
+        "subcategoryExternalId": "QLklLtYMUA",
+        "imageId": 1373607,
+        "videoId": 1373608,
+        "externalId": "ntGRjZauLP",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——此位置的结构在每次运行中都会发生变化。*\n> 主营地设有多部分Boss，小Boss散布在区域周围。击败它们全部以消耗共享生命值。这些位置充满了可获得经验值的敌人和可获得战利品的宝箱。",
+        "imagePath": "/game_map_pin/1373607/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/a6206279be1bb346dc98bfb7a09c89fdfde48870"
+      }
+    },
+    {
+      "coordinates": [
+        23.049666081826643,
+        18.704123339412348
+      ],
+      "properties": {
+        "subcategoryExternalId": "QLklLtYMUA",
+        "imageId": 1377666,
+        "videoId": 1377667,
+        "externalId": "8FsfFirY5f",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——此位置的结构在每次运行中都会发生变化。*\n> 主营地设有多部分Boss，小Boss散布在区域周围。击败它们全部以消耗共享生命值。这些位置充满了可获得经验值的敌人和可获得战利品的宝箱。",
+        "imagePath": "/game_map_pin/1377666/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/ee2b4e864c82ad7db8148eda8f2575dd0b81305f"
+      }
+    },
+    {
+      "coordinates": [
+        74.83726658344875,
+        18.613333111844767
+      ],
+      "properties": {
+        "subcategoryExternalId": "QLklLtYMUA",
+        "imageId": 1377476,
+        "videoId": 1377477,
+        "externalId": "i505rjZXve",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——此位置的结构在每次运行中都会发生变化。*\n> 主营地设有多部分Boss，小Boss散布在区域周围。击败它们全部以消耗共享生命值。这些位置充满了可获得经验值的敌人和可获得战利品的宝箱。",
+        "imagePath": "/game_map_pin/1377476/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/10a2d6c831fe7d91589a5fe8f5657e626fc55abd"
+      }
+    },
+    {
+      "coordinates": [
+        37.277109922468526,
+        47.965214507727126
+      ],
+      "properties": {
+        "subcategoryExternalId": "QLklLtYMUA",
+        "imageId": 1377672,
+        "videoId": 1377673,
+        "externalId": "tw3ay6f2W4",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——此位置的结构在每次运行中都会发生变化。*\n> 主营地设有多部分Boss，小Boss散布在区域周围。击败它们全部以消耗共享生命值。这些位置充满了可获得经验值的敌人和可获得战利品的宝箱。",
+        "imagePath": "/game_map_pin/1377672/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/d8d78a4f8d752dccd7e7e4ad1b6560eb3021cc09"
+      }
+    },
+    {
+      "coordinates": [
+        57.18958731151497,
+        59.75475292001616
+      ],
+      "properties": {
+        "subcategoryExternalId": "QLklLtYMUA",
+        "imageId": 1377722,
+        "videoId": 1377723,
+        "externalId": "dcmWON5rDF",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——此位置的结构在每次运行中都会发生变化。*\n> 主营地设有多部分Boss，小Boss散布在区域周围。击败它们全部以消耗共享生命值。这些位置充满了可获得经验值的敌人和可获得战利品的宝箱。",
+        "imagePath": "/game_map_pin/1377722/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/8fd70f9b0ede63ca32a9d2c9ea65b05ea5ba7be7"
+      }
+    },
+    {
+      "coordinates": [
+        -70.50508496125885,
+        50.620504344153574
+      ],
+      "properties": {
+        "subcategoryExternalId": "ntHA9zxAlx",
+        "imageId": 1374105,
+        "videoId": 1374106,
+        "externalId": "YiGLvfb8kC",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——这个位置的结构会在每次运行时发生变化。*\n\n> 遗迹拥有多阶段的小头目战斗，敌人主题围绕该区域的元素装备，例如毒素遗迹中的调香师或火焰遗迹中的烈焰战车。",
+        "imagePath": "/game_map_pin/1374105/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/c95479fad0fd907c6583cbe133a2a89eaacc1893"
+      }
+    },
+    {
+      "coordinates": [
+        -59.15248775450681,
+        10.14142844110826
+      ],
+      "properties": {
+        "subcategoryExternalId": "ntHA9zxAlx",
+        "imageId": 1374705,
+        "videoId": 1374706,
+        "externalId": "TfJ6zS49hp",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——这个位置的结构会在每次运行时发生变化。*\n\n> 遗迹拥有多阶段的小头目战斗，敌人主题围绕该区域的元素装备，例如毒素遗迹中的调香师或火焰遗迹中的烈焰战车。",
+        "imagePath": "/game_map_pin/1374705/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/3e9bad1f6d0d52fe883b173afa069dfd54ff6086"
+      }
+    },
+    {
+      "coordinates": [
+        -47.50704558781004,
+        -17.571031154513577
+      ],
+      "properties": {
+        "subcategoryExternalId": "ntHA9zxAlx",
+        "imageId": 1374707,
+        "videoId": 1374708,
+        "externalId": "thW9q9NyYm",
+        "title": "",
+        "description": "> 废墟中有多阶段小BOSS战，敌人的主题围绕该区域的元素装备，比如毒素废墟中的调香师或火焰废墟中的烈火战车。\n\n*注意：\n变化地标——此位置的建筑会在每次游戏中发生变化。*",
+        "imagePath": "/game_map_pin/1374707/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/f223be0e574819b3123b03e6c6245f2cbae057cb"
+      }
+    },
+    {
+      "coordinates": [
+        -60.006648697581085,
+        -39.29555576933088
+      ],
+      "properties": {
+        "subcategoryExternalId": "ntHA9zxAlx",
+        "imageId": 1374126,
+        "videoId": 1374127,
+        "externalId": "UhldDrnFzr",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——这个位置的结构会在每次运行时发生变化。*\n\n> 遗迹拥有多阶段的小头目战斗，敌人主题围绕该区域的元素装备，例如毒素遗迹中的调香师或火焰遗迹中的烈焰战车。",
+        "imagePath": "/game_map_pin/1374126/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/e1e9656c58066494511defd543b47489a30dc95a"
+      }
+    },
+    {
+      "coordinates": [
+        -27.612711565023233,
+        -60.8364890882976
+      ],
+      "properties": {
+        "subcategoryExternalId": "ntHA9zxAlx",
+        "imageId": 1374135,
+        "videoId": 1374136,
+        "externalId": "fBfHqHnisW",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——这个位置的结构会在每次运行时发生变化。*\n\n> 遗迹拥有多阶段的小头目战斗，敌人主题围绕该区域的元素装备，例如毒素遗迹中的调香师或火焰遗迹中的烈焰战车。",
+        "imagePath": "/game_map_pin/1374135/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/37d8cf3cc0aa0fe8a8965d062a67571aa35215f4"
+      }
+    },
+    {
+      "coordinates": [
+        -23.427638909011648,
+        43.63201526711728
+      ],
+      "properties": {
+        "subcategoryExternalId": "ntHA9zxAlx",
+        "imageId": 1374113,
+        "videoId": 1374114,
+        "externalId": "c4tfq9SVkL",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——这个位置的结构会在每次运行时发生变化。*\n\n> 遗迹拥有多阶段的小头目战斗，敌人主题围绕该区域的元素装备，例如毒素遗迹中的调香师或火焰遗迹中的烈焰战车。",
+        "imagePath": "/game_map_pin/1374113/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/072361e2d8fc27fb2e49ec1ed491c8cfddbc333a"
+      }
+    },
+    {
+      "coordinates": [
+        -23.616478943585065,
+        64.2455747669257
+      ],
+      "properties": {
+        "subcategoryExternalId": "ntHA9zxAlx",
+        "imageId": 1374694,
+        "videoId": 1374695,
+        "externalId": "xRwoMdoknK",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——这个位置的结构会在每次运行时发生变化。*\n\n> 遗迹拥有多阶段的小头目战斗，敌人主题围绕该区域的元素装备，例如毒素遗迹中的调香师或火焰遗迹中的烈焰战车。",
+        "imagePath": "/game_map_pin/1374694/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/423154dbdbabd7a66f1b084ba5d3e731ea17ae96"
+      }
+    },
+    {
+      "coordinates": [
+        29.34800005611214,
+        -46.64661557057525
+      ],
+      "properties": {
+        "subcategoryExternalId": "ntHA9zxAlx",
+        "imageId": 1372994,
+        "videoId": 1372996,
+        "externalId": "T2qubZJJCM",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——这个位置的结构会在每次运行时发生变化。*\n\n> 遗迹拥有多阶段的小头目战斗，敌人主题围绕该区域的元素装备，例如毒素遗迹中的调香师或火焰遗迹中的烈焰战车。",
+        "imagePath": "/game_map_pin/1372994/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/05a1d315b44943e7c58999a77f23c8a0230c8acf"
+      }
+    },
+    {
+      "coordinates": [
+        67.37701463795972,
+        -52.41515522445703
+      ],
+      "properties": {
+        "subcategoryExternalId": "ntHA9zxAlx",
+        "imageId": 1373921,
+        "videoId": 1373922,
+        "externalId": "3baxk08F5c",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——这个位置的结构会在每次运行时发生变化。*\n\n> 遗迹拥有多阶段的小头目战斗，敌人主题围绕该区域的元素装备，例如毒素遗迹中的调香师或火焰遗迹中的烈焰战车。",
+        "imagePath": "/game_map_pin/1373921/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/a0c935c74d30468378bc85b6d6bece4b51643ef6"
+      }
+    },
+    {
+      "coordinates": [
+        68.30232058282704,
+        -34.397511170657204
+      ],
+      "properties": {
+        "subcategoryExternalId": "ntHA9zxAlx",
+        "imageId": 1374054,
+        "videoId": 1374055,
+        "externalId": "W79PfvmzeA",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——这个位置的结构会在每次运行时发生变化。*\n\n> 遗迹拥有多阶段的小头目战斗，敌人主题围绕该区域的元素装备，例如毒素遗迹中的调香师或火焰遗迹中的烈焰战车。",
+        "imagePath": "/game_map_pin/1374054/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/7edf816a0c47e8124c90f46aacfbc51600b7c129"
+      }
+    },
+    {
+      "coordinates": [
+        44.45822039473674,
+        7.154551442536018
+      ],
+      "properties": {
+        "subcategoryExternalId": "ntHA9zxAlx",
+        "imageId": 1373627,
+        "videoId": 1373628,
+        "externalId": "cC3WNfsRg0",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——这个位置的结构会在每次运行时发生变化。*\n\n> 遗迹拥有多阶段的小头目战斗，敌人主题围绕该区域的元素装备，例如毒素遗迹中的调香师或火焰遗迹中的烈焰战车。",
+        "imagePath": "/game_map_pin/1373627/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/a46505ee9684fba62968c767c4604f1768ecce27"
+      }
+    },
+    {
+      "coordinates": [
+        21.943630981506146,
+        16.54714521745977
+      ],
+      "properties": {
+        "subcategoryExternalId": "ntHA9zxAlx",
+        "imageId": 1375990,
+        "videoId": 1375991,
+        "externalId": "WbS0uRqxYW",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——这个位置的结构会在每次运行时发生变化。*\n\n> 遗迹拥有多阶段的小头目战斗，敌人主题围绕该区域的元素装备，例如毒素遗迹中的调香师或火焰遗迹中的烈焰战车。",
+        "imagePath": "/game_map_pin/1375990/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/758859a621f1ac6fe62e6971ba897ae111455959"
+      }
+    },
+    {
+      "coordinates": [
+        73.5652605803794,
+        19.97705266149127
+      ],
+      "properties": {
+        "subcategoryExternalId": "ntHA9zxAlx",
+        "imageId": 1377467,
+        "videoId": 1377468,
+        "externalId": "skozql4PMy",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——这个位置的结构会在每次运行时发生变化。*\n\n> 遗迹拥有多阶段的小头目战斗，敌人主题围绕该区域的元素装备，例如毒素遗迹中的调香师或火焰遗迹中的烈焰战车。",
+        "imagePath": "/game_map_pin/1377467/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/7d6f232d5b9f5c52bf81a4de2b42540fe8e94dfb"
+      }
+    },
+    {
+      "coordinates": [
+        35.15025847070635,
+        49.03797909658539
+      ],
+      "properties": {
+        "subcategoryExternalId": "ntHA9zxAlx",
+        "imageId": 1376377,
+        "videoId": 1376379,
+        "externalId": "m6uQEecO7u",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——这个位置的结构会在每次运行时发生变化。*\n\n> 遗迹拥有多阶段的小头目战斗，敌人主题围绕该区域的元素装备，例如毒素遗迹中的调香师或火焰遗迹中的烈焰战车。",
+        "imagePath": "/game_map_pin/1376377/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/d507c826d77a37e7c083cd0c328d377a716dc1df"
+      }
+    },
+    {
+      "coordinates": [
+        56.982302888058115,
+        60.66236678620737
+      ],
+      "properties": {
+        "subcategoryExternalId": "ntHA9zxAlx",
+        "imageId": 1377457,
+        "videoId": 1377458,
+        "externalId": "9Ksp0wE7As",
+        "title": "",
+        "description": "*注意：\n一个变化的地标——这个位置的结构会在每次运行时发生变化。*\n\n> 遗迹拥有多阶段的小头目战斗，敌人主题围绕该区域的元素装备，例如毒素遗迹中的调香师或火焰遗迹中的烈焰战车。",
+        "imagePath": "/game_map_pin/1377457/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/63ad5df139d9159d3aa19f99802588b5a41bab86"
+      }
+    },
+    {
+      "coordinates": [
+        41.55544675004242,
+        -53.96029580242675
+      ],
+      "properties": {
+        "subcategoryExternalId": "y9Rpbs6Wdb",
+        "imageId": 1373473,
+        "videoId": 1373474,
+        "externalId": "pB5WXH7iUI",
+        "title": "",
+        "description": "|**详情**|\n|-----------|\n|蕴含矿石的采矿隧道，用于锻造和升级武器装备。|\n> 隧道能可靠地提供锻造石，并有敌人以及深入地下的首领遭遇战。\n\n*注意：* 这是隧道的潜在生成区域之一。",
+        "imagePath": "/game_map_pin/1373473/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/1eb5fd6b1be47954c72038540cc1aad67004c08a"
+      }
+    },
+    {
+      "coordinates": [
+        0.3958282795601633,
+        -43.90911181536804
+      ],
+      "properties": {
+        "subcategoryExternalId": "y9Rpbs6Wdb",
+        "imageId": 1374069,
+        "videoId": 1374070,
+        "externalId": "BoQ5MNmzj4",
+        "title": "",
+        "description": "|**详情**|\n|-----------|\n|蕴含矿石的采矿隧道，用于锻造和升级武器装备。|\n> 隧道能可靠地提供锻造石，并有敌人以及深入地下的首领遭遇战。\n\n*注意：* 这是隧道的潜在生成区域之一。",
+        "imagePath": "/game_map_pin/1374069/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/b6417d7e83030452bd260789e3ea4a82c48d2a61"
+      }
+    },
+    {
+      "coordinates": [
+        -46.31612348088012,
+        20.482023070440988
+      ],
+      "properties": {
+        "subcategoryExternalId": "y9Rpbs6Wdb",
+        "imageId": 1374163,
+        "videoId": 1374164,
+        "externalId": "B4sKKhjM68",
+        "title": "",
+        "description": "|**详情**|\n|-----------|\n|蕴含矿石的采矿隧道，用于锻造和升级武器装备。|\n> 隧道能可靠地提供锻造石，并有敌人以及深入地下的首领遭遇战。\n\n*注意：* 这是隧道的潜在生成区域之一。",
+        "imagePath": "/game_map_pin/1374163/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/47e62de1b30da5fdb34b75a83b852d55336b839c"
+      }
+    },
+    {
+      "coordinates": [
+        -9.449276217533964,
+        44.29934112003164
+      ],
+      "properties": {
+        "subcategoryExternalId": "y9Rpbs6Wdb",
+        "imageId": 1377681,
+        "videoId": 1377682,
+        "externalId": "eyUSBZBUYp",
+        "title": "",
+        "description": "|**详情**|\n|-----------|\n|蕴含矿石的采矿隧道，用于锻造和升级武器装备。|\n> 隧道能可靠地提供锻造石，并有敌人以及深入地下的首领遭遇战。\n\n*注意：* 这是隧道的潜在生成区域之一。",
+        "imagePath": "/game_map_pin/1377681/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/f5caac7bc83b2622d60ddd305c8ebf65e74b9a9e"
+      }
+    },
+    {
+      "coordinates": [
+        -2.184997176300584,
+        45.74030926628197
+      ],
+      "properties": {
+        "subcategoryExternalId": "y9Rpbs6Wdb",
+        "imageId": 1377679,
+        "videoId": 1377680,
+        "externalId": "uRlNx1M4cB",
+        "title": "",
+        "description": "|**详情**|\n|-----------|\n|蕴含矿石的采矿隧道，用于锻造和升级武器装备。|\n> 隧道能可靠地提供锻造石，并有敌人以及深入地下的首领遭遇战。\n\n*注意：* 这是隧道的潜在生成区域之一。",
+        "imagePath": "/game_map_pin/1377679/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/ebc846c4ac4829fc4935dcbe983c7a049cc5598e"
+      }
+    },
+    {
+      "coordinates": [
+        30.542718694409473,
+        39.648856321886
+      ],
+      "properties": {
+        "subcategoryExternalId": "y9Rpbs6Wdb",
+        "imageId": 1376304,
+        "videoId": 1376305,
+        "externalId": "jBEDfBNgIs",
+        "title": "",
+        "description": "|**详情**|\n|-----------|\n|蕴含矿石的采矿隧道，用于锻造和升级武器装备。|\n> 隧道能可靠地提供锻造石，并有敌人以及深入地下的首领遭遇战。\n\n*注意：* 这是隧道的潜在生成区域之一。",
+        "imagePath": "/game_map_pin/1376304/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/959b751cf1c5ab5417705ae70d615f6dff2ea02e"
+      }
+    },
+    {
+      "coordinates": [
+        -9.054759118233221,
+        -12.3436641750951
+      ],
+      "properties": {
+        "subcategoryExternalId": "by63erbvPU",
+        "imageId": 1373044,
+        "videoId": 1373045,
+        "externalId": "FTMEhK0HCV",
+        "title": "",
+        "description": "> 城堡是多层区域，充满敌人、多个首领和大量宝箱。它们具有挑战性但回报丰厚，特别是在中后期等级。\n>> *注意：* 击败潜伏在城堡中的首领。击败它后，身后的门将会打开。爬上去从宝箱中获取你的奖励。",
+        "imagePath": "/game_map_pin/1373044/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/31c1e74fdc32f9705ed356e0beae37125c2c0026"
+      }
+    },
+    {
+      "coordinates": [
+        -13.455590281276528,
+        -50.731164113836634
+      ],
+      "properties": {
+        "subcategoryExternalId": "G7GfnZH0mw",
+        "imageId": 1374915,
+        "videoId": 1374916,
+        "externalId": "RXfeDKUof4",
+        "title": "",
+        "description": "> **注意：** 野外首领在每次刷新时可能出现在不同位置，这是其中一个可能的刷新区域。",
+        "imagePath": "/game_map_pin/1374915/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/f981a7d988965d4a176d63663d4bb0a2d55e3a19"
+      }
+    },
+    {
+      "coordinates": [
+        -29.006302218644265,
+        10.56148624982977
+      ],
+      "properties": {
+        "subcategoryExternalId": "G7GfnZH0mw",
+        "imageId": 1376894,
+        "videoId": 1376895,
+        "externalId": "SztV05mJxf",
+        "title": "",
+        "description": "> **注意：** 野外首领在每次刷新时可能出现在不同位置，这是其中一个可能的刷新区域。",
+        "imagePath": "/game_map_pin/1376894/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/4b44216a3c81c1dfd9e6fce93e263d62e36df05f"
+      }
+    },
+    {
+      "coordinates": [
+        -80.64031012923564,
+        55.596946784563016
+      ],
+      "properties": {
+        "subcategoryExternalId": "G7GfnZH0mw",
+        "imageId": 1376901,
+        "videoId": 1376902,
+        "externalId": "H4HUSKSg4G",
+        "title": "",
+        "description": "> **注意：** 野外首领在每次刷新时可能出现在不同位置，这是其中一个可能的刷新区域。",
+        "imagePath": "/game_map_pin/1376901/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/18387d4913b1f146b9db4deda424f098de9c6238"
+      }
+    },
+    {
+      "coordinates": [
+        -61.25147917408661,
+        63.286499437853735
+      ],
+      "properties": {
+        "subcategoryExternalId": "G7GfnZH0mw",
+        "imageId": 1374925,
+        "videoId": 1374926,
+        "externalId": "MjyrKMd7Yl",
+        "title": "",
+        "description": "> **注意：** 野外首领在每次刷新时可能出现在不同位置，这是其中一个可能的刷新区域。",
+        "imagePath": "/game_map_pin/1374925/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/093e71bcd794a10a734e2c4a416e4db914577bc0"
+      }
+    },
+    {
+      "coordinates": [
+        -46.57374479908751,
+        59.14323883451337
+      ],
+      "properties": {
+        "subcategoryExternalId": "G7GfnZH0mw",
+        "imageId": 1374932,
+        "videoId": 1374933,
+        "externalId": "82sM3KoAhL",
+        "title": "",
+        "description": "> **注意：** 野外首领在每次刷新时可能出现在不同位置，这是其中一个可能的刷新区域。",
+        "imagePath": "/game_map_pin/1374932/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/1c96a0d469ca7010186b3b1ce5c83541910e41ca"
+      }
+    },
+    {
+      "coordinates": [
+        -52.31605464574318,
+        41.43203118516598
+      ],
+      "properties": {
+        "subcategoryExternalId": "G7GfnZH0mw",
+        "imageId": 1376897,
+        "videoId": 1376898,
+        "externalId": "lQy8GgwOfE",
+        "title": "",
+        "description": "> **注意：** 野外首领在每次刷新时可能出现在不同位置，这是其中一个可能的刷新区域。",
+        "imagePath": "/game_map_pin/1376897/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/4440b0052c3bae7a79dbe6c629ed01b58fe4a80a"
+      }
+    },
+    {
+      "coordinates": [
+        -49.672047589548356,
+        31.316651660731765
+      ],
+      "properties": {
+        "subcategoryExternalId": "G7GfnZH0mw",
+        "imageId": 1374944,
+        "videoId": 1374945,
+        "externalId": "mf8IU9K83x",
+        "title": "",
+        "description": "> **注意：** 野外首领在每次刷新时可能出现在不同位置，这是其中一个可能的刷新区域。",
+        "imagePath": "/game_map_pin/1374944/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/5041cfaef33580fa46c77edd68fa30dea1d8c14d"
+      }
+    },
+    {
+      "coordinates": [
+        72.54670058669114,
+        -4.049717871296522
+      ],
+      "properties": {
+        "subcategoryExternalId": "G7GfnZH0mw",
+        "imageId": 1378729,
+        "videoId": 1378730,
+        "externalId": "e9vGHtvTBH",
+        "title": "",
+        "description": "> **注意：** 野外首领在每次刷新时可能出现在不同位置，这是其中一个可能的刷新区域。",
+        "imagePath": "/game_map_pin/1378729/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/c1f4a71aeab4a0574d46c13bf521bb1f5cd1713d"
+      }
+    },
+    {
+      "coordinates": [
+        53.25585787889466,
+        -59.855706324672994
+      ],
+      "properties": {
+        "subcategoryExternalId": "G7GfnZH0mw",
+        "imageId": 1378671,
+        "videoId": 1378672,
+        "externalId": "iIzITxk1MO",
+        "title": "",
+        "description": "> **注意：** 野外首领在每次刷新时可能出现在不同位置，这是其中一个可能的刷新区域。",
+        "imagePath": "/game_map_pin/1378671/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/c6e90d47ef12c5836c1f1cfed24fc978e3b1af70"
+      }
+    },
+    {
+      "coordinates": [
+        -52.92571615244131,
+        -64.58532238378945
+      ],
+      "properties": {
+        "subcategoryExternalId": "G7GfnZH0mw",
+        "imageId": 1374911,
+        "videoId": 1374912,
+        "externalId": "1soPFOhau9",
+        "title": "",
+        "description": "> **注意：** 野外首领在每次刷新时可能出现在不同位置，这是其中一个可能的刷新区域。",
+        "imagePath": "/game_map_pin/1374911/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/ec16be486e265f745186f6ed34a5c1f11fdffabf"
+      }
+    },
+    {
+      "coordinates": [
+        -5.669979342533509,
+        35.19969063645573
+      ],
+      "properties": {
+        "subcategoryExternalId": "G7GfnZH0mw",
+        "imageId": 1373910,
+        "videoId": 1373911,
+        "externalId": "07IShjimgB",
+        "title": "",
+        "description": "> **注意：** 野外首领在每次刷新时可能出现在不同位置，这是其中一个可能的刷新区域。",
+        "imagePath": "/game_map_pin/1373910/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/4c1884b7fa2a6847f73ae18225a7ed914b1dcc2d"
+      }
+    },
+    {
+      "coordinates": [
+        36.91119182922327,
+        61.400186209107204
+      ],
+      "properties": {
+        "subcategoryExternalId": "G7GfnZH0mw",
+        "imageId": 1378689,
+        "videoId": 1378690,
+        "externalId": "ofhmPQJcu4",
+        "title": "",
+        "description": "> **注意：** 野外首领在每次刷新时可能出现在不同位置，这是其中一个可能的刷新区域。",
+        "imagePath": "/game_map_pin/1378689/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/b90d25f13416bc638dafbc7ebada0bc112f117a3"
+      }
+    },
+    {
+      "coordinates": [
+        10.146540861342885,
+        28.975601292142258
+      ],
+      "properties": {
+        "subcategoryExternalId": "G7GfnZH0mw",
+        "imageId": 1378765,
+        "videoId": 1378766,
+        "externalId": "q7JzLfKCqp",
+        "title": "",
+        "description": "> **注意：** 野外首领在每次刷新时可能出现在不同位置，这是其中一个可能的刷新区域。",
+        "imagePath": "/game_map_pin/1378765/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/6f0302d03dfa0b02e59124191724f1b437c71623"
+      }
+    },
+    {
+      "coordinates": [
+        3.4617740452266332,
+        5.172203128143096
+      ],
+      "properties": {
+        "subcategoryExternalId": "G7GfnZH0mw",
+        "imageId": 1374010,
+        "videoId": 1374011,
+        "externalId": "rZXNRVCaUB",
+        "title": "",
+        "description": "> **注意：**此野外首领只能在张口巨颚远征中找到。",
+        "imagePath": "/game_map_pin/1374010/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/502940a8b28eb78963e42494df9d1a26d7ec18df"
+      }
+    },
+    {
+      "coordinates": [
+        -14.366617019871086,
+        30.391039814463298
+      ],
+      "properties": {
+        "externalId": "RMgujagQj6",
+        "title": "",
+        "description": "> 永恒监牢需要石剑钥匙，可从商人处购买或掉落获得（通常在隧道中）。解锁后可与召唤的Boss战斗，获得大量经验值和奖励选择。",
+        "subcategoryExternalId": "AIW0AzWsbm",
+        "imageId": 1621152,
+        "imagePath": "/game_map_pin/1621152/{size}.webp",
+        "videoId": 1621153,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/3a4c5994f2fc4a20d7ee7380bcc0afd724f4a257"
+      }
+    },
+    {
+      "coordinates": [
+        -89.31367871125853,
+        43.5751738965599
+      ],
+      "properties": {
+        "subcategoryExternalId": "AIW0AzWsbm",
+        "imageId": 1373074,
+        "videoId": 1373075,
+        "externalId": "qZPAo2MJXW",
+        "title": "",
+        "description": "> 永恒监牢需要石剑钥匙，可从商人处购买或掉落获得（通常在隧道中）。解锁后可与召唤的Boss战斗，获得大量经验值和奖励选择。",
+        "imagePath": "/game_map_pin/1373074/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/a606b0b13d1fc80b7adc83866c767e3a87cf94b8"
+      }
+    },
+    {
+      "coordinates": [
+        -4.726200218272481,
+        62.89669162325686
+      ],
+      "properties": {
+        "subcategoryExternalId": "AIW0AzWsbm",
+        "imageId": 1373319,
+        "videoId": 1373320,
+        "externalId": "itY8Xme2Rq",
+        "title": "",
+        "description": "> 永恒监牢需要石剑钥匙，可从商人处购买或掉落获得（通常在隧道中）。解锁后可与召唤的Boss战斗，获得大量经验值和奖励选择。",
+        "imagePath": "/game_map_pin/1373319/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/3811631d0040fee380939f8df14c269e74c9fb42"
+      }
+    },
+    {
+      "coordinates": [
+        -41.50280463592199,
+        -33.65295134133338
+      ],
+      "properties": {
+        "subcategoryExternalId": "AIW0AzWsbm",
+        "imageId": 1373021,
+        "videoId": 1373022,
+        "externalId": "iN1qGKxhjq",
+        "title": "",
+        "description": "> 永恒监牢需要石剑钥匙，可从商人处购买或掉落获得（通常在隧道中）。解锁后可与召唤的Boss战斗，获得大量经验值和奖励选择。",
+        "imagePath": "/game_map_pin/1373021/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/d2e2e3599e049c503c3be06a7ce461c765cd7845"
+      }
+    },
+    {
+      "coordinates": [
+        32.710812081223565,
+        -58.02048270931955
+      ],
+      "properties": {
+        "subcategoryExternalId": "AIW0AzWsbm",
+        "imageId": 1373467,
+        "videoId": 1373468,
+        "externalId": "AbTcS3bDqq",
+        "title": "",
+        "description": "> 永恒监牢需要石剑钥匙，可从商人处购买或掉落获得（通常在隧道中）。解锁后可与召唤的Boss战斗，获得大量经验值和奖励选择。",
+        "imagePath": "/game_map_pin/1373467/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/96ec9e7cb8a18867713755cd7e65b9fa0d2b0246"
+      }
+    },
+    {
+      "coordinates": [
+        78.49831424196918,
+        4.294239222204283
+      ],
+      "properties": {
+        "subcategoryExternalId": "AIW0AzWsbm",
+        "imageId": 1374852,
+        "videoId": 1374853,
+        "externalId": "8WeCQWfGf9",
+        "title": "",
+        "description": "> 永恒监牢需要石剑钥匙，可从商人处购买或掉落获得（通常在隧道中）。解锁后可与召唤的Boss战斗，获得大量经验值和奖励选择。",
+        "imagePath": "/game_map_pin/1374852/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/4b7dc4f89c0520d17882f3f6c106efee39173733"
+      }
+    },
+    {
+      "coordinates": [
+        35.57727358857025,
+        35.049420489117225
+      ],
+      "properties": {
+        "subcategoryExternalId": "AIW0AzWsbm",
+        "imageId": 1376301,
+        "videoId": 1376302,
+        "externalId": "H7qfkP6cPD",
+        "title": "",
+        "description": "> 永恒监牢需要石剑钥匙，可从商人处购买或掉落获得（通常在隧道中）。解锁后可与召唤的Boss战斗，获得大量经验值和奖励选择。",
+        "imagePath": "/game_map_pin/1376301/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/e49428ce90703e8312a09126a1d922b9c9954a86"
+      }
+    },
+    {
+      "coordinates": [
+        -83.74361743063228,
+        -48.24526739847686
+      ],
+      "properties": {
+        "subcategoryExternalId": "bqbWcoymQB",
+        "imageId": 1374131,
+        "videoId": 1374132,
+        "externalId": "1WTVTOkbIG",
+        "title": "",
+        "description": "> 一个通常有商人驻扎的小村庄。商人出售锻造石、消耗品以及精选的装备和器具。\n\n*注意：\n这是一个变化的地标——此位置的建筑结构在每次游戏中都会发生变化。*",
+        "imagePath": "/game_map_pin/1374131/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/e5b27904ebfd9aacefe3ff0aff053ed87fbeb01b"
+      }
+    },
+    {
+      "coordinates": [
+        12.07240788106995,
+        -35.886872941186105
+      ],
+      "properties": {
+        "subcategoryExternalId": "bqbWcoymQB",
+        "imageId": 1377712,
+        "videoId": 1377713,
+        "externalId": "bBLgbyHPas",
+        "title": "",
+        "description": "> 一个通常有商人驻扎的小村庄。商人出售锻造石、消耗品以及精选的装备和器具。\n\n*注意：\n这是一个变化的地标——此位置的建筑结构在每次游戏中都会发生变化。*",
+        "imagePath": "/game_map_pin/1377712/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/4ecaf03bab7394f67ef1f253ceec30bc4c2b7229"
+      }
+    },
+    {
+      "coordinates": [
+        50.679344221645295,
+        33.06310166285108
+      ],
+      "properties": {
+        "subcategoryExternalId": "bqbWcoymQB",
+        "imageId": 1377663,
+        "videoId": 1377664,
+        "externalId": "GruJaIKjfl",
+        "title": "",
+        "description": "> 一个通常有商人驻扎的小村庄。商人出售锻造石、消耗品以及精选的装备和器具。\n\n*注意：\n这是一个变化的地标——此位置的建筑结构在每次游戏中都会发生变化。*",
+        "imagePath": "/game_map_pin/1377663/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/462896c5d946d233b11d7a97b13c7290373ec708"
+      }
+    },
+    {
+      "coordinates": [
+        -85.25621818570224,
+        -48.62479355268807
+      ],
+      "properties": {
+        "subcategoryExternalId": "lmvDraPFqr",
+        "imageId": 1374197,
+        "videoId": 1374198,
+        "externalId": "86d0Sow61Z",
+        "title": "",
+        "description": "> 一个小教堂，总是包含一个神圣药瓶升级。与祭坛互动可以将药瓶使用次数增加1。每次远征至少有三个教堂，优先在第三个夜晚之前访问它们。\n\n*注意：\n一个变化的地标——此位置的结构在每次游戏中都会发生变化。*",
+        "imagePath": "/game_map_pin/1374197/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/cf74d496035d2c1d1a013674700d0ee055af8041"
+      }
+    },
+    {
+      "coordinates": [
+        -78.72894932874861,
+        -15.40497547444842
+      ],
+      "properties": {
+        "subcategoryExternalId": "lmvDraPFqr",
+        "imageId": 1374143,
+        "videoId": 1374144,
+        "externalId": "cuL0gSiHYw",
+        "title": "",
+        "description": "> 一个小教堂，总是包含一个神圣药瓶升级。与祭坛互动可以将药瓶使用次数增加1。每次远征至少有三个教堂，优先在第三个夜晚之前访问它们。\n\n*注意：\n一个变化的地标——此位置的结构在每次游戏中都会发生变化。*",
+        "imagePath": "/game_map_pin/1374143/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/7b554b4061e45e62d15a0ad66e4115f3c3a4ad02"
+      }
+    },
+    {
+      "coordinates": [
+        -9.881140744116578,
+        -50.07615374989179
+      ],
+      "properties": {
+        "subcategoryExternalId": "lmvDraPFqr",
+        "imageId": 1374138,
+        "videoId": 1374139,
+        "externalId": "DWle6TOo8w",
+        "title": "",
+        "description": "> 一个小教堂，总是包含一个神圣药瓶升级。与祭坛互动可以将药瓶使用次数增加1。每次远征至少有三个教堂，优先在第三个夜晚之前访问它们。\n\n*注意：\n一个变化的地标——此位置的结构在每次游戏中都会发生变化。*",
+        "imagePath": "/game_map_pin/1374138/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/55997a9b32205bb03dcc6cc6f2a42104ffe8eefc"
+      }
+    },
+    {
+      "coordinates": [
+        18.411849138838875,
+        -64.86989070835715
+      ],
+      "properties": {
+        "subcategoryExternalId": "lmvDraPFqr",
+        "imageId": 1375978,
+        "videoId": 1375979,
+        "externalId": "ZilqN6FEYT",
+        "title": "",
+        "description": "> 一个小教堂，总是包含一个神圣药瓶升级。与祭坛互动可以将药瓶使用次数增加1。每次远征至少有三个教堂，优先在第三个夜晚之前访问它们。\n\n*注意：\n一个变化的地标——此位置的结构在每次游戏中都会发生变化。*",
+        "imagePath": "/game_map_pin/1375978/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/f2d0298ce9dd7c0c337d5a2adf29e3d0ec8902c5"
+      }
+    },
+    {
+      "coordinates": [
+        85.35613340416302,
+        -24.37288786980575
+      ],
+      "properties": {
+        "subcategoryExternalId": "lmvDraPFqr",
+        "imageId": 1377762,
+        "videoId": 1377763,
+        "externalId": "UsgP840ZG0",
+        "title": "",
+        "description": "> 一个小教堂，总是包含一个神圣药瓶升级。与祭坛互动可以将药瓶使用次数增加1。每次远征至少有三个教堂，优先在第三个夜晚之前访问它们。\n\n*注意：\n一个变化的地标——此位置的结构在每次游戏中都会发生变化。*",
+        "imagePath": "/game_map_pin/1377762/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/2187fb15d8ac6e1f144292868f081296fc7db41c"
+      }
+    },
+    {
+      "coordinates": [
+        52.38732368040132,
+        34.089201732988684
+      ],
+      "properties": {
+        "subcategoryExternalId": "lmvDraPFqr",
+        "imageId": 1376380,
+        "videoId": 1376381,
+        "externalId": "G1bNJeOaXl",
+        "title": "",
+        "description": "> 一个小教堂，总是包含一个神圣药瓶升级。与祭坛互动可以将药瓶使用次数增加1。每次远征至少有三个教堂，优先在第三个夜晚之前访问它们。\n\n*注意：\n一个变化的地标——此位置的结构在每次游戏中都会发生变化。*",
+        "imagePath": "/game_map_pin/1376380/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/bc5d6a1aff8d36a860665ee21e7cb21780583690"
+      }
+    },
+    {
+      "coordinates": [
+        75.05257763103378,
+        34.39702628832919
+      ],
+      "properties": {
+        "subcategoryExternalId": "lmvDraPFqr",
+        "imageId": 1376347,
+        "videoId": 1376348,
+        "externalId": "OCGT1RdtJA",
+        "title": "",
+        "description": "> 一个小教堂，总是包含一个神圣药瓶升级。与祭坛互动可以将药瓶使用次数增加1。每次远征至少有三个教堂，优先在第三个夜晚之前访问它们。\n\n*注意：\n一个变化的地标——此位置的结构在每次游戏中都会发生变化。*",
+        "imagePath": "/game_map_pin/1376347/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/5adbbadc43b0059df779ae933ecd2c750a1207d8"
+      }
+    },
+    {
+      "coordinates": [
+        9.947453946335145,
+        59.57036133583591
+      ],
+      "properties": {
+        "subcategoryExternalId": "lmvDraPFqr",
+        "imageId": 1377660,
+        "videoId": 1377661,
+        "externalId": "wKtKh9TlHI",
+        "title": "",
+        "description": "> 一个小教堂，总是包含一个神圣药瓶升级。与祭坛互动可以将药瓶使用次数增加1。每次远征至少有三个教堂，优先在第三个夜晚之前访问它们。\n\n*注意：\n一个变化的地标——此位置的结构在每次游戏中都会发生变化。*",
+        "imagePath": "/game_map_pin/1377660/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/ee513a99a706475beba98b0dbe3e8633daff9c95"
+      }
+    },
+    {
+      "coordinates": [
+        -35.23554678230454,
+        25.958325643534693
+      ],
+      "properties": {
+        "subcategoryExternalId": "lmvDraPFqr",
+        "imageId": 1374145,
+        "videoId": 1374146,
+        "externalId": "jyY0B70KIU",
+        "title": "",
+        "description": "> 一个小教堂，总是包含一个神圣药瓶升级。与祭坛互动可以将药瓶使用次数增加1。每次远征至少有三个教堂，优先在第三个夜晚之前访问它们。\n\n*注意：\n一个变化的地标——此位置的结构在每次游戏中都会发生变化。*",
+        "imagePath": "/game_map_pin/1374145/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/76d4a2c9ab8a7f51c8ce6ec8e7f21090b8d914ac"
+      }
+    },
+    {
+      "coordinates": [
+        13.795266363353392,
+        -35.69261347583071
+      ],
+      "properties": {
+        "subcategoryExternalId": "lmvDraPFqr",
+        "imageId": 1374856,
+        "videoId": 1374857,
+        "externalId": "tHhWpeEeMX",
+        "title": "",
+        "description": "> 一个小教堂，总是包含一个神圣药瓶升级。与祭坛互动可以将药瓶使用次数增加1。每次远征至少有三个教堂，优先在第三个夜晚之前访问它们。\n\n*注意：\n一个变化的地标——此位置的结构在每次游戏中都会发生变化。*",
+        "imagePath": "/game_map_pin/1374856/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/b294831d9deb8ab990b8cd7eaf936af1d5ef75fb"
+      }
+    },
+    {
+      "coordinates": [
+        -84.39909474800972,
+        -49.45321391028267
+      ],
+      "properties": {
+        "subcategoryExternalId": "nd9gRyPruG",
+        "imageId": 1374711,
+        "videoId": 1374712,
+        "externalId": "Jso2eXwCUI",
+        "title": "",
+        "description": "> 法师之塔是一座门被封印的高塔。通过与附近的奇异物体互动（如小恶魔雕像、浮空符印、移动的树干）来解除封印，以到达顶部的特殊奖励。如果封印已开启，你的目标就在里面。\n\n*注意：\n这是一个变化的地标——此位置的建筑在每次运行时都会发生变化。*",
+        "imagePath": "/game_map_pin/1374711/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/682c6717840b0ef6c36cd0dade391295a8995709"
+      }
+    },
+    {
+      "coordinates": [
+        -72.11882591184525,
+        31.566204841125952
+      ],
+      "properties": {
+        "subcategoryExternalId": "nd9gRyPruG",
+        "imageId": 1374148,
+        "videoId": 1374149,
+        "externalId": "9waYrvhJeM",
+        "title": "",
+        "description": "打破前方伪装成雕像的纹章进入，在顶部获取奖励\n\n> 法师高塔是一座门被封印的塔楼。通过与附近的奇异物体互动（如小鬼雕像、漂浮符文、移动的树干）来解除封印，以到达顶部的特殊奖励。如果封印已开启，你的目标就在里面。\n\n*注意：\n变化的地标——此位置的结构会在每次游戏中发生变化。*",
+        "imagePath": "/game_map_pin/1374148/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/6d4f9ad2ca5d0f724a40525e8b6bcaf83f95477d"
+      }
+    },
+    {
+      "coordinates": [
+        -37.864399961402455,
+        24.612992771157664
+      ],
+      "properties": {
+        "subcategoryExternalId": "nd9gRyPruG",
+        "imageId": 1378544,
+        "videoId": 1378545,
+        "externalId": "gwM3YuYBxx",
+        "title": "",
+        "description": "> 法师之塔是一座门被封印的高塔。通过与附近的奇异物体互动（如小恶魔雕像、浮空符印、移动的树干）来解除封印，以到达顶部的特殊奖励。如果封印已开启，你的目标就在里面。\n\n*注意：\n这是一个变化的地标——此位置的建筑在每次运行时都会发生变化。*",
+        "imagePath": "/game_map_pin/1378544/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/6ebe025c6b28a1c5e02f7b9a669d4a88aafbe120"
+      }
+    },
+    {
+      "coordinates": [
+        11.648340230246902,
+        59.211963793208156
+      ],
+      "properties": {
+        "subcategoryExternalId": "nd9gRyPruG",
+        "imageId": 1377675,
+        "videoId": 1377676,
+        "externalId": "BPvO0R67Cd",
+        "title": "",
+        "description": "破坏伪装成物体的徽章进入，在顶部获取奖励\n\n> 法师高塔是一座有封印门的塔楼。通过与附近的异常物体互动（如小鬼雕像、浮动符印、移动的树干）来解除封印，以到达顶部的特殊奖励。如果封印已开启，你的目标就在里面。\n\n*注意：\n变化的地标——此位置的结构在每次游戏中都会变化。*",
+        "imagePath": "/game_map_pin/1377675/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/36bd541968c0abd26cb4ba721cca56f728f73132"
+      }
+    },
+    {
+      "coordinates": [
+        52.279074175635316,
+        32.01955121781896
+      ],
+      "properties": {
+        "subcategoryExternalId": "nd9gRyPruG",
+        "imageId": 1377824,
+        "videoId": 1377825,
+        "externalId": "FtqhIyWO4L",
+        "title": "",
+        "description": "打破伪装成物体的徽章进入，在顶部获得奖励\n\n> 法师高塔是一座有封印门的塔楼。通过与附近的异常物体互动（例如小恶魔雕像、漂浮符印、移动的树干）来解除封印，以到达顶部的特殊奖励。如果封印已开启，你的目标就在里面。\n\n*注意：\n移动地标 —— 此位置的结构会随着每次游戏而改变。*",
+        "imagePath": "/game_map_pin/1377824/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/e1800de0b79fc6e19587101d0ca632359e1cd086"
+      }
+    },
+    {
+      "coordinates": [
+        11.365431643317322,
+        -34.41047292997986
+      ],
+      "properties": {
+        "subcategoryExternalId": "nd9gRyPruG",
+        "imageId": 1372921,
+        "videoId": 1372922,
+        "externalId": "jKyztRaPOq",
+        "title": "",
+        "description": "打破伪装成物体的徽章进入，在顶部获得奖励\n\n> 法师高塔是一座有封印门的塔楼。通过与附近的异常物体互动（例如小恶魔雕像、漂浮符印、移动的树干）来解除封印，以到达顶部的特殊奖励。如果封印已开启，你的目标就在里面。\n\n*注意：\n移动地标 —— 此位置的结构会随着每次游戏而改变。*",
+        "imagePath": "/game_map_pin/1372921/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/4970b7959f105d8a2c75b52655bec0b483383339"
+      }
+    },
+    {
+      "coordinates": [
+        -11.071826355469,
+        -50.94254921487065
+      ],
+      "properties": {
+        "subcategoryExternalId": "nd9gRyPruG",
+        "imageId": 1377953,
+        "videoId": 1377954,
+        "externalId": "LDfHtO7tIP",
+        "title": "",
+        "description": "打破这片水域下的封印，通往塔顶的道路就会显现。在那里，你的奖励等待着你。\n\n> 法师高塔是一座有着封印门的塔楼。通过与附近的异常物体互动（例如小鬼雕像、漂浮符文、移动的树干）来解除封印，以到达顶部的特殊奖励。如果封印已开启，你的目标就在里面。\n\n*注意：\n移动地标——此位置的建筑会随着每次游戏而变化。*",
+        "imagePath": "/game_map_pin/1377953/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/92249e586dbcf7f93a1a4ee47fc823a3658e0ac3"
+      }
+    },
+    {
+      "coordinates": [
+        17.9175239488857,
+        -65.63202027276309
+      ],
+      "properties": {
+        "subcategoryExternalId": "nd9gRyPruG",
+        "imageId": 1377859,
+        "videoId": 1377860,
+        "externalId": "n2ncDTMQR6",
+        "title": "",
+        "description": "打破伪装成物体的徽章进入，在顶部获得奖励\n\n> 法师高塔是一座有封印门的塔楼。通过与附近的异常物体互动（例如小恶魔雕像、漂浮符印、移动的树干）来解除封印，以到达顶部的特殊奖励。如果封印已开启，你的目标就在里面。\n\n*注意：\n移动地标 —— 此位置的结构会随着每次游戏而改变。*",
+        "imagePath": "/game_map_pin/1377859/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/f2285281d266a33cdb56e2aa477d05f6ee22ab02"
+      }
+    },
+    {
+      "coordinates": [
+        83.89952117954334,
+        -23.389273509396617
+      ],
+      "properties": {
+        "subcategoryExternalId": "nd9gRyPruG",
+        "imageId": 1374850,
+        "videoId": 1374851,
+        "externalId": "IiicILxKEB",
+        "title": "",
+        "description": "打破伪装成物体的徽章进入，在顶部获得奖励\n\n> 法师高塔是一座有封印门的塔楼。通过与附近的异常物体互动（例如小恶魔雕像、漂浮符印、移动的树干）来解除封印，以到达顶部的特殊奖励。如果封印已开启，你的目标就在里面。\n\n*注意：\n移动地标 —— 此位置的结构会随着每次游戏而改变。*",
+        "imagePath": "/game_map_pin/1374850/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/08342a2bfa40b785af78cc9a037ee3eb08fa46a1"
+      }
+    },
+    {
+      "coordinates": [
+        -73.5585964502783,
+        -41.64312981805241
+      ],
+      "properties": {
+        "subcategoryExternalId": "9eMyga1VVr",
+        "imageId": 1374078,
+        "videoId": 1374079,
+        "externalId": "ENtbCoe1Mn",
+        "title": "",
+        "description": "> 赐福点会完全恢复HP、FP，移除负面效果，并补满所有圣杯瓶的使用次数。与其互动来升级。",
+        "imagePath": "/game_map_pin/1374078/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/8e7298ed05839ded53ade999d75c235849110172"
+      }
+    },
+    {
+      "coordinates": [
+        -76.12506006390814,
+        -10.007043392402764
+      ],
+      "properties": {
+        "subcategoryExternalId": "9eMyga1VVr",
+        "imageId": 1373928,
+        "videoId": 1373929,
+        "externalId": "P0bHalPqgP",
+        "title": "",
+        "description": "> 赐福点会完全恢复HP、FP，移除负面效果，并补满所有圣杯瓶的使用次数。与其互动来升级。",
+        "imagePath": "/game_map_pin/1373928/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/bbd669aae811dcbd24aefd5292486afa20bd5f5b"
+      }
+    },
+    {
+      "coordinates": [
+        -34.538870605969976,
+        31.44390026907142
+      ],
+      "properties": {
+        "subcategoryExternalId": "9eMyga1VVr",
+        "imageId": 1373886,
+        "videoId": 1373887,
+        "externalId": "c9BpW7gKx5",
+        "title": "",
+        "description": "> 赐福点会完全恢复HP、FP，移除负面效果，并补满所有圣杯瓶的使用次数。与其互动来升级。",
+        "imagePath": "/game_map_pin/1373886/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/cf2b76e4bd2cce79d595488988a076bf088d26e6"
+      }
+    },
+    {
+      "coordinates": [
+        -68.37819997511504,
+        41.670735176695786
+      ],
+      "properties": {
+        "subcategoryExternalId": "9eMyga1VVr",
+        "imageId": 1374107,
+        "videoId": 1374108,
+        "externalId": "gAudtye5rH",
+        "title": "",
+        "description": "> 赐福点会完全恢复HP、FP，移除负面效果，并补满所有圣杯瓶的使用次数。与其互动来升级。",
+        "imagePath": "/game_map_pin/1374107/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/1fa69377a2fdbcf2fd02425facc5b8ed7e3753f3"
+      }
+    },
+    {
+      "coordinates": [
+        -78.92232970554804,
+        60.38440907049255
+      ],
+      "properties": {
+        "subcategoryExternalId": "9eMyga1VVr",
+        "imageId": 1373949,
+        "videoId": 1373950,
+        "externalId": "HJaUDRgk2k",
+        "title": "",
+        "description": "> 赐福点会完全恢复HP、FP，移除负面效果，并补满所有圣杯瓶的使用次数。与其互动来升级。",
+        "imagePath": "/game_map_pin/1373949/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/69c970437dfd39a314d2114ca348bce48a435769"
+      }
+    },
+    {
+      "coordinates": [
+        6.431828946324828,
+        56.85206087133702
+      ],
+      "properties": {
+        "subcategoryExternalId": "9eMyga1VVr",
+        "imageId": 1377461,
+        "videoId": 1377462,
+        "externalId": "Hlrkn0jK93",
+        "title": "",
+        "description": "> 赐福点会完全恢复HP、FP，移除负面效果，并补满所有圣杯瓶的使用次数。与其互动来升级。",
+        "imagePath": "/game_map_pin/1377461/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/1e725e84a05bd225eff4cc1b96c3871c530bceca"
+      }
+    },
+    {
+      "coordinates": [
+        -9.63434860485421,
+        4.736043536500887
+      ],
+      "properties": {
+        "subcategoryExternalId": "9eMyga1VVr",
+        "imageId": 1373882,
+        "videoId": 1373883,
+        "externalId": "SgZkDNPsd0",
+        "title": "",
+        "description": "> 赐福点会完全恢复HP、FP，移除负面效果，并补满所有圣杯瓶的使用次数。与其互动来升级。",
+        "imagePath": "/game_map_pin/1373882/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/b4130fead2225e0028884724409e6e51232d44c3"
+      }
+    },
+    {
+      "coordinates": [
+        7.964105623492372,
+        -40.384679502642626
+      ],
+      "properties": {
+        "subcategoryExternalId": "9eMyga1VVr",
+        "imageId": 1373782,
+        "videoId": 1373783,
+        "externalId": "0Mufae90vF",
+        "title": "",
+        "description": "> 赐福点会完全恢复HP、FP，移除负面效果，并补满所有圣杯瓶的使用次数。与其互动来升级。",
+        "imagePath": "/game_map_pin/1373782/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/bebda22b66d5d8aa82bdfe1a7a4b34dfbcc9c96b"
+      }
+    },
+    {
+      "coordinates": [
+        0.10240564578168687,
+        -47.14488309341502
+      ],
+      "properties": {
+        "subcategoryExternalId": "9eMyga1VVr",
+        "imageId": 1374067,
+        "videoId": 1374068,
+        "externalId": "2VKL9aiOzy",
+        "title": "",
+        "description": "> 赐福点会完全恢复HP、FP，移除负面效果，并补满所有圣杯瓶的使用次数。与其互动来升级。",
+        "imagePath": "/game_map_pin/1374067/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/dcacc83ce419fe17f0c222ba26936ab4d1963198"
+      }
+    },
+    {
+      "coordinates": [
+        -18.51486968816215,
+        -49.70872056160193
+      ],
+      "properties": {
+        "subcategoryExternalId": "9eMyga1VVr",
+        "imageId": 1372885,
+        "videoId": 1372886,
+        "externalId": "vPanlnV6bN",
+        "title": "",
+        "description": "> 赐福点会完全恢复HP、FP，移除负面效果，并补满所有圣杯瓶的使用次数。与其互动来升级。",
+        "imagePath": "/game_map_pin/1372885/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/6e0dfa6d5d75bd9a41f20c8c378b28b33a55138e"
+      }
+    },
+    {
+      "coordinates": [
+        16.253840088888126,
+        -56.53410313795723
+      ],
+      "properties": {
+        "subcategoryExternalId": "9eMyga1VVr",
+        "imageId": 1374062,
+        "videoId": 1374063,
+        "externalId": "2lAWJVBQHb",
+        "title": "",
+        "description": "> 赐福点会完全恢复HP、FP，移除负面效果，并补满所有圣杯瓶的使用次数。与其互动来升级。",
+        "imagePath": "/game_map_pin/1374062/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/9aa276a5ad1f2c71ec55848162e3dd85aeb78841"
+      }
+    },
+    {
+      "coordinates": [
+        75.86091433282667,
+        -22.937787115156837
+      ],
+      "properties": {
+        "subcategoryExternalId": "9eMyga1VVr",
+        "imageId": 1374076,
+        "videoId": 1374077,
+        "externalId": "wLt0BeyiZO",
+        "title": "",
+        "description": "> 赐福点会完全恢复HP、FP，移除负面效果，并补满所有圣杯瓶的使用次数。与其互动来升级。",
+        "imagePath": "/game_map_pin/1374076/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/03c6fa5b6211497c7792c4e6c03ef42674edd985"
+      }
+    },
+    {
+      "coordinates": [
+        22.818493391685678,
+        -4.391954728824771
+      ],
+      "properties": {
+        "subcategoryExternalId": "9eMyga1VVr",
+        "imageId": 1373786,
+        "videoId": 1373787,
+        "externalId": "J9h4suJOnG",
+        "title": "",
+        "description": "> 赐福点会完全恢复HP、FP，移除负面效果，并补满所有圣杯瓶的使用次数。与其互动来升级。",
+        "imagePath": "/game_map_pin/1373786/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/4b65e19b563d9a0e26a4061e182dc1126e790147"
+      }
+    },
+    {
+      "coordinates": [
+        42.5556325836053,
+        25.489193804576374
+      ],
+      "properties": {
+        "subcategoryExternalId": "9eMyga1VVr",
+        "imageId": 1373792,
+        "videoId": 1373793,
+        "externalId": "X6dOEY6WVq",
+        "title": "",
+        "description": "> 赐福点会完全恢复HP、FP，移除负面效果，并补满所有圣杯瓶的使用次数。与其互动来升级。",
+        "imagePath": "/game_map_pin/1373792/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/b47aee3eef257f805aa3bf8aa8f4d6abfa2572e9"
+      }
+    },
+    {
+      "coordinates": [
+        64.41781200603211,
+        33.37558383158266
+      ],
+      "properties": {
+        "subcategoryExternalId": "9eMyga1VVr",
+        "imageId": 1376351,
+        "videoId": 1376352,
+        "externalId": "F1JJ8GjKZF",
+        "title": "",
+        "description": "> 赐福点会完全恢复HP、FP，移除负面效果，并补满所有圣杯瓶的使用次数。与其互动来升级。",
+        "imagePath": "/game_map_pin/1376351/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/b089b187d249b59a70dea67cc400ae2c794a0e4a"
+      }
+    },
+    {
+      "coordinates": [
+        54.82551155208034,
+        -57.35368947188905
+      ],
+      "properties": {
+        "subcategoryExternalId": "uUc5TVOO66",
+        "imageId": 1373483,
+        "videoId": 1373484,
+        "externalId": "ZlLCcn8DTK",
+        "title": "",
+        "description": "> 六棵幽灵鹰树和六条蓝色缥缈线条环绕着林维尔德中心。与树木互动会将你沿着它的幽灵道路提升到空中。",
+        "imagePath": "/game_map_pin/1373483/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/151852dbd717c4154bedae6a72ef8fd8c0dad9ae"
+      }
+    },
+    {
+      "coordinates": [
+        57.98670712959398,
+        41.09662431696768
+      ],
+      "properties": {
+        "subcategoryExternalId": "uUc5TVOO66",
+        "imageId": 1373461,
+        "videoId": 1373462,
+        "externalId": "xrboPxX4E8",
+        "title": "",
+        "description": "> 六棵幽灵鹰树和六条蓝色缥缈线条环绕着林维尔德中心。与树木互动会将你沿着它的幽灵道路提升到空中。",
+        "imagePath": "/game_map_pin/1373461/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/30abcdbd98514c9725a201d9a90a7ca8126e8a2c"
+      }
+    },
+    {
+      "coordinates": [
+        6.8738469178459525,
+        -47.814906259933835
+      ],
+      "properties": {
+        "subcategoryExternalId": "uUc5TVOO66",
+        "imageId": 1374065,
+        "videoId": 1374066,
+        "externalId": "N3Jo3jIluk",
+        "title": "",
+        "description": "> 六棵幽灵鹰树和六条蓝色缥缈线条环绕着林维尔德中心。与树木互动会将你沿着它的幽灵道路提升到空中。",
+        "imagePath": "/game_map_pin/1374065/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/07ec0eb74ae8550beda85b7df0c259dca5549778"
+      }
+    },
+    {
+      "coordinates": [
+        -54.784820889544704,
+        3.489580996817608
+      ],
+      "properties": {
+        "subcategoryExternalId": "uUc5TVOO66",
+        "imageId": 1373302,
+        "videoId": 1373303,
+        "externalId": "vMbapWb2AO",
+        "title": "",
+        "description": "> 六棵幽灵鹰树和六条蓝色缥缈线条环绕着林维尔德中心。与树木互动会将你沿着它的幽灵道路提升到空中。",
+        "imagePath": "/game_map_pin/1373302/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/c86a9ef05eff540df84a26e2dca4aafaf2f79c79"
+      }
+    },
+    {
+      "coordinates": [
+        26.902473848523613,
+        36.61693333745784
+      ],
+      "properties": {
+        "subcategoryExternalId": "uUc5TVOO66",
+        "imageId": 1376317,
+        "videoId": 1376318,
+        "externalId": "LoI8LkILQ5",
+        "title": "",
+        "description": "> 六棵幽灵鹰树和六条蓝色缥缈线条环绕着林维尔德中心。与树木互动会将你沿着它的幽灵道路提升到空中。",
+        "imagePath": "/game_map_pin/1376317/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/df3f4e63af081af5800100a531db66d7bdf888f4"
+      }
+    },
+    {
+      "coordinates": [
+        -39.45460417408751,
+        53.606821088625566
+      ],
+      "properties": {
+        "subcategoryExternalId": "uUc5TVOO66",
+        "imageId": 1373159,
+        "videoId": 1373160,
+        "externalId": "6m82I1Ulto",
+        "title": "",
+        "description": "> 六棵幽灵鹰树和六条蓝色缥缈线条环绕着林维尔德中心。与树木互动会将你沿着它的幽灵道路提升到空中。",
+        "imagePath": "/game_map_pin/1373159/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/a4908f751a0c4cf6889879f2948ba8b7477101ea"
+      }
+    },
+    {
+      "coordinates": [
+        -83.24922558625867,
+        43.25596159104521
+      ],
+      "properties": {
+        "subcategoryExternalId": "VJSGrkH1kr",
+        "imageId": 1373072,
+        "videoId": 1373073,
+        "externalId": "PuoyjinPnn",
+        "title": "",
+        "description": "> 灵流让夜行者能够跳跃到很高的地方，攀爬原本无法到达的悬崖。通过面向目标方向或在空中使用移动摇杆来控制方向。",
+        "imagePath": "/game_map_pin/1373072/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/e32eb47393000452d4783feb981180d54587d883"
+      }
+    },
+    {
+      "coordinates": [
+        -74.46655567513339,
+        4.285719748368308
+      ],
+      "properties": {
+        "subcategoryExternalId": "VJSGrkH1kr",
+        "imageId": 1372992,
+        "videoId": 1372993,
+        "externalId": "KAZ9qCtVMw",
+        "title": "",
+        "description": "> 灵流让夜行者能够跳跃到很高的地方，攀爬原本无法到达的悬崖。通过面向目标方向或在空中使用移动摇杆来控制方向。",
+        "imagePath": "/game_map_pin/1372992/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/0bc84ec010c1bd2c552e0182471d3c25f3323b97"
+      }
+    },
+    {
+      "coordinates": [
+        -75.15826318890738,
+        -25.120716429608635
+      ],
+      "properties": {
+        "subcategoryExternalId": "VJSGrkH1kr",
+        "imageId": 1373004,
+        "videoId": 1373005,
+        "externalId": "fAJAKVamuf",
+        "title": "",
+        "description": "> 灵流让夜行者能够跳跃到很高的地方，攀爬原本无法到达的悬崖。通过面向目标方向或在空中使用移动摇杆来控制方向。",
+        "imagePath": "/game_map_pin/1373004/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/bb7c59eb80d19582b2d690f28491120725619dd1"
+      }
+    },
+    {
+      "coordinates": [
+        -50.88135456998825,
+        1.550605905319557
+      ],
+      "properties": {
+        "subcategoryExternalId": "VJSGrkH1kr",
+        "imageId": 1372981,
+        "videoId": 1372982,
+        "externalId": "DYl8Wsuw6L",
+        "title": "",
+        "description": "> 灵流让夜行者能够跳跃到很高的地方，攀爬原本无法到达的悬崖。通过面向目标方向或在空中使用移动摇杆来控制方向。",
+        "imagePath": "/game_map_pin/1372981/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/d6047a35696ac605614cb83c38c2da84a8ea5229"
+      }
+    },
+    {
+      "coordinates": [
+        -43.78796088592185,
+        -27.060990510744368
+      ],
+      "properties": {
+        "subcategoryExternalId": "VJSGrkH1kr",
+        "imageId": 1373019,
+        "videoId": 1373020,
+        "externalId": "hVq1Jm9etU",
+        "title": "",
+        "description": "> 灵流让夜行者能够跳跃到很高的地方，攀爬原本无法到达的悬崖。通过面向目标方向或在空中使用移动摇杆来控制方向。",
+        "imagePath": "/game_map_pin/1373019/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/0f5d0342a26ba442aeba880980b809714a034568"
+      }
+    },
+    {
+      "coordinates": [
+        -31.55058935596969,
+        31.143485080798214
+      ],
+      "properties": {
+        "subcategoryExternalId": "VJSGrkH1kr",
+        "imageId": null,
+        "videoId": null,
+        "externalId": "2tJgrhoTW8",
+        "title": "",
+        "description": "> 灵流让夜行者能够跳跃到很高的地方，攀爬原本无法到达的悬崖。通过面向目标方向或在空中使用移动摇杆来控制方向。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -13.673498227999374,
+        57.838298565328245
+      ],
+      "properties": {
+        "subcategoryExternalId": "VJSGrkH1kr",
+        "imageId": 1377729,
+        "videoId": 1377730,
+        "externalId": "2UTEoRV2rV",
+        "title": "",
+        "description": "> 灵流让夜行者能够跳跃到很高的地方，攀爬原本无法到达的悬崖。通过面向目标方向或在空中使用移动摇杆来控制方向。",
+        "imagePath": "/game_map_pin/1377729/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/91d01563744c3a17cc63beb95624f7232d5e8cf2"
+      }
+    },
+    {
+      "coordinates": [
+        -2.097106551300243,
+        48.723222055565685
+      ],
+      "properties": {
+        "subcategoryExternalId": "VJSGrkH1kr",
+        "imageId": 1377677,
+        "videoId": 1377678,
+        "externalId": "rtJvk1bdYH",
+        "title": "",
+        "description": "> 灵流让夜行者能够跳跃到很高的地方，攀爬原本无法到达的悬崖。通过面向目标方向或在空中使用移动摇杆来控制方向。",
+        "imagePath": "/game_map_pin/1377677/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/22d075c9f4a509c5d07e61cd7c8ec542df868042"
+      }
+    },
+    {
+      "coordinates": [
+        -8.921932467533225,
+        40.13590442690628
+      ],
+      "properties": {
+        "subcategoryExternalId": "VJSGrkH1kr",
+        "imageId": 1377683,
+        "videoId": 1377684,
+        "externalId": "Ml852W8C9u",
+        "title": "",
+        "description": "> 灵流让夜行者能够跳跃到很高的地方，攀爬原本无法到达的悬崖。通过面向目标方向或在空中使用移动摇杆来控制方向。",
+        "imagePath": "/game_map_pin/1377683/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/4940aabe4c9939ce1d8d975b6e1c5f2ff3c7f47c"
+      }
+    },
+    {
+      "coordinates": [
+        -4.175838717534134,
+        31.90444628867691
+      ],
+      "properties": {
+        "subcategoryExternalId": "VJSGrkH1kr",
+        "imageId": 1373897,
+        "videoId": 1373898,
+        "externalId": "lJ9ZvVj5NC",
+        "title": "",
+        "description": "> 灵流让夜行者能够跳跃到很高的地方，攀爬原本无法到达的悬崖。通过面向目标方向或在空中使用移动摇杆来控制方向。",
+        "imagePath": "/game_map_pin/1373897/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/bd8f35d4ecff873a5773e3b6ab56ac601ed2571c"
+      }
+    },
+    {
+      "coordinates": [
+        -4.049880774462338,
+        0.5091454521787853
+      ],
+      "properties": {
+        "subcategoryExternalId": "VJSGrkH1kr",
+        "imageId": 1373052,
+        "videoId": 1373053,
+        "externalId": "1zSgwo5wqJ",
+        "title": "",
+        "description": "> 灵流让夜行者能够跳跃到很高的地方，攀爬原本无法到达的悬崖。通过面向目标方向或在空中使用移动摇杆来控制方向。",
+        "imagePath": "/game_map_pin/1373052/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/24d2ca0b56d468695c0ba7852afe1508735cded5"
+      }
+    },
+    {
+      "coordinates": [
+        42.92207438604203,
+        -48.205916924869584
+      ],
+      "properties": {
+        "subcategoryExternalId": "VJSGrkH1kr",
+        "imageId": 1373481,
+        "videoId": 1373482,
+        "externalId": "bhbccynWX1",
+        "title": "",
+        "description": "> 灵流让夜行者能够跳跃到很高的地方，攀爬原本无法到达的悬崖。通过面向目标方向或在空中使用移动摇杆来控制方向。",
+        "imagePath": "/game_map_pin/1373481/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/ed1a1c3b175ad54ad8bf5688ed711c99878dea50"
+      }
+    },
+    {
+      "coordinates": [
+        23.725193063215357,
+        -29.648162830457608
+      ],
+      "properties": {
+        "subcategoryExternalId": "VJSGrkH1kr",
+        "imageId": 1372928,
+        "videoId": 1372929,
+        "externalId": "CAIFvE9YU8",
+        "title": "",
+        "description": "> 灵流让夜行者能够跳跃到很高的地方，攀爬原本无法到达的悬崖。通过面向目标方向或在空中使用移动摇杆来控制方向。",
+        "imagePath": "/game_map_pin/1372928/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/43359c0134b20e80a7c52bc7c312ee545adab4ce"
+      }
+    },
+    {
+      "coordinates": [
+        39.09897842098485,
+        24.75563485343926
+      ],
+      "properties": {
+        "subcategoryExternalId": "VJSGrkH1kr",
+        "imageId": 1372856,
+        "videoId": 1372857,
+        "externalId": "EwpptiI32k",
+        "title": "",
+        "description": "> 灵流让夜行者能够跳跃到很高的地方，攀爬原本无法到达的悬崖。通过面向目标方向或在空中使用移动摇杆来控制方向。",
+        "imagePath": "/game_map_pin/1372856/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/a53ca0cb61df43507f6a69982141c75ab6ea7635"
+      }
+    },
+    {
+      "coordinates": [
+        43.587906751336675,
+        40.03996383409381
+      ],
+      "properties": {
+        "subcategoryExternalId": "VJSGrkH1kr",
+        "imageId": 1376306,
+        "videoId": 1376307,
+        "externalId": "Q6cLSIiibz",
+        "title": "",
+        "description": "> 灵流让夜行者能够跳跃到很高的地方，攀爬原本无法到达的悬崖。通过面向目标方向或在空中使用移动摇杆来控制方向。",
+        "imagePath": "/game_map_pin/1376306/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/c4539f9e11ab5b42d09f3440a35226392fc3964e"
+      }
+    },
+    {
+      "coordinates": [
+        60.90989813530794,
+        48.02993528666673
+      ],
+      "properties": {
+        "subcategoryExternalId": "VJSGrkH1kr",
+        "imageId": 1376388,
+        "videoId": 1376389,
+        "externalId": "WydiyRiQ0U",
+        "title": "",
+        "description": "> 灵流让夜行者能够跳跃到很高的地方，攀爬原本无法到达的悬崖。通过面向目标方向或在空中使用移动摇杆来控制方向。",
+        "imagePath": "/game_map_pin/1376388/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/4d1f0b28a0faf8db20ae603951af9c4a6d064411"
+      }
+    },
+    {
+      "coordinates": [
+        65.12093700603225,
+        37.31696280800159
+      ],
+      "properties": {
+        "subcategoryExternalId": "VJSGrkH1kr",
+        "imageId": 1376356,
+        "videoId": 1376357,
+        "externalId": "sMZ5Wej6cY",
+        "title": "",
+        "description": "> 灵流让夜行者能够跳跃到很高的地方，攀爬原本无法到达的悬崖。通过面向目标方向或在空中使用移动摇杆来控制方向。",
+        "imagePath": "/game_map_pin/1376356/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/000802e93c8165c5806f853146ad03ca8338c3fd"
+      }
+    },
+    {
+      "coordinates": [
+        84.00953736955984,
+        31.511866346821577
+      ],
+      "properties": {
+        "subcategoryExternalId": "VJSGrkH1kr",
+        "imageId": 1376345,
+        "videoId": 1376346,
+        "externalId": "Icd5ci6eF7",
+        "title": "",
+        "description": "> 灵流让夜行者能够跳跃到很高的地方，攀爬原本无法到达的悬崖。通过面向目标方向或在空中使用移动摇杆来控制方向。",
+        "imagePath": "/game_map_pin/1376345/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/12527312004d97d8e77a77476fca7e803c8c26ea"
+      }
+    },
+    {
+      "coordinates": [
+        24.9253185764683,
+        -46.08793489524975
+      ],
+      "properties": {
+        "externalId": "Vxk6uNojGG",
+        "title": "磨刀石",
+        "description": "> 消灭守卫在隧道内磨刀石的隧道水晶人。\n>> 获得磨刀石以推进怀尔德的第3章任务。",
+        "subcategoryExternalId": "j5xQqimGbK",
+        "imageId": 1621264,
+        "imagePath": "/game_map_pin/1621264/{size}.webp",
+        "videoId": 1621265,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/dabd03a4a1ef85d59050825a231bb1f9801b5cea"
+      }
+    },
+    {
+      "coordinates": [
+        -66.80086693790409,
+        -0.46402406782529226
+      ],
+      "properties": {
+        "externalId": "q6IQnKobeK",
+        "title": "",
+        "description": "> 包含稀有物品的宝箱，通常隐藏但不会被埋藏。它们可能很难在小地图上发现。\n>> *注意：* 这是潜在刷新区域之一。",
+        "subcategoryExternalId": "sVbLCyE1n9",
+        "imageId": 1621339,
+        "imagePath": "/game_map_pin/1621339/{size}.webp",
+        "videoId": 1621340,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/4490fa3928d25755425fc67b217c89602f069d08"
+      }
+    },
+    {
+      "coordinates": [
+        62.22235062349992,
+        47.5351757285689
+      ],
+      "properties": {
+        "externalId": "ENgadWNXZf",
+        "title": "",
+        "description": "> 包含稀有物品的宝箱，通常隐藏但不会被埋藏。它们可能很难在小地图上发现。\n>> *注意：* 这是潜在刷新区域之一。",
+        "subcategoryExternalId": "sVbLCyE1n9",
+        "imageId": 1621407,
+        "imagePath": "/game_map_pin/1621407/{size}.webp",
+        "videoId": 1621408,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/71f35a6850b32a085b6ed095684e844b2332bdd7"
+      }
+    },
+    {
+      "coordinates": [
+        -23.034075022446586,
+        52.17097630395631
+      ],
+      "properties": {
+        "externalId": "ijdtyNwBoX",
+        "title": "山顶冰龙",
+        "description": "> **注意：** 此首领仅限于移动大地：山顶区域，无法在其他地方遇到。",
+        "subcategoryExternalId": "G7GfnZH0mw",
+        "imageId": 1621413,
+        "imagePath": "/game_map_pin/1621413/{size}.webp",
+        "videoId": 1621414,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/c256d709b5989ea57c398519911c6517a541d65f"
+      }
+    },
+    {
+      "coordinates": [
+        -43.52831360700432,
+        -62.092094663726336
+      ],
+      "properties": {
+        "externalId": "UXV661Mr3p",
+        "title": "银泪",
+        "description": "> 消除守护银色之泪的拟态巨魔。\n>> 获得银色之泪以推进怀尔德的第7章任务。\n>\n>> 只能在变迁大地：诺克拉泰奥，隐蔽之城中获得。",
+        "subcategoryExternalId": "j5xQqimGbK",
+        "imageId": 1622515,
+        "imagePath": "/game_map_pin/1622515/{size}.webp",
+        "videoId": 1622516,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/2d7eff3749b810cee4209e72636562862e677b12"
+      }
+    },
+    {
+      "coordinates": [
+        -3.117189688615241,
+        -59.69065157269856
+      ],
+      "properties": {
+        "externalId": "Eq8xVA6SLH",
+        "title": "",
+        "description": "> **注意：** 野外首领在每次刷新时可能出现在不同位置，这是其中一个可能的刷新区域。",
+        "subcategoryExternalId": "G7GfnZH0mw",
+        "imageId": 1622639,
+        "imagePath": "/game_map_pin/1622639/{size}.webp",
+        "videoId": 1622640,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/48dae48fe5b604dcbaf3f4b25b5a9c5806b7194b"
+      }
+    },
+    {
+      "coordinates": [
+        47.11438660258193,
+        -55.245782152480686
+      ],
+      "properties": {
+        "externalId": "pNFCLq8Vl6",
+        "title": "",
+        "description": "# 注意：\n\n- 只能从移动大地：腐朽森林进入，此物品位于大腐朽树的中央。",
+        "subcategoryExternalId": "VZuK4Zbvyf",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -65.87875565080823,
+        -63.62758968844766
+      ],
+      "properties": {
+        "externalId": "acIRyoKrJD",
+        "title": "守护者石像怪",
+        "description": "> 消灭守护者魔像以推进守护者第4章任务。",
+        "subcategoryExternalId": "j5xQqimGbK",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        75.59514654879825,
+        53.76866228654086
+      ],
+      "properties": {
+        "externalId": "P0ED7SzPuy",
+        "title": "恶魔商人",
+        "description": "> 购买魔法书并消灭恶魔商人以推进守护者第7章任务。",
+        "subcategoryExternalId": "j5xQqimGbK",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -82.60502521093565,
+        2.6071900559691414
+      ],
+      "properties": {
+        "externalId": "92PbdC31KD",
+        "title": "假铁眼",
+        "description": "> 消灭假铁眼来推进铁眼的第4章任务。",
+        "subcategoryExternalId": "j5xQqimGbK",
+        "imageId": 1623063,
+        "imagePath": "/game_map_pin/1623063/{size}.webp",
+        "videoId": 1623064,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/c6a517b0e343235160e6cad8de77eaae7b87716d"
+      }
+    },
+    {
+      "coordinates": [
+        -46.5265163493855,
+        -60.817390380724724
+      ],
+      "properties": {
+        "externalId": "xR2Q7fMnAd",
+        "title": "金露",
+        "description": "> 消灭守护武器装备的怪物以推进公爵夫人的第3章任务。",
+        "subcategoryExternalId": "j5xQqimGbK",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -50.06285874904057,
+        -16.738461986054986
+      ],
+      "properties": {
+        "externalId": "r4fKY4cofl",
+        "title": "",
+        "description": "> 沼泽有多种类型，每种都栖息着一个Boss并拥有新的敌人类型。\n\n*注意：\n变动地标 —— 此位置的建筑结构在每次游戏中都会发生变化。*",
+        "subcategoryExternalId": "5Lh1KGEj0C",
+        "imageId": 1626644,
+        "imagePath": "/game_map_pin/1626644/{size}.webp",
+        "videoId": 1626645,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/db5351b6ff13eaf7f4c0b7eb7315e17e9a805403"
+      }
+    },
+    {
+      "coordinates": [
+        -48.87698942726081,
+        -16.698078454200896
+      ],
+      "properties": {
+        "subcategoryExternalId": "9HiZWLbYNE",
+        "imageId": 1374123,
+        "videoId": 1374124,
+        "externalId": "LTaVtolriu",
+        "title": "",
+        "description": "> 要塞通常有一个boss、几个宝箱和物品箱。顶层的侧室通常包含一个宝箱、一个武器架 —— 法杖，以及一张揭示隐藏物品的纸条。\n\n*注意：\n变化地标 —— 此位置的建筑在每次游戏中都会发生变化。*",
+        "imagePath": "/game_map_pin/1374123/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/dcd6244db3781cf03d8711adebdde8b4186ecd03"
+      }
+    },
+    {
+      "coordinates": [
+        54.954675661262684,
+        43.87443579764073
+      ],
+      "properties": {
+        "externalId": "cqbjiTHDEI",
+        "title": "信息",
+        "description": "> 消灭守护*信息*的怪物以推进公爵夫人的第6章任务。",
+        "subcategoryExternalId": "j5xQqimGbK",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        33.38986874696653,
+        -22.38949219214976
+      ],
+      "properties": {
+        "externalId": "0bfEo2fG17",
+        "title": "",
+        "description": "> 锻造场是城镇区域，有商人和大型锻炉。与入口附近的壁炬互动以激活锻炉（可以更换武器技能）\n\n*注意：\n变化地标——该位置的结构会在每次游戏中发生变化。*",
+        "subcategoryExternalId": "ShomhP7hI2",
+        "imageId": 1626691,
+        "imagePath": "/game_map_pin/1626691/{size}.webp",
+        "videoId": 1626692,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/b55e2efc9171b2be881082305db0974c638cc85c"
+      }
+    },
+    {
+      "coordinates": [
+        32.96935189516509,
+        -23.679887963895823
+      ],
+      "properties": {
+        "subcategoryExternalId": "ntHA9zxAlx",
+        "imageId": 1372983,
+        "videoId": 1372984,
+        "externalId": "alyCmYEzCw",
+        "title": "",
+        "description": "> 废墟中有多阶段小BOSS战，敌人的主题围绕该区域的元素装备，比如毒素废墟中的调香师或火焰废墟中的烈火战车。\n\n*注意：\n变化地标——此位置的建筑会在每次游戏中发生变化。*",
+        "imagePath": "/game_map_pin/1372983/{size}.webp",
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/f14bcfaf1b91a20cc32cd729b077511302ae2ba9"
+      }
+    },
+    {
+      "coordinates": [
+        -27.46224069939592,
+        -60.20114938480222
+      ],
+      "properties": {
+        "externalId": "At8JbmjPrZ",
+        "title": "",
+        "description": "> 锻造场是城镇区域，有商人和大型锻炉。与入口附近的壁炬互动以激活锻炉（可以更换武器技能）\n\n*注意：\n变化地标——该位置的结构会在每次游戏中发生变化。*",
+        "subcategoryExternalId": "ShomhP7hI2",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -26.41302885913487,
+        -59.89706793420271
+      ],
+      "properties": {
+        "externalId": "3JGSHsG7j2",
+        "title": "",
+        "description": "> 沼泽有多种类型，每种都栖息着一个Boss并拥有新的敌人类型。\n\n*注意：\n变动地标 —— 此位置的建筑结构在每次游戏中都会发生变化。*",
+        "subcategoryExternalId": "5Lh1KGEj0C",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        22.50205718070268,
+        17.731510042676277
+      ],
+      "properties": {
+        "externalId": "RL06Xchdsy",
+        "title": "",
+        "description": "> 锻造场是城镇区域，有商人和大型锻炉。与入口附近的壁炬互动以激活锻炉（可以更换武器技能）\n\n*注意：\n变化地标——该位置的结构会在每次游戏中发生变化。*",
+        "subcategoryExternalId": "ShomhP7hI2",
+        "imageId": 1626711,
+        "imagePath": "/game_map_pin/1626711/{size}.webp",
+        "videoId": 1626712,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/8575807c33572189dd31f49fa9e4bc5dc7da7939"
+      }
+    },
+    {
+      "coordinates": [
+        36.075288130089945,
+        48.589729253185055
+      ],
+      "properties": {
+        "externalId": "2izQdmUSqv",
+        "title": "",
+        "description": "> 沼泽有多种类型，每种都栖息着一个Boss并拥有新的敌人类型。\n\n*注意：\n变动地标 —— 此位置的建筑结构在每次游戏中都会发生变化。*",
+        "subcategoryExternalId": "5Lh1KGEj0C",
+        "imageId": 1626713,
+        "imagePath": "/game_map_pin/1626713/{size}.webp",
+        "videoId": 1626714,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/d4abbb73beb07be1f464e1f76acaef86d05f6a48"
+      }
+    },
+    {
+      "coordinates": [
+        74.38004985806018,
+        20.72307199389124
+      ],
+      "properties": {
+        "externalId": "SeaFsuLHAE",
+        "title": "",
+        "description": "> 沼泽有多种类型，每种都栖息着一个Boss并拥有新的敌人类型。\n\n*注意：\n变动地标 —— 此位置的建筑结构在每次游戏中都会发生变化。*",
+        "subcategoryExternalId": "5Lh1KGEj0C",
+        "imageId": 1626740,
+        "imagePath": "/game_map_pin/1626740/{size}.webp",
+        "videoId": 1626741,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/edb1749f0edc33babf9a8b07c92cecd0e6214dc9"
+      }
+    },
+    {
+      "coordinates": [
+        58.014463684359555,
+        60.22179917116955
+      ],
+      "properties": {
+        "externalId": "VWf2ulYkn4",
+        "title": "",
+        "description": "> 锻造场是城镇区域，有商人和大型锻炉。与入口附近的壁炬互动以激活锻炉（可以更换武器技能）\n\n*注意：\n变化地标——该位置的结构会在每次游戏中发生变化。*",
+        "subcategoryExternalId": "ShomhP7hI2",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -24.096962704353302,
+        64.78792646630427
+      ],
+      "properties": {
+        "externalId": "4QLYf2KQPR",
+        "title": "",
+        "description": "> 锻造场是城镇区域，有商人和大型锻炉。与入口附近的壁炬互动以激活锻炉（可以更换武器技能）\n\n*注意：\n变化地标——该位置的结构会在每次游戏中发生变化。*",
+        "subcategoryExternalId": "ShomhP7hI2",
+        "imageId": 1626743,
+        "imagePath": "/game_map_pin/1626743/{size}.webp",
+        "videoId": 1626744,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/225fce014bbdd5a7a4dea48fe4ca4773036b8883"
+      }
+    },
+    {
+      "coordinates": [
+        65.27325837624252,
+        45.843413938828434
+      ],
+      "properties": {
+        "externalId": "WsaTTcm1qk",
+        "title": "夜染敌军",
+        "description": "> 消灭怪物以推进隐士第2章任务。",
+        "subcategoryExternalId": "j5xQqimGbK",
+        "imageId": 1626811,
+        "imagePath": "/game_map_pin/1626811/{size}.webp",
+        "videoId": 1626812,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/c946dd1fffc49778efce0ad49e41ff5ea5abbf7a"
+      }
+    },
+    {
+      "coordinates": [
+        78.79290146242329,
+        42.66068848915049
+      ],
+      "properties": {
+        "externalId": "RyGabr0XVw",
+        "title": "花朵",
+        "description": "> 消灭守护*花朵*的迷失血猎骑士以推进处刑者的第2章任务。",
+        "subcategoryExternalId": "j5xQqimGbK",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -48.3877440003871,
+        -18.264181875071813
+      ],
+      "properties": {
+        "externalId": "ESbBUIfX8N",
+        "title": "",
+        "description": "> 锻造场是城镇区域，有商人和大型锻炉。与入口附近的壁炬互动以激活锻炉（可以更换武器技能）\n\n*注意：\n变化地标——该位置的结构会在每次游戏中发生变化。*",
+        "subcategoryExternalId": "ShomhP7hI2",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -56.84302569013042,
+        64.30098340023542
+      ],
+      "properties": {
+        "externalId": "JMxRi37xwv",
+        "title": "金色嫩芽",
+        "description": "> 在山顶消灭守护*黄金嫩芽*的黄金树化身，以推进处刑者的第6章任务。",
+        "subcategoryExternalId": "j5xQqimGbK",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -87.7824234023918,
+        76.97455239265386
+      ],
+      "properties": {
+        "externalId": "lzf960JHdC",
+        "title": "学者原始核心",
+        "description": "> 使用开放的墙壁前往任务目标。",
+        "subcategoryExternalId": "j5xQqimGbK",
+        "imageId": 1628361,
+        "imagePath": "/game_map_pin/1628361/{size}.webp",
+        "videoId": 1628360,
+        "videoPath": "https://storage-cdn.wemod.com/game_map_pin_videos/426/e14eee8ff19e4f2e8895976094cb542850ac6866"
+      }
+    }
+  ]
+}

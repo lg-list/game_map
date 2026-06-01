@@ -1,0 +1,4878 @@
+{
+  "metadata": {
+    "externalId": "JBK1bDLiZV",
+    "name": "Lost Heaven",
+    "slug": "lost-heaven",
+    "baseTilePath": "https://storage-cdn.wemod.com/maps/393d4ca3-4438-4119-a82d-ffbba9c98413/tiles",
+    "isChecklistPublished": true,
+    "isInActiveDevelopment": false,
+    "backgroundColor": "#000000",
+    "minZoom": 1,
+    "maxZoom": 7,
+    "initialZoom": 2,
+    "tmsEnabled": false,
+    "categories": [
+      {
+        "externalId": "cyMqOI5IkE",
+        "gameMapExternalId": "JBK1bDLiZV",
+        "title": "未命名分类",
+        "color": "#828282",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "pvxpRebr0I",
+        "gameMapExternalId": "JBK1bDLiZV",
+        "title": "未命名分类",
+        "color": "#0fa028",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "BWSRpbdFsn",
+        "gameMapExternalId": "JBK1bDLiZV",
+        "title": "未命名分类",
+        "color": "#a00096",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "Ntkotj8BVm",
+        "gameMapExternalId": "JBK1bDLiZV",
+        "title": "未命名分类",
+        "color": "#0028fa",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "subcategories": [
+      {
+        "externalId": "iDzPSBee5k",
+        "categoryExternalId": "cyMqOI5IkE",
+        "title": "未命名子分类",
+        "icon": "egg",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "ZphG0HkSul",
+        "categoryExternalId": "cyMqOI5IkE",
+        "title": "未命名子分类",
+        "icon": "map-marker-question",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "OdwxOgIBhh",
+        "categoryExternalId": "pvxpRebr0I",
+        "title": "未命名子分类",
+        "icon": "diamond-exclamation",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "9vJjQzajS4",
+        "categoryExternalId": "pvxpRebr0I",
+        "title": "未命名子分类",
+        "icon": "phone-flip",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "cGqhr0I3d5",
+        "categoryExternalId": "BWSRpbdFsn",
+        "title": "未命名子分类",
+        "icon": "theater-masks",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "1FGFz6L5Jh",
+        "categoryExternalId": "BWSRpbdFsn",
+        "title": "未命名子分类",
+        "icon": "roundies:holidays-star-card",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "tIuwUOcgBx",
+        "categoryExternalId": "BWSRpbdFsn",
+        "title": "未命名子分类",
+        "icon": "roundies:roundies-freebie-open-book",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "hVdvKJ7W23",
+        "categoryExternalId": "BWSRpbdFsn",
+        "title": "未命名子分类",
+        "icon": "roundies:roundies-freebie-open-book",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "f3xcqOhOCe",
+        "categoryExternalId": "BWSRpbdFsn",
+        "title": "未命名子分类",
+        "icon": "roundies:transportation-round-car",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "ljPU1mLnMb",
+        "categoryExternalId": "BWSRpbdFsn",
+        "title": "未命名子分类",
+        "icon": "fox",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "VGTP5jZ8kK",
+        "categoryExternalId": "BWSRpbdFsn",
+        "title": "未命名子分类",
+        "icon": "uniform-martial-arts",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "d5F70b3oYj",
+        "categoryExternalId": "BWSRpbdFsn",
+        "title": "未命名子分类",
+        "icon": "credit-card",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "oEIyB8Hxvv",
+        "categoryExternalId": "BWSRpbdFsn",
+        "title": "未命名子分类",
+        "icon": "roundies:roundies-freebie-open-book",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "SRQ7g7PP2f",
+        "categoryExternalId": "BWSRpbdFsn",
+        "title": "未命名子分类",
+        "icon": "roundies:roundies-freebie-open-book",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "lNOfCSQq3y",
+        "categoryExternalId": "BWSRpbdFsn",
+        "title": "未命名子分类",
+        "icon": "snowman-head",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "LmZZ7WRABT",
+        "categoryExternalId": "Ntkotj8BVm",
+        "title": "未命名子分类",
+        "icon": "location-exclamation",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "xzpSUmyIO3",
+        "categoryExternalId": "Ntkotj8BVm",
+        "title": "未命名子分类",
+        "icon": "roundies:energy-gasoline",
+        "excludeFromChecklists": true,
+        "description": ""
+      },
+      {
+        "externalId": "9yIFfgytwT",
+        "categoryExternalId": "Ntkotj8BVm",
+        "title": "未命名子分类",
+        "icon": "roundies:transportation-garage",
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "playerLocationDeltas": {
+      "deltas": {
+        "scaleX": 0.0002639202375111054,
+        "scaleY": 0.0002561021222343207,
+        "offsetX": -159.9206231255356,
+        "offsetY": 332.1847288769328,
+        "gameCoordsMap": {
+          "x": "x",
+          "y": "y",
+          "z": "z"
+        }
+      },
+      "referencePoints": [
+        {
+          "lngLat": {
+            "lat": -21.432616864477335,
+            "lng": 24.433593750000004
+          },
+          "gameCoords": {
+            "x": 557.1220703125,
+            "y": -292.9105224609375,
+            "z": 15.288224220275879
+          }
+        },
+        {
+          "lngLat": {
+            "lat": -6.620957270326323,
+            "lng": 50.07568359375001
+          },
+          "gameCoords": {
+            "x": 1309.6300048828125,
+            "y": 143.2169952392578,
+            "z": 14.54609489440918
+          }
+        }
+      ]
+    }
+  },
+  "features": [
+    {
+      "coordinates": [
+        -28.125000000000007,
+        -18.812717856407758
+      ],
+      "properties": {
+        "subcategoryExternalId": "9yIFfgytwT",
+        "imageId": null,
+        "externalId": "olXUYnjGgm",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -43.65966796875001,
+        -14.189837515179631
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "S8J30cUmKC",
+        "title": "贝托雷利的面包店",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        61.578369140625014,
+        55.453941329433036
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "KAQuqVBfa0",
+        "title": "克拉克汽车旅馆",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -23.291015625000004,
+        2.0540032643721418
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "imageId": 1051817,
+        "externalId": "LRE4gSUjxW",
+        "title": "Nicole Sandoval",
+        "description": "- 通缉杀人犯",
+        "imagePath": "/game_map_pin/1051817/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -27.037353515625004,
+        3.568247821628616
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "CuD58BTcYf",
+        "title": "比夫的",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        26.499023437500004,
+        -29.180941290001776
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "81h771PJAI",
+        "title": "科里昂酒店",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -35.79345703125001,
+        47.413220330169054
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "ynhj1LEskP",
+        "title": "矮树丛农场",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        65.68725585937501,
+        6.402648405963902
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "ndfDgEpJlk",
+        "title": "仓库",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -17.951660156250004,
+        -12.14674581453967
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "IwI31ag3ln",
+        "title": "莎拉的公寓",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        4.152832031250001,
+        -16.341225619207496
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "jL4g0dyLgd",
+        "title": "黑猫酒吧",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        6.8115234375,
+        -16.604609894798124
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "imageId": null,
+        "externalId": "N6iSHvv325",
+        "title": "雅库布·科纳佩克",
+        "description": "- 被通缉，罪名是敲诈勒索和谋杀\n\n*桥下。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        51.27319335937501,
+        28.168875180063345
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "imageId": 1052031,
+        "externalId": "yk28KvFIuA",
+        "title": "神秘狐",
+        "description": "",
+        "imagePath": "/game_map_pin/1052031/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        35.24414062500001,
+        -7.689217127736178
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "ObAv5LfXmE",
+        "title": "大帝国银行",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        74.12475585937501,
+        -16.920194650443847
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "oUzdPFLdU7",
+        "title": "检察官官邸",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        65.17089843750001,
+        -18.083200903334323
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "imageId": 1053368,
+        "externalId": "nNIm4roMFm",
+        "title": "",
+        "description": "",
+        "imagePath": "/game_map_pin/1053368/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -1.40625,
+        -27.527758206861897
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "2yOd67zZiI",
+        "title": "停车库",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -10.030517578125002,
+        -38.367502153950454
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "L9HaIoOQTK",
+        "title": "圣彼得码头/港口",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        45.54931640625001,
+        -24.156778233303413
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "7pBG2QiWVa",
+        "title": "塞尔吉奥·莫雷洛的房子",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        50.548095703125,
+        -30.826780904779774
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "WBcfTAtEnN",
+        "title": "",
+        "description": "",
+        "imageId": 1053560,
+        "imagePath": "/game_map_pin/1053560/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -17.303466796875004,
+        -20.529933125170814
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "bcRKZqZi7b",
+        "title": "保利的公寓",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -57.50244140625001,
+        -41.385051949706806
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "imageId": 1054085,
+        "externalId": "QOEXXNTNDh",
+        "title": "托马斯·耶利内克",
+        "description": "- *通缉：私酿酒*",
+        "imagePath": "/game_map_pin/1054085/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -54.31640625,
+        -39.867587624510215
+      ],
+      "properties": {
+        "subcategoryExternalId": "VGTP5jZ8kK",
+        "externalId": "NIav0Ldtq4",
+        "title": "警察制服",
+        "description": "",
+        "imageId": 1054086,
+        "imagePath": "/game_map_pin/1054086/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -51.33911132812501,
+        -40.04443758460857
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "zlEaCcOB0o",
+        "title": "",
+        "description": "",
+        "imageId": 1054087,
+        "imagePath": "/game_map_pin/1054087/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -50.64697265625001,
+        -35.915747419499695
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "imageId": 1054088,
+        "externalId": "GtYbmfcpzN",
+        "title": "马丁·托莫里",
+        "description": "- *通缉走私香烟*",
+        "imagePath": "/game_map_pin/1054088/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -57.22778320312501,
+        -32.704111144407406
+      ],
+      "properties": {
+        "subcategoryExternalId": "xzpSUmyIO3",
+        "imageId": null,
+        "externalId": "qQFIknBY4n",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -52.3828125,
+        -28.623103554529905
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "6AUboEROMy",
+        "title": "",
+        "description": "",
+        "imageId": 1054096,
+        "imagePath": "/game_map_pin/1054096/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -48.33984375,
+        -24.206889622398023
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "2TdLFxhqbD",
+        "title": "Boleslav Dobos",
+        "description": "- *通缉私酿酒贩*",
+        "imageId": 1054097,
+        "imagePath": "/game_map_pin/1054097/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -46.98852539062501,
+        -28.23664944401447
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "MYLRE2bnWD",
+        "title": "",
+        "description": "",
+        "imageId": 1054099,
+        "imagePath": "/game_map_pin/1054099/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -41.93481445312501,
+        -27.965294915211118
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "WZ93yxBn97",
+        "title": "",
+        "description": "",
+        "imageId": 1054100,
+        "imagePath": "/game_map_pin/1054100/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -38.29833984375,
+        -29.113775395114406
+      ],
+      "properties": {
+        "subcategoryExternalId": "9yIFfgytwT",
+        "imageId": null,
+        "externalId": "dHK7voicjK",
+        "title": "失乐园汽车用品公司",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -57.96386718750001,
+        -40.3130432088809
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "Apaxmfhmxz",
+        "title": "联邦海关扣押场",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -27.202148437500004,
+        -39.50404070558416
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "gb8n47fFu1",
+        "title": "圣彼得码头",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -20.379638671875,
+        -21.97361354260756
+      ],
+      "properties": {
+        "subcategoryExternalId": "xzpSUmyIO3",
+        "imageId": null,
+        "externalId": "SYrSmbalsP",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -39.84741210937501,
+        1.724593043197899
+      ],
+      "properties": {
+        "subcategoryExternalId": "xzpSUmyIO3",
+        "imageId": null,
+        "externalId": "RannOF6O8f",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -31.695556640625004,
+        1.142502403706165
+      ],
+      "properties": {
+        "subcategoryExternalId": "9yIFfgytwT",
+        "imageId": null,
+        "externalId": "n07pgbkWs6",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -29.849853515625,
+        6.184246161280603
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "VW7RrGDV4D",
+        "title": "史密斯加油站",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        4.768066406250001,
+        -23.14035998788607
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "d2Vpp2cYRI",
+        "title": "城市剧院",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -7.921142578125001,
+        -20.879342971957897
+      ],
+      "properties": {
+        "subcategoryExternalId": "xzpSUmyIO3",
+        "imageId": null,
+        "externalId": "zAau3OOQ5X",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -1.7138671875000002,
+        -6.795535025719518
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "iFp0UXMgNM",
+        "title": "老州监狱",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        12.744140625000002,
+        -36.80928470205939
+      ],
+      "properties": {
+        "subcategoryExternalId": "9yIFfgytwT",
+        "imageId": null,
+        "externalId": "9KsZmAsJO9",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -6.855468750000001,
+        -35.99578538642033
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "kro5BQr2y5",
+        "title": "蓝色热带",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        20.720214843750004,
+        -10.401377554543544
+      ],
+      "properties": {
+        "subcategoryExternalId": "9yIFfgytwT",
+        "imageId": null,
+        "externalId": "DVMMiopx8u",
+        "title": "贝托内汽车服务",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        20.0830078125,
+        -10.790140750321738
+      ],
+      "properties": {
+        "subcategoryExternalId": "xzpSUmyIO3",
+        "imageId": null,
+        "externalId": "I8USQlqjq9",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        40.57250976562501,
+        -37.45741810262938
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "8IqTS4Tt6w",
+        "title": "乔治餐厅",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        42.275390625,
+        -18.77111506233701
+      ],
+      "properties": {
+        "subcategoryExternalId": "xzpSUmyIO3",
+        "imageId": null,
+        "externalId": "Je9Go2Nn6D",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        65.83007812500001,
+        -3.7765593098768635
+      ],
+      "properties": {
+        "subcategoryExternalId": "9yIFfgytwT",
+        "imageId": null,
+        "externalId": "DopI84sxEU",
+        "title": "霍尔布鲁克修车厂",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        50.06469726562503,
+        -3.0966358718415563
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "CiPCkX3g3t",
+        "title": "巴勒莫俱乐部",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        49.097900390625014,
+        7.961317419188958
+      ],
+      "properties": {
+        "subcategoryExternalId": "xzpSUmyIO3",
+        "imageId": null,
+        "externalId": "rAiXH2ZLhy",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        32.73925781250001,
+        2.8113711933311403
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "8qelCYbUXS",
+        "title": "莫雷洛酒吧",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        44.384765625000036,
+        28.86391842622453
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "cXMDHalXUY",
+        "title": "Lost Haven 国际机场",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        52.87719726562501,
+        51.590722643120166
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "YfA7hdUC1u",
+        "title": "绅士俱乐部",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        18.127441406250004,
+        62.94023319427791
+      ],
+      "properties": {
+        "subcategoryExternalId": "xzpSUmyIO3",
+        "imageId": null,
+        "externalId": "lNEPraoHIL",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        16.688232421875004,
+        68.47992564291269
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "fopYByldbE",
+        "title": "维沃达汽车旅馆",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -53.360595703125014,
+        42.779275360242025
+      ],
+      "properties": {
+        "subcategoryExternalId": "xzpSUmyIO3",
+        "imageId": null,
+        "externalId": "5NySyG2YYm",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        57.59033203125001,
+        -31.316101383495635
+      ],
+      "properties": {
+        "subcategoryExternalId": "9yIFfgytwT",
+        "imageId": null,
+        "externalId": "Zsbna9e7J8",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -38.70483398437501,
+        -37.37888785004525
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "F20FF5bDhX",
+        "title": "基思·彼得斯",
+        "description": "- *通缉罪名：敲诈勒索与私酒贩卖*",
+        "imageId": 1054135,
+        "imagePath": "/game_map_pin/1054135/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -40.96801757812501,
+        -39.15562239342323
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "XxD7k2Tu6y",
+        "title": "",
+        "description": "",
+        "imageId": 1054137,
+        "imagePath": "/game_map_pin/1054137/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -27.202148437500004,
+        -35.67514743608468
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "imageId": 1055476,
+        "externalId": "xi4ZnFAaWo",
+        "title": "托马斯·马德尔",
+        "description": "- *通缉杀人犯*",
+        "imagePath": "/game_map_pin/1055476/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -32.80517578125001,
+        -31.672083485607374
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "MwM3BeCMaC",
+        "title": "Jan Zahradnik",
+        "description": "- *通缉火车抢劫犯*",
+        "imageId": 1055479,
+        "imagePath": "/game_map_pin/1055479/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -30.607910156250004,
+        -27.78077164334821
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "SewdePat67",
+        "title": "",
+        "description": "",
+        "imageId": 1055482,
+        "imagePath": "/game_map_pin/1055482/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -34.22241210937501,
+        -27.196014383173296
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "B2O5Syxkww",
+        "title": "Petr Capek",
+        "description": "- *通缉令：妨害治安罪和谋杀罪*",
+        "imageId": 1055483,
+        "imagePath": "/game_map_pin/1055483/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -36.65039062500001,
+        -26.86328062676624
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "mKW6jhghcb",
+        "title": "金德里希·科图拉",
+        "description": "- *通缉：走私*",
+        "imageId": 1055485,
+        "imagePath": "/game_map_pin/1055485/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -27.641601562500004,
+        -23.855698009751237
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "OXuGqZTkx3",
+        "title": "拉斐尔·海杜克",
+        "description": "- *通缉持续犯罪企业头目*",
+        "imageId": 1055487,
+        "imagePath": "/game_map_pin/1055487/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -29.333496093750004,
+        -19.16592425362801
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "utq4UBexDL",
+        "title": "",
+        "description": "",
+        "imageId": 1055488,
+        "imagePath": "/game_map_pin/1055488/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -24.027099609375,
+        -16.741427547003596
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "q5Y8bPvaua",
+        "title": "西奥多·希尔霍斯特",
+        "description": "- *通缉逗留不去者*",
+        "imageId": 1055492,
+        "imagePath": "/game_map_pin/1055492/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -16.995849609375004,
+        -20.354927584117682
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "P05isAwDix",
+        "title": "亚历山大·考克斯",
+        "description": "- *通缉伪造罪*",
+        "imageId": 1055496,
+        "imagePath": "/game_map_pin/1055496/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -15.44677734375,
+        -16.415009267332337
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "ObckhYNPbk",
+        "title": "",
+        "description": "",
+        "imageId": 1055500,
+        "imagePath": "/game_map_pin/1055500/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -19.31396484375,
+        -8.537565350804018
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "RENY4aAtJF",
+        "title": "",
+        "description": "",
+        "imageId": 1055503,
+        "imagePath": "/game_map_pin/1055503/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -22.203369140625,
+        -8.950192825865779
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "0m4vl66MQD",
+        "title": "萨姆·罗伯茨速度",
+        "description": "- *通缉：私酿酒*",
+        "imageId": 1055504,
+        "imagePath": "/game_map_pin/1055504/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -27.421875000000004,
+        -12.961735843534306
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "jNwPmtY8qj",
+        "title": "米哈埃拉·克拉姆普洛娃",
+        "description": "- *通缉扒手*",
+        "imageId": 1055505,
+        "imagePath": "/game_map_pin/1055505/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -43.89038085937501,
+        -19.99399846948549
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "imageId": 1055508,
+        "externalId": "4QjL0Wdc30",
+        "title": "Pavol Debnar",
+        "description": "- *通缉伪造罪*",
+        "imagePath": "/game_map_pin/1055508/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -43.44242367599132,
+        -10.450021693403112
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "J6Mn6tof2W",
+        "title": "",
+        "description": "",
+        "imageId": 1055512,
+        "imagePath": "/game_map_pin/1055512/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -33.99169921875001,
+        -5.55038056899795
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "xBvM38PIcH",
+        "title": "雅罗斯拉夫·萨辛卡",
+        "description": "- *通缉：非法贩酒*",
+        "imageId": 1055515,
+        "imagePath": "/game_map_pin/1055515/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -22.774658203125004,
+        -2.9759559359447683
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "imageId": null,
+        "externalId": "wYots5TvcM",
+        "title": "阿纳斯塔西娅·叶菲莫娃",
+        "description": "- *通缉扒手*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -43.04443359375001,
+        5.68158368342113
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "kkxLvLsLL3",
+        "title": "",
+        "description": "",
+        "imageId": 1055550,
+        "imagePath": "/game_map_pin/1055550/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -29.179687500000004,
+        9.080400104155315
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "Xt9amieLsb",
+        "title": "Lenka Snajdrhonsova",
+        "description": "- *通缉诈骗犯*",
+        "imageId": 1055551,
+        "imagePath": "/game_map_pin/1055551/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -29.399414062500004,
+        4.893940608902113
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "imageId": 1055552,
+        "externalId": "hoaXme0tVO",
+        "title": "",
+        "description": "",
+        "imagePath": "/game_map_pin/1055552/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -29.970703125000004,
+        3.337953961416485
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "zpwtpgCpgz",
+        "title": "Tomas Sedlak",
+        "description": "- *通缉杀人犯*",
+        "imageId": 1055555,
+        "imagePath": "/game_map_pin/1055555/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -23.609619140625004,
+        6.893707270014232
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "U9gbxwVabL",
+        "title": "Annya Widyaputri",
+        "description": "- *通缉诈骗犯*",
+        "imageId": 1055559,
+        "imagePath": "/game_map_pin/1055559/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -17.775878906250004,
+        -0.615222552406841
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "qNIIynRL7J",
+        "title": "Viliam Korbel",
+        "description": "- *连环谋杀通缉犯*",
+        "imageId": 1055561,
+        "imagePath": "/game_map_pin/1055561/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -13.579101562500002,
+        7.395152907137248
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "JUyOFIWx15",
+        "title": "",
+        "description": "",
+        "imageId": 1055562,
+        "imagePath": "/game_map_pin/1055562/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -5.570068359375002,
+        5.331644153439754
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "imageId": 1055565,
+        "externalId": "tAEJWFwip6",
+        "title": "德米特里·马卡连科",
+        "description": "- *通缉：非法贩酒*",
+        "imagePath": "/game_map_pin/1055565/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -10.415039062500002,
+        2.5260367521718403
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "JVVcPN1q4a",
+        "title": "Jiri Stempin",
+        "description": "- *通缉敲诈犯*",
+        "imageId": 1055569,
+        "imagePath": "/game_map_pin/1055569/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -5.592041015625,
+        -12.597454504832005
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "X0cEjtApoq",
+        "title": "",
+        "description": "- *跳过桥边上的狐狸标志，就能到达这个神秘狐狸。*",
+        "imageId": 1057829,
+        "imagePath": "/game_map_pin/1057829/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        9.041748046875002,
+        -17.13029174353376
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "imageId": null,
+        "externalId": "DSxNQOdFum",
+        "title": "兰登·弗莱利",
+        "description": "- *通缉洗钱罪*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        9.041748046875002,
+        -18.18760655249461
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "BQQjAmnbjl",
+        "title": "",
+        "description": "",
+        "imageId": 1057836,
+        "imagePath": "/game_map_pin/1057836/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        8.448486328125002,
+        -19.77704220222595
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "axc6AwPmNN",
+        "title": "索菲·贝内弗",
+        "description": "- *通缉：多重谋杀*",
+        "imageId": 1057837,
+        "imagePath": "/game_map_pin/1057837/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        3.515031708558226,
+        -19.456653154659975
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "imageId": 1057850,
+        "externalId": "q86FkDEpbw",
+        "title": "亚当·福特",
+        "description": "- *通缉：私酿酒*",
+        "imagePath": "/game_map_pin/1057850/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        0.17578125,
+        -26.33280692289788
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "95lwBs4ecl",
+        "title": "Jakub Marusak",
+        "description": "- *通缉令：走私朗姆酒*",
+        "imageId": 1057851,
+        "imagePath": "/game_map_pin/1057851/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -2.7685546875000004,
+        -26.51973530566078
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "kWGY2K8dvM",
+        "title": "龚萨罗·丹尼斯",
+        "description": "- *通缉犯：盗车罪*",
+        "imageId": 1057853,
+        "imagePath": "/game_map_pin/1057853/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -8.009033203125002,
+        -23.56398712845123
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "2Eg5990oWT",
+        "title": "托马斯·鲁日卡",
+        "description": "- *通缉伪造罪*",
+        "imageId": 1057854,
+        "imagePath": "/game_map_pin/1057854/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -7.283935546875001,
+        -29.084976575985902
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "XHDdhtgVSQ",
+        "title": "托马斯·霍切克",
+        "description": "- *通缉：谋杀*",
+        "imageId": 1057858,
+        "imagePath": "/game_map_pin/1057858/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -11.843261718750002,
+        -35.04798673426733
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "DCCOX1E1GE",
+        "title": "",
+        "description": "",
+        "imageId": 1057859,
+        "imagePath": "/game_map_pin/1057859/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -11.546630859375,
+        -38.14319750166764
+      ],
+      "properties": {
+        "subcategoryExternalId": "1FGFz6L5Jh",
+        "imageId": 1053415,
+        "externalId": "ajjPvz6ZMd",
+        "title": "马库斯·莫雷洛",
+        "description": "烟草卡#8\n\n- *仅可在第14章：生日快乐故事任务期间获得。*",
+        "imagePath": "/game_map_pin/1053415/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -6.635742187500002,
+        -35.942435752554246
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "imageId": 1057866,
+        "externalId": "VfcjKcwZdi",
+        "title": "埃莱奥诺拉·克鲁托娃",
+        "description": "- *通缉罪名：拉皮条和诱骗*",
+        "imagePath": "/game_map_pin/1057866/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -0.8569335937500001,
+        -34.542762387234845
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "xgzImcRUTd",
+        "title": "朱莉娅·拉杜尔斯卡",
+        "description": "- *全罪通缉*",
+        "imageId": 1057867,
+        "imagePath": "/game_map_pin/1057867/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -1.395263671875,
+        -42.601619944327965
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "q9Z3TN3DvK",
+        "title": "Tom Pastyrik",
+        "description": "- *通缉艺术品盗窃犯*",
+        "imageId": 1057868,
+        "imagePath": "/game_map_pin/1057868/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        10.524902343750002,
+        -35.29943548054545
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "13vwgWT7Bq",
+        "title": "萨姆·尼尔",
+        "description": "- *通缉洗钱罪*",
+        "imageId": 1057890,
+        "imagePath": "/game_map_pin/1057890/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        21.379394531250004,
+        -27.712710260887462
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "NtNCcrrxg5",
+        "title": "卢博米尔·德坎",
+        "description": "- *通缉：走私*",
+        "imageId": 1057901,
+        "imagePath": "/game_map_pin/1057901/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        28.087346420661834,
+        -28.940861769405554
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "HLdojAGYls",
+        "title": "帕特里克·科德",
+        "description": "- *通缉：银行抢劫*",
+        "imageId": 1058019,
+        "imagePath": "/game_map_pin/1058019/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        31.893310546875004,
+        -28.052590823339845
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "RJGqqClz9v",
+        "title": "",
+        "description": "",
+        "imageId": 1058046,
+        "imagePath": "/game_map_pin/1058046/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        40.34179687500001,
+        -29.535229562948455
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "kM2hB54z0K",
+        "title": "",
+        "description": "",
+        "imageId": 1058050,
+        "imagePath": "/game_map_pin/1058050/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        40.30883789062501,
+        -38.56534784488546
+      ],
+      "properties": {
+        "subcategoryExternalId": "cGqhr0I3d5",
+        "imageId": 1061360,
+        "externalId": "YDnO755YU7",
+        "title": "行走的炸药",
+        "description": "黑面具 #7\n\n- *在自由模式中获得。*",
+        "imagePath": "/game_map_pin/1061360/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        41.60522460937501,
+        -38.719804742642374
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "imageId": 1061364,
+        "externalId": "yG79n5wMp2",
+        "title": "",
+        "description": "",
+        "imagePath": "/game_map_pin/1061364/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        24.433593750000004,
+        -21.432616864477335
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "UqvVmOTB5x",
+        "title": "卡洛斯·波里亚诺",
+        "description": "- *通缉洗钱罪*",
+        "imageId": 1061370,
+        "imagePath": "/game_map_pin/1061370/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        26.312255859375004,
+        -21.11524930996377
+      ],
+      "properties": {
+        "subcategoryExternalId": "oEIyB8Hxvv",
+        "imageId": 1061372,
+        "externalId": "GGmYXnvCjd",
+        "title": "梅克鲁斯十字",
+        "description": "超级科学故事 #9\n\n- *在免费游戏中获得。*",
+        "imagePath": "/game_map_pin/1061372/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        30.476074218750004,
+        -14.530415228007362
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "jlL7SQngHi",
+        "title": "",
+        "description": "",
+        "imageId": 1061373,
+        "imagePath": "/game_map_pin/1061373/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        22.434082031250004,
+        -12.704650508287893
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "3EHDUj2vkH",
+        "title": "Laura Guill",
+        "description": "- *通缉：银行抢劫*",
+        "imageId": 1061374,
+        "imagePath": "/game_map_pin/1061374/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        19.819335937500004,
+        -10.260870794748941
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "imageId": 1061375,
+        "externalId": "xoel6SKhbk",
+        "title": "",
+        "description": "- *自由骑行时获取*",
+        "imagePath": "/game_map_pin/1061375/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        20.654296875000004,
+        -9.849803938000619
+      ],
+      "properties": {
+        "subcategoryExternalId": "d5F70b3oYj",
+        "imageId": 1061379,
+        "externalId": "tNViNfty9d",
+        "title": "明信片",
+        "description": "- *仅在自由驾驶模式中可用。*\n- *每个明信片位置都表示一辆可在自由驾驶模式中获得的隐藏汽车。*\n\n  - 维沃达汽车旅馆\n  - 麦克劳德庄园\n  - 中央岛\n  - 中央车站\n  - 海滨区",
+        "imagePath": "/game_map_pin/1061379/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        20.928955078125004,
+        -10.033766870069249
+      ],
+      "properties": {
+        "subcategoryExternalId": "1FGFz6L5Jh",
+        "imageId": 1061384,
+        "externalId": "a09SRXduKu",
+        "title": "Giuseppe Carillo",
+        "description": "香烟卡片 #17\n\n- *在自由驾驶中获得*",
+        "imagePath": "/game_map_pin/1061384/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -33.73818677564859,
+        -28.60439654048675
+      ],
+      "properties": {
+        "subcategoryExternalId": "f3xcqOhOCe",
+        "imageId": 1061398,
+        "externalId": "JIqtD82r8a",
+        "title": "曼塔",
+        "description": "- *仅在自由驾驶模式中可用。*\n- *在贝尔托内汽车服务站收集明信片以生成这辆隐藏汽车。*",
+        "imagePath": "/game_map_pin/1061398/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        9.975585937500004,
+        -39.55488305992402
+      ],
+      "properties": {
+        "subcategoryExternalId": "f3xcqOhOCe",
+        "imageId": 1061401,
+        "externalId": "aew7HdsKqZ",
+        "title": "烈焰长矛",
+        "description": "- *仅在自由驾驶模式中可用。*\n- *在贝尔托内汽车服务站收集明信片以生成这辆隐藏汽车。*",
+        "imagePath": "/game_map_pin/1061401/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        23.774414062500004,
+        -28.14950321154457
+      ],
+      "properties": {
+        "subcategoryExternalId": "f3xcqOhOCe",
+        "imageId": 1061404,
+        "externalId": "DXqBhqLoGR",
+        "title": "Trautenberg",
+        "description": "- *仅在自由驾驶模式中可用。*\n- *在贝尔托内汽车维修店收集明信片以生成这辆隐藏车辆。*\n- *从萨利埃里酒吧带一把枪来打破一些箱子并通过*。\n- *要打开车库，请按\"中间>左侧>右侧\"的顺序拉动墙上的拉杆。*",
+        "imagePath": "/game_map_pin/1061404/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        79.26635742187501,
+        -17.403062993328923
+      ],
+      "properties": {
+        "subcategoryExternalId": "f3xcqOhOCe",
+        "imageId": 1061422,
+        "externalId": "6XoZfJOWG5",
+        "title": "拉西特V16阿波利恩",
+        "description": "- *仅在自由驾驶模式中可用。*\n- *在贝尔托内汽车服务站收集明信片以生成这辆隐藏汽车。*",
+        "imagePath": "/game_map_pin/1061422/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        17.391357421875004,
+        68.65655498475738
+      ],
+      "properties": {
+        "subcategoryExternalId": "f3xcqOhOCe",
+        "imageId": 1061421,
+        "externalId": "gsVJd014Y8",
+        "title": "混乱",
+        "description": "- *仅在自由驾驶模式中可用。*\n- *在贝尔托内汽车服务站收集明信片以生成这辆隐藏汽车。*",
+        "imagePath": "/game_map_pin/1061421/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        20.445556640625004,
+        -10.260870794748941
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "YgCkhA7uxV",
+        "title": "贝托内汽车服务",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -26.806640625000007,
+        -19.559790136497412
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "TAQnVttuNQ",
+        "title": "萨列里酒吧",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        83.25439453125,
+        -17.874203439657492
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "g2bbxQKsbk",
+        "title": "麦克劳德庄园",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        3.3508300781250004,
+        64.72257151400667
+      ],
+      "properties": {
+        "subcategoryExternalId": "SRQ7g7PP2f",
+        "imageId": 1061464,
+        "externalId": "6enxKqlmEa",
+        "title": "痛苦之河",
+        "description": "恐怖故事 #2\n\n- *在自由行驶中获得。*",
+        "imagePath": "/game_map_pin/1061464/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -63.80859375000001,
+        27.9361805667694
+      ],
+      "properties": {
+        "subcategoryExternalId": "cGqhr0I3d5",
+        "imageId": 1061478,
+        "externalId": "5cfbGGDyg1",
+        "title": "绯红狐狸",
+        "description": "黑面具 #1\n\n- *在自由模式中获得。*",
+        "imagePath": "/game_map_pin/1061478/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -44.29687500000001,
+        65.03506043658815
+      ],
+      "properties": {
+        "subcategoryExternalId": "oEIyB8Hxvv",
+        "imageId": 1061481,
+        "externalId": "C8655pm6XY",
+        "title": "星际巡逻舰的破坏者",
+        "description": "超级科学故事 #11\n\n- *在免费游戏中获得。*",
+        "imagePath": "/game_map_pin/1061481/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -24.378662109375004,
+        67.72194361880837
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "K79MVpaCLh",
+        "title": "",
+        "description": "",
+        "imageId": 1061482,
+        "imagePath": "/game_map_pin/1061482/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -19.379882812500014,
+        64.34942106230747
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "hB2lLv5jV0",
+        "title": "",
+        "description": "",
+        "imageId": 1061488,
+        "imagePath": "/game_map_pin/1061488/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -19.16015625,
+        60.796703855260375
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "83DoRZC4Lu",
+        "title": "",
+        "description": "",
+        "imageId": 1061492,
+        "imagePath": "/game_map_pin/1061492/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -0.3515625,
+        62.734600877063585
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "TikSJ5SHYV",
+        "title": "",
+        "description": "",
+        "imageId": 1061495,
+        "imagePath": "/game_map_pin/1061495/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -1.5930175781250002,
+        31.466153715024294
+      ],
+      "properties": {
+        "subcategoryExternalId": "oEIyB8Hxvv",
+        "imageId": 1061496,
+        "externalId": "aVvMEKDcFX",
+        "title": "我们守护黑色星球",
+        "description": "超级科学故事 #12\n\n- *在免费游戏中获得。*",
+        "imagePath": "/game_map_pin/1061496/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        11.601562500000002,
+        40.20405042511328
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "Dpr6lkSjuj",
+        "title": "",
+        "description": "",
+        "imageId": 1061505,
+        "imagePath": "/game_map_pin/1061505/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        3.735351562500001,
+        44.504341277653936
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "GSy9iSYrd2",
+        "title": "",
+        "description": "",
+        "imageId": 1061508,
+        "imagePath": "/game_map_pin/1061508/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -10.415039062500002,
+        46.34692761055676
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "krQPGAoooJ",
+        "title": "",
+        "description": "",
+        "imageId": 1061509,
+        "imagePath": "/game_map_pin/1061509/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -30.47729285754834,
+        42.40938074192435
+      ],
+      "properties": {
+        "subcategoryExternalId": "SRQ7g7PP2f",
+        "imageId": 1061511,
+        "externalId": "TbL1l04eVN",
+        "title": "末日娃娃",
+        "description": "恐怖故事 #5\n\n- *在自由行驶中获得。*",
+        "imagePath": "/game_map_pin/1061511/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -36.530759654423335,
+        49.08296609716757
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "imageId": 1061520,
+        "externalId": "AItJpscKJl",
+        "title": "",
+        "description": "- *只能在第9章：乡村之旅故事任务中获取。*",
+        "imagePath": "/game_map_pin/1061520/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -39.431150279423335,
+        48.219289532781396
+      ],
+      "properties": {
+        "subcategoryExternalId": "SRQ7g7PP2f",
+        "imageId": 1061521,
+        "externalId": "ZDbJjgscNd",
+        "title": "这些都必须死！",
+        "description": "恐怖故事 #20\n\n- *只能在第9章：乡村之旅故事任务中获取。*",
+        "imagePath": "/game_map_pin/1061521/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -35.35400390625001,
+        46.25584681848025
+      ],
+      "properties": {
+        "subcategoryExternalId": "1FGFz6L5Jh",
+        "imageId": 1051968,
+        "externalId": "M5JvaxWmoD",
+        "title": "卡洛·法尔科内",
+        "description": "香烟卡 #12\n\n- *只能在第9章：乡村之旅故事任务中获取。*",
+        "imagePath": "/game_map_pin/1051968/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        1.3183593750000002,
+        -43.38109758727858
+      ],
+      "properties": {
+        "subcategoryExternalId": "SRQ7g7PP2f",
+        "imageId": 1053573,
+        "externalId": "Dw7TqB517Y",
+        "title": "尸体的新婚夜",
+        "description": "恐怖故事 #17\n\n- *只能在第20章：艺术之死故事任务中获得。*",
+        "imagePath": "/game_map_pin/1053573/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -27.202148437500004,
+        -19.932041306115494
+      ],
+      "properties": {
+        "subcategoryExternalId": "OdwxOgIBhh",
+        "imageId": null,
+        "externalId": "ZSOnRLtFdv",
+        "title": "乡村之旅",
+        "description": "第9章\n\n收藏品：\n- 香烟卡 #12\n- 侦探十美分杂志 #11\n- 神秘狐狸\n- 恐怖故事 #20\n\n成就：\n- 加拿大堂兄\n  - 完成章节",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -35.69458007812501,
+        48.698212165626394
+      ],
+      "properties": {
+        "subcategoryExternalId": "tIuwUOcgBx",
+        "imageId": 1051972,
+        "externalId": "eb8MIBg3HI",
+        "title": "天气晴朗 - 血腥追踪",
+        "description": "Dime Detective #11\n\n- *只能在第9章：乡村之旅故事任务中获得。*",
+        "imagePath": "/game_map_pin/1051972/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        41.70410156250001,
+        60.020952153748055
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "imageId": 1061527,
+        "externalId": "Jrz9kRlIiT",
+        "title": "",
+        "description": "",
+        "imagePath": "/game_map_pin/1061527/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        31.805419921875004,
+        57.397624055000456
+      ],
+      "properties": {
+        "subcategoryExternalId": "VGTP5jZ8kK",
+        "externalId": "gab8IYX7Vv",
+        "title": "牛仔装",
+        "description": "",
+        "imageId": 1061530,
+        "imagePath": "/game_map_pin/1061530/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        31.651611328125004,
+        57.76865857271793
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "imageId": 1061531,
+        "externalId": "3OvaCLaeoH",
+        "title": "Petr Dostal",
+        "description": "- *通缉令：非法制造酒精*",
+        "imagePath": "/game_map_pin/1061531/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        38.66088867187501,
+        56.065902963300424
+      ],
+      "properties": {
+        "subcategoryExternalId": "SRQ7g7PP2f",
+        "imageId": 1061532,
+        "externalId": "N36tRkDXD2",
+        "title": "地狱站长",
+        "description": "恐怖故事 #12\n\n- *在自由行驶中获得。*",
+        "imagePath": "/game_map_pin/1061532/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        53.11889648437501,
+        51.26878915771344
+      ],
+      "properties": {
+        "subcategoryExternalId": "oEIyB8Hxvv",
+        "imageId": 1061534,
+        "externalId": "sssOPVo0xu",
+        "title": "地球杀手",
+        "description": "超级科学故事 #15\n\n- *在免费游戏中获得。*",
+        "imagePath": "/game_map_pin/1061534/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        51.52587890625001,
+        45.00365115687186
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "imageId": null,
+        "externalId": "XyKg1WGlCg",
+        "title": "斯嘉丽·辛克莱",
+        "description": "- *通缉纵火犯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        52.22900390625001,
+        45.63708709571876
+      ],
+      "properties": {
+        "subcategoryExternalId": "SRQ7g7PP2f",
+        "imageId": 1061535,
+        "externalId": "8IDd2iDFyG",
+        "title": "临终女主人",
+        "description": "恐怖故事 #10\n\n- *在自由行驶中获得。*",
+        "imagePath": "/game_map_pin/1061535/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        41.143798828125014,
+        30.116621582819377
+      ],
+      "properties": {
+        "subcategoryExternalId": "1FGFz6L5Jh",
+        "imageId": 1061567,
+        "externalId": "C0vX9qzHTr",
+        "title": "卢西奥·马尔卡诺",
+        "description": "香烟卡片 #21\n\n- *仅在第16章：顶级乳脂故事任务期间获得。*",
+        "imagePath": "/game_map_pin/1061567/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        44.28588867187501,
+        30.06909396443887
+      ],
+      "properties": {
+        "subcategoryExternalId": "tIuwUOcgBx",
+        "imageId": 1061571,
+        "externalId": "1HMLKKexRG",
+        "title": "铁皮巷不在场证明",
+        "description": "《廉价侦探杂志》第17期\n\n- *只能在第16章：精英中的精英故事任务中获得。*",
+        "imagePath": "/game_map_pin/1061571/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        49.13085366352184,
+        29.569709438698602
+      ],
+      "properties": {
+        "subcategoryExternalId": "oEIyB8Hxvv",
+        "imageId": 1052024,
+        "externalId": "VoNzBiCI8z",
+        "title": "光之国的艾瑞塔",
+        "description": "超级科学 #7\n\n- *只能在第10章：缄默法则故事任务中获得。*",
+        "imagePath": "/game_map_pin/1052024/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -27.191162109375007,
+        -20.251890313952913
+      ],
+      "properties": {
+        "subcategoryExternalId": "OdwxOgIBhh",
+        "imageId": null,
+        "externalId": "BRWp5I686S",
+        "title": "精英中的精英",
+        "description": "第16章\n\n收藏品：\n- 香烟卡片 #21\n- 侦探小说 #17\n\n成就：\n- 战争结束的那一天\n  - 完成章节",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -15.45776367187502,
+        -7.329778414392976
+      ],
+      "properties": {
+        "subcategoryExternalId": "OdwxOgIBhh",
+        "imageId": null,
+        "externalId": "zE8ZgWqB8S",
+        "title": "缄默法则",
+        "description": "第10章\n\n收集品：\n- 恐怖故事 #18\n- 超级科学 #7\n- 香烟卡片 #5\n- 黑帮月刊 #1\n\n成就：\n- 屋里的老鼠\n  - 完成章节",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        46.46118164062501,
+        26.971037606255578
+      ],
+      "properties": {
+        "subcategoryExternalId": "1FGFz6L5Jh",
+        "externalId": "H1b1V3SXRi",
+        "title": "Frank Coletti",
+        "description": "香烟卡片 #5\n\n- *只能在第10章：缄默法则故事任务中获得。*",
+        "imageId": 1061630,
+        "imagePath": "/game_map_pin/1061630/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        11.041259765625002,
+        7.885147283424331
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "imageId": 1061635,
+        "externalId": "SYzvV0S85o",
+        "title": "Pablo Artime",
+        "description": "- *通缉身份盗窃罪*",
+        "imagePath": "/game_map_pin/1061635/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        11.667480468750002,
+        1.746555619313266
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "sSE4EVXRkL",
+        "title": "",
+        "description": "",
+        "imageId": 1061638,
+        "imagePath": "/game_map_pin/1061638/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        14.666748046875004,
+        -4.631179340410995
+      ],
+      "properties": {
+        "subcategoryExternalId": "1FGFz6L5Jh",
+        "imageId": 1061640,
+        "externalId": "VkU2we0weY",
+        "title": "路易·罗密欧",
+        "description": "香烟卡 #16\n\n- *在自由模式中获得。*",
+        "imagePath": "/game_map_pin/1061640/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        15.765380859375004,
+        5.255067828213569
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "imageId": 1061642,
+        "externalId": "k6f6EyhvjP",
+        "title": "佩特尔·萨维斯基",
+        "description": "- *因骚扰被通缉*",
+        "imagePath": "/game_map_pin/1061642/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        18.522949218750004,
+        2.657737790139791
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "CvGbaMTuIU",
+        "title": "佩佩餐厅",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        18.566894531250004,
+        2.8333171968553046
+      ],
+      "properties": {
+        "subcategoryExternalId": "oEIyB8Hxvv",
+        "imageId": 1061651,
+        "externalId": "uksc1VzvT4",
+        "title": "永恒的半途",
+        "description": "Super Science Stories #20\n\n- *仅可在第13章：吃好喝好故事任务中获取。*",
+        "imagePath": "/game_map_pin/1061651/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -27.465820312500007,
+        -19.942369189541992
+      ],
+      "properties": {
+        "subcategoryExternalId": "OdwxOgIBhh",
+        "imageId": null,
+        "externalId": "DJZb3IzBYn",
+        "title": "祝您用餐愉快",
+        "description": "第13章\n\n收集品：\n- 超级科学 #20\n\n成就：\n- 战争开始的那一天\n  - 完成章节",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        19.171142578125004,
+        1.6587038068676245
+      ],
+      "properties": {
+        "subcategoryExternalId": "cGqhr0I3d5",
+        "imageId": 1061656,
+        "externalId": "9Rf2vH6ODB",
+        "title": "女人能杀人",
+        "description": "黑面具 #11\n\n- *在自由驾驶中获得。*",
+        "imagePath": "/game_map_pin/1061656/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        30.981445312500004,
+        3.568247821628616
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "zydSyZCvFY",
+        "title": "",
+        "description": "",
+        "imageId": 1061661,
+        "imagePath": "/game_map_pin/1061661/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        23.367919921875004,
+        3.4147247646241112
+      ],
+      "properties": {
+        "subcategoryExternalId": "hVdvKJ7W23",
+        "imageId": 1061664,
+        "externalId": "kXXLdTSO9U",
+        "title": "黑手党三人组",
+        "description": "黑帮月刊 #5\n\n- *在自由驾驶中获得，使用餐厅后面的坡道。*",
+        "imagePath": "/game_map_pin/1061664/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        25.158691406250004,
+        3.3818237353282825
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZphG0HkSul",
+        "imageId": null,
+        "externalId": "OWZ783gTeK",
+        "title": "跳板",
+        "description": "*你可以使用跳板跳到小餐馆的屋顶来获取[黑手黑杂志月刊 #5: 黑手党三人组](wemoda://maps/43389/125?location=kXXLdTSO9U)。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        17.292480468750004,
+        -1.6806671337507169
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "xtrGZH4xoG",
+        "title": "维多利亚·马修斯",
+        "description": "- *通缉杀人犯*",
+        "imageId": 1061670,
+        "imagePath": "/game_map_pin/1061670/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        29.564208984375004,
+        1.1754546449158993
+      ],
+      "properties": {
+        "subcategoryExternalId": "oEIyB8Hxvv",
+        "imageId": 1061674,
+        "externalId": "EAbNosva9o",
+        "title": "黑日升起",
+        "description": "超级科学故事 #14\n\n- *在免费搭车中获得。*",
+        "imagePath": "/game_map_pin/1061674/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        31.124267578125004,
+        6.162400921526597
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "3z5hhFjUNj",
+        "title": "",
+        "description": "",
+        "imageId": 1061677,
+        "imagePath": "/game_map_pin/1061677/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        29.970703125000004,
+        10.109486058403773
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "dnrR3eXqeC",
+        "title": "登比·格雷斯",
+        "description": "- *因非法暴露罪被通缉*",
+        "imageId": 1061680,
+        "imagePath": "/game_map_pin/1061680/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        37.45239257812501,
+        11.899603531895703
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "rrSp61O6RS",
+        "title": "亚历克·索尔特",
+        "description": "- *通缉欺诈、私酿及冒充执法官员*",
+        "imageId": 1061682,
+        "imagePath": "/game_map_pin/1061682/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        38.84765625000001,
+        0.8788717828324276
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "wpKKsnurmu",
+        "title": "威尔·波特",
+        "description": "- *通缉：伪造、剽窃和勒索*",
+        "imageId": 1061690,
+        "imagePath": "/game_map_pin/1061690/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        35.87036132812501,
+        -5.637852598770853
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "Dh4qGiekdG",
+        "title": "Sander Flisijn",
+        "description": "- *通缉：银行抢劫*",
+        "imageId": 1061696,
+        "imagePath": "/game_map_pin/1061696/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        33.79394531250001,
+        -7.111794602472421
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "qnZjBQsDMn",
+        "title": "Bert Ruiter",
+        "description": "- *通缉：银行抢劫*",
+        "imageId": 1061701,
+        "imagePath": "/game_map_pin/1061701/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        21.741943359375,
+        -6.7737162387534795
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "8lwicN6Mfc",
+        "title": "Anita Tabaczkiewicz",
+        "description": "- *通缉：银行抢劫*",
+        "imageId": 1061702,
+        "imagePath": "/game_map_pin/1061702/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -43.29960141036632,
+        -12.570670191270604
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "imageId": 1055511,
+        "externalId": "pegdwyPF03",
+        "title": "伊娃·阿格里卡洛娃",
+        "description": "- *通缉茶杯投毒*",
+        "imagePath": "/game_map_pin/1055511/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        4.531022364358713,
+        -7.133930293486606
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "imageId": 1057833,
+        "externalId": "aKtsFYwFRV",
+        "title": "塞缪尔·S·韦特",
+        "description": "- *因走私珍稀动物被通缉*",
+        "imagePath": "/game_map_pin/1057833/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        46.15356445312501,
+        4.149200693099303
+      ],
+      "properties": {
+        "subcategoryExternalId": "cGqhr0I3d5",
+        "imageId": 1061789,
+        "externalId": "ECilzG5JRY",
+        "title": "鹿之派对",
+        "description": "黑面具 #12\n\n- *在自由模式中获得。*",
+        "imagePath": "/game_map_pin/1061789/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        51.70166015625001,
+        1.6367402361776067
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "ROgOx4ffkw",
+        "title": "米兰·多莱扎尔",
+        "description": "- *通缉：走私*",
+        "imageId": 1061792,
+        "imagePath": "/game_map_pin/1061792/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        61.50146484375001,
+        1.4061088354351594
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "C1ValReKIO",
+        "title": "",
+        "description": "",
+        "imageId": 1061821,
+        "imagePath": "/game_map_pin/1061821/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        64.75341796875001,
+        7.395152907137248
+      ],
+      "properties": {
+        "subcategoryExternalId": "oEIyB8Hxvv",
+        "imageId": 1061823,
+        "externalId": "YzaKzMrb2O",
+        "title": "减少危险！",
+        "description": "超级科学故事 #17\n\n- *在免费游戏中获得。*",
+        "imagePath": "/game_map_pin/1061823/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        67.92846679687501,
+        -1.3621763466641585
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "95vkt5xv3D",
+        "title": "",
+        "description": "",
+        "imageId": 1061827,
+        "imagePath": "/game_map_pin/1061827/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        61.98486328125001,
+        -5.7690358661221355
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "kWd71Pmij9",
+        "title": "",
+        "description": "",
+        "imageId": 1061828,
+        "imagePath": "/game_map_pin/1061828/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        61.58935546875001,
+        -8.993600464280018
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "to7S04ZEQA",
+        "title": "莫妮卡·马德",
+        "description": "- *通缉：谋杀*",
+        "imageId": 1061829,
+        "imagePath": "/game_map_pin/1061829/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        62.27050781250001,
+        -12.618897304044026
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "imageId": 1061830,
+        "externalId": "EvPgyigOIp",
+        "title": "Eliska Nohavicova",
+        "description": "- *通缉暴动者*",
+        "imagePath": "/game_map_pin/1061830/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        58.54614257812501,
+        -7.297087564171992
+      ],
+      "properties": {
+        "subcategoryExternalId": "SRQ7g7PP2f",
+        "imageId": 1061834,
+        "externalId": "XpeJZENMPD",
+        "title": "撒旦猎犬的女主人",
+        "description": "恐怖故事 #11\n\n- *在自由行驶中获得。*",
+        "imagePath": "/game_map_pin/1061834/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        50.833740234375,
+        -2.921097018708451
+      ],
+      "properties": {
+        "subcategoryExternalId": "cGqhr0I3d5",
+        "imageId": 1061839,
+        "externalId": "pXaBZ8dNSY",
+        "title": "直觉",
+        "description": "黑面具 #13\n\n- *在自由模式中获得。*",
+        "imagePath": "/game_map_pin/1061839/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        46.29638671875001,
+        -9.318990192397917
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "PlSlq55Hif",
+        "title": "格雷格·特温提曼",
+        "description": "- *通缉令：有伤风化罪*",
+        "imageId": 1061842,
+        "imagePath": "/game_map_pin/1061842/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        45.28564453125,
+        -8.581021215641842
+      ],
+      "properties": {
+        "subcategoryExternalId": "VGTP5jZ8kK",
+        "externalId": "ejc6LE4KBH",
+        "title": "流浪者装束",
+        "description": "",
+        "imageId": 1061844,
+        "imagePath": "/game_map_pin/1061844/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        42.5390625,
+        -9.752370139173285
+      ],
+      "properties": {
+        "subcategoryExternalId": "SRQ7g7PP2f",
+        "imageId": 1061850,
+        "externalId": "9ErL9eF46A",
+        "title": "被诅咒者之渴",
+        "description": "恐怖故事 #6\n\n- *在自由行驶中获得。*",
+        "imagePath": "/game_map_pin/1061850/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        43.72558593750001,
+        -9.199715262283302
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "ukUXVVp0ac",
+        "title": "",
+        "description": "",
+        "imageId": 1061852,
+        "imagePath": "/game_map_pin/1061852/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        44.989013671875,
+        -7.0245719178463695
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "imageId": null,
+        "externalId": "ATneUznH2g",
+        "title": "阿尔珀·伊斯勒",
+        "description": "- *通缉杀人犯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        43.87939453125001,
+        -14.41340016520608
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "imageId": 1061866,
+        "externalId": "mKDhl8FFIf",
+        "title": "",
+        "description": "",
+        "imagePath": "/game_map_pin/1061866/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        47.36206054687501,
+        -15.305379530436726
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "imageId": null,
+        "externalId": "Bo586LVgkn",
+        "title": "Jan Nohavica",
+        "description": "- *通缉纵火犯*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        45.68115234375001,
+        -24.246964554300924
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "0TD9HsUvSe",
+        "title": "托马斯",
+        "description": "- *通缉令：诈骗罪及冒充家用商品推销员*",
+        "imageId": 1062238,
+        "imagePath": "/game_map_pin/1062238/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        58.93066406250001,
+        -21.27913739410871
+      ],
+      "properties": {
+        "subcategoryExternalId": "cGqhr0I3d5",
+        "imageId": 1062239,
+        "externalId": "0JeeECyZaQ",
+        "title": "送别谋杀",
+        "description": "黑面具 #3\n\n- *在自由模式中获得。*",
+        "imagePath": "/game_map_pin/1062239/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        57.17285156250001,
+        -24.246964554300924
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "1TWhjuogNc",
+        "title": "",
+        "description": "",
+        "imageId": 1062241,
+        "imagePath": "/game_map_pin/1062241/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        56.55761718750001,
+        -27.215556209029675
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "TV7pIMzJnI",
+        "title": "Geert De Cnodder",
+        "description": "- *通缉：非法贩酒*",
+        "imageId": 1062243,
+        "imagePath": "/game_map_pin/1062243/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        57.44750976562501,
+        -28.352733760237818
+      ],
+      "properties": {
+        "subcategoryExternalId": "SRQ7g7PP2f",
+        "imageId": 1062244,
+        "externalId": "ZD0nKOmNCk",
+        "title": "沼泽神的新娘",
+        "description": "恐怖故事 #7\n\n- *在自由行驶中获得。*",
+        "imagePath": "/game_map_pin/1062244/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        61.64428710937501,
+        -28.613459424004414
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "imageId": 1062246,
+        "externalId": "zeDNAj5ODJ",
+        "title": "本·雷坦",
+        "description": "- *因敲诈、欺诈、典当、流氓行为、走私、劫持、和抢劫罪被通缉*",
+        "imagePath": "/game_map_pin/1062246/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        49.05395507812501,
+        -31.3348710339506
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "RtrtrQMexx",
+        "title": "Kristyna Drapalova",
+        "description": "- *通缉：谋杀和婚姻诈骗*",
+        "imageId": 1062247,
+        "imagePath": "/game_map_pin/1062247/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        50.965576171875,
+        -31.353636941500987
+      ],
+      "properties": {
+        "subcategoryExternalId": "VGTP5jZ8kK",
+        "externalId": "YvCeHpPOtg",
+        "title": "睡衣套装",
+        "description": "",
+        "imageId": 1062249,
+        "imagePath": "/game_map_pin/1062249/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        50.76782226562501,
+        -31.40053532686388
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "hsS1HQAbFA",
+        "title": "汤米的房子",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        58.19458007812501,
+        -37.20408155589851
+      ],
+      "properties": {
+        "subcategoryExternalId": "cGqhr0I3d5",
+        "imageId": 1062251,
+        "externalId": "Co28BbHX2Y",
+        "title": "烈焰天使",
+        "description": "黑面具 #20\n\n- *在自由模式中获得。*",
+        "imagePath": "/game_map_pin/1062251/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        76.70654296875001,
+        -35.58585159323235
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "vrg4DDUVeA",
+        "title": "",
+        "description": "",
+        "imageId": 1062255,
+        "imagePath": "/game_map_pin/1062255/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        78.189697265625,
+        -40.09488212232116
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "AByymAVOOL",
+        "title": "朱正豪",
+        "description": "- *通缉走私犯*",
+        "imageId": 1062256,
+        "imagePath": "/game_map_pin/1062256/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        80.18920898437501,
+        -40.145289295676605
+      ],
+      "properties": {
+        "subcategoryExternalId": "oEIyB8Hxvv",
+        "imageId": 1062257,
+        "externalId": "QGLDFHzaXa",
+        "title": "死亡水晶",
+        "description": "超级科学故事 #19\n\n- *在免费搭车中获得。*",
+        "imagePath": "/game_map_pin/1062257/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        80.00244140625001,
+        -40.22921818870116
+      ],
+      "properties": {
+        "subcategoryExternalId": "iDzPSBee5k",
+        "imageId": 1062262,
+        "externalId": "CSRob5D89k",
+        "title": "泰坦尼克号",
+        "description": "- *你可以在这里看到泰坦尼克号，停泊在海中。*",
+        "imagePath": "/game_map_pin/1062262/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        69.88403320312501,
+        -24.256981315882477
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "mfiLkGW206",
+        "title": "托马斯·费格尔",
+        "description": "- *通缉犯：盗车罪*",
+        "imageId": 1062263,
+        "imagePath": "/game_map_pin/1062263/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        69.04907226562501,
+        -17.17228278169307
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "externalId": "QqvfvIxvVf",
+        "title": "",
+        "description": "",
+        "imageId": 1062265,
+        "imagePath": "/game_map_pin/1062265/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        68.98315429687501,
+        -15.580710739162123
+      ],
+      "properties": {
+        "subcategoryExternalId": "cGqhr0I3d5",
+        "imageId": 1062266,
+        "externalId": "0YnioiiY7M",
+        "title": "红玉",
+        "description": "黑面具 #9\n\n- *在自由驾驶中获得。*",
+        "imagePath": "/game_map_pin/1062266/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        75.47607421875001,
+        -14.083301314706778
+      ],
+      "properties": {
+        "subcategoryExternalId": "lNOfCSQq3y",
+        "externalId": "wtcozuxQxX",
+        "title": "Eric Droessiger",
+        "description": "- *通缉伪造罪*",
+        "imageId": 1062267,
+        "imagePath": "/game_map_pin/1062267/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        40.19897460937501,
+        -37.57070524233115
+      ],
+      "properties": {
+        "subcategoryExternalId": "tIuwUOcgBx",
+        "imageId": 1062271,
+        "externalId": "pWYiekDcSV",
+        "title": "另一个杀手的马",
+        "description": "十分侦探杂志 #10\n\n- *只能在第15章：你这个幸运儿故事任务中获得。*",
+        "imagePath": "/game_map_pin/1062271/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -27.729492187500004,
+        -19.9630229298308
+      ],
+      "properties": {
+        "subcategoryExternalId": "OdwxOgIBhh",
+        "imageId": null,
+        "externalId": "tMptLOLqQB",
+        "title": "你真走运的混蛋",
+        "description": "第15章\n\n收藏品：\n- 十分侦探 #10\n- 香烟卡片 #9\n- 黑帮月刊 #10\n- 神秘狐狸\n\n成就：\n- 当上帝不再微笑\n  - 完成第15章",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -57.34863281250001,
+        -2.943040910055132
+      ],
+      "properties": {
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "externalId": "J11TATYBGv",
+        "title": "赛车场大门",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -30.190429687500004,
+        -39.73253798438173
+      ],
+      "properties": {
+        "subcategoryExternalId": "cGqhr0I3d5",
+        "imageId": 1062276,
+        "externalId": "qtaFY4TxmT",
+        "title": "柔软之城",
+        "description": "黑面具 #4\n\n- *在自由模式中获得。*",
+        "imagePath": "/game_map_pin/1062276/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        65.93994140625001,
+        5.648785679847313
+      ],
+      "properties": {
+        "subcategoryExternalId": "1FGFz6L5Jh",
+        "imageId": 1053370,
+        "externalId": "v694ejvlMb",
+        "title": "山米·罗宾逊",
+        "description": "香烟卡 #22\n\n- *在自由模式中获得。*",
+        "imagePath": "/game_map_pin/1053370/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -56.70043945312501,
+        -3.2282710112526445
+      ],
+      "properties": {
+        "subcategoryExternalId": "cGqhr0I3d5",
+        "imageId": 1051780,
+        "externalId": "GQICwpO1Zz",
+        "title": "坠毁的联邦探员故事",
+        "description": "黑色面具 #16\n\n- *在自由驾驶中获得。*",
+        "imagePath": "/game_map_pin/1051780/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -59.63378906250001,
+        -40.66397287638688
+      ],
+      "properties": {
+        "subcategoryExternalId": "cGqhr0I3d5",
+        "imageId": 1054083,
+        "externalId": "Pa52N4P2cT",
+        "title": "里士满市的麦克布赖德新故事",
+        "description": "黑面具 #6\n\n- *在自由模式中获得。*",
+        "imagePath": "/game_map_pin/1054083/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -55.98632812500001,
+        -39.9602803542957
+      ],
+      "properties": {
+        "subcategoryExternalId": "1FGFz6L5Jh",
+        "imageId": 1053513,
+        "externalId": "WmBp44hVYs",
+        "title": "托马索·莫雷蒂",
+        "description": "香烟卡 #11\n\n- *仅能在第18章：纯粹为了放松故事任务期间获得。*",
+        "imagePath": "/game_map_pin/1053513/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -27.729492187500004,
+        -20.26219712424654
+      ],
+      "properties": {
+        "subcategoryExternalId": "OdwxOgIBhh",
+        "imageId": null,
+        "externalId": "oMFZZfewtg",
+        "title": "只为放松",
+        "description": "第18章\n\n收藏品：\n- 《侦探小说》#16\n- 香烟卡片 #11\n- 《超级科学》#2\n\n成就：\n- 深入虎穴\n  - 完成章节",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -25.620117187500004,
+        -39.83385008019446
+      ],
+      "properties": {
+        "subcategoryExternalId": "1FGFz6L5Jh",
+        "imageId": 1054151,
+        "externalId": "KWjX4tVqb4",
+        "title": "Sergio Morello",
+        "description": "香烟卡 #9\n\n- *只能在第15章：你这个幸运的混蛋故事任务中获得。*",
+        "imagePath": "/game_map_pin/1054151/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -29.663085937500004,
+        6.249776453227831
+      ],
+      "properties": {
+        "subcategoryExternalId": "1FGFz6L5Jh",
+        "imageId": 1051826,
+        "externalId": "XfIZVZeqxe",
+        "title": "卢·马卡诺",
+        "description": "香烟卡 #19\n\n- *只能在第7章：最好习惯于此剧情任务期间获得。*",
+        "imagePath": "/game_map_pin/1051826/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -27.476806640625004,
+        -19.632240190483813
+      ],
+      "properties": {
+        "subcategoryExternalId": "OdwxOgIBhh",
+        "imageId": null,
+        "externalId": "ovU6893cZR",
+        "title": "最好习惯一下",
+        "description": "第七章\n\n收藏品：\n\n- 香烟卡片 #19\n- 侦探小说杂志 #6\n- 黑帮月刊 #8\n- 超级科幻故事 #16\n\n成就：\n- 唐人街上的风暴云\n  - 完成章节",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -26.982421875000004,
+        -19.02057711096684
+      ],
+      "properties": {
+        "subcategoryExternalId": "1FGFz6L5Jh",
+        "imageId": null,
+        "externalId": "Esj4jdlngz",
+        "title": "保利·隆巴多",
+        "description": "香烟卡片 #2\n\n- *仅在第3章：莫洛托夫派对故事任务中获取。*\n\n成就：\n- 家族史\n  - 找到一张'美国黑帮'香烟卡片",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -43.24218750000001,
+        -13.902075852500483
+      ],
+      "properties": {
+        "subcategoryExternalId": "1FGFz6L5Jh",
+        "imageId": null,
+        "externalId": "4s9rzdHJmH",
+        "title": "Sam Trapani",
+        "description": "香烟卡片 #3\n\n- *仅在第4章：日常例行公事故事任务中获取。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -26.949462890625,
+        -19.99399846948546
+      ],
+      "properties": {
+        "subcategoryExternalId": "1FGFz6L5Jh",
+        "imageId": 1055491,
+        "externalId": "a2qsNN0Q7T",
+        "title": "费利斯·佩波内",
+        "description": "香烟卡 #10\n\n- *在自由模式中获得。*",
+        "imagePath": "/game_map_pin/1055491/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        14.260253906250002,
+        -32.5190260278275
+      ],
+      "properties": {
+        "subcategoryExternalId": "1FGFz6L5Jh",
+        "imageId": 1062300,
+        "externalId": "ZRnC6ogSjt",
+        "title": "弗雷多·克莱门特",
+        "description": "香烟卡 #15\n\n- *在自由模式中获得。*",
+        "imagePath": "/game_map_pin/1062300/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -0.7250976562500001,
+        -6.227933930268672
+      ],
+      "properties": {
+        "subcategoryExternalId": "1FGFz6L5Jh",
+        "imageId": 1053496,
+        "externalId": "DjTCFQjdc9",
+        "title": "文森佐·里奇",
+        "description": "香烟卡 #6\n\n- *只能在第17章：竞选活动故事任务期间获得。*",
+        "imagePath": "/game_map_pin/1053496/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -27.729492187500004,
+        -19.642587534013018
+      ],
+      "properties": {
+        "subcategoryExternalId": "OdwxOgIBhh",
+        "imageId": null,
+        "externalId": "YzKfHVgXOA",
+        "title": "圣人与罪人",
+        "description": "第8章\n\n收藏品：\n- 侦探小说 #13\n- 香烟卡片 #14\n- 黑帮月刊 #9\n- 侦探小说 #19\n- 侦探小说 #18\n- 香烟卡片 #13\n\n成就：\n- 神殿谋杀案\n  - 完成章节",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        26.059570312500004,
+        -29.592565403314072
+      ],
+      "properties": {
+        "subcategoryExternalId": "1FGFz6L5Jh",
+        "imageId": 1051853,
+        "externalId": "aXQoZKRukT",
+        "title": "里奥·加兰特",
+        "description": "香烟卡片 #14\n\n- *只能在[第8章：圣徒与罪人](wemod:\\/\\/maps\\/43389\\/125?location=YzKfHVgXOA)故事任务中获得。*\n- *在104号房间内。*",
+        "imagePath": "/game_map_pin/1051853/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        32.71728515625001,
+        -27.059125784374054
+      ],
+      "properties": {
+        "subcategoryExternalId": "1FGFz6L5Jh",
+        "imageId": 1051872,
+        "externalId": "BziriboSDG",
+        "title": "Frank Vinci",
+        "description": "香烟卡片 #13\n\n- *只能在[第8章：圣人与罪人](wemod:\\/\\/maps\\/43389\\/125?location=YzKfHVgXOA)故事任务中获得。*",
+        "imagePath": "/game_map_pin/1051872/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        34.26635742187501,
+        -7.525872769006526
+      ],
+      "properties": {
+        "subcategoryExternalId": "1FGFz6L5Jh",
+        "imageId": 1053540,
+        "externalId": "c53QrBmyJi",
+        "title": "Sal Marcano",
+        "description": "香烟卡片 #20\n\n- *只能在第19章：兼职活剧情任务期间获得。*",
+        "imagePath": "/game_map_pin/1053540/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -27.191162109375007,
+        -20.581367353810066
+      ],
+      "properties": {
+        "subcategoryExternalId": "OdwxOgIBhh",
+        "imageId": null,
+        "externalId": "djA4EPoLnd",
+        "title": "兼职",
+        "description": "第19章\n\n收藏品：\n- 十侦探 #2\n- 香烟卡 #20\n\n成就：\n- 末路大分\n  - 完成章节",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        50.77880859375001,
+        -31.165809587861943
+      ],
+      "properties": {
+        "subcategoryExternalId": "1FGFz6L5Jh",
+        "imageId": 1053553,
+        "externalId": "GyqAtf66cK",
+        "title": "汤米·安杰洛",
+        "description": "香烟卡片 #1\n\n- *只能在故事任务第20章：艺术的死亡中获得。*",
+        "imagePath": "/game_map_pin/1053553/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        74.57519531250001,
+        -17.434510551522894
+      ],
+      "properties": {
+        "subcategoryExternalId": "1FGFz6L5Jh",
+        "imageId": 1053363,
+        "externalId": "KuJiwuIYXq",
+        "title": "恩尼奥·萨列里",
+        "description": "香烟卡 #4\n\n- *只能在第11章：访问富人故事任务中获得。*",
+        "imagePath": "/game_map_pin/1053363/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        62.09472656250001,
+        55.015425940562984
+      ],
+      "properties": {
+        "subcategoryExternalId": "tIuwUOcgBx",
+        "imageId": 1051679,
+        "externalId": "70BMcBj3hZ",
+        "title": "乡村杀机",
+        "description": "十分侦探杂志 #12\n\n- *可在第4章：日常例行任务期间获取，或自由骑行时获得。*",
+        "imagePath": "/game_map_pin/1051679/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        50.328369140625014,
+        -31.21280145833883
+      ],
+      "properties": {
+        "subcategoryExternalId": "OdwxOgIBhh",
+        "imageId": null,
+        "externalId": "upbsssVCjF",
+        "title": "艺术的消亡",
+        "description": "第20章\n\n收藏品：\n- 香烟卡 #1\n- 十侦探 #3\n- 黑帮月刊 #6\n- 超级科学 #13\n- 香烟卡 #18\n- 恐怖故事 #17\n\n成就：\n- 朋友和家人\n- 犯罪生涯\n- 地下老大",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -65.68725585937501,
+        -12.790374787613587
+      ],
+      "properties": {
+        "subcategoryExternalId": "tIuwUOcgBx",
+        "imageId": 1051772,
+        "externalId": "CgqtiHBSqO",
+        "title": "死亡吹熄了蜡烛",
+        "description": "十便士侦探 #9\n\n- *仅在第5章：公平竞争故事任务中获取。*",
+        "imagePath": "/game_map_pin/1051772/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -56.019287109375,
+        -40.8138092305696
+      ],
+      "properties": {
+        "subcategoryExternalId": "tIuwUOcgBx",
+        "imageId": 1053512,
+        "externalId": "cNcCfQPx1j",
+        "title": "点缀你的棺材",
+        "description": "侦探小报杂志 #16\n\n- *只能在第18章：只是为了放松故事任务期间获得。*",
+        "imagePath": "/game_map_pin/1053512/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -28.542480468750004,
+        -19.663280219987655
+      ],
+      "properties": {
+        "subcategoryExternalId": "tIuwUOcgBx",
+        "imageId": 1051631,
+        "externalId": "jOwbhoQ7u7",
+        "title": "死神穿红色高跟鞋",
+        "description": "侦探小说杂志 #14\n\n- *只能在第三章：汽油弹派对故事任务期间获得。*",
+        "imagePath": "/game_map_pin/1051631/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -26.883544921875004,
+        3.995780512963038
+      ],
+      "properties": {
+        "subcategoryExternalId": "tIuwUOcgBx",
+        "imageId": 1051821,
+        "externalId": "EDh2Qrqw5s",
+        "title": "Happy Murder to You!",
+        "description": "侦探小说杂志 #6\n\n- *只能在故事任务第7章：习惯就好期间获得。*",
+        "imagePath": "/game_map_pin/1051821/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -1.2414550781250002,
+        -26.578702269100557
+      ],
+      "properties": {
+        "subcategoryExternalId": "tIuwUOcgBx",
+        "imageId": 1053385,
+        "externalId": "uZY4s24TqO",
+        "title": "彭布利科的事后分析",
+        "description": "侦探小说杂志 #4\n\n- *只能在第12章：大交易故事任务中获得。*",
+        "imagePath": "/game_map_pin/1053385/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        27.663574218750004,
+        -29.697596502283204
+      ],
+      "properties": {
+        "subcategoryExternalId": "tIuwUOcgBx",
+        "imageId": 1051845,
+        "externalId": "XwUk0tcqGl",
+        "title": "墨西哥雪橇",
+        "description": "侦探零钱杂志第13期\n\n- *只能在第8章：圣徒与罪人任务期间获得。*\n- *在一楼的办公室内*",
+        "imagePath": "/game_map_pin/1051845/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        33.05786132812501,
+        -28.44937385955666
+      ],
+      "properties": {
+        "subcategoryExternalId": "tIuwUOcgBx",
+        "imageId": 1051870,
+        "externalId": "ysTDa5Dnd3",
+        "title": "活着，让别人死去",
+        "description": "侦探小说杂志 #18\n\n- *只能在故事任务第8章：圣人与罪人期间获得。*",
+        "imagePath": "/game_map_pin/1051870/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        32.87109375000001,
+        -29.812050767525047
+      ],
+      "properties": {
+        "subcategoryExternalId": "tIuwUOcgBx",
+        "imageId": 1057934,
+        "externalId": "RgvBpB9W9D",
+        "title": "来自冥府的女士",
+        "description": "侦探小说杂志 #19\n\n- *只能在第8章：圣人与罪人故事任务中获得。*",
+        "imagePath": "/game_map_pin/1057934/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        3.4387207031250004,
+        -45.01141864227727
+      ],
+      "properties": {
+        "subcategoryExternalId": "1FGFz6L5Jh",
+        "imageId": 1057879,
+        "externalId": "VDdNyBIBob",
+        "title": "Valerio Marcano",
+        "description": "香烟卡片 #18\n\n- *只能在故事任务第20章：艺术的死亡中获得。*",
+        "imagePath": "/game_map_pin/1057879/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        50.603027343750014,
+        -31.31610138349557
+      ],
+      "properties": {
+        "subcategoryExternalId": "tIuwUOcgBx",
+        "imageId": 1053558,
+        "externalId": "0LVA4x929j",
+        "title": "看我杀了你",
+        "description": "侦探小说杂志 #3\n\n- *只能在第20章：艺术之死故事任务中获得。*",
+        "imagePath": "/game_map_pin/1053558/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        74.35546875000001,
+        -16.28850594396304
+      ],
+      "properties": {
+        "subcategoryExternalId": "tIuwUOcgBx",
+        "imageId": 1053362,
+        "externalId": "ot1YxydQBN",
+        "title": "你是我咖啡里的罪恶",
+        "description": "十分钱侦探杂志 #8\n\n- *只能在第11章：拜访里奇家族故事任务中获得。*",
+        "imagePath": "/game_map_pin/1053362/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        34.82666015625001,
+        -8.189742344383689
+      ],
+      "properties": {
+        "subcategoryExternalId": "tIuwUOcgBx",
+        "imageId": 1053539,
+        "externalId": "IJxIUOPupv",
+        "title": "让骷髅作响",
+        "description": "十侦探杂志 #2\n\n- *仅能在第19章：走私故事任务期间获得。*\n- *位于二楼办公室的桌子上。*",
+        "imagePath": "/game_map_pin/1053539/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -1.2634277343750002,
+        -5.069057826784033
+      ],
+      "properties": {
+        "subcategoryExternalId": "tIuwUOcgBx",
+        "imageId": 1053490,
+        "externalId": "nru00Q1DA5",
+        "title": "以克里斯之印封存",
+        "description": "Dime Detective Magazine #15\n\n- *仅可在第17章：选举运动故事任务中获取。*\n- *在图书馆，三楼。*",
+        "imagePath": "/game_map_pin/1053490/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -2.8784179687500004,
+        -6.719164960283201
+      ],
+      "properties": {
+        "subcategoryExternalId": "tIuwUOcgBx",
+        "imageId": 1055592,
+        "externalId": "pkZJPJk3ag",
+        "title": "不在场的尸体",
+        "description": "廉价侦探杂志 #5\n\n- *只能在第17章：竞选活动故事任务中获得。*\n- *位于监狱西翼三楼的一间牢房内。*",
+        "imagePath": "/game_map_pin/1055592/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -14.062500000000004,
+        -38.90813299596704
+      ],
+      "properties": {
+        "subcategoryExternalId": "tIuwUOcgBx",
+        "imageId": 1053426,
+        "externalId": "pbkytUC1qO",
+        "title": "任何一天你都可能死亡",
+        "description": "侦探镍币杂志 #7\n\n- *只能在 第14章：生日快乐 故事任务期间获得。*\n- *在船的顶层甲板上，驾驶室外面。*",
+        "imagePath": "/game_map_pin/1053426/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -23.642578125000004,
+        -39.23225314171489
+      ],
+      "properties": {
+        "subcategoryExternalId": "hVdvKJ7W23",
+        "imageId": 1054152,
+        "externalId": "0iuvvvgdyF",
+        "title": "蒸汽男孩",
+        "description": "黑帮月刊 #10\n\n- *只能在第15章：你这个幸运儿故事任务中获得。*",
+        "imagePath": "/game_map_pin/1054152/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -17.193603515625004,
+        -20.632784250388028
+      ],
+      "properties": {
+        "subcategoryExternalId": "hVdvKJ7W23",
+        "imageId": 1053564,
+        "externalId": "CskdmlRPjZ",
+        "title": "兼职工作",
+        "description": "黑帮月刊 #6\n\n- *只能在第二十章：艺术之死故事任务中获得。*\n- *位于保利公寓楼顶层大厅尽头的桌子上。*",
+        "imagePath": "/game_map_pin/1053564/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -40.58349609375001,
+        -18.521283325496277
+      ],
+      "properties": {
+        "subcategoryExternalId": "hVdvKJ7W23",
+        "imageId": 1055506,
+        "externalId": "icriZneAFP",
+        "title": "诸圣节大屠杀",
+        "description": "黑帮月刊 #2\n\n- *在自由行驶中获得。*",
+        "imagePath": "/game_map_pin/1055506/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        19.753417968750004,
+        -11.329253026617337
+      ],
+      "properties": {
+        "subcategoryExternalId": "OdwxOgIBhh",
+        "imageId": null,
+        "externalId": "G0Gs61LxmQ",
+        "title": "无法拒绝的提议",
+        "description": "第一章\n\n成就：\n- 夜间追逐\n  - 完成章节",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        50.07568359375001,
+        -6.620957270326323
+      ],
+      "properties": {
+        "subcategoryExternalId": "OdwxOgIBhh",
+        "imageId": null,
+        "externalId": "bN5jXttrAY",
+        "title": "奔跑者",
+        "description": "第2章\n\n成就：\n- 小意大利的后街\n  - 完成章节",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -27.224121093750004,
+        -19.311143355064644
+      ],
+      "properties": {
+        "subcategoryExternalId": "OdwxOgIBhh",
+        "imageId": null,
+        "externalId": "ihY8qM5PoP",
+        "title": "莫洛托夫聚会",
+        "description": "第3章\n\n收藏品：\n- 香烟卡片 #2\n\n成就：\n- 这座城市的运作方式\n  - 完成章节",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -27.476806640625004,
+        -19.32151122681718
+      ],
+      "properties": {
+        "subcategoryExternalId": "OdwxOgIBhh",
+        "imageId": null,
+        "externalId": "Juor9VKYrT",
+        "title": "普通的例行公事",
+        "description": "第4章\n\n收藏品：\n- 香烟卡片 #3\n\n成就：\n- 失落的天堂帮派\n  - 完成章节",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -27.729492187500004,
+        -19.32151122681718
+      ],
+      "properties": {
+        "subcategoryExternalId": "OdwxOgIBhh",
+        "imageId": null,
+        "externalId": "MgVQGlEvWN",
+        "title": "公平竞赛",
+        "description": "第5章\n\n收藏品：\n- []()\n\n成就：\n-",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -64.95620656124676,
+        -14.221796787679578
+      ],
+      "properties": {
+        "subcategoryExternalId": "1FGFz6L5Jh",
+        "imageId": 1051768,
+        "externalId": "delOz9t0gg",
+        "title": "Luigi Marino",
+        "description": "香烟卡片 #7\n\n- *只能在第5章：公平竞争故事任务中获得。*\n\n成就：\n- 低俗小说\n  - 找到一本通俗杂志",
+        "imagePath": "/game_map_pin/1051768/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -27.213134765625,
+        -19.611543503814232
+      ],
+      "properties": {
+        "subcategoryExternalId": "OdwxOgIBhh",
+        "imageId": null,
+        "externalId": "iIRCNUcZgH",
+        "title": "莎拉",
+        "description": "第6章\n\n成就：\n- 无论如何夜晚散步总是好的\n  - 完成章节",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -30.849609375000004,
+        5.539445648546757
+      ],
+      "properties": {
+        "subcategoryExternalId": "oEIyB8Hxvv",
+        "imageId": 1051827,
+        "externalId": "ZOtzHhbtm0",
+        "title": "脑兽",
+        "description": "超级科学 #16\n- *只能在第7章：最好习惯它故事任务中获得。*",
+        "imagePath": "/game_map_pin/1051827/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -28.223876953125004,
+        4.8282597468669755
+      ],
+      "properties": {
+        "subcategoryExternalId": "hVdvKJ7W23",
+        "imageId": 1055556,
+        "externalId": "AjsiWvxL94",
+        "title": "赛车敲诈者",
+        "description": "黑帮月刊 #8\n\n- *只能在故事任务第7章：习惯就好期间获得。*",
+        "imagePath": "/game_map_pin/1055556/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        27.696533203124996,
+        -28.89277886451829
+      ],
+      "properties": {
+        "subcategoryExternalId": "hVdvKJ7W23",
+        "imageId": 1051856,
+        "externalId": "V8bOHXzCt0",
+        "title": "莎拉·摩尔的任务",
+        "description": "黑帮月刊 #9\n\n- *只能在第8章：圣人与罪人故事任务中获得。*\n- *在210房间的浴室内。*",
+        "imagePath": "/game_map_pin/1051856/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        4.075927734375001,
+        -16.119707906573183
+      ],
+      "properties": {
+        "subcategoryExternalId": "SRQ7g7PP2f",
+        "imageId": 1052010,
+        "externalId": "tu5OiDXRrN",
+        "title": "黑暗池之主",
+        "description": "恐怖故事 #18\n\n- *只能在第10章：Omerta故事任务期间获取。*",
+        "imagePath": "/game_map_pin/1052010/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        34.42016601562501,
+        -7.732765062729807
+      ],
+      "properties": {
+        "subcategoryExternalId": "hVdvKJ7W23",
+        "imageId": 1052796,
+        "externalId": "d6raoevftZ",
+        "title": "乡村之旅",
+        "description": "黑帮月刊 #1\n\n- *只能在 第十章：缄默法则 故事任务中获得。*",
+        "imagePath": "/game_map_pin/1052796/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        46.20849609375,
+        -28.777289039997605
+      ],
+      "properties": {
+        "subcategoryExternalId": "OdwxOgIBhh",
+        "imageId": null,
+        "externalId": "DmLabnODKB",
+        "title": "拜访富人",
+        "description": "第11章\n\n收藏品：\n- 超级科学 #10\n- 侦探十美分杂志 #8\n- 香烟卡 #4\n- 神秘狐狸\n\n成就：\n- 比奇山的血迹\n  - 完成章节",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        72.92724609375001,
+        -17.16178591271509
+      ],
+      "properties": {
+        "subcategoryExternalId": "oEIyB8Hxvv",
+        "imageId": 1053361,
+        "externalId": "8dgx5QaUMU",
+        "title": "时光囚徒",
+        "description": "超级科学故事 #10\n\n- *只能在第11章：拜访富人故事任务期间获取。*",
+        "imagePath": "/game_map_pin/1053361/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        73.89404296875001,
+        -17.182779056431826
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "imageId": 1053365,
+        "externalId": "u97xoEjXYg",
+        "title": "",
+        "description": "- *只能在第11章：拜访富人故事任务期间获取。*",
+        "imagePath": "/game_map_pin/1053365/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        65.96191406250001,
+        6.39173048548146
+      ],
+      "properties": {
+        "subcategoryExternalId": "OdwxOgIBhh",
+        "imageId": null,
+        "externalId": "4jnNbOUeoI",
+        "title": "大好机会",
+        "description": "第12章\n\n收藏品：\n- 恐怖故事 #16\n- 侦探小说杂志 #4\n\n成就：\n- 最佳计划\n  - 完成第12章",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -1.417236328125,
+        -26.86328062676624
+      ],
+      "properties": {
+        "subcategoryExternalId": "SRQ7g7PP2f",
+        "imageId": 1053384,
+        "externalId": "frxfpnh00y",
+        "title": "疯子的县集市",
+        "description": "恐怖故事 #16\n\n- *只能在第12章：大买卖故事任务中获得。*",
+        "imagePath": "/game_map_pin/1053384/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -27.905273437500004,
+        -18.81271785640776
+      ],
+      "properties": {
+        "subcategoryExternalId": "OdwxOgIBhh",
+        "imageId": null,
+        "externalId": "rZ6dhFwW9a",
+        "title": "生日快乐",
+        "description": "第14章\n\n收藏品：\n- 侦探镍币杂志 #1\n- 烟卡 #8\n- 超级科学 #8\n- 神秘狐狸\n- 侦探镍币杂志 #7\n\n成就：\n- 在水上的死亡\n  - 完成章节",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -11.195068359375002,
+        -37.53586597792038
+      ],
+      "properties": {
+        "subcategoryExternalId": "tIuwUOcgBx",
+        "imageId": 1053417,
+        "externalId": "sht3GgIczS",
+        "title": "请传递毒药",
+        "description": "侦探小说杂志 #1\n\n- *只能在故事任务第14章：生日快乐期间获得。*",
+        "imagePath": "/game_map_pin/1053417/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -14.359130859375002,
+        -38.90813299596704
+      ],
+      "properties": {
+        "subcategoryExternalId": "oEIyB8Hxvv",
+        "imageId": 1053424,
+        "externalId": "zf673t8Fua",
+        "title": "图密萨克的火焰塔",
+        "description": "超级科学故事 #8\n\n- *只能在 第14章：生日快乐 故事任务期间获得。*\n- *在船上的厨房里。*",
+        "imagePath": "/game_map_pin/1053424/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -14.655761718750002,
+        -38.90813299596704
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "imageId": 1053420,
+        "externalId": "D9gV0EgM5i",
+        "title": "",
+        "description": "- *只能在 第14章：生日快乐 故事任务期间获得。*\n- *在船的引擎舱内，汤米与看门人对话的地方。*",
+        "imagePath": "/game_map_pin/1053420/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -21.577148437500004,
+        -39.38526381099774
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "imageId": 1054153,
+        "externalId": "Iwjx0AlJ5w",
+        "title": "",
+        "description": "- *只能在第15章：你这个幸运的混蛋故事任务期间获得。*",
+        "imagePath": "/game_map_pin/1054153/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -27.465820312500007,
+        -20.26219712424654
+      ],
+      "properties": {
+        "subcategoryExternalId": "OdwxOgIBhh",
+        "imageId": null,
+        "externalId": "aQtbthbqrd",
+        "title": "竞选活动",
+        "description": "第17章\n\n收藏品：\n- 一角侦探 #5\n- 一角侦探 #15\n- 神秘狐狸\n- 恐怖故事 #19\n- 香烟卡片 #6\n\n成就：\n- 登峰造极\n  - 完成章节",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -0.6262207031250001,
+        -5.397273407690904
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "imageId": 1053491,
+        "externalId": "xWBf6lEhw5",
+        "title": "",
+        "description": "- *只能在第17章：竞选活动故事任务期间获得。*\n- *在前往塔楼顶端并射杀Turnbull之前，要在下楼梯底部的监狱守卫塔内收集此物，之后将无法返回获取。*",
+        "imagePath": "/game_map_pin/1053491/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -0.19775390625000003,
+        -6.664607562172573
+      ],
+      "properties": {
+        "subcategoryExternalId": "SRQ7g7PP2f",
+        "imageId": 1053494,
+        "externalId": "WbNXpny4Oj",
+        "title": "死亡情人",
+        "description": "恐怖故事 #19\n\n- *只能在第17章：竞选活动故事任务期间获得。*\n- *在Tommy从跌落中醒来并经过的一间警卫办公室内部。*",
+        "imagePath": "/game_map_pin/1053494/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -55.89843750000001,
+        -37.70120736474139
+      ],
+      "properties": {
+        "subcategoryExternalId": "oEIyB8Hxvv",
+        "imageId": 1053517,
+        "externalId": "n0qFg79WZc",
+        "title": "隐形之一",
+        "description": "超级科学故事 #2\n\n- *仅能在第18章：纯粹放松故事任务期间获得。*",
+        "imagePath": "/game_map_pin/1053517/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        3.5815429687500004,
+        -43.04480541304369
+      ],
+      "properties": {
+        "subcategoryExternalId": "oEIyB8Hxvv",
+        "imageId": 1057877,
+        "externalId": "B8DqQxo3hi",
+        "title": "黑暗军团",
+        "description": "超级科幻故事#13\n\n- *仅可在第20章：艺术的死亡故事任务期间获得。*",
+        "imagePath": "/game_map_pin/1057877/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        62.00683593750001,
+        55.29162848682992
+      ],
+      "properties": {
+        "subcategoryExternalId": "hVdvKJ7W23",
+        "imageId": 1051682,
+        "externalId": "1aExvtYLQ5",
+        "title": "一个你无法拒绝的提议",
+        "description": "黑帮月刊 #7\n\n- *可在故事任务第4章：日常工作期间或自由骑行模式中获得。*",
+        "imagePath": "/game_map_pin/1051682/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        62.06176757812501,
+        55.75803176823725
+      ],
+      "properties": {
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "imageId": 1051683,
+        "externalId": "5N7Fe8WPkj",
+        "title": "",
+        "description": "- *可在第四章：日常常规故事任务或自由游玩中获得。*",
+        "imagePath": "/game_map_pin/1051683/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -23.203125000000004,
+        -17.04628122538908
+      ],
+      "properties": {
+        "subcategoryExternalId": "cGqhr0I3d5",
+        "imageId": 1055494,
+        "externalId": "nddQ32I8JK",
+        "title": "谋杀案发生在市场",
+        "description": "黑面具 #19\n\n- *在自由模式中获得。*",
+        "imagePath": "/game_map_pin/1055494/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -18.391113281250004,
+        -11.027472194117948
+      ],
+      "properties": {
+        "subcategoryExternalId": "cGqhr0I3d5",
+        "imageId": 1055501,
+        "externalId": "LpZYJ4t4Ym",
+        "title": "烈焰",
+        "description": "黑面具 #5\n\n- *在自由模式中获得。*",
+        "imagePath": "/game_map_pin/1055501/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -3.8122558593750004,
+        -0.7580345254974054
+      ],
+      "properties": {
+        "subcategoryExternalId": "cGqhr0I3d5",
+        "imageId": 1055571,
+        "externalId": "duc48Sn5tz",
+        "title": "存储你的眼泪",
+        "description": "黑色面具 #10\n\n- *在自由骑行模式中获得。*",
+        "imagePath": "/game_map_pin/1055571/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        5.328369140625001,
+        -15.601874876739842
+      ],
+      "properties": {
+        "subcategoryExternalId": "cGqhr0I3d5",
+        "imageId": 1052014,
+        "externalId": "AlawY5J4o1",
+        "title": "交易",
+        "description": "黑色面具 #8\n\n- *在自由驾驶中获得。*",
+        "imagePath": "/game_map_pin/1052014/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        5.009781972253152,
+        -23.664650731631625
+      ],
+      "properties": {
+        "subcategoryExternalId": "cGqhr0I3d5",
+        "imageId": 1057845,
+        "externalId": "EEZxNIBXng",
+        "title": "没有恶感",
+        "description": "黑面具 #18\n\n- *在自由行动中获得。*",
+        "imagePath": "/game_map_pin/1057845/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        0.37353515625000006,
+        -24.006326198751115
+      ],
+      "properties": {
+        "subcategoryExternalId": "cGqhr0I3d5",
+        "imageId": 1057848,
+        "externalId": "NsDLSBlXr8",
+        "title": "雷斯·威廉姆斯在《六人死亡》",
+        "description": "黑面具 #15\n\n- *在自由行动中获得。*",
+        "imagePath": "/game_map_pin/1057848/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        27.98846946753683,
+        -28.188243641850313
+      ],
+      "properties": {
+        "subcategoryExternalId": "cGqhr0I3d5",
+        "imageId": 1058018,
+        "externalId": "QxacJz5NtG",
+        "title": "红色死神",
+        "description": "黑色面具 #17\n\n- *在自由模式中获取。*",
+        "imagePath": "/game_map_pin/1058018/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        32.83813476562501,
+        -29.22889003019423
+      ],
+      "properties": {
+        "subcategoryExternalId": "cGqhr0I3d5",
+        "imageId": 1058025,
+        "externalId": "ztHfXAa1uw",
+        "title": "雷斯·威廉姆斯从不虚张声势",
+        "description": "黑色面具 #2\n\n- *在自由模式中获取。*",
+        "imagePath": "/game_map_pin/1058025/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -5.427246093750001,
+        5.309766171943691
+      ],
+      "properties": {
+        "subcategoryExternalId": "hVdvKJ7W23",
+        "imageId": 1055564,
+        "externalId": "OvaBTlvJLQ",
+        "title": "小心河内刽子手",
+        "description": "黑帮月刊 #3\n\n- *在自由驾驶中获得。*",
+        "imagePath": "/game_map_pin/1055564/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        0.5383300781250001,
+        -7.046379130937701
+      ],
+      "properties": {
+        "subcategoryExternalId": "hVdvKJ7W23",
+        "imageId": 1055577,
+        "externalId": "uWS6oxXU9v",
+        "title": "吉米的复仇",
+        "description": "黑帮月刊 #4\n\n- *在自由驾驶中获得。*",
+        "imagePath": "/game_map_pin/1055577/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -16.578369140625004,
+        -7.199000723728773
+      ],
+      "properties": {
+        "subcategoryExternalId": "tIuwUOcgBx",
+        "imageId": 1052000,
+        "externalId": "VcMLCF7l0n",
+        "title": "死神给予永久烫发",
+        "description": "一角侦探杂志 #20\n\n- *在自由驾驶中获得。*",
+        "imagePath": "/game_map_pin/1052000/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -28.542480468750004,
+        -19.373340713364044
+      ],
+      "properties": {
+        "subcategoryExternalId": "oEIyB8Hxvv",
+        "imageId": 1051645,
+        "externalId": "IGdHysDVOk",
+        "title": "彗星的日子",
+        "description": "超级科学故事 #1\n\n- *在免费游戏中获得。*\n- *在Salieri's Bar后面车库里的一个桌子上。*",
+        "imagePath": "/game_map_pin/1051645/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -6.416015625000001,
+        -2.9540126939036355
+      ],
+      "properties": {
+        "subcategoryExternalId": "oEIyB8Hxvv",
+        "imageId": 1055573,
+        "externalId": "pPQxU7oQ3x",
+        "title": "碰撞路线",
+        "description": "超级科学故事 #4\n\n- *在免费搭车中获得。*",
+        "imagePath": "/game_map_pin/1055573/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -5.361328125,
+        -12.028575662342247
+      ],
+      "properties": {
+        "subcategoryExternalId": "oEIyB8Hxvv",
+        "imageId": 1057825,
+        "externalId": "HjryCkFxuw",
+        "title": "人属",
+        "description": "超级科学故事 #5\n\n- *在免费搭车中获得。*",
+        "imagePath": "/game_map_pin/1057825/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        14.150390625000002,
+        -22.988738160960736
+      ],
+      "properties": {
+        "subcategoryExternalId": "oEIyB8Hxvv",
+        "imageId": null,
+        "externalId": "lusL82G0g3",
+        "title": "天狼星星球",
+        "description": "超级科幻故事 #3\n\n- *在自由行动中获得。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -11.843261718750002,
+        -39.6987341434814
+      ],
+      "properties": {
+        "subcategoryExternalId": "oEIyB8Hxvv",
+        "imageId": 1057861,
+        "externalId": "NH8CsyzCpV",
+        "title": "星辰的流放者",
+        "description": "超级科学故事 #18\n\n- *在自由模式中获取。*",
+        "imagePath": "/game_map_pin/1057861/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -47.98828125000001,
+        3.052753821574483
+      ],
+      "properties": {
+        "subcategoryExternalId": "oEIyB8Hxvv",
+        "imageId": 1055547,
+        "externalId": "AjJ1yGKl9u",
+        "title": "未知任务",
+        "description": "超级科幻故事#6\n\n- *在自由乘车模式中获得。*",
+        "imagePath": "/game_map_pin/1055547/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -39.79248046875001,
+        -33.760882000869174
+      ],
+      "properties": {
+        "subcategoryExternalId": "SRQ7g7PP2f",
+        "imageId": 1054133,
+        "externalId": "ZWeONXddxH",
+        "title": "海蛇之娘",
+        "description": "恐怖故事#13\n\n- *在自由乘车模式中获得。*",
+        "imagePath": "/game_map_pin/1054133/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -44.16503906250001,
+        -39.16414104768743
+      ],
+      "properties": {
+        "subcategoryExternalId": "SRQ7g7PP2f",
+        "imageId": 1054138,
+        "externalId": "ezVoo0xTMy",
+        "title": "爬行狂乱",
+        "description": "惊悚故事 #4\n\n- *在免费骑行中获得。*",
+        "imagePath": "/game_map_pin/1054138/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -13.557128906250002,
+        -22.61401087437028
+      ],
+      "properties": {
+        "subcategoryExternalId": "SRQ7g7PP2f",
+        "imageId": 1055498,
+        "externalId": "NrQzvzjFk7",
+        "title": "活死人之屋",
+        "description": "恐怖故事 #1\n\n- *在自由驾驶中获得。*",
+        "imagePath": "/game_map_pin/1055498/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -20.544433593750004,
+        3.7984839750369748
+      ],
+      "properties": {
+        "subcategoryExternalId": "SRQ7g7PP2f",
+        "imageId": 1055560,
+        "externalId": "DSexBIhIgI",
+        "title": "诅咒者的新娘",
+        "description": "恐怖故事 #8\n\n- *在自由驾驶中获得。*",
+        "imagePath": "/game_map_pin/1055560/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        11.62353515625,
+        -12.876069959946493
+      ],
+      "properties": {
+        "subcategoryExternalId": "SRQ7g7PP2f",
+        "imageId": 1057834,
+        "externalId": "DxYWfYE39T",
+        "title": "当爱发狂时！",
+        "description": "恐怖故事 #3\n\n- *在自由骑行模式中获得。*",
+        "imagePath": "/game_map_pin/1057834/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        46.20849609375,
+        -23.82555130688476
+      ],
+      "properties": {
+        "subcategoryExternalId": "SRQ7g7PP2f",
+        "imageId": 1053440,
+        "externalId": "WtSxkKVhRD",
+        "title": "酒神的奴隶",
+        "description": "恐怖故事 #15\n\n- *在自由驾驶中获得。*",
+        "imagePath": "/game_map_pin/1053440/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -50.51513671875,
+        -13.389619591747595
+      ],
+      "properties": {
+        "subcategoryExternalId": "9vJjQzajS4",
+        "imageId": 1062551,
+        "externalId": "SVuqh27DtL",
+        "title": "疯狂的马",
+        "description": "副任务1\n\n- *仅限自由模式*。\n\n阅读便条：\n- 来自朋友的信\n  - 位于 Salieri's Bar 内的台球桌上。\n\n奖励：\n- 疯狂的马车型",
+        "imagePath": "/game_map_pin/1062551/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        35.40893554687501,
+        -36.580246601498644
+      ],
+      "properties": {
+        "subcategoryExternalId": "9vJjQzajS4",
+        "imageId": 1062592,
+        "externalId": "pMzWj2dnQY",
+        "title": "来自地狱的便士",
+        "description": "- *仅在自由骑行时可用*。\n- *完成疯狂马支线任务后解锁*。\n- 阅读“来自朋友的信”便条：\n  - 位于Salieri's Bar内楼梯底部的金属桶上。\n\n奖励：\n- 金色霰弹枪\n- 小丑装束",
+        "imagePath": "/game_map_pin/1062592/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -56.07025811537175,
+        -26.427981325790718
+      ],
+      "properties": {
+        "subcategoryExternalId": "9vJjQzajS4",
+        "imageId": 1062985,
+        "externalId": "MerCTCQG3O",
+        "title": "外星人渗透",
+        "description": "支线任务\n\n- *仅在自由驾驶模式中可用*。\n- *完成疯马支线任务后解锁*。\n- 阅读\"朋友来信\"纸条：\n  - 位于萨利埃里酒吧二楼老大房间内，桌子上雪茄盒旁边。\n\n奖励：\n- 外星人服装\n  - 完成奖励。",
+        "imagePath": "/game_map_pin/1062985/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        64.27059706650259,
+        8.340189741035806
+      ],
+      "properties": {
+        "subcategoryExternalId": "9vJjQzajS4",
+        "imageId": 1062950,
+        "externalId": "JR2F6MzsNv",
+        "title": "贝蒂",
+        "description": "支线任务\n\n- *仅在自由驾驶模式中可用*。\n- *完成疯马支线任务后解锁*。\n- 阅读\"朋友来信\"纸条：\n  - 位于萨利埃里酒吧二楼房间内，桌子上比萨饼旁边。\n\n奖励：\n- 史密斯莫雷载具\n  - 完成奖励。",
+        "imagePath": "/game_map_pin/1062950/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -0.999755859375,
+        65.93303449689427
+      ],
+      "properties": {
+        "subcategoryExternalId": "9vJjQzajS4",
+        "imageId": 1062965,
+        "externalId": "T58fwonRTE",
+        "title": "电动戏法卡车",
+        "description": "支线任务\n\n- *只在自由模式下可用*。\n- *在完成Crazy Horse支线任务后解锁*。\n- 阅读“来自朋友的信”笔记：\n  - 位于Salieri's Bar前门附近的桌子上。\n\n奖励：\n- 变异体载具\n  - 完成奖励。",
+        "imagePath": "/game_map_pin/1062965/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -30.113525390625004,
+        -39.766325256544896
+      ],
+      "properties": {
+        "subcategoryExternalId": "9vJjQzajS4",
+        "imageId": 1063475,
+        "externalId": "QuDRjcibnT",
+        "title": "码头封锁",
+        "description": "支线任务\n\n- *仅在自由骑行时可用*。\n- *完成疯狂马支线任务后解锁*。\n- 阅读“来自朋友的信”便条：\n  - 位于Salieri's Bar靠近台球桌门边的桌上。\n\n奖励：\n- 金色左轮手枪\n  - 完成奖励。",
+        "imagePath": "/game_map_pin/1063475/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        66.01506526988707,
+        -35.43600934183402
+      ],
+      "properties": {
+        "subcategoryExternalId": "9vJjQzajS4",
+        "externalId": "Zo0OtwazZB",
+        "title": "老调子",
+        "description": "支线任务\n\n- *仅在自由模式中可用*。\n- *完成Crazy Horse支线任务后解锁*。\n- 阅读“来自朋友的信”便条：\n  - 位于Salieri's Bar二楼的一个拳击袋旁的箱子上。\n\n奖励：\n- Brubaker 车辆\n  - 完成奖励。",
+        "imageId": 1063190,
+        "imagePath": "/game_map_pin/1063190/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -3.587500843538481,
+        -26.26582306494043
+      ],
+      "properties": {
+        "subcategoryExternalId": "9vJjQzajS4",
+        "imageId": 1063258,
+        "externalId": "C9hipqW5vE",
+        "title": "职业保护",
+        "description": "支线任务\n\n- *仅在自由模式中可用*。\n- *完成Crazy Horse支线任务后解锁*。\n- 阅读“来自朋友的信”便条：\n  - 位于Salieri's Bar会议室桌子上。\n\n奖励：\n- 金色汤普森\n  - 进入绿色汽车后，您将获得金色汤普森。",
+        "imagePath": "/game_map_pin/1063258/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        21.72966139949156,
+        4.111175704055028
+      ],
+      "properties": {
+        "subcategoryExternalId": "9vJjQzajS4",
+        "imageId": 1063274,
+        "externalId": "E6jLyykBVF",
+        "title": "爆炸性局势",
+        "description": "支线任务\n\n- *仅限自由模式中可用*。\n- *完成疯狂马支线任务后解锁*。\n- 阅读“来自朋友的信”便条：\n  - 位于萨利耶里酒吧二楼走廊的桌子上。\n\n奖励：\n- 拳击手套装\n  - 完成奖励。",
+        "imagePath": "/game_map_pin/1063274/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -28.33258720070476,
+        8.15882849027207
+      ],
+      "properties": {
+        "subcategoryExternalId": "9vJjQzajS4",
+        "imageId": 1063311,
+        "externalId": "YcOPCl1dpu",
+        "title": "中等速度",
+        "description": "支线任务\n\n- *仅在自由骑行时可用*。\n- *完成疯狂马支线任务后解锁*。\n- 阅读“来自朋友的信”便条：\n  - 位于Salieri's Bar内最靠门的会议室桌上。\n\n奖励：\n- 机械师装束\n  - 完成奖励。",
+        "imagePath": "/game_map_pin/1063311/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        42.909691046917466,
+        -20.692811293558506
+      ],
+      "properties": {
+        "subcategoryExternalId": "9vJjQzajS4",
+        "externalId": "7aFnLjbekk",
+        "title": "花哨先生的自行车",
+        "description": "支线任务\n\n- *仅在自由驾驶模式中可用*。\n- *完成疯马支线任务后解锁*。\n- 阅读\"朋友来信\"笔记：\n  - 位于萨列里酒吧二楼的大桌子上，桌上有失落天堂地图。\n\n奖励：\n- Waybar概念车\n  - 完成奖励。",
+        "imageId": 1063336,
+        "imagePath": "/game_map_pin/1063336/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -19.885253906250007,
+        -14.093957177836245
+      ],
+      "properties": {
+        "subcategoryExternalId": "9vJjQzajS4",
+        "imageId": 1063361,
+        "externalId": "vIsJW5Nmyz",
+        "title": "巴斯克维尔的诅咒",
+        "description": "支线任务\n\n- *仅限自由模式中可用*。\n- *完成所有支线任务后解锁*。\n- 阅读“来自朋友的信”便条：\n  - 位于萨利耶里酒吧二楼老板桌上。\n\n奖励：\n- 赫伯特·巴斯克维尔套装\n  - 完成奖励。",
+        "imagePath": "/game_map_pin/1063361/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -19.786376953125004,
+        -14.09395717783626
+      ],
+      "properties": {
+        "subcategoryExternalId": "VGTP5jZ8kK",
+        "imageId": null,
+        "externalId": "E1Hbw9WRZI",
+        "title": "赫伯特·巴斯克维尔套装",
+        "description": "- *完成巴斯克维尔的诅咒支线任务后获得的奖励。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -55.982921684120384,
+        -26.436700066522988
+      ],
+      "properties": {
+        "subcategoryExternalId": "VGTP5jZ8kK",
+        "imageId": null,
+        "externalId": "Rg53BGbZCo",
+        "title": "外星人装束",
+        "description": "- *完成外星人渗透支线任务后获得的奖励。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -28.278808593750004,
+        8.146242825034406
+      ],
+      "properties": {
+        "subcategoryExternalId": "VGTP5jZ8kK",
+        "imageId": null,
+        "externalId": "qN3rrUJT8I",
+        "title": "机械师套装",
+        "description": "- *完成中速度行驶支线任务后获得的奖励。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        21.818847656250004,
+        4.116327411282953
+      ],
+      "properties": {
+        "subcategoryExternalId": "VGTP5jZ8kK",
+        "imageId": null,
+        "externalId": "KEMYZEvouS",
+        "title": "拳击手套装",
+        "description": "- *完成爆炸局势支线任务后获得的奖励。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        35.48583984375001,
+        -36.58906837139911
+      ],
+      "properties": {
+        "subcategoryExternalId": "VGTP5jZ8kK",
+        "imageId": null,
+        "externalId": "op4YGegoMW",
+        "title": "小丑套装",
+        "description": "- *完成[地狱便士]()支线任务的奖励。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        35.32104492187501,
+        -36.597889133070204
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZphG0HkSul",
+        "imageId": null,
+        "externalId": "MC8cvEAE5n",
+        "title": "金色霰弹枪",
+        "description": "- *作为地狱散财支线任务的一部分获得。*\n - 杀死金库里的小丑后，捡起它加入你的装备库。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -3.699672585864715,
+        -26.265823064940427
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZphG0HkSul",
+        "imageId": null,
+        "externalId": "wAM8ey0vCm",
+        "title": "金色汤普森冲锋枪",
+        "description": "- 作为[专业保护]()支线任务的一部分获得。\n - 进入绿色汽车后，你会得到金色汤普森冲锋枪。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        78.81386106930992,
+        -39.942752093061394
+      ],
+      "properties": {
+        "subcategoryExternalId": "iDzPSBee5k",
+        "imageId": null,
+        "externalId": "9ecSprFjXZ",
+        "title": "神经闪存器",
+        "description": "- *在副任务外星入侵的最后，两个穿着黑西装的男人会骑着蝠鲼原型机出现，然后屏幕会闪现白光，Tommy会醒来，任务就此结束。*\n- *这是对《黑衣人》中的神经闪存器的一个引用。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        30.031926498786834,
+        -28.950475674848022
+      ],
+      "properties": {
+        "subcategoryExternalId": "VGTP5jZ8kK",
+        "imageId": 1058023,
+        "externalId": "YwcCNrEK44",
+        "title": "电梯操作员服装",
+        "description": "",
+        "imagePath": "/game_map_pin/1058023/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -30.03759768406346,
+        -39.813629708211394
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZphG0HkSul",
+        "imageId": null,
+        "externalId": "AJ8BKH7Gfh",
+        "title": "金色左轮手枪",
+        "description": "- *完成码头隔离支线任务的奖励。*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        81.815185546875,
+        -18.041421221891937
+      ],
+      "properties": {
+        "subcategoryExternalId": "SRQ7g7PP2f",
+        "imageId": 1062268,
+        "externalId": "x9mvrbbVlM",
+        "title": "撒旦的爱情集市",
+        "description": "恐怖故事集 #9\n\n- *在自由驾驶模式中获得。*",
+        "imagePath": "/game_map_pin/1062268/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        8.942871093750002,
+        71.53187073776817
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 99.2801513671875,
+          "y": 3310.86376953125,
+          "z": 163.4970245361328
+        },
+        "externalId": "j2wBPTwon8",
+        "title": "爱上僵尸的男人",
+        "description": "恐怖故事 #14\n\n- *在自由驾驶中获得。*",
+        "subcategoryExternalId": "SRQ7g7PP2f",
+        "imageId": 1061423,
+        "imagePath": "/game_map_pin/1061423/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        9.470214843750018,
+        -44.16644466445859
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 124.33161163330078,
+          "y": -1079.3516845703125,
+          "z": 4.235233783721924
+        },
+        "externalId": "kW0ihQ5yr2",
+        "title": "海鲜小屋",
+        "description": "",
+        "subcategoryExternalId": "LmZZ7WRABT",
+        "imageId": null,
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        13.260498046875002,
+        -43.516688535029076
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": 233.08578491210938,
+          "y": -1049.5723876953125,
+          "z": 12.149538040161133
+        },
+        "externalId": "apqlL0T1iW",
+        "title": "",
+        "description": "",
+        "subcategoryExternalId": "ljPU1mLnMb",
+        "imageId": 1057883,
+        "imagePath": "/game_map_pin/1057883/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        2.9113769531250004,
+        -42.05745022024681
+      ],
+      "properties": {
+        "gameCoords": {
+          "x": -62.61174011230469,
+          "y": -996.5694580078125,
+          "z": 4.0116472244262695
+        },
+        "externalId": "5yAv7neOrF",
+        "title": "预约死亡",
+        "description": "黑面具 #14\n\n- *在自由驾驶中获得。*",
+        "subcategoryExternalId": "cGqhr0I3d5",
+        "imageId": 1057881,
+        "imagePath": "/game_map_pin/1057881/{size}.webp"
+      }
+    }
+  ]
+}

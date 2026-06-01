@@ -1,0 +1,16 @@
+{
+  "slug": "far-cry-6",
+  "title": "Far Cry 6",
+  "heroUrl": "/assets/images/games/far-cry-6/hero.webp",
+  "maps": [
+    {
+      "name": "Yara",
+      "slug": "yara",
+      "thumbnailUrl": "/assets/images/games/far-cry-6/yara.webp",
+      "updatedAt": "2026-02-05T08:10:48Z",
+      "markerCount": 2242,
+      "categoryCount": 8,
+      "subcategoryCount": 71
+    }
+  ]
+}

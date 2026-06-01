@@ -1,0 +1,15 @@
+{
+  "title": "Crimson Desert",
+  "heroUrl": "/assets/images/games/crimson-desert/pywel.webp",
+  "maps": [
+    {
+      "name": "Pywel",
+      "slug": "pywel",
+      "thumbnailUrl": "/assets/images/games/crimson-desert/pywel.webp",
+      "updatedAt": "2026-05-25T04:51:01Z",
+      "markerCount": 5878,
+      "categoryCount": 14,
+      "subcategoryCount": 102
+    }
+  ]
+}

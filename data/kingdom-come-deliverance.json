@@ -1,0 +1,16 @@
+{
+  "slug": "kingdom-come-deliverance",
+  "title": "Kingdom Come: Deliverance",
+  "heroUrl": "/assets/images/games/kingdom-come-deliverance/hero.webp",
+  "maps": [
+    {
+      "name": "World",
+      "slug": "world",
+      "thumbnailUrl": "/assets/images/games/kingdom-come-deliverance/world.webp",
+      "updatedAt": "2026-02-05T08:10:57Z",
+      "markerCount": 1000,
+      "categoryCount": 47,
+      "subcategoryCount": 47
+    }
+  ]
+}

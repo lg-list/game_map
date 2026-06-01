@@ -1,0 +1,5253 @@
+{
+  "metadata": {
+    "externalId": "CXHGVrYPpB",
+    "name": "World",
+    "slug": "red-dead-redemption",
+    "baseTilePath": "https://storage-cdn.wemod.com/maps/961e3428-18a2-46ae-8b2b-a4b8db2f39ca/tiles",
+    "isChecklistPublished": true,
+    "isInActiveDevelopment": false,
+    "backgroundColor": "#cdcabf",
+    "minZoom": 1,
+    "maxZoom": 6,
+    "initialZoom": null,
+    "tmsEnabled": false,
+    "categories": [
+      {
+        "externalId": "LtNE0WAMWE",
+        "gameMapExternalId": "CXHGVrYPpB",
+        "title": "未命名分类",
+        "color": "#323434",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "3kciR4Nwv2",
+        "gameMapExternalId": "CXHGVrYPpB",
+        "title": "战利品",
+        "color": "#1e6976",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "OUU8Q652og",
+        "gameMapExternalId": "CXHGVrYPpB",
+        "title": "地点",
+        "color": "#5a1d8b",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "LdR9jotSJA",
+        "gameMapExternalId": "CXHGVrYPpB",
+        "title": "战利品",
+        "color": "#8e130b",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "IEavlAsK1c",
+        "gameMapExternalId": "CXHGVrYPpB",
+        "title": "未命名分类",
+        "color": "#234271",
+        "visibleByDefault": true,
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "subcategories": [
+      {
+        "externalId": "OKn6M3G8cm",
+        "categoryExternalId": "LtNE0WAMWE",
+        "title": "未命名子分类",
+        "icon": "diamond-exclamation",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "tyt3hTyPpi",
+        "categoryExternalId": "LtNE0WAMWE",
+        "title": "巡夜工作",
+        "icon": "moon",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "hiltIQa5mO",
+        "categoryExternalId": "LtNE0WAMWE",
+        "title": "陌生人任务",
+        "icon": "comment-question",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "ZXktYlzC43",
+        "categoryExternalId": "LtNE0WAMWE",
+        "title": "驯马工作",
+        "icon": "roundies:animals-horse_1",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "SxqidBgQwj",
+        "categoryExternalId": "3kciR4Nwv2",
+        "title": "箱子",
+        "icon": "treasure-chest",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "hgDv0u9XdZ",
+        "categoryExternalId": "3kciR4Nwv2",
+        "title": "未命名子分类",
+        "icon": "raygun",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "StfzrBZWB6",
+        "categoryExternalId": "OUU8Q652og",
+        "title": "城镇",
+        "icon": "roundies:architecture-housing",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "3XTTIfcRz7",
+        "categoryExternalId": "OUU8Q652og",
+        "title": "杂货店",
+        "icon": "sign-hanging",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "hXAkRKUuMf",
+        "categoryExternalId": "OUU8Q652og",
+        "title": "枪匠",
+        "icon": "roundies:airport-and-hotels-weapon-case",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "H2Sb5av7hI",
+        "categoryExternalId": "OUU8Q652og",
+        "title": "电影屋",
+        "icon": "camera-movie",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "Gj1Hz4eLuu",
+        "categoryExternalId": "OUU8Q652og",
+        "title": "驿站马车",
+        "icon": "wagon-covered",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "eGt2OoMMW3",
+        "categoryExternalId": "OUU8Q652og",
+        "title": "公墓",
+        "icon": "coffin-cross",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "5EC2o0COVe",
+        "categoryExternalId": "OUU8Q652og",
+        "title": "安全屋",
+        "icon": "roundies:architecture-house",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "8zanqwtR8S",
+        "categoryExternalId": "OUU8Q652og",
+        "title": "医生办公室",
+        "icon": "doctor",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "hYAZpIpQKe",
+        "categoryExternalId": "OUU8Q652og",
+        "title": "裁缝",
+        "icon": "scissors",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "iSrkabiFvW",
+        "categoryExternalId": "OUU8Q652og",
+        "title": "酒馆",
+        "icon": "roundies:home-interior-two-door-closet",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "1d31JrsYD8",
+        "categoryExternalId": "OUU8Q652og",
+        "title": "电报局",
+        "icon": "tower-control",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "nUhX1PSWeD",
+        "categoryExternalId": "LdR9jotSJA",
+        "title": "传奇动物",
+        "icon": "crown",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "KtRxepyBA3",
+        "categoryExternalId": "LdR9jotSJA",
+        "title": "未命名子分类",
+        "icon": "roundies:camera-and-photography-group-picture",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "waTjJzJ6Mu",
+        "categoryExternalId": "LdR9jotSJA",
+        "title": "悬赏目标",
+        "icon": "skull",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "0byzBXdhF0",
+        "categoryExternalId": "IEavlAsK1c",
+        "title": "扳手臂",
+        "icon": "handshake",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "YhDH3K6osB",
+        "categoryExternalId": "IEavlAsK1c",
+        "title": "马蹄铁",
+        "icon": "u",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "dUDtwSm5kH",
+        "categoryExternalId": "IEavlAsK1c",
+        "title": "吹牛骰子",
+        "icon": "roundies:games-and-sports-five-dice",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "GkGooTJpwK",
+        "categoryExternalId": "IEavlAsK1c",
+        "title": "藏身处",
+        "icon": "roundies:roundies-freebie-castle",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "G2eE3daBeb",
+        "categoryExternalId": "IEavlAsK1c",
+        "title": "扑克",
+        "icon": "aperture",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "dy0VnhvH6C",
+        "categoryExternalId": "IEavlAsK1c",
+        "title": "五指切肉",
+        "icon": "hand-wave",
+        "excludeFromChecklists": false,
+        "description": null
+      },
+      {
+        "externalId": "hiFVG0N1h6",
+        "categoryExternalId": "IEavlAsK1c",
+        "title": "二十一点",
+        "icon": "roundies:games-and-sports-spades",
+        "excludeFromChecklists": false,
+        "description": null
+      }
+    ],
+    "playerLocationDeltas": null
+  },
+  "features": [
+    {
+      "coordinates": [
+        30.498046875000004,
+        10.401377554543544
+      ],
+      "properties": {
+        "subcategoryExternalId": "hgDv0u9XdZ",
+        "imageId": 1224919,
+        "externalId": "jPAE7ViXKF",
+        "title": "连发卡宾枪",
+        "description": "在任务：新朋友，旧问题过程中自动获得",
+        "imagePath": "/game_map_pin/1224919/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -56.469726562500014,
+        8.233237111274562
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "vWdHRaE479",
+        "title": "",
+        "description": "在围栏和小推车之间",
+        "imageId": 1225023,
+        "imagePath": "/game_map_pin/1225023/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -6.784395499836021,
+        -19.523326169551925
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "bye1r28FQr",
+        "title": "老骗子的蓝调",
+        "description": "上一个任务：派克盆地的正义\n#\n金牌目标：\n- 最快时间：2:20\n- 射击准确率：100%\n- 爆头数：4\n#\n奖励：\n- 100点荣誉\n- 75点声望\n- 125点声望（金牌奖励）\n#\n下一个任务：\n- 不教训强盗就会宠坏他们\n- 不可作伪证，除非能获利",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -25.290527343750004,
+        1.4720060101903272
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "nvmfsXBOGj",
+        "title": "不可作伪证，除非能获利",
+        "description": "完成以下任务后可解锁：\n- 女人和牛\n- 老骗子的蓝调\n#\n金牌目标：\n- 最快时间：3:39\n#\n奖励：\n- 死眼等级2\n- 25点声望\n- 75点声望（金牌奖励）\n#\n下一个任务：\n- 掘墓和其他高雅嗜好",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        30.498046875000004,
+        9.687398430760624
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "MY8M1oCaCE",
+        "title": "燃烧",
+        "description": "上一个任务：\n- 风暴将至\n- 不教训强盗就会宠坏他们\n#\n金牌目标：\n- 最快时间：4:34\n#\n奖励：\n- 150点荣誉\n- 75点声望\n- 125点声望（金牌奖励）\n#\n下一个任务：\n- 绞死邦妮·麦克法兰",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -104.32894262672542,
+        -12.323280102205302
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "U7WHcPpv2r",
+        "title": "让死者埋葬死者",
+        "description": "上一个任务：与友人悠闲驾车\n#\n金牌目标：\n- 最快时间：2:10\n- 射击准确率：80%\n- 爆头数：14\n#\n奖励：\n- $10\n- 100点荣誉\n- 150点声望\n- 200点声望（金牌奖励）\n#\n下一个任务：\n- 进攻梅塞尔堡",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -10.656738281250002,
+        -9.730714305756948
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "QwvgiFs5kT",
+        "title": "与友人悠闲驾车",
+        "description": "上一个任务：掘墓和其他高雅嗜好\n#\n金牌目标：\n- 最快时间：3:15\n- 射击准确率：100%\n- 爆头数：7\n#\n奖励：\n- $10\n- 2x药品\n- 75点声望\n- 125点声望（金牌奖励）\n#\n下一个任务：\n- 让死者埋葬死者",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -70.09277343750001,
+        -44.543505213208185
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "PaDuJqjdPj",
+        "title": "骗子能改变本性吗？",
+        "description": "上一个任务：骗子、无赖和其他骄傲的美国人\n#\n金牌目标：\n- 最快时间：5:35\n- 射击准确率：86%\n- 爆头数：12\n#\n奖励：\n- $25\n- 75点声望\n- 125点声望（金牌奖励）\n#\n下一个任务：\n- 国王和骗子的运动",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -52.91015625000001,
+        -39.87601941962113
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "dxOl672MsS",
+        "title": "进攻梅塞尔堡",
+        "description": "完成以下任务后解锁：\n- 绞死邦妮·麦克法兰\n- 国王和骗子的运动\n- 让死者埋葬死者\n- 在谢基的地盘\n#\n奖励：\n- $50\n- 150点声望\n- 200点声望（金牌奖励）\n#\n下一个任务：\n- 我们将在天堂相聚",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -24.0380859375,
+        0.6371938961998893
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "h1LniL09qW",
+        "title": "绞死邦妮·麦克法兰",
+        "description": "上一个任务：\n- 不教训强盗就会宠坏他们\n- 燃烧\n#\n金牌目标：\n- 最快时间：6:14\n- 射击准确率：90%\n- 爆头数：7\n#\n奖励：\n- 150点声望\n- 200点声望（金牌奖励）\n#\n下一个任务：\n- 进攻梅塞尔堡",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -123.48632812500003,
+        -60.064840460104456
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "xecXDFrzSW",
+        "title": "恶魔之酒",
+        "description": "上一个: Civilization, at Any Price\n#\n金牌目标：\n- 最快时间：4:10\n- 射击精度：70%\n- 爆头数：3\n#\n奖励：\n- $50\n- 燃烧瓶\n- 350 声望\n- 400 声望（金牌奖励）\n#\n下一个任务：\n- Empty Promises",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -50.53137500706563,
+        -58.62828411503672
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "L28a6osPyD",
+        "title": "兰登·里克茨再次出击",
+        "description": "上一个任务：枪手的悲剧\n#\n金牌目标：\n- 最快时间：9:45\n- 射击精准度：80%\n- 爆头数量：15\n#\n奖励：\n- 50 荣誉值\n- 75 声望值\n- 125 声望值（金牌奖励）\n#\n下一个任务：\n- 爱情好运\n- 我妹妹的守护者",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -124.27734375000001,
+        -60.60854176060906
+      ],
+      "properties": {
+        "subcategoryExternalId": "hgDv0u9XdZ",
+        "externalId": "rZe00YmARF",
+        "title": "滚动式步枪",
+        "description": "在任务：空洞的承诺过程中自动获得",
+        "imageId": 1258562,
+        "imagePath": "/game_map_pin/1258562/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -123.88183593750001,
+        -59.36679390853214
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "0BnJhgFL2Q",
+        "title": "墨西哥凯撒",
+        "description": "上一个任务：空洞的承诺\n#\n金牌目标：\n- 最快时间：13:00\n- 射击准确率：42%\n- 爆头数：22\n#\n奖励：\n- $75\n- 200点声望\n- 250点声望（金牌奖励）\n#\n下一个任务：\n- 懦夫死于多次",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -50.82302153711384,
+        -58.61660310531997
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "KVKp1uhc8v",
+        "title": "墨西哥马车队",
+        "description": "上一个任务：幸运之爱\n#\n金牌目标：\n- 最快时间：3:55\n- 射击准确率：92%\n- 爆头数：7\n#\n奖励：\n- 150点声望\n- 200点声望（金牌奖励）\n#\n下一个任务：\n- 埃尔普雷西迪奥的大门",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -123.85986328125001,
+        -60.28340847828237
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "x4NKPf5Ctj",
+        "title": "懦夫死于多次",
+        "description": "上一个任务：\n- 墨西哥凯撒\n- 救世主必须死？\n#\n金牌目标：\n- 最快时间：3:04\n- 射击准确率：90%\n- 爆头数：8\n#\n奖励：\n- 最多$75（每个挑战$25）\n- 50点荣誉\n- 250点声望\n- 300点声望（金牌奖励）\n#\n下一个任务：\n- 亚伯拉罕之父\n- 伟大的墨西哥火车劫案",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -29.936643115969854,
+        -70.08773383851532
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "NxRUFQYT3Q",
+        "title": "亚伯拉罕之父",
+        "description": "上一个任务：\n- 懦夫死于多次\n- 救世主必须死？\n#\n金牌目标：\n- 最快时间：3:30\n- 射击准确率：75%\n- 爆头数：4\n#\n奖励：\n- 125点荣誉\n- 200点声望\n- 250点声望（金牌奖励）\n#\n下一个任务：\n- 德圣塔队长的陨落",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -32.516593189473134,
+        -70.84525227154404
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "8SVUI7LdPC",
+        "title": "德圣塔队长的陨落",
+        "description": "前一任务：亚伯拉罕神父\n#\n金牌目标：\n- 最快完成时间：5:40\n- 射击精度：75%\n- 爆头数：6\n#\n奖励：\n- 125点荣誉\n- 300点声望\n- 350点声望（金牌奖励）\n#\n下一任务：\n- 艾尔普雷西迪奥之门",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        1.1425781250000002,
+        -49.09545216253482
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "nTqb75QqHY",
+        "title": "艾尔普雷西迪奥之门",
+        "description": "前一任务：\n- 德桑塔队长的陨落\n- 墨西哥铁路大劫案\n- 墨西哥马车队\n#\n金牌目标：\n- 最快完成时间：5:20\n- 射击精度：40%\n- 爆头数：22\n#\n奖励：\n- 125点荣誉\n- 300点声望\n- 350点声望（金牌奖励）\n#\n下一任务：\n- 约定之时",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        35.96923828125001,
+        -28.729130483430154
+      ],
+      "properties": {
+        "subcategoryExternalId": "hgDv0u9XdZ",
+        "imageId": 1259209,
+        "externalId": "Qikkfo41iv",
+        "title": "栓动式步枪",
+        "description": "可以从埃斯卡莱拉枪店购买，或在任务艾尔普雷西迪奥之门期间在监狱牢房附近找到",
+        "imagePath": "/game_map_pin/1259209/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        100.48095703124999,
+        51.658926648800644
+      ],
+      "properties": {
+        "subcategoryExternalId": "hgDv0u9XdZ",
+        "imageId": 1259541,
+        "externalId": "eQ5fn5KTbj",
+        "title": "高能手枪",
+        "description": "在任务彼此担当重担期间自动获得",
+        "imagePath": "/game_map_pin/1259541/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        100.7883053910183,
+        51.840985308129476
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "QrTgPTe1wM",
+        "title": "彼此担当重担",
+        "description": "前一任务：约定之时\n#\n金牌目标：\n- 最快完成时间：7:24\n- 射击精度：75%\n- 爆头数：7\n#\n奖励：\n- 高能手枪\n- 25点荣誉\n- 150点声望\n- 200点声望（金牌奖励）\n#\n下一任务：\n- 伟人并非总是明智\n- 与达奇的会面",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        100.12939453125003,
+        50.59718623058703
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "9AUf2eMJrY",
+        "title": "在荷兰人家中",
+        "description": "上一个任务：Bear One Another's Burdens\n#\n金牌目标：\n- 最快时间：8:30\n- 射击精度：75%\n- 爆头数：3\n#\n奖励：\n- 望远镜\n- 25 荣誉值\n- 50 声望值（金牌奖励）\n#\n下一个任务：\n- For Purely Scientific Purposes",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        101.11816406250001,
+        51.97134580885171
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "B04roPKJ5C",
+        "title": "伟人并非总是明智",
+        "description": "前一任务：彼此担当重担\n#\n金牌目标：\n- 最快完成时间：6:40\n- 射击精度：75%\n- 爆头数：10\n#\n奖励：\n- 最多225点荣誉\n- 150点声望\n- 200点声望（金牌奖励）\n#\n下一任务：\n- 你会知道真相",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        100.34912109375,
+        50.41551870402685
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "PaK6w43FQx",
+        "title": "纯粹为了科学目的",
+        "description": "上一个：与达奇在家\n#\n金牌目标：\n- 最快时间：5:40\n- 射击精度：90%\n- 爆头数：6\n#\n奖励：\n- 25 荣誉值\n- 50 名望值（金牌奖励）\n#\n下一个任务：\n- 浪子回头（前往耶鲁）",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        100.37109375,
+        50.80593472676907
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "Wl6U1DNtOt",
+        "title": "浪子回耶鲁",
+        "description": "前一任务：纯粹为了科学研究\n#\n金牌目标：\n- 最快完成时间：4:30\n- 射击精度：80%\n- 爆头数：7\n#\n奖励：\n- $100\n- 25点荣誉\n- 50点声望（金牌奖励）\n#\n下一任务：你会知道真相",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        60.864257812500014,
+        36.668418918947864
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "Lt2c94akfa",
+        "title": "真相使你获得自由",
+        "description": "前一任务：你会知道真相\n#\n金牌目标：\n- 最快完成时间：8:30\n- 射击精度：50%\n- 爆头数：15\n#\n奖励：\n- 250点荣誉\n- 500点声望\n- 550点声望（金牌奖励）\n#\n下一任务：\n- 亡命徒的归来",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        61.21582031250001,
+        36.63316209558661
+      ],
+      "properties": {
+        "subcategoryExternalId": "hgDv0u9XdZ",
+        "imageId": 1259651,
+        "externalId": "RKlqNCcmFw",
+        "title": "泵动式霰弹枪",
+        "description": "在任务真相使你获得自由期间自动获得",
+        "imagePath": "/game_map_pin/1259651/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        62.67234734856544,
+        47.851272934659676
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "g0CQINiXnd",
+        "title": "瘟疫",
+        "description": "前一任务：亡命徒的归来\n#\n金牌目标：\n- 最快完成时间：1:29\n- 射击精度：60%\n#\n奖励：\n- 150点荣誉\n- 50点声望（金牌奖励）\n#\n下一任务：\n- 老朋友，新麻烦",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        64.84130859375001,
+        47.39834920035926
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "eOXE2nB1Jt",
+        "title": "约翰·马斯顿和儿子",
+        "description": "前一任务：亡命徒的归来\n#\n金牌目标：\n- 最快完成时间：7:49\n- 射击精度：70%\n#\n奖励：\n- 150点荣誉\n- 50点声望（金牌奖励）\n#\n下一任务：\n- 狼、狗和儿子",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        64.09423828125001,
+        47.114999826207736
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "jE7eiHJnkk",
+        "title": "汗水与劳动",
+        "description": "前一任务：亡命徒的归来\n#\n金牌目标：\n- 最快完成时间：5:20\n- 落后者归回率：85%\n- 赶回牛的数量：15\n#\n奖励：\n- 最多250点荣誉\n- 最多150点声望\n- 最多200点声望（金牌奖励）\n#\n下一任务：\n- 连续的盛宴",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        63.061523437500014,
+        46.8752133967227
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "aUKF9chQTd",
+        "title": "狼、狗和儿子",
+        "description": "前一任务：约翰·马斯顿和儿子们\n#\n金牌目标：\n- 最快完成时间：6:29\n- 射击精度：95%\n#\n奖励：\n- 150点荣誉\n- 50点声望（金牌奖励）\n#\n下一任务：\n- 爱之深，责之切",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        62.71721604549595,
+        48.12155039529793
+      ],
+      "properties": {
+        "subcategoryExternalId": "5EC2o0COVe",
+        "imageId": null,
+        "externalId": "Q6SYh1R3ml",
+        "title": "比彻的希望安全屋",
+        "description": "在任务不法之徒的归来完成后解锁",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        63.12744140625001,
+        48.48748647988421
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "fTri5XDHyG",
+        "title": "",
+        "description": "在约翰和阿比盖尔的房间内",
+        "imageId": 1260071,
+        "imagePath": "/game_map_pin/1260071/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        62.49023437500001,
+        48.38544219115488
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "IakrfM2Mci",
+        "title": "",
+        "description": "在阁楼内，从厨房的梯子爬上去即可进入该区域",
+        "imageId": 1260073,
+        "imagePath": "/game_map_pin/1260073/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        68.95019531250001,
+        44.621754096233275
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "5tCpyX2Awh",
+        "title": "",
+        "description": "在山顶上，俯瞰农场",
+        "imageId": 1260074,
+        "imagePath": "/game_map_pin/1260074/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        74.66308593750001,
+        47.42808726171427
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "P9eiNLCe2g",
+        "title": "",
+        "description": "在树旁边",
+        "imageId": 1260078,
+        "imagePath": "/game_map_pin/1260078/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        77.49755859375001,
+        58.87058467868076
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "GcngXJZ7AV",
+        "title": "",
+        "description": "",
+        "imageId": 1260106,
+        "imagePath": "/game_map_pin/1260106/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        97.69042968750001,
+        56.836954351960514
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "wGCYrscgF6",
+        "title": "",
+        "description": "在河岸边",
+        "imageId": 1260108,
+        "imagePath": "/game_map_pin/1260108/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        89.64843750000001,
+        52.78947558139899
+      ],
+      "properties": {
+        "subcategoryExternalId": "eGt2OoMMW3",
+        "imageId": null,
+        "externalId": "oT8soQrpci",
+        "title": "黑水镇圣升天教会墓地",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        96.45996093750001,
+        51.234407351634644
+      ],
+      "properties": {
+        "subcategoryExternalId": "Gj1Hz4eLuu",
+        "imageId": null,
+        "externalId": "GUolGxKGds",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        97.71240234375001,
+        48.85025819972151
+      ],
+      "properties": {
+        "subcategoryExternalId": "StfzrBZWB6",
+        "imageId": null,
+        "externalId": "C1elSjzo7M",
+        "title": "布莱克沃特",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        99.27246093750003,
+        47.94578646368717
+      ],
+      "properties": {
+        "subcategoryExternalId": "8zanqwtR8S",
+        "imageId": null,
+        "externalId": "yLYSKs3kf2",
+        "title": "布莱克沃特医生诊所",
+        "description": "出售：\n- 药品\n- 嚼烟\n- 月光酒",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        98.94287109375001,
+        47.9605023889151
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "G4qrdBgrhJ",
+        "title": "",
+        "description": "在医生诊所内",
+        "imageId": 1260206,
+        "imagePath": "/game_map_pin/1260206/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        98.85498046875001,
+        49.28214015975995
+      ],
+      "properties": {
+        "subcategoryExternalId": "G2eE3daBeb",
+        "imageId": null,
+        "externalId": "reGLkfRpUR",
+        "title": "",
+        "description": "在黑水酒馆的露台\n#\n买入金额：\n- $100（1,000筹码）",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        98.525390625,
+        49.49667452747059
+      ],
+      "properties": {
+        "subcategoryExternalId": "5EC2o0COVe",
+        "imageId": null,
+        "externalId": "knSmHgSomv",
+        "title": "黑水安全屋",
+        "description": "完成任务指定时间后可用",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        98.65722656250001,
+        49.72447918871299
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1260209,
+        "externalId": "IGMN31G16j",
+        "title": "",
+        "description": "在黑水安全屋床脚处",
+        "imagePath": "/game_map_pin/1260209/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        99.052734375,
+        49.79544988802772
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiFVG0N1h6",
+        "imageId": null,
+        "externalId": "jX5f52qWzP",
+        "title": "",
+        "description": "在黑水酒馆内\n#\n买入金额：\n- $50",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        99.18457031250003,
+        49.53946900793534
+      ],
+      "properties": {
+        "subcategoryExternalId": "iSrkabiFvW",
+        "imageId": null,
+        "externalId": "oaCevwRHad",
+        "title": "黑水酒馆",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        100.26123046875001,
+        49.353755718309856
+      ],
+      "properties": {
+        "subcategoryExternalId": "3XTTIfcRz7",
+        "imageId": null,
+        "externalId": "cFgcGxwSPt",
+        "title": "黑水杂货店",
+        "description": "出售：\n- 兔脚\n- 生存地图\n- 大平原地图\n- 苹果\n- 马药\n- 月光酒\n- 马契",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        101.40380859375001,
+        49.79544988802772
+      ],
+      "properties": {
+        "subcategoryExternalId": "hYAZpIpQKe",
+        "imageId": null,
+        "externalId": "L2QqJauNzv",
+        "title": "黑水裁缝铺",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        101.49169921875003,
+        49.53946900793534
+      ],
+      "properties": {
+        "subcategoryExternalId": "hXAkRKUuMf",
+        "imageId": null,
+        "externalId": "WBayZyFHxv",
+        "title": "黑水枪械店",
+        "description": "销售：\n- 诱饵\n- 弹药\n- 炸药\n- 毛瑟手枪\n- 埃文斯连发枪\n- 水牛步枪\n- 卡尔卡诺步枪\n- 爆炸步枪",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        97.69042968750001,
+        47.91634204016134
+      ],
+      "properties": {
+        "subcategoryExternalId": "tyt3hTyPpi",
+        "imageId": null,
+        "externalId": "f9hSSsMkr8",
+        "title": "黑水夜巡工作",
+        "description": "完成任务指定时间后等待夜晚即可。\n#\n奖励：\n- 美军制服碎片5\n- 各种报酬",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        102.8759765625,
+        36.75649032950518
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "6MDlvjlWeZ",
+        "title": "",
+        "description": "",
+        "imageId": 1262287,
+        "imagePath": "/game_map_pin/1262287/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        87.97829241736292,
+        29.21044643383439
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1262288,
+        "externalId": "n0d3gOzZUE",
+        "title": "",
+        "description": "",
+        "imagePath": "/game_map_pin/1262288/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        59.30419921875001,
+        23.805449612314604
+      ],
+      "properties": {
+        "subcategoryExternalId": "Gj1Hz4eLuu",
+        "imageId": null,
+        "externalId": "6KegD7vNbI",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        59.78759765625001,
+        23.40276490540795
+      ],
+      "properties": {
+        "subcategoryExternalId": "1d31JrsYD8",
+        "imageId": null,
+        "externalId": "sXC9iznaIA",
+        "title": "太平洋联合铁路营地电报局",
+        "description": "您可以在这里消除悬赏令",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        59.985351562500014,
+        23.704894502324933
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1262294,
+        "externalId": "jC3svLxO40",
+        "title": "",
+        "description": "在电报局外，箱子旁边\n#\n#\n*注意：打开这个箱子会增加你的通缉等级*",
+        "imagePath": "/game_map_pin/1262294/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        101.11816406250001,
+        49.78126405817838
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1260219,
+        "externalId": "k5Zu7dnvVl",
+        "title": "",
+        "description": "在黑水裁缝店内，沙发旁。\n#\n*注意：打开这个箱子会增加你的通缉等级*",
+        "imagePath": "/game_map_pin/1260219/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        55.94238281250001,
+        21.41216222972541
+      ],
+      "properties": {
+        "subcategoryExternalId": "0byzBXdhF0",
+        "imageId": null,
+        "externalId": "9N06S9eL05",
+        "title": "",
+        "description": "完成任务指定时间后可用",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        99.07470703125006,
+        50.219094620447436
+      ],
+      "properties": {
+        "subcategoryExternalId": "H2Sb5av7hI",
+        "imageId": null,
+        "externalId": "ABcnHANLqB",
+        "title": "黑水大剧院",
+        "description": "完成任务约定时间后可用",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        54.64599609375,
+        21.186972714123783
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1262303,
+        "externalId": "1JCsH1opxG",
+        "title": "",
+        "description": "在帐篷内部",
+        "imagePath": "/game_map_pin/1262303/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        53.6572265625,
+        20.858811790867705
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "FrL6th1qaK",
+        "title": "",
+        "description": "在帐篷内部",
+        "imageId": 1262305,
+        "imagePath": "/game_map_pin/1262305/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        49.15283203125001,
+        40.79717741518769
+      ],
+      "properties": {
+        "subcategoryExternalId": "KtRxepyBA3",
+        "imageId": 1262309,
+        "externalId": "ciuGlsG5oq",
+        "title": "曼萨尼塔邮局通缉令",
+        "description": "完成任务约定时间后可用\n#\n互动以狩猎悬赏目标。如果没有出现，请等待几分钟\n#\n*注意：目标没有固定的刷新位置，可能在各个区域刷新。另外，访问刷新位置会触发100%完成度，而不是狩猎悬赏本身*",
+        "imagePath": "/game_map_pin/1262309/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        49.394531250000036,
+        40.71395582628594
+      ],
+      "properties": {
+        "subcategoryExternalId": "1d31JrsYD8",
+        "imageId": null,
+        "externalId": "3yNRU0rzyH",
+        "title": "曼萨尼塔哨站电报局",
+        "description": "您可以在这里消除悬赏令",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        47.806107594889205,
+        40.13306042335299
+      ],
+      "properties": {
+        "subcategoryExternalId": "3XTTIfcRz7",
+        "imageId": null,
+        "externalId": "ks8w1NzuzV",
+        "title": "曼萨尼塔邮政杂货店",
+        "description": "出售：\n- 兔脚\n- 鱼饵\n- 生存地图\n- 高树地图\n- 战斧\n- 飞刀\n- 燃烧瓶\n- 炸药\n- 弹药\n- 苹果\n- 马匹药丸\n- 药品\n- 嚼烟\n- 私酿酒\n- 马匹契约",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        48.553177907389205,
+        38.65586548334193
+      ],
+      "properties": {
+        "subcategoryExternalId": "Gj1Hz4eLuu",
+        "imageId": null,
+        "externalId": "hbvYNc0Blt",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        48.09814453125001,
+        38.51378825951164
+      ],
+      "properties": {
+        "subcategoryExternalId": "5EC2o0COVe",
+        "imageId": null,
+        "externalId": "J3rRGxv3hh",
+        "title": "曼萨尼塔哨站安全屋",
+        "description": "购买该房产后可用，费用$400",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        47.856445312500014,
+        38.307180561883285
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1262317,
+        "externalId": "hR09xqzmKN",
+        "title": "",
+        "description": "在安全屋内，必须先购买房产才能进入",
+        "imagePath": "/game_map_pin/1262317/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        47.21923828125002,
+        41.37680856570236
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "bbjp0lOTUj",
+        "title": "",
+        "description": "在帐篷内部",
+        "imageId": 1262321,
+        "imagePath": "/game_map_pin/1262321/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        44.560546875000014,
+        30.448673679287566
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "kLoyCMKT5I",
+        "title": "",
+        "description": "在废弃小屋内",
+        "imageId": 1262358,
+        "imagePath": "/game_map_pin/1262358/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        43.50602214843749,
+        28.451512860052958
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "yyyGRHZhEV",
+        "title": "",
+        "description": "",
+        "imageId": 1262361,
+        "imagePath": "/game_map_pin/1262361/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        30.2565104296875,
+        41.33740263494954
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1262363,
+        "externalId": "r9oJtqjd5P",
+        "title": "",
+        "description": "在小屋内",
+        "imagePath": "/game_map_pin/1262363/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        27.86132812500002,
+        46.255846818480535
+      ],
+      "properties": {
+        "subcategoryExternalId": "nUhX1PSWeD",
+        "imageId": null,
+        "externalId": "mxoKske4EB",
+        "title": "传奇狼洛博",
+        "description": "在此区域周围出现，完成*大师猎人等级9挑战*后可获得。\n#\n当靠近传说动物时屏幕上会出现提示信息，并在雷达上标记\n#\n奖励：\n- 洛博的毛皮\n- 洛博的心脏\n- 洛博的肉",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        101.09619140625,
+        51.713416052417614
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "1V75JqF1nQ",
+        "title": "你会知道真相",
+        "description": "前置：\n- 伟人并非总是明智\n- 浪子归来（到耶鲁）\n#\n金牌目标：\n- 最快时间：4:45\n- 射击准确度：15%\n- 爆头数：11\n#\n奖励：\n- 50声望（金牌奖励）\n#\n下一任务：\n- 真相会让你获得自由",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        21.928710937500014,
+        47.91634204016117
+      ],
+      "properties": {
+        "subcategoryExternalId": "waTjJzJ6Mu",
+        "imageId": null,
+        "externalId": "gqJXu73Ic3",
+        "title": "极光盆地悬赏",
+        "description": "悬赏目标的可能位置，通缉海报可以在Blackwater或Manzanita Post找到\n#\n*注意：如果你的目标是100%完成度，那么在悬赏任务期间必须访问这个区域*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        21.621093750000004,
+        47.8721439688874
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "VDJo6ogW5c",
+        "title": "",
+        "description": "",
+        "imageId": 1262368,
+        "imagePath": "/game_map_pin/1262368/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        35.70556640625001,
+        54.213861000644926
+      ],
+      "properties": {
+        "subcategoryExternalId": "waTjJzJ6Mu",
+        "imageId": null,
+        "externalId": "IFCKxQwYYT",
+        "title": "内科蒂岩悬赏",
+        "description": "悬赏目标的可能位置，通缉海报可以在Blackwater或Manzanita Post找到\n#\n*注意：如果你的目标是100%完成度，那么在悬赏任务期间必须访问这个区域*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        35.22216796875001,
+        55.02802211299252
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "yFOwRmd1UA",
+        "title": "",
+        "description": "在熊洞内",
+        "imageId": 1262411,
+        "imagePath": "/game_map_pin/1262411/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        35.63964843750001,
+        55.02802211299257
+      ],
+      "properties": {
+        "subcategoryExternalId": "nUhX1PSWeD",
+        "imageId": null,
+        "externalId": "Y6pKXSvbaT",
+        "title": "传奇熊布鲁马斯",
+        "description": "在洞穴内刷新，完成*猎人大师等级9挑战*后可用。\n#\n靠近传奇动物时会出现屏幕提示，并在雷达上标记\n#\n奖励：\n- 布鲁马斯的皮毛\n- 布鲁马斯的心脏\n- 布鲁马斯的肉\n- 布鲁马斯的爪子\n- 布鲁马斯的牙齿",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        29.311523437500004,
+        59.321980540101976
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": null,
+        "externalId": "Kv62r5nyyh",
+        "title": "",
+        "description": "在帐篷内部",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        28.4765625,
+        59.48972603553696
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": null,
+        "externalId": "d7PYKYfA6B",
+        "title": "",
+        "description": "在帐篷内，灯旁边",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        28.718261718750004,
+        59.589975107735484
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": null,
+        "externalId": "i9ZYFs2Su3",
+        "title": "",
+        "description": "在帐篷内，床旁边",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        28.652343750000004,
+        58.0313724217763
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": null,
+        "externalId": "cHABPcBECr",
+        "title": "",
+        "description": "在帐篷内部",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        28.7841796875,
+        57.63363992885695
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": null,
+        "externalId": "cxKwnh5IyF",
+        "title": "",
+        "description": "在帐篷内，椅子和书籍旁边",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        26.257324218750004,
+        56.74067435475297
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": null,
+        "externalId": "bi4mTIGHcC",
+        "title": "",
+        "description": "在被地毯覆盖的房间内",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        26.542968750000007,
+        56.932987396097076
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": null,
+        "externalId": "IaSI2ji4m5",
+        "title": "",
+        "description": "在矿井内的箱子和桶之间",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        96.61376953125001,
+        49.5537255134758
+      ],
+      "properties": {
+        "subcategoryExternalId": "KtRxepyBA3",
+        "imageId": 1262422,
+        "externalId": "USxkHFNSLq",
+        "title": "黑水镇通缉令",
+        "description": "完成任务约定时间后可用\n#\n互动以狩猎悬赏目标。如果没有出现，请等待几分钟\n#\n*注意：目标没有固定的刷新位置，可能在各个区域刷新。另外，访问刷新位置会触发100%完成度，而不是狩猎悬赏本身*",
+        "imagePath": "/game_map_pin/1262422/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        96.39404296875001,
+        49.75287993415023
+      ],
+      "properties": {
+        "subcategoryExternalId": "1d31JrsYD8",
+        "imageId": null,
+        "externalId": "USzZOFwSHF",
+        "title": "黑水电报局",
+        "description": "您可以在这里消除悬赏令",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        75.3477542314294,
+        19.032504365514797
+      ],
+      "properties": {
+        "subcategoryExternalId": "hYAZpIpQKe",
+        "imageId": null,
+        "externalId": "nAqjtu2Dtz",
+        "title": "盗贼登陆点裁缝店",
+        "description": "销售：\n- 优雅套装\n- 波拉德帮派装备碎片6\n- 沃尔顿帮派装备碎片6\n- 寻宝者装备碎片6\n- 头巾",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        75.19042968750001,
+        18.812717856407772
+      ],
+      "properties": {
+        "subcategoryExternalId": "8zanqwtR8S",
+        "imageId": null,
+        "externalId": "6EW7PkRJ0d",
+        "title": "盗贼登陆点医生诊所",
+        "description": "销售：\n- 药品\n- 蛇油\n- 月光酒",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        74.79492187500014,
+        18.58377568837092
+      ],
+      "properties": {
+        "subcategoryExternalId": "hXAkRKUuMf",
+        "imageId": null,
+        "externalId": "DwTmxjl3hA",
+        "title": "盗贼港军械商",
+        "description": "出售：\n- 鱼饵\n- 子弹带\n- 武器\n- 弹药",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        73.82812500000001,
+        17.58119402650601
+      ],
+      "properties": {
+        "subcategoryExternalId": "StfzrBZWB6",
+        "imageId": null,
+        "externalId": "RrHB5Wtrxc",
+        "title": "盗贼登陆点",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        72.99316406250001,
+        16.741427547003568
+      ],
+      "properties": {
+        "subcategoryExternalId": "5EC2o0COVe",
+        "imageId": null,
+        "externalId": "1jWtadYYz5",
+        "title": "盗贼登陆点安全屋",
+        "description": "购买房产后可用，费用 $100",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        72.64160156250001,
+        16.78350556192774
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "WT6JvXI07M",
+        "title": "",
+        "description": "在安全屋内，必须先购买房产才能进入",
+        "imageId": 1262433,
+        "imagePath": "/game_map_pin/1262433/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        75.23437500000001,
+        17.39257927105777
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "YEYYC9UI8f",
+        "title": "在摇摇欲坠的地面上",
+        "description": "前一个任务：人生来就要受苦\n#\n金牌目标：\n- 最快时间：7:55\n- 射击精度：85%\n- 爆头数：7\n#\n奖励：\n- 150声望\n- 200声望（金牌奖励）\n#\n下一个任务：\n- 默瑟堡的进攻",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        74.35546875000001,
+        17.014767530557805
+      ],
+      "properties": {
+        "subcategoryExternalId": "iSrkabiFvW",
+        "imageId": null,
+        "externalId": "dbGZFlRffT",
+        "title": "盗贼登陆酒馆",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        74.77294921875001,
+        17.245744208007125
+      ],
+      "properties": {
+        "subcategoryExternalId": "dUDtwSm5kH",
+        "imageId": null,
+        "externalId": "BGgzWaVvlY",
+        "title": "",
+        "description": "在酒馆内\n#\n买入金额：\n- $20",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        74.46533203125001,
+        16.699340234594544
+      ],
+      "properties": {
+        "subcategoryExternalId": "G2eE3daBeb",
+        "imageId": null,
+        "externalId": "B9x2CLdJhA",
+        "title": "",
+        "description": "在酒馆内\n#\n买入金额：\n- $25（250筹码）",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        74.92675781250013,
+        17.056784609942554
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiFVG0N1h6",
+        "imageId": null,
+        "externalId": "xWPtqrJMMx",
+        "title": "",
+        "description": "在酒馆内\n#\n买入金额：\n- $40",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        74.06982421875016,
+        16.25686733062338
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "9z9JeWAwkO",
+        "title": "",
+        "description": "在迪克西玫瑰酒馆楼梯旁。打开抽屉获取战利品",
+        "imageId": 1262471,
+        "imagePath": "/game_map_pin/1262471/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        72.90527343750001,
+        13.175771224423386
+      ],
+      "properties": {
+        "subcategoryExternalId": "Gj1Hz4eLuu",
+        "imageId": null,
+        "externalId": "ohMkkEWA5L",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        74.50927734375001,
+        14.34954783718537
+      ],
+      "properties": {
+        "subcategoryExternalId": "dy0VnhvH6C",
+        "imageId": null,
+        "externalId": "2fEVnUsN9I",
+        "title": "",
+        "description": "下注并参与游戏赢取奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        73.58642578125001,
+        13.239945499286279
+      ],
+      "properties": {
+        "subcategoryExternalId": "3XTTIfcRz7",
+        "imageId": null,
+        "externalId": "ArSjVesXD8",
+        "title": "盗贼登陆杂货店",
+        "description": "出售：\n- 兔子脚\n- 改良营地\n- 苹果\n- 马药\n- 嚼烟\n- 马匹契约",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        73.67431640625001,
+        12.704650508287912
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "fjoQVwrpLL",
+        "title": "",
+        "description": "在二楼办公室内",
+        "imageId": 1262475,
+        "imagePath": "/game_map_pin/1262475/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        65.76416015625001,
+        15.05090570772478
+      ],
+      "properties": {
+        "subcategoryExternalId": "nUhX1PSWeD",
+        "imageId": null,
+        "externalId": "z8ifqX7q91",
+        "title": "传奇野猪戈多",
+        "description": "在此区域出没，完成*猎人大师等级9挑战*后可用。\n#\n接近传奇动物时屏幕会出现提示，并在雷达上标记\n#\n奖励：\n- 戈多的皮\n- 戈多的心脏\n- 戈多的肉\n- 戈多的獠牙",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        72.42187500000001,
+        -2.7235830833483874
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "6027HAfDv7",
+        "title": "",
+        "description": "在码头上",
+        "imageId": 1262478,
+        "imagePath": "/game_map_pin/1262478/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        25.642089843750004,
+        8.189742344383703
+      ],
+      "properties": {
+        "subcategoryExternalId": "1d31JrsYD8",
+        "imageId": null,
+        "externalId": "IN0ZvJ68IN",
+        "title": "麦克法兰牧场电报局",
+        "description": "您可以在这里消除悬赏令",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        26.433105468750004,
+        9.037002898469424
+      ],
+      "properties": {
+        "subcategoryExternalId": "Gj1Hz4eLuu",
+        "imageId": null,
+        "externalId": "IOcGBr0FrN",
+        "title": "",
+        "description": "完成This is Armadillo, USA后可用",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        29.443359375000007,
+        9.08040010415533
+      ],
+      "properties": {
+        "subcategoryExternalId": "StfzrBZWB6",
+        "imageId": null,
+        "externalId": "C2cgcPPOtP",
+        "title": "麦克法兰农场",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        31.11328125,
+        9.752370139173266
+      ],
+      "properties": {
+        "subcategoryExternalId": "3XTTIfcRz7",
+        "imageId": null,
+        "externalId": "5pTO0YkOIk",
+        "title": "麦克法兰牧场杂货店",
+        "description": "完成任务新朋友，旧问题后可用\n#\n出售：\n- 生存者地图\n- 亨尼根农场地图\n- 弹药\n- 武器\n- 马匹契约",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        30.607910156250004,
+        10.96276425638682
+      ],
+      "properties": {
+        "subcategoryExternalId": "5EC2o0COVe",
+        "imageId": null,
+        "externalId": "MVKbTD5LKB",
+        "title": "麦克法兰牧场安全屋",
+        "description": "在任务[新朋友，老问题](wemod:\\/\\/maps\\/86773\\/223?location=5tXvwGIphr)中免费解锁",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        30.300292968750004,
+        10.854886268472455
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1262781,
+        "externalId": "0oyTvXKGQ5",
+        "title": "",
+        "description": "在麦克法兰牧场安全屋内",
+        "imagePath": "/game_map_pin/1262781/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        31.047363281250004,
+        11.372338792141122
+      ],
+      "properties": {
+        "subcategoryExternalId": "8zanqwtR8S",
+        "imageId": null,
+        "externalId": "9Pjse6J326",
+        "title": "麦克法兰牧场医生诊所",
+        "description": "完成任务新朋友，旧问题后可用\n#\n出售：\n- 药品\n- 蛇油\n- 嚼烟\n- 苹果\n- 马药",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        32.05810546875001,
+        10.746969318460003
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "F1ZuvRAJ97",
+        "title": "",
+        "description": "在扑克室内，床边\n#\n*注意：打开这个箱子会增加你的通缉等级*",
+        "imageId": 1262803,
+        "imagePath": "/game_map_pin/1262803/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        32.25585937500001,
+        10.617418067950297
+      ],
+      "properties": {
+        "subcategoryExternalId": "G2eE3daBeb",
+        "imageId": null,
+        "externalId": "F8HSNbrhfX",
+        "title": "",
+        "description": "完成任务前进道路上的障碍后可用\n#\n买入金额：\n- $10（100筹码）",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        33.39843750000001,
+        8.059229627200196
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "RcVtcbjKTx",
+        "title": "",
+        "description": "桥下",
+        "imageId": 1262806,
+        "imagePath": "/game_map_pin/1262806/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        31.3330078125,
+        8.167993177231878
+      ],
+      "properties": {
+        "subcategoryExternalId": "tyt3hTyPpi",
+        "imageId": null,
+        "externalId": "36ibnJZdyH",
+        "title": "麦克法兰牧场夜间守卫工作",
+        "description": "完成任务 New Friends, Old Problems 后可用，然后等待夜晚\n#\n奖励：\n- Bollards Twins Outfit Scrap 2\n- 各种报酬",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        13.27191202809386,
+        4.670386096548856
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "viZPBfwF7N",
+        "title": "",
+        "description": "在小营地附近",
+        "imageId": 1262815,
+        "imagePath": "/game_map_pin/1262815/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        13.77685546875,
+        10.79014075032174
+      ],
+      "properties": {
+        "subcategoryExternalId": "GkGooTJpwK",
+        "imageId": 1262841,
+        "externalId": "8JWwquku4c",
+        "title": "派克盆地帮派藏身处",
+        "description": "完成任务派克盆地的正义后可用\n#\n在该区域附近与埃罗尔·休伊特交谈开始",
+        "imagePath": "/game_map_pin/1262841/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        15.842285156250002,
+        11.070602913977822
+      ],
+      "properties": {
+        "subcategoryExternalId": "hgDv0u9XdZ",
+        "imageId": 1262843,
+        "externalId": "WFKqOxlrJG",
+        "title": "锯短霰弹枪",
+        "description": "清理派克盆地藏身处后解锁",
+        "imagePath": "/game_map_pin/1262843/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        15.380859375000004,
+        10.746969318460003
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "IriZof2B4w",
+        "title": "",
+        "description": "在帐篷内部",
+        "imageId": 1262893,
+        "imagePath": "/game_map_pin/1262893/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        15.029296875000002,
+        11.544616463449657
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "qbCU2vgrMs",
+        "title": "",
+        "description": "在帐篷内部",
+        "imageId": 1262895,
+        "imagePath": "/game_map_pin/1262895/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        14.34814453125,
+        11.544616463449657
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "ciWhl0k8zB",
+        "title": "",
+        "description": "在帐篷内部",
+        "imageId": 1262897,
+        "imagePath": "/game_map_pin/1262897/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        2.570800781250001,
+        15.114552871944085
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "xJADBRTfDv",
+        "title": "",
+        "description": "在睡垫旁边",
+        "imageId": 1262901,
+        "imagePath": "/game_map_pin/1262901/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        10.678710937500002,
+        -6.293458760393989
+      ],
+      "properties": {
+        "subcategoryExternalId": "waTjJzJ6Mu",
+        "imageId": null,
+        "externalId": "RXVWlEvVXC",
+        "title": "梅斯卡莱罗赏金",
+        "description": "赏金目标的可能位置，通缉令可以在犰狳镇、麦克法兰牧场或拉茨凯勒岔路中找到\n#\n*注意：如果你要达到100%完成度，在赏金狩猎期间必须访问这个区域*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        46.97753906250001,
+        29.726222319395504
+      ],
+      "properties": {
+        "subcategoryExternalId": "waTjJzJ6Mu",
+        "imageId": null,
+        "externalId": "gTKtNvgMTO",
+        "title": "熊爪营地赏金",
+        "description": "悬赏目标的可能位置，通缉海报可以在Blackwater或Manzanita Post找到\n#\n*注意：如果你的目标是100%完成度，那么在悬赏任务期间必须访问这个区域*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        30.520019531250004,
+        41.36031866306709
+      ],
+      "properties": {
+        "subcategoryExternalId": "waTjJzJ6Mu",
+        "imageId": null,
+        "externalId": "69ltxqYF83",
+        "title": "坦纳溪赏金",
+        "description": "悬赏目标的可能位置，通缉海报可以在Blackwater或Manzanita Post找到\n#\n*注意：如果你的目标是100%完成度，那么在悬赏任务期间必须访问这个区域*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -16.435546875000004,
+        15.728813770533975
+      ],
+      "properties": {
+        "subcategoryExternalId": "waTjJzJ6Mu",
+        "imageId": null,
+        "externalId": "owlRbjXwnh",
+        "title": "绞刑岩赏金",
+        "description": "赏金目标的可能位置，通缉令可以在犰狳镇、麦克法兰牧场或拉茨凯勒岔路中找到\n#\n*注意：如果你要达到100%完成度，在赏金狩猎期间必须访问这个区域*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -26.257324218750004,
+        0.2856433479945224
+      ],
+      "properties": {
+        "subcategoryExternalId": "StfzrBZWB6",
+        "imageId": null,
+        "externalId": "XWrwLsLtou",
+        "title": "阿马迪罗",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -29.44308744973444,
+        0.5925047627785602
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "s4MwTy2VrD",
+        "title": "美国大撤离",
+        "description": "游戏开始时到达阿马迪罗时自动开始\n#\n下一个任务：\n- 新朋友，旧问题",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -28.994400480429526,
+        0.21113092170320158
+      ],
+      "properties": {
+        "subcategoryExternalId": "1d31JrsYD8",
+        "imageId": 1224808,
+        "externalId": "6NeNFskUKg",
+        "title": "犰狳电报局",
+        "description": "*前往缴纳你的悬赏金*",
+        "imagePath": "/game_map_pin/1224808/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        47.06542968750001,
+        40.93011520598307
+      ],
+      "properties": {
+        "subcategoryExternalId": "dy0VnhvH6C",
+        "imageId": null,
+        "externalId": "sCsECWpqbE",
+        "title": "",
+        "description": "下注并参与游戏赢取奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -28.828125000000004,
+        1.4061088354351625
+      ],
+      "properties": {
+        "subcategoryExternalId": "dy0VnhvH6C",
+        "imageId": null,
+        "externalId": "MP8Y2CaZog",
+        "title": "",
+        "description": "完成任务这里是阿马迪罗，美国后可用\n#\n下注并参与游戏赢取奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -27.509765625000004,
+        -0.7031073524364757
+      ],
+      "properties": {
+        "subcategoryExternalId": "Gj1Hz4eLuu",
+        "imageId": null,
+        "externalId": "V3aPdmTVFn",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -26.806640625000007,
+        -0.19775351362549998
+      ],
+      "properties": {
+        "subcategoryExternalId": "3XTTIfcRz7",
+        "imageId": null,
+        "externalId": "H0YNUCSqhI",
+        "title": "犰狳杂货店",
+        "description": "完成任务 This is Armadillo, USA 后可用\n#\n出售物品:\n- 兔脚\n- 改良营地\n- 生存地图\n- 仙人掌泉地图\n- 缺牙岭地图\n- 苹果\n马匹药丸\n马匹契约",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -27.895117405632476,
+        0.7046693003146203
+      ],
+      "properties": {
+        "subcategoryExternalId": "iSrkabiFvW",
+        "imageId": null,
+        "externalId": "aoedkf3GLI",
+        "title": "犰狳酒馆",
+        "description": "完成任务后可用 This is Armadillo, USA",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -27.13234955781411,
+        1.5570006392420481
+      ],
+      "properties": {
+        "subcategoryExternalId": "G2eE3daBeb",
+        "imageId": null,
+        "externalId": "az2KtDMTBy",
+        "title": "",
+        "description": "完成任务这里是阿马迪罗，美国后可用，在酒馆内\n#\n买入金额：\n- $25（250筹码）",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -27.558602178653786,
+        1.0187142664348983
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1262928,
+        "externalId": "HY886uXjvG",
+        "title": "",
+        "description": "在安全屋内，必须先购买房产才能进入",
+        "imagePath": "/game_map_pin/1262928/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -27.222086951675077,
+        0.7719667540465451
+      ],
+      "properties": {
+        "subcategoryExternalId": "5EC2o0COVe",
+        "imageId": null,
+        "externalId": "NgSMNPJ1fP",
+        "title": "犰狳安全屋",
+        "description": "在酒馆的楼上\n#\n完成任务这里是犰狳镇，美国后可用，可以花费$50购买",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -23.466796875000004,
+        -0.9887204566941676
+      ],
+      "properties": {
+        "subcategoryExternalId": "H2Sb5av7hI",
+        "imageId": null,
+        "externalId": "KWpQOaF16n",
+        "title": "阿马迪罗电影院",
+        "description": "完成任务 这里是阿马迪罗，美国 后可用",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -25.2685546875,
+        1.0106897682409084
+      ],
+      "properties": {
+        "subcategoryExternalId": "8zanqwtR8S",
+        "imageId": null,
+        "externalId": "5YnZeGOBUy",
+        "title": "阿马迪罗医生诊所",
+        "description": "完成任务 这里是阿马迪罗，美国 后可用\n#\n出售：\n- 药品\n- 嚼烟\n- 苹果",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -26.389160156250004,
+        1.0106897682409084
+      ],
+      "properties": {
+        "subcategoryExternalId": "hXAkRKUuMf",
+        "imageId": null,
+        "externalId": "x57tsWZ0PK",
+        "title": "",
+        "description": "完成任务后可用 This is Armadillo, USA\n#\n出售：\n- 鱼饵\n- 子弹带\n- 火山手枪\n- 温彻斯特连发枪\n- 水牛步枪\n- 双管霰弹枪\n- 弹药",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -26.015625,
+        -0.5712795966325395
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1262919,
+        "externalId": "p69bPS7EEX",
+        "title": "2x 宝箱",
+        "description": "在银行的后房间\n#\n进入这个房间会增加你的通缉等级\n#\n*注意：你也可以打开银行后门附近房间外的柜子获得额外金钱*",
+        "imagePath": "/game_map_pin/1262919/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -28.740234375000004,
+        -0.3955046715320236
+      ],
+      "properties": {
+        "subcategoryExternalId": "KtRxepyBA3",
+        "imageId": 1262930,
+        "externalId": "W34RSTi9ig",
+        "title": "犰狳通缉令",
+        "description": "完成任务犰狳镇的政治现实后可用\n\n#\n\n互动以狩猎赏金目标。如果没有出现，请等待几分钟\n\n#\n\n*注意：目标没有固定的刷新位置，可能在各个区域刷新。此外，访问刷新位置会触发100%完成度，而不是狩猎赏金本身*",
+        "imagePath": "/game_map_pin/1262930/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        31.55435381185506,
+        8.553636157906027
+      ],
+      "properties": {
+        "subcategoryExternalId": "KtRxepyBA3",
+        "imageId": 1262809,
+        "externalId": "AmHg1Chy23",
+        "title": "麦克法兰牧场通缉令",
+        "description": "完成任务犰狳镇的政治现实后可用\n\n#\n\n互动以狩猎赏金目标。如果没有出现，请等待几分钟\n\n#\n\n*注意：目标没有固定的刷新位置，可能在各个区域刷新。此外，访问刷新位置会触发100%完成度，而不是狩猎赏金本身*",
+        "imagePath": "/game_map_pin/1262809/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -10.327148437500002,
+        -10.48781188205669
+      ],
+      "properties": {
+        "subcategoryExternalId": "eGt2OoMMW3",
+        "imageId": null,
+        "externalId": "MRMb1bUDf4",
+        "title": "库特教堂墓地",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -9.448242187500002,
+        -7.885147283424331
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "rh1tVqI79a",
+        "title": "",
+        "description": "废弃建筑后面",
+        "imageId": 1262932,
+        "imagePath": "/game_map_pin/1262932/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -11.184082031250004,
+        -10.22843726615595
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1262940,
+        "externalId": "eUfHCi0uWk",
+        "title": "",
+        "description": "库茨教堂内",
+        "imagePath": "/game_map_pin/1262940/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -5.273437500000001,
+        1.537901237431484
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "6fivrP7K1M",
+        "title": "",
+        "description": "在路边",
+        "imageId": 1262972,
+        "imagePath": "/game_map_pin/1262972/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -39.11132812500001,
+        20.34462694382968
+      ],
+      "properties": {
+        "subcategoryExternalId": "GkGooTJpwK",
+        "externalId": "gJARqLDxLa",
+        "title": "双岩帮窝点",
+        "description": "完成任务 派克盆地的正义 后可用\n#\n在区域附近与瑟洛·里斯对话开始",
+        "imageId": 1262976,
+        "imagePath": "/game_map_pin/1262976/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -38.825683593750036,
+        21.47351753334985
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "zjm6yahl02",
+        "title": "",
+        "description": "在房子里面，就在营救牧场主女儿的房间前",
+        "imageId": 1262978,
+        "imagePath": "/game_map_pin/1262978/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -38.62792968750001,
+        21.289374355860403
+      ],
+      "properties": {
+        "subcategoryExternalId": "hgDv0u9XdZ",
+        "imageId": 1262980,
+        "externalId": "C06vjhoyYR",
+        "title": "火山手枪",
+        "description": "在箱子内找到",
+        "imagePath": "/game_map_pin/1262980/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -59.57241743855975,
+        17.177449901764078
+      ],
+      "properties": {
+        "subcategoryExternalId": "waTjJzJ6Mu",
+        "imageId": null,
+        "externalId": "G3j5tiiOGz",
+        "title": "响尾蛇谷悬赏",
+        "description": "赏金目标的可能位置，通缉令可以在犰狳镇、麦克法兰牧场或拉茨凯勒岔路中找到\n#\n*注意：如果你要达到100%完成度，在赏金狩猎期间必须访问这个区域*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -57.65043855829273,
+        19.811173677291876
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1262981,
+        "externalId": "52fHdzsLIb",
+        "title": "",
+        "description": "洞穴之一内部",
+        "imagePath": "/game_map_pin/1262981/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -46.867675781250036,
+        -10.617418067950311
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "y31c9Jnzil",
+        "title": "",
+        "description": "山脊上方",
+        "imageId": 1262990,
+        "imagePath": "/game_map_pin/1262990/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -60.11718750000001,
+        -3.1843944923387397
+      ],
+      "properties": {
+        "subcategoryExternalId": "eGt2OoMMW3",
+        "imageId": null,
+        "externalId": "aMlUWuzrp4",
+        "title": "奥德费罗墓地",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -55.98632812500001,
+        -20.52993312517077
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1262994,
+        "externalId": "ozdtNl513I",
+        "title": "",
+        "description": "废弃马车后面",
+        "imagePath": "/game_map_pin/1262994/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -76.50878906250003,
+        -4.3683204208762305
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZXktYlzC43",
+        "imageId": null,
+        "externalId": "xetfP3dje3",
+        "title": "山脊木农场驯马工作",
+        "description": "完成任务 Spare the Rod, Spoil the Bandit 后可用\n#\n奖励：\n- 完成第一个工作后获得沃尔顿帮派服装碎片2\n- 各种报酬",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -24.323730468750004,
+        0.9447814006874182
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "A1xA4kVBQW",
+        "title": "不打不成器",
+        "description": "完成以下任务后可用：\n- 女人和牛\n- 派克盆地的正义\n- 老骗子蓝调\n#\n奖励：\n- $50\n- 250名声，200荣誉\n- 温彻斯特连发枪\n- 300名声（金牌奖励）\n#\n下一个任务：\n- 绞死邦妮·麦克法兰\n- 燃烧",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -73.53592689752583,
+        -4.141828405543677
+      ],
+      "properties": {
+        "subcategoryExternalId": "5EC2o0COVe",
+        "imageId": null,
+        "externalId": "85aQH4jQHk",
+        "title": "里奇伍德农场安全屋",
+        "description": "完成任务 不打不成器 后可用\n#\n每晚租金 $5",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -83.14453125000001,
+        5.375397774474749
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1263005,
+        "externalId": "24vvwBuewH",
+        "title": "",
+        "description": "破损马车之间",
+        "imagePath": "/game_map_pin/1263005/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -93.076171875,
+        20.67390526467284
+      ],
+      "properties": {
+        "subcategoryExternalId": "YhDH3K6osB",
+        "imageId": null,
+        "externalId": "o3pDXs0fzc",
+        "title": "",
+        "description": "下注金钱并玩游戏赢取奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -92.10937500000001,
+        21.96342493684422
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiFVG0N1h6",
+        "imageId": null,
+        "externalId": "dIpdEpfEnw",
+        "title": "",
+        "description": "买入金额：\n- $20",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -92.68066406250001,
+        22.614010874370294
+      ],
+      "properties": {
+        "subcategoryExternalId": "5EC2o0COVe",
+        "imageId": null,
+        "externalId": "FarN6KkM15",
+        "title": "拉茨凯勒岔路安全屋",
+        "description": "购买房产后可用，费用 $100",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -93.01025390625,
+        22.674847351188518
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "4jmLQLoVya",
+        "title": "",
+        "description": "在安全屋内，必须先购买房产才能进入",
+        "imageId": 1263016,
+        "imagePath": "/game_map_pin/1263016/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -93.60351562499999,
+        22.08563990165034
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1263018,
+        "externalId": "SFFDMsNPth",
+        "title": "3x 宝箱",
+        "description": "在第三个房间内\n#\n*注意：打开任何一个箱子都会增加你的通缉等级*",
+        "imagePath": "/game_map_pin/1263018/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -93.93310546875001,
+        21.80030805097259
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1263019,
+        "externalId": "E551qhRoQF",
+        "title": "4x 宝箱",
+        "description": "在第二个房间内\n#\n*注意：打开任何一个箱子都会增加你的通缉等级*",
+        "imagePath": "/game_map_pin/1263019/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -94.21875000000001,
+        21.514406720030294
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1263021,
+        "externalId": "NrE94YXnjb",
+        "title": "3x 宝箱",
+        "description": "在第一个房间内\n#\n*注意：打开任何箱子都会增加你的通缉等级*",
+        "imagePath": "/game_map_pin/1263021/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -93.73535156250003,
+        21.555284406923192
+      ],
+      "properties": {
+        "subcategoryExternalId": "KtRxepyBA3",
+        "imageId": 1263023,
+        "externalId": "tlCMuxiPCW",
+        "title": "拉茨凯勒分叉通缉令",
+        "description": "完成任务犰狳镇的政治现实后可用\n\n#\n\n互动以狩猎赏金目标。如果没有出现，请等待几分钟\n\n#\n\n*注意：目标没有固定的刷新位置，可能在各个区域刷新。此外，访问刷新位置会触发100%完成度，而不是狩猎赏金本身*",
+        "imagePath": "/game_map_pin/1263023/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -108.6328125,
+        9.774024565864735
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "zDKWDSmrSs",
+        "title": "",
+        "description": "在小屋内",
+        "imageId": 1263030,
+        "imagePath": "/game_map_pin/1263030/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -104.01018441157778,
+        -13.162096149644753
+      ],
+      "properties": {
+        "subcategoryExternalId": "eGt2OoMMW3",
+        "imageId": null,
+        "externalId": "uXFpOgjqQq",
+        "title": "滚木镇墓地",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -122.59050227743565,
+        -5.300143078229553
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "vEvNHZiGC0",
+        "title": "",
+        "description": "",
+        "imageId": 1263462,
+        "imagePath": "/game_map_pin/1263462/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -105.29361961073103,
+        -13.46043935213281
+      ],
+      "properties": {
+        "subcategoryExternalId": "GkGooTJpwK",
+        "imageId": 1263467,
+        "externalId": "0r8saBWYVN",
+        "title": "滚木镇帮派窝点",
+        "description": "完成任务 让死者埋葬死者 后可用",
+        "imagePath": "/game_map_pin/1263467/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -108.50097656250001,
+        -12.833226023521249
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "1S6RBBS9i2",
+        "title": "",
+        "description": "",
+        "imageId": 1263470,
+        "imagePath": "/game_map_pin/1263470/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -107.7978515625,
+        -14.562317701914807
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "Q9XbEX21i7",
+        "title": "",
+        "description": "建筑内部",
+        "imageId": 1263474,
+        "imagePath": "/game_map_pin/1263474/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -107.09472656250001,
+        -12.40438894466979
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "ysNREnpATr",
+        "title": "",
+        "description": "酒馆内吧台后面",
+        "imageId": 1263476,
+        "imagePath": "/game_map_pin/1263476/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -106.76513671875001,
+        -11.156845275211722
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "CIeqf441vl",
+        "title": "",
+        "description": "烟囱附近",
+        "imageId": 1263479,
+        "imagePath": "/game_map_pin/1263479/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -105.66650390625001,
+        -14.902321826141815
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "xTgHTdblUz",
+        "title": "",
+        "description": "小屋后面",
+        "imageId": 1263482,
+        "imagePath": "/game_map_pin/1263482/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -127.15576171875001,
+        -24.327076540018624
+      ],
+      "properties": {
+        "subcategoryExternalId": "GkGooTJpwK",
+        "externalId": "VcF0mJBg2g",
+        "title": "缺口堡帮派窝点",
+        "description": "完成任务 人生来就是烦恼 后可用\n#\n与受伤的人对话开始",
+        "imageId": 1263489,
+        "imagePath": "/game_map_pin/1263489/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -125.83740234375001,
+        -20.673905264672797
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1263487,
+        "externalId": "H0DAmtmzJx",
+        "title": "",
+        "description": "在矿井内，清理 缺口堡帮派窝点 时可遇到",
+        "imagePath": "/game_map_pin/1263487/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -126.84814453125001,
+        -26.72598681227177
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "AAdvh16hpW",
+        "title": "",
+        "description": "在帐篷内部",
+        "imageId": 1263494,
+        "imagePath": "/game_map_pin/1263494/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -127.99072265625003,
+        -26.941659545381498
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "cdAL3t63PD",
+        "title": "",
+        "description": "在帐篷内部",
+        "imageId": 1263496,
+        "imagePath": "/game_map_pin/1263496/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -128.38623046875003,
+        -28.149503211544577
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "1pKQmZ1E1t",
+        "title": "",
+        "description": "在帐篷内部",
+        "imageId": 1263498,
+        "imagePath": "/game_map_pin/1263498/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -121.76043138422155,
+        -44.08254844851672
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "DwXFRn2zpR",
+        "title": "",
+        "description": "在屋内",
+        "imageId": 1263504,
+        "imagePath": "/game_map_pin/1263504/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -94.39453125000003,
+        -34.43409789359469
+      ],
+      "properties": {
+        "subcategoryExternalId": "Gj1Hz4eLuu",
+        "imageId": null,
+        "externalId": "b22tc6qlsF",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -94.50439453125009,
+        -34.903952965590015
+      ],
+      "properties": {
+        "subcategoryExternalId": "1d31JrsYD8",
+        "imageId": null,
+        "externalId": "mrwrKGEnl5",
+        "title": "本尼迪克特角电报局",
+        "description": "你可以在这里缴纳赏金以清除悬赏。\n#\n完成任务 挖掘和其他高雅嗜好 后可用",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -102.3486328125,
+        -41.19518982948958
+      ],
+      "properties": {
+        "subcategoryExternalId": "GkGooTJpwK",
+        "externalId": "WcUNh4cEjg",
+        "title": "所罗门的愚行帮派窝点",
+        "description": "与警长对话开始",
+        "imageId": 1263508,
+        "imagePath": "/game_map_pin/1263508/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -101.79931640625,
+        -41.64007838467887
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1263510,
+        "externalId": "2lEOYS2r7H",
+        "title": "2x 宝箱",
+        "description": "在废弃砖房的地下室\n#\n可以在其中一个箱子里获得沃尔顿帮派服装碎片1",
+        "imagePath": "/game_map_pin/1263510/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -108.78662109375001,
+        9.492408153765538
+      ],
+      "properties": {
+        "subcategoryExternalId": "waTjJzJ6Mu",
+        "imageId": null,
+        "externalId": "mUAIc372NZ",
+        "title": "静谧农庄赏金",
+        "description": "赏金目标的可能位置，通缉令可以在犰狳镇、麦克法兰牧场或拉茨凯勒岔路中找到\n#\n*注意：如果你要达到100%完成度，在赏金狩猎期间必须访问这个区域*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -71.49902343750001,
+        -28.90239722855847
+      ],
+      "properties": {
+        "subcategoryExternalId": "waTjJzJ6Mu",
+        "imageId": null,
+        "externalId": "AJh2V5WjFi",
+        "title": "忏悔岩赏金",
+        "description": "赏金目标的可能位置，通缉令可以在犰狳镇、麦克法兰牧场或拉茨凯勒岔路中找到\n#\n*注意：如果你要达到100%完成度，在赏金狩猎期间必须访问这个区域*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -103.07373046875001,
+        -41.178653972331695
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "ZA5B84gnqB",
+        "title": "",
+        "description": "在谷仓上层",
+        "imageId": 1264167,
+        "imagePath": "/game_map_pin/1264167/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -69.41162109375001,
+        -29.07537517955827
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "0rQpNWafNx",
+        "title": "",
+        "description": "在最高的岩石顶部，使用岩ledges攀爬到达",
+        "imageId": 1263512,
+        "imagePath": "/game_map_pin/1263512/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -70.37841796875001,
+        -43.42100882994722
+      ],
+      "properties": {
+        "subcategoryExternalId": "0byzBXdhF0",
+        "imageId": null,
+        "externalId": "JL0ZYDTN3S",
+        "title": "普莱恩维尤扳手腕",
+        "description": "下注$并游戏获胜",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -72.85355172998536,
+        -44.3237862994074
+      ],
+      "properties": {
+        "subcategoryExternalId": "5EC2o0COVe",
+        "imageId": null,
+        "externalId": "w46hXUoSIU",
+        "title": "平原景观安全屋",
+        "description": "每晚租金5美元",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -72.42187500000001,
+        -43.421008829947255
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "SyVQM4hojz",
+        "title": "",
+        "description": "在帐篷内部",
+        "imageId": 1263515,
+        "imagePath": "/game_map_pin/1263515/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -72.02636718750001,
+        -43.03677585761058
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "pNpiaRgefD",
+        "title": "",
+        "description": "在帐篷内部",
+        "imageId": 1263517,
+        "imagePath": "/game_map_pin/1263517/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -71.91650390625001,
+        -42.4072346615519
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "oa9oPAdJUT",
+        "title": "",
+        "description": "在帐篷内部",
+        "imageId": 1263518,
+        "imagePath": "/game_map_pin/1263518/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -49.372558593750014,
+        -33.79740876757249
+      ],
+      "properties": {
+        "subcategoryExternalId": "GkGooTJpwK",
+        "externalId": "Nak2WjyXFj",
+        "title": "梅瑟堡垒帮派藏身处",
+        "description": "完成任务我们将在天堂相聚后可用\n#\n与枪手对话开始",
+        "imageId": 1263538,
+        "imagePath": "/game_map_pin/1263538/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -50.16357421875001,
+        -34.34343606848294
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "IlnVYzmrJI",
+        "title": "2x 宝箱",
+        "description": "在宝藏房间内",
+        "imageId": 1263536,
+        "imagePath": "/game_map_pin/1263536/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -50.42724609375001,
+        -34.23451236236984
+      ],
+      "properties": {
+        "subcategoryExternalId": "hgDv0u9XdZ",
+        "imageId": 1263540,
+        "externalId": "HHUWndOO0a",
+        "title": "半自动手枪",
+        "description": "可在清剿梅瑟堡垒帮派藏身处时获得",
+        "imagePath": "/game_map_pin/1263540/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -50.00976562500001,
+        -34.957995310867936
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "LK9EzvYPby",
+        "title": "",
+        "description": "在马厩内",
+        "imageId": 1263543,
+        "imagePath": "/game_map_pin/1263543/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -49.15283203125001,
+        -34.93998515156044
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "Umcs9SH9On",
+        "title": "",
+        "description": "在食品储藏室内",
+        "imageId": 1263545,
+        "imagePath": "/game_map_pin/1263545/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -49.57031250000002,
+        -34.8318411498287
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1263547,
+        "externalId": "Y6AQLfRF3i",
+        "title": "2x 宝箱",
+        "description": "在堡垒二楼的房间内",
+        "imagePath": "/game_map_pin/1263547/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -49.746093750000014,
+        -33.04550781490994
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1263550,
+        "externalId": "X8uA8qS0uL",
+        "title": "安全",
+        "description": "在堡垒二楼\n#\n撬开这个保险箱会降低100点荣誉值\n#\n*注意：你还可以打开附近的柜子获得额外现金*",
+        "imagePath": "/game_map_pin/1263550/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -56.62353515625,
+        -19.49766416813904
+      ],
+      "properties": {
+        "subcategoryExternalId": "waTjJzJ6Mu",
+        "imageId": null,
+        "externalId": "qFv4KR6Bxm",
+        "title": "梅瑟车站赏金",
+        "description": "赏金目标的可能位置，通缉令可以在犰狳镇、麦克法兰牧场或拉茨凯勒岔路中找到\n#\n*注意：如果你要达到100%完成度，在赏金狩猎期间必须访问这个区域*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -17.863769531250004,
+        -34.77771580360471
+      ],
+      "properties": {
+        "subcategoryExternalId": "waTjJzJ6Mu",
+        "imageId": null,
+        "externalId": "c1XQkvxabu",
+        "title": "里奥德尔洛博赏金",
+        "description": "赏金目标的可能位置，通缉令可以在犰狳镇、麦克法兰牧场或拉茨凯勒岔路中找到\n#\n*注意：如果你要达到100%完成度，在赏金狩猎期间必须访问这个区域*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        46.40625000000001,
+        -17.623081791311762
+      ],
+      "properties": {
+        "subcategoryExternalId": "waTjJzJ6Mu",
+        "imageId": null,
+        "externalId": "OXDbSuzmAv",
+        "title": "布里特布拉什争斗赏金",
+        "description": "赏金目标的可能位置，通缉令可以在犰狳镇、麦克法兰牧场或拉茨凯勒岔路中找到\n#\n*注意：如果你要达到100%完成度，在赏金狩猎期间必须访问这个区域*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -35.94726562500001,
+        -26.293415004265768
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1263554,
+        "externalId": "IlbZMF6Cv7",
+        "title": "",
+        "description": "在山脊顶部",
+        "imagePath": "/game_map_pin/1263554/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -35.00244140625001,
+        -23.32208001137846
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "0m3uOm86lD",
+        "title": "",
+        "description": "在烧毁的房屋内",
+        "imageId": 1263556,
+        "imagePath": "/game_map_pin/1263556/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -18.171386718750004,
+        -34.74161249883175
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "bPSi0AlcPM",
+        "title": "",
+        "description": "小屋内部",
+        "imageId": 1263558,
+        "imagePath": "/game_map_pin/1263558/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -19.79736328125002,
+        -39.554883059924016
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "RYx6UCf8Bb",
+        "title": "",
+        "description": "",
+        "imageId": 1263561,
+        "imagePath": "/game_map_pin/1263561/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        13.293457031250002,
+        -24.826624956562142
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1263563,
+        "externalId": "zk15jARLju",
+        "title": "",
+        "description": "在废墟房屋内",
+        "imagePath": "/game_map_pin/1263563/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        88.94531250000004,
+        -32.71335535317754
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "r90v5hGjt9",
+        "title": "",
+        "description": "",
+        "imageId": 1263615,
+        "imagePath": "/game_map_pin/1263615/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        83.12255859375,
+        -33.85216970140741
+      ],
+      "properties": {
+        "subcategoryExternalId": "dy0VnhvH6C",
+        "imageId": null,
+        "externalId": "Ud4fZmSvir",
+        "title": "托尔克马达五指飞刀",
+        "description": "下注并参与游戏赢取奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        82.26562500000003,
+        -34.21634468843463
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1263780,
+        "externalId": "iXhPfRNgTf",
+        "title": "",
+        "description": "在建筑物的后房间\n#\n*注意：打开这个箱子会提高你的通缉等级*",
+        "imagePath": "/game_map_pin/1263780/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        64.16015625000001,
+        -8.798225459016336
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "CnzStLqVHd",
+        "title": "",
+        "description": "在瀑布附近",
+        "imageId": 1263790,
+        "imagePath": "/game_map_pin/1263790/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        38.75976562500001,
+        -26.35249785815401
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "y0vWTRQpMk",
+        "title": "",
+        "description": "在大树附近",
+        "imageId": 1263794,
+        "imagePath": "/game_map_pin/1263794/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        44.02940377394603,
+        -39.051223592788745
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "13hjIwCKyV",
+        "title": "",
+        "description": "在小营地附近",
+        "imageId": 1263796,
+        "imagePath": "/game_map_pin/1263796/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        33.866643919189656,
+        -43.4181263823282
+      ],
+      "properties": {
+        "subcategoryExternalId": "Gj1Hz4eLuu",
+        "imageId": null,
+        "externalId": "bl0qtNIHe8",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        32.98095703125001,
+        -42.74701217318063
+      ],
+      "properties": {
+        "subcategoryExternalId": "dUDtwSm5kH",
+        "imageId": null,
+        "externalId": "UyEaFIRqNQ",
+        "title": "卡萨马德鲁加达骰子游戏",
+        "description": "完成任务我们将在天堂相聚后可用。在酒馆内\n#\n入场费：\n- 20美元\n#\n*注意：首次在这里赢得游戏将获得强盗装束碎片3*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        32.47558593750001,
+        -42.795400653037206
+      ],
+      "properties": {
+        "subcategoryExternalId": "G2eE3daBeb",
+        "imageId": null,
+        "externalId": "pivrYpeQvu",
+        "title": "卡萨马德鲁加达扑克",
+        "description": "完成任务我们将在天堂相聚后可用。在酒馆内\n#\n入场费：\n- 50美元（500筹码）",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        32.76123046875001,
+        -43.03677585761058
+      ],
+      "properties": {
+        "subcategoryExternalId": "iSrkabiFvW",
+        "imageId": null,
+        "externalId": "FNwrssT6y3",
+        "title": "卡萨马德鲁加达酒馆",
+        "description": "完成任务我们将在天堂相聚后可用。",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        31.794433593750004,
+        -42.95642251107327
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1263991,
+        "externalId": "yqBiAcI9PH",
+        "title": "",
+        "description": "在安全屋内，必须先购买房产才能进入",
+        "imagePath": "/game_map_pin/1263991/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        36.07910156250001,
+        -45.644768217751924
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": null,
+        "externalId": "uxtRUmHMgs",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        72.64160156250001,
+        16.78350556192774
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1262433,
+        "externalId": "FpfGFDPBtM",
+        "title": "",
+        "description": "在安全屋内，必须先购买房产才能进入",
+        "imagePath": "/game_map_pin/1262433/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        31.574707031250004,
+        -43.11702412135052
+      ],
+      "properties": {
+        "subcategoryExternalId": "5EC2o0COVe",
+        "imageId": null,
+        "externalId": "uSOSvxExrv",
+        "title": "卡萨马德鲁加达安全屋",
+        "description": "在建筑物上层，完成任务我们将在天堂相聚后可用。可以以250美元购买",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        47.21923828125001,
+        -48.16608541901253
+      ],
+      "properties": {
+        "subcategoryExternalId": "0byzBXdhF0",
+        "imageId": null,
+        "externalId": "CoRhu8hu4B",
+        "title": "埃尔马塔德罗掰手腕",
+        "description": "完成任务我们将在天堂相聚后可用。\n#\n下注$并游戏获胜",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        46.66992187500001,
+        -50.28933925329174
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "IzjGVO4dZH",
+        "title": "",
+        "description": "在马厩的上层平台",
+        "imageId": 1263999,
+        "imagePath": "/game_map_pin/1263999/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        48.49365234375,
+        -49.66762782262193
+      ],
+      "properties": {
+        "subcategoryExternalId": "5EC2o0COVe",
+        "imageId": null,
+        "externalId": "TaCj6o2KIS",
+        "title": "屠宰场安全屋",
+        "description": "完成任务我们将在天堂相聚后可用。可以花费$150购买",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        48.18603515625001,
+        -49.653404588437816
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1264000,
+        "externalId": "E0wHWBAdut",
+        "title": "",
+        "description": "在安全屋内，必须先购买房产才能进入",
+        "imagePath": "/game_map_pin/1264000/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        54.272460937500014,
+        -50.429517947122875
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1264008,
+        "externalId": "QnzEtDuN1n",
+        "title": "",
+        "description": "",
+        "imagePath": "/game_map_pin/1264008/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        52.99804687500001,
+        -50.54136296522163
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1264010,
+        "externalId": "wRHXBLkQrE",
+        "title": "",
+        "description": "在板条箱后面",
+        "imagePath": "/game_map_pin/1264010/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        50.97656250000001,
+        -50.94458443495004
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "uO5eTdvbfa",
+        "title": "",
+        "description": "在俯瞰峡谷的山脊上",
+        "imageId": 1264012,
+        "imagePath": "/game_map_pin/1264012/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        8.745117187500002,
+        -59.01794033995247
+      ],
+      "properties": {
+        "subcategoryExternalId": "waTjJzJ6Mu",
+        "imageId": null,
+        "externalId": "FqlXpXsWkg",
+        "title": "塞普尔克罗赏金",
+        "description": "赏金目标的可能位置，通缉令可以在Chuparosa、Escalera或El Presidio找到\n#\n*注意：如果你要达到100%完成度，在赏金狩猎期间必须访问这个区域*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        16.918945312500004,
+        -68.93471056532553
+      ],
+      "properties": {
+        "subcategoryExternalId": "waTjJzJ6Mu",
+        "imageId": null,
+        "externalId": "gN1wr3WWns",
+        "title": "兰乔波尔沃赏金",
+        "description": "赏金目标的可能位置，通缉令可以在Chuparosa、Escalera或El Presidio找到\n#\n*注意：如果你要达到100%完成度，在赏金狩猎期间必须访问这个区域*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        3.6914062500000004,
+        -70.43679881854638
+      ],
+      "properties": {
+        "subcategoryExternalId": "waTjJzJ6Mu",
+        "imageId": null,
+        "externalId": "hPkX0UMos7",
+        "title": "拉古纳博雷戈赏金",
+        "description": "赏金目标的可能位置，通缉令可以在Chuparosa、Escalera或El Presidio找到\n#\n*注意：如果你要达到100%完成度，在赏金狩猎期间必须访问这个区域*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -9.624023437500002,
+        -68.9583908482208
+      ],
+      "properties": {
+        "subcategoryExternalId": "waTjJzJ6Mu",
+        "imageId": null,
+        "externalId": "s76uXyZto8",
+        "title": "亨迪杜拉格兰德赏金",
+        "description": "赏金目标的可能位置，通缉令可以在Chuparosa、Escalera或El Presidio找到\n#\n*注意：如果你要达到100%完成度，在赏金狩猎期间必须访问这个区域*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -30.651855468750007,
+        -62.29858112871818
+      ],
+      "properties": {
+        "subcategoryExternalId": "waTjJzJ6Mu",
+        "imageId": null,
+        "externalId": "IoECVnGel8",
+        "title": "巴兰卡赏金",
+        "description": "赏金目标的可能位置，通缉令可以在Chuparosa、Escalera或El Presidio找到\n#\n*注意：如果你要达到100%完成度，在赏金狩猎期间必须访问这个区域*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -52.69042968750001,
+        -65.21989393613211
+      ],
+      "properties": {
+        "subcategoryExternalId": "waTjJzJ6Mu",
+        "imageId": null,
+        "externalId": "rs8WivBKhL",
+        "title": "魔鬼之眼赏金",
+        "description": "赏金目标的可能位置，通缉令可以在Chuparosa、Escalera或El Presidio找到\n#\n*注意：如果你要达到100%完成度，在赏金狩猎期间必须访问这个区域*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -80.79345703125001,
+        -67.86726454036145
+      ],
+      "properties": {
+        "subcategoryExternalId": "waTjJzJ6Mu",
+        "imageId": null,
+        "externalId": "Vpxg9cQ9EH",
+        "title": "普拉塔格兰德悬赏",
+        "description": "赏金目标的可能位置，通缉令可以在Chuparosa、Escalera或El Presidio找到\n#\n*注意：如果你要达到100%完成度，在赏金狩猎期间必须访问这个区域*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        15.051269531250004,
+        -70.98119010476937
+      ],
+      "properties": {
+        "subcategoryExternalId": "waTjJzJ6Mu",
+        "imageId": null,
+        "externalId": "KT9PicJERP",
+        "title": "普里梅拉克布拉达赏金",
+        "description": "赏金目标的可能位置，通缉令可以在Chuparosa、Escalera或El Presidio找到\n#\n*注意：如果你要达到100%完成度，在赏金狩猎期间必须访问这个区域*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        7.426757812500001,
+        -58.99531118795094
+      ],
+      "properties": {
+        "subcategoryExternalId": "eGt2OoMMW3",
+        "imageId": null,
+        "externalId": "mCIRHTtcLF",
+        "title": "塞普尔克罗墓园",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        8.327636718750002,
+        -59.20968817840925
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "FJn4CJ7eKQ",
+        "title": "",
+        "description": "在神父雕像后面的小墙上",
+        "imageId": 1264022,
+        "imagePath": "/game_map_pin/1264022/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -5.515136718750002,
+        -58.745406968580255
+      ],
+      "properties": {
+        "subcategoryExternalId": "1d31JrsYD8",
+        "imageId": null,
+        "externalId": "HEgJn0CiM9",
+        "title": "拉斯赫尔马纳斯电报局",
+        "description": "你可以在这里支付悬赏赎金",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -6.50390625,
+        -58.63121664342478
+      ],
+      "properties": {
+        "subcategoryExternalId": "Gj1Hz4eLuu",
+        "imageId": null,
+        "externalId": "3POY5TEHf8",
+        "title": "",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -7.7783203125,
+        -58.11271444125312
+      ],
+      "properties": {
+        "subcategoryExternalId": "YhDH3K6osB",
+        "imageId": null,
+        "externalId": "ocWsIv7I7m",
+        "title": "",
+        "description": "完成任务我们将在天堂相聚后可用。下注金额并开始游戏",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -7.822265625000001,
+        -57.06463027327855
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "imageId": 1264025,
+        "externalId": "9lttet5bRF",
+        "title": "",
+        "description": "在建筑物上层的卧室内。\n#\n*注意：打开这个箱子会提高你的通缉等级*",
+        "imagePath": "/game_map_pin/1264025/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        3.2958984375000004,
+        -50.30337575356313
+      ],
+      "properties": {
+        "subcategoryExternalId": "0byzBXdhF0",
+        "imageId": null,
+        "externalId": "dPCKrMfKfx",
+        "title": "阿加韦维耶霍臂力摔跤",
+        "description": "完成任务我们将在天堂相聚后可用。下注金额并开始游戏",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        1.9775390625000004,
+        -51.17934297928928
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "P9PlL7iNKz",
+        "title": "",
+        "description": "在大岩石底部",
+        "imageId": 1264029,
+        "imagePath": "/game_map_pin/1264029/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        35.99121093750001,
+        -28.323724553546008
+      ],
+      "properties": {
+        "subcategoryExternalId": "KtRxepyBA3",
+        "imageId": 1264035,
+        "externalId": "kCd7HWQfsq",
+        "title": "埃尔普雷西迪奥通缉令",
+        "description": "完成任务埃尔普雷西迪奥之门后可用\n#\n与之互动开始狩猎赏金目标。如果目标不在，等待几分钟\n#\n*注意：目标没有固定刷新位置，可能在不同区域刷新。另外，访问刷新位置会触发100%完成度，而不是狩猎赏金本身*",
+        "imagePath": "/game_map_pin/1264035/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        31.55435381185506,
+        8.553636157906027
+      ],
+      "properties": {
+        "subcategoryExternalId": "KtRxepyBA3",
+        "imageId": 1262809,
+        "externalId": "1feHVQc1Ua",
+        "title": "麦克法兰牧场通缉令",
+        "description": "完成任务犰狳镇的政治现实后可用\n\n#\n\n互动以狩猎赏金目标。如果没有出现，请等待几分钟\n\n#\n\n*注意：目标没有固定的刷新位置，可能在各个区域刷新。此外，访问刷新位置会触发100%完成度，而不是狩猎赏金本身*",
+        "imagePath": "/game_map_pin/1262809/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -30.340461388344277,
+        -62.31656997044148
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "p0RHJUg0yJ",
+        "title": "",
+        "description": "",
+        "imageId": 1264052,
+        "imagePath": "/game_map_pin/1264052/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -51.48193359375001,
+        -57.9848080192398
+      ],
+      "properties": {
+        "subcategoryExternalId": "StfzrBZWB6",
+        "imageId": null,
+        "externalId": "cTG3jgIBNt",
+        "title": "楚帕罗萨",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -51.416015625,
+        -58.76820015923957
+      ],
+      "properties": {
+        "subcategoryExternalId": "8zanqwtR8S",
+        "imageId": null,
+        "externalId": "5ni3hE8s5L",
+        "title": "蜂鸟医生诊所",
+        "description": "完成任务枪手的悲剧后可用\n#\n出售：\n- 药品\n- 诱饵\n- 改良营地\n- 生存主义者地图\n- 苹果\n- 马药\n- 月光酒",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -52.16308593750001,
+        -58.90464570301999
+      ],
+      "properties": {
+        "subcategoryExternalId": "3XTTIfcRz7",
+        "imageId": null,
+        "externalId": "kqernDKJAi",
+        "title": "楚帕罗萨杂货店",
+        "description": "完成任务神枪手的悲剧后解锁\n#\n售卖:\n- 生存者地图\n- 佩尔迪多地图\n- 迪耶兹科罗纳斯地图\n- 土匪套装碎片6\n- 弹药\n- 蛇油\n- 嚼烟\n- 马匹契约",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -50.64697265625001,
+        -58.447732803890744
+      ],
+      "properties": {
+        "subcategoryExternalId": "iSrkabiFvW",
+        "imageId": null,
+        "externalId": "3O2HR1PQXG",
+        "title": "查帕罗萨酒馆",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -50.99853515625001,
+        -58.5166517993638
+      ],
+      "properties": {
+        "subcategoryExternalId": "G2eE3daBeb",
+        "imageId": null,
+        "externalId": "Ue43DKbX7E",
+        "title": "楚帕罗萨扑克",
+        "description": "买入金额:\n- $50 (500筹码)",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -50.33935546875006,
+        -58.654084645305886
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiFVG0N1h6",
+        "imageId": null,
+        "externalId": "aFXhnAmC59",
+        "title": "楚帕罗萨二十一点",
+        "description": "买入金额:\n- $30",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -52.448730468750036,
+        -57.938183012205315
+      ],
+      "properties": {
+        "subcategoryExternalId": "tyt3hTyPpi",
+        "imageId": null,
+        "externalId": "k4TdBZmV8d",
+        "title": "楚帕罗萨夜间守卫工作",
+        "description": "完成任务神枪手的悲剧后等待夜晚解锁\n#\n奖励:\n- 首次完成工作获得土匪套装碎片2\n- 多样报酬",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -50.16357421875001,
+        -57.279042764977774
+      ],
+      "properties": {
+        "subcategoryExternalId": "1d31JrsYD8",
+        "imageId": null,
+        "externalId": "MzMjMPYskd",
+        "title": "丘帕罗萨电报局",
+        "description": "您可以在这里消除悬赏令",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -49.921875,
+        -58.93867318794831
+      ],
+      "properties": {
+        "subcategoryExternalId": "5EC2o0COVe",
+        "imageId": null,
+        "externalId": "Av5eVd32es",
+        "title": "楚帕罗萨安全屋",
+        "description": "完成任务神枪手的悲剧后可以花费$200购买",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -50.58105468750001,
+        -57.59833484958448
+      ],
+      "properties": {
+        "subcategoryExternalId": "hgDv0u9XdZ",
+        "imageId": 1264108,
+        "externalId": "WB1ZQrePfs",
+        "title": "斯科菲尔德左轮手枪",
+        "description": "完成任务枪手的悲剧后可获得",
+        "imagePath": "/game_map_pin/1264108/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -48.22998046875001,
+        -57.751075981321
+      ],
+      "properties": {
+        "subcategoryExternalId": "ZXktYlzC43",
+        "imageId": null,
+        "externalId": "pjQ7IQ5Zl7",
+        "title": "楚帕罗萨驯马工作",
+        "description": "完成任务神枪手的悲剧后解锁\n#\n奖励:\n- 首次完成工作获得雷耶斯的叛军套装碎片3\n- 多样报酬",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -50.185546875,
+        -58.95000823335703
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "4iJOFr00aK",
+        "title": "",
+        "description": "在安全屋内，必须先购买房产才能进入",
+        "imageId": 1264120,
+        "imagePath": "/game_map_pin/1264120/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -49.41650390625001,
+        -57.84475099289095
+      ],
+      "properties": {
+        "subcategoryExternalId": "KtRxepyBA3",
+        "imageId": 1264123,
+        "externalId": "E7iSbkO1xo",
+        "title": "楚帕罗萨悬赏令",
+        "description": "完成任务神枪手的悲剧后解锁\n#\n交互以开始赏金任务。如果目标不在，等待几分钟\n#\n*注意：目标没有固定刷新位置，可能在不同区域出现。访问刷新位置即可触发100%完成度，无需实际狩猎赏金目标*",
+        "imagePath": "/game_map_pin/1264123/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -84.08935546875001,
+        -58.66551303038583
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "Ahyqv5pTCA",
+        "title": "",
+        "description": "在桥下的小营地中",
+        "imageId": 1264129,
+        "imagePath": "/game_map_pin/1264129/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -100.70068359375,
+        -57.314657355733274
+      ],
+      "properties": {
+        "subcategoryExternalId": "5EC2o0COVe",
+        "imageId": null,
+        "externalId": "56uIDLiI42",
+        "title": "爱尔兰人的小屋",
+        "description": "完成任务我们将在天堂相聚后可用",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -100.96435546875,
+        -57.30278965635008
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "FepzZNtPo5",
+        "title": "",
+        "description": "",
+        "imageId": 1264133,
+        "imagePath": "/game_map_pin/1264133/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -101.66748046875001,
+        -59.46740794183739
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "hvgKoQWl2q",
+        "title": "",
+        "description": "在最大的岩石下",
+        "imageId": 1264139,
+        "imagePath": "/game_map_pin/1264139/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -122.13400049807336,
+        -60.496837797015885
+      ],
+      "properties": {
+        "subcategoryExternalId": "StfzrBZWB6",
+        "imageId": null,
+        "externalId": "FFhFkXMlNu",
+        "title": "埃斯卡勒拉",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -119.18966456057339,
+        -62.038626774893885
+      ],
+      "properties": {
+        "subcategoryExternalId": "Gj1Hz4eLuu",
+        "imageId": null,
+        "externalId": "JwIcpsSKsA",
+        "title": "",
+        "description": "完成任务我们将在天堂相聚后可用",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -119.92675781250001,
+        -62.400550825417106
+      ],
+      "properties": {
+        "subcategoryExternalId": "dy0VnhvH6C",
+        "imageId": null,
+        "externalId": "wYqgPPHP1t",
+        "title": "埃斯卡莱拉五指刺",
+        "description": "下注并参与游戏赢取奖励",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -120.73974609375003,
+        -61.9182710233559
+      ],
+      "properties": {
+        "subcategoryExternalId": "3XTTIfcRz7",
+        "imageId": null,
+        "externalId": "NmjmJkIIPs",
+        "title": "埃斯卡莱拉杂货店",
+        "description": "完成任务我们将在天堂相聚后可用\n#\n出售：\n- 鱼饵\n- 苹果\n- 蛇油\n- 头巾\n- 叛军废料\n- 生存专家地图\n- 马匹契约",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -121.75048828125001,
+        -61.62728646147461
+      ],
+      "properties": {
+        "subcategoryExternalId": "8zanqwtR8S",
+        "imageId": null,
+        "externalId": "8w5a1bKwVL",
+        "title": "埃斯卡莱拉医生办公室",
+        "description": "完成任务我们终将在天堂相聚后解锁\n#\n售卖:\n- 药品\n- 嚼烟\n- 马匹药丸",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -120.76171875000001,
+        -61.14323525084057
+      ],
+      "properties": {
+        "subcategoryExternalId": "iSrkabiFvW",
+        "imageId": null,
+        "externalId": "ZfEQSNhTrr",
+        "title": "埃斯卡莱拉酒馆",
+        "description": "",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -120.498046875,
+        -60.877008049626205
+      ],
+      "properties": {
+        "subcategoryExternalId": "dUDtwSm5kH",
+        "imageId": null,
+        "externalId": "Hts1V5sLKG",
+        "title": "",
+        "description": "完成任务我们终将在天堂相聚后解锁\n#\n买入金额:\n- $20",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -122.49755859375003,
+        -62.36999628130772
+      ],
+      "properties": {
+        "subcategoryExternalId": "5EC2o0COVe",
+        "imageId": null,
+        "externalId": "e4VzZKzjdk",
+        "title": "埃斯卡莱拉安全屋",
+        "description": "完成任务我们将在天堂相聚后可用。可花费$150购买",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -121.88232421875001,
+        -61.17503266354876
+      ],
+      "properties": {
+        "subcategoryExternalId": "hXAkRKUuMf",
+        "imageId": null,
+        "externalId": "pvymlvuxt2",
+        "title": "埃斯卡莱拉军械商",
+        "description": "完成任务 We Shall Be Together in Paradise 后可用\n#\n出售：\n- 鱼饵\n- LeMat左轮手枪（完成任务 An Appointed Time 后可用）\n- 螺栓式步枪\n- 野牛步枪\n- 炸药\n- 燃烧瓶\n- 半自动霰弹枪\n- 半自动手枪",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -122.58544921875,
+        -60.823494332539646
+      ],
+      "properties": {
+        "subcategoryExternalId": "KtRxepyBA3",
+        "imageId": 1264149,
+        "externalId": "55CL2n1VFW",
+        "title": "埃斯卡莱拉悬赏令",
+        "description": "完成任务我们终将在天堂相聚后解锁\n#\n交互以开始赏金任务。如果目标不在，等待几分钟\n#\n*注意：目标没有固定刷新位置，可能在不同区域出现。访问刷新位置即可触发100%完成度，无需实际狩猎赏金目标*",
+        "imagePath": "/game_map_pin/1264149/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -122.36572265625,
+        -62.48187744898419
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "AYKiC1dUea",
+        "title": "",
+        "description": "在安全屋内，必须先购买房产才能进入",
+        "imageId": 1264143,
+        "imagePath": "/game_map_pin/1264143/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -138.84521484375003,
+        -50.69471783819287
+      ],
+      "properties": {
+        "subcategoryExternalId": "GkGooTJpwK",
+        "externalId": "DYOv9EIrcu",
+        "title": "诺萨林达帮派藏身处",
+        "description": "完成任务我们将在天堂相聚后可用\n#\n与将军对话开始",
+        "imageId": 1264156,
+        "imagePath": "/game_map_pin/1264156/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -138.22998046875003,
+        -50.72254683363228
+      ],
+      "properties": {
+        "subcategoryExternalId": "hgDv0u9XdZ",
+        "imageId": 1264158,
+        "externalId": "qaH4xLD6hf",
+        "title": "亨利连发步枪",
+        "description": "清剿诺萨琳达帮派据点的奖励",
+        "imagePath": "/game_map_pin/1264158/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -140.62500000000003,
+        -52.200873717332115
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "XHQ0hONaCS",
+        "title": "",
+        "description": "在熔炉旁边",
+        "imageId": 1264160,
+        "imagePath": "/game_map_pin/1264160/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -141.06445312500003,
+        -52.24125614966341
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "TJdsgxAq6g",
+        "title": "",
+        "description": "在房子里，床脚处",
+        "imageId": 1264163,
+        "imagePath": "/game_map_pin/1264163/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -146.00830078125003,
+        -54.6229781326903
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "n9Sh8sO2wS",
+        "title": "",
+        "description": "",
+        "imageId": 1264165,
+        "imagePath": "/game_map_pin/1264165/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -87.91259765625001,
+        -66.48697584176404
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "revPrNyYQs",
+        "title": "",
+        "description": "在山上的帐篷里",
+        "imageId": 1264171,
+        "imagePath": "/game_map_pin/1264171/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -79.07958984375,
+        -67.97463396204756
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "hEZ1QuDvrD",
+        "title": "",
+        "description": "在隧道尽头\n#\n*注意：如果这里有活跃的赏金目标，会有两个箱子而不是一个*",
+        "imageId": 1264177,
+        "imagePath": "/game_map_pin/1264177/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -75.9052766832699,
+        -64.18856470374278
+      ],
+      "properties": {
+        "subcategoryExternalId": "GkGooTJpwK",
+        "externalId": "PEsyWNMx0P",
+        "title": "蓝色宝藏帮派藏身处",
+        "description": "完成任务恶魔之饮后可用\n#\n与警长对话开始",
+        "imageId": 1264181,
+        "imagePath": "/game_map_pin/1264181/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -74.72900390625001,
+        -64.43489204304055
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "982BvRXz0q",
+        "title": "",
+        "description": "在屋内",
+        "imageId": 1264184,
+        "imagePath": "/game_map_pin/1264184/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -75.25634765625001,
+        -63.98559971175694
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "xYMz0VdNnV",
+        "title": "",
+        "description": "在房子里，靠近烟囱处",
+        "imageId": 1264186,
+        "imagePath": "/game_map_pin/1264186/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -75.58593750000001,
+        -64.47279382008165
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "rgWTHRkHXU",
+        "title": "",
+        "description": "在教堂屋顶上",
+        "imageId": 1264188,
+        "imagePath": "/game_map_pin/1264188/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -76.46484375000001,
+        -64.41592147626876
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "vE6evJ7ELr",
+        "title": "",
+        "description": "建筑内部",
+        "imageId": 1264190,
+        "imagePath": "/game_map_pin/1264190/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -76.99218750000009,
+        -64.41592147626876
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "dynUQqD2gs",
+        "title": "",
+        "description": "在废墟建筑内的桌子旁",
+        "imageId": 1264192,
+        "imagePath": "/game_map_pin/1264192/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -55.87646484375001,
+        -66.38155976071741
+      ],
+      "properties": {
+        "subcategoryExternalId": "nUhX1PSWeD",
+        "imageId": null,
+        "externalId": "4uyTmVAtq2",
+        "title": "传奇美洲虎可汗",
+        "description": "在这个区域周围刷新，完成*大师猎人等级8挑战*后可获得。\n#\n当靠近传奇动物时屏幕上会出现提示信息，并在雷达上标记\n#\n奖励：\n- 可汗的肉\n- 可汗的牙\n- 可汗的心脏\n- 可汗的毛皮",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -26.520996093750004,
+        -71.50400873687697
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "IWhChI9I13",
+        "title": "",
+        "description": "厕所后面",
+        "imageId": 1264195,
+        "imagePath": "/game_map_pin/1264195/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        -9.536132812500002,
+        -68.83180177092163
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "XfCxoK7jnF",
+        "title": "",
+        "description": "小营地附近的岩石后面",
+        "imageId": 1264198,
+        "imagePath": "/game_map_pin/1264198/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        3.4936523437500004,
+        -70.36309108461556
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "rxMnN7DBr8",
+        "title": "",
+        "description": "在帐篷内部",
+        "imageId": 1264202,
+        "imagePath": "/game_map_pin/1264202/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        14.78759765625,
+        -71.08118190900726
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "yPLCf20Kr2",
+        "title": "",
+        "description": "在废墟房屋内",
+        "imageId": 1264204,
+        "imagePath": "/game_map_pin/1264204/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        17.226562500000004,
+        -68.98992503056704
+      ],
+      "properties": {
+        "subcategoryExternalId": "SxqidBgQwj",
+        "externalId": "quFvcakRc4",
+        "title": "",
+        "description": "",
+        "imageId": 1264209,
+        "imagePath": "/game_map_pin/1264209/{size}.webp"
+      }
+    },
+    {
+      "coordinates": [
+        96.52587890625001,
+        50.52739681329308
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiltIQa5mO",
+        "imageId": null,
+        "externalId": "F9ddTb6oMV",
+        "title": "记住我的家人",
+        "description": "前置任务: 最后一个需要消灭的敌人\n#\n奖励:\n- 50声望\n- 100荣誉",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -50.73328414325285,
+        -57.525138306133265
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "VBUpui1PH7",
+        "title": "枪手的悲剧",
+        "description": "前置任务: 我们将在天堂相聚\n#\n金牌目标:\n- 最快时间: 3:34\n- 射击准确率: 78%\n- 爆头数: 5\n#\n奖励:\n- 肖菲尔德左轮手枪\n- 死神之眼等级3\n- 100荣誉\n- 75声望\n- 125声望(金牌奖励)\n#\n下一个任务:\n- 兰登·里克茨重出江湖",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        62.53417968750001,
+        47.219568112315415
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "DDggVleOhS",
+        "title": "亡命之徒的归来",
+        "description": "前置任务: 真相将使你获得自由\n#\n金牌目标:\n- 最快时间: 9:59\n- 掉队牛只返回率: 85%\n- 需要放牧的牛数量: 15\n#\n奖励:\n- 最高350荣誉或$100(达到英雄荣誉等级时)\n- 50声望(金牌奖励)\n#\n下一个任务:\n- 瘟疫\n- 约翰·马斯顿父子\n- 辛勤劳作",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        99.71191406250009,
+        52.146973340644706
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiltIQa5mO",
+        "imageId": null,
+        "externalId": "xA9Nn2KZWf",
+        "title": "美国说客",
+        "description": "前置任务: 约定的时刻\n#\n奖励:\n- 最高$25\n- 勒索照片",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -122.82714843750003,
+        -61.543641475549954
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "TtFWNkNj6J",
+        "title": "约定的时刻",
+        "description": "前置任务: 埃尔普雷西迪奥的大门\n#\n下一个任务:\n- 灯光、摄像、开拍 第2部分\n- 彼此担当重担\n- 我认识你 第3部分\n- 美国说客\n- 受冤的女人",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        99.22851562500001,
+        49.196064000723794
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiltIQa5mO",
+        "imageId": null,
+        "externalId": "iF007UcKYh",
+        "title": "禁酒主义者",
+        "description": "前置任务: 受冤的女人\n#\n奖励:\n- 最高$25\n- 警告艾布纳:\n  - +50声望\n  - +50荣誉\n- 杀死艾布纳:\n  - +50声望\n  - -120荣誉\n- 精明商人装束碎片5",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        64.1081456503412,
+        46.632891285738424
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "ucdan9tELY",
+        "title": "最后一个需要消灭的敌人",
+        "description": "前置任务:\n- 爱之惩戒，宠之教育\n- 老朋友，新麻烦\n- 不断的宴席\n#\n奖励:\n- 可操作角色: 杰克·马斯顿\n- 卢西塔诺马\n- 在黑水裁缝处解锁美军制服装束碎片6\n- 50声望(金牌奖励)\n#\n下一个任务:\n- 记住我的家人",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        64.42382812500001,
+        47.768868404242085
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "fdEYou6R7t",
+        "title": "爱之惩戒，宠之教育",
+        "description": "前置任务: 狼、狗和儿子\n#\n金牌目标:\n- 最快时间: 5:19\n- 射击准确率: 90%\n#\n奖励:\n- 150荣誉\n- 50声望(金牌奖励)\n#\n下一个任务:\n- 最后一个需要消灭的敌人",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        62.33642578125,
+        47.989921667414194
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "fvxQEPQG4W",
+        "title": "老朋友，新问题",
+        "description": "上一个：瘟疫\n#\n金牌目标：\n- 最快时间：5:59\n#\n奖励：\n- 150 荣誉值\n- 50 名望值（金牌奖励）\n#\n下一个任务：\n- 必须被消灭的最后敌人",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        67.19238281250001,
+        45.490945692627264
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "7dgiL5awMV",
+        "title": "不断的宴席",
+        "description": "前置任务: 辛勤劳作\n#\n金牌目标:\n- 最快时间: 5:19\n#\n奖励:\n- $100\n- 150荣誉\n- 50声望(金牌奖励)\n#\n下一个任务:\n- 最后一个需要消灭的敌人",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        54.07470703125001,
+        21.02298254642743
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiltIQa5mO",
+        "imageId": null,
+        "externalId": "rkeCWMmiTG",
+        "title": "灯光，摄影，开拍 第二部分",
+        "description": "前置条件：\n- 指定时间\n- 灯光，摄像，开拍 第1部分\n#\n奖励：\n- $225\n- 50 声望\n- 美军制服套装碎片 4",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        91.93359375,
+        52.86912972768522
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiltIQa5mO",
+        "imageId": null,
+        "externalId": "nRwPTrYxcD",
+        "title": "受冤的女人",
+        "description": "前置任务: 约定的时刻\n#\n奖励:\n- 最高100声望\n#\n下一个任务:\n- 禁酒主义者",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        67.6752070563153,
+        44.97530622525659
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiltIQa5mO",
+        "imageId": null,
+        "externalId": "oA9FjaOkex",
+        "title": "我认识你 第3部分",
+        "description": "前置任务: \n- 约定的时刻\n- 我认识你 第2部分\n#\n奖励:\n- 无",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        46.73583984375001,
+        -55.81362907119961
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiltIQa5mO",
+        "imageId": null,
+        "externalId": "3JlEfhXWRe",
+        "title": "我了解你 第2部分",
+        "description": "前置任务：\n- 我了解你 第1部分\n- 我们将在天堂重聚\n#\n奖励：\n- 无\n#\n下一个任务：\n- 我了解你 第3部分",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        11.320128414200056,
+        -15.675017594847217
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiltIQa5mO",
+        "imageId": null,
+        "externalId": "qsJIDptFxt",
+        "title": "我认识你 第1部分",
+        "description": "上一个：暴风雨来临\n#\n奖励：\n- 劝阻这个人\n  - +50 荣誉值\n- 鼓励这个人\n  - -50 荣誉值\n#\n下一个任务：\n- 我认识你 第2部分",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        30.212402343750004,
+        7.558546606093156
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "a7wQ5P3yoh",
+        "title": "风暴逼近",
+        "description": "上一个：Wild Horses, Tamed Passions\n#\n金牌目标：\n- 最快时间：5:05\n- 返回的掉队者：85%\n- 赶牛数量：21\n#\n奖励：\n- 300 荣誉\n- 50 名声（金牌奖励）\n#\n下一个任务：\n- The Burning\n- I Know You Part I",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        52.646484375,
+        7.754537346539379
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiltIQa5mO",
+        "imageId": null,
+        "externalId": "VSWzqZ3PzE",
+        "title": "为女士送花",
+        "description": "上一个：新朋友，老问题\n#\n奖励：\n- 50 名望\n- 100 荣誉",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        30.695800781250004,
+        10.639013775260537
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "5tXvwGIphr",
+        "title": "新朋友，旧问题",
+        "description": "前任务：美国大迁徙\n#\n金牌目标：\n- 最快完成时间：7:00\n- 射击准确度：100%\n#\n奖励：\n- 连发卡宾枪\n- 军马/克利夫兰湾马\n- 死眼等级1\n- 150名声\n- 50荣誉\n- 250名声（金牌奖励）\n#\n下一任务：\n- 前方障碍\n- 女士的鲜花",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        33.09082031250001,
+        9.968850608546106
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "7fPCbcfHIA",
+        "title": "野马驯服，激情驯化",
+        "description": "上一个：Women and Cattle\n#\n金牌目标：\n- 最快时间：10:00\n#\n奖励：\n- 套索\n- 肯塔基马鞍\n- 150 荣誉值\n- 50 名望值（金牌奖励）\n#\n下一个任务：\n- A Tempest Looms\n- American Appetites Part 3\n- Exhuming and Other Fine Hobbies",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -24.147949218750004,
+        -0.043945308191339905
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiltIQa5mO",
+        "imageId": null,
+        "externalId": "1VAQWaO2pY",
+        "title": "美国胃口 第一部分",
+        "description": "前任务：阿马迪罗的政治现实\n#\n奖励：\n- 无\n#\n下一任务：\n- 美国胃口 第二部分",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -23.708496093750018,
+        0.9008417889908884
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "Q4QuAbggoq",
+        "title": "阿马迪罗的政治现实",
+        "description": "前任务：前方障碍\n#\n金牌目标：\n- 最快完成时间：2:35\n- 射击准确度：100%\n- 爆头数：5\n#\n奖励：\n- $20\n- 200荣誉\n- 75名声\n- 125名声（金牌奖励）\n#\n下一任务：\n- 派克盆地的正义\n- 美国胃口 第一部分\n- 水与诚实",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -23.75244140625002,
+        -0.043945308191339905
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiltIQa5mO",
+        "imageId": null,
+        "externalId": "0h6KFPsYqE",
+        "title": "美国胃口 第二部分",
+        "description": "前任务：\n- 派克盆地的正义\n- 美国胃口 第一部分\n#\n奖励：\n- 无\n#\n下一任务：\n- 美国胃口 第三部分",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -23.97216796875,
+        1.1864386394451856
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "SZmRNcttjJ",
+        "title": "派克盆地的正义",
+        "description": "前任务：阿马迪罗的政治现实\n#\n奖励：\n- $25\n- 派克盆地帮派藏身处解锁\n- 150名声\n- 100荣誉\n- 200名声（金牌奖励）\n#\n下一任务：\n- 惩恶扬善\n- 老骗子布鲁斯\n- 美国胃口 第二部分",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -23.400878906249996,
+        0.06591795420830238
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiltIQa5mO",
+        "imageId": null,
+        "externalId": "LGnx16kX8O",
+        "title": "美国胃口 第3部分",
+        "description": "前置条件：\n- 野马，驯服的激情\n- 美国人的胃口 第二部分 然后等待几天触发\n#\n奖励：\n- 致命刺客服装碎片 5\n- 50 声望\n- 杀死食人者：\n  - +100 荣誉值\n- 让食人者吃掉那个人：\n  - -100 荣誉值",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -23.115234375,
+        -1.318243056862002
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiltIQa5mO",
+        "imageId": null,
+        "externalId": "k6zgjrFCN1",
+        "title": "灯光、摄像、动作 第一部分",
+        "description": "前任务：国王与骗子的运动\n#\n奖励：\n- 无\n#\n下一任务：\n- 灯光、摄像、动作 第二部分",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -122.29885574738746,
+        -4.8532173854900975
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "ZSMHCw2fVu",
+        "title": "国王与骗子的运动",
+        "description": "前任务：骗子能改变他的本性吗？\n#\n金牌目标：\n- 最快完成时间：4:55\n#\n奖励：\n- $5\n- 200名声\n- 250名声（金牌奖励）\n#\n下一任务：\n- 默瑟堡的进攻\n- 灯光、摄像、动作 第一部分",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        2.2631835937500004,
+        -7.209900314368767
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiltIQa5mO",
+        "imageId": null,
+        "externalId": "ZYezbKf4DP",
+        "title": "水与诚实",
+        "description": "前任务：阿马迪罗的政治现实\n#\n奖励：\n- 最多$220\n- 50名声\n- 支付契约：\n  - +100荣誉\n- 强行夺取契约：\n  - -100荣誉",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -13.16162109375,
+        -7.427836528738325
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiltIQa5mO",
+        "imageId": null,
+        "externalId": "zzjY53CYeI",
+        "title": "不可分离",
+        "description": "上一个：我们路上的障碍\n#\n奖励：\n- 付钱给音乐家：\n  - +100 荣誉值\n- 追赶音乐家的妻子：\n  - -100 荣誉值",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        32.84912109375001,
+        9.16717873297668
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "BwKGuq3QKS",
+        "title": "我们路上的障碍",
+        "description": "前一个任务：New Friends, Old Problems\n#\n金牌目标：\n- 最快时间：3:05\n#\n奖励：\n- 20 声望\n- 70 （金牌奖励）\n#\n下一个任务：\n- This is Armadillo, USA\n- Political Realities in Armadillo\n- Let No Man Put Asunder",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -65.67456022110666,
+        -3.2196281585235225
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiltIQa5mO",
+        "imageId": null,
+        "externalId": "gXcWrkT5OQ",
+        "title": "珍妮的信仰",
+        "description": "前任务：这里是美国阿马迪罗\n#\n奖励：\n- 50名声\n- 100荣誉",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        32.82714843750001,
+        9.622414142924796
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "03vemDogd6",
+        "title": "这里是犰狳镇，美国",
+        "description": "上一个任务：我们路上的障碍\n#\n金牌目标：\n- 最快时间：3:00\n#\n奖励：\n- 50 荣誉值\n- 50 声望值（金牌奖励）\n#\n下一个任务：\n- 女人和牲畜\n- 珍妮的信仰",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -117.879289099734,
+        -33.61558179686419
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiltIQa5mO",
+        "imageId": null,
+        "externalId": "W47ywympWe",
+        "title": "加利福尼亚",
+        "description": "前一个：妇女与牛群\n#\n奖励\n- 最多 $25\n- 50 名声\n- 寻宝猎人服装碎片 2\n#\n*注意：此陌生人任务跨越游戏内最多3周时间，你将每7天遇到一次陌生人，直到完成为止*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        33.20068359375001,
+        9.384032109601677
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "FDOlV2IgsP",
+        "title": "女人与牲畜",
+        "description": "上一个：This is Armadillo, USA\n#\n奖励：\n- $5\n- 100 荣誉值\n- 50 声望（金牌奖励）\n#\n下一个任务：\n- Wild Horses, Tamed Passions\n- Spare the Rod, Spoil the Bandit\n- You Shall Not Give False Testimony, Except for Profit\n- California",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -27.663574218750004,
+        2.1308562777325335
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "dIW4JBrRKe",
+        "title": "一个法国人、一个威尔士人和一个爱尔兰人",
+        "description": "前任务：骗子、作弊者和其他骄傲的美国人\n#\n金牌目标：\n- 最快完成时间：2:20\n- 射击准确度：100%\n- 爆头数：9\n#\n奖励：\n- 50名声\n- 100荣誉\n- 100名声（金牌奖励）\n#\n下一任务：\n- 人生来就要受苦",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -75.2764613642319,
+        -4.875570929443683
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "iEChBAipxS",
+        "title": "骗子、作弊者和其他骄傲的美国人",
+        "description": "前一个任务：挖掘和其他有趣的爱好\n#\n金牌目标：\n- 最快时间：4:39\n#\n奖励：\n- $3\n- 200声望\n- 250声望（金牌奖励）\n#\n下个任务：\n- 骗子能改变他的本质吗？\n- 一个法国人、一个威尔士人和一个爱尔兰人\n- 你有什么资格评判？",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -93.16406250000001,
+        19.828725387681175
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiltIQa5mO",
+        "imageId": null,
+        "externalId": "SzIgiFgfLP",
+        "title": "你有什么资格评判",
+        "description": "前一个任务：骗子、骗徒和其他自豪的美国人\n#\n奖励：\n- 100荣誉",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -11.607780419863916,
+        -10.652490463382707
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "xU9w7cHAJf",
+        "title": "挖掘和其他有趣的爱好",
+        "description": "前一个任务：\n- 野马，驯服的激情\n- 你不该作伪证，除非为了利益\n#\n奖励：\n- 赦免信\n- 25声望\n- 75声望（金牌奖励）\n#\n下个任务：\n- 与朋友轻松驾驶\n- 骗子、骗徒和其他自豪的美国人\n- 滑稽人第一部",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -94.30664062500001,
+        -35.38904996691165
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiltIQa5mO",
+        "imageId": null,
+        "externalId": "uZjEoRN9xn",
+        "title": "滑稽人第一部",
+        "description": "前一个任务：挖掘和其他有趣的爱好\n#\n奖励：\n- 无\n#\n下个任务：\n- 滑稽人第二部",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -128.95751953125003,
+        -22.695120184965717
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiltIQa5mO",
+        "imageId": null,
+        "externalId": "57UL5GHKAa",
+        "title": "滑稽人 第2部分",
+        "description": "前置任务：\n- Man is Born Unto Trouble\n- Funny Man Part 1\n#\n奖励：\n- 无\n#\n下一个任务：\n- Funny Man Part 3",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -93.56045536340739,
+        -35.60946951226153
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "2iUWUuKz05",
+        "title": "人生来就要受苦",
+        "description": "前一个任务：一个法国人、一个威尔士人和一个爱尔兰人\n#\n金牌目标：\n- 最快时间：6:40\n- 射击准确率：50%\n- 爆头数：16\n#\n奖励：\n- 250声望\n- 300声望（金牌奖励）\n#\n下个任务：\n- 动摇的立场\n- 滑稽人第二部\n- 滑稽人第三部",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        12.919921875000002,
+        3.9519408561575915
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiltIQa5mO",
+        "imageId": null,
+        "externalId": "nZDEDigBWp",
+        "title": "滑稽人第三部",
+        "description": "前一个任务：\n- 人生来就要受苦\n- 滑稽人第二部\n#\n奖励：\n- 无\n#\n下个任务：\n- 滑稽人第四部",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -75.34423828125001,
+        -64.48226107017601
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiltIQa5mO",
+        "imageId": null,
+        "externalId": "Jw5kjMdO6z",
+        "title": "滑稽人第四部",
+        "description": "前一个任务：\n- 空虚的承诺\n- 滑稽人第三部\n#\n奖励：\n- 50声望",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -124.62890625000001,
+        -60.511343283202486
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "1LeIDrvoGB",
+        "title": "空虚的承诺",
+        "description": "前一个任务：恶魔的饮料\n#\n奖励：\n- 滚动式步枪\n- $100\n- 300声望\n- 350声望（金牌奖励）\n#\n下个任务：\n- 墨西哥凯撒\n- 爱情是麻醉剂\n- 滑稽人第四部",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -49.04296875,
+        -58.15911242952296
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiltIQa5mO",
+        "imageId": null,
+        "externalId": "GzzUbtta1E",
+        "title": "胡说八道",
+        "description": "前一个任务：文明，不惜任何代价\n#\n奖励：\n- 50声望\n- 雷耶斯反叛军装备碎片2\n#\n下个任务：\n- 爱情是麻醉剂",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -124.63241659798823,
+        -60.33668648818999
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "ICtTByNrfz",
+        "title": "文明，不惜一切代价",
+        "description": "前一关：我们将在天堂相聚\n#\n金牌目标：\n- 最快时间：6:59\n- 射击精度：90%\n- 爆头数：4\n#\n奖励：\n- $50\n- 250 声望\n- 300 声望（金牌奖励）\n#\n下一关任务：\n- 恶魔之酒\n- 我姐姐的守护者\n- 胡说八道",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        49.81201171875001,
+        -48.922499263758226
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiltIQa5mO",
+        "imageId": null,
+        "externalId": "7J8pcSjP71",
+        "title": "爱情是麻醉剂",
+        "description": "前一个任务：\n- 空虚的承诺\n- 胡说八道\n#\n奖励：\n- 50声望\n- 100荣誉\n- 雷耶斯反叛军装备碎片4\n#\n*注意：如果陌生人不出现，请尝试重启游戏*",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -26.960449218750004,
+        -71.07405646336095
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "LfERRRQYBg",
+        "title": "救世主必须死吗？",
+        "description": "前一个任务：我的妹妹的守护者\n#\n金牌目标：\n- 最快时间：5:05\n- 射击准确率：86%\n- 爆头数：7\n#\n奖励：\n- 50荣誉\n- 200声望\n- 250声望（金牌奖励）\n#\n下个任务：\n- 懦夫死多次\n- 亚伯拉罕之父\n- 阿兹特克黄金",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -93.7174958026641,
+        -67.7244559270567
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiltIQa5mO",
+        "imageId": null,
+        "externalId": "V6RC0eas1Q",
+        "title": "阿兹特克黄金",
+        "description": "前一个任务：救世主必须死吗？\n#\n奖励：\n- 最多$75\n- 50声望",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        32.21191406250001,
+        -42.09822241118975
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiltIQa5mO",
+        "imageId": null,
+        "externalId": "ijDRUa3YdJ",
+        "title": "伊娃身处险境",
+        "description": "上一个：幸运之恋\n#\n奖励：\n- 55 名望\n- 100 荣誉",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -50.339355468750014,
+        -58.52812515905842
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "EocSQLgoYs",
+        "title": "情场得意",
+        "description": "上一个：兰登·里基茨再次出击\n#\n金牌目标：\n- 最快时间：2:55\n- 射击精准度：92%\n- 爆头数：3\n#\n奖励：\n- $50\n- 125 荣誉值\n- 100 名声值\n- 150 名声值（金牌奖励）\n#\n下一个任务：\n- 墨西哥马车队\n- 伊娃有危险",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        -26.674804687500007,
+        -71.07405646336098
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "YpgO5J9cJU",
+        "title": "我姐姐的守护者",
+        "description": "前置任务：\n- 兰登·里基茨再次出击\n- 文明，不惜一切代价\n#\n金牌目标：\n- 最快时间：3:34\n- 射击精度：95%\n- 爆头数：3\n#\n奖励：\n- 100 荣誉值\n- 75 声望值\n- 125 声望值（金牌奖励）\n#\n下一个任务：\n- 救世主必须死吗？",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        2.79052734375,
+        -50.00773901463682
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "6E3df0HGVU",
+        "title": "伟大的墨西哥火车劫案",
+        "description": "前一个任务：Cowards Die Many Times\n#\n金牌目标：\n- 最快时间：9:29\n- 射击精度：35%\n- 爆头数：12\n#\n奖励：\n- $200\n- 双动左轮手枪或左轮手枪子弹（如已获得）\n- 125 荣誉值\n- 150 名望值\n- 200 名望值（金牌奖励）\n#\n下一个任务：\n- The Gates of El Presidio",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        46.25244140624999,
+        -18.250219977065584
+      ],
+      "properties": {
+        "subcategoryExternalId": "OKn6M3G8cm",
+        "imageId": null,
+        "externalId": "w4lVUw1CBT",
+        "title": "我们将在天堂相聚",
+        "description": "前一个任务：突袭默瑟堡\n#\n奖励：\n- 解锁新天堂\n- 150 声望\n- 200 声望（金牌奖励）\n#\n下一个任务：\n- 枪手的悲剧\n- 文明，不惜一切代价\n- 代达罗斯父子\n- 我认识你 第2部分",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        16.984863281250004,
+        -48.35624902954071
+      ],
+      "properties": {
+        "subcategoryExternalId": "hiltIQa5mO",
+        "imageId": null,
+        "externalId": "7BW9Kk13bt",
+        "title": "代达罗斯与他的儿子",
+        "description": "上一关：我们将在天堂相聚\n#\n奖励：\n- 最高25美元\n- 50声望值\n- 专业猎人套装碎片5",
+        "imagePath": ""
+      }
+    },
+    {
+      "coordinates": [
+        31.508789062500004,
+        11.781325296112271
+      ],
+      "properties": {
+        "subcategoryExternalId": "YhDH3K6osB",
+        "imageId": null,
+        "externalId": "gIVhiNpISz",
+        "title": "",
+        "description": "完成任务女人与牛后解锁\n#\n下注并参与游戏以获胜\n#\n*注意：赢得一场游戏将解锁博拉德双胞胎套装碎片3*",
+        "imagePath": ""
+      }
+    }
+  ]
+}

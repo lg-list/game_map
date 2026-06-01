@@ -1,0 +1,16 @@
+{
+  "slug": "bully-scholarship-edition",
+  "title": "Bully: Scholarship Edition",
+  "heroUrl": "/assets/images/games/bully-scholarship-edition/hero.webp",
+  "maps": [
+    {
+      "name": "Bullworth",
+      "slug": "bullworth",
+      "thumbnailUrl": "/assets/images/games/bully-scholarship-edition/bullworth.webp",
+      "updatedAt": "2026-02-10T07:12:51Z",
+      "markerCount": 613,
+      "categoryCount": 5,
+      "subcategoryCount": 34
+    }
+  ]
+}

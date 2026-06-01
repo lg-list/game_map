@@ -1,0 +1,16 @@
+{
+  "slug": "slime-rancher-2",
+  "title": "Slime Rancher 2",
+  "heroUrl": "/assets/images/games/slime-rancher-2/hero.webp",
+  "maps": [
+    {
+      "name": "Rainbow Island",
+      "slug": "rainbow-island",
+      "thumbnailUrl": "/assets/images/games/slime-rancher-2/rainbow-island.webp",
+      "updatedAt": "2026-02-18T05:05:43Z",
+      "markerCount": 188,
+      "categoryCount": 2,
+      "subcategoryCount": 8
+    }
+  ]
+}

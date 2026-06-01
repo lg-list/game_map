@@ -1,0 +1,16 @@
+{
+  "slug": "resident-evil-village",
+  "title": "Resident Evil Village",
+  "heroUrl": "/assets/images/games/resident-evil-village/hero.webp",
+  "maps": [
+    {
+      "name": "Village",
+      "slug": "village",
+      "thumbnailUrl": "/assets/images/games/resident-evil-village/village.webp",
+      "updatedAt": "2026-02-19T02:27:24Z",
+      "markerCount": 774,
+      "categoryCount": 5,
+      "subcategoryCount": 34
+    }
+  ]
+}

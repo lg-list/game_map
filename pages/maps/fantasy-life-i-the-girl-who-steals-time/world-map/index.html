@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FANTASY LIFE i: The Girl Who Steals Time World locations map - Location, Collectibles, Quest</title>
+    <meta name="description" content="Find FANTASY LIFE i: The Girl Who Steals Time World location, collectibles, quest on a focused map page for long-tail searches. Includes 219 local markers." />
+    <meta name="keywords" content="FANTASY LIFE i: The Girl Who Steals Time World locations, FANTASY LIFE i: The Girl Who Steals Time World resource map, FANTASY LIFE i: The Girl Who Steals Time World collectibles, FANTASY LIFE i: The Girl Who Steals Time World marker list" />
+    <link rel="icon" href="/favicon.ico" sizes="32x32" type="image/x-icon" />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body class="map-body">
+    <header class="map-topbar">
+      <a class="brand" href="/" aria-label="Game Map Hub home"><img class="brand-logo" src="/logo.png" alt="Game Map Hub" /></a>
+      <div class="map-title-block"><a href="/maps/fantasy-life-i-the-girl-who-steals-time/">FANTASY LIFE i: The Girl Who Steals Time</a><strong>World</strong></div>
+    </header>
+
+    <main class="interactive-layout" data-page="map-detail" data-map-data="/data/fantasy-life-i-the-girl-who-steals-time-world-map.json" data-tile-key="fantasy-life-i-the-girl-who-steals-time/world-map" data-tile-zoom="4">
+      <aside class="map-control-panel">
+        <label class="map-search"><span>Search markers</span><input id="marker-search" type="search" placeholder="Search locations, items, resources..." /></label>
+        <div class="marker-results" id="marker-results" aria-live="polite"></div>
+        <div class="filter-actions" aria-label="Category filter actions"><button id="show-all-markers" type="button">Show all</button><button id="hide-all-markers" type="button">Hide all</button></div>
+        <div class="category-list" id="category-list"></div>
+      </aside>
+
+      <section class="map-stage" aria-label="FANTASY LIFE i: The Girl Who Steals Time World location map">
+        <div class="map-toolbar">
+          <button class="icon-button" id="zoom-out" type="button" aria-label="Zoom out">-</button>
+          <button class="icon-button" id="zoom-in" type="button" aria-label="Zoom in">+</button>
+          <button class="ghost-button" id="reset-map" type="button">Reset</button>
+          <span id="marker-count">Loading map...</span>
+        </div>
+        <div class="tile-viewport" id="tile-viewport"><canvas class="tile-canvas" id="tile-canvas" aria-hidden="true"></canvas><div class="tile-surface" id="tile-surface"></div></div>
+        <article class="marker-detail" id="marker-detail"><span>Selected marker</span><strong>World</strong><p>Use search or category filters to find location, collectibles, quest on this FANTASY LIFE i: The Girl Who Steals Time map.</p></article>
+      </section>
+    </main>
+
+    <script src="/script.js"></script>
+  </body>
+</html>
