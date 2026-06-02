@@ -9,6 +9,7 @@ await rm(out, { recursive: true, force: true });
 await mkdir(out, { recursive: true });
 
 const copies = [
+  ["CNAME", "CNAME"],
   ["index.html", "index.html"],
   ["styles.css", "styles.css"],
   ["script.js", "script.js"],

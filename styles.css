@@ -1890,6 +1890,7 @@ h2 {
   .site-header {
     align-items: flex-start;
     flex-wrap: wrap;
+    gap: 14px;
   }
 
   .main-nav {
@@ -1897,6 +1898,7 @@ h2 {
     width: 100%;
     overflow-x: auto;
     padding-bottom: 4px;
+    white-space: nowrap;
   }
 
   .hero,
@@ -1906,6 +1908,10 @@ h2 {
 
   .hero {
     min-height: auto;
+  }
+
+  .hero-media {
+    min-height: 300px;
   }
 
   .stats,
@@ -1922,16 +1928,22 @@ h2 {
 @media (max-width: 640px) {
   .home-page,
   .title-page {
-    width: min(100% - 28px, 1400px);
+    width: min(100% - 24px, 1400px);
   }
 
   .site-header,
   .map-topbar {
-    padding: 14px;
+    gap: 12px;
+    padding: 12px;
   }
 
   .brand-logo {
-    width: 138px;
+    width: 126px;
+  }
+
+  .main-nav {
+    gap: 14px;
+    font-size: 13px;
   }
 
   .header-actions,
@@ -1944,9 +1956,49 @@ h2 {
     display: none;
   }
 
+  .download-button,
+  .account-link {
+    min-height: 38px;
+    font-size: 13px;
+  }
+
   .hero {
     grid-template-columns: 1fr;
-    padding-top: 44px;
+    gap: 22px;
+    padding: 28px 0 32px;
+  }
+
+  h1 {
+    margin-bottom: 14px;
+    font-size: 36px;
+    line-height: 1.04;
+  }
+
+  h2 {
+    font-size: 27px;
+  }
+
+  .hero-text,
+  .title-hero-copy p {
+    font-size: 15px;
+    line-height: 1.62;
+  }
+
+  .hero-media {
+    min-height: 210px;
+    border-radius: 12px;
+  }
+
+  .filters {
+    flex-wrap: nowrap;
+    margin: 0 -12px;
+    overflow-x: auto;
+    padding: 0 12px 24px;
+    scrollbar-width: none;
+  }
+
+  .filters::-webkit-scrollbar {
+    display: none;
   }
 
   .search-row {
@@ -1957,32 +2009,122 @@ h2 {
     height: 46px;
   }
 
-  .stats,
+  .stats {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    margin-bottom: 46px;
+  }
+
+  .stats article {
+    padding: 16px;
+  }
+
+  .stats strong {
+    font-size: 26px;
+  }
+
   .game-grid,
   .map-list-grid {
     grid-template-columns: 1fr;
   }
 
+  .game-art,
+  .map-card-art {
+    min-height: 128px;
+  }
+
+  .game-body h3,
+  .map-card-body h3 {
+    min-height: 0;
+    font-size: 17px;
+  }
+
+  .news-list a {
+    grid-template-columns: 78px minmax(0, 1fr);
+    gap: 12px;
+  }
+
+  .news-list img,
+  .news-thumb {
+    width: 78px;
+    height: 50px;
+  }
+
+  .title-hero {
+    min-height: 360px;
+    margin: 24px 0 34px;
+    border-radius: 12px;
+  }
+
+  .title-hero-copy {
+    padding: 24px;
+  }
+
+  .title-hero-copy h1 {
+    font-size: 38px;
+  }
+
   .map-topbar {
     height: 64px;
+    align-items: center;
+    flex-wrap: nowrap;
+  }
+
+  .map-title-block {
+    min-width: 0;
+  }
+
+  .map-title-block a,
+  .map-title-block strong {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .map-title-block strong {
+    font-size: 15px;
   }
 
   .interactive-layout {
     position: relative;
     display: block;
-    height: calc(100vh - 64px);
+    height: calc(100dvh - 64px);
+    min-height: 560px;
   }
 
   .map-control-panel {
     position: absolute;
-    inset: 0 auto 0 0;
+    left: 10px;
+    right: 10px;
+    bottom: 10px;
+    z-index: 14;
+    width: auto;
+    max-height: min(42dvh, 340px);
+    padding: 12px;
+    border: 1px solid var(--line);
+    border-radius: 16px;
+    background: rgba(10, 11, 14, 0.92);
+    box-shadow: 0 16px 48px rgba(0, 0, 0, 0.42);
+    backdrop-filter: blur(18px);
+  }
+
+  .map-control-panel::before {
+    display: block;
+    width: 42px;
+    height: 4px;
+    margin: 0 auto 8px;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.28);
+    content: "";
+  }
+
+  .map-search {
+    position: sticky;
+    top: 0;
     z-index: 12;
-    width: min(210px, 58vw);
-    padding: 8px;
-    border-right: 1px solid var(--line);
-    border-bottom: 0;
-    background: rgba(10, 11, 14, 0.88);
-    backdrop-filter: blur(16px);
+    margin: -2px 0 0;
+    padding-bottom: 8px;
+    background: rgba(10, 11, 14, 0.94);
   }
 
   .map-stage {
@@ -1990,8 +2132,39 @@ h2 {
     height: 100%;
   }
 
+  .map-toolbar {
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    flex-wrap: wrap;
+    width: max-content;
+    max-width: calc(100% - 20px);
+    border-radius: 18px;
+  }
+
+  #marker-count {
+    max-width: 148px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .marker-detail {
+    right: 10px;
+    bottom: calc(min(42dvh, 340px) + 20px);
+    width: min(340px, calc(100% - 20px));
+    max-height: 28dvh;
+    overflow: auto;
+    padding: 14px;
+    border-radius: 14px;
+  }
+
+  .marker-detail strong {
+    font-size: 17px;
+  }
+
   .category-group {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
   }
 
   .category-head,
@@ -2002,5 +2175,54 @@ h2 {
   .subcategory-row {
     grid-template-columns: 14px 20px minmax(0, 1fr) auto;
     font-size: 11px;
+  }
+
+  .marker-results {
+    max-height: 126px;
+    overflow: auto;
+  }
+
+  .map-marker {
+    width: 34px;
+    height: 34px;
+  }
+}
+
+@media (max-width: 420px) {
+  .home-page,
+  .title-page {
+    width: min(100% - 18px, 1400px);
+  }
+
+  .site-header {
+    padding-inline: 10px;
+  }
+
+  .header-actions {
+    gap: 10px;
+  }
+
+  .download-button {
+    padding-inline: 12px;
+  }
+
+  .title-hero-copy h1,
+  h1 {
+    font-size: 32px;
+  }
+
+  .stats {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .map-control-panel {
+    left: 8px;
+    right: 8px;
+    bottom: 8px;
+    max-height: min(45dvh, 360px);
+  }
+
+  .marker-detail {
+    bottom: calc(min(45dvh, 360px) + 18px);
   }
 }

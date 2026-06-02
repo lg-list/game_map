@@ -1,12 +1,12 @@
 {
   "slug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "title": "Grand Theft Auto: San Andreas – The Definitive Edition",
-  "heroUrl": "/game_map/assets/images/games/grand-theft-auto-san-andreas-the-definitive-edition/hero.webp",
+  "heroUrl": "/assets/images/games/grand-theft-auto-san-andreas-the-definitive-edition/hero.webp",
   "maps": [
     {
       "name": "San Andreas",
       "slug": "san-andreas",
-      "thumbnailUrl": "/game_map/assets/images/games/grand-theft-auto-san-andreas-the-definitive-edition/san-andreas.webp",
+      "thumbnailUrl": "/assets/images/games/grand-theft-auto-san-andreas-the-definitive-edition/san-andreas.webp",
       "updatedAt": "2026-03-03T05:29:19Z",
       "markerCount": 1412,
       "categoryCount": 7,

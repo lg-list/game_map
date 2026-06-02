@@ -1,11 +1,11 @@
 {
   "title": "ARC Raiders",
-  "heroUrl": "/game_map/assets/images/games/arc-raiders/hero.webp",
+  "heroUrl": "/assets/images/games/arc-raiders/hero.webp",
   "maps": [
     {
       "name": "Buried City",
       "slug": "buried-city",
-      "thumbnailUrl": "/game_map/assets/images/games/arc-raiders/buried-city.webp",
+      "thumbnailUrl": "/assets/images/games/arc-raiders/buried-city.webp",
       "updatedAt": "2026-05-28T07:37:14Z",
       "markerCount": 231,
       "categoryCount": 5,
@@ -14,7 +14,7 @@
     {
       "name": "Dam Batlegrounds",
       "slug": "dam-batlegrounds",
-      "thumbnailUrl": "/game_map/assets/images/games/arc-raiders/dam-batlegrounds.webp",
+      "thumbnailUrl": "/assets/images/games/arc-raiders/dam-batlegrounds.webp",
       "updatedAt": "2026-05-28T07:37:14Z",
       "markerCount": 510,
       "categoryCount": 8,
@@ -23,7 +23,7 @@
     {
       "name": "Stella Montis Upper",
       "slug": "stella-montis-upper",
-      "thumbnailUrl": "/game_map/assets/images/games/arc-raiders/stella-montis-upper.webp",
+      "thumbnailUrl": "/assets/images/games/arc-raiders/stella-montis-upper.webp",
       "updatedAt": "2026-05-28T07:37:14Z",
       "markerCount": 66,
       "categoryCount": 4,
@@ -32,7 +32,7 @@
     {
       "name": "Stella Montis Lower",
       "slug": "stella-montis-lower",
-      "thumbnailUrl": "/game_map/assets/images/games/arc-raiders/stella-montis-lower.webp",
+      "thumbnailUrl": "/assets/images/games/arc-raiders/stella-montis-lower.webp",
       "updatedAt": "2026-05-28T07:37:40Z",
       "markerCount": 68,
       "categoryCount": 5,
@@ -41,7 +41,7 @@
     {
       "name": "The Blue Gate",
       "slug": "the-blue-gate",
-      "thumbnailUrl": "/game_map/assets/images/games/arc-raiders/the-blue-gate.webp",
+      "thumbnailUrl": "/assets/images/games/arc-raiders/the-blue-gate.webp",
       "updatedAt": "2026-02-18T04:29:32Z",
       "markerCount": 698,
       "categoryCount": 8,
@@ -50,7 +50,7 @@
     {
       "name": "The Spaceport",
       "slug": "the-spaceport",
-      "thumbnailUrl": "/game_map/assets/images/games/arc-raiders/the-spaceport.webp",
+      "thumbnailUrl": "/assets/images/games/arc-raiders/the-spaceport.webp",
       "updatedAt": "2026-05-28T07:38:16Z",
       "markerCount": 532,
       "categoryCount": 8,
@@ -59,7 +59,7 @@
     {
       "name": "Riven Tides",
       "slug": "riven-tides",
-      "thumbnailUrl": "/game_map/assets/images/games/arc-raiders/riven-tides.webp",
+      "thumbnailUrl": "/assets/images/games/arc-raiders/riven-tides.webp",
       "updatedAt": "2026-05-28T07:38:40Z",
       "markerCount": 478,
       "categoryCount": 7,

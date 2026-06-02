@@ -1,12 +1,12 @@
 {
   "slug": "runescape-dragonwilds",
   "title": "RuneScape: Dragonwilds",
-  "heroUrl": "/game_map/assets/images/games/runescape-dragonwilds/hero.webp",
+  "heroUrl": "/assets/images/games/runescape-dragonwilds/hero.webp",
   "maps": [
     {
       "name": "Ashenfall",
       "slug": "ashenfall",
-      "thumbnailUrl": "/game_map/assets/images/games/runescape-dragonwilds/ashenfall.webp",
+      "thumbnailUrl": "/assets/images/games/runescape-dragonwilds/ashenfall.webp",
       "updatedAt": "2026-05-25T05:19:25Z",
       "markerCount": 2360,
       "categoryCount": 5,

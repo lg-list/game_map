@@ -1,12 +1,12 @@
 {
   "slug": "watch-dogs-legion",
   "title": "Watch Dogs: Legion",
-  "heroUrl": "/game_map/assets/images/games/watch-dogs-legion/hero.webp",
+  "heroUrl": "/assets/images/games/watch-dogs-legion/hero.webp",
   "maps": [
     {
       "name": "London",
       "slug": "london",
-      "thumbnailUrl": "/game_map/assets/images/games/watch-dogs-legion/london.webp",
+      "thumbnailUrl": "/assets/images/games/watch-dogs-legion/london.webp",
       "updatedAt": "2026-05-28T07:08:35Z",
       "markerCount": 1662,
       "categoryCount": 4,

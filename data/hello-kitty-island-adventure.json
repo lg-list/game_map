@@ -1,12 +1,12 @@
 {
   "slug": "hello-kitty-island-adventure",
   "title": "Hello Kitty Island Adventure",
-  "heroUrl": "/game_map/assets/images/games/hello-kitty-island-adventure/hero.webp",
+  "heroUrl": "/assets/images/games/hello-kitty-island-adventure/hero.webp",
   "maps": [
     {
       "name": "Friendship Island",
       "slug": "friendship-island",
-      "thumbnailUrl": "/game_map/assets/images/games/hello-kitty-island-adventure/friendship-island.webp",
+      "thumbnailUrl": "/assets/images/games/hello-kitty-island-adventure/friendship-island.webp",
       "updatedAt": "2026-02-19T02:14:32Z",
       "markerCount": 1454,
       "categoryCount": 7,

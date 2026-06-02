@@ -1,12 +1,12 @@
 {
   "slug": "octopath-traveler-ii",
   "title": "OCTOPATH TRAVELER II",
-  "heroUrl": "/game_map/assets/images/games/octopath-traveler-ii/hero.webp",
+  "heroUrl": "/assets/images/games/octopath-traveler-ii/hero.webp",
   "maps": [
     {
       "name": "Solistia",
       "slug": "solistia",
-      "thumbnailUrl": "/game_map/assets/images/games/octopath-traveler-ii/solistia.webp",
+      "thumbnailUrl": "/assets/images/games/octopath-traveler-ii/solistia.webp",
       "updatedAt": "2026-02-10T07:15:06Z",
       "markerCount": 1182,
       "categoryCount": 3,

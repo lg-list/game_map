@@ -1,12 +1,12 @@
 {
   "slug": "no-rest-for-the-wicked",
   "title": "No Rest for the Wicked",
-  "heroUrl": "/game_map/assets/images/games/no-rest-for-the-wicked/hero.webp",
+  "heroUrl": "/assets/images/games/no-rest-for-the-wicked/hero.webp",
   "maps": [
     {
       "name": "Isola Sacra",
       "slug": "isola-sacra",
-      "thumbnailUrl": "/game_map/assets/images/games/no-rest-for-the-wicked/isola-sacra.webp",
+      "thumbnailUrl": "/assets/images/games/no-rest-for-the-wicked/isola-sacra.webp",
       "updatedAt": "2026-04-28T07:39:12Z",
       "markerCount": 1248,
       "categoryCount": 6,

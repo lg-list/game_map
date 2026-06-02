@@ -1,12 +1,12 @@
 {
   "slug": "just-cause-3",
   "title": "Just Cause 3",
-  "heroUrl": "/game_map/assets/images/games/just-cause-3/hero.webp",
+  "heroUrl": "/assets/images/games/just-cause-3/hero.webp",
   "maps": [
     {
       "name": "Medici",
       "slug": "medici",
-      "thumbnailUrl": "/game_map/assets/images/games/just-cause-3/medici.webp",
+      "thumbnailUrl": "/assets/images/games/just-cause-3/medici.webp",
       "updatedAt": "2026-04-14T01:19:14Z",
       "markerCount": 469,
       "categoryCount": 6,

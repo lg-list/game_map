@@ -1,12 +1,12 @@
 {
   "slug": "grounded",
   "title": "Grounded",
-  "heroUrl": "/game_map/assets/images/games/grounded/hero.webp",
+  "heroUrl": "/assets/images/games/grounded/hero.webp",
   "maps": [
     {
       "name": "Yard",
       "slug": "yard",
-      "thumbnailUrl": "/game_map/assets/images/games/grounded/yard.webp",
+      "thumbnailUrl": "/assets/images/games/grounded/yard.webp",
       "updatedAt": "2026-02-10T07:15:41Z",
       "markerCount": 1765,
       "categoryCount": 5,

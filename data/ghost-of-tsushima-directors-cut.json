@@ -1,12 +1,12 @@
 {
   "slug": "ghost-of-tsushima-directors-cut",
   "title": "Ghost of Tsushima DIRECTOR'S CUT",
-  "heroUrl": "/game_map/assets/images/games/ghost-of-tsushima-directors-cut/hero.webp",
+  "heroUrl": "/assets/images/games/ghost-of-tsushima-directors-cut/hero.webp",
   "maps": [
     {
       "name": "Tsushima",
       "slug": "tsushima",
-      "thumbnailUrl": "/game_map/assets/images/games/ghost-of-tsushima-directors-cut/tsushima.webp",
+      "thumbnailUrl": "/assets/images/games/ghost-of-tsushima-directors-cut/tsushima.webp",
       "updatedAt": "2026-02-03T06:25:03Z",
       "markerCount": 721,
       "categoryCount": 6,

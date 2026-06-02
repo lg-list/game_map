@@ -1,12 +1,12 @@
 {
   "slug": "starrupture",
   "title": "StarRupture",
-  "heroUrl": "/game_map/assets/images/games/starrupture/hero.webp",
+  "heroUrl": "/assets/images/games/starrupture/hero.webp",
   "maps": [
     {
       "name": "StarRupture",
       "slug": "starrupture",
-      "thumbnailUrl": "/game_map/assets/images/games/starrupture/starrupture.webp",
+      "thumbnailUrl": "/assets/images/games/starrupture/starrupture.webp",
       "updatedAt": "2026-02-19T02:51:07Z",
       "markerCount": 1193,
       "categoryCount": 5,

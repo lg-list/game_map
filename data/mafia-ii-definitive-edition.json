@@ -1,12 +1,12 @@
 {
   "slug": "mafia-ii-definitive-edition",
   "title": "Mafia II: Definitive Edition",
-  "heroUrl": "/game_map/assets/images/games/mafia-ii-definitive-edition/empire-bay.webp",
+  "heroUrl": "/assets/images/games/mafia-ii-definitive-edition/empire-bay.webp",
   "maps": [
     {
       "name": "Empire Bay",
       "slug": "empire-bay",
-      "thumbnailUrl": "/game_map/assets/images/games/mafia-ii-definitive-edition/empire-bay.webp",
+      "thumbnailUrl": "/assets/images/games/mafia-ii-definitive-edition/empire-bay.webp",
       "updatedAt": "2026-02-20T01:43:34Z",
       "markerCount": 523,
       "categoryCount": 6,

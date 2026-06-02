@@ -1,12 +1,12 @@
 {
   "slug": "fallout-new-vegas-ultimate-edition",
   "title": "Fallout: New Vegas Ultimate Edition",
-  "heroUrl": "/game_map/assets/images/games/fallout-new-vegas-ultimate-edition/hero.webp",
+  "heroUrl": "/assets/images/games/fallout-new-vegas-ultimate-edition/hero.webp",
   "maps": [
     {
       "name": "Mojave Wasteland",
       "slug": "mojave-wasteland",
-      "thumbnailUrl": "/game_map/assets/images/games/fallout-new-vegas-ultimate-edition/mojave-wasteland.webp",
+      "thumbnailUrl": "/assets/images/games/fallout-new-vegas-ultimate-edition/mojave-wasteland.webp",
       "updatedAt": "2026-04-15T04:26:26Z",
       "markerCount": 541,
       "categoryCount": 6,

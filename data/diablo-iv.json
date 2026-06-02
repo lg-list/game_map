@@ -1,12 +1,12 @@
 {
   "slug": "diablo-iv",
   "title": "Diablo IV",
-  "heroUrl": "/game_map/assets/images/games/diablo-iv/hero.webp",
+  "heroUrl": "/assets/images/games/diablo-iv/hero.webp",
   "maps": [
     {
       "name": "Sanctuary",
       "slug": "sanctuary",
-      "thumbnailUrl": "/game_map/assets/images/games/diablo-iv/sanctuary.webp",
+      "thumbnailUrl": "/assets/images/games/diablo-iv/sanctuary.webp",
       "updatedAt": "2026-02-19T02:25:46Z",
       "markerCount": 2746,
       "categoryCount": 9,

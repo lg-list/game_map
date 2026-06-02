@@ -1,12 +1,12 @@
 {
   "slug": "far-cry-primal",
   "title": "Far Cry Primal",
-  "heroUrl": "/game_map/assets/images/games/far-cry-primal/hero.webp",
+  "heroUrl": "/assets/images/games/far-cry-primal/hero.webp",
   "maps": [
     {
       "name": "Oros",
       "slug": "oros",
-      "thumbnailUrl": "/game_map/assets/images/games/far-cry-primal/oros.webp",
+      "thumbnailUrl": "/assets/images/games/far-cry-primal/oros.webp",
       "updatedAt": "2026-02-18T05:11:08Z",
       "markerCount": 740,
       "categoryCount": 4,

@@ -1,12 +1,12 @@
 {
   "slug": "need-for-speed-heat",
   "title": "Need for Speed Heat",
-  "heroUrl": "/game_map/assets/images/games/need-for-speed-heat/hero.webp",
+  "heroUrl": "/assets/images/games/need-for-speed-heat/hero.webp",
   "maps": [
     {
       "name": "Palm City",
       "slug": "palm-city",
-      "thumbnailUrl": "/game_map/assets/images/games/need-for-speed-heat/palm-city.webp",
+      "thumbnailUrl": "/assets/images/games/need-for-speed-heat/palm-city.webp",
       "updatedAt": "2026-02-05T08:11:07Z",
       "markerCount": 478,
       "categoryCount": 3,

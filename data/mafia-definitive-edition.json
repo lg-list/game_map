@@ -1,12 +1,12 @@
 {
   "slug": "mafia-definitive-edition",
   "title": "Mafia: Definitive Edition",
-  "heroUrl": "/game_map/assets/images/games/mafia-definitive-edition/hero.webp",
+  "heroUrl": "/assets/images/games/mafia-definitive-edition/hero.webp",
   "maps": [
     {
       "name": "Lost Heaven",
       "slug": "lost-heaven",
-      "thumbnailUrl": "/game_map/assets/images/games/mafia-definitive-edition/lost-heaven.webp",
+      "thumbnailUrl": "/assets/images/games/mafia-definitive-edition/lost-heaven.webp",
       "updatedAt": "2026-03-12T17:10:21Z",
       "markerCount": 330,
       "categoryCount": 4,

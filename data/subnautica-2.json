@@ -1,11 +1,11 @@
 {
   "title": "Subnautica 2",
-  "heroUrl": "/game_map/assets/images/games/subnautica-2/hero.webp",
+  "heroUrl": "/assets/images/games/subnautica-2/hero.webp",
   "maps": [
     {
       "name": "Proteus",
       "slug": "proteus",
-      "thumbnailUrl": "/game_map/assets/images/games/subnautica-2/proteus.webp",
+      "thumbnailUrl": "/assets/images/games/subnautica-2/proteus.webp",
       "updatedAt": "2026-05-29T07:11:03Z",
       "markerCount": 15613,
       "categoryCount": 11,

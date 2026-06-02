@@ -1,12 +1,12 @@
 {
   "slug": "euro-truck-simulator-2",
   "title": "Euro Truck Simulator 2",
-  "heroUrl": "/game_map/assets/images/games/euro-truck-simulator-2/hero.webp",
+  "heroUrl": "/assets/images/games/euro-truck-simulator-2/hero.webp",
   "maps": [
     {
       "name": "Europe",
       "slug": "europe",
-      "thumbnailUrl": "/game_map/assets/images/games/euro-truck-simulator-2/europe.webp",
+      "thumbnailUrl": "/assets/images/games/euro-truck-simulator-2/europe.webp",
       "updatedAt": "2026-04-28T23:12:19Z",
       "markerCount": 3460,
       "categoryCount": 4,

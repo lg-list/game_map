@@ -1,12 +1,12 @@
 {
   "slug": "schedule-i",
   "title": "Schedule I",
-  "heroUrl": "/game_map/assets/images/games/schedule-i/hero.webp",
+  "heroUrl": "/assets/images/games/schedule-i/hero.webp",
   "maps": [
     {
       "name": "Hyland Point",
       "slug": "hyland-point",
-      "thumbnailUrl": "/game_map/assets/images/games/schedule-i/hyland-point.webp",
+      "thumbnailUrl": "/assets/images/games/schedule-i/hyland-point.webp",
       "updatedAt": "2026-05-28T15:10:18Z",
       "markerCount": 243,
       "categoryCount": 5,

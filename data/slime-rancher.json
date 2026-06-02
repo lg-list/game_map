@@ -1,12 +1,12 @@
 {
   "slug": "slime-rancher",
   "title": "Slime Rancher",
-  "heroUrl": "/game_map/assets/images/games/slime-rancher/hero.webp",
+  "heroUrl": "/assets/images/games/slime-rancher/hero.webp",
   "maps": [
     {
       "name": "Far, Far Range",
       "slug": "far-far-range",
-      "thumbnailUrl": "/game_map/assets/images/games/slime-rancher/far-far-range.webp",
+      "thumbnailUrl": "/assets/images/games/slime-rancher/far-far-range.webp",
       "updatedAt": "2026-02-05T08:12:24Z",
       "markerCount": 282,
       "categoryCount": 4,

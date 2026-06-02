@@ -1,12 +1,12 @@
 {
   "slug": "stalker-clear-sky-enhanced-edition",
   "title": "S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition",
-  "heroUrl": "/game_map/assets/images/games/stalker-clear-sky-enhanced-edition/hero.webp",
+  "heroUrl": "/assets/images/games/stalker-clear-sky-enhanced-edition/hero.webp",
   "maps": [
     {
       "name": "The Zone",
       "slug": "the-zone",
-      "thumbnailUrl": "/game_map/assets/images/games/stalker-clear-sky-enhanced-edition/the-zone.webp",
+      "thumbnailUrl": "/assets/images/games/stalker-clear-sky-enhanced-edition/the-zone.webp",
       "updatedAt": "2026-02-03T06:24:42Z",
       "markerCount": 1097,
       "categoryCount": 11,

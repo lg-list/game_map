@@ -1,12 +1,12 @@
 {
   "slug": "need-for-speed-unbound",
   "title": "Need for Speed Unbound",
-  "heroUrl": "/game_map/assets/images/games/need-for-speed-unbound/hero.webp",
+  "heroUrl": "/assets/images/games/need-for-speed-unbound/hero.webp",
   "maps": [
     {
       "name": "Lakeshore City",
       "slug": "lakeshore-city",
-      "thumbnailUrl": "/game_map/assets/images/games/need-for-speed-unbound/lakeshore-city.webp",
+      "thumbnailUrl": "/assets/images/games/need-for-speed-unbound/lakeshore-city.webp",
       "updatedAt": "2026-02-19T02:49:47Z",
       "markerCount": 531,
       "categoryCount": 3,

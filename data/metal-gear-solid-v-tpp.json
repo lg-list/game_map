@@ -1,12 +1,12 @@
 {
   "slug": "metal-gear-solid-v-tpp",
   "title": "Metal Gear Solid V: TPP",
-  "heroUrl": "/game_map/assets/images/games/metal-gear-solid-v-tpp/hero.webp",
+  "heroUrl": "/assets/images/games/metal-gear-solid-v-tpp/hero.webp",
   "maps": [
     {
       "name": "Afghanistan",
       "slug": "afghanistan",
-      "thumbnailUrl": "/game_map/assets/images/games/metal-gear-solid-v-tpp/afghanistan.webp",
+      "thumbnailUrl": "/assets/images/games/metal-gear-solid-v-tpp/afghanistan.webp",
       "updatedAt": "2026-04-28T07:32:20Z",
       "markerCount": 543,
       "categoryCount": 5,

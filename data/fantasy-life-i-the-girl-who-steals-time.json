@@ -1,12 +1,12 @@
 {
   "slug": "fantasy-life-i-the-girl-who-steals-time",
   "title": "FANTASY LIFE i: The Girl Who Steals Time",
-  "heroUrl": "/game_map/assets/images/games/fantasy-life-i-the-girl-who-steals-time/hero.webp",
+  "heroUrl": "/assets/images/games/fantasy-life-i-the-girl-who-steals-time/hero.webp",
   "maps": [
     {
       "name": "World Map",
       "slug": "world-map",
-      "thumbnailUrl": "/game_map/assets/images/games/fantasy-life-i-the-girl-who-steals-time/world-map.webp",
+      "thumbnailUrl": "/assets/images/games/fantasy-life-i-the-girl-who-steals-time/world-map.webp",
       "updatedAt": "2026-04-16T06:21:35Z",
       "markerCount": 219,
       "categoryCount": 3,

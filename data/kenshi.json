@@ -1,12 +1,12 @@
 {
   "slug": "kenshi",
   "title": "Kenshi",
-  "heroUrl": "/game_map/assets/images/games/kenshi/hero.webp",
+  "heroUrl": "/assets/images/games/kenshi/hero.webp",
   "maps": [
     {
       "name": "World",
       "slug": "world",
-      "thumbnailUrl": "/game_map/assets/images/games/kenshi/world.webp",
+      "thumbnailUrl": "/assets/images/games/kenshi/world.webp",
       "updatedAt": "2026-04-28T06:48:02Z",
       "markerCount": 443,
       "categoryCount": 9,

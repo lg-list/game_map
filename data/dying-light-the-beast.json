@@ -1,12 +1,12 @@
 {
   "slug": "dying-light-the-beast",
   "title": "Dying Light: The Beast",
-  "heroUrl": "/game_map/assets/images/games/dying-light-the-beast/hero.webp",
+  "heroUrl": "/assets/images/games/dying-light-the-beast/hero.webp",
   "maps": [
     {
       "name": "Castor Woods",
       "slug": "castor-woods",
-      "thumbnailUrl": "/game_map/assets/images/games/dying-light-the-beast/castor-woods.webp",
+      "thumbnailUrl": "/assets/images/games/dying-light-the-beast/castor-woods.webp",
       "updatedAt": "2026-02-18T05:09:00Z",
       "markerCount": 443,
       "categoryCount": 6,

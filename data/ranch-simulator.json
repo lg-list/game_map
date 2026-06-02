@@ -1,12 +1,12 @@
 {
   "slug": "ranch-simulator",
   "title": "Ranch Simulator",
-  "heroUrl": "/game_map/assets/images/games/ranch-simulator/hero.webp",
+  "heroUrl": "/assets/images/games/ranch-simulator/hero.webp",
   "maps": [
     {
       "name": "World",
       "slug": "world",
-      "thumbnailUrl": "/game_map/assets/images/games/ranch-simulator/world.webp",
+      "thumbnailUrl": "/assets/images/games/ranch-simulator/world.webp",
       "updatedAt": "2026-02-19T02:50:01Z",
       "markerCount": 36,
       "categoryCount": 3,

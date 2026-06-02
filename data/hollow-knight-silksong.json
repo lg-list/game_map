@@ -1,12 +1,12 @@
 {
   "slug": "hollow-knight-silksong",
   "title": "Hollow Knight: Silksong",
-  "heroUrl": "/game_map/assets/images/games/hollow-knight-silksong/hero.webp",
+  "heroUrl": "/assets/images/games/hollow-knight-silksong/hero.webp",
   "maps": [
     {
       "name": "Pharloom",
       "slug": "pharloom",
-      "thumbnailUrl": "/game_map/assets/images/games/hollow-knight-silksong/pharloom.webp",
+      "thumbnailUrl": "/assets/images/games/hollow-knight-silksong/pharloom.webp",
       "updatedAt": "2026-02-18T04:28:56Z",
       "markerCount": 1473,
       "categoryCount": 9,

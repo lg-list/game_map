@@ -1,12 +1,12 @@
 {
   "slug": "soulmask",
   "title": "Soulmask",
-  "heroUrl": "/game_map/assets/images/games/soulmask/hero.webp",
+  "heroUrl": "/assets/images/games/soulmask/hero.webp",
   "maps": [
     {
       "name": "Soulmask",
       "slug": "soulmask",
-      "thumbnailUrl": "/game_map/assets/images/games/soulmask/soulmask.webp",
+      "thumbnailUrl": "/assets/images/games/soulmask/soulmask.webp",
       "updatedAt": "2026-05-25T05:02:01Z",
       "markerCount": 723,
       "categoryCount": 4,

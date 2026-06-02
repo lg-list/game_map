@@ -1,12 +1,12 @@
 {
   "slug": "grand-theft-auto-iii-the-definitive-edition",
   "title": "Grand Theft Auto III – The Definitive Edition",
-  "heroUrl": "/game_map/assets/images/games/grand-theft-auto-iii-the-definitive-edition/hero.webp",
+  "heroUrl": "/assets/images/games/grand-theft-auto-iii-the-definitive-edition/hero.webp",
   "maps": [
     {
       "name": "Liberty City",
       "slug": "liberty-city",
-      "thumbnailUrl": "/game_map/assets/images/games/grand-theft-auto-iii-the-definitive-edition/liberty-city.webp",
+      "thumbnailUrl": "/assets/images/games/grand-theft-auto-iii-the-definitive-edition/liberty-city.webp",
       "updatedAt": "2026-03-03T05:28:25Z",
       "markerCount": 381,
       "categoryCount": 4,

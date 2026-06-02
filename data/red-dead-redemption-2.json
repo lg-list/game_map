@@ -1,12 +1,12 @@
 {
   "slug": "red-dead-redemption-2",
   "title": "Red Dead Redemption 2",
-  "heroUrl": "/game_map/assets/images/games/red-dead-redemption-2/hero.webp",
+  "heroUrl": "/assets/images/games/red-dead-redemption-2/hero.webp",
   "maps": [
     {
       "name": "Red Dead Redemption 2",
       "slug": "red-dead-redemption-2",
-      "thumbnailUrl": "/game_map/assets/images/games/red-dead-redemption-2/red-dead-redemption-2.webp",
+      "thumbnailUrl": "/assets/images/games/red-dead-redemption-2/red-dead-redemption-2.webp",
       "updatedAt": "2026-05-25T04:52:47Z",
       "markerCount": 1194,
       "categoryCount": 4,

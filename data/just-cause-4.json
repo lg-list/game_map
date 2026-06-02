@@ -1,12 +1,12 @@
 {
   "slug": "just-cause-4",
   "title": "Just Cause 4",
-  "heroUrl": "/game_map/assets/images/games/just-cause-4/hero.webp",
+  "heroUrl": "/assets/images/games/just-cause-4/hero.webp",
   "maps": [
     {
       "name": "Solis",
       "slug": "solis",
-      "thumbnailUrl": "/game_map/assets/images/games/just-cause-4/solis.webp",
+      "thumbnailUrl": "/assets/images/games/just-cause-4/solis.webp",
       "updatedAt": "2026-04-29T07:21:19Z",
       "markerCount": 1656,
       "categoryCount": 5,

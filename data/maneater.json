@@ -1,12 +1,12 @@
 {
   "slug": "maneater",
   "title": "Maneater",
-  "heroUrl": "/game_map/assets/images/games/maneater/hero.webp",
+  "heroUrl": "/assets/images/games/maneater/hero.webp",
   "maps": [
     {
       "name": "Port Clovis",
       "slug": "port-clovis",
-      "thumbnailUrl": "/game_map/assets/images/games/maneater/port-clovis.webp",
+      "thumbnailUrl": "/assets/images/games/maneater/port-clovis.webp",
       "updatedAt": "2026-03-03T05:25:43Z",
       "markerCount": 520,
       "categoryCount": 4,

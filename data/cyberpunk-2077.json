@@ -1,12 +1,12 @@
 {
   "slug": "cyberpunk-2077",
   "title": "Cyberpunk 2077",
-  "heroUrl": "/game_map/assets/images/games/cyberpunk-2077/hero.webp",
+  "heroUrl": "/assets/images/games/cyberpunk-2077/hero.webp",
   "maps": [
     {
       "name": "Night City",
       "slug": "night-city",
-      "thumbnailUrl": "/game_map/assets/images/games/cyberpunk-2077/night-city.webp",
+      "thumbnailUrl": "/assets/images/games/cyberpunk-2077/night-city.webp",
       "updatedAt": "2026-01-26T20:14:31Z",
       "markerCount": 1029,
       "categoryCount": 3,

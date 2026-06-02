@@ -1,12 +1,12 @@
 {
   "slug": "marvels-spider-man-miles-morales",
   "title": "Marvel's Spider-Man: Miles Morales",
-  "heroUrl": "/game_map/assets/images/games/marvels-spider-man-miles-morales/hero.webp",
+  "heroUrl": "/assets/images/games/marvels-spider-man-miles-morales/hero.webp",
   "maps": [
     {
       "name": "New York City",
       "slug": "new-york-city",
-      "thumbnailUrl": "/game_map/assets/images/games/marvels-spider-man-miles-morales/new-york-city.webp",
+      "thumbnailUrl": "/assets/images/games/marvels-spider-man-miles-morales/new-york-city.webp",
       "updatedAt": "2026-05-14T18:20:09Z",
       "markerCount": 205,
       "categoryCount": 7,

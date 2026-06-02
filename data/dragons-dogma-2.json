@@ -1,12 +1,12 @@
 {
   "slug": "dragons-dogma-2",
   "title": "Dragon's Dogma 2",
-  "heroUrl": "/game_map/assets/images/games/dragons-dogma-2/hero.webp",
+  "heroUrl": "/assets/images/games/dragons-dogma-2/hero.webp",
   "maps": [
     {
       "name": "Dragons Dogma 2",
       "slug": "dragons-dogma-2",
-      "thumbnailUrl": "/game_map/assets/images/games/dragons-dogma-2/dragons-dogma-2.webp",
+      "thumbnailUrl": "/assets/images/games/dragons-dogma-2/dragons-dogma-2.webp",
       "updatedAt": "2026-01-29T08:21:54Z",
       "markerCount": 1400,
       "categoryCount": 7,

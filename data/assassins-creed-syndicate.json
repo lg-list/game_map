@@ -1,12 +1,12 @@
 {
   "slug": "assassins-creed-syndicate",
   "title": "Assassin's Creed Syndicate",
-  "heroUrl": "/game_map/assets/images/games/assassins-creed-syndicate/hero.webp",
+  "heroUrl": "/assets/images/games/assassins-creed-syndicate/hero.webp",
   "maps": [
     {
       "name": "London",
       "slug": "london",
-      "thumbnailUrl": "/game_map/assets/images/games/assassins-creed-syndicate/london.webp",
+      "thumbnailUrl": "/assets/images/games/assassins-creed-syndicate/london.webp",
       "updatedAt": "2026-02-18T05:16:36Z",
       "markerCount": 937,
       "categoryCount": 6,

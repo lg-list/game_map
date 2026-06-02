@@ -1,12 +1,12 @@
 {
   "slug": "elden-ring-nightreign",
   "title": "ELDEN RING NIGHTREIGN",
-  "heroUrl": "/game_map/assets/images/games/elden-ring-nightreign/hero.webp",
+  "heroUrl": "/assets/images/games/elden-ring-nightreign/hero.webp",
   "maps": [
     {
       "name": "Limveld",
       "slug": "limveld",
-      "thumbnailUrl": "/game_map/assets/images/games/elden-ring-nightreign/limveld.webp",
+      "thumbnailUrl": "/assets/images/games/elden-ring-nightreign/limveld.webp",
       "updatedAt": "2026-04-28T06:38:06Z",
       "markerCount": 184,
       "categoryCount": 3,

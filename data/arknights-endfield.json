@@ -1,12 +1,12 @@
 {
   "slug": "arknights-endfield",
   "title": "Arknights: Endfield",
-  "heroUrl": "/game_map/assets/images/games/arknights-endfield/valley-iv.webp",
+  "heroUrl": "/assets/images/games/arknights-endfield/valley-iv.webp",
   "maps": [
     {
       "name": "Valley IV",
       "slug": "valley-iv",
-      "thumbnailUrl": "/game_map/assets/images/games/arknights-endfield/valley-iv.webp",
+      "thumbnailUrl": "/assets/images/games/arknights-endfield/valley-iv.webp",
       "updatedAt": "2026-03-09T03:57:21Z",
       "markerCount": 1997,
       "categoryCount": 9,

@@ -3,36 +3,36 @@ let games = [
     title: "Outbound",
     maps: 2,
     updated: true,
-    href: "/game_map/maps/outbound/",
-    art: "url('/game_map/assets/images/games/outbound/hero.webp')",
+    href: "/maps/outbound/",
+    art: "url('/assets/images/games/outbound/hero.webp')",
   },
   {
     title: "Subnautica 2",
     maps: 1,
     updated: true,
-    href: "/game_map/maps/subnautica-2/",
-    art: "url('/game_map/assets/images/games/subnautica-2/hero.webp')",
+    href: "/maps/subnautica-2/",
+    art: "url('/assets/images/games/subnautica-2/hero.webp')",
   },
   {
     title: "CODE VEIN II",
     maps: 1,
     updated: true,
-    href: "/game_map/maps/code-vein-ii/",
-    art: "url('/game_map/assets/images/games/code-vein-ii/hero.webp')",
+    href: "/maps/code-vein-ii/",
+    art: "url('/assets/images/games/code-vein-ii/hero.webp')",
   },
   {
     title: "Crimson Desert",
     maps: 1,
     updated: true,
-    href: "/game_map/maps/crimson-desert/",
-    art: "url('/game_map/assets/images/games/crimson-desert/pywel.webp')",
+    href: "/maps/crimson-desert/",
+    art: "url('/assets/images/games/crimson-desert/pywel.webp')",
   },
   {
     title: "ARC Raiders",
     maps: 7,
     updated: true,
-    href: "/game_map/maps/arc-raiders/",
-    art: "url('/game_map/assets/images/games/arc-raiders/hero.webp')",
+    href: "/maps/arc-raiders/",
+    art: "url('/assets/images/games/arc-raiders/hero.webp')",
   },
 ];
 
@@ -75,13 +75,13 @@ function artGradient(seed = "") {
 
 function safeCssImage(value, fallbackSeed) {
   const text = String(value || "").trim();
-  if (/^url\(['"]?\/game_map\/assets\/images\/games\//.test(text)) return text;
+  if (/^url\(['"]?\/assets\/images\/games\//.test(text)) return text;
   return artGradient(fallbackSeed);
 }
 
 function safeImagePath(value) {
   const text = String(value || "").trim();
-  return text.startsWith("/game_map/assets/images/games/") ? text : "";
+  return text.startsWith("/assets/images/games/") ? text : "";
 }
 
 async function initHome() {
@@ -96,7 +96,7 @@ async function initHome() {
   let query = "";
 
   try {
-    const syncedGames = await fetch("/game_map/data/site-games.json").then((response) => response.json());
+    const syncedGames = await fetch("/data/site-games.json").then((response) => response.json());
     if (Array.isArray(syncedGames) && syncedGames.length) games = syncedGames;
   } catch {
     // Keep the bundled fallback list if the synced data file cannot be loaded.
@@ -188,8 +188,8 @@ async function initOutboundList() {
   const list = document.querySelector("#outbound-map-list, [data-map-list]");
   if (!list) return;
 
-  const data = await fetch(list.dataset.source || "/game_map/data/outbound.json").then((response) => response.json());
-  const basePath = list.dataset.basePath || "/game_map/maps/outbound";
+  const data = await fetch(list.dataset.source || "/data/outbound.json").then((response) => response.json());
+  const basePath = list.dataset.basePath || "/maps/outbound";
   const title = data.title || "Outbound";
   list.innerHTML = data.maps
     .map((map) => {
@@ -216,13 +216,13 @@ async function initOutboundDetail() {
   const root = document.querySelector('[data-page="outbound-detail"], [data-page="map-detail"]');
   if (!root) return;
 
-  const dataUrl = root.dataset.mapData || "/game_map/data/outbound-the-outdoors.json";
+  const dataUrl = root.dataset.mapData || "/data/outbound-the-outdoors.json";
   const tileKey = root.dataset.tileKey || "outbound/the-outdoors";
-  const tilePath = root.dataset.tilePath || `/game_map/tiles/${tileKey}`;
+  const tilePath = root.dataset.tilePath || `/tiles/${tileKey}`;
   const data = await fetch(dataUrl).then((response) => response.json());
   let remoteTileSource = null;
   try {
-    const tileSources = await fetch("/game_map/data/tile-sources.json").then((response) => response.json());
+    const tileSources = await fetch("/data/tile-sources.json").then((response) => response.json());
     remoteTileSource = tileSources[tileKey] || null;
   } catch {
     remoteTileSource = null;

@@ -1,12 +1,12 @@
 {
   "slug": "clair-obscur-expedition-33",
   "title": "Clair Obscur: Expedition 33",
-  "heroUrl": "/game_map/assets/images/games/clair-obscur-expedition-33/hero.webp",
+  "heroUrl": "/assets/images/games/clair-obscur-expedition-33/hero.webp",
   "maps": [
     {
       "name": "The Continent",
       "slug": "the-continent",
-      "thumbnailUrl": "/game_map/assets/images/games/clair-obscur-expedition-33/the-continent.webp",
+      "thumbnailUrl": "/assets/images/games/clair-obscur-expedition-33/the-continent.webp",
       "updatedAt": "2026-03-18T11:14:24Z",
       "markerCount": 1120,
       "categoryCount": 5,

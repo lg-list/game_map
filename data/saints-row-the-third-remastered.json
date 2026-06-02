@@ -1,12 +1,12 @@
 {
   "slug": "saints-row-the-third-remastered",
   "title": "Saints Row: The Third Remastered",
-  "heroUrl": "/game_map/assets/images/games/saints-row-the-third-remastered/hero.webp",
+  "heroUrl": "/assets/images/games/saints-row-the-third-remastered/hero.webp",
   "maps": [
     {
       "name": "Steelport",
       "slug": "steelport",
-      "thumbnailUrl": "/game_map/assets/images/games/saints-row-the-third-remastered/steelport.webp",
+      "thumbnailUrl": "/assets/images/games/saints-row-the-third-remastered/steelport.webp",
       "updatedAt": "2026-02-20T01:26:38Z",
       "markerCount": 456,
       "categoryCount": 4,
