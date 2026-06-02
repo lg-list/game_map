@@ -220,6 +220,13 @@ async function initOutboundDetail() {
   const tileKey = root.dataset.tileKey || "outbound/the-outdoors";
   const tilePath = root.dataset.tilePath || `/game_map/tiles/${tileKey}`;
   const data = await fetch(dataUrl).then((response) => response.json());
+  let remoteTileSource = null;
+  try {
+    const tileSources = await fetch("/game_map/data/tile-sources.json").then((response) => response.json());
+    remoteTileSource = tileSources[tileKey] || null;
+  } catch {
+    remoteTileSource = null;
+  }
   const { metadata, features } = data;
   const categories = Array.isArray(metadata.categories) ? metadata.categories : [];
   const subcategories = Array.isArray(metadata.subcategories) ? metadata.subcategories : [];
@@ -593,7 +600,21 @@ async function initOutboundDetail() {
     const key = `${z}/${x}/${y}`;
     if (tileCache.has(key)) return tileCache.get(key);
     const record = { image: null, bitmap: null, failed: false };
-    const src = `${tilePath}/${z}/${x}/${y}.webp?v=progressive-tiles`;
+    let sourceZ = z;
+    let sourceX = x;
+    let sourceY = y;
+    if (remoteTileSource && sourceZ > remoteTileSource.maxZoom) {
+      const factor = 2 ** (sourceZ - remoteTileSource.maxZoom);
+      sourceX = Math.floor(sourceX / factor);
+      sourceY = Math.floor(sourceY / factor);
+      sourceZ = remoteTileSource.maxZoom;
+    }
+    const upstreamY = remoteTileSource?.tmsEnabled ? 2 ** sourceZ - 1 - sourceY : sourceY;
+    const src = remoteTileSource
+      ? remoteTileSource.tmsEnabled
+        ? `${remoteTileSource.base}/${sourceZ}/${sourceX}/${upstreamY}.webp`
+        : `${remoteTileSource.base}/${sourceZ}/${upstreamY}/${sourceX}.webp`
+      : `${tilePath}/${z}/${x}/${y}.webp?v=progressive-tiles`;
 
     const markFailed = () => {
       record.failed = true;

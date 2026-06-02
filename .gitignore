@@ -4,5 +4,6 @@ tmp_chunks/
 chunks.txt
 *.log
 node_modules/
+_site/
 .DS_Store
 Thumbs.db
