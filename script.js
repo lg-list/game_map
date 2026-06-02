@@ -773,9 +773,7 @@ async function initOutboundDetail() {
           <section class="category-group">
             <button class="category-head" type="button" data-category="${category.externalId}" style="--dot: ${category.color}">
               <span class="filter-label">
-                <input class="native-checkbox" type="checkbox" checked tabindex="-1" aria-hidden="true" />
-                <span class="fake-checkbox" aria-hidden="true"></span>
-                <span class="category-dot"></span>
+                <span class="category-caret" aria-hidden="true"></span>
                 <span>${escapeHtml(displayText(category.title, "Category"))}</span>
               </span>
               <span class="category-count">${count}</span>
@@ -784,8 +782,6 @@ async function initOutboundDetail() {
               .map(
                 (subcategory) => `
                   <button class="subcategory-row" type="button" data-subcategory="${subcategory.externalId}" style="--dot: ${category.color}">
-                    <input class="native-checkbox" type="checkbox" checked tabindex="-1" aria-hidden="true" />
-                    <span class="fake-checkbox" aria-hidden="true"></span>
                     <span class="subcategory-icon">${iconMarkup(subcategory)}</span>
                     <span>${escapeHtml(displayText(subcategory.title, "Marker Type"))}</span>
                     <span class="subcategory-count">${subcategoryCounts.get(subcategory.externalId) || 0}</span>
