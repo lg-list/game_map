@@ -1,9 +1,11 @@
 .tile-cache/
+.pin-cache/
 tmp_*
 tmp_chunks/
 chunks.txt
 *.log
 node_modules/
 _site/
+.push-worktree*/
 .DS_Store
 Thumbs.db

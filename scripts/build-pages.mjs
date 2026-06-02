@@ -15,6 +15,8 @@ const copies = [
   ["script.js", "script.js"],
   ["favicon.ico", "favicon.ico"],
   ["logo.png", "logo.png"],
+  ["robots.txt", "robots.txt"],
+  ["sitemap.xml", "sitemap.xml"],
   ["assets", "assets"],
   ["data", "data"],
   [join("pages", "maps"), "maps"],

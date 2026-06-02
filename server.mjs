@@ -5,12 +5,15 @@ import { fileURLToPath } from "node:url";
 
 const root = fileURLToPath(new URL(".", import.meta.url));
 const tileCacheRoot = join(root, ".tile-cache");
+const pinImageCacheRoot = join(root, ".pin-cache", "images");
 const types = {
   ".html": "text/html; charset=utf-8",
   ".css": "text/css; charset=utf-8",
   ".js": "text/javascript; charset=utf-8",
   ".ico": "image/x-icon",
   ".json": "application/json; charset=utf-8",
+  ".txt": "text/plain; charset=utf-8",
+  ".xml": "application/xml; charset=utf-8",
   ".png": "image/png",
   ".webp": "image/webp",
 };
@@ -99,6 +102,12 @@ function tileCachePath(tileKey, z, x, y) {
   return join(tileCacheRoot, safeKey, String(z), String(x), `${y}.webp`);
 }
 
+function pinImageCachePath(imageId, size) {
+  const safeId = String(imageId).replace(/[^0-9a-z._-]/gi, "_");
+  const safeSize = String(size).replace(/[^0-9]/g, "") || "250";
+  return join(pinImageCacheRoot, safeId, `${safeSize}.webp`);
+}
+
 function stripProjectBase(pathname) {
   return pathname === "/game_map" || pathname.startsWith("/game_map/")
     ? pathname.slice("/game_map".length) || "/"
@@ -109,6 +118,44 @@ createServer(async (request, response) => {
   try {
     const url = new URL(request.url, "http://127.0.0.1");
     const pathname = stripProjectBase(url.pathname);
+    const pinImageMatch = pathname.match(/^\/pin-images\/([0-9a-z._-]+)\/(\d+)\.webp$/i);
+    if (pinImageMatch) {
+      const imageId = pinImageMatch[1];
+      const size = pinImageMatch[2] || "250";
+      const cachePath = pinImageCachePath(imageId, size);
+      try {
+        const cached = await readFile(cachePath);
+        response.writeHead(200, {
+          "Content-Type": "image/webp",
+          "Cache-Control": "public, max-age=31536000, immutable",
+          "X-Pin-Image-Cache": "HIT",
+        });
+        response.end(cached);
+        return;
+      } catch {
+        // Cache miss, fetch the marker image from the Wand image CDN.
+      }
+
+      const upstream = `https://api-cdn.wemod.com/game_map_pin/${encodeURIComponent(imageId)}/${size}.webp`;
+      const image = await fetch(upstream);
+      if (!image.ok) {
+        response.writeHead(image.status);
+        response.end("Pin image not found");
+        return;
+      }
+      const body = Buffer.from(await image.arrayBuffer());
+      mkdir(dirname(cachePath), { recursive: true })
+        .then(() => writeFile(cachePath, body))
+        .catch(() => {});
+      response.writeHead(200, {
+        "Content-Type": "image/webp",
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "X-Pin-Image-Cache": "MISS",
+      });
+      response.end(body);
+      return;
+    }
+
     const tileMatch = pathname.match(/^\/tiles\/(.+)\/(\d+)\/(\d+)\/(\d+)\.webp$/);
     if (tileMatch) {
       const tileKey = decodeURIComponent(tileMatch[1]);

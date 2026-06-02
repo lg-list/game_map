@@ -623,7 +623,7 @@ h2 {
 
 .interactive-layout {
   display: grid;
-  grid-template-columns: 264px minmax(0, 1fr);
+  grid-template-columns: 420px minmax(0, 1fr);
   height: calc(100vh - 64px);
 }
 
@@ -768,7 +768,7 @@ h2 {
 .category-group {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 4px 8px;
+  gap: 4px 6px;
   border: 0;
   border-radius: 0;
   overflow: visible;
@@ -826,13 +826,13 @@ h2 {
 
 .subcategory-row {
   display: grid;
-  grid-template-columns: 18px minmax(0, 1fr) auto;
-  min-height: 34px;
-  padding: 0 6px;
+  grid-template-columns: 13px 18px minmax(0, 1fr) auto;
+  min-height: 32px;
+  padding: 0 5px;
   border-radius: 6px;
   color: rgba(244, 245, 243, 0.86);
-  font-size: 11px;
-  column-gap: 6px;
+  font-size: 10.5px;
+  column-gap: 5px;
   font-weight: 750;
 }
 
@@ -840,7 +840,7 @@ h2 {
   background: rgba(255, 255, 255, 0.055);
 }
 
-.subcategory-row span:nth-child(2) {
+.subcategory-row span:nth-child(3) {
   min-width: 0;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -858,11 +858,11 @@ h2 {
 
 .fake-checkbox {
   position: relative;
-  width: 13px;
-  height: 13px;
+  width: 12px;
+  height: 12px;
   flex: 0 0 auto;
   border: 1.5px solid rgba(255, 255, 255, 0.52);
-  border-radius: 4px;
+  border-radius: 3px;
   background: rgba(255, 255, 255, 0.14);
 }
 
@@ -1954,6 +1954,8 @@ h2 {
   bottom: 18px;
   z-index: 10;
   width: min(360px, calc(100% - 36px));
+  max-height: min(72vh, 560px);
+  overflow: auto;
   padding: 18px;
   border: 1px solid var(--line);
   border-radius: 8px;
@@ -1986,6 +1988,31 @@ h2 {
   margin: 0;
   color: var(--muted);
   line-height: 1.6;
+}
+
+.marker-media {
+  overflow: hidden;
+  margin: 12px 0;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.marker-media-image,
+.marker-media-video {
+  display: block;
+  width: 100%;
+  max-height: 240px;
+  object-fit: cover;
+}
+
+.marker-media-video {
+  aspect-ratio: 16 / 9;
+  background: #000;
+}
+
+.marker-media-video.is-fallback[hidden] {
+  display: none;
 }
 
 @media (max-width: 980px) {
@@ -2172,6 +2199,10 @@ h2 {
     flex-wrap: nowrap;
   }
 
+  .map-body .map-topbar {
+    display: none;
+  }
+
   .map-title-block {
     min-width: 0;
   }
@@ -2190,7 +2221,7 @@ h2 {
   .interactive-layout {
     position: relative;
     display: block;
-    height: calc(100dvh - 64px);
+    height: 100dvh;
     min-height: 560px;
   }
 
@@ -2211,13 +2242,22 @@ h2 {
   }
 
   .map-control-panel::before {
-    display: block;
+    display: none;
     width: 42px;
     height: 4px;
     margin: 0 auto 8px;
     border-radius: 999px;
     background: rgba(255, 255, 255, 0.28);
     content: "";
+  }
+
+  .map-control-panel.is-search-open {
+    max-height: min(48dvh, 380px);
+    overflow: auto;
+  }
+
+  .map-control-panel.is-search-open::before {
+    display: block;
   }
 
   .map-search {
@@ -2231,6 +2271,16 @@ h2 {
 
   .map-search input {
     height: 36px;
+  }
+
+  .map-control-panel:not(.is-search-open) {
+    overflow: hidden;
+  }
+
+  .map-control-panel:not(.is-search-open) .marker-results,
+  .map-control-panel:not(.is-search-open) .filter-actions,
+  .map-control-panel:not(.is-search-open) .category-list {
+    display: none;
   }
 
   .map-stage {
@@ -2256,17 +2306,12 @@ h2 {
   }
 
   .marker-detail {
-    right: 10px;
-    bottom: calc(min(42dvh, 340px) + 20px);
-    width: min(340px, calc(100% - 20px));
-    max-height: 28dvh;
-    overflow: auto;
-    padding: 14px;
-    border-radius: 14px;
+    display: none;
   }
 
-  .marker-detail strong {
-    font-size: 17px;
+  .mobile-selected-marker {
+    border-color: rgba(57, 230, 169, 0.62);
+    background: rgba(57, 230, 169, 0.14);
   }
 
   .category-group {
@@ -2279,7 +2324,7 @@ h2 {
   }
 
   .subcategory-row {
-    grid-template-columns: 18px minmax(0, 1fr) auto;
+    grid-template-columns: 13px 18px minmax(0, 1fr) auto;
     font-size: 11px;
   }
 

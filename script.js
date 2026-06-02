@@ -51,13 +51,395 @@ function clamp(value, min, max) {
 
 function isBrokenText(value) {
   const text = String(value ?? "");
-  return /[\u4e00-\u9fff???????????????]/.test(text);
+  return /[\ufffd]/.test(text) || /(?:\u951f|\u8119|\u8117|\u6c13|\u5fd9|\u83bd|\u732b|\u8305|\u679a)/.test(text);
+}
+
+function hasCjkText(value) {
+  return /[\u3400-\u9fff]/.test(String(value ?? ""));
+}
+
+const englishTextMap = new Map([
+  ["\u5174\u8da3\u70b9", "Points of Interest"],
+  ["\u6218\u5229\u54c1", "Loot"],
+  ["\u81ea\u7136\u8d44\u6e90", "Natural Resources"],
+  ["\u8d44\u6e90", "Resources"],
+  ["\u4efb\u52a1", "Quests"],
+  ["\u5f27\u5f62\u533a\u57df", "ARC Zones"],
+  ["\u8403\u53d6\u70b9", "Extraction Points"],
+  ["ARC\u6218\u5229\u54c1", "ARC Loot"],
+  ["\u5730\u56fe\u4e8b\u4ef6", "Map Events"],
+  ["\u5730\u70b9", "Locations"],
+  ["\u6536\u85cf\u54c1", "Collectibles"],
+  ["\u6742\u9879", "Misc"],
+  ["\u5176\u4ed6", "Other"],
+  ["\u73a9\u5bb6\u51fa\u751f\u70b9", "Player Spawn"],
+  ["\u8865\u7ed9\u547c\u53eb\u7ad9", "Supply Call Station"],
+  ["\u91ce\u6218\u8865\u7ed9\u7ad9", "Field Supply Station"],
+  ["\u91ce\u5916\u7bb1\u5b50", "Field Crate"],
+  ["\u4e0a\u9501\u7684\u95e8", "Locked Door"],
+  ["\u6b66\u5668\u7bb1", "Weapon Case"],
+  ["\u533b\u7597\u5305", "Medical Kit"],
+  ["\u5f39\u836f\u7bb1", "Ammo Box"],
+  ["\u7a81\u88ad\u8005\u5b9d\u7bb1", "Raider Cache"],
+  ["\u8f7d\u5177", "Vehicle"],
+  ["\u5b89\u5168\u50a8\u7269\u67dc", "Security Locker"],
+  ["\u8611\u83c7", "Mushroom"],
+  ["\u5927\u6bdb\u854a\u82b1", "Great Mullein"],
+  ["\u523a\u68a8\u679c", "Prickly Pear"],
+  ["\u9f99\u820c\u5170", "Agave"],
+  ["\u674f\u5b50", "Apricot"],
+  ["\u82d4\u85d3", "Moss"],
+  ["\u80a5\u6599", "Fertilizer"],
+  ["\u6839\u830e", "Root"],
+  ["\u76ee\u6807", "Objective"],
+  ["\u5927\u578bARC", "Large ARC"],
+  ["\u4e2d\u578bARC", "Medium ARC"],
+  ["\u5c0f\u578bARC", "Small ARC"],
+  ["\u7a81\u88ad\u8005\u8231\u95e8", "Raider Hatch"],
+  ["\u64a4\u79bb\u70b9", "Extraction Point"],
+  ["ARC \u4fe1\u4f7f", "ARC Courier"],
+  ["ARC\u63a2\u6d4b\u5668", "ARC Probe"],
+  ["\u7537\u7235\u5916\u58f3", "Baron Husk"],
+  ["ARC\u5916\u58f3", "ARC Husk"],
+  ["\u6536\u5272\u8005", "Harvester"],
+  ["\u4fe1\u53f7\u5854", "Signal Tower"],
+  ["\u7bdd\u706b", "Campfire"],
+  ["\u77f3\u5806", "Rock Pile"],
+  ["\u6865\u6881", "Bridge"],
+  ["\u6c34\u4e95", "Water Well"],
+  ["\u5730\u6807", "Landmark"],
+  ["\u91d1\u5c5e\u5e9f\u6599", "Metal Scrap"],
+  ["\u8865\u7ed9\u7bb1", "Supply Box"],
+  ["\u704c\u6728\u4e1b", "Bush"],
+  ["\u5783\u573e", "Trash"],
+  ["\u6728\u6750\u539f\u6728", "Wood Log"],
+  ["\u6d46\u679c\u704c\u6728", "Berry Bush"],
+  ["\u5ca9\u77f3", "Rock"],
+  ["\u74f6\u76d6", "Bottle Cap"],
+  ["\u6839\u830e\u4f5c\u7269", "Root Crop"],
+  ["\u82a6\u82c7", "Reeds"],
+  ["\u82b1\u74e3", "Petals"],
+  ["\u82b1\u56ed\u5c0f\u77ee\u4eba", "Garden Gnome"],
+  ["\u7ed8\u753b\u4f5c\u54c1", "Painting"],
+  ["\u5173\u952e\u7269\u54c1", "Key Item"],
+  ["ARC \u5feb\u9012\u5458", "ARC Courier"],
+  ["ARC \u6218\u5229\u54c1", "ARC Loot"],
+  ["ARC\u5feb\u9012\u5458", "ARC Courier"],
+  ["\u4e2d\u7b49ARC", "Medium ARC"],
+  ["\u4e2d\u7b49\u65b9\u821f", "Medium ARC"],
+  ["\u4ed9\u4eba\u638c\u679c", "Prickly Pear"],
+  ["\u5316\u80a5", "Fertilizer"],
+  ["\u5730\u94c1\u7ad9", "Metro Station"],
+  ["\u5927\u578b\u65b9\u821f", "Large ARC"],
+  ["\u5929\u7ebf", "Antenna"],
+  ["\u5f00\u91c7\u70b9", "Mining Point"],
+  ["\u5f27\u5149\u4fe1\u4f7f", "ARC Courier"],
+  ["\u5f27\u5149\u63a2\u6d4b\u5668", "ARC Probe"],
+  ["\u5f27\u5f62", "ARC Zones"],
+  ["\u5f27\u5f62\u533a", "ARC Zones"],
+  ["\u6218\u5229\u54c1\u5bb9\u5668", "Loot Container"],
+  ["\u6309\u94ae", "Button"],
+  ["\u63a0\u593a\u8005\u5b9d\u7bb1", "Raider Cache"],
+  ["\u63a0\u593a\u8005\u8231\u53e3", "Raider Hatch"],
+  ["\u63a0\u593a\u8005\u8231\u95e8", "Raider Hatch"],
+  ["\u63d0\u53d6", "Extraction"],
+  ["\u63d0\u53d6\u533a", "Extraction Zone"],
+  ["\u63d0\u53d6\u70b9", "Extraction Point"],
+  ["\u666f\u70b9", "Points of Interest"],
+  ["\u673a\u5668\u4eba", "Robot"],
+  ["\u67e0\u6aac", "Lemon"],
+  ["\u6a44\u6984", "Olives"],
+  ["\u6bdb\u854a\u82b1", "Mullein"],
+  ["\u71c3\u6599\u7535\u6c60", "Fuel Cell"],
+  ["\u73a9\u5bb6\u91cd\u751f\u70b9", "Player Spawn"],
+  ["\u7a81\u88ad\u8005\u8231\u53e3", "Raider Hatch"],
+  ["\u91c7\u6398\u573a", "Quarry"],
+  ["\u91c7\u6398\u70b9", "Quarry"],
+  ["\u91ce\u5916\u8865\u7ed9\u7ad9", "Field Supply Station"],
+  ["\u9501\u5b9a\u7684\u95e8", "Locked Door"],
+  ["\u9690\u85cf\u63a9\u4f53\u5165\u53e3", "Hidden Bunker Entrance"],
+  ["\u91d1\u5408\u6b22\u6811", "Acacia Tree"],
+  ["\u739b\u7459", "Agate"],
+  ["\u7d2b\u82b1\u82dc\u84ff", "Purple Alfalfa"],
+  ["\u94dd\u5c51", "Aluminum Scrap"],
+  ["\u94dd", "Aluminum"],
+  ["\u52a8\u7269\u9aa8\u9abc", "Animal Bones"],
+  ["\u725b\u6cb9\u679c", "Avocado"],
+  ["\u9cc4\u68a8", "Avocado"],
+  ["\u9e1f\u5de2", "Bird Nest"],
+  ["\u82e6\u8c46", "Bitter Bean"],
+  ["\u732b\u987b", "Cat's Whiskers"],
+  ["\u9676\u74f7\u788e\u7247", "Ceramic Scrap"],
+  ["\u9676\u74f7", "Ceramic"],
+  ["\u8089\u82c1\u84c9", "Cistanche"],
+  ["\u94dc\u5c51", "Copper Scrap"],
+  ["\u94dc", "Copper"],
+  ["\u9f99\u8840\u6811", "Dragon Blood Tree"],
+  ["\u5e72\u71e5\u76d2\u6811", "Dry Boxwood"],
+  ["\u5e72\u76d2\u6811", "Dry Boxwood"],
+  ["\u654c\u4eba", "Enemies"],
+  ["\u7ea4\u7ef4\u788e\u7247", "Fiber Scrap"],
+  ["\u7ea4\u7ef4", "Fiber"],
+  ["\u9ec4\u91d1", "Gold"],
+  ["\u91d1", "Gold"],
+  ["\u82b1\u5c97\u5ca9", "Granite"],
+  ["\u786c\u77f3", "Hard Stone"],
+  ["\u786c\u5ca9\u77f3", "Hard Stone"],
+  ["\u5e7b\u5f71\u6811", "Phantom Tree"],
+  ["\u9752\u91d1\u77f3", "Lapis Lazuli"],
+  ["\u5927\u67af\u6728", "Large Deadwood"],
+  ["\u5927\u578b\u67af\u6728", "Large Deadwood"],
+  ["\u77f3\u7070\u77f3", "Limestone"],
+  ["\u6708\u957f\u77f3", "Moonstone"],
+  ["\u5c71\u8537\u8587", "Mountain Rose"],
+  ["\u5c71\u8109\u73ab\u7470", "Mountain Rose"],
+  ["\u666f\u5929\u79d1\u690d\u7269", "Sedum"],
+  ["\u86cb\u767d\u77f3", "Opal"],
+  ["\u725b\u81f3", "Oregano"],
+  ["\u8fa3\u6912", "Chili Pepper"],
+  ["\u5851\u6599\u788e\u7247", "Plastic Scrap"],
+  ["\u5851\u6599", "Plastic"],
+  ["\u8ff7\u8fed\u9999", "Rosemary"],
+  ["\u73ab\u7470\u77f3", "Rose Stone"],
+  ["\u73ab\u7470\u5ca9", "Rose Stone"],
+  ["\u6a61\u80f6\u5e9f\u6599", "Rubber Scrap"],
+  ["\u6a61\u80f6", "Rubber"],
+  ["\u829c\u83c1", "Turnip"],
+  ["\u874e\u72ee", "Manticore"],
+  ["\u8d1d\u7c7b\u8708\u86a3", "Shellipede"],
+  ["\u8d1d\u8708\u86a3", "Shellipede"],
+  ["\u5251\u9ebb\u6811", "Sisal Tree"],
+  ["\u5c16\u6676\u77f3", "Spinel"],
+  ["\u77f3\u5934\u5e9f\u6599", "Stone Scrap"],
+  ["\u77f3\u5934", "Stone"],
+  ["\u786b\u78fa", "Sulfur"],
+  ["\u949b\u91d1\u5c5e\u5e9f\u6599", "Titanium Scrap"],
+  ["\u949b", "Titanium"],
+  ["\u4ea1\u7075\u8349", "Undead Grass"],
+  ["\u4e0d\u6b7b\u8349", "Undead Grass"],
+  ["\u6728\u5934\u5e9f\u6599", "Wood Scrap"],
+  ["\u6728\u6750", "Wood"],
+  ["\u9ec4\u85b0\u8863\u8349", "Yellow Lavender"],
+  ["\u5b9d\u7bb1", "Treasure Chest"],
+  ["\u5f6d\u65af\u57fa", "Pensky"],
+  ["\u62f3\u51fb\u6770\u514b", "Boxing Jack"],
+  ["\u7279\u91cc\u76ae\u6069", "Tripion"],
+  ["\u8df3\u86a4", "Flea"],
+  ["\u874c\u86c7", "Viper"],
+  ["\u6d1b\u57fa\u6069\u7eb3\u7f57\u5c14", "Rockyenaroll"],
+  ["\u672b\u65e5\u8611\u83c7", "Doomshroom"],
+  ["\u4f4d\u7f6e", "Locations"],
+  ["\u5236\u4f5c", "Crafting"],
+  ["\u53ef\u6536\u96c6\u7269\u54c1", "Collectibles"],
+  ["\u9635\u8425\u4efb\u52a1", "Faction Quests"],
+  ["\u7269\u54c1", "Items"],
+  ["\u670d\u52a1", "Services"],
+  ["\u5546\u8d29", "Vendors"],
+  ["\u8ff7\u4f60\u6e38\u620f", "Minigames"],
+  ["\u6df1\u6e0a\u7269\u54c1", "Abyss Items"],
+  ["\u6536\u85cf\u54c1", "Collectibles"],
+  ["\u636e\u70b9", "Stronghold"],
+  ["\u949f", "Bell"],
+  ["\u9690\u85cf\u7a7a\u95f4", "Hidden Space"],
+  ["\u6df1\u6e0a\u5fbd\u7ae0", "Abyss Badge"],
+  ["\u6df1\u6e0a\u67a2\u7ebd", "Abyss Hub"],
+  ["\u6d1e\u7a74", "Cave"],
+  ["\u7070\u9b03\u795e\u6bbf", "Greymane Temple"],
+  ["\u5723\u6240", "Sanctuary"],
+  ["\u5c16\u5854", "Spire"],
+  ["\u5973\u5deb\u7684\u5de2\u7a74", "Witch's Lair"],
+  ["\u9996\u9886", "Boss"],
+  ["\u4e16\u754cBoss", "World Boss"],
+  ["\u795e\u79d8\u751f\u7269", "Mysterious Creature"],
+  ["\u9b54\u6cd5\u751f\u7269", "Magical Creature"],
+  ["\u52a8\u7269", "Animal"],
+  ["\u6df1\u6e0a\u654c\u4eba", "Abyss Enemy"],
+  ["\u7cbe\u82f1\u654c\u4eba", "Elite Enemy"],
+  ["\u4e3b\u7ebf\u4efb\u52a1", "Main Quest"],
+  ["\u6df1\u6e0a\u795e\u5668", "Abyss Artifact"],
+  ["\u5c01\u5370\u6df1\u6e0a\u795e\u5668", "Sealed Abyss Artifact"],
+  ["\u94c1\u7827", "Anvil"],
+  ["\u914d\u65b9", "Recipe"],
+  ["\u7bdd\u706b", "Campfire"],
+  ["\u88c5\u5907\u84dd\u56fe", "Equipment Blueprint"],
+  ["\u7802\u8f6e", "Grinding Wheel"],
+  ["\u7279\u6b8a\u70f9\u996a\u5de5\u5177", "Special Cooking Tool"],
+  ["\u77ff\u7269", "Minerals"],
+  ["\u8349\u836f", "Herbs"],
+  ["\u852c\u83dc", "Vegetables"],
+  ["\u6c34\u679c", "Fruit"],
+  ["\u8702\u871c", "Honey"],
+  ["\u6d77\u8349", "Seaweed"],
+  ["\u6606\u866b", "Insect"],
+  ["\u6b66\u5668", "Weapon"],
+  ["\u836f\u5242", "Potion"],
+  ["\u94a5\u5319", "Key"],
+  ["\u62a4\u7532", "Armor"],
+  ["\u5de5\u5177", "Tools"],
+  ["\u67d3\u6599", "Dye"],
+  ["\u914d\u9970", "Accessories"],
+  ["\u9605\u8bfb\u6750\u6599", "Reading Material"],
+  ["\u94f6\u884c", "Bank"],
+  ["\u516c\u544a\u677f", "Notice Board"],
+  ["\u94c1\u5320\u94fa", "Blacksmith"],
+  ["\u88c1\u7f1d", "Tailor"],
+  ["\u65c5\u5e97", "Inn"],
+  ["\u7814\u7a76\u6240", "Laboratory"],
+  ["\u4ea4\u6613\u4e2d\u5fc3", "Trading Center"],
+  ["\u9ed1\u5e02\u4ea4\u6613\u7ad9", "Black Market"],
+  ["\u8b66\u5bdf\u5c40", "Police Station"],
+  ["\u88c5\u5907\u5546\u5e97", "Equipment Shop"],
+  ["\u4f9b\u5e94\u5546\u5546\u5e97", "Vendor Shop"],
+  ["\u6742\u8d27\u5e97", "General Store"],
+  ["\u9493\u9c7c\u5546\u5e97", "Fishing Shop"],
+  ["\u795e\u79d8\u5546\u5e97", "Mystery Shop"],
+  ["\u9690\u85cf\u5165\u53e3", "Hidden Entrance"],
+  ["\u6280\u80fd", "Skill"],
+  ["\u85cf\u5b9d\u56fe", "Treasure Map"],
+  ["\u8bb0\u5fc6\u788e\u7247", "Memory Fragment"],
+  ["\u4fdd\u9669\u7bb1", "Safe"],
+  ["\u5750\u9a91", "Mount"],
+  ["\u5ba0\u7269", "Pet"],
+]);
+
+function translateText(value) {
+  const text = String(value ?? "").trim();
+  if (!text) return "";
+  if (englishTextMap.has(text)) return englishTextMap.get(text);
+  const countMatch = text.match(/^(.+?)\s*[xX]\s*(\d+)$/) || text.match(/^(.+?)\s+(\d+)x$/);
+  if (countMatch) {
+    const base = translateText(countMatch[1]);
+    if (base && !hasCjkText(base)) return base + " x" + countMatch[2];
+  }
+  return text;
 }
 
 function displayText(value, fallback = "Map Marker") {
-  const text = String(value ?? "").trim();
-  if (!text || isBrokenText(text)) return fallback;
+  const text = translateText(value);
+  if (!text || isBrokenText(text) || hasCjkText(text)) return fallback;
   return text;
+}
+
+function iconFallbackLabel(icon, fallback = "Map Marker") {
+  const text = String(icon || "").toLowerCase();
+  if (/castle/.test(text)) return "Stronghold";
+  if (/bell/.test(text)) return "Bell";
+  if (/marker/.test(text)) return "Landmark";
+  if (/dungeon|cave|archway/.test(text)) return "Hidden Area";
+  if (/monument|temple|crown|shield|bank/.test(text)) return "Monument";
+  if (/entertainment|spade|sun/.test(text)) return "Event";
+  if (/plate|pot|meat|food|lollipop|vegetable/.test(text)) return "Food";
+  if (/campfire/.test(text)) return "Campfire";
+  if (/sword|skull|robot|unicorn|wolf|cat|alien|horse|goat/.test(text)) return "Enemy";
+  if (/clipboard|book|blueprint|memory|map_search/.test(text)) return "Document";
+  if (/iron|hammer|tool|scissors|brush/.test(text)) return "Tool";
+  if (/medicine/.test(text)) return "Medicine";
+  if (/key|room-key|arrow-right-to-bracket/.test(text)) return "Key Item";
+  if (/apparel|rings|clothing|uniform/.test(text)) return "Equipment";
+  if (/shop|cart|sell|exchange|shopping/.test(text)) return "Shop";
+  if (/bed/.test(text)) return "Inn";
+  if (/science/.test(text)) return "Research";
+  if (/fence|tire|stable/.test(text)) return "Facility";
+  if (/fish/.test(text)) return "Fish";
+  if (/hand|bow-arrow|sim_card|arrow-alt-up/.test(text)) return "Activity";
+  if (/dog|pet/.test(text)) return "Pet";
+  if (/indeterminate_check_box/.test(text)) return "Safe";
+  if (/rocking-horse/.test(text)) return "Mount";
+  if (/tree/.test(text)) return "Tree";
+  if (/leaf|grass|plant|flower|wheat|mushroom/.test(text)) return "Plant";
+  if (/spa|gem|diamond|cube|hexagon|weight|bolt/.test(text)) return "Mineral";
+  if (/bug|tornado|boxing|chess|route|tooth|skull|bee|beetle|ant/.test(text)) return "Enemy";
+  if (/treasure|chest|gift|box|bottle|tire|bone|egg/.test(text)) return "Material";
+  if (/key|book|document|file/.test(text)) return "Collectible";
+  const iconName = text.split(":").pop();
+  const readable = iconName
+    .replace(/[_-]+/g, " ")
+    .replace(/\b\w/g, (letter) => letter.toUpperCase())
+    .trim();
+  return readable || fallback;
+}
+
+function markerTypeLabel(subcategory, fallback = "Marker Type") {
+  const text = translateText(subcategory?.title);
+  if (text && !isBrokenText(text) && !hasCjkText(text)) return text;
+  return iconFallbackLabel(subcategory?.icon, fallback);
+}
+
+function categoryLabel(category, fallback = "Category") {
+  const text = translateText(category?.title);
+  if (text && !isBrokenText(text) && !hasCjkText(text)) return text;
+  return fallback;
+}
+
+function compactCategoryKind(subcategory) {
+  const icon = String(subcategory?.icon || "").toLowerCase();
+  const label = markerTypeLabel(subcategory, "");
+  if (/treasure/.test(icon) || /collect|chest/i.test(label)) return "Collectibles";
+  if (/bug|tornado|boxing|chess|route|tooth|skull|bee|beetle|ant/.test(icon)) return "Enemies";
+  if (/tree/.test(icon)) return "Trees";
+  if (/leaf|grass|plant|flower|wheat|mushroom/.test(icon)) return "Plants";
+  if (/spa|gem|diamond|cube|hexagon|weight|bolt/.test(icon)) return "Minerals";
+  return "Materials";
+}
+
+function normalizeCategoryData(rawCategories, rawSubcategories) {
+  const categories = Array.isArray(rawCategories) ? rawCategories : [];
+  const subcategories = Array.isArray(rawSubcategories) ? rawSubcategories : [];
+  if (categories.length < 18) return { categories, subcategories };
+
+  const subCountByCategory = new Map();
+  subcategories.forEach((subcategory) => {
+    subCountByCategory.set(subcategory.categoryExternalId, (subCountByCategory.get(subcategory.categoryExternalId) || 0) + 1);
+  });
+  const singleItemCategories = categories.filter((category) => (subCountByCategory.get(category.externalId) || 0) <= 1).length;
+  if (singleItemCategories / categories.length < 0.72) return { categories, subcategories };
+
+  const colors = {
+    Collectibles: "#e4b84f",
+    Enemies: "#ef6a5b",
+    Trees: "#43b66f",
+    Plants: "#7bc96f",
+    Minerals: "#65a8ff",
+    Materials: "#a98cff",
+  };
+  const compactCategories = Object.entries(colors).map(([title, color]) => ({
+    externalId: `compact-${title.toLowerCase()}`,
+    title,
+    visibleByDefault: true,
+    color,
+  }));
+  const compactSubcategories = subcategories.map((subcategory) => {
+    const kind = compactCategoryKind(subcategory);
+    return {
+      ...subcategory,
+      categoryExternalId: `compact-${kind.toLowerCase()}`,
+    };
+  });
+  const used = new Set(compactSubcategories.map((subcategory) => subcategory.categoryExternalId));
+  return {
+    categories: compactCategories.filter((category) => used.has(category.externalId)),
+    subcategories: compactSubcategories,
+  };
+}
+
+function sanitizeRenderedText(root = document.body) {
+  if (!root) return;
+  const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
+    acceptNode(node) {
+      const parent = node.parentElement;
+      if (!parent || ["SCRIPT", "STYLE", "NOSCRIPT", "TEXTAREA"].includes(parent.tagName)) {
+        return NodeFilter.FILTER_REJECT;
+      }
+      const text = node.nodeValue || "";
+      return hasCjkText(text) || isBrokenText(text) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT;
+    },
+  });
+  const nodes = [];
+  while (walker.nextNode()) nodes.push(walker.currentNode);
+  nodes.forEach((node) => {
+    const text = node.nodeValue || "";
+    node.nodeValue = displayText(text, text.trim().length > 24 ? "Interactive map details" : "Map details");
+  });
 }
 
 function artGradient(seed = "") {
@@ -200,7 +582,7 @@ async function initOutboundList() {
             ${imagePath ? `<img src="${escapeHtml(imagePath)}" alt="${escapeHtml(map.name)} ${escapeHtml(title)} marker map" />` : ""}
           </div>
           <div class="map-card-body">
-            <h3>${escapeHtml(displayText(map.name, "Map"))} <span aria-hidden="true">?</span></h3>
+            <h3>${escapeHtml(displayText(map.name, "Map"))}</h3>
             <div class="map-card-meta">${escapeHtml(title)} marker map</div>
             <div class="capabilities">
               <span class="capability">Locations</span>
@@ -228,8 +610,12 @@ async function initOutboundDetail() {
     remoteTileSource = null;
   }
   const { metadata, features } = data;
-  const categories = Array.isArray(metadata.categories) ? metadata.categories : [];
-  const subcategories = Array.isArray(metadata.subcategories) ? metadata.subcategories : [];
+  const mapName = displayText(metadata.name, "Map");
+  const titleName = displayText(data.mapConfig?.titleName || metadata.titleName || root.dataset.titleName, "");
+  document.title = `${titleName ? `${titleName} ` : ""}${mapName} locations map - Interactive marker map`;
+  const normalizedMetadata = normalizeCategoryData(metadata.categories, metadata.subcategories);
+  const categories = normalizedMetadata.categories;
+  const subcategories = normalizedMetadata.subcategories;
   const categoryById = Object.fromEntries(categories.map((category) => [category.externalId, category]));
   const subcategoryById = Object.fromEntries(subcategories.map((subcategory) => [subcategory.externalId, subcategory]));
   const subcategoryCounts = new Map();
@@ -259,6 +645,9 @@ async function initOutboundDetail() {
   let panY = 0;
   let query = "";
   let selectedIndex = 0;
+  let currentMatches = [];
+  let mobileSearchOpen = false;
+  let mobileSelectionPinned = false;
   let dragStart = null;
   let drawToken = 0;
   let tileRedrawPending = false;
@@ -558,7 +947,55 @@ async function initOutboundDetail() {
 
   function markerLabel(feature) {
     const subcategory = subcategoryById[feature.properties.subcategoryExternalId];
-    return displayText(feature.properties.title, displayText(subcategory?.title, "Map Marker"));
+    return displayText(feature.properties.title, markerTypeLabel(subcategory, "Map Marker"));
+  }
+
+  function pinImageUrl(properties, size = 250) {
+    if (properties?.imageId) return `/pin-images/${encodeURIComponent(properties.imageId)}/${size}.webp`;
+    const imagePath = String(properties?.imagePath || "").trim();
+    if (!imagePath) return "";
+    const resolved = imagePath.replace("{size}", String(size));
+    return resolved.startsWith("http") ? resolved : `https://storage-cdn.wemod.com${resolved}`;
+  }
+
+  function pinVideoUrl(properties) {
+    const videoPath = String(properties?.videoPath || "").trim();
+    if (!videoPath) return "";
+    return videoPath.startsWith("http") ? videoPath : `https://storage-cdn.wemod.com${videoPath}`;
+  }
+
+  function mediaMarkup(feature) {
+    const label = markerLabel(feature);
+    const imageUrl = pinImageUrl(feature.properties);
+    const videoUrl = pinVideoUrl(feature.properties);
+    if (!imageUrl && !videoUrl) return "";
+    const image = imageUrl
+      ? `<img class="marker-media-image" src="${escapeHtml(imageUrl)}" alt="${escapeHtml(label)} location screenshot" loading="eager" decoding="async" />`
+      : "";
+    const video = videoUrl
+      ? `<video class="marker-media-video${imageUrl ? " is-fallback" : ""}" src="${escapeHtml(videoUrl)}" controls muted playsinline preload="metadata"${imageUrl ? " hidden" : ""}></video>`
+      : "";
+    return `<figure class="marker-media">${image}${video}</figure>`;
+  }
+
+  function wireDetailMediaFallback() {
+    const image = detail.querySelector(".marker-media-image");
+    if (!image) return;
+    image.addEventListener(
+      "error",
+      () => {
+        const figure = image.closest(".marker-media");
+        const video = figure?.querySelector(".marker-media-video");
+        image.remove();
+        if (video) {
+          video.hidden = false;
+          video.classList.remove("is-fallback");
+        } else {
+          figure?.remove();
+        }
+      },
+      { once: true },
+    );
   }
 
   function project([lng, lat]) {
@@ -774,7 +1211,7 @@ async function initOutboundDetail() {
             <button class="category-head" type="button" data-category="${category.externalId}" style="--dot: ${category.color}">
               <span class="filter-label">
                 <span class="category-caret" aria-hidden="true"></span>
-                <span>${escapeHtml(displayText(category.title, "Category"))}</span>
+                <span>${escapeHtml(categoryLabel(category, "Category"))}</span>
               </span>
               <span class="category-count">${count}</span>
             </button>
@@ -782,8 +1219,9 @@ async function initOutboundDetail() {
               .map(
                 (subcategory) => `
                   <button class="subcategory-row" type="button" data-subcategory="${subcategory.externalId}" style="--dot: ${category.color}">
+                    <span class="fake-checkbox" aria-hidden="true"></span>
                     <span class="subcategory-icon">${iconMarkup(subcategory)}</span>
-                    <span>${escapeHtml(displayText(subcategory.title, "Marker Type"))}</span>
+                    <span>${escapeHtml(markerTypeLabel(subcategory, "Marker Type"))}</span>
                     <span class="subcategory-count">${subcategoryCounts.get(subcategory.externalId) || 0}</span>
                   </button>
                 `,
@@ -848,8 +1286,8 @@ async function initOutboundDetail() {
     const text = [
       markerLabel(feature),
       displayText(feature.properties.description, ""),
-      displayText(subcategory?.title, ""),
-      displayText(category?.title, ""),
+      markerTypeLabel(subcategory, ""),
+      categoryLabel(category, ""),
     ]
       .join(" ")
       .toLowerCase();
@@ -884,6 +1322,7 @@ async function initOutboundDetail() {
     });
 
     markerCount.textContent = `${visible} / ${features.length} markers`;
+    currentMatches = matches;
     renderSearchResults(matches);
   }
 
@@ -897,17 +1336,38 @@ async function initOutboundDetail() {
 
   function renderSearchResults(matches) {
     if (!markerResults) return;
-    if (!query) {
+    const isMobile = window.matchMedia("(max-width: 640px)").matches;
+    const selectedFeature = features[selectedIndex];
+    const selectedSubcategory = subcategoryById[selectedFeature?.properties.subcategoryExternalId];
+    const selectedCategory = categoryById[selectedSubcategory?.categoryExternalId];
+    const showMobileList = isMobile && mobileSearchOpen;
+    const resultIndexes = showMobileList && !query ? matches.slice(0, 40) : matches.slice(0, 40);
+    const selectedCard =
+      showMobileList && mobileSelectionPinned && selectedFeature
+        ? `
+          <button class="marker-result is-selected mobile-selected-marker" type="button" data-marker-index="${selectedIndex}">
+            <span class="marker-result-icon" style="--dot: ${selectedCategory?.color || "#39e6a9"}">${iconMarkup(selectedSubcategory)}</span>
+            <span>
+              <strong>${escapeHtml(markerLabel(selectedFeature))}</strong>
+              <small>${escapeHtml(categoryLabel(selectedCategory, "Category"))} / ${escapeHtml(markerTypeLabel(selectedSubcategory, "Marker Type"))}</small>
+            </span>
+          </button>
+        `
+        : "";
+
+    if (!query && !showMobileList) {
       markerResults.innerHTML = '<p class="marker-results-hint">Search for markers by name or category.</p>';
       return;
     }
-    if (!matches.length) {
+    if (!resultIndexes.length) {
       markerResults.innerHTML = '<p class="marker-results-hint">No markers found. Try another search or enable more categories.</p>';
       return;
     }
 
-    markerResults.innerHTML = matches
-      .slice(0, 40)
+    markerResults.innerHTML =
+      selectedCard +
+      resultIndexes
+        .filter((index) => !(showMobileList && index === selectedIndex))
       .map((index) => {
         const feature = features[index];
         const subcategory = subcategoryById[feature.properties.subcategoryExternalId];
@@ -917,7 +1377,7 @@ async function initOutboundDetail() {
             <span class="marker-result-icon" style="--dot: ${category?.color || "#39e6a9"}">${iconMarkup(subcategory)}</span>
             <span>
               <strong>${escapeHtml(markerLabel(feature))}</strong>
-              <small>${escapeHtml(displayText(category?.title, "Category"))} / ${escapeHtml(displayText(subcategory?.title, "Marker Type"))}</small>
+              <small>${escapeHtml(categoryLabel(category, "Category"))} / ${escapeHtml(markerTypeLabel(subcategory, "Marker Type"))}</small>
             </span>
           </button>
         `;
@@ -929,7 +1389,7 @@ async function initOutboundDetail() {
     });
   }
 
-  function selectMarker(index, shouldCenter = false) {
+  function selectMarker(index, shouldCenter = false, revealOnMobile = true) {
     const feature = features[index];
     if (!feature) return;
     selectedIndex = index;
@@ -939,10 +1399,18 @@ async function initOutboundDetail() {
       marker.classList.toggle("is-selected", markerIndex === selectedIndex);
     });
     detail.innerHTML = `
-      <span>${escapeHtml(displayText(category?.title, "Category"))} / ${escapeHtml(displayText(subcategory?.title, "Marker Type"))}</span>
+      <span>${escapeHtml(categoryLabel(category, "Category"))} / ${escapeHtml(markerTypeLabel(subcategory, "Marker Type"))}</span>
       <strong><span class="detail-icon" style="--dot: ${category?.color || "#39e6a9"}">${iconMarkup(subcategory)}</span>${escapeHtml(markerLabel(feature))}</strong>
+      ${mediaMarkup(feature)}
       <p>${escapeHtml(displayText(feature.properties.description, "No extra description is available for this marker.")).replace(/\n/g, "<br>")}</p>
     `;
+    wireDetailMediaFallback();
+    if (revealOnMobile && window.matchMedia("(max-width: 640px)").matches) {
+      mobileSearchOpen = true;
+      mobileSelectionPinned = true;
+      document.querySelector(".map-control-panel")?.classList.add("is-search-open");
+      renderSearchResults(currentMatches);
+    }
     if (shouldCenter) centerOnFeature(feature);
   }
 
@@ -984,7 +1452,14 @@ async function initOutboundDetail() {
   document.querySelector("#reset-map")?.addEventListener("click", resetMap);
   search?.addEventListener("input", () => {
     query = search.value.trim().toLowerCase();
+    mobileSearchOpen = true;
+    document.querySelector(".map-control-panel")?.classList.add("is-search-open");
     updateVisibility();
+  });
+  search?.addEventListener("focus", () => {
+    mobileSearchOpen = true;
+    document.querySelector(".map-control-panel")?.classList.add("is-search-open");
+    renderSearchResults(currentMatches);
   });
   document.querySelector("#show-all-markers")?.addEventListener("click", () => {
     subcategories.forEach((subcategory) => visibleSubcategories.add(subcategory.externalId));
@@ -1000,9 +1475,9 @@ async function initOutboundDetail() {
   renderMarkers();
   resetMap();
   updateVisibility();
-  selectMarker(0);
+  selectMarker(0, false, false);
 }
 
-initHome();
-initOutboundList();
-initOutboundDetail();
+Promise.all([initHome(), initOutboundList(), initOutboundDetail()])
+  .then(() => sanitizeRenderedText())
+  .catch(() => sanitizeRenderedText());
