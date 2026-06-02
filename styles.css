@@ -1,13 +1,14 @@
 :root {
-  --bg: #000;
-  --panel: #15171d;
-  --panel-soft: #202329;
-  --text: #f7f7f8;
-  --muted: rgba(255, 255, 255, 0.68);
-  --line: rgba(255, 255, 255, 0.12);
-  --green: #39e6a9;
-  --cyan: #33d6ff;
-  --shadow: 0 24px 80px rgba(0, 0, 0, 0.45);
+  --bg: #0b0d10;
+  --panel: #14171c;
+  --panel-soft: #1a1f26;
+  --text: #f4f5f3;
+  --muted: rgba(244, 245, 243, 0.66);
+  --line: rgba(244, 245, 243, 0.1);
+  --green: #70d49b;
+  --cyan: #81c6df;
+  --amber: #d7b06a;
+  --shadow: 0 18px 42px rgba(0, 0, 0, 0.32);
   font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", sans-serif;
 }
 
@@ -21,7 +22,9 @@ html {
 
 body {
   margin: 0;
-  background: var(--bg);
+  background:
+    linear-gradient(180deg, #101318 0%, var(--bg) 340px),
+    var(--bg);
   color: var(--text);
 }
 
@@ -43,10 +46,11 @@ input {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 24px;
-  padding: 24px clamp(20px, 4vw, 48px);
-  background: rgba(0, 0, 0, 0.64);
-  backdrop-filter: blur(20px);
+  gap: 18px;
+  padding: 16px clamp(20px, 4vw, 44px);
+  border-bottom: 1px solid var(--line);
+  background: rgba(11, 13, 16, 0.82);
+  backdrop-filter: blur(18px);
 }
 
 .brand {
@@ -57,7 +61,7 @@ input {
 
 .brand-logo {
   display: block;
-  width: 164px;
+  width: 144px;
   height: auto;
 }
 
@@ -99,14 +103,14 @@ input {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-height: 42px;
-  padding: 0 18px;
+  min-height: 38px;
+  padding: 0 16px;
   background: var(--green);
   color: #06110d;
 }
 
 .ghost-button {
-  min-height: 40px;
+  min-height: 38px;
   padding: 0 16px;
   background: rgba(255, 255, 255, 0.1);
   color: var(--text);
@@ -121,10 +125,10 @@ input {
 .hero {
   display: grid;
   grid-template-columns: minmax(0, 0.9fr) minmax(420px, 1.1fr);
-  gap: clamp(28px, 5vw, 72px);
+  gap: clamp(24px, 4vw, 56px);
   align-items: center;
-  min-height: 620px;
-  padding: 72px 0 48px;
+  min-height: 520px;
+  padding: 54px 0 42px;
 }
 
 .eyebrow {
@@ -146,16 +150,16 @@ p {
 
 h1 {
   max-width: 920px;
-  margin-bottom: 20px;
-  font-size: clamp(42px, 7vw, 80px);
-  line-height: 1;
+  margin-bottom: 16px;
+  font-size: clamp(34px, 4.8vw, 54px);
+  line-height: 1.08;
   letter-spacing: 0;
 }
 
 h2 {
   margin-bottom: 0;
-  font-size: clamp(28px, 4vw, 44px);
-  line-height: 1.08;
+  font-size: clamp(24px, 3vw, 34px);
+  line-height: 1.15;
 }
 
 .hero-text,
@@ -171,17 +175,17 @@ h2 {
 
 .hero-text {
   max-width: 660px;
-  margin-bottom: 28px;
-  font-size: 19px;
-  line-height: 1.75;
+  margin-bottom: 24px;
+  font-size: 16px;
+  line-height: 1.68;
 }
 
 .search-panel {
   max-width: 620px;
-  padding: 8px;
+  padding: 6px;
   border: 1px solid var(--line);
-  border-radius: 999px;
-  background: rgba(255, 255, 255, 0.08);
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.055);
 }
 
 .search-panel label {
@@ -200,10 +204,10 @@ h2 {
 .search-row input {
   min-width: 0;
   flex: 1;
-  height: 48px;
+  height: 44px;
   border: 0;
-  border-radius: 999px;
-  background: rgba(0, 0, 0, 0.42);
+  border-radius: 8px;
+  background: rgba(0, 0, 0, 0.34);
   color: var(--text);
   outline: none;
   padding: 0 18px;
@@ -212,7 +216,7 @@ h2 {
 .search-row button {
   min-width: 96px;
   border: 0;
-  border-radius: 999px;
+  border-radius: 8px;
   background: #fff;
   color: #08090d;
   font-weight: 900;
@@ -224,7 +228,7 @@ h2 {
   position: relative;
   overflow: hidden;
   border: 1px solid rgba(255, 255, 255, 0.18);
-  border-radius: 16px;
+  border-radius: 8px;
   box-shadow: var(--shadow);
 }
 
@@ -261,15 +265,15 @@ h2 {
 }
 
 .filter-button {
-  min-height: 44px;
+  min-height: 38px;
   padding: 0 18px;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.075);
   color: var(--muted);
 }
 
 .filter-button.is-active,
 .filter-button:hover {
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.14);
   color: var(--text);
 }
 
@@ -282,7 +286,7 @@ h2 {
 
 .stats {
   grid-template-columns: repeat(4, 1fr);
-  margin-bottom: 76px;
+  margin-bottom: 54px;
 }
 
 .stats article,
@@ -290,18 +294,18 @@ h2 {
 .tool-list article,
 .map-card {
   border: 1px solid var(--line);
-  border-radius: 16px;
-  background: rgba(255, 255, 255, 0.08);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.055);
 }
 
 .stats article {
   display: grid;
   gap: 6px;
-  padding: 24px;
+  padding: 18px;
 }
 
 .stats strong {
-  font-size: 34px;
+  font-size: 28px;
 }
 
 .section-heading {
@@ -324,14 +328,14 @@ h2 {
 
 .game-card:hover,
 .map-card:hover {
-  border-color: rgba(57, 230, 169, 0.5);
-  transform: translateY(-4px);
+  border-color: rgba(112, 212, 155, 0.48);
+  transform: translateY(-2px);
 }
 
 .game-art,
 .map-card-art {
   position: relative;
-  min-height: 150px;
+  min-height: 132px;
   background: var(--art, linear-gradient(135deg, #151b22, #234b55 54%, #40354d));
   background-position: center;
   background-size: cover;
@@ -367,15 +371,15 @@ h2 {
 .game-body,
 .map-card-body {
   display: grid;
-  gap: 12px;
-  padding: 16px;
+  gap: 10px;
+  padding: 14px;
 }
 
 .game-body h3,
 .map-card-body h3 {
   margin: 0;
-  min-height: 48px;
-  font-size: 18px;
+  min-height: 42px;
+  font-size: 16px;
   line-height: 1.35;
 }
 
@@ -406,7 +410,7 @@ h2 {
 .tool-panel,
 .tool-list article {
   border: 1px solid var(--line);
-  border-radius: 16px;
+  border-radius: 8px;
   background: rgba(255, 255, 255, 0.08);
 }
 
@@ -439,7 +443,7 @@ h2 {
 }
 
 .news-section {
-  margin-bottom: 72px;
+  margin-bottom: 56px;
 }
 
 .news-list {
@@ -476,21 +480,21 @@ h2 {
   align-items: center;
   justify-content: space-between;
   gap: 20px;
-  padding: 28px clamp(20px, 4vw, 56px);
+  padding: 24px clamp(20px, 4vw, 56px);
   border-top: 1px solid var(--line);
   color: var(--muted);
 }
 
 .static-map-detail {
   min-height: 100vh;
-  padding: 104px clamp(20px, 5vw, 72px) 56px;
-  background: #090b0f;
+  padding: 84px clamp(20px, 5vw, 72px) 48px;
+  background: #0b0d10;
 }
 
 .static-map-hero {
   display: grid;
   grid-template-columns: minmax(260px, 0.92fr) minmax(300px, 1fr);
-  gap: 28px;
+  gap: 24px;
   align-items: end;
   max-width: 1180px;
   margin: 0 auto 28px;
@@ -498,15 +502,15 @@ h2 {
 
 .static-map-hero img {
   width: 100%;
-  min-height: 320px;
+  min-height: 280px;
   object-fit: cover;
-  border-radius: 12px;
+  border-radius: 8px;
 }
 
 .static-map-hero h1 {
   margin: 0;
-  font-size: clamp(42px, 7vw, 86px);
-  line-height: 1;
+  font-size: clamp(34px, 5vw, 56px);
+  line-height: 1.08;
 }
 
 .static-map-hero p {
@@ -522,10 +526,10 @@ h2 {
 }
 
 .static-map-panels article {
-  padding: 22px;
+  padding: 18px;
   border: 1px solid var(--line);
-  border-radius: 12px;
-  background: rgba(255, 255, 255, 0.08);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.055);
 }
 
 .static-map-panels span {
@@ -555,8 +559,8 @@ h2 {
 
 .title-hero {
   display: grid;
-  min-height: 420px;
-  margin: 38px 0 44px;
+  min-height: 340px;
+  margin: 28px 0 38px;
 }
 
 .title-hero > img,
@@ -573,17 +577,18 @@ h2 {
   flex-direction: column;
   justify-content: end;
   align-items: flex-start;
-  padding: clamp(28px, 5vw, 56px);
+  padding: clamp(24px, 4vw, 42px);
 }
 
 .title-hero-copy h1 {
-  font-size: clamp(46px, 8vw, 92px);
+  font-size: clamp(34px, 5vw, 58px);
+  line-height: 1.08;
 }
 
 .title-hero-copy p {
   max-width: 680px;
-  font-size: 18px;
-  line-height: 1.75;
+  font-size: 16px;
+  line-height: 1.65;
 }
 
 .map-list-grid {
@@ -596,8 +601,8 @@ h2 {
 }
 
 .map-topbar {
-  height: 72px;
-  padding: 14px 20px;
+  height: 64px;
+  padding: 12px 18px;
   border-bottom: 1px solid var(--line);
 }
 
@@ -613,13 +618,13 @@ h2 {
 }
 
 .map-title-block strong {
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .interactive-layout {
   display: grid;
   grid-template-columns: 300px minmax(0, 1fr);
-  height: calc(100vh - 72px);
+  height: calc(100vh - 64px);
 }
 
 .map-control-panel {
@@ -630,7 +635,7 @@ h2 {
   overflow: auto;
   padding: 12px;
   border-right: 1px solid var(--line);
-  background: rgba(10, 11, 14, 0.96);
+  background: rgba(12, 14, 18, 0.96);
 }
 
 .map-search {
@@ -644,8 +649,8 @@ h2 {
 .map-search input {
   height: 38px;
   border: 0;
-  border-radius: 999px;
-  background: rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.075);
   color: var(--text);
   outline: none;
   padding: 0 16px;
@@ -667,7 +672,7 @@ h2 {
 
 .filter-actions button {
   min-height: 34px;
-  border-radius: 999px;
+  border-radius: 8px;
   font-size: 12px;
   font-weight: 900;
 }
@@ -691,7 +696,7 @@ h2 {
   align-items: center;
   min-height: 46px;
   padding: 8px;
-  border-radius: 10px;
+  border-radius: 8px;
   text-align: left;
 }
 
@@ -737,9 +742,9 @@ h2 {
 
 .category-group {
   border: 1px solid var(--line);
-  border-radius: 14px;
+  border-radius: 8px;
   overflow: hidden;
-  background: rgba(255, 255, 255, 0.06);
+  background: rgba(255, 255, 255, 0.045);
 }
 
 .category-head,
@@ -1854,7 +1859,7 @@ h2 {
   width: min(360px, calc(100% - 36px));
   padding: 18px;
   border: 1px solid var(--line);
-  border-radius: 16px;
+  border-radius: 8px;
   background: rgba(0, 0, 0, 0.66);
   backdrop-filter: blur(18px);
 }
@@ -1970,8 +1975,8 @@ h2 {
 
   h1 {
     margin-bottom: 14px;
-    font-size: 36px;
-    line-height: 1.04;
+    font-size: 30px;
+    line-height: 1.12;
   }
 
   h2 {
@@ -2061,7 +2066,7 @@ h2 {
   }
 
   .title-hero-copy h1 {
-    font-size: 38px;
+    font-size: 30px;
   }
 
   .map-topbar {
@@ -2102,7 +2107,7 @@ h2 {
     max-height: min(42dvh, 340px);
     padding: 12px;
     border: 1px solid var(--line);
-    border-radius: 16px;
+    border-radius: 10px;
     background: rgba(10, 11, 14, 0.92);
     box-shadow: 0 16px 48px rgba(0, 0, 0, 0.42);
     backdrop-filter: blur(18px);
@@ -2224,5 +2229,146 @@ h2 {
 
   .marker-detail {
     bottom: calc(min(45dvh, 360px) + 18px);
+  }
+}
+
+/* Visual refresh: quieter tool-site layout for every generated page. */
+.home-page,
+.title-page {
+  width: min(1240px, calc(100% - 40px));
+}
+
+.hero-copy,
+.title-hero-copy {
+  text-wrap: balance;
+}
+
+.eyebrow {
+  color: var(--amber);
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.download-button,
+.ghost-button,
+.filter-button,
+.search-row button,
+.filter-actions button {
+  border-radius: 8px;
+  font-weight: 750;
+}
+
+.download-button:hover,
+.search-row button:hover {
+  filter: brightness(1.04);
+}
+
+.section-heading {
+  align-items: flex-start;
+  margin-bottom: 18px;
+}
+
+.game-meta,
+.map-card-meta,
+.capability,
+.news-list a,
+.stats span {
+  font-size: 13px;
+}
+
+.game-card,
+.map-card,
+.stats article,
+.tool-panel,
+.tool-list article,
+.static-map-panels article {
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.035) inset;
+}
+
+.game-card:hover,
+.map-card:hover {
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.2);
+}
+
+.updated-badge {
+  color: var(--text);
+  background: rgba(11, 13, 16, 0.74);
+}
+
+.capability {
+  border-radius: 6px;
+  padding: 5px 8px;
+}
+
+.title-hero,
+.hero-media {
+  box-shadow: 0 18px 44px rgba(0, 0, 0, 0.28);
+}
+
+.title-hero::after,
+.game-art::after,
+.map-card-art::after {
+  background: linear-gradient(180deg, transparent 12%, rgba(0, 0, 0, 0.58) 100%);
+}
+
+.map-toolbar,
+.marker-detail {
+  border-radius: 8px;
+  background: rgba(11, 13, 16, 0.7);
+}
+
+.map-marker {
+  width: 28px;
+  height: 28px;
+  border-width: 1.5px;
+}
+
+@media (max-width: 980px) {
+  .home-page,
+  .title-page {
+    width: min(100% - 32px, 1240px);
+  }
+
+  .title-hero-copy h1,
+  h1 {
+    font-size: clamp(30px, 6vw, 44px);
+  }
+}
+
+@media (max-width: 640px) {
+  .home-page,
+  .title-page {
+    width: min(100% - 24px, 1240px);
+  }
+
+  .site-header {
+    position: sticky;
+  }
+
+  .hero {
+    padding: 24px 0 30px;
+  }
+
+  .title-hero {
+    min-height: 300px;
+  }
+
+  .title-hero-copy h1,
+  h1 {
+    font-size: 30px;
+    line-height: 1.12;
+  }
+
+  h2 {
+    font-size: 24px;
+  }
+
+  .stats {
+    margin-bottom: 36px;
+  }
+
+  .map-control-panel,
+  .marker-detail {
+    border-radius: 10px;
   }
 }
