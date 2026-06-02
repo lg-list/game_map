@@ -778,7 +778,7 @@ async function initOutboundDetail() {
                 <span class="category-dot"></span>
                 <span>${escapeHtml(displayText(category.title, "Category"))}</span>
               </span>
-              <span>${count}</span>
+              <span class="category-count">${count}</span>
             </button>
             ${subs
               .map(
@@ -788,7 +788,7 @@ async function initOutboundDetail() {
                     <span class="fake-checkbox" aria-hidden="true"></span>
                     <span class="subcategory-icon">${iconMarkup(subcategory)}</span>
                     <span>${escapeHtml(displayText(subcategory.title, "Marker Type"))}</span>
-                    <span>${subcategoryCounts.get(subcategory.externalId) || 0}</span>
+                    <span class="subcategory-count">${subcategoryCounts.get(subcategory.externalId) || 0}</span>
                   </button>
                 `,
               )
