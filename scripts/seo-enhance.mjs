@@ -7,6 +7,7 @@ const pagesRoot = join(root, "pages", "maps");
 const dataRoot = join(root, "data");
 const siteUrl = "http://wandergamemap.com";
 const siteName = "Wander Game Map";
+const assetVersion = "20260603-3eb5b4f";
 const defaultImage = `${siteUrl}/logo.png`;
 
 function escapeHtml(value) {
@@ -94,6 +95,12 @@ function removeSeoBlock(html) {
     .replace(/\s*<script\s+type="application\/ld\+json"\s+data-seo="true">[\s\S]*?<\/script>\s*/gi, "\n");
 }
 
+function versionAssets(html) {
+  return html
+    .replace(/href="\/styles\.css(?:\?v=[^"]*)?"/gi, `href="/styles.css?v=${assetVersion}"`)
+    .replace(/src="\/script\.js(?:\?v=[^"]*)?"/gi, `src="/script.js?v=${assetVersion}"`);
+}
+
 function setBasicHead(html, { title, description, keywords }) {
   let output = html;
   output = output.replace(/<title>[\s\S]*?<\/title>/i, `<title>${escapeHtml(title)}</title>`);
@@ -127,8 +134,8 @@ function injectSeo(html, seo) {
     `<meta name="twitter:image" content="${escapeHtml(seo.image)}" />`,
     `<script type="application/ld+json" data-seo="true">${jsonLd}</script>`,
   ].join("\n    ");
-  const output = setBasicHead(removeSeoBlock(html), seo);
-  return output.replace(/(\s*<link rel="icon")/i, `\n    ${tags}$1`);
+  const output = setBasicHead(removeSeoBlock(versionAssets(html)), seo);
+  return versionAssets(output.replace(/(\s*<link rel="icon")/i, `\n    ${tags}$1`));
 }
 
 function breadcrumb(url, game, gameSlug, map, mapSlug) {
