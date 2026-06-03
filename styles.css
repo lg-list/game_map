@@ -1998,6 +1998,16 @@ h2 {
   background: rgba(255, 255, 255, 0.06);
 }
 
+.marker-media--deferred,
+.marker-media-placeholder {
+  display: grid;
+  min-height: 76px;
+  place-items: center;
+  color: rgba(244, 245, 243, 0.58);
+  font-size: 12px;
+  font-weight: 700;
+}
+
 .marker-media-image,
 .marker-media-video {
   display: block;
@@ -2011,7 +2021,26 @@ h2 {
   background: #000;
 }
 
-.marker-media-video.is-fallback[hidden] {
+.marker-media-load-video {
+  display: grid;
+  width: 100%;
+  min-height: 118px;
+  place-items: center;
+  border: 0;
+  background: linear-gradient(135deg, rgba(112, 212, 155, 0.18), rgba(129, 198, 223, 0.12));
+  color: var(--text);
+  cursor: pointer;
+  font: inherit;
+  font-size: 12px;
+  font-weight: 850;
+}
+
+.marker-media-load-video:hover {
+  background: linear-gradient(135deg, rgba(112, 212, 155, 0.26), rgba(129, 198, 223, 0.18));
+}
+
+.marker-media-video.is-fallback[hidden],
+.marker-media-load-video.is-fallback[hidden] {
   display: none;
 }
 

@@ -7,7 +7,7 @@ const pagesRoot = join(root, "pages", "maps");
 const dataRoot = join(root, "data");
 const siteUrl = "http://wandergamemap.com";
 const siteName = "Wander Game Map";
-const assetVersion = "20260603-3eb5b4f";
+const assetVersion = "20260603-fastmap";
 const defaultImage = `${siteUrl}/logo.png`;
 
 function escapeHtml(value) {

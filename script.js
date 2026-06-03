@@ -651,6 +651,10 @@ async function initOutboundDetail() {
   let dragStart = null;
   let drawToken = 0;
   let tileRedrawPending = false;
+  let tileWarmupPending = false;
+  let activeTileLoads = 0;
+  const maxTileLoads = 8;
+  const tileQueue = [];
   const minScale = 0.16;
   const maxScale = 2.4;
 
@@ -964,38 +968,63 @@ async function initOutboundDetail() {
     return videoPath.startsWith("http") ? videoPath : `https://storage-cdn.wemod.com${videoPath}`;
   }
 
-  function mediaMarkup(feature) {
+  function mediaMarkup(feature, options = {}) {
     const label = markerLabel(feature);
     const imageUrl = pinImageUrl(feature.properties);
     const videoUrl = pinVideoUrl(feature.properties);
+    if (options.deferMedia && (imageUrl || videoUrl)) {
+      return `<figure class="marker-media marker-media--deferred"><div class="marker-media-placeholder">Media loads after you choose this marker.</div></figure>`;
+    }
     if (!imageUrl && !videoUrl) return "";
     const image = imageUrl
-      ? `<img class="marker-media-image" src="${escapeHtml(imageUrl)}" alt="${escapeHtml(label)} location screenshot" loading="eager" decoding="async" />`
+      ? `<img class="marker-media-image" src="${escapeHtml(imageUrl)}" alt="${escapeHtml(label)} location screenshot" loading="lazy" decoding="async" fetchpriority="low" />`
       : "";
     const video = videoUrl
-      ? `<video class="marker-media-video${imageUrl ? " is-fallback" : ""}" src="${escapeHtml(videoUrl)}" controls muted playsinline preload="metadata"${imageUrl ? " hidden" : ""}></video>`
+      ? `<button class="marker-media-load-video${imageUrl ? " is-fallback" : ""}" type="button" data-video-src="${escapeHtml(videoUrl)}"${imageUrl ? " hidden" : ""}>Load video</button>`
       : "";
     return `<figure class="marker-media">${image}${video}</figure>`;
   }
 
   function wireDetailMediaFallback() {
     const image = detail.querySelector(".marker-media-image");
-    if (!image) return;
-    image.addEventListener(
-      "error",
-      () => {
-        const figure = image.closest(".marker-media");
-        const video = figure?.querySelector(".marker-media-video");
-        image.remove();
-        if (video) {
-          video.hidden = false;
-          video.classList.remove("is-fallback");
-        } else {
-          figure?.remove();
-        }
-      },
-      { once: true },
-    );
+    const revealVideoButton = (figure) => {
+      const button = figure?.querySelector(".marker-media-load-video");
+      if (!button) return false;
+      button.hidden = false;
+      button.classList.remove("is-fallback");
+      return true;
+    };
+    if (image) {
+      image.addEventListener(
+        "error",
+        () => {
+          const figure = image.closest(".marker-media");
+          image.remove();
+          if (!revealVideoButton(figure)) figure?.remove();
+        },
+        { once: true },
+      );
+    }
+    detail.querySelectorAll(".marker-media-load-video").forEach((button) => {
+      button.addEventListener(
+        "click",
+        () => {
+          const videoUrl = button.dataset.videoSrc;
+          if (!videoUrl) return;
+          const video = document.createElement("video");
+          video.className = "marker-media-video";
+          video.controls = true;
+          video.muted = true;
+          video.playsInline = true;
+          video.preload = "none";
+          video.src = videoUrl;
+          button.replaceWith(video);
+          video.load();
+          video.play().catch(() => {});
+        },
+        { once: true },
+      );
+    });
   }
 
   function project([lng, lat]) {
@@ -1031,12 +1060,30 @@ async function initOutboundDetail() {
     }, 0);
   }
 
-  function loadTileAt(z, x, y) {
+  function processTileQueue() {
+    while (activeTileLoads < maxTileLoads && tileQueue.length) {
+      tileQueue.sort((a, b) => b.priority - a.priority);
+      const job = tileQueue.shift();
+      if (!job || job.record.loading || job.record.image || job.record.bitmap || job.record.failed) continue;
+      activeTileLoads += 1;
+      job.record.loading = true;
+      job.start(() => {
+        activeTileLoads = Math.max(0, activeTileLoads - 1);
+        processTileQueue();
+      });
+    }
+  }
+
+  function loadTileAt(z, x, y, priority = 0) {
     const count = 2 ** z;
     if (x < 0 || x >= count || y < 0 || y >= count) return null;
     const key = `${z}/${x}/${y}`;
-    if (tileCache.has(key)) return tileCache.get(key);
-    const record = { image: null, bitmap: null, failed: false };
+    if (tileCache.has(key)) {
+      const cached = tileCache.get(key);
+      cached.priority = Math.max(cached.priority || 0, priority);
+      return cached;
+    }
+    const record = { image: null, bitmap: null, failed: false, loading: false, priority };
     let sourceZ = z;
     let sourceX = x;
     let sourceY = y;
@@ -1055,59 +1102,70 @@ async function initOutboundDetail() {
 
     const markFailed = () => {
       record.failed = true;
+      record.loading = false;
       window.setTimeout(() => tileCache.delete(key), 5000);
     };
 
-    const loadWithImage = (imageSrc = src, onDone = () => {}) => {
+    const loadWithImage = (imageSrc = src, onDone = () => {}, done = () => {}) => {
       const image = new Image();
       image.decoding = "async";
+      image.fetchPriority = priority > 100 ? "high" : "low";
       image.onload = () => {
         record.image = image;
+        record.loading = false;
         onDone();
         requestTileRedraw();
+        done();
       };
       image.onerror = () => {
         onDone();
         markFailed();
+        done();
       };
       image.src = imageSrc;
     };
 
-    if (window.fetch) {
-      fetch(src)
-        .then((response) => {
-          if (!response.ok) throw new Error(`Tile ${response.status}`);
-          return response.blob();
-        })
-        .then((blob) => {
-          if (window.createImageBitmap) {
-            return createImageBitmap(blob).then((bitmap) => {
-              record.bitmap = bitmap;
-              requestTileRedraw();
-            });
-          }
-          const objectUrl = URL.createObjectURL(blob);
-          loadWithImage(objectUrl, () => URL.revokeObjectURL(objectUrl));
-        })
-        .catch(() => loadWithImage());
-    } else {
-      loadWithImage();
-    }
+    const start = (done) => {
+      if (window.fetch) {
+        fetch(src, { priority: priority > 100 ? "high" : "low" })
+          .then((response) => {
+            if (!response.ok) throw new Error(`Tile ${response.status}`);
+            return response.blob();
+          })
+          .then((blob) => {
+            if (window.createImageBitmap) {
+              return createImageBitmap(blob).then((bitmap) => {
+                record.bitmap = bitmap;
+                record.loading = false;
+                requestTileRedraw();
+                done();
+              });
+            }
+            const objectUrl = URL.createObjectURL(blob);
+            loadWithImage(objectUrl, () => URL.revokeObjectURL(objectUrl), done);
+          })
+          .catch(() => loadWithImage(src, () => {}, done));
+      } else {
+        loadWithImage(src, () => {}, done);
+      }
+    };
 
     tileCache.set(key, record);
+    tileQueue.push({ record, priority, start });
+    processTileQueue();
     return record;
   }
 
-  function loadTile(x, y) {
-    return loadTileAt(tileZoom, x, y);
+  function loadTile(x, y, priority = 0) {
+    return loadTileAt(tileZoom, x, y, priority);
   }
 
-  function drawLoadedAncestor(x, y, dx, dy, size) {
+  function drawLoadedAncestor(x, y, dx, dy, size, priority = 0) {
     for (let z = tileZoom - 1; z >= minTileZoom; z -= 1) {
       const factor = 2 ** (tileZoom - z);
       const parentX = Math.floor(x / factor);
       const parentY = Math.floor(y / factor);
-      const record = loadTileAt(z, parentX, parentY);
+      const record = loadTileAt(z, parentX, parentY, priority - (tileZoom - z) * 4);
       const tileImage = record?.bitmap || record?.image;
       if (!tileImage) continue;
 
@@ -1136,9 +1194,21 @@ async function initOutboundDetail() {
     let requested = 0;
     let failed = 0;
 
+    const centerTileX = (-panX / scale + width / scale / 2) / tileSize;
+    const centerTileY = (-panY / scale + height / scale / 2) / tileSize;
+    const visibleTiles = [];
     for (let y = minTileY; y <= maxTileY; y += 1) {
       for (let x = minTileX; x <= maxTileX; x += 1) {
-        const record = loadTile(x, y);
+        visibleTiles.push({ x, y, distance: Math.hypot(x - centerTileX, y - centerTileY) });
+      }
+    }
+    visibleTiles.sort((a, b) => a.distance - b.distance);
+
+    for (const tile of visibleTiles) {
+        const x = tile.x;
+        const y = tile.y;
+        const priority = Math.max(1, 220 - tile.distance * 24);
+        const record = loadTile(x, y, priority);
         if (!record) continue;
         requested += 1;
         if (record.failed) failed += 1;
@@ -1149,10 +1219,9 @@ async function initOutboundDetail() {
         if (tileImage) {
           loaded += 1;
           ctx.drawImage(tileImage, dx, dy, size, size);
-        } else if (drawLoadedAncestor(x, y, dx, dy, size)) {
+        } else if (drawLoadedAncestor(x, y, dx, dy, size, priority)) {
           loaded += 1;
         }
-      }
     }
 
     if (token !== drawToken) return;
@@ -1166,6 +1235,37 @@ async function initOutboundDetail() {
     surface.style.transform = `translate(${panX}px, ${panY}px) scale(${scale})`;
     surface.style.setProperty("--marker-scale", String(1 / scale));
     drawTiles();
+    scheduleTileWarmup();
+  }
+
+  function scheduleTileWarmup() {
+    if (tileWarmupPending) return;
+    tileWarmupPending = true;
+    const warm = () => {
+      tileWarmupPending = false;
+      const { width, height } = resizeCanvas();
+      const minTileX = Math.floor((-panX / scale) / tileSize) - 2;
+      const maxTileX = Math.ceil(((width - panX) / scale) / tileSize) + 2;
+      const minTileY = Math.floor((-panY / scale) / tileSize) - 2;
+      const maxTileY = Math.ceil(((height - panY) / scale) / tileSize) + 2;
+      const centerTileX = (-panX / scale + width / scale / 2) / tileSize;
+      const centerTileY = (-panY / scale + height / scale / 2) / tileSize;
+      const items = [];
+      for (let y = minTileY; y <= maxTileY; y += 1) {
+        for (let x = minTileX; x <= maxTileX; x += 1) {
+          items.push({ x, y, distance: Math.hypot(x - centerTileX, y - centerTileY) });
+        }
+      }
+      items
+        .sort((a, b) => a.distance - b.distance)
+        .slice(0, 48)
+        .forEach((tile) => loadTile(tile.x, tile.y, Math.max(1, 130 - tile.distance * 10)));
+    };
+    if ("requestIdleCallback" in window) {
+      window.requestIdleCallback(warm, { timeout: 400 });
+    } else {
+      window.setTimeout(warm, 120);
+    }
   }
 
   function zoomTo(nextScale, anchorX, anchorY) {
@@ -1389,7 +1489,7 @@ async function initOutboundDetail() {
     });
   }
 
-  function selectMarker(index, shouldCenter = false, revealOnMobile = true) {
+  function selectMarker(index, shouldCenter = false, revealOnMobile = true, options = {}) {
     const feature = features[index];
     if (!feature) return;
     selectedIndex = index;
@@ -1401,7 +1501,7 @@ async function initOutboundDetail() {
     detail.innerHTML = `
       <span>${escapeHtml(categoryLabel(category, "Category"))} / ${escapeHtml(markerTypeLabel(subcategory, "Marker Type"))}</span>
       <strong><span class="detail-icon" style="--dot: ${category?.color || "#39e6a9"}">${iconMarkup(subcategory)}</span>${escapeHtml(markerLabel(feature))}</strong>
-      ${mediaMarkup(feature)}
+      ${mediaMarkup(feature, options)}
       <p>${escapeHtml(displayText(feature.properties.description, "No extra description is available for this marker.")).replace(/\n/g, "<br>")}</p>
     `;
     wireDetailMediaFallback();
@@ -1475,7 +1575,7 @@ async function initOutboundDetail() {
   renderMarkers();
   resetMap();
   updateVisibility();
-  selectMarker(0, false, false);
+  selectMarker(0, false, false, { deferMedia: true });
 }
 
 Promise.all([initHome(), initOutboundList(), initOutboundDetail()])
