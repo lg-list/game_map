@@ -17,6 +17,7 @@ const copies = [
   ["logo.png", "logo.png"],
   ["robots.txt", "robots.txt"],
   ["sitemap.xml", "sitemap.xml"],
+  ["ads.txt", "ads.txt"],
   ["assets", "assets"],
   ["data", "data"],
   [join("pages", "maps"), "maps"],
