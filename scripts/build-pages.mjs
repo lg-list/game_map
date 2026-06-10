@@ -18,6 +18,7 @@ const copies = [
   ["robots.txt", "robots.txt"],
   ["sitemap.xml", "sitemap.xml"],
   ["ads.txt", "ads.txt"],
+  ["23f0b80aff9b40c89ea3205917ae6c01.txt", "23f0b80aff9b40c89ea3205917ae6c01.txt"],
   ["assets", "assets"],
   ["data", "data"],
   [join("pages", "maps"), "maps"],
