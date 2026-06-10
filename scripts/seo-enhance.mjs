@@ -8,6 +8,7 @@ const dataRoot = join(root, "data");
 const siteUrl = "http://wandergamemap.com";
 const siteName = "Wander Game Map";
 const assetVersion = "20260603-fastmap";
+const adsenseScript = '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3173901746543144" crossorigin="anonymous"></script>';
 const defaultImage = `${siteUrl}/logo.png`;
 
 function escapeHtml(value) {
@@ -95,6 +96,15 @@ function removeSeoBlock(html) {
     .replace(/\s*<script\s+type="application\/ld\+json"\s+data-seo="true">[\s\S]*?<\/script>\s*/gi, "\n");
 }
 
+function injectAdsense(html) {
+  const cleaned = html.replace(
+    /\s*<script\s+async\s+src="https:\/\/pagead2\.googlesyndication\.com\/pagead\/js\/adsbygoogle\.js\?client=ca-pub-3173901746543144"[^>]*><\/script>\s*/gi,
+    "\n",
+  );
+  if (/<\/head>/i.test(cleaned)) return cleaned.replace(/<\/head>/i, `    ${adsenseScript}\n  </head>`);
+  return cleaned;
+}
+
 function versionAssets(html) {
   return html
     .replace(/href="\/styles\.css(?:\?v=[^"]*)?"/gi, `href="/styles.css?v=${assetVersion}"`)
@@ -135,7 +145,7 @@ function injectSeo(html, seo) {
     `<script type="application/ld+json" data-seo="true">${jsonLd}</script>`,
   ].join("\n    ");
   const output = setBasicHead(removeSeoBlock(versionAssets(html)), seo);
-  return versionAssets(output.replace(/(\s*<link rel="icon")/i, `\n    ${tags}$1`));
+  return injectAdsense(versionAssets(output.replace(/(\s*<link rel="icon")/i, `\n    ${tags}$1`)));
 }
 
 function breadcrumb(url, game, gameSlug, map, mapSlug) {
