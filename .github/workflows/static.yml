@@ -44,3 +44,11 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+      - name: Notify IndexNow
+        continue-on-error: true
+        run: |
+          for attempt in 1 2 3 4 5; do
+            node scripts/submit-indexnow.mjs && exit 0
+            sleep 15
+          done
+          exit 1
