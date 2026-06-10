@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://wandergamemap.com/sitemap.xml
+Sitemap: https://wandergamemap.com/sitemap.xml

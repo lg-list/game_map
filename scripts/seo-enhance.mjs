@@ -5,7 +5,7 @@ import { fileURLToPath } from "node:url";
 const root = fileURLToPath(new URL("..", import.meta.url));
 const pagesRoot = join(root, "pages", "maps");
 const dataRoot = join(root, "data");
-const siteUrl = "http://wandergamemap.com";
+const siteUrl = "https://wandergamemap.com";
 const siteName = "Wander Game Map";
 const assetVersion = "20260603-fastmap";
 const adsenseScript = '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3173901746543144" crossorigin="anonymous"></script>';
