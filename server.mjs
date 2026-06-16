@@ -81,6 +81,20 @@ const tileSources = {
   },
 };
 
+async function send404(response) {
+  try {
+    const body = await readFile(join(root, "404.html"));
+    response.writeHead(404, {
+      "Content-Type": "text/html; charset=utf-8",
+      "Cache-Control": "no-store",
+    });
+    response.end(body);
+  } catch {
+    response.writeHead(404, { "Content-Type": "text/plain; charset=utf-8" });
+    response.end("Not found");
+  }
+}
+
 let dynamicTileSources = null;
 
 async function getTileSources() {
@@ -234,10 +248,8 @@ createServer(async (request, response) => {
       }
     }
 
-    response.writeHead(404);
-    response.end("Not found");
+    await send404(response);
   } catch {
-    response.writeHead(404);
-    response.end("Not found");
+    await send404(response);
   }
 }).listen(5173, "127.0.0.1");

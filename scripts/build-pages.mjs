@@ -11,6 +11,7 @@ await mkdir(out, { recursive: true });
 const copies = [
   ["CNAME", "CNAME"],
   ["index.html", "index.html"],
+  ["404.html", "404.html"],
   ["styles.css", "styles.css"],
   ["script.js", "script.js"],
   ["favicon.ico", "favicon.ico"],

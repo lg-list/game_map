@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Page Not Found | Wander Game Map</title>
+    <meta name="description" content="The requested Wander Game Map page could not be found. Search the map library or open a popular interactive game map." />
+    <meta name="robots" content="noindex, follow" />
+    <link rel="canonical" href="https://wandergamemap.com/404.html" />
+    <link rel="icon" href="/favicon.ico" sizes="32x32" type="image/x-icon" />
+    <link rel="stylesheet" href="/styles.css?v=20260611-seoguide" />
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3173901746543144" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="/" aria-label="Wander Game Map home"><img class="brand-logo" src="/logo.png" alt="Wander Game Map" /></a>
+      <nav class="main-nav" aria-label="Primary navigation">
+        <a href="/">Games</a>
+        <a href="/maps/outbound/">Outbound</a>
+        <a href="/maps/arc-raiders/">ARC Raiders</a>
+      </nav>
+      <div class="header-actions">
+        <a href="/" class="account-link">Home</a>
+        <a href="/#library" class="download-button">Map Library</a>
+      </div>
+    </header>
+
+    <main class="not-found-page">
+      <section class="not-found-hero" aria-labelledby="not-found-title">
+        <div class="not-found-copy">
+          <p class="eyebrow">404 error</p>
+          <h1 id="not-found-title">This marker is off the map</h1>
+          <p>The page may have moved, the URL may be mistyped, or the map has not been added yet. Search the library or jump into a popular interactive map.</p>
+          <form class="search-panel not-found-search" action="/" method="get">
+            <label for="not-found-query">Search maps</label>
+            <div class="search-row">
+              <input id="not-found-query" name="q" type="search" placeholder="Search by game or map name" autocomplete="off" />
+              <button type="submit">Search</button>
+            </div>
+          </form>
+          <div class="not-found-actions">
+            <a class="download-button" href="/">Open map library</a>
+            <button class="ghost-button" type="button" id="go-back-button">Go back</button>
+          </div>
+        </div>
+        <div class="not-found-panel" aria-label="Popular map shortcuts">
+          <p class="eyebrow">Popular maps</p>
+          <div class="not-found-links">
+            <a href="/maps/arc-raiders/dam-batlegrounds/"><strong>ARC Raiders</strong><span>Dam Batlegrounds</span></a>
+            <a href="/maps/outbound/the-outdoors/"><strong>Outbound</strong><span>The Outdoors</span></a>
+            <a href="/maps/subnautica-2/proteus/"><strong>Subnautica 2</strong><span>Proteus</span></a>
+            <a href="/maps/my-time-at-sandrock/eufaula-desert/"><strong>My Time at Sandrock</strong><span>Eufaula Desert</span></a>
+            <a href="/maps/red-dead-redemption-2/red-dead-redemption-2/"><strong>Red Dead Redemption 2</strong><span>World map</span></a>
+            <a href="/maps/tomb-raider/yamatai/"><strong>Tomb Raider</strong><span>Yamatai</span></a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script>
+      const backButton = document.getElementById("go-back-button");
+      backButton?.addEventListener("click", () => {
+        if (history.length > 1) {
+          history.back();
+        } else {
+          location.href = "/";
+        }
+      });
+    </script>
+  </body>
+</html>
