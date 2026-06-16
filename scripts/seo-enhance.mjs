@@ -7,7 +7,7 @@ const pagesRoot = join(root, "pages", "maps");
 const dataRoot = join(root, "data");
 const siteUrl = "https://wandergamemap.com";
 const siteName = "Wander Game Map";
-const assetVersion = "20260603-fastmap";
+const assetVersion = "20260611-seoguide";
 const adsenseScript = '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3173901746543144" crossorigin="anonymous"></script>';
 const defaultImage = `${siteUrl}/logo.png`;
 
@@ -86,6 +86,209 @@ function topCategories(mapData) {
   const names = categories.map((category) => cleanText(category.title || category.name)).filter(Boolean);
   const useful = [...new Set(names.filter((name) => !/^(category|misc|other)$/i.test(name)))].slice(0, 4);
   return useful.length ? useful : ["locations", "resources", "collectibles", "loot"];
+}
+
+function safeLabel(value, fallback = "") {
+  const text = cleanText(value);
+  if (!text || /[?]{2,}/.test(text) || text.length > 48) return fallback;
+  return text;
+}
+
+function iconLabel(icon, fallback = "Map Marker") {
+  const value = String(icon || "").toLowerCase();
+  if (/campfire/.test(value)) return "Campfire";
+  if (/tower|antenna|broadcast/.test(value)) return "Signal Tower";
+  if (/bridge/.test(value)) return "Bridge";
+  if (/water|well/.test(value)) return "Water";
+  if (/chest|box|crate|cache|gift/.test(value)) return "Loot Container";
+  if (/key/.test(value)) return "Key Item";
+  if (/book|document|file|memory|blueprint/.test(value)) return "Document";
+  if (/shop|cart|vendor/.test(value)) return "Vendor";
+  if (/skull|sword|enemy|robot|wolf|boss/.test(value)) return "Enemy";
+  if (/tree|wood|log/.test(value)) return "Wood";
+  if (/flower|plant|leaf|grass|mushroom|carrot/.test(value)) return "Plant";
+  if (/gem|diamond|rock|stone|mineral|pick-axe/.test(value)) return "Mineral";
+  if (/food|berry|fruit|meat/.test(value)) return "Food";
+  if (/marker|landmark|archway|house|building/.test(value)) return "Point of Interest";
+  return fallback;
+}
+
+function markerTypes(mapData, limit = 10) {
+  const subcategories = mapData?.metadata?.subcategories || mapData?.subcategories || [];
+  const features = Array.isArray(mapData?.features) ? mapData.features : [];
+  const counts = new Map();
+  features.forEach((feature) => {
+    const id = feature?.properties?.subcategoryExternalId || feature?.subcategoryExternalId;
+    if (id) counts.set(id, (counts.get(id) || 0) + 1);
+  });
+  const used = new Set();
+  return subcategories
+    .map((subcategory) => {
+      const label = safeLabel(subcategory.title, iconLabel(subcategory.icon));
+      return { label, count: counts.get(subcategory.externalId) || 0 };
+    })
+    .filter(({ label }) => label && !used.has(label) && used.add(label))
+    .sort((a, b) => b.count - a.count || a.label.localeCompare(b.label))
+    .slice(0, limit);
+}
+
+function formatDate(value) {
+  const date = new Date(value || "");
+  if (Number.isNaN(date.getTime())) return "";
+  return new Intl.DateTimeFormat("en-US", {
+    timeZone: "UTC",
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+  }).format(date);
+}
+
+function removeGuideBlock(html) {
+  return html.replace(/\s*<!-- seo-guide:start -->[\s\S]*?<!-- seo-guide:end -->\s*/gi, "\n");
+}
+
+function injectGuide(html, guide) {
+  const cleaned = removeGuideBlock(html);
+  const block = `\n    <!-- seo-guide:start -->\n${guide}\n    <!-- seo-guide:end -->\n`;
+  return cleaned.replace(/(\s*<script\s+src="\/script\.js[^>]*><\/script>)/i, `${block}$1`);
+}
+
+function renderFaq(items) {
+  return items
+    .map(
+      ({ question, answer }) =>
+        `<details><summary>${escapeHtml(question)}</summary><p>${escapeHtml(answer)}</p></details>`,
+    )
+    .join("\n          ");
+}
+
+function detailGuide(gameData, mapData, gameSlug, mapSlug) {
+  const game = cleanText(gameData?.title) || titleCaseSlug(gameSlug);
+  const map = cleanText(mapData?.metadata?.name) || titleCaseSlug(mapSlug);
+  const markerCount = Number(mapData?.features?.length || mapData?.totalCollectibles || 0);
+  const types = markerTypes(mapData);
+  const mapEntry = (gameData?.maps || []).find((item) => item.slug === mapSlug);
+  const updated = formatDate(mapEntry?.updatedAt);
+  const siblingMaps = (gameData?.maps || []).filter((item) => item.slug !== mapSlug).slice(0, 6);
+  const leadingTypes = types.slice(0, 5).map((item) => item.label);
+  const typePhrase = leadingTypes.length ? leadingTypes.join(", ") : "locations, resources, loot, and collectibles";
+  const faq = [
+    {
+      question: `How many markers are on the ${game} ${map} map?`,
+      answer: markerCount
+        ? `This map currently includes ${markerCount.toLocaleString("en-US")} searchable markers. Marker totals can change as the map data is updated.`
+        : "The map contains searchable location markers organized by category and marker type.",
+    },
+    {
+      question: `What can I find on the ${map} map?`,
+      answer: `The available filters include ${typePhrase}. Use the category panel to show only the marker types relevant to your current route.`,
+    },
+    {
+      question: `How do I search the ${game} interactive map?`,
+      answer: "Enter a location or item name in the marker search field, select a result, and use the category checkboxes to reduce clutter around the selected area.",
+    },
+    {
+      question: "Does the map work on mobile?",
+      answer: "Yes. On smaller screens, tap the search field to open the marker list and filters, then tap a marker or search result to view its available details.",
+    },
+  ];
+  const typeItems = types.length
+    ? types
+        .map(
+          ({ label, count }) =>
+            `<li><strong>${escapeHtml(label)}</strong>${count ? `<span>${count.toLocaleString("en-US")} markers</span>` : ""}</li>`,
+        )
+        .join("")
+    : "<li><strong>Locations and resources</strong><span>Use the live filters above</span></li>";
+  const related = siblingMaps.length
+    ? siblingMaps
+        .map(
+          (item) =>
+            `<a href="/maps/${gameSlug}/${item.slug}/"><strong>${escapeHtml(item.name)}</strong><span>${Number(item.markerCount || 0).toLocaleString("en-US")} markers</span></a>`,
+        )
+        .join("")
+    : `<a href="/maps/${gameSlug}/"><strong>${escapeHtml(game)} map list</strong><span>Browse game map details</span></a>`;
+
+  return `    <section class="map-seo-content" aria-labelledby="map-guide-title">
+      <div class="map-guide-heading">
+        <p class="eyebrow">Interactive map guide</p>
+        <h1 id="map-guide-title">${escapeHtml(game)} ${escapeHtml(map)} map</h1>
+        <p>Use this interactive map to search ${markerCount ? `${markerCount.toLocaleString("en-US")} ` : ""}locations across ${escapeHtml(map)}. The marker filters cover ${escapeHtml(typePhrase)}, helping you plan a focused route without scanning every icon at once.</p>
+        ${updated ? `<p class="map-guide-updated">Map data last updated ${escapeHtml(updated)}.</p>` : ""}
+      </div>
+      <div class="map-guide-layout">
+        <article>
+          <h2>What you can find</h2>
+          <p>The list below reflects the marker types available in the live map data. Search for a specific name, or hide unrelated categories before zooming into the area you want to explore.</p>
+          <ul class="map-guide-types">${typeItems}</ul>
+        </article>
+        <article>
+          <h2>How to use this map</h2>
+          <ol class="map-guide-steps">
+            <li><strong>Search first.</strong> Enter an item, activity, or location name to jump directly to matching markers.</li>
+            <li><strong>Filter the view.</strong> Use Show all, Hide all, and individual checkboxes to keep the map readable.</li>
+            <li><strong>Inspect markers.</strong> Select a marker to view its title, description, image, or video when available.</li>
+            <li><strong>Reset your route.</strong> Use Reset to return to the default zoom and map position before starting a new search.</li>
+          </ol>
+        </article>
+      </div>
+      <section class="map-guide-faq" aria-labelledby="map-faq-title">
+        <h2 id="map-faq-title">${escapeHtml(game)} ${escapeHtml(map)} map FAQ</h2>
+        <div>${renderFaq(faq)}</div>
+      </section>
+      <nav class="related-map-links" aria-label="Related ${escapeHtml(game)} maps">
+        <div><p class="eyebrow">Keep exploring</p><h2>Related ${escapeHtml(game)} maps</h2></div>
+        <div class="related-map-grid">${related}</div>
+      </nav>
+    </section>`;
+}
+
+function listGuide(gameData, gameSlug) {
+  const game = cleanText(gameData?.title) || titleCaseSlug(gameSlug);
+  const maps = Array.isArray(gameData?.maps) ? gameData.maps : [];
+  const markerCount = maps.reduce((sum, map) => sum + Number(map.markerCount || 0), 0);
+  const links = maps
+    .map(
+      (map) =>
+        `<a href="/maps/${gameSlug}/${map.slug}/"><strong>${escapeHtml(map.name)}</strong><span>${Number(map.markerCount || 0).toLocaleString("en-US")} markers</span></a>`,
+    )
+    .join("");
+  return `    <section class="title-seo-content" aria-labelledby="game-map-guide-title">
+      <div>
+        <p class="eyebrow">Map directory</p>
+        <h2 id="game-map-guide-title">${escapeHtml(game)} interactive maps</h2>
+        <p>Explore ${maps.length || 1} ${escapeHtml(game)} map${maps.length === 1 ? "" : "s"} with ${markerCount.toLocaleString("en-US")} searchable markers. Open an area below to filter locations, resources, collectibles, loot, quests, and other marker types stored in that map's current dataset.</p>
+      </div>
+      <div class="related-map-grid">${links}</div>
+    </section>`;
+}
+
+async function homeGuide(games) {
+  const sections = [];
+  for (const game of games) {
+    const gameSlug = game.slug;
+    const gameData = (await readJson(join(dataRoot, dataName(gameSlug)))) || game;
+    const maps = Array.isArray(gameData?.maps) ? gameData.maps : [];
+    const mapLinks = maps
+      .map(
+        (map) =>
+          `<a href="/maps/${gameSlug}/${map.slug}/">${escapeHtml(map.name || titleCaseSlug(map.slug))}</a>`,
+      )
+      .join("");
+    sections.push(`<details>
+          <summary><a href="/maps/${gameSlug}/">${escapeHtml(cleanText(game.title) || titleCaseSlug(gameSlug))}</a><span>${Number(game.maps || maps.length || 1).toLocaleString("en-US")} map${Number(game.maps || maps.length || 1) === 1 ? "" : "s"}</span></summary>
+          <div>${mapLinks}</div>
+        </details>`);
+  }
+
+  return `    <section class="home-seo-content" aria-labelledby="complete-map-index-title">
+      <div>
+        <p class="eyebrow">Complete map index</p>
+        <h2 id="complete-map-index-title">Browse every interactive game map</h2>
+        <p>Use this crawlable directory to open every game and area map on Wander Game Map. Each map page includes searchable markers, filters, and route planning tools for resources, collectibles, quests, loot, points of interest, and other location data.</p>
+      </div>
+      <div class="complete-map-index">${sections.join("\n        ")}</div>
+    </section>`;
 }
 
 function removeSeoBlock(html) {
@@ -262,6 +465,26 @@ function detailSeo(gameData, mapData, gameSlug, mapSlug) {
   const url = absoluteUrl(`/maps/${gameSlug}/${mapSlug}/`);
   const mapEntry = (gameData?.maps || []).find((item) => item.slug === mapSlug);
   const image = imageUrl(mapEntry?.thumbnailUrl || gameData?.heroUrl || `/assets/images/games/${gameSlug}/hero.webp`);
+  const faq = [
+    {
+      "@type": "Question",
+      name: `How many markers are on the ${game} ${map} map?`,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: markerCount
+          ? `The interactive map currently includes ${markerCount.toLocaleString("en-US")} searchable markers.`
+          : "The interactive map contains searchable markers organized by category.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: `How do I search the ${game} ${map} map?`,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Use the marker search field, category checkboxes, and map zoom controls to find and inspect locations.",
+      },
+    },
+  ];
   return {
     title,
     description,
@@ -288,6 +511,12 @@ function detailSeo(gameData, mapData, gameSlug, mapSlug) {
           description: `${markerCount.toLocaleString("en-US")} searchable ${game} ${map} map markers.`,
           keywords: categories,
         },
+        ...(mapEntry?.updatedAt ? { dateModified: mapEntry.updatedAt } : {}),
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: faq,
       },
       breadcrumb(url, game, gameSlug, map, mapSlug),
     ],
@@ -298,7 +527,7 @@ async function enhanceHome() {
   const games = (await readJson(join(dataRoot, "site-games.json"))) || [];
   const path = join(root, "index.html");
   const html = await readFile(path, "utf8");
-  await writeFile(path, injectSeo(html, homeSeo(games)));
+  await writeFile(path, injectGuide(injectSeo(html, homeSeo(games)), await homeGuide(games)));
 }
 
 async function enhanceMapPages() {
@@ -310,7 +539,7 @@ async function enhanceMapPages() {
     const listPath = join(pagesRoot, gameSlug, "index.html");
     try {
       const html = await readFile(listPath, "utf8");
-      await writeFile(listPath, injectSeo(html, listSeo(gameData, gameSlug)));
+      await writeFile(listPath, injectGuide(injectSeo(html, listSeo(gameData, gameSlug)), listGuide(gameData, gameSlug)));
       urls.push({ loc: absoluteUrl(`/maps/${gameSlug}/`), priority: "0.8" });
       changed += 1;
     } catch {}
@@ -320,7 +549,13 @@ async function enhanceMapPages() {
       const detailPath = join(pagesRoot, gameSlug, mapSlug, "index.html");
       try {
         const html = await readFile(detailPath, "utf8");
-        await writeFile(detailPath, injectSeo(html, detailSeo(gameData, mapData, gameSlug, mapSlug)));
+        await writeFile(
+          detailPath,
+          injectGuide(
+            injectSeo(html, detailSeo(gameData, mapData, gameSlug, mapSlug)),
+            detailGuide(gameData, mapData, gameSlug, mapSlug),
+          ),
+        );
         urls.push({ loc: absoluteUrl(`/maps/${gameSlug}/${mapSlug}/`), priority: "0.7" });
         changed += 1;
       } catch {}
