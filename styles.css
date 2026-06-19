@@ -755,8 +755,114 @@ h2 {
 }
 
 .title-seo-content {
+  display: block;
   margin-top: 24px;
   padding-bottom: 84px;
+}
+
+.title-seo-content > div:first-child {
+  max-width: 780px;
+}
+
+.directory-facts {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1px;
+  margin: 34px 0 48px;
+  border: 1px solid var(--line);
+  background: var(--line);
+}
+
+.directory-facts > div {
+  display: grid;
+  gap: 5px;
+  padding: 22px;
+  background: var(--panel);
+}
+
+.directory-facts strong {
+  font-size: 24px;
+}
+
+.directory-facts span,
+.map-directory-entry p,
+.directory-method p,
+.dataset-snapshot p {
+  color: var(--muted);
+  line-height: 1.7;
+}
+
+.map-directory-list {
+  display: grid;
+  gap: 0;
+  border-top: 1px solid var(--line);
+}
+
+.map-directory-entry {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(300px, 0.7fr);
+  gap: 44px;
+  padding: 34px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.map-directory-entry h3 {
+  margin: 5px 0 10px;
+  font-size: 24px;
+}
+
+.map-directory-entry h3 a:hover {
+  color: var(--accent);
+}
+
+.map-directory-entry dl {
+  margin: 0;
+}
+
+.map-directory-entry dl > div {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 10px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.map-directory-entry dt {
+  color: var(--muted);
+}
+
+.map-directory-entry dd {
+  margin: 0;
+  text-align: right;
+}
+
+.directory-method,
+.dataset-snapshot {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 56px;
+  padding: 48px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.directory-method h2,
+.dataset-snapshot h2,
+.dataset-snapshot h3 {
+  margin: 0 0 12px;
+}
+
+.dataset-examples {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0 24px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.dataset-examples li {
+  padding: 9px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
 }
 
 .home-seo-content {
@@ -2705,9 +2811,16 @@ h2 {
   .map-guide-layout,
   .related-map-links,
   .title-seo-content,
-  .home-seo-content {
+  .home-seo-content,
+  .map-directory-entry,
+  .directory-method,
+  .dataset-snapshot {
     grid-template-columns: 1fr;
     gap: 30px;
+  }
+
+  .directory-facts {
+    grid-template-columns: 1fr;
   }
 
   .not-found-hero {

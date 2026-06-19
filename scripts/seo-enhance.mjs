@@ -7,7 +7,7 @@ const pagesRoot = join(root, "pages", "maps");
 const dataRoot = join(root, "data");
 const siteUrl = "https://wandergamemap.com";
 const siteName = "Wander Game Map";
-const assetVersion = "20260611-seoguide";
+const assetVersion = "20260620-content-quality";
 const adsenseScript = '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3173901746543144" crossorigin="anonymous"></script>';
 const defaultImage = `${siteUrl}/logo.png`;
 
@@ -132,6 +132,17 @@ function markerTypes(mapData, limit = 10) {
     .slice(0, limit);
 }
 
+function markerExamples(mapData, limit = 8) {
+  const features = Array.isArray(mapData?.features) ? mapData.features : [];
+  const used = new Set();
+  return features
+    .map((feature) => safeLabel(feature?.properties?.title, ""))
+    .filter((label) => /[A-Za-z]{3}/.test(label))
+    .filter((label) => label && !/^(map marker|point of interest|location|unknown)$/i.test(label))
+    .filter((label) => !used.has(label.toLowerCase()) && used.add(label.toLowerCase()))
+    .slice(0, limit);
+}
+
 function formatDate(value) {
   const date = new Date(value || "");
   if (Number.isNaN(date.getTime())) return "";
@@ -171,7 +182,7 @@ function injectSiteFooter(html) {
   const cleaned = html.replace(/\s*<footer\s+class="site-footer">[\s\S]*?<\/footer>\s*/gi, "\n");
   const footer = `\n    ${siteFooter()}\n`;
   if (/<!-- seo-guide:start -->/i.test(cleaned)) {
-    return cleaned.replace(/(\s*<!-- seo-guide:start -->)/i, `${footer}$1`);
+    return cleaned.replace(/(\s*<!-- seo-guide:end -->)/i, `$1${footer}`);
   }
   return cleaned.replace(/(\s*<script\s+src="\/script\.js[^>]*><\/script>)/i, `${footer}$1`);
 }
@@ -190,6 +201,7 @@ function detailGuide(gameData, mapData, gameSlug, mapSlug) {
   const map = cleanText(mapData?.metadata?.name) || titleCaseSlug(mapSlug);
   const markerCount = Number(mapData?.features?.length || mapData?.totalCollectibles || 0);
   const types = markerTypes(mapData);
+  const examples = markerExamples(mapData);
   const mapEntry = (gameData?.maps || []).find((item) => item.slug === mapSlug);
   const updated = formatDate(mapEntry?.updatedAt);
   const siblingMaps = (gameData?.maps || []).filter((item) => item.slug !== mapSlug).slice(0, 6);
@@ -223,6 +235,9 @@ function detailGuide(gameData, mapData, gameSlug, mapSlug) {
         )
         .join("")
     : "<li><strong>Locations and resources</strong><span>Use the live filters above</span></li>";
+  const exampleItems = examples.length
+    ? examples.map((label) => `<li>${escapeHtml(label)}</li>`).join("")
+    : "<li>Open a marker on the map to view the labels available in this dataset.</li>";
   const related = siblingMaps.length
     ? siblingMaps
         .map(
@@ -255,6 +270,17 @@ function detailGuide(gameData, mapData, gameSlug, mapSlug) {
           </ol>
         </article>
       </div>
+      <section class="dataset-snapshot" aria-labelledby="dataset-snapshot-title">
+        <div>
+          <p class="eyebrow">Dataset snapshot</p>
+          <h2 id="dataset-snapshot-title">What is indexed on this map</h2>
+          <p>This page reads the current structured dataset directly. It contains ${markerCount.toLocaleString("en-US")} coordinate-based marker${markerCount === 1 ? "" : "s"}${types.length ? ` across ${types.length.toLocaleString("en-US")} leading filter types shown below` : " organized by the filters above"}. Counts describe the data available on this page; they are not estimates of game completion.</p>
+        </div>
+        <div>
+          <h3>Example searchable labels</h3>
+          <ul class="dataset-examples">${exampleItems}</ul>
+        </div>
+      </section>
       <section class="map-guide-faq" aria-labelledby="map-faq-title">
         <h2 id="map-faq-title">${escapeHtml(game)} ${escapeHtml(map)} map FAQ</h2>
         <div>${renderFaq(faq)}</div>
@@ -266,23 +292,62 @@ function detailGuide(gameData, mapData, gameSlug, mapSlug) {
     </section>`;
 }
 
-function listGuide(gameData, gameSlug) {
+async function listGuide(gameData, gameSlug) {
   const game = cleanText(gameData?.title) || titleCaseSlug(gameSlug);
   const maps = Array.isArray(gameData?.maps) ? gameData.maps : [];
   const markerCount = maps.reduce((sum, map) => sum + Number(map.markerCount || 0), 0);
-  const links = maps
-    .map(
-      (map) =>
-        `<a href="/maps/${gameSlug}/${map.slug}/"><strong>${escapeHtml(map.name)}</strong><span>${Number(map.markerCount || 0).toLocaleString("en-US")} markers</span></a>`,
-    )
-    .join("");
+  const mapSummaries = [];
+  for (const map of maps) {
+    const mapData = (await readJson(join(dataRoot, dataName(gameSlug, map.slug)))) || {};
+    const types = markerTypes(mapData, 6);
+    const examples = markerExamples(mapData, 5);
+    const typeText = types.length ? types.map((item) => item.label).join(", ") : "locations and points of interest";
+    const exampleText = examples.length ? examples.join(", ") : "labels available through the live marker search";
+    mapSummaries.push(`<article class="map-directory-entry">
+          <div>
+            <p class="eyebrow">${Number(map.markerCount || 0).toLocaleString("en-US")} searchable markers</p>
+            <h3><a href="/maps/${gameSlug}/${map.slug}/">${escapeHtml(map.name || titleCaseSlug(map.slug))}</a></h3>
+            <p>The current filters include ${escapeHtml(typeText)}. Searchable labels in this dataset include ${escapeHtml(exampleText)}.</p>
+          </div>
+          <dl>
+            <div><dt>Categories</dt><dd>${Number(map.categoryCount || 0).toLocaleString("en-US") || "Available on map"}</dd></div>
+            <div><dt>Marker types</dt><dd>${Number(map.subcategoryCount || types.length || 0).toLocaleString("en-US") || "Available on map"}</dd></div>
+            <div><dt>Data updated</dt><dd>${escapeHtml(formatDate(map.updatedAt) || "Current dataset")}</dd></div>
+          </dl>
+        </article>`);
+  }
+  const mapNames = maps.map((map) => cleanText(map.name) || titleCaseSlug(map.slug)).filter(Boolean);
+  const areaPhrase = mapNames.length ? mapNames.join(", ") : "the available game areas";
   return `    <section class="title-seo-content" aria-labelledby="game-map-guide-title">
       <div>
         <p class="eyebrow">Map directory</p>
         <h2 id="game-map-guide-title">${escapeHtml(game)} interactive maps</h2>
-        <p>Explore ${maps.length || 1} ${escapeHtml(game)} map${maps.length === 1 ? "" : "s"} with ${markerCount.toLocaleString("en-US")} searchable markers. Open an area below to filter locations, resources, collectibles, loot, quests, and other marker types stored in that map's current dataset.</p>
+        <p>This directory covers ${escapeHtml(areaPhrase)} for ${escapeHtml(game)}. Across ${maps.length || 1} interactive map${maps.length === 1 ? "" : "s"}, the current datasets contain ${markerCount.toLocaleString("en-US")} coordinate-based markers. Each area has its own search index and filters, so open the map that matches the part of the game you are exploring.</p>
       </div>
-      <div class="related-map-grid">${links}</div>
+      <div class="directory-facts" aria-label="${escapeHtml(game)} map directory facts">
+        <div><strong>${maps.length || 1}</strong><span>area map${maps.length === 1 ? "" : "s"}</span></div>
+        <div><strong>${markerCount.toLocaleString("en-US")}</strong><span>searchable markers</span></div>
+        <div><strong>${maps.reduce((sum, map) => sum + Number(map.subcategoryCount || 0), 0).toLocaleString("en-US")}</strong><span>marker types</span></div>
+      </div>
+      <div class="map-directory-list">${mapSummaries.join("")}</div>
+      <div class="directory-method">
+        <article>
+          <h2>Choose the right area</h2>
+          <p>Marker searches run inside one area at a time. Select an area above, then search for an exact location or item label. The category checkboxes can hide unrelated markers, while the map controls let you inspect dense groups without changing the size of marker icons.</p>
+        </article>
+        <article>
+          <h2>How this directory is maintained</h2>
+          <p>Totals are calculated from the structured map files used by the interactive pages. A count may change when markers are added, removed, renamed, or moved into a different category. Generated summaries on this page use only those recorded fields and do not claim unverified quests, rewards, or completion requirements.</p>
+        </article>
+      </div>
+      <section class="map-guide-faq" aria-labelledby="directory-faq-title">
+        <h2 id="directory-faq-title">${escapeHtml(game)} map directory FAQ</h2>
+        <div>${renderFaq([
+          { question: `How many ${game} maps are available?`, answer: `This directory currently links to ${maps.length || 1} interactive area map${maps.length === 1 ? "" : "s"}: ${areaPhrase}.` },
+          { question: `How many ${game} markers can I search?`, answer: `The listed maps currently contain ${markerCount.toLocaleString("en-US")} searchable markers in total. Each map page shows its own filters and current count.` },
+          { question: "Are marker totals completion percentages?", answer: "No. Marker totals describe records in the current map dataset. They do not represent a required checklist or a guaranteed measure of game completion." },
+        ])}</div>
+      </section>
     </section>`;
 }
 
@@ -491,7 +556,7 @@ function detailSeo(gameData, mapData, gameSlug, mapSlug) {
   const existing = new Set(categories.map((category) => category.toLowerCase()));
   const extras = ["quests", "loot", "resources", "collectibles"].filter((item) => !existing.has(item));
   const extraText = extras.length ? `, plus ${extras.join(", ")}` : "";
-  const description = sentence(`Use the ${game} ${map} interactive map to find ${categoryText.toLowerCase()}${extraText}, and other searchable location markers.${markerCount ? ` Includes ${markerCount.toLocaleString("en-US")} markers.` : ""}`, 175);
+  const description = sentence(`${game} ${map} interactive map with ${markerCount.toLocaleString("en-US")} searchable markers. Find ${categoryText.toLowerCase()}${extraText} using category filters and map search.`, 175);
   const url = absoluteUrl(`/maps/${gameSlug}/${mapSlug}/`);
   const mapEntry = (gameData?.maps || []).find((item) => item.slug === mapSlug);
   const image = imageUrl(mapEntry?.thumbnailUrl || gameData?.heroUrl || `/assets/images/games/${gameSlug}/hero.webp`);
@@ -576,7 +641,7 @@ async function enhanceMapPages() {
     const listPath = join(pagesRoot, gameSlug, "index.html");
     try {
       const html = await readFile(listPath, "utf8");
-      await writeFile(listPath, injectSiteFooter(injectGuide(injectSeo(html, listSeo(gameData, gameSlug)), listGuide(gameData, gameSlug))));
+      await writeFile(listPath, injectSiteFooter(injectGuide(injectSeo(html, listSeo(gameData, gameSlug)), await listGuide(gameData, gameSlug))));
       urls.push({ loc: absoluteUrl(`/maps/${gameSlug}/`), priority: "0.8" });
       changed += 1;
     } catch {}
