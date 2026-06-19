@@ -153,6 +153,29 @@ function injectGuide(html, guide) {
   return cleaned.replace(/(\s*<script\s+src="\/script\.js[^>]*><\/script>)/i, `${block}$1`);
 }
 
+function siteFooter() {
+  return `<footer class="site-footer">
+      <div class="footer-brand"><img class="brand-logo" src="/logo.png" alt="Wander Game Map" /></div>
+      <nav class="footer-links" aria-label="Footer navigation">
+        <a href="/">Maps</a>
+        <a href="/about/">About</a>
+        <a href="/editorial-policy/">Editorial Policy</a>
+        <a href="/contact/">Contact</a>
+        <a href="/privacy/">Privacy</a>
+        <a href="/terms/">Terms</a>
+      </nav>
+    </footer>`;
+}
+
+function injectSiteFooter(html) {
+  const cleaned = html.replace(/\s*<footer\s+class="site-footer">[\s\S]*?<\/footer>\s*/gi, "\n");
+  const footer = `\n    ${siteFooter()}\n`;
+  if (/<!-- seo-guide:start -->/i.test(cleaned)) {
+    return cleaned.replace(/(\s*<!-- seo-guide:start -->)/i, `${footer}$1`);
+  }
+  return cleaned.replace(/(\s*<script\s+src="\/script\.js[^>]*><\/script>)/i, `${footer}$1`);
+}
+
 function renderFaq(items) {
   return items
     .map(
@@ -314,6 +337,13 @@ function versionAssets(html) {
     .replace(/src="\/script\.js(?:\?v=[^"]*)?"/gi, `src="/script.js?v=${assetVersion}"`);
 }
 
+function normalizeVisibleMapCopy(html) {
+  return html.replace(
+    /(<article\s+class="marker-detail"[^>]*>[\s\S]*?<p>)[\s\S]*?(<\/p>\s*<\/article>)/i,
+    "$1Use search or category filters to find locations, loot, resources, collectibles, quests, and other markers on this interactive map.$2",
+  );
+}
+
 function setBasicHead(html, { title, description, keywords }) {
   let output = html;
   output = output.replace(/<title>[\s\S]*?<\/title>/i, `<title>${escapeHtml(title)}</title>`);
@@ -347,7 +377,7 @@ function injectSeo(html, seo) {
     `<meta name="twitter:image" content="${escapeHtml(seo.image)}" />`,
     `<script type="application/ld+json" data-seo="true">${jsonLd}</script>`,
   ].join("\n    ");
-  const output = setBasicHead(removeSeoBlock(versionAssets(html)), seo);
+  const output = setBasicHead(removeSeoBlock(versionAssets(normalizeVisibleMapCopy(html))), seo);
   return injectAdsense(versionAssets(output.replace(/(\s*<link rel="icon")/i, `\n    ${tags}$1`)));
 }
 
@@ -527,11 +557,18 @@ async function enhanceHome() {
   const games = (await readJson(join(dataRoot, "site-games.json"))) || [];
   const path = join(root, "index.html");
   const html = await readFile(path, "utf8");
-  await writeFile(path, injectGuide(injectSeo(html, homeSeo(games)), await homeGuide(games)));
+  await writeFile(path, injectSiteFooter(injectGuide(injectSeo(html, homeSeo(games)), await homeGuide(games))));
 }
 
 async function enhanceMapPages() {
-  const urls = [{ loc: `${siteUrl}/`, priority: "1.0" }];
+  const urls = [
+    { loc: `${siteUrl}/`, priority: "1.0" },
+    { loc: `${siteUrl}/about/`, priority: "0.5" },
+    { loc: `${siteUrl}/editorial-policy/`, priority: "0.5" },
+    { loc: `${siteUrl}/contact/`, priority: "0.4" },
+    { loc: `${siteUrl}/privacy/`, priority: "0.3" },
+    { loc: `${siteUrl}/terms/`, priority: "0.3" },
+  ];
   let changed = 0;
   const gameSlugs = await pageDirs(pagesRoot);
   for (const gameSlug of gameSlugs) {
@@ -539,7 +576,7 @@ async function enhanceMapPages() {
     const listPath = join(pagesRoot, gameSlug, "index.html");
     try {
       const html = await readFile(listPath, "utf8");
-      await writeFile(listPath, injectGuide(injectSeo(html, listSeo(gameData, gameSlug)), listGuide(gameData, gameSlug)));
+      await writeFile(listPath, injectSiteFooter(injectGuide(injectSeo(html, listSeo(gameData, gameSlug)), listGuide(gameData, gameSlug))));
       urls.push({ loc: absoluteUrl(`/maps/${gameSlug}/`), priority: "0.8" });
       changed += 1;
     } catch {}
@@ -551,9 +588,11 @@ async function enhanceMapPages() {
         const html = await readFile(detailPath, "utf8");
         await writeFile(
           detailPath,
-          injectGuide(
-            injectSeo(html, detailSeo(gameData, mapData, gameSlug, mapSlug)),
-            detailGuide(gameData, mapData, gameSlug, mapSlug),
+          injectSiteFooter(
+            injectGuide(
+              injectSeo(html, detailSeo(gameData, mapData, gameSlug, mapSlug)),
+              detailGuide(gameData, mapData, gameSlug, mapSlug),
+            ),
           ),
         );
         urls.push({ loc: absoluteUrl(`/maps/${gameSlug}/${mapSlug}/`), priority: "0.7" });
