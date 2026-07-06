@@ -320,6 +320,16 @@ function displayText(value, fallback = "Map Marker") {
   return text;
 }
 
+function displayDescription(value, fallback = "Additional marker notes are not available in English yet.") {
+  const text = String(value ?? "").trim();
+  if (!text || isBrokenText(text) || hasCjkText(text)) return fallback;
+  const cleaned = text
+    .replace(/\r\n/g, "\n")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+  return cleaned || fallback;
+}
+
 function iconFallbackLabel(icon, fallback = "Map Marker") {
   const text = String(icon || "").toLowerCase();
   if (/castle/.test(text)) return "Stronghold";
@@ -1385,7 +1395,7 @@ async function initOutboundDetail() {
     const category = categoryById[subcategory?.categoryExternalId];
     const text = [
       markerLabel(feature),
-      displayText(feature.properties.description, ""),
+      displayDescription(feature.properties.description, ""),
       markerTypeLabel(subcategory, ""),
       categoryLabel(category, ""),
     ]
@@ -1502,7 +1512,7 @@ async function initOutboundDetail() {
       <span>${escapeHtml(categoryLabel(category, "Category"))} / ${escapeHtml(markerTypeLabel(subcategory, "Marker Type"))}</span>
       <strong><span class="detail-icon" style="--dot: ${category?.color || "#39e6a9"}">${iconMarkup(subcategory)}</span>${escapeHtml(markerLabel(feature))}</strong>
       ${mediaMarkup(feature, options)}
-      <p>${escapeHtml(displayText(feature.properties.description, "No extra description is available for this marker.")).replace(/\n/g, "<br>")}</p>
+      <p>${escapeHtml(displayDescription(feature.properties.description, "No extra description is available for this marker.")).replace(/\n/g, "<br>")}</p>
     `;
     wireDetailMediaFallback();
     if (revealOnMobile && window.matchMedia("(max-width: 640px)").matches) {

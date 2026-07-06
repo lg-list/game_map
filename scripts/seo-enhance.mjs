@@ -171,6 +171,7 @@ function siteFooter() {
         <a href="/">Maps</a>
         <a href="/about/">About</a>
         <a href="/editorial-policy/">Editorial Policy</a>
+        <a href="/advertising-policy/">Advertising Policy</a>
         <a href="/contact/">Contact</a>
         <a href="/privacy/">Privacy</a>
         <a href="/terms/">Terms</a>
@@ -630,6 +631,7 @@ async function enhanceMapPages() {
     { loc: `${siteUrl}/`, priority: "1.0" },
     { loc: `${siteUrl}/about/`, priority: "0.5" },
     { loc: `${siteUrl}/editorial-policy/`, priority: "0.5" },
+    { loc: `${siteUrl}/advertising-policy/`, priority: "0.5" },
     { loc: `${siteUrl}/contact/`, priority: "0.4" },
     { loc: `${siteUrl}/privacy/`, priority: "0.3" },
     { loc: `${siteUrl}/terms/`, priority: "0.3" },

@@ -13,6 +13,7 @@ const copies = [
   ["index.html", "index.html"],
   ["404.html", "404.html"],
   ["about", "about"],
+  ["advertising-policy", "advertising-policy"],
   ["contact", "contact"],
   ["editorial-policy", "editorial-policy"],
   ["privacy", "privacy"],
