@@ -8,7 +8,7 @@ const dataRoot = join(root, "data");
 const siteUrl = "https://wandergamemap.com";
 const siteName = "Wander Game Map";
 const assetVersion = "20260620-content-quality";
-const adsenseScript = '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3173901746543144" crossorigin="anonymous"></script>';
+const adsenseScript = '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1607011220192909" crossorigin="anonymous"></script>';
 const defaultImage = `${siteUrl}/logo.png`;
 
 function escapeHtml(value) {
@@ -389,7 +389,7 @@ function removeSeoBlock(html) {
 
 function injectAdsense(html) {
   const cleaned = html.replace(
-    /\s*<script\s+async\s+src="https:\/\/pagead2\.googlesyndication\.com\/pagead\/js\/adsbygoogle\.js\?client=ca-pub-3173901746543144"[^>]*><\/script>\s*/gi,
+    /\s*<script\s+async\s+src="https:\/\/pagead2\.googlesyndication\.com\/pagead\/js\/adsbygoogle\.js\?client=ca-pub-\d+"[^>]*><\/script>\s*/gi,
     "\n",
   );
   if (/<\/head>/i.test(cleaned)) return cleaned.replace(/<\/head>/i, `    ${adsenseScript}\n  </head>`);
