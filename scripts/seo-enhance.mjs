@@ -45,7 +45,12 @@ function titleCaseSlug(slug) {
 function sentence(value, max = 158) {
   const text = cleanText(value);
   if (text.length <= max) return text;
-  return `${text.slice(0, max - 1).replace(/\s+\S*$/, "")}.`;
+  const shortened = text
+    .slice(0, max - 1)
+    .replace(/\s+\S*$/, "")
+    .replace(/[,\s;:]+$/, "")
+    .trim();
+  return `${shortened}.`;
 }
 
 function titleLimit(value, max = 68) {
@@ -186,6 +191,13 @@ function injectSiteFooter(html) {
     return cleaned.replace(/(\s*<!-- seo-guide:end -->)/i, `$1${footer}`);
   }
   return cleaned.replace(/(\s*<script\s+src="\/script\.js[^>]*><\/script>)/i, `${footer}$1`);
+}
+
+function normalizeSiteChrome(html) {
+  return html
+    .replace(/Game Map Hub/g, siteName)
+    .replace(/<a href="\/">Games<\/a>/g, '<a href="/maps/">Maps</a>')
+    .replace(/<a href="\/">Maps<\/a>/g, '<a href="/maps/">Maps</a>');
 }
 
 function renderFaq(items) {
@@ -443,14 +455,14 @@ function injectSeo(html, seo) {
     `<meta name="twitter:image" content="${escapeHtml(seo.image)}" />`,
     `<script type="application/ld+json" data-seo="true">${jsonLd}</script>`,
   ].join("\n    ");
-  const output = setBasicHead(removeSeoBlock(versionAssets(normalizeVisibleMapCopy(html))), seo);
+  const output = setBasicHead(removeSeoBlock(versionAssets(normalizeSiteChrome(normalizeVisibleMapCopy(html)))), seo);
   return injectAdsense(versionAssets(output.replace(/(\s*<link rel="icon")/i, `\n    ${tags}$1`)));
 }
 
 function breadcrumb(url, game, gameSlug, map, mapSlug) {
   const items = [
     { "@type": "ListItem", position: 1, name: "Home", item: `${siteUrl}/` },
-    { "@type": "ListItem", position: 2, name: "Maps", item: `${siteUrl}/#library` },
+    { "@type": "ListItem", position: 2, name: "Maps", item: `${siteUrl}/maps/` },
     { "@type": "ListItem", position: 3, name: game, item: absoluteUrl(`/maps/${gameSlug}/`) },
   ];
   if (map) items.push({ "@type": "ListItem", position: 4, name: map, item: absoluteUrl(`/maps/${gameSlug}/${mapSlug}/`) });
@@ -459,6 +471,125 @@ function breadcrumb(url, game, gameSlug, map, mapSlug) {
     "@type": "BreadcrumbList",
     itemListElement: items,
   };
+}
+
+function latestDate(values) {
+  const timestamps = values
+    .map((value) => new Date(value || "").getTime())
+    .filter((value) => Number.isFinite(value));
+  if (!timestamps.length) return "";
+  return new Date(Math.max(...timestamps)).toISOString().slice(0, 10);
+}
+
+function mapsIndexSeo(games) {
+  const mapCount = games.reduce((sum, game) => sum + Number(game.maps || 0), 0);
+  const markerCount = games.reduce((sum, game) => sum + Number(game.markerCount || 0), 0);
+  const description = `Browse the full Wander Game Map index with ${games.length.toLocaleString("en-US")} games, ${mapCount.toLocaleString("en-US")} area maps, and ${markerCount.toLocaleString("en-US")} searchable markers.`;
+  return {
+    title: "All Interactive Game Maps | Wander Game Map",
+    description,
+    keywords: "all game maps, interactive map index, game location maps, resource maps, collectible maps",
+    url: `${siteUrl}/maps/`,
+    image: defaultImage,
+    type: "website",
+    jsonLd: [
+      {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        name: "All Interactive Game Maps",
+        url: `${siteUrl}/maps/`,
+        description,
+        isPartOf: { "@type": "WebSite", name: siteName, url: `${siteUrl}/` },
+        mainEntity: {
+          "@type": "ItemList",
+          numberOfItems: games.length,
+          itemListElement: games.map((game, index) => ({
+            "@type": "ListItem",
+            position: index + 1,
+            name: `${cleanText(game.title) || titleCaseSlug(game.slug)} maps`,
+            url: absoluteUrl(`/maps/${game.slug}/`),
+          })),
+        },
+      },
+    ],
+  };
+}
+
+async function mapsIndexPage(games) {
+  const mapCount = games.reduce((sum, game) => sum + Number(game.maps || 0), 0);
+  const markerCount = games.reduce((sum, game) => sum + Number(game.markerCount || 0), 0);
+  const sections = [];
+  for (const game of games) {
+    const gameData = (await readJson(join(dataRoot, dataName(game.slug)))) || game;
+    const maps = Array.isArray(gameData.maps) ? gameData.maps : [];
+    const mapLinks = maps
+      .map(
+        (map) =>
+          `<a href="/maps/${game.slug}/${map.slug}/"><span>${escapeHtml(cleanText(map.name) || titleCaseSlug(map.slug))}</span><small>${Number(map.markerCount || 0).toLocaleString("en-US")} markers</small></a>`,
+      )
+      .join("");
+    sections.push(`<article class="map-index-entry">
+          <header>
+            <h2><a href="/maps/${game.slug}/">${escapeHtml(cleanText(game.title) || titleCaseSlug(game.slug))}</a></h2>
+            <p>${Number(game.maps || maps.length || 1).toLocaleString("en-US")} map${Number(game.maps || maps.length || 1) === 1 ? "" : "s"} · ${Number(game.markerCount || 0).toLocaleString("en-US")} markers</p>
+          </header>
+          <div>${mapLinks}</div>
+        </article>`);
+  }
+
+  const seo = mapsIndexSeo(games);
+  const jsonLd = JSON.stringify(seo.jsonLd, null, 2).replace(/</g, "\\u003c");
+  const html = `<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>${escapeHtml(seo.title)}</title>
+    <meta name="description" content="${escapeHtml(seo.description)}" />
+    <meta name="keywords" content="${escapeHtml(seo.keywords)}" />
+    <link rel="canonical" href="${seo.url}" />
+    <meta name="robots" content="index, follow, max-image-preview:large" />
+    <meta property="og:site_name" content="${siteName}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="${seo.url}" />
+    <meta property="og:title" content="${escapeHtml(seo.title)}" />
+    <meta property="og:description" content="${escapeHtml(seo.description)}" />
+    <meta property="og:image" content="${defaultImage}" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="${escapeHtml(seo.title)}" />
+    <meta name="twitter:description" content="${escapeHtml(seo.description)}" />
+    <meta name="twitter:image" content="${defaultImage}" />
+    <script type="application/ld+json" data-seo="true">${jsonLd}</script>
+    <link rel="icon" href="/favicon.ico" sizes="32x32" type="image/x-icon" />
+    <link rel="stylesheet" href="/styles.css?v=${assetVersion}" />
+    ${adsenseScript}
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="/" aria-label="Wander Game Map home"><img class="brand-logo" src="/logo.png" alt="Wander Game Map" /></a>
+      <nav class="main-nav" aria-label="Primary navigation"><a href="/maps/">Maps</a><a href="/about/">About</a><a href="/editorial-policy/">Editorial Policy</a><a href="/contact/">Contact</a></nav>
+      <div class="header-actions"><a class="download-button" href="/">Home</a></div>
+    </header>
+    <main class="info-page map-index-page">
+      <header class="info-hero">
+        <p class="eyebrow">Complete map index</p>
+        <h1>All interactive game maps</h1>
+        <p>Browse ${games.length.toLocaleString("en-US")} game directories, ${mapCount.toLocaleString("en-US")} area maps, and ${markerCount.toLocaleString("en-US")} searchable markers from one crawlable index page.</p>
+      </header>
+      <section class="map-index-summary" aria-label="Map index summary">
+        <div><strong>${games.length.toLocaleString("en-US")}</strong><span>games</span></div>
+        <div><strong>${mapCount.toLocaleString("en-US")}</strong><span>area maps</span></div>
+        <div><strong>${markerCount.toLocaleString("en-US")}</strong><span>searchable markers</span></div>
+      </section>
+      <section class="map-index-list" aria-label="All game map links">
+        ${sections.join("\n        ")}
+      </section>
+    </main>
+    ${siteFooter()}
+  </body>
+</html>
+`;
+  await writeFile(join(pagesRoot, "index.html"), html);
 }
 
 function homeSeo(games) {
@@ -621,14 +752,17 @@ function detailSeo(gameData, mapData, gameSlug, mapSlug) {
 
 async function enhanceHome() {
   const games = (await readJson(join(dataRoot, "site-games.json"))) || [];
+  await mapsIndexPage(games);
   const path = join(root, "index.html");
   const html = await readFile(path, "utf8");
   await writeFile(path, injectSiteFooter(injectGuide(injectSeo(html, homeSeo(games)), await homeGuide(games))));
 }
 
 async function enhanceMapPages() {
+  const games = (await readJson(join(dataRoot, "site-games.json"))) || [];
   const urls = [
     { loc: `${siteUrl}/`, priority: "1.0" },
+    { loc: `${siteUrl}/maps/`, priority: "0.95" },
     { loc: `${siteUrl}/about/`, priority: "0.5" },
     { loc: `${siteUrl}/editorial-policy/`, priority: "0.5" },
     { loc: `${siteUrl}/advertising-policy/`, priority: "0.5" },
@@ -644,7 +778,8 @@ async function enhanceMapPages() {
     try {
       const html = await readFile(listPath, "utf8");
       await writeFile(listPath, injectSiteFooter(injectGuide(injectSeo(html, listSeo(gameData, gameSlug)), await listGuide(gameData, gameSlug))));
-      urls.push({ loc: absoluteUrl(`/maps/${gameSlug}/`), priority: "0.8" });
+      const listLastmod = latestDate([gameData.updatedAt, ...(gameData.maps || []).map((map) => map.updatedAt)]);
+      urls.push({ loc: absoluteUrl(`/maps/${gameSlug}/`), priority: "0.8", lastmod: listLastmod });
       changed += 1;
     } catch {}
 
@@ -662,7 +797,8 @@ async function enhanceMapPages() {
             ),
           ),
         );
-        urls.push({ loc: absoluteUrl(`/maps/${gameSlug}/${mapSlug}/`), priority: "0.7" });
+        const mapEntry = (gameData?.maps || []).find((item) => item.slug === mapSlug);
+        urls.push({ loc: absoluteUrl(`/maps/${gameSlug}/${mapSlug}/`), priority: "0.7", lastmod: latestDate([mapEntry?.updatedAt]) });
         changed += 1;
       } catch {}
     }
@@ -679,7 +815,7 @@ async function writeSitemap(urls) {
   }).format(new Date());
   const body = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls
     .map(
-      (entry) => `  <url>\n    <loc>${escapeHtml(entry.loc)}</loc>\n    <lastmod>${today}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>${entry.priority}</priority>\n  </url>`,
+      (entry) => `  <url>\n    <loc>${escapeHtml(entry.loc)}</loc>\n    <lastmod>${entry.lastmod || today}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>${entry.priority}</priority>\n  </url>`,
     )
     .join("\n")}\n</urlset>\n`;
   await writeFile(join(root, "sitemap.xml"), body);
