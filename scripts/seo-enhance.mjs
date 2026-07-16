@@ -1,4 +1,4 @@
-import { readdir, readFile, stat, writeFile } from "node:fs/promises";
+import { mkdir, readdir, readFile, stat, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -148,6 +148,76 @@ function markerExamples(mapData, limit = 8) {
     .slice(0, limit);
 }
 
+function markerDescriptionExamples(mapData, limit = 4) {
+  const features = Array.isArray(mapData?.features) ? mapData.features : [];
+  const used = new Set();
+  return features
+    .map((feature) => {
+      const title = safeLabel(feature?.properties?.title, "");
+      const description = cleanText(feature?.properties?.description || feature?.properties?.body || "");
+      if (!title || !description || description.length < 24) return null;
+      const text = sentence(description, 132);
+      const key = `${title.toLowerCase()}|${text.toLowerCase()}`;
+      if (used.has(key)) return null;
+      used.add(key);
+      return { title, description: text };
+    })
+    .filter(Boolean)
+    .slice(0, limit);
+}
+
+function categoryBreakdown(mapData, limit = 6) {
+  const categories = mapData?.metadata?.categories || mapData?.categories || [];
+  const subcategories = mapData?.metadata?.subcategories || mapData?.subcategories || [];
+  const features = Array.isArray(mapData?.features) ? mapData.features : [];
+  const subToCategory = new Map(subcategories.map((item) => [item.externalId, item.categoryExternalId]));
+  const counts = new Map();
+  for (const feature of features) {
+    const subId = feature?.properties?.subcategoryExternalId || feature?.subcategoryExternalId;
+    const categoryId = feature?.properties?.categoryExternalId || feature?.categoryExternalId || subToCategory.get(subId);
+    if (categoryId) counts.set(categoryId, (counts.get(categoryId) || 0) + 1);
+  }
+  return categories
+    .map((category) => ({
+      label: safeLabel(category.title || category.name, "Map category"),
+      count: counts.get(category.externalId) || 0,
+      description: cleanText(category.description || ""),
+    }))
+    .filter((item) => item.label && item.count)
+    .sort((a, b) => b.count - a.count || a.label.localeCompare(b.label))
+    .slice(0, limit);
+}
+
+function coordinateBounds(mapData) {
+  const features = Array.isArray(mapData?.features) ? mapData.features : [];
+  const points = features
+    .map((feature) => feature?.geometry?.coordinates)
+    .filter((coordinates) => Array.isArray(coordinates) && coordinates.length >= 2)
+    .map(([x, y]) => [Number(x), Number(y)])
+    .filter(([x, y]) => Number.isFinite(x) && Number.isFinite(y));
+  if (!points.length) return null;
+  const xs = points.map(([x]) => x);
+  const ys = points.map(([, y]) => y);
+  return {
+    minX: Math.min(...xs),
+    maxX: Math.max(...xs),
+    minY: Math.min(...ys),
+    maxY: Math.max(...ys),
+  };
+}
+
+function scopeSentence(mapData, mapName) {
+  const bounds = coordinateBounds(mapData);
+  if (!bounds) return `The ${mapName} dataset is organized as coordinate-based records that can be searched, filtered, and opened from the interactive layer.`;
+  const width = Math.round(bounds.maxX - bounds.minX);
+  const height = Math.round(bounds.maxY - bounds.minY);
+  return `The ${mapName} dataset spans roughly ${width.toLocaleString("en-US")} by ${height.toLocaleString("en-US")} coordinate units, so search and category filters are usually faster than scanning the full canvas manually.`;
+}
+
+function plural(value, singular, pluralText = `${singular}s`) {
+  return `${Number(value || 0).toLocaleString("en-US")} ${Number(value || 0) === 1 ? singular : pluralText}`;
+}
+
 function formatDate(value) {
   const date = new Date(value || "");
   if (Number.isNaN(date.getTime())) return "";
@@ -173,7 +243,8 @@ function siteFooter() {
   return `<footer class="site-footer">
       <div class="footer-brand"><img class="brand-logo" src="/logo.png" alt="Wander Game Map" /></div>
       <nav class="footer-links" aria-label="Footer navigation">
-        <a href="/">Maps</a>
+        <a href="/maps/">Maps</a>
+        <a href="/guides/">Guides</a>
         <a href="/about/">About</a>
         <a href="/editorial-policy/">Editorial Policy</a>
         <a href="/advertising-policy/">Advertising Policy</a>
@@ -215,6 +286,8 @@ function detailGuide(gameData, mapData, gameSlug, mapSlug) {
   const markerCount = Number(mapData?.features?.length || mapData?.totalCollectibles || 0);
   const types = markerTypes(mapData);
   const examples = markerExamples(mapData);
+  const descriptionExamples = markerDescriptionExamples(mapData);
+  const categories = categoryBreakdown(mapData);
   const mapEntry = (gameData?.maps || []).find((item) => item.slug === mapSlug);
   const updated = formatDate(mapEntry?.updatedAt);
   const siblingMaps = (gameData?.maps || []).filter((item) => item.slug !== mapSlug).slice(0, 6);
@@ -251,6 +324,19 @@ function detailGuide(gameData, mapData, gameSlug, mapSlug) {
   const exampleItems = examples.length
     ? examples.map((label) => `<li>${escapeHtml(label)}</li>`).join("")
     : "<li>Open a marker on the map to view the labels available in this dataset.</li>";
+  const categoryCards = categories.length
+    ? categories
+        .map(
+          (item) =>
+            `<article><strong>${escapeHtml(item.label)}</strong><span>${plural(item.count, "marker")}</span><p>${escapeHtml(item.description || `${item.label} entries are grouped together so you can isolate this part of the ${map} dataset before zooming into dense areas.`)}</p></article>`,
+        )
+        .join("")
+    : `<article><strong>Searchable layers</strong><span>${plural(markerCount, "marker")}</span><p>The current data is grouped by the filters available in the sidebar. Use those filters to focus the map before opening individual markers.</p></article>`;
+  const descriptionCards = descriptionExamples.length
+    ? descriptionExamples
+        .map((item) => `<li><strong>${escapeHtml(item.title)}</strong><span>${escapeHtml(item.description)}</span></li>`)
+        .join("")
+    : examples.slice(0, 4).map((label) => `<li><strong>${escapeHtml(label)}</strong><span>Open this marker in the interactive map to review its recorded location and any available media.</span></li>`).join("");
   const related = siblingMaps.length
     ? siblingMaps
         .map(
@@ -265,8 +351,21 @@ function detailGuide(gameData, mapData, gameSlug, mapSlug) {
         <p class="eyebrow">Interactive map guide</p>
         <h1 id="map-guide-title">${escapeHtml(game)} ${escapeHtml(map)} map</h1>
         <p>Use this interactive map to search ${markerCount ? `${markerCount.toLocaleString("en-US")} ` : ""}locations across ${escapeHtml(map)}. The marker filters cover ${escapeHtml(typePhrase)}, helping you plan a focused route without scanning every icon at once.</p>
+        <p>${escapeHtml(scopeSentence(mapData, map))}</p>
         ${updated ? `<p class="map-guide-updated">Map data last updated ${escapeHtml(updated)}.</p>` : ""}
       </div>
+      <section class="map-value-section" aria-labelledby="map-value-title">
+        <div>
+          <p class="eyebrow">Why this page is useful</p>
+          <h2 id="map-value-title">A focused index for ${escapeHtml(map)}</h2>
+          <p>This page is designed for players who already know the area they are exploring and need a quick way to narrow the map to a specific marker type, label, or route segment. Instead of presenting a static image, the page keeps the marker list, filter state, and canvas view connected so a search result can be inspected immediately on the map.</p>
+        </div>
+        <div class="map-value-points">
+          <article><strong>Filter before you zoom</strong><span>Reduce clutter by hiding unrelated marker groups before moving around the map.</span></article>
+          <article><strong>Use labels as clues</strong><span>Search exact marker labels when you know the item name, activity, location, or route target.</span></article>
+          <article><strong>Check the live detail panel</strong><span>Marker panels can include local notes, images, or video references when those records are available.</span></article>
+        </div>
+      </section>
       <div class="map-guide-layout">
         <article>
           <h2>What you can find</h2>
@@ -283,6 +382,13 @@ function detailGuide(gameData, mapData, gameSlug, mapSlug) {
           </ol>
         </article>
       </div>
+      <section class="category-breakdown" aria-labelledby="category-breakdown-title">
+        <div>
+          <p class="eyebrow">Category breakdown</p>
+          <h2 id="category-breakdown-title">Main marker groups on this map</h2>
+        </div>
+        <div>${categoryCards}</div>
+      </section>
       <section class="dataset-snapshot" aria-labelledby="dataset-snapshot-title">
         <div>
           <p class="eyebrow">Dataset snapshot</p>
@@ -293,6 +399,11 @@ function detailGuide(gameData, mapData, gameSlug, mapSlug) {
           <h3>Example searchable labels</h3>
           <ul class="dataset-examples">${exampleItems}</ul>
         </div>
+      </section>
+      <section class="marker-note-samples" aria-labelledby="marker-note-samples-title">
+        <p class="eyebrow">Marker notes</p>
+        <h2 id="marker-note-samples-title">Examples from the current data</h2>
+        <ul>${descriptionCards}</ul>
       </section>
       <section class="map-guide-faq" aria-labelledby="map-faq-title">
         <h2 id="map-faq-title">${escapeHtml(game)} ${escapeHtml(map)} map FAQ</h2>
@@ -310,10 +421,16 @@ async function listGuide(gameData, gameSlug) {
   const maps = Array.isArray(gameData?.maps) ? gameData.maps : [];
   const markerCount = maps.reduce((sum, map) => sum + Number(map.markerCount || 0), 0);
   const mapSummaries = [];
+  const combinedTypes = new Map();
+  const combinedExamples = [];
   for (const map of maps) {
     const mapData = (await readJson(join(dataRoot, dataName(gameSlug, map.slug)))) || {};
     const types = markerTypes(mapData, 6);
     const examples = markerExamples(mapData, 5);
+    for (const type of types) combinedTypes.set(type.label, (combinedTypes.get(type.label) || 0) + Number(type.count || 0));
+    for (const example of examples) {
+      if (combinedExamples.length < 12 && !combinedExamples.some((item) => item.toLowerCase() === example.toLowerCase())) combinedExamples.push(example);
+    }
     const typeText = types.length ? types.map((item) => item.label).join(", ") : "locations and points of interest";
     const exampleText = examples.length ? examples.join(", ") : "labels available through the live marker search";
     mapSummaries.push(`<article class="map-directory-entry">
@@ -331,11 +448,20 @@ async function listGuide(gameData, gameSlug) {
   }
   const mapNames = maps.map((map) => cleanText(map.name) || titleCaseSlug(map.slug)).filter(Boolean);
   const areaPhrase = mapNames.length ? mapNames.join(", ") : "the available game areas";
+  const topTypeRows = [...combinedTypes.entries()]
+    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+    .slice(0, 8)
+    .map(([label, count]) => `<li><strong>${escapeHtml(label)}</strong><span>${plural(count, "marker")}</span></li>`)
+    .join("");
+  const exampleRows = combinedExamples.length
+    ? combinedExamples.map((label) => `<li>${escapeHtml(label)}</li>`).join("")
+    : "<li>Open an area map to review marker labels in the current dataset.</li>";
   return `    <section class="title-seo-content" aria-labelledby="game-map-guide-title">
       <div>
         <p class="eyebrow">Map directory</p>
         <h2 id="game-map-guide-title">${escapeHtml(game)} interactive maps</h2>
         <p>This directory covers ${escapeHtml(areaPhrase)} for ${escapeHtml(game)}. Across ${maps.length || 1} interactive map${maps.length === 1 ? "" : "s"}, the current datasets contain ${markerCount.toLocaleString("en-US")} coordinate-based markers. Each area has its own search index and filters, so open the map that matches the part of the game you are exploring.</p>
+        <p>The directory is built from the same structured marker files used by the interactive pages. That means the map count, marker totals, update dates, and visible filter names are drawn from the local data rather than written as generic landing-page copy.</p>
       </div>
       <div class="directory-facts" aria-label="${escapeHtml(game)} map directory facts">
         <div><strong>${maps.length || 1}</strong><span>area map${maps.length === 1 ? "" : "s"}</span></div>
@@ -353,6 +479,23 @@ async function listGuide(gameData, gameSlug) {
           <p>Totals are calculated from the structured map files used by the interactive pages. A count may change when markers are added, removed, renamed, or moved into a different category. Generated summaries on this page use only those recorded fields and do not claim unverified quests, rewards, or completion requirements.</p>
         </article>
       </div>
+      <section class="directory-data-review" aria-labelledby="directory-data-review-title">
+        <div>
+          <p class="eyebrow">Data review</p>
+          <h2 id="directory-data-review-title">What the ${escapeHtml(game)} directory covers</h2>
+          <p>Use this overview when you are deciding which area map to open first. The most common filter types are listed here so you can tell whether this game page is mainly useful for resources, collectibles, travel points, loot, quests, or other location records.</p>
+        </div>
+        <div class="directory-data-columns">
+          <article>
+            <h3>Common marker types</h3>
+            <ul>${topTypeRows || "<li><strong>Area markers</strong><span>Open a map to view filters</span></li>"}</ul>
+          </article>
+          <article>
+            <h3>Sample labels</h3>
+            <ul>${exampleRows}</ul>
+          </article>
+        </div>
+      </section>
       <section class="map-guide-faq" aria-labelledby="directory-faq-title">
         <h2 id="directory-faq-title">${escapeHtml(game)} map directory FAQ</h2>
         <div>${renderFaq([
@@ -531,7 +674,7 @@ async function mapsIndexPage(games) {
     sections.push(`<article class="map-index-entry">
           <header>
             <h2><a href="/maps/${game.slug}/">${escapeHtml(cleanText(game.title) || titleCaseSlug(game.slug))}</a></h2>
-            <p>${Number(game.maps || maps.length || 1).toLocaleString("en-US")} map${Number(game.maps || maps.length || 1) === 1 ? "" : "s"} · ${Number(game.markerCount || 0).toLocaleString("en-US")} markers</p>
+            <p>${Number(game.maps || maps.length || 1).toLocaleString("en-US")} map${Number(game.maps || maps.length || 1) === 1 ? "" : "s"} - ${Number(game.markerCount || 0).toLocaleString("en-US")} markers</p>
           </header>
           <div>${mapLinks}</div>
         </article>`);
@@ -567,7 +710,7 @@ async function mapsIndexPage(games) {
   <body>
     <header class="site-header">
       <a class="brand" href="/" aria-label="Wander Game Map home"><img class="brand-logo" src="/logo.png" alt="Wander Game Map" /></a>
-      <nav class="main-nav" aria-label="Primary navigation"><a href="/maps/">Maps</a><a href="/about/">About</a><a href="/editorial-policy/">Editorial Policy</a><a href="/contact/">Contact</a></nav>
+      <nav class="main-nav" aria-label="Primary navigation"><a href="/maps/">Maps</a><a href="/guides/">Guides</a><a href="/about/">About</a><a href="/editorial-policy/">Editorial Policy</a><a href="/contact/">Contact</a></nav>
       <div class="header-actions"><a class="download-button" href="/">Home</a></div>
     </header>
     <main class="info-page map-index-page">
@@ -590,6 +733,115 @@ async function mapsIndexPage(games) {
 </html>
 `;
   await writeFile(join(pagesRoot, "index.html"), html);
+}
+
+async function guidesPage(games) {
+  const mapCount = games.reduce((sum, game) => sum + Number(game.maps || 0), 0);
+  const markerCount = games.reduce((sum, game) => sum + Number(game.markerCount || 0), 0);
+  const updatedGames = games
+    .slice()
+    .sort((a, b) => new Date(b.updatedAt || 0) - new Date(a.updatedAt || 0))
+    .slice(0, 8);
+  const updatedRows = updatedGames
+    .map(
+      (game) =>
+        `<li><a href="/maps/${game.slug}/"><strong>${escapeHtml(cleanText(game.title) || titleCaseSlug(game.slug))}</strong><span>${plural(game.markerCount, "marker")} across ${plural(game.maps || 1, "map")}</span></a></li>`,
+    )
+    .join("");
+  const seo = {
+    title: "How to Use Interactive Game Maps | Wander Game Map Guides",
+    description: "Learn how Wander Game Map organizes searchable game markers, filters, map directories, data updates, and player-friendly route planning pages.",
+    keywords: "interactive game map guide, game marker filters, collectible map guide, resource map search",
+    url: `${siteUrl}/guides/`,
+    image: defaultImage,
+    type: "article",
+    jsonLd: [
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        headline: "How to use interactive game maps",
+        name: "How to use interactive game maps",
+        url: `${siteUrl}/guides/`,
+        description: "A practical guide to using searchable marker maps, filters, and game directory pages on Wander Game Map.",
+        publisher: { "@type": "Organization", name: siteName, url: `${siteUrl}/` },
+        mainEntityOfPage: `${siteUrl}/guides/`,
+      },
+    ],
+  };
+  const jsonLd = JSON.stringify(seo.jsonLd, null, 2).replace(/</g, "\\u003c");
+  const html = `<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>${escapeHtml(seo.title)}</title>
+    <meta name="description" content="${escapeHtml(seo.description)}" />
+    <meta name="keywords" content="${escapeHtml(seo.keywords)}" />
+    <link rel="canonical" href="${seo.url}" />
+    <meta name="robots" content="index, follow, max-image-preview:large" />
+    <meta property="og:site_name" content="${siteName}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="${seo.url}" />
+    <meta property="og:title" content="${escapeHtml(seo.title)}" />
+    <meta property="og:description" content="${escapeHtml(seo.description)}" />
+    <meta property="og:image" content="${defaultImage}" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="${escapeHtml(seo.title)}" />
+    <meta name="twitter:description" content="${escapeHtml(seo.description)}" />
+    <meta name="twitter:image" content="${defaultImage}" />
+    <script type="application/ld+json" data-seo="true">${jsonLd}</script>
+    <link rel="icon" href="/favicon.ico" sizes="32x32" type="image/x-icon" />
+    <link rel="stylesheet" href="/styles.css?v=${assetVersion}" />
+    ${adsenseScript}
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="/" aria-label="Wander Game Map home"><img class="brand-logo" src="/logo.png" alt="Wander Game Map" /></a>
+      <nav class="main-nav" aria-label="Primary navigation"><a href="/maps/">Maps</a><a href="/guides/">Guides</a><a href="/about/">About</a><a href="/editorial-policy/">Editorial Policy</a><a href="/contact/">Contact</a></nav>
+      <div class="header-actions"><a class="download-button" href="/maps/">Browse maps</a></div>
+    </header>
+    <main class="info-page guide-page">
+      <header class="info-hero">
+        <p class="eyebrow">Player guide</p>
+        <h1>How to use interactive game maps</h1>
+        <p>Wander Game Map is built around searchable marker data rather than static screenshots. This guide explains how the site organizes ${mapCount.toLocaleString("en-US")} maps and ${markerCount.toLocaleString("en-US")} markers so players can find resources, collectibles, travel points, loot, NPCs, quests, and other location records faster.</p>
+      </header>
+      <article class="guide-article">
+        <section>
+          <h2>Start with the game directory</h2>
+          <p>Every game has a directory page that lists the available area maps, current marker totals, update dates, and the most common marker types. Use that page first when a game has more than one area, because each map keeps its own search index and filter set.</p>
+          <p>The directory pages are intentionally plain and data-focused: they show what is actually present in the local structured files, rather than promising a full completion checklist for every game.</p>
+        </section>
+        <section>
+          <h2>Search before scanning the canvas</h2>
+          <p>Large game maps can contain hundreds or thousands of markers. Typing a partial item name, activity, landmark, resource, or collectible label into the search field is usually faster than panning across the whole map.</p>
+          <p>After selecting a search result, use the category checkboxes to keep nearby icons readable. Marker icons stay a consistent visual size while the map background zooms, which helps dense areas stay usable on desktop and mobile.</p>
+        </section>
+        <section>
+          <h2>Read marker details only when needed</h2>
+          <p>Marker panels can include notes, images, or videos when those records are available. Media is loaded lazily, so opening a map should not wait for every marker attachment on the page.</p>
+          <p>If a marker has no long note, the map still provides value through its coordinates, category, title, and relationship to nearby markers. The detail page text explains the dataset scope so visitors and search engines can understand what is available before interacting with the canvas.</p>
+        </section>
+        <section>
+          <h2>How we keep pages useful for search</h2>
+          <p>Map pages include a visible data snapshot, category breakdown, example labels, FAQ content, and links back to related maps. These sections are generated from local map data so each page reflects the game and area it represents.</p>
+          <p>Totals may change when a map is updated. Counts describe the records available on Wander Game Map; they do not represent a guaranteed completion percentage or official game requirement.</p>
+        </section>
+      </article>
+      <aside class="guide-latest" aria-labelledby="guide-latest-title">
+        <div>
+          <p class="eyebrow">Recently updated</p>
+          <h2 id="guide-latest-title">Map directories to review</h2>
+        </div>
+        <ul>${updatedRows}</ul>
+      </aside>
+    </main>
+    ${siteFooter()}
+  </body>
+</html>
+`;
+  await mkdir(join(root, "guides"), { recursive: true });
+  await writeFile(join(root, "guides", "index.html"), html);
 }
 
 function homeSeo(games) {
@@ -753,6 +1005,7 @@ function detailSeo(gameData, mapData, gameSlug, mapSlug) {
 async function enhanceHome() {
   const games = (await readJson(join(dataRoot, "site-games.json"))) || [];
   await mapsIndexPage(games);
+  await guidesPage(games);
   const path = join(root, "index.html");
   const html = await readFile(path, "utf8");
   await writeFile(path, injectSiteFooter(injectGuide(injectSeo(html, homeSeo(games)), await homeGuide(games))));
@@ -763,6 +1016,7 @@ async function enhanceMapPages() {
   const urls = [
     { loc: `${siteUrl}/`, priority: "1.0" },
     { loc: `${siteUrl}/maps/`, priority: "0.95" },
+    { loc: `${siteUrl}/guides/`, priority: "0.6" },
     { loc: `${siteUrl}/about/`, priority: "0.5" },
     { loc: `${siteUrl}/editorial-policy/`, priority: "0.5" },
     { loc: `${siteUrl}/advertising-policy/`, priority: "0.5" },
