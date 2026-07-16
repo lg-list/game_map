@@ -865,6 +865,132 @@ h2 {
   border-bottom: 1px solid rgba(255, 255, 255, 0.08);
 }
 
+.map-value-section,
+.category-breakdown,
+.marker-note-samples,
+.directory-data-review,
+.guide-latest {
+  padding: 46px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.map-value-section,
+.category-breakdown,
+.directory-data-review {
+  display: grid;
+  grid-template-columns: minmax(240px, 0.7fr) minmax(0, 1.3fr);
+  gap: 42px;
+  align-items: start;
+}
+
+.map-value-section h2,
+.category-breakdown h2,
+.marker-note-samples h2,
+.directory-data-review h2,
+.guide-latest h2 {
+  margin: 0 0 12px;
+}
+
+.map-value-section p:not(.eyebrow),
+.category-breakdown p,
+.marker-note-samples span,
+.directory-data-review p,
+.guide-article p {
+  color: var(--muted);
+  line-height: 1.72;
+}
+
+.map-value-points,
+.category-breakdown > div:last-child,
+.directory-data-columns {
+  display: grid;
+  gap: 12px;
+}
+
+.category-breakdown > div:last-child,
+.directory-data-columns {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.map-value-points article,
+.category-breakdown article,
+.directory-data-columns article {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 16px;
+  background: rgba(255, 255, 255, 0.045);
+}
+
+.map-value-points strong,
+.category-breakdown strong,
+.marker-note-samples strong,
+.directory-data-columns strong {
+  display: block;
+  color: var(--text);
+}
+
+.map-value-points span,
+.category-breakdown span,
+.directory-data-columns span {
+  display: block;
+  margin: 5px 0 8px;
+  color: var(--amber);
+  font-size: 12px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.marker-note-samples ul,
+.directory-data-columns ul,
+.guide-latest ul {
+  display: grid;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.marker-note-samples li,
+.directory-data-columns li,
+.guide-latest li a {
+  display: grid;
+  gap: 5px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  padding: 13px;
+  background: rgba(0, 0, 0, 0.14);
+}
+
+.guide-article {
+  display: grid;
+  gap: 34px;
+  max-width: 820px;
+}
+
+.guide-article section {
+  padding-bottom: 30px;
+  border-bottom: 1px solid var(--line);
+}
+
+.guide-article h2 {
+  margin: 0 0 14px;
+  font-size: 28px;
+}
+
+.guide-latest {
+  display: grid;
+  grid-template-columns: minmax(240px, 0.65fr) minmax(0, 1.35fr);
+  gap: 38px;
+}
+
+.guide-latest a {
+  color: var(--text);
+}
+
+.guide-latest span {
+  color: var(--muted);
+}
+
 .home-seo-content {
   display: grid;
   grid-template-columns: minmax(260px, 0.6fr) minmax(0, 1.4fr);
@@ -2894,7 +3020,11 @@ h2 {
   .map-index-summary,
   .map-index-entry,
   .directory-method,
-  .dataset-snapshot {
+  .dataset-snapshot,
+  .map-value-section,
+  .category-breakdown,
+  .directory-data-review,
+  .guide-latest {
     grid-template-columns: 1fr;
     gap: 30px;
   }
@@ -2964,7 +3094,9 @@ h2 {
 
   .map-guide-types,
   .related-map-grid,
-  .complete-map-index {
+  .complete-map-index,
+  .category-breakdown > div:last-child,
+  .directory-data-columns {
     grid-template-columns: 1fr;
   }
 
