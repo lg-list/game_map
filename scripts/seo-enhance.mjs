@@ -214,6 +214,12 @@ function scopeSentence(mapData, mapName) {
   return `The ${mapName} dataset spans roughly ${width.toLocaleString("en-US")} by ${height.toLocaleString("en-US")} coordinate units, so search and category filters are usually faster than scanning the full canvas manually.`;
 }
 
+function datasetDescription(game, map, markerCount, categories, mapData) {
+  const categoryText = categories.length ? categories.slice(0, 6).join(", ") : "locations, resources, collectibles, loot, quests, and points of interest";
+  const countText = markerCount ? `${markerCount.toLocaleString("en-US")} coordinate-based markers` : "coordinate-based markers";
+  return `${game} ${map} marker dataset with ${countText} for the interactive map on Wander Game Map. The records are organized for search, category filters, and marker detail panels covering ${categoryText}. ${scopeSentence(mapData, `${game} ${map}`)}`;
+}
+
 function plural(value, singular, pluralText = `${singular}s`) {
   return `${Number(value || 0).toLocaleString("en-US")} ${Number(value || 0) === 1 ? singular : pluralText}`;
 }
@@ -987,8 +993,20 @@ function detailSeo(gameData, mapData, gameSlug, mapSlug) {
         mainEntity: {
           "@type": "Dataset",
           name: `${game} ${map} marker data`,
-          description: `${markerCount.toLocaleString("en-US")} searchable ${game} ${map} map markers.`,
+          description: datasetDescription(game, map, markerCount, categories, mapData),
           keywords: categories,
+          creator: {
+            "@type": "Organization",
+            name: siteName,
+            url: `${siteUrl}/`,
+          },
+          publisher: {
+            "@type": "Organization",
+            name: siteName,
+            url: `${siteUrl}/`,
+          },
+          license: `${siteUrl}/terms/`,
+          isAccessibleForFree: true,
         },
         ...(mapEntry?.updatedAt ? { dateModified: mapEntry.updatedAt } : {}),
       },
