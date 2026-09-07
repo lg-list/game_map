@@ -28,6 +28,7 @@ function absoluteUrl(pathname = "/") {
 function cleanText(value) {
   return String(value ?? "")
     .replace(/[\ufffd]/g, "")
+    .replace(/[—–]/g, "-")
     .replace(/(?:\u951f|\u8119|\u8117|\u6c13|\u5fd9|\u83bd|\u732b|\u8305|\u679a)/g, "")
     .replace(/[\u3400-\u9fff]+/g, "")
     .replace(/\s+/g, " ")
@@ -48,6 +49,8 @@ function sentence(value, max = 158) {
   const shortened = text
     .slice(0, max - 1)
     .replace(/\s+\S*$/, "")
+    .replace(/\band map$/i, "")
+    .replace(/\b(?:and|or|plus|with|for|using|include|includes)$/i, "")
     .replace(/[,\s;:]+$/, "")
     .trim();
   return `${shortened}.`;
@@ -214,6 +217,14 @@ function scopeSentence(mapData, mapName) {
   return `The ${mapName} dataset spans roughly ${width.toLocaleString("en-US")} by ${height.toLocaleString("en-US")} coordinate units, so search and category filters are usually faster than scanning the full canvas manually.`;
 }
 
+function siteStats(games) {
+  return {
+    gameCount: games.length,
+    mapCount: games.reduce((sum, game) => sum + Number(game.maps || 0), 0),
+    markerCount: games.reduce((sum, game) => sum + Number(game.markerCount || 0), 0),
+  };
+}
+
 function datasetDescription(game, map, markerCount, categories, mapData) {
   const categoryText = categories.length ? categories.slice(0, 6).join(", ") : "locations, resources, collectibles, loot, quests, and points of interest";
   const countText = markerCount ? `${markerCount.toLocaleString("en-US")} coordinate-based markers` : "coordinate-based markers";
@@ -247,7 +258,7 @@ function injectGuide(html, guide) {
 
 function siteFooter() {
   return `<footer class="site-footer">
-      <div class="footer-brand"><img class="brand-logo" src="/logo.png" alt="Wander Game Map" /></div>
+      <div class="footer-brand"><img class="brand-logo" src="/logo.png" alt="Wander Game Map" width="540" height="126" /></div>
       <nav class="footer-links" aria-label="Footer navigation">
         <a href="/maps/">Maps</a>
         <a href="/guides/">Guides</a>
@@ -262,7 +273,14 @@ function siteFooter() {
 }
 
 function injectSiteFooter(html) {
-  const cleaned = html.replace(/\s*<footer\s+class="site-footer">[\s\S]*?<\/footer>\s*/gi, "\n");
+  const withLogoDimensions = html.replace(
+    /<img class="brand-logo" src="\/logo\.png" alt="Wander Game Map" \/>/g,
+    '<img class="brand-logo" src="/logo.png" alt="Wander Game Map" width="540" height="126" />',
+  ).replace(
+    /<img src="(\/assets\/images\/games\/[^"]+\.(?:webp|png|jpg|jpeg))" alt="([^"]*)" \/>/g,
+    '<img src="$1" alt="$2" width="960" height="540" />',
+  );
+  const cleaned = withLogoDimensions.replace(/\s*<footer\s+class="site-footer">[\s\S]*?<\/footer>\s*/gi, "\n");
   const footer = `\n    ${siteFooter()}\n`;
   if (/<!-- seo-guide:start -->/i.test(cleaned)) {
     return cleaned.replace(/(\s*<!-- seo-guide:end -->)/i, `$1${footer}`);
@@ -546,6 +564,7 @@ function removeSeoBlock(html) {
     .replace(/\s*<link\s+rel="canonical"[^>]*>\s*/gi, "\n")
     .replace(/\s*<meta\s+name="robots"[^>]*>\s*/gi, "\n")
     .replace(/\s*<meta\s+(?:property|name)="(?:og:[^"]+|twitter:[^"]+)"[^>]*>\s*/gi, "\n")
+    .replace(/\s*<script\s+type="application\/ld\+json">[\s\S]*?<\/script>\s*/gi, "\n")
     .replace(/\s*<script\s+type="application\/ld\+json"\s+data-seo="true">[\s\S]*?<\/script>\s*/gi, "\n");
 }
 
@@ -715,7 +734,7 @@ async function mapsIndexPage(games) {
   </head>
   <body>
     <header class="site-header">
-      <a class="brand" href="/" aria-label="Wander Game Map home"><img class="brand-logo" src="/logo.png" alt="Wander Game Map" /></a>
+      <a class="brand" href="/" aria-label="Wander Game Map home"><img class="brand-logo" src="/logo.png" alt="Wander Game Map" width="540" height="126" /></a>
       <nav class="main-nav" aria-label="Primary navigation"><a href="/maps/">Maps</a><a href="/guides/">Guides</a><a href="/about/">About</a><a href="/editorial-policy/">Editorial Policy</a><a href="/contact/">Contact</a></nav>
       <div class="header-actions"><a class="download-button" href="/">Home</a></div>
     </header>
@@ -742,8 +761,7 @@ async function mapsIndexPage(games) {
 }
 
 async function guidesPage(games) {
-  const mapCount = games.reduce((sum, game) => sum + Number(game.maps || 0), 0);
-  const markerCount = games.reduce((sum, game) => sum + Number(game.markerCount || 0), 0);
+  const { gameCount, mapCount, markerCount } = siteStats(games);
   const updatedGames = games
     .slice()
     .sort((a, b) => new Date(b.updatedAt || 0) - new Date(a.updatedAt || 0))
@@ -756,7 +774,7 @@ async function guidesPage(games) {
     .join("");
   const seo = {
     title: "How to Use Interactive Game Maps | Wander Game Map Guides",
-    description: "Learn how Wander Game Map organizes searchable game markers, filters, map directories, data updates, and player-friendly route planning pages.",
+    description: "Learn how Wander Game Map organizes searchable game markers, filters, map directories, data updates, player route planning, and reliable map corrections.",
     keywords: "interactive game map guide, game marker filters, collectible map guide, resource map search",
     url: `${siteUrl}/guides/`,
     image: defaultImage,
@@ -802,7 +820,7 @@ async function guidesPage(games) {
   </head>
   <body>
     <header class="site-header">
-      <a class="brand" href="/" aria-label="Wander Game Map home"><img class="brand-logo" src="/logo.png" alt="Wander Game Map" /></a>
+      <a class="brand" href="/" aria-label="Wander Game Map home"><img class="brand-logo" src="/logo.png" alt="Wander Game Map" width="540" height="126" /></a>
       <nav class="main-nav" aria-label="Primary navigation"><a href="/maps/">Maps</a><a href="/guides/">Guides</a><a href="/about/">About</a><a href="/editorial-policy/">Editorial Policy</a><a href="/contact/">Contact</a></nav>
       <div class="header-actions"><a class="download-button" href="/maps/">Browse maps</a></div>
     </header>
@@ -810,9 +828,13 @@ async function guidesPage(games) {
       <header class="info-hero">
         <p class="eyebrow">Player guide</p>
         <h1>How to use interactive game maps</h1>
-        <p>Wander Game Map is built around searchable marker data rather than static screenshots. This guide explains how the site organizes ${mapCount.toLocaleString("en-US")} maps and ${markerCount.toLocaleString("en-US")} markers so players can find resources, collectibles, travel points, loot, NPCs, quests, and other location records faster.</p>
+        <p>Wander Game Map is an independent interactive game map directory with ${gameCount.toLocaleString("en-US")} game directories, ${mapCount.toLocaleString("en-US")} area maps, and ${markerCount.toLocaleString("en-US")} searchable markers. It helps players find resources, collectibles, travel points, loot, NPCs, quests, and other location records faster.</p>
       </header>
       <article class="guide-article">
+        <section>
+          <h2>What is Wander Game Map?</h2>
+          <p>Wander Game Map is a crawlable library of interactive game maps built from structured marker datasets. Each map page combines searchable marker labels, category filters, coordinate-based records, map media, and guide text so players and AI assistants can understand what a map covers without relying on hidden client-side state.</p>
+        </section>
         <section>
           <h2>Start with the game directory</h2>
           <p>Every game has a directory page that lists the available area maps, current marker totals, update dates, and the most common marker types. Use that page first when a game has more than one area, because each map keeps its own search index and filter set.</p>
@@ -822,6 +844,7 @@ async function guidesPage(games) {
           <h2>Search before scanning the canvas</h2>
           <p>Large game maps can contain hundreds or thousands of markers. Typing a partial item name, activity, landmark, resource, or collectible label into the search field is usually faster than panning across the whole map.</p>
           <p>After selecting a search result, use the category checkboxes to keep nearby icons readable. Marker icons stay a consistent visual size while the map background zooms, which helps dense areas stay usable on desktop and mobile.</p>
+          <p>If a map has several similar labels, combine search with filters. For example, narrow the view to resources before searching an ore name, or switch to collectibles before searching a note, relic, shrine, cache, or upgrade label.</p>
         </section>
         <section>
           <h2>Read marker details only when needed</h2>
@@ -829,9 +852,24 @@ async function guidesPage(games) {
           <p>If a marker has no long note, the map still provides value through its coordinates, category, title, and relationship to nearby markers. The detail page text explains the dataset scope so visitors and search engines can understand what is available before interacting with the canvas.</p>
         </section>
         <section>
+          <h2>Plan routes with fewer open tabs</h2>
+          <p>Use each map page as a working route board. Start with one objective, turn off unrelated filters, open the markers you need, then reset the view before planning a second route. This keeps the map readable and prevents large games from turning into a wall of icons.</p>
+          <p>When a game includes multiple regions, open the game directory first. Directory pages summarize available areas and common marker types so you can choose the page with the right dataset instead of landing on a map that covers a different region.</p>
+        </section>
+        <section>
+          <h2>Understand marker totals and updates</h2>
+          <p>Marker totals describe the records currently available on Wander Game Map. They are not official completion counters, achievement requirements, or promises that every possible item in a game has been recorded.</p>
+          <p>Update dates are attached to the structured map data. A page may change when labels are cleaned up, categories are renamed, media is cached locally, or new markers are added from a reviewed dataset.</p>
+        </section>
+        <section>
           <h2>How we keep pages useful for search</h2>
           <p>Map pages include a visible data snapshot, category breakdown, example labels, FAQ content, and links back to related maps. These sections are generated from local map data so each page reflects the game and area it represents.</p>
           <p>Totals may change when a map is updated. Counts describe the records available on Wander Game Map; they do not represent a guaranteed completion percentage or official game requirement.</p>
+        </section>
+        <section>
+          <h2>Report corrections clearly</h2>
+          <p>Good correction reports include the page URL, game name, area name, marker title, and a short explanation of what should change. Screenshots or official references help when a location moved, a category is wrong, or media should be removed.</p>
+          <p>Reports are reviewed before a page is changed. The site avoids presenting unverified non-English or corrupted source text as guide content, because low-quality copied fragments make maps harder to use and harder for search engines to understand.</p>
         </section>
       </article>
       <aside class="guide-latest" aria-labelledby="guide-latest-title">
@@ -1029,6 +1067,81 @@ async function enhanceHome() {
   await writeFile(path, injectSiteFooter(injectGuide(injectSeo(html, homeSeo(games)), await homeGuide(games))));
 }
 
+function infoPageSeo({ path, title, description, schemaType = "WebPage" }) {
+  const url = absoluteUrl(path);
+  return {
+    title,
+    description,
+    keywords: "Wander Game Map, interactive game maps, map policy, game location data",
+    url,
+    image: defaultImage,
+    type: "website",
+    jsonLd: [
+      {
+        "@context": "https://schema.org",
+        "@type": schemaType,
+        name: title,
+        url,
+        description,
+        isPartOf: { "@type": "WebSite", name: siteName, url: `${siteUrl}/` },
+        publisher: { "@type": "Organization", name: siteName, url: `${siteUrl}/`, logo: defaultImage },
+      },
+    ],
+  };
+}
+
+async function enhanceInfoPages() {
+  const pages = [
+    {
+      file: "about/index.html",
+      path: "/about/",
+      title: "About Wander Game Map",
+      description: "Learn how Wander Game Map builds searchable interactive game maps, organizes marker data, and helps players plan exploration routes.",
+      schemaType: "AboutPage",
+    },
+    {
+      file: "contact/index.html",
+      path: "/contact/",
+      title: "Contact Wander Game Map",
+      description: "Contact Wander Game Map to report marker corrections, broken pages, media concerns, advertising issues, or other site feedback.",
+      schemaType: "ContactPage",
+    },
+    {
+      file: "privacy/index.html",
+      path: "/privacy/",
+      title: "Privacy Policy | Wander Game Map",
+      description: "Privacy policy for Wander Game Map, including hosting logs, advertising, cookies, external media, and user choices.",
+    },
+    {
+      file: "terms/index.html",
+      path: "/terms/",
+      title: "Terms of Use | Wander Game Map",
+      description: "Terms of use for Wander Game Map, including acceptable use, map accuracy, trademarks, external services, and limitations.",
+    },
+    {
+      file: "advertising-policy/index.html",
+      path: "/advertising-policy/",
+      title: "Advertising Policy | Wander Game Map",
+      description: "Advertising policy for Wander Game Map, including ad placement, editorial independence, invalid traffic rules, and user privacy choices.",
+    },
+    {
+      file: "editorial-policy/index.html",
+      path: "/editorial-policy/",
+      title: "Editorial Policy | Wander Game Map",
+      description: "Read the Wander Game Map editorial policy for map data, corrections, source attribution, automation, and content quality.",
+    },
+  ];
+  let changed = 0;
+  for (const page of pages) {
+    try {
+      const html = await readFile(join(root, page.file), "utf8");
+      await writeFile(join(root, page.file), injectSiteFooter(injectSeo(html, infoPageSeo(page))));
+      changed += 1;
+    } catch {}
+  }
+  return changed;
+}
+
 async function enhanceMapPages() {
   const games = (await readJson(join(dataRoot, "site-games.json"))) || [];
   const urls = [
@@ -1096,14 +1209,141 @@ async function writeSitemap(urls) {
 async function writeRobots() {
   await writeFile(
     join(root, "robots.txt"),
-    `User-agent: *\nAllow: /\n\nSitemap: ${siteUrl}/sitemap.xml\n`,
+    `User-agent: Googlebot\nAllow: /\n\nUser-agent: AdsBot-Google\nAllow: /\n\nUser-agent: Mediapartners-Google\nAllow: /\n\nUser-agent: Bingbot\nAllow: /\n\nUser-agent: GPTBot\nAllow: /\n\nUser-agent: ChatGPT-User\nAllow: /\n\nUser-agent: PerplexityBot\nAllow: /\n\nUser-agent: ClaudeBot\nAllow: /\n\nUser-agent: anthropic-ai\nAllow: /\n\nUser-agent: Google-Extended\nAllow: /\n\nUser-agent: *\nAllow: /\n\nSitemap: ${siteUrl}/sitemap.xml\n`,
   );
 }
 
+async function writeGeoFiles(games, urls) {
+  const { gameCount, mapCount, markerCount } = siteStats(games);
+  const updated = new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Shanghai",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).format(new Date());
+  const topGames = games
+    .slice()
+    .sort((a, b) => Number(b.markerCount || 0) - Number(a.markerCount || 0))
+    .slice(0, 25);
+  const recentGames = games
+    .slice()
+    .sort((a, b) => new Date(b.updatedAt || 0) - new Date(a.updatedAt || 0))
+    .slice(0, 20);
+  const topRows = topGames
+    .map((game) => `- [${cleanText(game.title) || titleCaseSlug(game.slug)}](${absoluteUrl(`/maps/${game.slug}/`)}): ${plural(game.maps || 1, "map")}, ${plural(game.markerCount || 0, "marker")}`)
+    .join("\n");
+  const recentRows = recentGames
+    .map((game) => `- [${cleanText(game.title) || titleCaseSlug(game.slug)}](${absoluteUrl(`/maps/${game.slug}/`)}): updated ${formatDate(game.updatedAt) || "current dataset"}`)
+    .join("\n");
+  const llms = `# Wander Game Map
+
+> Wander Game Map is an independent interactive game map directory for players who need searchable locations, resources, collectibles, loot, quests, NPCs, travel points, and other marker data.
+
+Canonical site: ${siteUrl}/
+Last updated: ${updated}
+Coverage: ${gameCount.toLocaleString("en-US")} game directories, ${mapCount.toLocaleString("en-US")} area maps, ${markerCount.toLocaleString("en-US")} searchable markers.
+
+## Key Pages
+
+- [All interactive game maps](${siteUrl}/maps/)
+- [How to use interactive game maps](${siteUrl}/guides/)
+- [About Wander Game Map](${siteUrl}/about/)
+- [Editorial policy](${siteUrl}/editorial-policy/)
+- [Advertising policy](${siteUrl}/advertising-policy/)
+- [Contact and corrections](${siteUrl}/contact/)
+- [Sitemap](${siteUrl}/sitemap.xml)
+
+## What To Cite
+
+Cite Wander Game Map pages for game map coverage, marker counts, searchable location categories, map directory structure, and player route-planning references. Do not describe the site as official or affiliated with game publishers.
+
+## High-Coverage Map Directories
+
+${topRows}
+
+## Recently Updated Directories
+
+${recentRows}
+`;
+  const fullRows = games
+    .map((game) => {
+      const title = cleanText(game.title) || titleCaseSlug(game.slug);
+      return `## ${title}\n\n- URL: ${absoluteUrl(`/maps/${game.slug}/`)}\n- Maps: ${Number(game.maps || 1).toLocaleString("en-US")}\n- Markers: ${Number(game.markerCount || 0).toLocaleString("en-US")}\n- Updated: ${formatDate(game.updatedAt) || "Current dataset"}\n`;
+    })
+    .join("\n");
+  const llmsFull = `# Wander Game Map Full Knowledge Index
+
+Last updated: ${updated}
+Canonical site: ${siteUrl}/
+
+Wander Game Map publishes crawlable game directory pages and interactive map pages backed by structured marker data. The current public index contains ${gameCount.toLocaleString("en-US")} games, ${mapCount.toLocaleString("en-US")} area maps, and ${markerCount.toLocaleString("en-US")} searchable coordinate-based markers.
+
+## Citation Guidance
+
+- Use exact page URLs from the sitemap when citing a game or area map.
+- Use marker counts as current dataset counts, not official completion totals.
+- Use the editorial policy for source, correction, and independence context.
+- Game names, trademarks, and artwork belong to their respective owners.
+
+## Directory Index
+
+${fullRows}
+`;
+  const humans = `# Humans
+
+Site: Wander Game Map
+URL: ${siteUrl}/
+Purpose: Independent interactive game map directory for searchable game locations, resources, collectibles, quests, loot, NPCs, and route planning.
+Contact: ${siteUrl}/contact/
+Editorial policy: ${siteUrl}/editorial-policy/
+Sitemap: ${siteUrl}/sitemap.xml
+Last updated: ${updated}
+`;
+  await writeFile(join(root, "llms.txt"), llms);
+  await writeFile(join(root, "llms-full.txt"), llmsFull);
+  await writeFile(join(root, "humans.txt"), humans);
+  await mkdir(join(root, "okf"), { recursive: true });
+  await writeFile(
+    join(root, "okf", "index.md"),
+    `---
+title: Wander Game Map Knowledge Index
+url: ${siteUrl}/okf/
+updated: ${updated}
+type: website-knowledge-index
+---
+
+# Wander Game Map Knowledge Index
+
+Wander Game Map is an independent interactive game map directory. It contains ${gameCount.toLocaleString("en-US")} game directories, ${mapCount.toLocaleString("en-US")} area maps, and ${markerCount.toLocaleString("en-US")} searchable markers.
+
+## Core resources
+
+- ${siteUrl}/maps/
+- ${siteUrl}/guides/
+- ${siteUrl}/about/
+- ${siteUrl}/editorial-policy/
+- ${siteUrl}/sitemap.xml
+- ${siteUrl}/llms.txt
+- ${siteUrl}/llms-full.txt
+
+## Representative directories
+
+${topRows}
+`,
+  );
+  urls.push({ loc: `${siteUrl}/llms.txt`, priority: "0.2" });
+  urls.push({ loc: `${siteUrl}/llms-full.txt`, priority: "0.2" });
+  urls.push({ loc: `${siteUrl}/humans.txt`, priority: "0.1" });
+  urls.push({ loc: `${siteUrl}/okf/index.md`, priority: "0.2" });
+}
+
+const games = (await readJson(join(dataRoot, "site-games.json"))) || [];
 await enhanceHome();
+const infoChanged = await enhanceInfoPages();
 const { changed, urls } = await enhanceMapPages();
+await writeGeoFiles(games, urls);
 await writeSitemap(urls);
 await writeRobots();
 
 const sitemapSize = (await stat(join(root, "sitemap.xml"))).size;
-console.log(`SEO enhanced ${changed + 1} pages. Generated ${urls.length} sitemap URLs (${sitemapSize} bytes).`);
+console.log(`SEO enhanced ${changed + infoChanged + 1} pages. Generated ${urls.length} sitemap URLs (${sitemapSize} bytes).`);

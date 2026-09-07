@@ -1,0 +1,751 @@
+# Wander Game Map Full Knowledge Index
+
+Last updated: 2026-09-07
+Canonical site: https://wandergamemap.com/
+
+Wander Game Map publishes crawlable game directory pages and interactive map pages backed by structured marker data. The current public index contains 105 games, 112 area maps, and 143,571 searchable coordinate-based markers.
+
+## Citation Guidance
+
+- Use exact page URLs from the sitemap when citing a game or area map.
+- Use marker counts as current dataset counts, not official completion totals.
+- Use the editorial policy for source, correction, and independence context.
+- Game names, trademarks, and artwork belong to their respective owners.
+
+## Directory Index
+
+## Outbound
+
+- URL: https://wandergamemap.com/maps/outbound/
+- Maps: 2
+- Markers: 644
+- Updated: May 28, 2026
+
+## Subnautica 2
+
+- URL: https://wandergamemap.com/maps/subnautica-2/
+- Maps: 1
+- Markers: 15,613
+- Updated: May 29, 2026
+
+## CODE VEIN II
+
+- URL: https://wandergamemap.com/maps/code-vein-ii/
+- Maps: 1
+- Markers: 1,260
+- Updated: February 26, 2026
+
+## Crimson Desert
+
+- URL: https://wandergamemap.com/maps/crimson-desert/
+- Maps: 1
+- Markers: 5,878
+- Updated: May 25, 2026
+
+## ARC Raiders
+
+- URL: https://wandergamemap.com/maps/arc-raiders/
+- Maps: 7
+- Markers: 2,583
+- Updated: May 28, 2026
+
+## Grand Theft Auto V Legacy
+
+- URL: https://wandergamemap.com/maps/grand-theft-auto-v/
+- Maps: 1
+- Markers: 528
+- Updated: January 28, 2026
+
+## Red Dead Redemption 2
+
+- URL: https://wandergamemap.com/maps/red-dead-redemption-2/
+- Maps: 1
+- Markers: 1,194
+- Updated: May 25, 2026
+
+## Sons of The Forest
+
+- URL: https://wandergamemap.com/maps/sons-of-the-forest/
+- Maps: 1
+- Markers: 842
+- Updated: May 14, 2026
+
+## V Rising
+
+- URL: https://wandergamemap.com/maps/v-rising/
+- Maps: 1
+- Markers: 1,549
+- Updated: January 23, 2026
+
+## My Time at Sandrock
+
+- URL: https://wandergamemap.com/maps/my-time-at-sandrock/
+- Maps: 1
+- Markers: 566
+- Updated: May 29, 2026
+
+## Cyberpunk 2077
+
+- URL: https://wandergamemap.com/maps/cyberpunk-2077/
+- Maps: 1
+- Markers: 1,029
+- Updated: January 26, 2026
+
+## Disney Dreamlight Valley
+
+- URL: https://wandergamemap.com/maps/disney-dreamlight-valley/
+- Maps: 1
+- Markers: 165
+- Updated: February 20, 2026
+
+## Medieval Dynasty
+
+- URL: https://wandergamemap.com/maps/medieval-dynasty/
+- Maps: 1
+- Markers: 486
+- Updated: February 18, 2026
+
+## Just Cause 3
+
+- URL: https://wandergamemap.com/maps/just-cause-3/
+- Maps: 1
+- Markers: 469
+- Updated: April 14, 2026
+
+## Generation Zero
+
+- URL: https://wandergamemap.com/maps/generation-zero/
+- Maps: 1
+- Markers: 12,386
+- Updated: February 3, 2026
+
+## DREDGE
+
+- URL: https://wandergamemap.com/maps/dredge/
+- Maps: 1
+- Markers: 847
+- Updated: February 5, 2026
+
+## DEATH STRANDING DIRECTOR'S CUT
+
+- URL: https://wandergamemap.com/maps/death-stranding-directors-cut/
+- Maps: 1
+- Markers: 29
+- Updated: January 29, 2026
+
+## Far Cry 6
+
+- URL: https://wandergamemap.com/maps/far-cry-6/
+- Maps: 1
+- Markers: 2,242
+- Updated: February 5, 2026
+
+## Far Cry 3
+
+- URL: https://wandergamemap.com/maps/far-cry-3/
+- Maps: 1
+- Markers: 5,751
+- Updated: January 29, 2026
+
+## Far Cry 4
+
+- URL: https://wandergamemap.com/maps/far-cry-4/
+- Maps: 1
+- Markers: 4,597
+- Updated: April 28, 2026
+
+## Far Cry New Dawn
+
+- URL: https://wandergamemap.com/maps/far-cry-new-dawn/
+- Maps: 1
+- Markers: 245
+- Updated: January 28, 2026
+
+## Dragon's Dogma 2
+
+- URL: https://wandergamemap.com/maps/dragons-dogma-2/
+- Maps: 1
+- Markers: 1,400
+- Updated: January 29, 2026
+
+## Rage 2
+
+- URL: https://wandergamemap.com/maps/rage-2/
+- Maps: 1
+- Markers: 776
+- Updated: February 19, 2026
+
+## Just Cause 4
+
+- URL: https://wandergamemap.com/maps/just-cause-4/
+- Maps: 1
+- Markers: 1,656
+- Updated: April 29, 2026
+
+## Kenshi
+
+- URL: https://wandergamemap.com/maps/kenshi/
+- Maps: 1
+- Markers: 443
+- Updated: April 28, 2026
+
+## Mafia III: Definitive Edition
+
+- URL: https://wandergamemap.com/maps/mafia-iii-definitive-edition/
+- Maps: 1
+- Markers: 496
+- Updated: February 20, 2026
+
+## Mafia II: Definitive Edition
+
+- URL: https://wandergamemap.com/maps/mafia-ii-definitive-edition/
+- Maps: 1
+- Markers: 523
+- Updated: February 20, 2026
+
+## Mafia: Definitive Edition
+
+- URL: https://wandergamemap.com/maps/mafia-definitive-edition/
+- Maps: 1
+- Markers: 330
+- Updated: March 12, 2026
+
+## Days Gone
+
+- URL: https://wandergamemap.com/maps/days-gone/
+- Maps: 1
+- Markers: 517
+- Updated: January 30, 2026
+
+## Grand Theft Auto IV
+
+- URL: https://wandergamemap.com/maps/grand-theft-auto-iv/
+- Maps: 1
+- Markers: 925
+- Updated: January 30, 2026
+
+## Ghost of Tsushima DIRECTOR'S CUT
+
+- URL: https://wandergamemap.com/maps/ghost-of-tsushima-directors-cut/
+- Maps: 1
+- Markers: 721
+- Updated: February 3, 2026
+
+## Watch Dogs 2
+
+- URL: https://wandergamemap.com/maps/watch-dogs-2/
+- Maps: 1
+- Markers: 553
+- Updated: April 28, 2026
+
+## Vampyr
+
+- URL: https://wandergamemap.com/maps/vampyr/
+- Maps: 1
+- Markers: 319
+- Updated: February 3, 2026
+
+## Mount & Blade II: Bannerlord
+
+- URL: https://wandergamemap.com/maps/mount-blade-ii-bannerlord/
+- Maps: 1
+- Markers: 825
+- Updated: April 28, 2026
+
+## Watch Dogs: Legion
+
+- URL: https://wandergamemap.com/maps/watch-dogs-legion/
+- Maps: 1
+- Markers: 1,662
+- Updated: May 28, 2026
+
+## Kingdom Come: Deliverance
+
+- URL: https://wandergamemap.com/maps/kingdom-come-deliverance/
+- Maps: 1
+- Markers: 1,000
+- Updated: February 5, 2026
+
+## Need for Speed Heat
+
+- URL: https://wandergamemap.com/maps/need-for-speed-heat/
+- Maps: 1
+- Markers: 478
+- Updated: February 5, 2026
+
+## Need for Speed Payback
+
+- URL: https://wandergamemap.com/maps/need-for-speed-payback/
+- Maps: 1
+- Markers: 425
+- Updated: April 28, 2026
+
+## Need for Speed Unbound
+
+- URL: https://wandergamemap.com/maps/need-for-speed-unbound/
+- Maps: 1
+- Markers: 531
+- Updated: February 19, 2026
+
+## OCTOPATH TRAVELER
+
+- URL: https://wandergamemap.com/maps/octopath-traveler/
+- Maps: 1
+- Markers: 1,534
+- Updated: February 10, 2026
+
+## OCTOPATH TRAVELER II
+
+- URL: https://wandergamemap.com/maps/octopath-traveler-ii/
+- Maps: 1
+- Markers: 1,182
+- Updated: February 10, 2026
+
+## Soulmask
+
+- URL: https://wandergamemap.com/maps/soulmask/
+- Maps: 1
+- Markers: 723
+- Updated: May 25, 2026
+
+## The Forest
+
+- URL: https://wandergamemap.com/maps/the-forest/
+- Maps: 1
+- Markers: 694
+- Updated: April 29, 2026
+
+## Assassin's Creed Brotherhood
+
+- URL: https://wandergamemap.com/maps/assassins-creed-brotherhood/
+- Maps: 1
+- Markers: 546
+- Updated: February 19, 2026
+
+## Bully: Scholarship Edition
+
+- URL: https://wandergamemap.com/maps/bully-scholarship-edition/
+- Maps: 1
+- Markers: 613
+- Updated: February 10, 2026
+
+## Saints Row: The Third Remastered
+
+- URL: https://wandergamemap.com/maps/saints-row-the-third-remastered/
+- Maps: 1
+- Markers: 456
+- Updated: February 20, 2026
+
+## Red Dead Redemption
+
+- URL: https://wandergamemap.com/maps/red-dead-redemption/
+- Maps: 1
+- Markers: 355
+- Updated: April 28, 2026
+
+## STALKER 2: Heart of Chornobyl
+
+- URL: https://wandergamemap.com/maps/stalker-2-heart-of-chornobyl/
+- Maps: 1
+- Markers: 2,893
+- Updated: May 29, 2026
+
+## Slime Rancher
+
+- URL: https://wandergamemap.com/maps/slime-rancher/
+- Maps: 1
+- Markers: 282
+- Updated: February 5, 2026
+
+## Slime Rancher 2
+
+- URL: https://wandergamemap.com/maps/slime-rancher-2/
+- Maps: 1
+- Markers: 188
+- Updated: February 18, 2026
+
+## The Elder Scrolls V: Skyrim Special Edition
+
+- URL: https://wandergamemap.com/maps/the-elder-scrolls-v-skyrim-special-edition/
+- Maps: 1
+- Markers: 4,108
+- Updated: February 12, 2026
+
+## Tomb Raider
+
+- URL: https://wandergamemap.com/maps/tomb-raider/
+- Maps: 1
+- Markers: 339
+- Updated: May 18, 2026
+
+## Far Cry Primal
+
+- URL: https://wandergamemap.com/maps/far-cry-primal/
+- Maps: 1
+- Markers: 740
+- Updated: February 18, 2026
+
+## Yakuza 0 Director's Cut
+
+- URL: https://wandergamemap.com/maps/yakuza-0-directors-cut/
+- Maps: 1
+- Markers: 283
+- Updated: February 20, 2026
+
+## Assassin's Creed Mirage
+
+- URL: https://wandergamemap.com/maps/assassins-creed-mirage/
+- Maps: 1
+- Markers: 482
+- Updated: February 19, 2026
+
+## Grand Theft Auto: San Andreas - The Definitive Edition
+
+- URL: https://wandergamemap.com/maps/grand-theft-auto-san-andreas-the-definitive-edition/
+- Maps: 1
+- Markers: 1,412
+- Updated: March 3, 2026
+
+## Grand Theft Auto: Vice City - The Definitive Edition
+
+- URL: https://wandergamemap.com/maps/grand-theft-auto-vice-city-the-definitive-edition/
+- Maps: 1
+- Markers: 665
+- Updated: March 3, 2026
+
+## Grand Theft Auto III - The Definitive Edition
+
+- URL: https://wandergamemap.com/maps/grand-theft-auto-iii-the-definitive-edition/
+- Maps: 1
+- Markers: 381
+- Updated: March 3, 2026
+
+## Euro Truck Simulator 2
+
+- URL: https://wandergamemap.com/maps/euro-truck-simulator-2/
+- Maps: 1
+- Markers: 3,460
+- Updated: April 28, 2026
+
+## American Truck Simulator
+
+- URL: https://wandergamemap.com/maps/american-truck-simulator/
+- Maps: 1
+- Markers: 4,841
+- Updated: February 20, 2026
+
+## Fallout: New Vegas Ultimate Edition
+
+- URL: https://wandergamemap.com/maps/fallout-new-vegas-ultimate-edition/
+- Maps: 1
+- Markers: 541
+- Updated: April 15, 2026
+
+## Conan Exiles
+
+- URL: https://wandergamemap.com/maps/conan-exiles/
+- Maps: 1
+- Markers: 423
+- Updated: February 24, 2026
+
+## Kingdom Come: Deliverance II
+
+- URL: https://wandergamemap.com/maps/kingdom-come-deliverance-ii/
+- Maps: 1
+- Markers: 1,607
+- Updated: February 19, 2026
+
+## Sleeping Dogs: Definitive Edition
+
+- URL: https://wandergamemap.com/maps/sleeping-dogs-definitive-edition/
+- Maps: 1
+- Markers: 618
+- Updated: February 12, 2026
+
+## DYNASTY WARRIORS: ORIGINS
+
+- URL: https://wandergamemap.com/maps/dynasty-warriors-origins/
+- Maps: 1
+- Markers: 620
+- Updated: February 12, 2026
+
+## Marvel's Spider-Man 2
+
+- URL: https://wandergamemap.com/maps/marvels-spider-man-2/
+- Maps: 1
+- Markers: 591
+- Updated: April 28, 2026
+
+## Hello Kitty Island Adventure
+
+- URL: https://wandergamemap.com/maps/hello-kitty-island-adventure/
+- Maps: 1
+- Markers: 1,454
+- Updated: February 19, 2026
+
+## Ranch Simulator
+
+- URL: https://wandergamemap.com/maps/ranch-simulator/
+- Maps: 1
+- Markers: 36
+- Updated: February 19, 2026
+
+## Assassin's Creed Shadows
+
+- URL: https://wandergamemap.com/maps/assassins-creed-shadows/
+- Maps: 1
+- Markers: 1,461
+- Updated: February 20, 2026
+
+## Marvel's Spider-Man: Miles Morales
+
+- URL: https://wandergamemap.com/maps/marvels-spider-man-miles-morales/
+- Maps: 1
+- Markers: 205
+- Updated: May 14, 2026
+
+## Assassin's Creed Syndicate
+
+- URL: https://wandergamemap.com/maps/assassins-creed-syndicate/
+- Maps: 1
+- Markers: 937
+- Updated: February 18, 2026
+
+## The Elder Scrolls IV: Oblivion Remastered
+
+- URL: https://wandergamemap.com/maps/the-elder-scrolls-iv-oblivion-remastered/
+- Maps: 1
+- Markers: 1,636
+- Updated: February 12, 2026
+
+## Schedule I
+
+- URL: https://wandergamemap.com/maps/schedule-i/
+- Maps: 1
+- Markers: 243
+- Updated: May 28, 2026
+
+## RuneScape: Dragonwilds
+
+- URL: https://wandergamemap.com/maps/runescape-dragonwilds/
+- Maps: 1
+- Markers: 2,360
+- Updated: May 25, 2026
+
+## Clair Obscur: Expedition 33
+
+- URL: https://wandergamemap.com/maps/clair-obscur-expedition-33/
+- Maps: 1
+- Markers: 1,120
+- Updated: March 18, 2026
+
+## ELDEN RING NIGHTREIGN
+
+- URL: https://wandergamemap.com/maps/elden-ring-nightreign/
+- Maps: 1
+- Markers: 184
+- Updated: April 28, 2026
+
+## FANTASY LIFE i: The Girl Who Steals Time
+
+- URL: https://wandergamemap.com/maps/fantasy-life-i-the-girl-who-steals-time/
+- Maps: 1
+- Markers: 219
+- Updated: April 16, 2026
+
+## Myth of Empires
+
+- URL: https://wandergamemap.com/maps/myth-of-empires/
+- Maps: 1
+- Markers: 602
+- Updated: May 21, 2026
+
+## S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition
+
+- URL: https://wandergamemap.com/maps/stalker-clear-sky-enhanced-edition/
+- Maps: 1
+- Markers: 1,097
+- Updated: February 3, 2026
+
+## Marvel's Spider-Man Remastered
+
+- URL: https://wandergamemap.com/maps/marvels-spider-man-remastered/
+- Maps: 1
+- Markers: 382
+- Updated: May 28, 2026
+
+## Grounded
+
+- URL: https://wandergamemap.com/maps/grounded/
+- Maps: 1
+- Markers: 1,765
+- Updated: February 10, 2026
+
+## Resident Evil Village
+
+- URL: https://wandergamemap.com/maps/resident-evil-village/
+- Maps: 1
+- Markers: 774
+- Updated: February 19, 2026
+
+## Tales of the Shire: A The Lord of The Rings Game
+
+- URL: https://wandergamemap.com/maps/tales-of-the-shire-a-the-lord-of-the-rings-game/
+- Maps: 1
+- Markers: 250
+- Updated: February 19, 2026
+
+## Grounded 2
+
+- URL: https://wandergamemap.com/maps/grounded-2/
+- Maps: 1
+- Markers: 1,378
+- Updated: February 10, 2026
+
+## Mafia: The Old Country
+
+- URL: https://wandergamemap.com/maps/mafia-the-old-country/
+- Maps: 1
+- Markers: 393
+- Updated: February 19, 2026
+
+## Enshrouded
+
+- URL: https://wandergamemap.com/maps/enshrouded/
+- Maps: 1
+- Markers: 1,428
+- Updated: December 22, 2025
+
+## Forza Horizon 4
+
+- URL: https://wandergamemap.com/maps/forza-horizon-4/
+- Maps: 1
+- Markers: 545
+- Updated: May 11, 2026
+
+## Hollow Knight
+
+- URL: https://wandergamemap.com/maps/hollow-knight/
+- Maps: 1
+- Markers: 914
+- Updated: February 19, 2026
+
+## Hollow Knight: Silksong
+
+- URL: https://wandergamemap.com/maps/hollow-knight-silksong/
+- Maps: 1
+- Markers: 1,473
+- Updated: February 18, 2026
+
+## Metal Gear Solid V: TPP
+
+- URL: https://wandergamemap.com/maps/metal-gear-solid-v-tpp/
+- Maps: 1
+- Markers: 543
+- Updated: April 28, 2026
+
+## Borderlands 4
+
+- URL: https://wandergamemap.com/maps/borderlands-4/
+- Maps: 1
+- Markers: 1,507
+- Updated: March 17, 2026
+
+## Dying Light: The Beast
+
+- URL: https://wandergamemap.com/maps/dying-light-the-beast/
+- Maps: 1
+- Markers: 443
+- Updated: February 18, 2026
+
+## Stardew Valley
+
+- URL: https://wandergamemap.com/maps/stardew-valley/
+- Maps: 1
+- Markers: 422
+- Updated: February 18, 2026
+
+## Grand Theft Auto V Enhanced
+
+- URL: https://wandergamemap.com/maps/grand-theft-auto-v-enhanced/
+- Maps: 1
+- Markers: 1,024
+- Updated: February 20, 2026
+
+## 7 Days to Die
+
+- URL: https://wandergamemap.com/maps/7-days-to-die/
+- Maps: 1
+- Markers: 606
+- Updated: April 28, 2026
+
+## Vampire: The Masquerade - Bloodlines 2
+
+- URL: https://wandergamemap.com/maps/vampire-the-masquerade-bloodlines-2/
+- Maps: 1
+- Markers: 274
+- Updated: February 19, 2026
+
+## SurrounDead
+
+- URL: https://wandergamemap.com/maps/surroundead/
+- Maps: 1
+- Markers: 588
+- Updated: February 18, 2026
+
+## Where Winds Meet
+
+- URL: https://wandergamemap.com/maps/where-winds-meet/
+- Maps: 1
+- Markers: 3,994
+- Updated: April 6, 2026
+
+## OCTOPATH TRAVELER 0
+
+- URL: https://wandergamemap.com/maps/octopath-traveler-0/
+- Maps: 1
+- Markers: 1,909
+- Updated: February 20, 2026
+
+## Diablo IV
+
+- URL: https://wandergamemap.com/maps/diablo-iv/
+- Maps: 1
+- Markers: 2,746
+- Updated: February 19, 2026
+
+## StarRupture
+
+- URL: https://wandergamemap.com/maps/starrupture/
+- Maps: 1
+- Markers: 1,193
+- Updated: February 19, 2026
+
+## Arknights: Endfield
+
+- URL: https://wandergamemap.com/maps/arknights-endfield/
+- Maps: 1
+- Markers: 1,997
+- Updated: March 9, 2026
+
+## Maneater
+
+- URL: https://wandergamemap.com/maps/maneater/
+- Maps: 1
+- Markers: 520
+- Updated: March 3, 2026
+
+## No Rest for the Wicked
+
+- URL: https://wandergamemap.com/maps/no-rest-for-the-wicked/
+- Maps: 1
+- Markers: 1,248
+- Updated: April 28, 2026
+
+## ARK: Survival Ascended
+
+- URL: https://wandergamemap.com/maps/ark-survival-ascended/
+- Maps: 1
+- Markers: 641
+- Updated: March 23, 2026
+

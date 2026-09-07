@@ -303,7 +303,7 @@ const englishTextMap = new Map([
 ]);
 
 function translateText(value) {
-  const text = String(value ?? "").trim();
+  const text = String(value ?? "").replace(/[—–]/g, "-").trim();
   if (!text) return "";
   if (englishTextMap.has(text)) return englishTextMap.get(text);
   const countMatch = text.match(/^(.+?)\s*[xX]\s*(\d+)$/) || text.match(/^(.+?)\s+(\d+)x$/);
@@ -522,9 +522,9 @@ async function initHome() {
         if (activeFilter === "updated") return game.updated;
         return true;
       })
-      .filter((game) => game.title.toLowerCase().includes(query.toLowerCase()))
+      .filter((game) => displayText(game.title, "Game map").toLowerCase().includes(query.toLowerCase()))
       .sort((a, b) => {
-        if (activeFilter === "az") return a.title.localeCompare(b.title);
+        if (activeFilter === "az") return displayText(a.title, "Game map").localeCompare(displayText(b.title, "Game map"));
         return String(b.updatedAt || "").localeCompare(String(a.updatedAt || "")) || b.maps - a.maps;
       });
   }
@@ -533,20 +533,23 @@ async function initHome() {
     const items = filteredGames();
     grid.innerHTML = items
       .map(
-        (game) => `
+        (game) => {
+          const title = displayText(game.title, "Game map");
+          return `
           <a class="game-card" href="${game.href}">
             <div class="game-art" style="--art: ${safeCssImage(game.art, game.title)}">
               ${game.updated ? '<span class="updated-badge">New data</span>' : ""}
             </div>
             <div class="game-body">
-              <h3>${escapeHtml(game.title)}</h3>
+              <h3>${escapeHtml(title)}</h3>
               <div class="game-meta">${game.maps} maps - ${formatNumber(game.markerCount)} markers</div>
               <div class="capabilities">
                 <span class="capability">Marker list</span>
               </div>
             </div>
           </a>
-        `,
+        `;
+        },
       )
       .join("");
 
@@ -589,7 +592,7 @@ async function initOutboundList() {
       return `
         <a class="map-card" href="${basePath}/${map.slug}/">
           <div class="map-card-art" style="--art: ${safeCssImage(imagePath ? `url('${imagePath}')` : "", `${title}-${map.name}`)}">
-            ${imagePath ? `<img src="${escapeHtml(imagePath)}" alt="${escapeHtml(map.name)} ${escapeHtml(title)} marker map" />` : ""}
+              ${imagePath ? `<img src="${escapeHtml(imagePath)}" alt="${escapeHtml(map.name)} ${escapeHtml(title)} marker map" width="960" height="540" />` : ""}
           </div>
           <div class="map-card-body">
             <h3>${escapeHtml(displayText(map.name, "Map"))}</h3>
