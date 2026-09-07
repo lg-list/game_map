@@ -1,0 +1,61 @@
+name: Weekly SEO Growth Operator
+
+on:
+  schedule:
+    - cron: "0 1 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-seo-growth-operator
+  cancel-in-progress: false
+
+jobs:
+  weekly-seo:
+    runs-on: ubuntu-latest
+    env:
+      GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
+      GSC_PROPERTY: ${{ secrets.GSC_PROPERTY }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install SEO dependencies
+        run: python -m pip install -r requirements-seo.txt
+
+      - name: Run weekly SEO operator
+        run: python scripts/seo_operator.py weekly
+
+      - name: Upload SEO reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: weekly-seo-reports
+          path: |
+            seo/reports/**
+            seo/data/**
+            seo/outreach/**
+          if-no-files-found: warn
+
+      - name: Commit safe generated outputs
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add seo llms.txt llms-full.txt humans.txt okf robots.txt sitemap.xml pages index.html about contact privacy terms editorial-policy advertising-policy scripts
+            git commit -m "Weekly SEO Operator $(date -u +'%G-W%V')"
+            git push
+          else
+            echo "No SEO changes to commit."
+          fi
