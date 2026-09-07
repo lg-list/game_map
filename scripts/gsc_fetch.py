@@ -85,7 +85,7 @@ def fetch_dimension(service: Any, property_url: str, dimensions: list[str], days
 
 def main() -> int:
     ensure_dirs()
-    property_url = os.environ.get("GSC_PROPERTY", "https://wandergamemap.com/").strip()
+    property_url = os.environ.get("GSC_PROPERTY", "").strip() or "sc-domain:wandergamemap.com"
     current_week = week_id()
     out_dir = GSC_DATA_DIR / current_week
     try:
