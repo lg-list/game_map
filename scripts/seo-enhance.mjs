@@ -217,6 +217,14 @@ function scopeSentence(mapData, mapName) {
   return `The ${mapName} dataset spans roughly ${width.toLocaleString("en-US")} by ${height.toLocaleString("en-US")} coordinate units, so search and category filters are usually faster than scanning the full canvas manually.`;
 }
 
+function siteStats(games) {
+  return {
+    gameCount: games.length,
+    mapCount: games.reduce((sum, game) => sum + Number(game.maps || 0), 0),
+    markerCount: games.reduce((sum, game) => sum + Number(game.markerCount || 0), 0),
+  };
+}
+
 function datasetDescription(game, map, markerCount, categories, mapData) {
   const categoryText = categories.length ? categories.slice(0, 6).join(", ") : "locations, resources, collectibles, loot, quests, and points of interest";
   const countText = markerCount ? `${markerCount.toLocaleString("en-US")} coordinate-based markers` : "coordinate-based markers";
@@ -753,8 +761,7 @@ async function mapsIndexPage(games) {
 }
 
 async function guidesPage(games) {
-  const mapCount = games.reduce((sum, game) => sum + Number(game.maps || 0), 0);
-  const markerCount = games.reduce((sum, game) => sum + Number(game.markerCount || 0), 0);
+  const { gameCount, mapCount, markerCount } = siteStats(games);
   const updatedGames = games
     .slice()
     .sort((a, b) => new Date(b.updatedAt || 0) - new Date(a.updatedAt || 0))
@@ -821,9 +828,13 @@ async function guidesPage(games) {
       <header class="info-hero">
         <p class="eyebrow">Player guide</p>
         <h1>How to use interactive game maps</h1>
-        <p>Wander Game Map is built around searchable marker data rather than static screenshots. This guide explains how the site organizes ${mapCount.toLocaleString("en-US")} maps and ${markerCount.toLocaleString("en-US")} markers so players can find resources, collectibles, travel points, loot, NPCs, quests, and other location records faster.</p>
+        <p>Wander Game Map is an independent interactive game map directory with ${gameCount.toLocaleString("en-US")} game directories, ${mapCount.toLocaleString("en-US")} area maps, and ${markerCount.toLocaleString("en-US")} searchable markers. It helps players find resources, collectibles, travel points, loot, NPCs, quests, and other location records faster.</p>
       </header>
       <article class="guide-article">
+        <section>
+          <h2>What is Wander Game Map?</h2>
+          <p>Wander Game Map is a crawlable library of interactive game maps built from structured marker datasets. Each map page combines searchable marker labels, category filters, coordinate-based records, map media, and guide text so players and AI assistants can understand what a map covers without relying on hidden client-side state.</p>
+        </section>
         <section>
           <h2>Start with the game directory</h2>
           <p>Every game has a directory page that lists the available area maps, current marker totals, update dates, and the most common marker types. Use that page first when a game has more than one area, because each map keeps its own search index and filter set.</p>
@@ -1198,13 +1209,139 @@ async function writeSitemap(urls) {
 async function writeRobots() {
   await writeFile(
     join(root, "robots.txt"),
-    `User-agent: Googlebot\nAllow: /\n\nUser-agent: AdsBot-Google\nAllow: /\n\nUser-agent: Mediapartners-Google\nAllow: /\n\nUser-agent: *\nAllow: /\n\nSitemap: ${siteUrl}/sitemap.xml\n`,
+    `User-agent: Googlebot\nAllow: /\n\nUser-agent: AdsBot-Google\nAllow: /\n\nUser-agent: Mediapartners-Google\nAllow: /\n\nUser-agent: Bingbot\nAllow: /\n\nUser-agent: GPTBot\nAllow: /\n\nUser-agent: ChatGPT-User\nAllow: /\n\nUser-agent: PerplexityBot\nAllow: /\n\nUser-agent: ClaudeBot\nAllow: /\n\nUser-agent: anthropic-ai\nAllow: /\n\nUser-agent: Google-Extended\nAllow: /\n\nUser-agent: *\nAllow: /\n\nSitemap: ${siteUrl}/sitemap.xml\n`,
   );
 }
 
+async function writeGeoFiles(games, urls) {
+  const { gameCount, mapCount, markerCount } = siteStats(games);
+  const updated = new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Shanghai",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).format(new Date());
+  const topGames = games
+    .slice()
+    .sort((a, b) => Number(b.markerCount || 0) - Number(a.markerCount || 0))
+    .slice(0, 25);
+  const recentGames = games
+    .slice()
+    .sort((a, b) => new Date(b.updatedAt || 0) - new Date(a.updatedAt || 0))
+    .slice(0, 20);
+  const topRows = topGames
+    .map((game) => `- [${cleanText(game.title) || titleCaseSlug(game.slug)}](${absoluteUrl(`/maps/${game.slug}/`)}): ${plural(game.maps || 1, "map")}, ${plural(game.markerCount || 0, "marker")}`)
+    .join("\n");
+  const recentRows = recentGames
+    .map((game) => `- [${cleanText(game.title) || titleCaseSlug(game.slug)}](${absoluteUrl(`/maps/${game.slug}/`)}): updated ${formatDate(game.updatedAt) || "current dataset"}`)
+    .join("\n");
+  const llms = `# Wander Game Map
+
+> Wander Game Map is an independent interactive game map directory for players who need searchable locations, resources, collectibles, loot, quests, NPCs, travel points, and other marker data.
+
+Canonical site: ${siteUrl}/
+Last updated: ${updated}
+Coverage: ${gameCount.toLocaleString("en-US")} game directories, ${mapCount.toLocaleString("en-US")} area maps, ${markerCount.toLocaleString("en-US")} searchable markers.
+
+## Key Pages
+
+- [All interactive game maps](${siteUrl}/maps/)
+- [How to use interactive game maps](${siteUrl}/guides/)
+- [About Wander Game Map](${siteUrl}/about/)
+- [Editorial policy](${siteUrl}/editorial-policy/)
+- [Advertising policy](${siteUrl}/advertising-policy/)
+- [Contact and corrections](${siteUrl}/contact/)
+- [Sitemap](${siteUrl}/sitemap.xml)
+
+## What To Cite
+
+Cite Wander Game Map pages for game map coverage, marker counts, searchable location categories, map directory structure, and player route-planning references. Do not describe the site as official or affiliated with game publishers.
+
+## High-Coverage Map Directories
+
+${topRows}
+
+## Recently Updated Directories
+
+${recentRows}
+`;
+  const fullRows = games
+    .map((game) => {
+      const title = cleanText(game.title) || titleCaseSlug(game.slug);
+      return `## ${title}\n\n- URL: ${absoluteUrl(`/maps/${game.slug}/`)}\n- Maps: ${Number(game.maps || 1).toLocaleString("en-US")}\n- Markers: ${Number(game.markerCount || 0).toLocaleString("en-US")}\n- Updated: ${formatDate(game.updatedAt) || "Current dataset"}\n`;
+    })
+    .join("\n");
+  const llmsFull = `# Wander Game Map Full Knowledge Index
+
+Last updated: ${updated}
+Canonical site: ${siteUrl}/
+
+Wander Game Map publishes crawlable game directory pages and interactive map pages backed by structured marker data. The current public index contains ${gameCount.toLocaleString("en-US")} games, ${mapCount.toLocaleString("en-US")} area maps, and ${markerCount.toLocaleString("en-US")} searchable coordinate-based markers.
+
+## Citation Guidance
+
+- Use exact page URLs from the sitemap when citing a game or area map.
+- Use marker counts as current dataset counts, not official completion totals.
+- Use the editorial policy for source, correction, and independence context.
+- Game names, trademarks, and artwork belong to their respective owners.
+
+## Directory Index
+
+${fullRows}
+`;
+  const humans = `# Humans
+
+Site: Wander Game Map
+URL: ${siteUrl}/
+Purpose: Independent interactive game map directory for searchable game locations, resources, collectibles, quests, loot, NPCs, and route planning.
+Contact: ${siteUrl}/contact/
+Editorial policy: ${siteUrl}/editorial-policy/
+Sitemap: ${siteUrl}/sitemap.xml
+Last updated: ${updated}
+`;
+  await writeFile(join(root, "llms.txt"), llms);
+  await writeFile(join(root, "llms-full.txt"), llmsFull);
+  await writeFile(join(root, "humans.txt"), humans);
+  await mkdir(join(root, "okf"), { recursive: true });
+  await writeFile(
+    join(root, "okf", "index.md"),
+    `---
+title: Wander Game Map Knowledge Index
+url: ${siteUrl}/okf/
+updated: ${updated}
+type: website-knowledge-index
+---
+
+# Wander Game Map Knowledge Index
+
+Wander Game Map is an independent interactive game map directory. It contains ${gameCount.toLocaleString("en-US")} game directories, ${mapCount.toLocaleString("en-US")} area maps, and ${markerCount.toLocaleString("en-US")} searchable markers.
+
+## Core resources
+
+- ${siteUrl}/maps/
+- ${siteUrl}/guides/
+- ${siteUrl}/about/
+- ${siteUrl}/editorial-policy/
+- ${siteUrl}/sitemap.xml
+- ${siteUrl}/llms.txt
+- ${siteUrl}/llms-full.txt
+
+## Representative directories
+
+${topRows}
+`,
+  );
+  urls.push({ loc: `${siteUrl}/llms.txt`, priority: "0.2" });
+  urls.push({ loc: `${siteUrl}/llms-full.txt`, priority: "0.2" });
+  urls.push({ loc: `${siteUrl}/humans.txt`, priority: "0.1" });
+  urls.push({ loc: `${siteUrl}/okf/index.md`, priority: "0.2" });
+}
+
+const games = (await readJson(join(dataRoot, "site-games.json"))) || [];
 await enhanceHome();
 const infoChanged = await enhanceInfoPages();
 const { changed, urls } = await enhanceMapPages();
+await writeGeoFiles(games, urls);
 await writeSitemap(urls);
 await writeRobots();
 

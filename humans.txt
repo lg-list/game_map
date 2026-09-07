@@ -1,0 +1,9 @@
+# Humans
+
+Site: Wander Game Map
+URL: https://wandergamemap.com/
+Purpose: Independent interactive game map directory for searchable game locations, resources, collectibles, quests, loot, NPCs, and route planning.
+Contact: https://wandergamemap.com/contact/
+Editorial policy: https://wandergamemap.com/editorial-policy/
+Sitemap: https://wandergamemap.com/sitemap.xml
+Last updated: 2026-09-07
