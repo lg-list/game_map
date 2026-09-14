@@ -6,4 +6,4 @@ Purpose: Independent interactive game map directory for searchable game location
 Contact: https://wandergamemap.com/contact/
 Editorial policy: https://wandergamemap.com/editorial-policy/
 Sitemap: https://wandergamemap.com/sitemap.xml
-Last updated: 2026-09-07
+Last updated: 2026-09-14

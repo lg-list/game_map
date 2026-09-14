@@ -3,7 +3,7 @@
 > Wander Game Map is an independent interactive game map directory for players who need searchable locations, resources, collectibles, loot, quests, NPCs, travel points, and other marker data.
 
 Canonical site: https://wandergamemap.com/
-Last updated: 2026-09-07
+Last updated: 2026-09-14
 Coverage: 105 game directories, 112 area maps, 143,571 searchable markers.
 
 ## Key Pages

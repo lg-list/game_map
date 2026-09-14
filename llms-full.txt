@@ -1,6 +1,6 @@
 # Wander Game Map Full Knowledge Index
 
-Last updated: 2026-09-07
+Last updated: 2026-09-14
 Canonical site: https://wandergamemap.com/
 
 Wander Game Map publishes crawlable game directory pages and interactive map pages backed by structured marker data. The current public index contains 105 games, 112 area maps, and 143,571 searchable coordinate-based markers.
