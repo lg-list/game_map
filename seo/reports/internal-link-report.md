@@ -1,6 +1,6 @@
 # Internal Link Report
 
-Generated: 2026-11-02
+Generated: 2026-11-09
 
 Reviewed sitemap URLs: 230
 
