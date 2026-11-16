@@ -1,7 +1,7 @@
 ---
 title: Wander Game Map Knowledge Index
 url: https://wandergamemap.com/okf/
-updated: 2026-11-09
+updated: 2026-11-16
 type: website-knowledge-index
 ---
 
